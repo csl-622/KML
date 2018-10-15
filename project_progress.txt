@@ -1,0 +1,19 @@
+============================================================================================
+=====================================Project Progress=======================================
+============================================================================================
+
+Push 1
+======
+
+Encoder.py
+
+We built a simple version control using a naive algorithm
+we can now store all the versions of an article by storing 
+only the original article and an additinal file which has
+datasturctures to represent every edit.
+
+Decoder.py
+
+Using the original article and the file containing data-
+structures for the revisions we can generate any asked
+version of the article which is printed on the screen.
