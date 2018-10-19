@@ -4,6 +4,10 @@ s = f.read().split()
 f2 = open("revision")
 tmp = f2.read().split("\n")
 
+if len(tmp) == 1:
+	print("No revisions found, generate revisions from decoder.py first")
+	exit()
+
 n = int(input(str(len(tmp)-1)+" Revisons found, enter the revision number to be loaded: "))
 
 
