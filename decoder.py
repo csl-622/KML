@@ -1,5 +1,5 @@
 f = open("article.txt")
-s = f.read().split()
+s = f.read().split(" ")
 
 f2 = open("revision")
 tmp = f2.read().split("\n")
@@ -20,10 +20,12 @@ for x in s2:
 		for i in range(index, index+int(x)):
 			print(s[i], end=" ")
 			index += 1
+	elif x[0] == "'" and x[-1] == "'" and x[1:-1].isdigit():
+			print(x[1:-1].replace("`", "\n").replace("~", "-"), end=" ")				 
 	else:
 		if x[0] == '-':
 			for i in range(index, index+int(x[1:])):
 				index += 1
 		else:
-			print(x, end=" ")		
+			print(x.replace("`", "\n").replace("~", "-"), end=" ")		
 print("")				
