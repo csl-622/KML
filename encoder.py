@@ -1,13 +1,20 @@
 import difflib
 
+def is_number(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
 def encode(fname1, fname2):
 	f = open(fname1)
-	s = f.read().split()
-	#print(s)
+	s = [x.replace("\n", "`").replace("-", "~") for x in f.read().split(" ")]
+#	print(s)
 
 	f2 = open(fname2)
-	s2 = f2.read().split()
-	#print(s2)
+	s2 = [x.replace("\n", "`").replace("-", "~") for x in f2.read().split(" ")]
+#	print(s2)
 
 	f3 = open("revision", "a")
 
@@ -15,7 +22,7 @@ def encode(fname1, fname2):
 
 	result = list(d.compare(s, s2))
 
-	#print(result)
+#	print(result)
 
 
 	pos = 0
@@ -32,14 +39,17 @@ def encode(fname1, fname2):
 			if pos != 0:
 				f3.write(str(pos)+" ")
 				pos = 0	
-		else:
+		elif x[0] != "?":
 			if pos != 0:
 				f3.write(str(pos)+" ")
 				pos = 0	
 			if neg != 0:
 				f3.write("-"+str(neg)+" ")
 				neg = 0
-			f3.write(x[2:]+" ")
+			if is_number(x[2:]):
+				f3.write("'"+x[2:]+"' ")
+			else:			
+				f3.write(x[2:]+" ")
 	if pos != 0:
 		f3.write(str(pos)+" ")
 	if neg != 0:
@@ -51,12 +61,13 @@ def encode(fname1, fname2):
 
 #Main function
 flag = 1
-while(flag == 1):
+while(True):
 	print("1. Add revisions")
 	print("2. Clean revision file")
 	choice = int(input("Select an operation: "))
 	if choice == 1:
-		fname1 = input("Enter path of original file: ")
+#		fname1 =  input("Enter path of Original file: ")
+		fname1 = "article.txt"
 		fname2 =  input("Enter path of Edited file: ")
 		encode(fname1, fname2)	
 		f_tmp = open("revision")
@@ -67,4 +78,3 @@ while(flag == 1):
 		f_tmp = open("revision", "w")
 		f_tmp.write("")
 		f_tmp.close()
-	flag = int(input("Press 1 to continue or 0 to exit: "))				
