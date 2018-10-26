@@ -1,4 +1,5 @@
 import difflib
+import xml.etree.ElementTree as ET
 
 def is_number(s):
     try:
@@ -7,24 +8,34 @@ def is_number(s):
     except ValueError:
         return False
 
-def encode(fname1, fname2):
-	f = open(fname1)
-	s = [x.replace("\n", "`").replace("-", "~") for x in f.read().split(" ")]
+def encode(str1, str2, f3):
+	s = [x.replace("\n", "`").replace("-", "~") for x in str1.split(" ")]
 #	print(s)
 
-	f2 = open(fname2)
-	s2 = [x.replace("\n", "`").replace("-", "~") for x in f2.read().split(" ")]
+	s2 = [x.replace("\n", "`").replace("-", "~") for x in str2.split(" ")]
 #	print(s2)
-
-	f3 = open("revision", "a")
-
+	i = 0
+	while(True):
+		if i == len(s):
+			break;
+		if s[i].isspace() or s[i] == '':
+			del s[i]
+		else:	
+			i += 1	
+	i = 0
+	while(True):
+		if i == len(s2):
+			break;
+		if s2[i].isspace() or s2[i] == '':
+			del s2[i]
+		else:	
+			i += 1	
+			
 	d = difflib.Differ()
 
 	result = list(d.compare(s, s2))
 
 #	print(result)
-
-
 	pos = 0
 	neg = 0
 
@@ -55,26 +66,38 @@ def encode(fname1, fname2):
 	if neg != 0:
 		f3.write("-"+str(neg)+" ")
 	f3.write("\n")
-	f.close()
-	f2.close()
-	f3.close()
 
 #Main function
-flag = 1
-while(True):
-	print("1. Add revisions")
-	print("2. Clean revision file")
-	choice = int(input("Select an operation: "))
-	if choice == 1:
-#		fname1 =  input("Enter path of Original file: ")
-		fname1 = "article.txt"
-		fname2 =  input("Enter path of Edited file: ")
-		encode(fname1, fname2)	
-		f_tmp = open("revision")
-		print("Contents of revision file")
-		print(f_tmp.read())
-		f_tmp.close()
+
+#Parsing
+ET._namespace_map['http://www.mediawiki.org/xml/export-0.10/'] = ''
+ET._namespace_map['http://www.w3.org/2001/XMLSchema-instance'] = 'xsi'
+tree = ET.parse('Indian Institute of Technology Ropar.xml')
+root = tree.getroot()
+
+count = 1
+str1 = " "
+str_array = []
+length = len(root[1].findall('{http://www.mediawiki.org/xml/export-0.10/}revision'))
+
+for i in root[1].findall('{http://www.mediawiki.org/xml/export-0.10/}revision'):
+	if count == length:
+		str1 = ET.tostring(i).decode("utf-8")
 	else:
-		f_tmp = open("revision", "w")
-		f_tmp.write("")
-		f_tmp.close()
+		str_array.append(ET.tostring(i).decode("utf-8"))			
+	root[1].remove(i)
+	count += 1
+
+root[1].append(ET.fromstring(str1))
+tree.write('latest.xml')
+
+#write revision one by one to revision file
+f3 = open("revision", "w")
+
+count = 0
+for str2 in str_array:
+	encode(str1, str2, f3)
+	count += 1
+	print("Revision ", count, " written")	
+
+f3.close()
