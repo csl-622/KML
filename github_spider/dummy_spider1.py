@@ -2,6 +2,9 @@ import scrapy
 
 f = open('haha.txt', "w")
 
+# 'https://github.com/jquery/jquery/commits/master',
+# 'https://github.com/codeschool-projects/HelloCodeSchoolProject/commits/master'
+
 class DummySpider(scrapy.Spider):
     name = "dummy"
     start_urls = [
