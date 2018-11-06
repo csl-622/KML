@@ -8,7 +8,7 @@ f = open('haha.txt', "w")
 class DummySpider(scrapy.Spider):
     name = "dummy"
     start_urls = [
-        'https://github.com/jquery/jquery/commits/master',
+        'https://github.com/codeschool-projects/HelloCodeSchoolProject/commits/master'
     ]
     download_delay = 0.05
 
@@ -28,10 +28,10 @@ class DummySpider(scrapy.Spider):
             rel_url = listitem.xpath('div/div/a/@href').extract_first()
             complete_url = response.urljoin(rel_url)
             yield {
-                'about': listitem.xpath('div/p/a/text()').extract_first(),
-                'author': listitem.xpath('div/div/div/a/text()').extract_first(),
-                'datetime': listitem.xpath('div/div/div/relative-time/@datetime').extract_first(),
-                'url': complete_url,
+                'RevisionId': complete_url,
+                'TimeStamp': listitem.xpath('div/div/div/relative-time/@datetime').extract_first(),
+                'Contributors': listitem.xpath('div/div/div/a/text()').extract_first(),
+                'EditDetails': listitem.xpath('div/p/a/text()').extract_first(),
             }
             f.write(complete_url + '\n')
             #response.follow(rel_url, self.doit)
