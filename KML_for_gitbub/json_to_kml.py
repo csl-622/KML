@@ -1,26 +1,29 @@
 import dicttoxml
 from xml.dom.minidom import parseString
 
-d1 = [ {"about": "Merge pull request", "author": "EricJFisher", "datetime": "2016-12-09T20:49:33Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/c1174ac7d251ff47c90ae1790671931a1ccd0e4e"},
-{"about": "Corrected Project URL in Readme.md", "author": "EricJFisher", "datetime": "2016-12-09T20:43:01Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/85aacdf63da45f29058e16cce9df5ed22a4e10cf"},
-{"about": "Merge pull request", "author": "adamfortuna", "datetime": "2016-12-08T20:28:29Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/a4b0f0a0b9aab0c6f52dbe3f3f7c6ccb047d5202"},
-{"about": "Change assertion message for task 1", "author": "eibt", "datetime": "2016-12-08T16:19:46Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/7b7f648ce798fcc33a3346d1a2c0f19472a03cb6"},
-{"about": "Update README.md", "author": "adamfortuna", "datetime": "2016-12-08T14:40:13Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/3ab48d7b1ea110e0d8158109989dadedc335d121"},
-{"about": "Update README.md", "author": "adamfortuna", "datetime": "2016-12-08T14:36:51Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/b6e3af9955786543d2fab07ae415d8085cdbb31e"},
-{"about": "Update LICENSE.txt", "author": "adamfortuna", "datetime": "2016-11-02T16:30:33Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/ff77f689b8e3cc994696e9d5e0ba32b582bc2d08"},
-{"about": "Create LICENSE.txt", "author": "adamfortuna", "datetime": "2016-11-02T16:28:53Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/84d1515f84d7ae92e0b164b2822321591b03d9ed"},
-{"about": "Updated task 1 to reflect state of the HTML", "author": "adamfortuna", "datetime": "2016-10-24T15:06:54Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/8ac62660b2d98c7ab5ea90cc36b151441149881a"},
-{"about": "Added screenshot with finished example", "author": "adamfortuna", "datetime": "2016-10-24T15:06:43Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/4f517f568d9e44a962af83c4da5c45bf3c49905f"},
-{"about": "Updated tests to include tagging and add error messages", "author": "adamfortuna", "datetime": "2016-08-30T11:55:30Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/8cd39c6e172383f187c0a5fbd664e08882f88139"},
-{"about": "Initial commit", "author": "drewbarontini", "datetime": "2016-08-15T12:44:16Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/ab1f82a44130db040438c36f10135fa130b85ba8"},
-{"about": "Corrected Demo location and bad link", "author": "EricJFisher", "datetime": "2016-12-09T21:04:29Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/bd34099cd06fd1de7ca6ece607781d5d8ba1257e"},
-{"about": "Merge pull request", "author": "EricJFisher", "datetime": "2016-12-09T20:49:47Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/7e726e36c2321696378c205389f52a768c5c1637"},
-{"about": "Corrected project Url in Readme.md and branch name", "author": "EricJFisher", "datetime": "2016-12-09T20:44:55Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/55f99331dff2ac0d0cd5f30a7ddbc63bf7883e3d"},
-{"about": "Added example answer", "author": "adamfortuna", "datetime": "2016-10-24T15:07:31Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/cb8f3b19843e32e2b0549cf7308c68f567993692"},
-{"about": "Updated task 1 to reflect state of the HTML", "author": "adamfortuna", "datetime": "2016-10-24T15:06:54Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/8ac62660b2d98c7ab5ea90cc36b151441149881a"},
-{"about": "Added screenshot with finished example", "author": "adamfortuna", "datetime": "2016-10-24T15:06:43Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/4f517f568d9e44a962af83c4da5c45bf3c49905f"},
-{"about": "Updated tests to include tagging and add error messages", "author": "adamfortuna", "datetime": "2016-08-30T11:55:30Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/8cd39c6e172383f187c0a5fbd664e08882f88139"},
-{"about": "Initial commit", "author": "drewbarontini", "datetime": "2016-08-15T12:44:16Z", "url": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/ab1f82a44130db040438c36f10135fa130b85ba8"} ]
+d1 = [
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/c1174ac7d251ff47c90ae1790671931a1ccd0e4e", "TimeStamp": "2016-12-09T20:49:33Z", "Contributors": "EricJFisher", "EditDetails": "Merge pull request"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/85aacdf63da45f29058e16cce9df5ed22a4e10cf", "TimeStamp": "2016-12-09T20:43:01Z", "Contributors": "EricJFisher", "EditDetails": "Corrected Project URL in Readme.md"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/a4b0f0a0b9aab0c6f52dbe3f3f7c6ccb047d5202", "TimeStamp": "2016-12-08T20:28:29Z", "Contributors": "adamfortuna", "EditDetails": "Merge pull request"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/7b7f648ce798fcc33a3346d1a2c0f19472a03cb6", "TimeStamp": "2016-12-08T16:19:46Z", "Contributors": "eibt", "EditDetails": "Change assertion message for task 1"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/3ab48d7b1ea110e0d8158109989dadedc335d121", "TimeStamp": "2016-12-08T14:40:13Z", "Contributors": "adamfortuna", "EditDetails": "Update README.md"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/b6e3af9955786543d2fab07ae415d8085cdbb31e", "TimeStamp": "2016-12-08T14:36:51Z", "Contributors": "adamfortuna", "EditDetails": "Update README.md"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/ff77f689b8e3cc994696e9d5e0ba32b582bc2d08", "TimeStamp": "2016-11-02T16:30:33Z", "Contributors": "adamfortuna", "EditDetails": "Update LICENSE.txt"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/84d1515f84d7ae92e0b164b2822321591b03d9ed", "TimeStamp": "2016-11-02T16:28:53Z", "Contributors": "adamfortuna", "EditDetails": "Create LICENSE.txt"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/8ac62660b2d98c7ab5ea90cc36b151441149881a", "TimeStamp": "2016-10-24T15:06:54Z", "Contributors": "adamfortuna", "EditDetails": "Updated task 1 to reflect state of the HTML"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/4f517f568d9e44a962af83c4da5c45bf3c49905f", "TimeStamp": "2016-10-24T15:06:43Z", "Contributors": "adamfortuna", "EditDetails": "Added screenshot with finished example"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/8cd39c6e172383f187c0a5fbd664e08882f88139", "TimeStamp": "2016-08-30T11:55:30Z", "Contributors": "adamfortuna", "EditDetails": "Updated tests to include tagging and add error messages"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/ab1f82a44130db040438c36f10135fa130b85ba8", "TimeStamp": "2016-08-15T12:44:16Z", "Contributors": "drewbarontini", "EditDetails": "Initial commit"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/bd34099cd06fd1de7ca6ece607781d5d8ba1257e", "TimeStamp": "2016-12-09T21:04:29Z", "Contributors": "EricJFisher", "EditDetails": "Corrected Demo location and bad link"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/7e726e36c2321696378c205389f52a768c5c1637", "TimeStamp": "2016-12-09T20:49:47Z", "Contributors": "EricJFisher", "EditDetails": "Merge pull request"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/55f99331dff2ac0d0cd5f30a7ddbc63bf7883e3d", "TimeStamp": "2016-12-09T20:44:55Z", "Contributors": "EricJFisher", "EditDetails": "Corrected project Url in Readme.md and branch name"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/cb8f3b19843e32e2b0549cf7308c68f567993692", "TimeStamp": "2016-10-24T15:07:31Z", "Contributors": "adamfortuna", "EditDetails": "Added example answer"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/8ac62660b2d98c7ab5ea90cc36b151441149881a", "TimeStamp": "2016-10-24T15:06:54Z", "Contributors": "adamfortuna", "EditDetails": "Updated task 1 to reflect state of the HTML"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/4f517f568d9e44a962af83c4da5c45bf3c49905f", "TimeStamp": "2016-10-24T15:06:43Z", "Contributors": "adamfortuna", "EditDetails": "Added screenshot with finished example"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/8cd39c6e172383f187c0a5fbd664e08882f88139", "TimeStamp": "2016-08-30T11:55:30Z", "Contributors": "adamfortuna", "EditDetails": "Updated tests to include tagging and add error messages"},
+{"RevisionId": "https://github.com/codeschool-projects/HelloCodeSchoolProject/commit/ab1f82a44130db040438c36f10135fa130b85ba8", "TimeStamp": "2016-08-15T12:44:16Z", "Contributors": "drewbarontini", "EditDetails": "Initial commit"}
+]
+
 
 d2 = [ {"dictionary": {"test/index_test.js": "assert equal window $ title length 1 Make sure to create a `title` element. it should have a title   @title function it should have a title   @title function assert notEqual window $ title text Make sure to set the content of the `title` element to your Code School username. ", "count": 1}},
 {"dictionary": {"README.md": "Setup Git [ How to Setup Git for Code School Projects in 5 Minutes ](#) Git ", "count": 1}},
@@ -46,11 +49,25 @@ d2 = [ {"dictionary": {"test/index_test.js": "assert equal window $ title length
 d = []
 
 for (x, y) in zip(d1, d2):
-	tmp = {**x, **y}
+	z = {}
+	tmp_str = str(str(y["dictionary"]).encode('utf-8'))
+	z["body"] = tmp_str[tmp_str.find("{"):tmp_str.rfind("}")+1]
+	tmp = {**x, **z}
 	d.append(tmp)
 
-xml = dicttoxml.dicttoxml(d)
+D = {}
+D["KnowledgeData"] = d
+
+DD = {}
+DD["KML"] = D
+
+my_item_func = lambda x: 'Instance'
+
+xml = dicttoxml.dicttoxml(DD, attr_type=False, root=False, item_func=my_item_func)
 
 dom = parseString(xml)
 
-print(dom.toprettyxml())
+f = open("sample_output.KML", "w")
+
+f.write(str(dom.toprettyxml()))
+print("sample_output.KML created")
