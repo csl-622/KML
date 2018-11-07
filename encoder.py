@@ -70,26 +70,36 @@ def encode(str1, str2, f3):
 #Main function
 
 #Parsing
-ET._namespace_map['http://www.mediawiki.org/xml/export-0.10/'] = ''
-ET._namespace_map['http://www.w3.org/2001/XMLSchema-instance'] = 'xsi'
-tree = ET.parse('Indian Institute of Technology Ropar.xml')
+#ET._namespace_map['http://www.mediawiki.org/xml/export-0.10/'] = ''
+#ET._namespace_map['http://www.w3.org/2001/XMLSchema-instance'] = 'xsi'
+tree = ET.parse('IIT.kml')
 root = tree.getroot()
 
 count = 1
 str1 = " "
 str_array = []
-length = len(root[1].findall('{http://www.mediawiki.org/xml/export-0.10/}revision'))
+length = len(root[0].findall('Instance'))
 
-for i in root[1].findall('{http://www.mediawiki.org/xml/export-0.10/}revision'):
+print(length, " revisions found")
+
+for i in root[0].findall('Instance'):
 	if count == length:
 		str1 = ET.tostring(i).decode("utf-8")
 	else:
 		str_array.append(ET.tostring(i).decode("utf-8"))			
-	root[1].remove(i)
+	root[0].remove(i)
 	count += 1
 
-root[1].append(ET.fromstring(str1))
-tree.write('latest.xml')
+root[0].append(ET.fromstring(str1))
+
+tree.write('latest.kml')
+f = open('latest.kml')
+f_str = f.read()
+f.close()
+
+f2 = open('latest.kml', "w")
+f2.write("<?xml version='1.0' encoding='utf-8'?>\n"+f_str)
+f2.close()
 
 #write revision one by one to revision file
 f3 = open("revision", "w")
