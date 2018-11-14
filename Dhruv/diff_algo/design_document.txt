@@ -1,0 +1,45 @@
+============================================================================================
+=====================================Project Progress=======================================
+============================================================================================
+
+Encoder.py
+==========
+
+This program accurately detects the changes between two text
+files and then appends these changes to revision file. You 
+can add multiple revisions, clean the revisions and see the
+contents of revision file on terminal.
+
+Decoder.py
+==========
+
+Using the original article and the revision file containing 
+datastructures for the revisions we can generate any asked
+version of the article which is printed on the terminal.
+
+Files used
+==========
+article.txt: Original article
+edit1.txt: First edited version of article.txt
+edit2.txt: Second edited version of article.txt
+edit3.txt: Third edited version of article.txt
+revision: Stores the compressed form of revisions
+
+How to test the code
+====================
+Note: You the file name for original article is hard-coded to be
+article.txt for convinience of running the program.
+
+We have initially 4 files article.txt, edit1.txt, edit2.txt, edit3.txt
+
+We will then use encoder.py to store the edits in compressed form
+in the revision file. First run the script, you would be given two
+options either to add a revision or clean the revisions. If you are
+using it for first time clean all the revisions by entering 2.
+Then you can add revisions by selecting first option and entering the
+file name of edit for example edit1.txt.
+
+Then we will use decoder.py to get readable form of articles using the
+revision file and the original article. When you run the file, you
+would be given the number of revisions present in the revision file.
+you can select the nth revision by entering n.
