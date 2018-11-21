@@ -1,0 +1,56 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="KML">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="KnowledgeData">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Instance">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:int" name="RevisionId"/>
+                    <xs:element type="xs:int" name="ParentId"/>
+                    <xs:element name="TimeStamp">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:dateTime" name="CreationDate"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Contributors">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="LastEditorUserName"/>
+                          <xs:element type="xs:int" name="LastEditorUserId"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:string" name="EditDetails"/>
+                    <xs:element name="Body">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Text">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:string">
+                                  <xs:attribute type="xs:string" name="Type"/>
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute type="xs:short" name="Id"/>
+                  <xs:attribute type="xs:string" name="InstanceType"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="Type"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
