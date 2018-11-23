@@ -95,6 +95,6 @@ f = open('compressed.kml')
 f_str = f.read()
 f.close()
 
-f2 = open('latest.kml', "w")
+f2 = open('compressed.kml', "w")
 f2.write("<?xml version='1.0' encoding='utf-8'?>\n"+f_str)
 f2.close()
