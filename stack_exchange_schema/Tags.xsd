@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="posts">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="row"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="row">
+    <xs:complexType>
+      <xs:attribute name="AcceptedAnswerId" type="xs:integer"/>
+      <xs:attribute name="AnswerCount" type="xs:integer"/>
+      <xs:attribute name="Body" use="required"/>
+      <xs:attribute name="ClosedDate" type="xs:NMTOKEN"/>
+      <xs:attribute name="CommentCount" use="required" type="xs:integer"/>
+      <xs:attribute name="CommunityOwnedDate" type="xs:NMTOKEN"/>
+      <xs:attribute name="CreationDate" use="required" type="xs:NMTOKEN"/>
+      <xs:attribute name="FavoriteCount" type="xs:integer"/>
+      <xs:attribute name="Id" use="required" type="xs:integer"/>
+      <xs:attribute name="LastActivityDate" use="required" type="xs:NMTOKEN"/>
+      <xs:attribute name="LastEditDate" type="xs:NMTOKEN"/>
+      <xs:attribute name="LastEditorUserId" type="xs:integer"/>
+      <xs:attribute name="OwnerDisplayName"/>
+      <xs:attribute name="OwnerUserId" use="required" type="xs:integer"/>
+      <xs:attribute name="ParentId" type="xs:integer"/>
+      <xs:attribute name="PostTypeId" use="required" type="xs:integer"/>
+      <xs:attribute name="Score" use="required" type="xs:integer"/>
+      <xs:attribute name="Tags"/>
+      <xs:attribute name="Title"/>
+      <xs:attribute name="ViewCount" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
