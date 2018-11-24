@@ -1,1 +1,0 @@
-This Folder contains the working principles of the web spider.
