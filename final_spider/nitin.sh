@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
-
-
+cd git_final_spider_2/git_final_spider/
+rm dummy2.json
+cd ../..
 echo "::Entering the first directory::"
 cd git_final_spider
 echo "::Clearing dummy1.json::"
