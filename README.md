@@ -22,7 +22,7 @@ Geneartes KML for github from scraped data in json format.
 Scrapes data from Github and stores as json files.
 
 ### User-Agent-Spider
-Scrapes many user agent headers for Opera | Chrome | FireFox Browsers to avoid blocking of the Spider by Github.
+Scrapes many user agent HTTP headers for Opera | Chrome | FireFox Browsers to avoid blocking of the Spider by Github.
 
 ### Wiki-Satck-KML-Downloader
 Dowloads data from Wikipedia and Stackoverflow and then coverts it to KML.
