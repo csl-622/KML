@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>815</PostId>
+			<ParentPostId>313</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T00:58:19.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+
+					Beer has a fairly high calorie count - roughly between 150 and 300kcal per serving of 0.5l depending on kind. A significant percent of that is alcohol though, which is fully metabolized without any reserves whatsoever being retained - empty calories without actual nutritional contribution to organism.
+
+					I wonder what is the actual typical contribution of beer to human body energy reserves - energy from sugars, fats, proteins? How should I count beer in my diet?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>816</PostId>
+			<ParentPostId>313</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T00:58:19.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the "nutritional calorie" count of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>817</PostId>
+			<ParentPostId>313</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T00:58:19.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					nutrition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>838</PostId>
+			<ParentPostId>324</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T08:41:45.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>200</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a visual criterion to roughly estimate the order of calories a beer contains?
+
+					Specifically, I wonder if my prejudgment that the darker the beer, the more energetic value it has. Please, prove or disprove.
+
+					____
+
+					(What lead to this prejudgement: When I drink a *trappist* or a *Guinness Extra Stout*, both dark, I somehow identify the density with calories. But is that true?)
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>839</PostId>
+			<ParentPostId>324</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T08:41:45.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>200</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Which are the most caloric beers? Visual crieteria (e.g. "the darker, the higher calorific value"?)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>840</PostId>
+			<ParentPostId>324</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T08:41:45.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>200</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					nutrition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Title" >
+			<PostId>847</PostId>
+			<ParentPostId>324</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T11:20:26.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>200</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title and syntaxis
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Which are the most caloric beers? Are there, say, visual criteria to identify them?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Body" >
+			<PostId>848</PostId>
+			<ParentPostId>324</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T11:20:26.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>200</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title and syntaxis
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there a visual criterion to roughly estimate the order of calories a beer contains?
+
+					Specifically, I wonder if "the darker the beer, the more energetic value it has" holds [1]. Please, prove or disprove.
+
+					____
+
+					[1] (What lead to this belief: When I drink a *trappist* or a *Guinness Extra Stout*, both dark, I somehow identify the density with calories. But is that true?)
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Post Closed" >
+			<PostId>887</PostId>
+			<ParentPostId>313</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T21:15:05.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":37,"DisplayName":"Xander"},{"Id":21,"DisplayName":"Łukasz L."},{"Id":39,"DisplayName":"wax eagle"},{"Id":215,"DisplayName":"Hugo Dozois"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Unknown" >
+			<PostId>1731</PostId>
+			<ParentPostId>324</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-26T22:42:12.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/438806227825750016
+			</EditDetails>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Body" >
+			<PostId>3489</PostId>
+			<ParentPostId>924</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-14T16:42:58.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1098</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I can only find (on their website, and on other nutrition websites) the macronutrients of Guinness.
+
+					Can someone provide a specific breakdown of micronutrient information for Guinness, or another similar stout?
+
+					By micronutrients I mean vitamins, minerals, amino acids, etc.
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Title" >
+			<PostId>3490</PostId>
+			<ParentPostId>924</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-14T16:42:58.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1098</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the micronutritional value of stouts such as Guinness?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Tags" >
+			<PostId>3491</PostId>
+			<ParentPostId>924</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-14T16:42:58.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1098</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					stout, porter, nutrition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Unknown" >
+			<PostId>3558</PostId>
+			<ParentPostId>924</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-28T12:48:08.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/493739682875072512
+			</EditDetails>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Body" >
+			<PostId>12652</PostId>
+			<ParentPostId>6794</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T21:42:34.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6682</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was wondering if the craft beer has more nutritional values (vitamins and so on) than regular and cheap beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Title" >
+			<PostId>12653</PostId>
+			<ParentPostId>6794</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T21:42:34.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6682</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does craft beer have more nutritional values than regular beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Tags" >
+			<PostId>12654</PostId>
+			<ParentPostId>6794</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T21:42:34.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6682</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					craft-beers, nutrition, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

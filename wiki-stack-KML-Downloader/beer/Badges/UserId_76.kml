@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="180"  UserId="76" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T22:12:52.643</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="183"  UserId="76" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T22:12:52.643</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="186"  UserId="76" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T22:19:13.127</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="190"  UserId="76" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T22:28:13.963</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="231"  UserId="76" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T23:29:21.460</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4024"  UserId="76" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-04-20T12:14:28.570</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4771"  UserId="76" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2015-10-02T07:41:31.960</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

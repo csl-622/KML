@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Votes">
+		<Instance Id="1"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="10"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="11"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="12"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2014-06-07T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="13"  InstanceType= "unknown">
+			<TimeStamp>
+				<CreationDate>2014-06-08T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="14"  InstanceType= "Deletion">
+			<TimeStamp>
+				<CreationDate>2014-06-08T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

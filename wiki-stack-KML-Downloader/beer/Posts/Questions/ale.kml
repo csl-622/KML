@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>8</PostId>
+			<AcceptedAnswerId>18</AcceptedAnswerId>
+			<Title>
+			"What is the difference between an ale and a lager?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ale</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>37</Score>
+				<ViewCount>35469</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:37:12.143</CreationDate>
+				<LastActivityDate>2017-08-24T06:53:25.040</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Apart from coming out of different taps, some ales seem very similar to lagers (although there are clearly a much greater variety of ales). Is there a difference in the way they are made?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>61</PostId>
+			<AcceptedAnswerId>89</AcceptedAnswerId>
+			<Title>
+			"Difference between Ale and Bitter"
+			</Title>
+			<Tags>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>5243</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:22:12.657</CreationDate>
+				<LastActivityDate>2014-01-21T21:52:29.373</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>57</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Whats the difference between a bitter and an Ale? Is it the manufacturing process or the ingredients that make these different drinks?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>463</PostId>
+			<AcceptedAnswerId>465</AcceptedAnswerId>
+			<Title>
+			"What constitutes a Pale Ale?"
+			</Title>
+			<Tags>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>837</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-31T15:26:58.170</CreationDate>
+				<LastActivityDate>2014-01-31T16:11:17.257</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>85</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I ask this because I just ordered an "American Pale Ale" and it's actually quite dark in color. So how can I tell a pale ale?  What actually defines an ale as &lt;em&gt;pale&lt;/em&gt;?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>511</PostId>
+			<AcceptedAnswerId>512</AcceptedAnswerId>
+			<Title>
+			"Does a session beer have to be below a specific ABV?"
+			</Title>
+			<Tags>
+				<tag>ale</tag>
+				<tag>abv</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>159</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-03T22:49:13.797</CreationDate>
+				<LastEditDate>2014-02-03T23:02:04.317</LastEditDate>
+				<LastActivityDate>2014-02-03T23:02:04.317</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>359</OwnerUserId>
+				<LastEditorUserId>80</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Does anyone know if a "session beer" has to be below a specific ABV to qualify as a session beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>718</PostId>
+			<AcceptedAnswerId>719</AcceptedAnswerId>
+			<Title>
+			"Does real ale make you fart more than lager?"
+			</Title>
+			<Tags>
+				<tag>ale</tag>
+				<tag>gas</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>4201</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-09T13:07:27.133</CreationDate>
+				<LastActivityDate>2014-04-09T15:41:12.777</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>608</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've read anecdotal evidence that says that real ale, though not as gassy as lager, makes you fart more.&lt;/p&gt;
+
+					&lt;p&gt;Is there any truth to this and does it apply to ales in general or just certain types?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>983</PostId>
+			<Title>
+			"Does drinking mainstream, mass-produced lagers give you a worse hangover than real ale?"
+			</Title>
+			<Tags>
+				<tag>ale</tag>
+				<tag>lager</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>3478</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-13T10:40:56.017</CreationDate>
+				<LastActivityDate>2018-01-26T12:18:40.517</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1209</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have noticed that when I spend a night drinking the usual lagers found on bar taps in the UK (Heineken, Carlsberg, etc.), I have a much worse hangover than when I spend a night drinking locally brewed real ales (or mass-produced real ales such as Spitfire, Wainwright, etc.).&lt;/p&gt;
+
+					&lt;p&gt;Is there any reason for this? Do lagers contain any ingredients that can cause worse hangovers than real ales?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>1051</PostId>
+			<AcceptedAnswerId>1052</AcceptedAnswerId>
+			<Title>
+			"Craft Beer vs Real Ale"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>taste</tag>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>824</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-10-17T09:19:30.727</CreationDate>
+				<LastEditDate>2014-10-21T14:48:52.450</LastEditDate>
+				<LastActivityDate>2014-10-22T04:34:11.037</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1398</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've been following the craft beer scene in the UK for some time now, and much prefer true craft beers to real ales (and beers labeled "craft" when they have no business being represented in such a way). Comparatively, real ales I've tried have a bland, waxy taste to them, unlike craft beers such as Brewdog's Punk IPA, Dead Pony Club, and 5AM Saint.&lt;/p&gt;
+
+					&lt;p&gt;A friend expressed to me his view that the terms “craft beer” and “real ale” are synonymous, stating: &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;“You realise that most of the industrialised breweries started out making “craft beer,” however demand and greed caused them to skimp on ingredients, adding less and less to make more and more profit? Most of these new breweries will probably go the same way.”&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Whilst I agree in principle regarding greed and industrialisation, I am skeptical of the claim that most industrialised breweries started out making “craft beer.” Nor do I believe that “real ale” breweries have changed their recipes to that degree over time.&lt;/p&gt;
+
+					&lt;p&gt;To put this into context, some beers I consider real ales are Youngs London Gold, Bombardier, Tribute, and Deuchars IPA, while some beers I consider craft beers are Brewdog IPA is Dead Citra, Kernel Black IPA, Lagunitas IPA, and Moor So’Hop.&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;What distinguishes a “craft beer” from a “real ale”?&lt;/li&gt;
+					&lt;li&gt;Do “craft beers” change as breweries scale up for profits?&lt;/li&gt;
+					&lt;li&gt;Did “real ales” use to taste nicer than it does today?&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>1085</PostId>
+			<Title>
+			"is "Capilano Pale Ale" still being produced and is it possible to get it in the States?"
+			</Title>
+			<Tags>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>68</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-11-19T00:29:39.327</CreationDate>
+				<LastActivityDate>2017-02-21T00:02:07.973</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1501</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;is "Capilano Pale Ale" still being produced and is it possible to get it in the States?I'm referring to the Vancouver, British Colombia, microbrew. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>3341</PostId>
+			<AcceptedAnswerId>3343</AcceptedAnswerId>
+			<Title>
+			"Using Caster Sugar as Primer in Barrell"
+			</Title>
+			<Tags>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>27</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-22T14:20:15.437</CreationDate>
+				<LastActivityDate>2015-04-23T13:14:11.893</LastActivityDate>
+				<ClosedDate>2015-05-07T05:50:58.440</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4034</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'll admin i got a bit excited. My first best of home brew fermented for 6 days, then transferred to barrel for the net 3 weeks - i used woodforde's real ale mix.&lt;/p&gt;
+
+					&lt;p&gt;BUT at the last seconds i forgot primer so i improvised wit 80g of caster sugar for 23 litres of beer.&lt;/p&gt;
+
+					&lt;p&gt;Does anyone have experience of using caster sugar as a primer in a barrell? And more importantly - have i just borked my first barrell?!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>3441</PostId>
+			<Title>
+			"Craft beer - Ambient temperature for fermentation"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ale</tag>
+				<tag>recommendations</tag>
+				<tag>fermentation</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>144</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-30T10:57:56.400</CreationDate>
+				<LastActivityDate>2015-07-22T20:23:06.303</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4277</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am thinking about make my first beer in this summer. However, in my country the summer has an ambient temperature about 25-30º. So my question, is what type of beers are adequate to this conditions? &lt;/p&gt;
+
+					&lt;p&gt;My first idea is a blond ale (Brewferm Ale), with fermentation at the ambient temperature in Barrel Aging. What do you think about?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>3446</PostId>
+			<AcceptedAnswerId>3477</AcceptedAnswerId>
+			<Title>
+			"Any advice on good breweries near São Paulo - Brazil?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>local</tag>
+				<tag>ipa</tag>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>89</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-01T11:39:05.320</CreationDate>
+				<LastEditDate>2015-07-19T06:13:13.943</LastEditDate>
+				<LastActivityDate>2015-07-19T06:13:13.943</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4281</OwnerUserId>
+				<LastEditorUserId>4324</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am moving back home in the next few days and the idea of importing all my beer does not seem reasonable.&lt;/p&gt;
+
+					&lt;p&gt;I'm willing to try any kind of beer, but my preference is for IPA's and Belgian Strong pale ales.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>3453</PostId>
+			<AcceptedAnswerId>3456</AcceptedAnswerId>
+			<Title>
+			"Broadening my horizons (Ale recommendations in South West UK)"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>local</tag>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>73</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-09T11:40:14.433</CreationDate>
+				<LastEditDate>2015-07-10T08:43:05.523</LastEditDate>
+				<LastActivityDate>2015-07-19T13:34:13.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4303</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would like the other beer enthusiasts to suggest some new ales for me to try. I enjoy all Bath Ales and Box Steam Brewery; I'm more a fan of a bitter and less so of pale ales.&lt;/p&gt;
+
+					&lt;p&gt;Can you advise of any brands of a similar or superior quality I might try? (In the South West of the UK). The cheaper end of the scale (Spitfire, speckled hen) doesn't interest me.&lt;/p&gt;
+
+					&lt;p&gt;Many thanks in advance. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>5089</PostId>
+			<AcceptedAnswerId>5100</AcceptedAnswerId>
+			<Title>
+			"Why are some beers warm and some cold?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>615</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-14T07:32:14.680</CreationDate>
+				<LastActivityDate>2016-06-15T07:10:13.677</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;While out at my local I always like to try new beers, and as I was going through a few different beers and I noticed that almost all of them all had varying temperatures. Some where ice cold whilst some were warmer I understand that this is on purpose but I'm not sure why?&lt;/p&gt;
+
+					&lt;p&gt;So why is it that some beers are served Cold and why are some served Warm?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>6985</PostId>
+			<AcceptedAnswerId>6986</AcceptedAnswerId>
+			<Title>
+			"Difference between "Ale's" beer"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>ale</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>141</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-17T13:18:19.240</CreationDate>
+				<LastEditDate>2018-05-02T11:24:15.810</LastEditDate>
+				<LastActivityDate>2018-05-02T11:24:15.810</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7030</OwnerUserId>
+				<LastEditorUserId>6566</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What is the difference between "The Ale", "The Brown Ale", and the "Mild Ale" beers? The colour seems more or less the same so, is it the taste that normally is different or is the level of alcohol present on the beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

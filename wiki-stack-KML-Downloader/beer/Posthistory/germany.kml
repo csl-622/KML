@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>231</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It the beer Velkopopovický Kozel possible to buy somewhere in Bavaria? Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>232</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Velkopopovický Kozel sold somewhere in Bavaria?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>233</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					buying, foreing-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>257</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:08:56.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling (tag)
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Body" >
+			<PostId>781</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are the Czech beers like Velkopopovický Kozel possible to buy somewhere in Bavaria? 
+
+					Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?
+
+					Czech beers are of very good quality, and Bavaria neighbours with Czech, so they shouldn't be hard to find.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Edit Title" >
+			<PostId>782</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where can I buy Czech beers in Bavaria?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>783</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Tags" >
+			<PostId>843</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T09:14:33.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, retail-availiability, distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Post Closed" >
+			<PostId>846</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T11:05:40.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":7,"DisplayName":"Tom Medley"},{"Id":37,"DisplayName":"Xander"},{"Id":22,"DisplayName":"Grohlier"},{"Id":138,"DisplayName":"Lucas Kauffman"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>9500</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:58:42.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					distribution, buying, retail-availiability, germany, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Body" >
+			<PostId>10963</PostId>
+			<ParentPostId>6259</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-27T14:31:12.000</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5836</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some regions around Frankfurt are famous for their wines. When i was in Frankfurt last time, i tried the Apple wine and simply loved it. This time, i will be in Frankfurt for a longer period and would like to try some more of their famous wines. I have not tried any special wine before and most probably would not spend a lot on wines. So please suggest something for a beginner within budget that is available in Frankfurt main city.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Title" >
+			<PostId>10964</PostId>
+			<ParentPostId>6259</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-27T14:31:12.000</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5836</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Must try wines in Frankfurt region
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Tags" >
+			<PostId>10965</PostId>
+			<ParentPostId>6259</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-27T14:31:12.000</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5836</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, red-wine, europe, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Body" >
+			<PostId>10966</PostId>
+			<ParentPostId>6259</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-28T04:19:22.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting and grammar and did one retag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some regions around Frankfurt are famous for their wines. When I was in Frankfurt last time, I tried their Apple wine and simply loved it. This time, I will be in Frankfurt for a longer period and would like to try some more of their famous wines. I have not tried any special wines before and most probably will not spend a lot on wines. So please suggest something for a beginner within budget that is available in Frankfurt main city area.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Tags" >
+			<PostId>10967</PostId>
+			<ParentPostId>6259</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-28T04:19:22.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting and grammar and did one retag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, wine, germany, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>10979</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-30T16:52:23.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I [understand](http://www.munichsoktoberfest.com/) that Oktoberfest begins this year in Munich on September 17.  I'm going to be passing through Munich a few days earlier than that.  Am I likely to find any Oktoberfest beers in the Munich airport in the week before the festival, or is that date the "debut" and I'll just have to settle for other German beers when I'm there?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>10980</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-30T16:52:23.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are Oktoberfest beers available in Germany before the official start of the festival?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>10981</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-30T16:52:23.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, germany, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Edit Body" >
+			<PostId>10985</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-30T20:02:32.007</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				clarified per comments
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In the US where I live, fall brings beers labelled "Oktoberfest", usually Bavarian Märzenbiers.  I like this style and look forward to it.
+
+					This year it happens that I'm going to be passing through Munich a few days before the start of their [Oktoberfest](http://www.munichsoktoberfest.com/).  It'd be great to be able to sample Oktoberfest beers fresh out of the tap where they're made, rather than waiting for whatever makes it across the Atlantic to me later.  Am I likely to find any Oktoberfest beers in the Munich airport in the week before the festival, or is that date the "debut" and I'll just have to settle for other German beers when I'm there?
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Votes">
+		<Instance Id="1"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-04-07T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-04-07T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-06-02T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-06-10T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-06-14T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6"  InstanceType= "unknown">
+			<TimeStamp>
+				<CreationDate>2017-03-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2017-03-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2018-07-05T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

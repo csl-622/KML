@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>247</PostId>
+			<ParentPostId>246</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T03:00:53.643</CreationDate>
+				<LastEditDate>2014-01-23T07:22:30.863</LastEditDate>
+				<LastActivityDate>2014-01-23T07:22:30.863</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+				<LastEditorUserId>112</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would argue that even having the IBUs on the bottle you still don't really know what you're going to get.&lt;/p&gt;
+
+					&lt;p&gt;The bitterness of the beer isn't just down to the quantity of alpha acids, which is what the IBUs measure. The bitterness is offset by any residual sweetness in the beer.&lt;/p&gt;
+
+					&lt;p&gt;A brewer can brew two different beers with the same IBUs, and them taste different. For example, with two beers with 20 IBUs - one might taste balanced between sweet and bitter, while the other one just tastes sweet. Another pair of beers with 70 IBUs, one might be unpleasantly bitter, while the other a more balanced kind bitter, or even simply neutral. The FG can give you some insight into these differences, but it's still not going to be precise.&lt;/p&gt;
+
+					&lt;p&gt;Frankly the best way to know how the bitterness of the beer plays with the rest of the beer qualities is to read the label for any subjective descriptive text, or simply buy it and taste it. &lt;/p&gt;
+
+					&lt;p&gt;If you did want to measure it, you would need to use &lt;a href="http://en.wikipedia.org/wiki/Beer_measurement#cite_note-ASBC_Beer23-14" rel="nofollow"&gt;spectrophotometer and solvent extraction&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>630</PostId>
+			<ParentPostId>629</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-21T07:45:56.187</CreationDate>
+				<LastEditDate>2014-02-21T17:22:57.353</LastEditDate>
+				<LastActivityDate>2014-02-21T17:22:57.353</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+				<LastEditorUserId>80</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/International_Bitterness_Units_scale#Bitterness"&gt;International Bittering Units (IBUs)&lt;/a&gt; are a measure of bitterness in a beer.  As such, the distinguishing factor is bitterness.  :)&lt;/p&gt;
+
+					&lt;p&gt;Since hops are the primary contributor to bitterness in beer, high IBU beers also tend to be hoppy (although that's not always the case, since hops added at certain points in the brewing process contribute mostly to bitterness, while hops added at other points contribute mostly to hop aroma and flavor).&lt;/p&gt;
+
+					&lt;p&gt;As an aside, heavier beers (specifically, those with lots of malt) will taste less bitter than a lighter beer with the same IBU.  To elaborate:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;there is still the complication that IBUs do not really correlate with perceived bitterness because other aspects of beer affect the perception of bitterness. For example, two beers containing 25 IBUs will be perceived very different with respect to bitterness if one beer had an O.G. of 10 °Plato and finished at 1.5 °Plato and the other beer had an O.G. of 12.5 °Plato and finished at 2.5 °Plato. Begin varying the malt bill by adding crystal malt, for example, and changing the content of various water salts and things become even muddier. This is the reason that measures like the IBU are extremely useful when used within a population of similar beers, but not so handy when looking at very different populations.
+					  - &lt;a href="http://byo.com/light-ale/item/2084-measuring-ibus-mr-wizard"&gt;http://byo.com/light-ale/item/2084-measuring-ibus-mr-wizard&lt;/a&gt;&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>631</PostId>
+			<ParentPostId>629</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-21T09:11:36.490</CreationDate>
+				<LastActivityDate>2014-02-21T09:11:36.490</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The brewery really needs to indicate how they get the 300 IBU measurement. Most just work it out from the hops they add using hop bitterness &lt;a href="http://www.rooftopbrew.net/ibu.php"&gt;calculators&lt;/a&gt;, rather than it being an actual measurement of the bittering compounds in the beer. For highly hopped beers, the calculated IBUs can be far off compared to reality - above around 100 IBUs it becomes more and more difficult to increase the IBUs of the beer.&lt;/p&gt;
+
+					&lt;p&gt;The &lt;a href="http://beersensoryscience.wordpress.com/2010/11/06/bitterness/"&gt;isomerized alpha acids&lt;/a&gt; that give the bitterness are only marginally soluble in wort (they are hydrophobic), and their solubility decreases as more is dissolved: solubility decreases with lower pH and dissolving the iso-acids lowers the pH, so solubility is self-limiting. &lt;/p&gt;
+
+					&lt;p&gt;Thus, labels with over 100 IBUs should not be considered accurate, unless the brewer has specifically measured the IBUs in the beer, rather than guessed them from the hop regime.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>3188</PostId>
+			<ParentPostId>3187</ParentPostId>			<Tags>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-12T14:49:04.667</CreationDate>
+				<LastActivityDate>2015-01-12T14:49:04.667</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Unfortunately there's no easy way to test for this at home unless you're a chemist and happen to own a gas spectrometer.  However, white labs sells a &lt;a href="http://www.whitelabs.com/other-products/tk2300-beer-analysis-sample-kit" rel="nofollow"&gt;testing kit&lt;/a&gt; for &amp;lt; $40 that will run a full series of labs on a sample of your beer and give you exact alcohol, IBU, diacetyl, gluten content, etc.  But it requires packing up a sample of your brew and shipping it to white labs in the provided box.  I don't know how long it takes since I've never done it.&lt;/p&gt;
+
+					&lt;p&gt;As to the process I was able to find this description at homebrewtalk.com:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;A 10 mL pipet is dipped into octanol and shaken so that most of the octanol is thrown off. 10 mL of chilled beer are drawn into the pipet and transferred to a 50 mL centrifuge tube. 1 mL of 3 N HCl is added followed by 20 mL of spectrographic grade iso-octane. The tube is shaken vigorously using a wrist action shaker (though I know one guy who does this determination professionally who shakes by hand) for 15 minutes. If there is a slush in the tube, centrifuge until the iso-octane phase is separate. Pipet a couple mL into a quartz 1 cm cuvet and read against another quartz cuvet filled with iso-octane and a "minute" amount of octanol. The IBUs are 50 times the absorbtion at 275 nm.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Best bet for your home brewing is to pick one of the estimation formulas and note it on all your beers, then you can rank them relatively based on your perception of the IBUs calculated and can better target the amount of bitterness you want in the future.  Since a lot of it depends on your equipment and the alpha acid content of the particular crop of hops.&lt;/p&gt;
+
+					&lt;p&gt;You might also want to pop over to &lt;a href="http://homebrew.stackexchange.com"&gt;homebrew.SE&lt;/a&gt; and ask if they know of any other test kits or have advice.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>3190</PostId>
+			<ParentPostId>3187</ParentPostId>			<Tags>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-13T15:58:06.360</CreationDate>
+				<LastActivityDate>2015-01-13T15:58:06.360</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3675</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;From Ray Daniels' &lt;em&gt;Designing Great Beers&lt;/em&gt;:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;To really know the level of bitterness present in a beer, you must have a laboratory analysis performed. &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;For home brewing purposes, the best you can usually do is to plug the alpha acid values of the hops you're going to use into an IBU calculator such as &lt;a href="http://www.brewersfriend.com/ibu-calculator/" rel="nofollow"&gt;the one from Brewer's Friend&lt;/a&gt; or using &lt;a href="http://beersmith.com" rel="nofollow"&gt;Beersmith&lt;/a&gt; to calculate the bitterness. (The alpha acid values can be found on the hops' packaging.) &lt;/p&gt;
+
+					&lt;p&gt;It's worthwhile to not get &lt;em&gt;too&lt;/em&gt; wrapped up in IBU. From Daniels:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Using all these techniques … the big guys only control their bitterness to within plus or minus 2 IBU! Given that the average level of bitterness might be something like 15 IBUs, that represents an allowable variation of 13 percent in the bitterness of the product. The reason [major producers] don't sweat over the IBU inside that range is because the human palate can't detect the difference. Studies have shown that the detection threshold for bitterness is about 5 IBU. And that is for beers in the 10 to 15 IBU range. Among home and craft brewers, the sensitivity is usually &lt;em&gt;less&lt;/em&gt; because we are used to more bitter beers.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>5011</PostId>
+			<ParentPostId>5006</ParentPostId>			<Tags>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-18T18:55:17.550</CreationDate>
+				<LastEditDate>2016-05-19T19:09:22.447</LastEditDate>
+				<LastActivityDate>2016-05-19T19:09:22.447</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5439</OwnerUserId>
+				<LastEditorUserId>5440</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;IBU is a measurement of the chemical concentration of iso-alpha acids, not the perceived bitterness. Malty tastes do suppres the perception of hop bitterness. See wikipedia on beer bitterness &lt;a href="https://en.wikipedia.org/wiki/Beer_measurement#Bitterness"&gt;1&lt;/a&gt; and its literature list. &lt;/p&gt;
+
+					&lt;p&gt;A heavily malty beer, which a stout is, requires way more chemical hop bitternes to achieve the same perceived bitterness as a light pilsner. &lt;/p&gt;
+
+					&lt;p&gt;Excuse me going anecdotal, but at one time, friends and me brewed an ale with an unholy amount of hops (150g @ 11% for 22l). When it came to hop additions, we decided to just dump in all the hop bags from the freezer. This ended up to be around 100 IBU after correction for ageing. &lt;/p&gt;
+
+					&lt;p&gt;Now, quite clearly, the resulting light ale was on the very edge of being consumable, but with some aging and getting used to it, it became a very very good ale, which all the hoppy people loved. &lt;/p&gt;
+
+					&lt;p&gt;The same amount of hops in an irish stout would probably be "meh". &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>5218</PostId>
+			<ParentPostId>3464</ParentPostId>			<Tags>
+				<tag>ipa</tag>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-07-26T15:09:14.993</CreationDate>
+				<LastActivityDate>2016-07-26T15:09:14.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5705</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;They are brewing it actively and there's information on the deranke.be website at &lt;a href="http://www.deranke.be/en/bier/xxx-bitter" rel="nofollow noreferrer"&gt;http://www.deranke.be/en/bier/xxx-bitter&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/aHIpa.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/aHIpa.jpg" alt="a screenshot of the website info on the XXX-Bitter"&gt;&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

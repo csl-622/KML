@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>25</PostId>
+			<AcceptedAnswerId>39</AcceptedAnswerId>
+			<Title>
+			"What specific characteristics distinguish an imperial stout from other kinds of stouts?"
+			</Title>
+			<Tags>
+				<tag>imperal-stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>285</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:54:05.140</CreationDate>
+				<LastEditDate>2014-01-21T20:55:34.443</LastEditDate>
+				<LastActivityDate>2014-01-22T00:26:46.840</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>39</OwnerUserId>
+				<LastEditorUserId>20</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;My local growler shop regularly has a variety of stouts on tap, of which I usually pick Imperial. &lt;/p&gt;
+
+					&lt;p&gt;What, specifically, distinguishes an Imperial stout from other kinds of stouts (say a regular stout, an oatmeal stout etc)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>705</PostId>
+			<AcceptedAnswerId>706</AcceptedAnswerId>
+			<Title>
+			"Why did my Big Bad Baptist come in a brandy snifter?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>imperal-stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>561</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-03T21:49:40.017</CreationDate>
+				<LastActivityDate>2014-04-03T22:09:07.270</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>17</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Over the weekend, I decided to order something new from the menu: a &lt;a href="http://www.beeradvocate.com/beer/profile/22893/73618/"&gt;Big Bad Baptist&lt;/a&gt;. I thoroughly enjoyed it (lots of coffee flavor and not nearly as much alcohol taste as I feared). But it came in what looked to be a brandy snifter.&lt;/p&gt;
+
+					&lt;p&gt;Is this the typical way to serve that type of beer? I assume the purpose has something to do with the aroma, but is there any other reason (either traditional or practical)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>4837</PostId>
+			<AcceptedAnswerId>4870</AcceptedAnswerId>
+			<Title>
+			"How hard is it to find a Three Floyds Dark Lord?"
+			</Title>
+			<Tags>
+				<tag>imperal-stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>56</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-18T23:34:32.527</CreationDate>
+				<LastActivityDate>2017-04-13T22:18:24.593</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5107</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm not looking for any specific vintage or special variant. Just the standard &lt;a href="http://www.ratebeer.com/beer/three-floyds-dark-lord-russian-imperial-stout/15917/" rel="nofollow"&gt;Dark Lord RIS&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;p&gt;I'm also well aware of the fact that Three Floyds has limited distribution in the Midwest, and I'm for sure not going to find it on the West Coast.&lt;/p&gt;
+
+					&lt;p&gt;However, I sometimes travel back to Ohio, where they do distribute. What are my chances of walking into a decent bottle shop back there and finding one of these? Do i have a good shot, or is this a very seasonal brew?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>6933</PostId>
+			<AcceptedAnswerId>6936</AcceptedAnswerId>
+			<Title>
+			"Right price for limited edition beer"
+			</Title>
+			<Tags>
+				<tag>imperal-stout</tag>
+				<tag>price</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>122</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-06-28T08:32:23.453</CreationDate>
+				<LastEditDate>2017-06-28T12:11:55.437</LastEditDate>
+				<LastActivityDate>2017-07-13T10:44:50.727</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6873</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;How do I calculate the market value for a limited edition beer (1700 bottles only)? It cannot be bought anywhere anymore except from private collectors. The beer in question is the &lt;a href="http://loudwire.com/opeth-xxv-anniversary-imperial-stout/" rel="nofollow noreferrer"&gt;Opeth XXV anniversary imperial stout&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>456</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Contributors>
+				<UserId>288</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-30T00:51:41.347</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I seem to recall hearing (although I can't find evidence at the moment) that hefeweizens may be poured harder to ensure that the yeast is evenly mixed. I could be wrong about that though (and the more typical method of rolling the bottle is probably better, IMO).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>457</PostId>
+			<ParentPostId>375</ParentPostId>
+			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-30T01:02:24.343</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Agreed, it's probably well outside the scope of what was needed to answer the original question. I think I'm revealing my bias toward physical and chemical detail when answering questions. I may post another question related to beer's chemical properties for more discussion on this.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>3811</PostId>
+			<ParentPostId>63</ParentPostId>
+			<Contributors>
+				<UserId>5283</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-05T09:06:57.643</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					By the way, it's not the only beer using this widget. I've seen "young's double chocolate stout" cans with the same nitrogen balls.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

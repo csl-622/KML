@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>3451</PostId>
+			<AcceptedAnswerId>5189</AcceptedAnswerId>
+			<Title>
+			"What are requirements for a micropub?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>micropub</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>202</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-06T12:27:20.387</CreationDate>
+				<LastEditDate>2015-07-07T18:07:29.907</LastEditDate>
+				<LastActivityDate>2016-07-05T20:43:16.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4175</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;So my question is what are the requirements for micropubs?
+					Are there any specifications on room size, interior, beers, staff?
+					Has anyone got experience in setting up and running a micropub and can give more insights about what are key factors?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>3510</PostId>
+			<AcceptedAnswerId>4528</AcceptedAnswerId>
+			<Title>
+			"Craft/micro brewery in Saarland, Luxembourg and Lorraine region?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>german-beers</tag>
+				<tag>micropub</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>356</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-04T21:05:17.837</CreationDate>
+				<LastEditDate>2016-10-13T00:00:40.843</LastEditDate>
+				<LastActivityDate>2016-10-13T00:00:40.843</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I found these &lt;a href="http://www.ratebeer.com/state/saarland/122/" rel="nofollow"&gt;Beer from Saarland&lt;/a&gt; but it looks more like commercial brews.&lt;/p&gt;
+
+					&lt;p&gt;Are there any craft/microbrewery in the tri-country greater region of Saarland (Germany), Luxembourg and Lorraine (France)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>3511</PostId>
+			<Title>
+			"Craft brew in Dublin"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>micropub</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>120</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-04T21:09:02.077</CreationDate>
+				<LastActivityDate>2015-10-23T19:31:27.570</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Other than the popular Porterhouse (&lt;a href="http://www.porterhousebrewco.com/bars-dublin-temple.php" rel="noreferrer"&gt;http://www.porterhousebrewco.com/bars-dublin-temple.php&lt;/a&gt;), are there other pub that serves craft/microbrewery beer in Dublin, Ireland?&lt;/p&gt;
+
+					&lt;p&gt;Other than the famous Guinness brewhouse, are there other microbrewery around Dublin?&lt;/p&gt;
+
+					&lt;p&gt;Other than Guinness Stout, what other Guinness beer is a must-have? Are there any Dublin exclusive beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>3512</PostId>
+			<AcceptedAnswerId>4525</AcceptedAnswerId>
+			<Title>
+			"Microbrewery in Prague"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>micropub</tag>
+				<tag>pilsener</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>121</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-04T21:11:12.573</CreationDate>
+				<LastActivityDate>2016-10-08T19:57:33.583</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Czech is known for its Pilsen Pilsner but is there any special beer from the Prague capital? &lt;/p&gt;
+
+					&lt;p&gt;Are there any craft/microbrewery in Prague? &lt;/p&gt;
+
+					&lt;p&gt;Any suggestions to pub that serves good craft Czech brews?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>3513</PostId>
+			<AcceptedAnswerId>3519</AcceptedAnswerId>
+			<Title>
+			"Craft beers and Microbreweries in Singapore?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>micropub</tag>
+				<tag>singapore</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>124</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-04T21:16:54.980</CreationDate>
+				<LastEditDate>2018-06-19T06:54:19.457</LastEditDate>
+				<LastActivityDate>2018-06-19T06:54:19.457</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+				<LastEditorUserId>123</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Recently, CNN listed the &lt;code&gt;Smith Street Tap&lt;/code&gt; from the &lt;strong&gt;Good Beer Company&lt;/strong&gt; in Singapore as one of the world's greatest bar (&lt;a href="http://www.cntraveler.com/galleries/2015-07-21/the-greatest-bars-in-the-world/23" rel="nofollow"&gt;http://www.cntraveler.com/galleries/2015-07-21/the-greatest-bars-in-the-world/23&lt;/a&gt;).&lt;/p&gt;
+
+					&lt;p&gt;Also, locally known, &lt;strong&gt;Brewerkz&lt;/strong&gt; &lt;a href="http://www.brewerkz.com/" rel="nofollow"&gt;http://www.brewerkz.com/&lt;/a&gt; serves some good craft beer.&lt;/p&gt;
+
+					&lt;p&gt;After some internet searches, I found &lt;strong&gt;Jungle Beer&lt;/strong&gt; that is a mircobrew: &lt;a href="http://www.junglebeer.com/" rel="nofollow"&gt;http://www.junglebeer.com/&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;Other than the 3 sources listed above, where else can one get craft/microbrewery beer in Singapore?&lt;/p&gt;
+
+					&lt;p&gt;Are there other microbreweries in Singapore? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>4700</PostId>
+			<Title>
+			"What is the Hong Kong craft beer scene these days?"
+			</Title>
+			<Tags>
+				<tag>micropub</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>59</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-11-25T15:04:10.897</CreationDate>
+				<LastActivityDate>2016-08-11T21:45:15.713</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4144</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I lived in Hong Kong a few years back I enjoyed several interesting microbrewed beers and a small but enthusiastic beer scene. I still think about the much-missed &lt;a href="http://www.openrice.com/en/hongkong/restaurant/quarry-bay-belgos-east-mussels-more/7578"&gt;Belgos East&lt;/a&gt;, which had a whole suite of Belgian ales on tap. What's available these days?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>7344</PostId>
+			<Title>
+			"Craft beers and Microbreweries in Melbourne?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>craft-beers</tag>
+				<tag>micropub</tag>
+				<tag>melbourne</tag>
+				<tag>australia</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>51</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-19T06:54:05.447</CreationDate>
+				<LastEditDate>2018-06-22T12:09:45.313</LastEditDate>
+				<LastActivityDate>2018-06-25T16:18:42.633</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are several lists online for craft brews in Melbourne, Australia:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;a href="https://foursquare.com/top-places/melbourne/best-places-craft-beer" rel="nofollow noreferrer"&gt;https://foursquare.com/top-places/melbourne/best-places-craft-beer&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries" rel="nofollow noreferrer"&gt;https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/" rel="nofollow noreferrer"&gt;https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Are there others that are not on any of these lists? &lt;/p&gt;
+
+					&lt;p&gt;Are there any nearby the Melbourne Convention and Exhibition Centre ?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

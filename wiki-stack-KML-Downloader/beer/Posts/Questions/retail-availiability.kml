@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>92</PostId>
+			<Title>
+			"Where can I buy Czech beers in Bavaria?"
+			</Title>
+			<Tags>
+				<tag>distribution</tag>
+				<tag>buying</tag>
+				<tag>retail-availiability</tag>
+				<tag>germany</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>80</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:55:27.830</CreationDate>
+				<LastEditDate>2016-06-16T02:58:42.297</LastEditDate>
+				<LastActivityDate>2016-06-16T02:58:42.297</LastActivityDate>
+				<ClosedDate>2014-01-25T11:05:40.270</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are the Czech beers like Velkopopovický Kozel possible to buy somewhere in Bavaria? &lt;/p&gt;
+
+					&lt;p&gt;Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?&lt;/p&gt;
+
+					&lt;p&gt;Czech beers are of very good quality, and Bavaria neighbours with Czech, so they shouldn't be hard to find.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>1009</PostId>
+			<AcceptedAnswerId>1016</AcceptedAnswerId>
+			<Title>
+			""Pumpkin" beers made with actual pumpkin?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>flavor</tag>
+				<tag>pennsylvania</tag>
+				<tag>retail-availiability</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>569</ViewCount>
+				<AnswerCount>8</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-03T01:33:38.873</CreationDate>
+				<LastActivityDate>2016-10-13T14:13:40.373</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>798</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's about that time of year again, when pumpkin flavored beer (and everything else) starts making its way onto store shelves.&lt;/p&gt;
+
+					&lt;p&gt;I was wondering, what pumpkin flavored beers are out there, if any, are made with actual pumpkin and not just pumpkin pie spices?&lt;/p&gt;
+
+					&lt;p&gt;My personal favorite is Pumpkin Head by Shipyard, but I've been unable to find any evidence that would suggest it is made with real pumpkin. Are there readily available beers made with real pumpkin? I live in western PA, but any brand not specifically available here would be good to know.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>6457</PostId>
+			<Title>
+			"Availability of Victoria Bitter"
+			</Title>
+			<Tags>
+				<tag>retail-availiability</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>80</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-12-28T21:29:11.703</CreationDate>
+				<LastEditDate>2017-01-04T08:10:54.157</LastEditDate>
+				<LastActivityDate>2017-01-04T08:10:54.157</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6238</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is Victoria Bitter (VB) available in the U.S.?  I have not been able to find it anywhere. It was fairly popular in Australia when I was there 15-plus years ago. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

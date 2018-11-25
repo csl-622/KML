@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>7</PostId>
+			<AcceptedAnswerId>52</AcceptedAnswerId>
+			<Title>
+			"Will certain types of beer get me more drunk more quickly?"
+			</Title>
+			<Tags>
+				<tag>inebriation</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>1678</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:34:59.053</CreationDate>
+				<LastEditDate>2014-01-21T21:00:05.583</LastEditDate>
+				<LastActivityDate>2014-01-21T21:14:14.543</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+				<LastEditorUserId>34</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Assuming we're comparing equivalent amounts of alcohol, do certain beers get you inebriated more quickly or slowly? Does the amount of fizz make a difference?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>38</PostId>
+			<AcceptedAnswerId>71</AcceptedAnswerId>
+			<Title>
+			"Why is drinking beer after wine a bad idea?"
+			</Title>
+			<Tags>
+				<tag>inebriation</tag>
+			</Tags>
+			<Credit> 
+				<Score>16</Score>
+				<ViewCount>69683</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:04:44.983</CreationDate>
+				<LastActivityDate>2018-01-27T22:21:48.530</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;As the well known rhyme reminds us, drinking beer after wine is a bad idea. Having made the mistake during my student years more than once and regretting it, why is it that consuming these two beverages in the wrong order causes such effects?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>155</PostId>
+			<Title>
+			"Do different beers have a different 'buzz'?"
+			</Title>
+			<Tags>
+				<tag>inebriation</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>431</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T04:56:25.183</CreationDate>
+				<LastActivityDate>2018-07-24T11:52:01.267</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Often with spirits people say that different spirits have different effects, eg bourbon makes people angry or trouble making, gin makes people emotional, tequilla makes people crazy, etc. &lt;/p&gt;
+
+					&lt;p&gt;Though this might be just psychological. &lt;/p&gt;
+
+					&lt;p&gt;Is there anything similar with beer? &lt;/p&gt;
+
+					&lt;p&gt;Do some beers suit socialising more while others suit a quiet drink?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>6841</PostId>
+			<Title>
+			"Is there a difference between the inebriation caused by liquor/wine/beer?"
+			</Title>
+			<Tags>
+				<tag>inebriation</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>214</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-05-15T15:39:39.800</CreationDate>
+				<LastActivityDate>2018-06-13T12:13:29.820</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The question is:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;What are the qualitative and quantitative differences between inebriation caused by liquor wine and beer?&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Anecdotal evidence suggests to me that the core difference between the three is that beer contains hops, while liquor/wine doesn't, and so beer tends to have a depressive + dis-inhibition effect, while liquor and wine provide the dis-inhibition effect without being an explicit depressant.&lt;/p&gt;
+
+					&lt;p&gt;I wonder, though, has this ever been studied and concluded on? Are the differences that I mentioned above accurate? Are there any other differences?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

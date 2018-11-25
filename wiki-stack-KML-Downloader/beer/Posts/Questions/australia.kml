@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>589</PostId>
+			<AcceptedAnswerId>6439</AcceptedAnswerId>
+			<Title>
+			"How did South Australia come to have smaller measures of beer?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>glassware</tag>
+				<tag>australia</tag>
+			</Tags>
+			<Credit> 
+				<Score>20</Score>
+				<ViewCount>739</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-11T03:05:31.123</CreationDate>
+				<LastEditDate>2018-06-22T12:24:11.203</LastEditDate>
+				<LastActivityDate>2018-06-22T12:24:11.203</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>170</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The "Beer in Australia" article on Wikipedia, includes a &lt;a href="https://en.wikipedia.org/wiki/Beer_in_Australia#Beer_glasses"&gt;table listing the names for various size glasses&lt;/a&gt; in the different states.  One peculiarity is that some South Australian glasses are one size down compared to the equivalents in other states.&lt;/p&gt;
+
+					&lt;p&gt;For example, it lists their pint glass as three quarters of an imperial pint (which would be called a schooner in other states that use that size), and their schooner glass as half a pint (which would be called a middy in a number of other states).&lt;/p&gt;
+
+					&lt;p&gt;So my question is how did this discrepancy occur?  The Wikipedia page includes a number of references that indicate that these names have been used in SA, but doesn't indicate why.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>7344</PostId>
+			<Title>
+			"Craft beers and Microbreweries in Melbourne?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>craft-beers</tag>
+				<tag>micropub</tag>
+				<tag>melbourne</tag>
+				<tag>australia</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>51</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-19T06:54:05.447</CreationDate>
+				<LastEditDate>2018-06-22T12:09:45.313</LastEditDate>
+				<LastActivityDate>2018-06-25T16:18:42.633</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are several lists online for craft brews in Melbourne, Australia:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;a href="https://foursquare.com/top-places/melbourne/best-places-craft-beer" rel="nofollow noreferrer"&gt;https://foursquare.com/top-places/melbourne/best-places-craft-beer&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries" rel="nofollow noreferrer"&gt;https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/" rel="nofollow noreferrer"&gt;https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Are there others that are not on any of these lists? &lt;/p&gt;
+
+					&lt;p&gt;Are there any nearby the Melbourne Convention and Exhibition Centre ?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>7376</PostId>
+			<AcceptedAnswerId>7377</AcceptedAnswerId>
+			<Title>
+			"Do you need to actually be flying somewhere in order to buy booze duty free at the airport?"
+			</Title>
+			<Tags>
+				<tag>price</tag>
+				<tag>australia</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>86</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-07-07T07:43:35.657</CreationDate>
+				<LastEditDate>2018-07-07T14:55:55.447</LastEditDate>
+				<LastActivityDate>2018-07-07T14:55:55.447</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7894</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I live in Sydney. I was wondering if it would be possible to take a trip to the airport and buy a whole bunch of Johnnie walker duty free? Do you actually have to be boarding a flight, or can you just rock up, splash some money around and go home?&lt;/p&gt;
+
+					&lt;p&gt;If you absolutely must be flying somewhere in order to buy some booze, would a domestic flight be sufficient? I've been thinking of visiting Melbourne for a while, and if it were possible to pick up some blue label on the way home I wouldn't complain!&lt;/p&gt;
+
+					&lt;p&gt;Thanks&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

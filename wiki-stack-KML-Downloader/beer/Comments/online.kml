@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>5676</PostId>
+			<ParentPostId>7439</ParentPostId>
+			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-17T07:38:15.857</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					all alcohol is expensive in the UK for tax reasons. What do you mean by "cheapest"? How much are you willing to skimp on quality?also would you describe £15 per litre as cheap?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>5677</PostId>
+			<ParentPostId>7439</ParentPostId>
+			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-17T09:19:00.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					where about in the UK and what kind of gin you after are you looking for known brads or willing to try anything?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5679</PostId>
+			<ParentPostId>6809</ParentPostId>
+			<Contributors>
+				<UserId>8020</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-17T21:26:54.527</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I really think @MonicaCellio's comment about sanitisation should be first and foremost in the answer. They are asking "Can **any** mistake in the brewing process...". The one difference I found between mead brewing and other brewing is you don't boil the mix so contamination is slightly more likely. Even with bad sanitisation from what I can tell making something toxic is unlikely because the alcohol kills most things, you will just create something undrinkable. I've heard mead has a bad reputation, but I'm not sure why.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

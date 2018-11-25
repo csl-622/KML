@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>198</PostId>
+			<AcceptedAnswerId>199</AcceptedAnswerId>
+			<Title>
+			"What steps in the brewing process affect alcohol levels?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>306</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T14:16:16.853</CreationDate>
+				<LastActivityDate>2014-01-22T14:21:21.743</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>143</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why do some beers have high alcohol levels and some have low ones? Is the alcohol content something that can be changed for any specific brew, and the brewer sets it at a specific level on purpose? Or is the alcohol level something that is achieved in combination with other factors in the brewing process (so for example, a particular taste will always coincide with a specific alcohol level)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>680</PostId>
+			<AcceptedAnswerId>682</AcceptedAnswerId>
+			<Title>
+			"What is the strongest beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>history</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>25</Score>
+				<ViewCount>5218</ViewCount>
+				<AnswerCount>7</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-21T10:27:52.430</CreationDate>
+				<LastActivityDate>2016-10-05T18:53:37.933</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>669</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've always wondered what the strongest beer in the world is and how would taste.&lt;/p&gt;
+
+					&lt;p&gt;Are there reliable historical records of a very strong beer? What would be the highest % alcohol that's Brewable for a beer? And also of course it would be great to know where to get such a beer from. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>887</PostId>
+			<AcceptedAnswerId>888</AcceptedAnswerId>
+			<Title>
+			"What transforms a beer into a Barley Wine?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>435</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-25T06:14:58.510</CreationDate>
+				<LastEditDate>2014-07-01T10:21:25.530</LastEditDate>
+				<LastActivityDate>2015-05-18T22:43:28.750</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1025</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is it merely high alcohol content or some change, alteration or addition to the brewing process, mandated by law or otherwise that requires the brew be called Barley Wine?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>1064</PostId>
+			<AcceptedAnswerId>6499</AcceptedAnswerId>
+			<Title>
+			"by-volume/by-weight conversion formula"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>12994</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-11-01T00:54:53.033</CreationDate>
+				<LastEditDate>2015-08-20T14:47:39.657</LastEditDate>
+				<LastActivityDate>2017-12-06T00:57:14.820</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1445</OwnerUserId>
+				<LastEditorUserId>1445</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Okay, because I have nothing better to do on a Friday night (&lt;em&gt;i.e.&lt;/em&gt;, my carboys are all currently fermenting), I've decided to fiddle a little bit with math.&lt;/p&gt;
+
+					&lt;p&gt;I know that 0% alcohol by weight (ABW) is also 0% alcohol by volume (ABV), and I know that 100% ABW is 100% ABV. I also know that, in between those two extremes, the relationship is &lt;em&gt;not&lt;/em&gt; linear (&lt;em&gt;e.g.&lt;/em&gt;, 3.2% ABW is approximately 4.0% ABV). However, any web-site calculator that I see pretty much performs the calculation as linear.&lt;/p&gt;
+
+					&lt;p&gt;I've been fiddling with my TI-89 from high school, and I think that I have it figured out. Assuming ethyl alcohol has a density of .789 kg/l and water has a density of 1 kg/l and assuming that water and alcohol are the only substances in an alcoholic beverage (which I know isn't true), the formula is:&lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;ABV = ABW ÷ (.211 · ABW + .789)
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;p&gt;The problem is that I can't confirm my formula. I'm searching Google and can't find much on the topic. Well… I can find plenty of calculators, but they all seem to be using a linear formula.&lt;/p&gt;
+
+					&lt;p&gt;So… is this formula correct?&lt;/p&gt;
+
+					&lt;hr&gt;
+
+					&lt;p&gt;EDIT: So, I've done a little more tweaking on this (after I already got the accepted answer). I already made the assumption that the density of water is 1 kg/l. The density that I used for ethyl alcohol was for 20°C. At that same temperature, water has a density of approximately .99823 kg/l and not 1 kg/l. Using this, I arrived at a different formula that's probably more accurate (at 20°C, that is):&lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;ABV = (99823 · ABW) ÷ (20923 · ABW + 78945)
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;p&gt;EDIT: Please see AlkonMikko's comment.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>3220</PostId>
+			<AcceptedAnswerId>3518</AcceptedAnswerId>
+			<Title>
+			"What do people mean when they ask for "A strong one"?"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>697</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-25T19:47:22.850</CreationDate>
+				<LastActivityDate>2017-05-26T18:01:23.367</LastActivityDate>
+				<ClosedDate>2015-08-10T15:52:11.897</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3717</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've never been onto a bar, but on TV and in films, there is often a scene when the main character is a little sullen, or stressed, and he goes into a bar, and asks for "a strong one". I think this means something with a high alcohol content, but what type of alcohol are they referring to? Whiskey? Gin, Beer? Vodka?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>4595</PostId>
+			<AcceptedAnswerId>6227</AcceptedAnswerId>
+			<Title>
+			"Eat bread before drink beer make you drunk less?"
+			</Title>
+			<Tags>
+				<tag>drinking</tag>
+				<tag>alcohol-level</tag>
+				<tag>non-alcoholic</tag>
+				<tag>preparation-for-drinking</tag>
+				<tag>alcohol</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>9070</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-21T05:32:16.793</CreationDate>
+				<LastEditDate>2017-02-24T08:11:41.757</LastEditDate>
+				<LastActivityDate>2017-05-18T12:07:43.630</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4545</OwnerUserId>
+				<LastEditorUserId>4545</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;My friends says if you eat some bread it will absorb the alcohol and make you high less. is it true?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>4667</PostId>
+			<AcceptedAnswerId>4669</AcceptedAnswerId>
+			<Title>
+			"Dumping small amount of cigarette ashes into the beers"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>18534</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-30T05:02:12.560</CreationDate>
+				<LastEditDate>2015-11-06T18:47:47.980</LastEditDate>
+				<LastActivityDate>2017-09-25T21:22:37.907</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1321</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Dumping  small amount of cigarette ashes into the beers , people say it helps give the beer an extra "kick"...&lt;/p&gt;
+
+					&lt;p&gt;how far this myth is true..&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>4693</PostId>
+			<AcceptedAnswerId>4694</AcceptedAnswerId>
+			<Title>
+			"What kind of beer has the highest alcohol percentage"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>869</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-11-18T04:44:17.943</CreationDate>
+				<LastActivityDate>2015-11-18T08:31:15.283</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Would the highest alcohol percentage be things like bud light or something resembling an ale?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>4734</PostId>
+			<AcceptedAnswerId>4740</AcceptedAnswerId>
+			<Title>
+			"Is there evidence that drinking beer on airplane have more "kick"?"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>181</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-12-25T09:17:08.417</CreationDate>
+				<LastActivityDate>2015-12-29T16:43:02.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I remember when my brother said that drinking beer on a plane have more "kick" than when in land, so we tried it. It was my first time being on a plane, so I don't know if that's the reason, but I felt the "kick" sooner, and it gave me a worse headache than usual, and that's just one can. &lt;/p&gt;
+
+					&lt;p&gt;Is this common? Does drinking in a plane make you more intoxicated?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>4797</PostId>
+			<AcceptedAnswerId>4798</AcceptedAnswerId>
+			<Title>
+			"Drinking beer with a straw"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>3232</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-01T21:36:16.320</CreationDate>
+				<LastActivityDate>2016-02-01T21:36:16.320</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4938</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Does drinking strong beer with a straw get you drunk faster? 
+					If this is true what causes this effect?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>5022</PostId>
+			<Title>
+			"What happens if drink buttermilk after 3-5 drinks(60ml each) rum or whiskey?"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>22446</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-24T04:17:54.167</CreationDate>
+				<LastEditDate>2016-09-07T08:30:59.733</LastEditDate>
+				<LastActivityDate>2016-09-07T08:30:59.733</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5468</OwnerUserId>
+				<LastEditorUserId>5655</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have heard that we should not drink milk products after we drink the xxx rum or whiskey.
+					I'm not sure.
+					But curd and buttermilk is always in my dinner. Can you make it clear?
+					What happens in the stomach when milk products and alcohol meet?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>5154</PostId>
+			<Title>
+			"Burned volume to alcohol percentage"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>alcohol-level</tag>
+				<tag>vodka</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>487</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-20T00:26:09.393</CreationDate>
+				<LastEditDate>2016-06-20T06:56:36.210</LastEditDate>
+				<LastActivityDate>2016-06-20T17:44:45.137</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5576</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In ancient Russia the way to measure "proper" strong spirits was to burn it - if the volume decreased by half than it was considered right one. How can I convert this into modern days alcohol percentage? Also, as a side note, how accurate this conversion would be? I mean which factors besides actual alcohol percentage would affect the process - ambient temperature? humidity? atmospheric pressure? And to which degree: +-1%? 5%?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>6551</PostId>
+			<AcceptedAnswerId>6556</AcceptedAnswerId>
+			<Title>
+			"What fortified red wines combine best with black olives, pistachio nuts and this particular cheese?"
+			</Title>
+			<Tags>
+				<tag>recommendations</tag>
+				<tag>alcohol-level</tag>
+				<tag>cooking</tag>
+				<tag>red-wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>245</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>8</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-19T13:27:22.677</CreationDate>
+				<LastEditDate>2017-02-19T16:50:02.690</LastEditDate>
+				<LastActivityDate>2017-02-19T23:26:46.510</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6422</OwnerUserId>
+				<LastEditorUserId>6422</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Recently I've been making a spaghetti dish where wine is the protagonist. 
+					The cooking of the spaghetti is finished in a sauce (whose cooking already started, too) made with red wine, oil, garlic and chilli pepper, so that they absorb much of it. 
+					When they're done, I add black olives and soft-texture cheese with an intense taste, not salted and slightly bitter, and mix up. Finally, the whole thing goes in the plate where minced pistachio nuts are waiting.&lt;/p&gt;
+
+					&lt;p&gt;I've come to the conclusion that I prefer a fortfied wine in here. Moreover, due to the pistachio nuts, I want a sweet aftertaste, but at the same time it should match the spicy flavour given by other ingredients. 
+					What are my European choices? 
+					I'd prefer cheap enough suggestions (maximum around 10 euros a bottle) but more complete overviews are welcome.&lt;/p&gt;
+
+					&lt;p&gt;You can see &lt;a href="http://www.parks.it/romanatura/Edettaglio_prodotto.php?id_prodotti=2078" rel="nofollow noreferrer"&gt;here&lt;/a&gt; the cheese at issue. Instead the wine I've used so far is &lt;a href="https://www.vivino.com/wineries/villafranca/wines/villa-ranca-rosso-gasperini-9999" rel="nofollow noreferrer"&gt;Rosso Gasperini&lt;/a&gt; (yes, I know this isn't fortified, the thing is I believe a fortified one would fare better).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>6561</PostId>
+			<AcceptedAnswerId>6573</AcceptedAnswerId>
+			<Title>
+			"What is the strongest drink in the world?"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+				<tag>spirits</tag>
+			</Tags>
+			<Credit> 
+				<Score>21</Score>
+				<ViewCount>14143</ViewCount>
+				<AnswerCount>10</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-21T14:18:32.453</CreationDate>
+				<LastEditDate>2017-03-02T20:36:04.800</LastEditDate>
+				<LastActivityDate>2017-04-14T14:54:44.693</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Assuming that it is available through 'normal' outlets - shops, supermarkets, off licenses etc... (in other words legal)  What (per unit) is the strongest alcoholic drink in the world?  Beers, wines and spirits included. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>6630</PostId>
+			<Title>
+			"How the idea of 30 ml, 60 ml and 90 ml drinks get started?"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+				<tag>preparation-for-drinking</tag>
+				<tag>alcohol</tag>
+				<tag>drink</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>28678</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-02T19:20:43.977</CreationDate>
+				<LastEditDate>2017-03-03T00:59:28.537</LastEditDate>
+				<LastActivityDate>2018-05-09T20:05:51.617</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2647</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Where did the idea of pouring 30 ml, 60 ml or 90 ml in drinks begin. Is there a theory or scientific reason behind it? Have gone through this post: &lt;a href="https://en.m.wikipedia.org/wiki/Peg_(unit)" rel="noreferrer"&gt;Peg (unit)&lt;/a&gt; from Wikipedia, but it does not help me.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;A peg is a unit of volume for measuring liquor in India and Nepal. The terms "large peg" and "small peg" are used, equal to 60 mL and 30 mL, respectively, with "peg" simply referring to a small peg. In India liquor's alcohol content is fixed at 42.8% ABV, it follows that a peg of liquor contains 25.68 mL of pure alcohol, or 20.26 g.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;And then there is this also: &lt;a href="https://en.m.wikipedia.org/wiki/Patiala_peg" rel="noreferrer"&gt;Patiala peg (Wikipedia)&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The Patiala peg is a measure of liquor popular in Indian Punjab. It is a volume roughly equivalent to 120 ml, though the rough and ready measure is the amount of liquor needed to fill a glass equal to the height between the index and little fingers when they are held parallel to one another.[1] Even major liquor companies have started selling their products in the single drink packaging of 90 ml &amp;amp; 120 ml bottles in India. The name originates from the city of Patiala, which was once a state known for the extravagant ways of its royalty and extraordinary height of its Sikh soldiers.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Did it originate in India ?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>6632</PostId>
+			<AcceptedAnswerId>6642</AcceptedAnswerId>
+			<Title>
+			"Is there a correct graph which describes various drinks"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>126</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-03T06:45:38.150</CreationDate>
+				<LastActivityDate>2017-03-06T05:24:10.177</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2647</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was going through list of drinks [Alcholic] . Was thinking is there any graph which subtly defines to which category of drinks they belong to . A more generic to top down approach of specific type . 
+					&lt;a href="https://en.wikipedia.org/wiki/List_of_alcoholic_drinks#Drinks_by_raw_material" rel="nofollow noreferrer"&gt;WIKI LINK&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>6991</PostId>
+			<Title>
+			"What are the exact risks of drinking alcohol in a too high concentration?"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>alcohol-level</tag>
+				<tag>spirits</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>312</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-21T06:19:47.037</CreationDate>
+				<LastEditDate>2017-08-22T11:24:44.800</LastEditDate>
+				<LastActivityDate>2017-08-24T10:40:07.820</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5393</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It is frequently mentioned that drinks of very high ABV should not be drunk neat because of their harmful effects. Examples of such claims can be found e.g. here: &lt;a href="https://alcohol.stackexchange.com/questions/6561/what-is-the-strongest-drink-in-the-world"&gt;What is the strongest drink in the world?&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;I'm curious though, what the exact hazards are? Obviously I'm asking about hazards that stem from the concentration alone and not from the quantity, which is the easier to overdose the higher the concentration is. In other words, how is it worse for health to drink a shot of 95.6% rectified spirits than to drink the same amount of alcohol, but diluted fairly with water?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>7116</PostId>
+			<Title>
+			"How much alcohol is in rum extract?"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>780</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-13T23:33:40.930</CreationDate>
+				<LastActivityDate>2017-12-14T01:59:00.307</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7420</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I generally use rum extract to make a "non-alcoholic" version of my eggnog recipe (which calls for rum and bourbon). However, the rum extract in my cupboard still technically has some alcohol in it, and therefore might not always be an acceptable substitute, depending on who I'm cooking for.&lt;/p&gt;
+
+					&lt;p&gt;What is the approximate difference in alcohol concentration when using an extract to mimic flavor, compared to the original spirit? I have always heard that the alcohol in (e.g.) rum extract is "trivial" or "insignificant," and certainly don't disagree -- but I am hoping for a more &lt;em&gt;quantitative&lt;/em&gt; measure.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>7245</PostId>
+			<AcceptedAnswerId>7247</AcceptedAnswerId>
+			<Title>
+			"Does adding honey to bottled wine increase the alcohol content?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>alcohol-level</tag>
+				<tag>abv</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>162</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-04-15T19:25:32.583</CreationDate>
+				<LastEditDate>2018-04-15T19:32:56.823</LastEditDate>
+				<LastActivityDate>2018-04-24T10:26:49.467</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7727</OwnerUserId>
+				<LastEditorUserId>7727</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I purchased a Montepulciano, added 80 grams of honey and some pepper, and then put it in the fridge. A glass of it after 24 hours seemed to me more alcoholic than what it was originally. 
+					Is it psychological, as I had read this was the case (but can't find the source right now, and I tend to think it's not true), or is the increase of ABV real? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>7424</PostId>
+			<AcceptedAnswerId>7425</AcceptedAnswerId>
+			<Title>
+			"Elder flower champagne best to use natural yeast or add a wine yeast?"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+				<tag>yeast</tag>
+				<tag>home-brew</tag>
+				<tag>champagne</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>25</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-09T11:03:28.823</CreationDate>
+				<LastActivityDate>2018-08-11T15:59:38.287</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7935</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have had much success making Elder Flower champagne in the past by adding the flower heads to large container of water, add sugar and little lemon for taste and leave for 2-4 weeks to ferment before filtering and bottling up in screw top bottles to get fermentation in the bottle and add some fizz to the drink.&lt;/p&gt;
+
+					&lt;p&gt;I have always used the natural yeast that occur on the elder flower and produce a 4-5% alcoholic drink. Just wondering if anyone had any advice on using any store bought yeast for obtaining higher % of alcohol and what side effects this might have on the taste etc.&lt;/p&gt;
+
+					&lt;p&gt;Many thanks&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

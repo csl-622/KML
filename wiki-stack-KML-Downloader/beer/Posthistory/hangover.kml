@@ -1,0 +1,780 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>29</PostId>
+			<ParentPostId>11</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:41:10.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I usually drink *strong* Belgian Ales, particularly Triples, Quads and Trappists, so I'm no stranger to strong beer.  But I've noticed that I get far, far worse hangovers when drinking IPAs.  
+
+					Is there anything about IPAs that would make this possible?  The lower quality places like ask.com or Yahoo answers usually say no, that only ABV produces hangovers, though one source did seem to imply that IPAs have special ingredients that make this a possibility. 
+
+					So I want to ask the experts here: do IPAs have ingredients that other strong beers lack, that could exacerbate hangovers? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>30</PostId>
+			<ParentPostId>11</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:41:10.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do IPAs cause worse hangovers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>31</PostId>
+			<ParentPostId>11</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:41:10.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ipa, hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>49</PostId>
+			<ParentPostId>21</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:46.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I frequently hear stories about people drinking their favorite pilsener, and not liking the other brand because "they'll get a hangover when drinking that brand".
+
+					Is there a truth in this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>50</PostId>
+			<ParentPostId>21</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:46.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can one pilsener cause a hangover when another doesn't?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>51</PostId>
+			<ParentPostId>21</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:46.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hangover, drinking, pilsener, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>3624</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-13T10:40:56.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have noticed that when I spend a night drinking the usual lagers found on bar taps in the UK (Heineken, Carlsberg, etc.), I have a much worse hangover than when I spend a night drinking locally brewed real ales (or mass-produced real ales such as Spitfire, Wainwright, etc.).
+
+					Is there any reason for this? Do lagers contain any ingredients that can cause worse hangovers than real ales?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>3625</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-13T10:40:56.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does drinking mainstream, mass-produced lagers give you a worse hangover than real ale?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>3626</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-13T10:40:56.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, lager, hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Unknown" >
+			<PostId>3692</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-11T02:59:54.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/509899105209188352
+			</EditDetails>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>6294</PostId>
+			<ParentPostId>11</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-03T09:12:31.013</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/572685974335070208
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Question Protected" >
+			<PostId>6423</PostId>
+			<ParentPostId>11</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-11T05:15:03.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>10972</PostId>
+			<ParentPostId>6262</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-29T23:04:16.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Guinness, absinthe, and ouzo have never given me a hangover even after those rare nights of extreme consumption... Now, I do usually consume absinthe in the traditional way (with equal parts water) but, I've been truly amazed to wake up with no hangover after doing the, again extreme, things that I've done to my body with the stuff previously.
+
+					What beverages have you consumed to the same end? And, why do you think they're "hangover-proof," if there is such a thing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>10973</PostId>
+			<ParentPostId>6262</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-29T23:04:16.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Which beverages have you consumed that have never given you a hangover?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>10974</PostId>
+			<ParentPostId>6262</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-29T23:04:16.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Post Closed" >
+			<PostId>11011</PostId>
+			<ParentPostId>6262</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-06T03:00:02.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":187,"DisplayName":"Rory Alsop"},{"Id":43,"DisplayName":"Monica Cellio"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Body" >
+			<PostId>11032</PostId>
+			<ParentPostId>6262</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-10T14:45:36.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<EditDetails>
+				added 673 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Guinness, absinthe, and ouzo have never given me a hangover even after those rare nights of extreme consumption... Now, I do usually consume absinthe in the traditional way (with equal parts water) but, I've been truly amazed to wake up with no hangover after doing the, again extreme, things that I've done to my body with the stuff previously.
+
+					What beverages have you consumed to the same end? And, why do you think they're "hangover-proof," if there is such a thing?
+
+					*EDIT*
+
+					This question should be answered from the perspective of personal experience. Also, I must admit that I was baiting for the Vodka answer... I usually get that one when I ask this question. As Rory points out, and as I've experienced personally, the lack of hangover from consumption of Vodka seems to be based on the person imbibing - I, myself, can begin to feel 'hangover symptoms' WHILE drinking Vodka (even when I'm imbibing equal parts water with it...) Sometimes, right after the first drink. This always happens if I accidentally consume the cheap stuff - regardless of the beverage...
+
+					Even when it's of excellent quality, I experience hangover-like symptoms after drinking white and sparkling wines.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Edit Title" >
+			<PostId>11033</PostId>
+			<ParentPostId>6262</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-10T14:45:36.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<EditDetails>
+				added 673 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Which beverages are least likely to give one a hangover? What induces hangover on a drink-to-drink basis?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Edit Body" >
+			<PostId>11034</PostId>
+			<ParentPostId>6262</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-11T02:51:46.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				made less opinion-based so it can be reopened; people might *answer* from personal experience, but asking for a survey in the question doesn't work well on SE.  There might be studies that can answer this, so we don't want to limit to just personal experience.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Guinness, absinthe, and ouzo have never given me a hangover even after those rare nights of extreme consumption... Now, I do usually consume absinthe in the traditional way (with equal parts water) but, I've been truly amazed to wake up with no hangover after doing the, again extreme, things that I've done to my body with the stuff previously.  On the other hand, even when it's of excellent quality I experience hangover-like symptoms after drinking white and sparkling wines, and when I drink vodka.
+
+					Are some alcoholic beverages known to be least likely to cause hangovers?  If so, what characteristics of the drinks affect this?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Post Reopened" >
+			<PostId>11035</PostId>
+			<ParentPostId>6262</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-11T02:51:51.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":43,"DisplayName":"Monica Cellio"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>11064</PostId>
+			<ParentPostId>6297</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-20T09:59:17.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5931</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Occasionally, I catch myself having a beer or two too much. Which ofcourse can cause hangovers. I was wondering what one can do to prevent this? Or what can be done if it's already too late.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>11065</PostId>
+			<ParentPostId>6297</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-20T09:59:17.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5931</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What to do against massive hangovers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>11066</PostId>
+			<ParentPostId>6297</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-20T09:59:17.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5931</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Edit Title" >
+			<PostId>11076</PostId>
+			<ParentPostId>6297</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-20T16:17:50.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5931</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What to do against hangovers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Unknown" >
+			<PostId>11090</PostId>
+			<ParentPostId>6297</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-24T09:22:18.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/779611907326107648
+			</EditDetails>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>12117</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T05:52:47.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Just recently I discovered that not only can I vape in stead of smoking, but I can also vape instead of drinking.  What's vaping alcohol all about?  Well, you put a shot of spirits into an orb, which sits over a small candle (tea-light), and then through a glass or metal straw inhale the results.([check it out here with buzzfeed][1])
+
+					I understand that the alcohol bypasses the liver stage and just goes straight to your head and lungs.  So, none of that 'oops, I've drunk too much - excuse me whilst I visit the bathroom' nonsense, with this method you apparently don't get to expell what your body can't handle.
+
+					With all this in mind, is there a limit (average) that can be vaped without doing myself some serious brain damage?
+
+
+					  [1]: https://www.buzzfeed.com/nicolenguyen/we-tried-vaping-alcohol-and-it-was-definitely-something?utm_term=.cmNBppdOp#.ibzzeegYe
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>12118</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T05:52:47.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Vaping Alcohol - fad or here to stay?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>12119</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T05:52:47.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, health, hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Edit Body" >
+			<PostId>12120</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T06:42:48.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				Added: So is this just another fad or is this the future?
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Just recently I discovered that not only can I vape in stead of smoking, but I can also vape instead of drinking.  What's vaping alcohol all about?  Well, you put a shot of spirits into an orb, which sits over a small candle (tea-light), and then through a glass or metal straw inhale the results.([check it out here with buzzfeed][1])
+
+					I understand that the alcohol bypasses the liver stage and just goes straight to your head and lungs.  So, none of that 'oops, I've drunk too much - excuse me whilst I visit the bathroom' nonsense, with this method you apparently don't get to expell what your body can't handle.
+
+					With all this in mind, is there a limit (average) that can be vaped without doing myself some serious brain damage?  So is this just another fad or is this the future?
+
+
+					  [1]: https://www.buzzfeed.com/nicolenguyen/we-tried-vaping-alcohol-and-it-was-definitely-something?utm_term=.cmNBppdOp#.ibzzeegYe
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Edit Body" >
+			<PostId>12121</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T06:54:10.697</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				Added pic
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Just recently I discovered that not only can I vape in stead of smoking, but I can also vape instead of drinking.  What's vaping alcohol all about?  Well, you put a shot of spirits into an orb, which sits over a small candle (tea-light), and then through a glass or metal straw inhale the results.([check it out here with buzzfeed][1])
+
+					This is what the Vaportini looks like - credit Vaportini
+
+					[![enter image description here][2]][2]
+
+					I understand that the alcohol bypasses the liver stage and just goes straight to your head and lungs.  So, none of that 'oops, I've drunk too much - excuse me whilst I visit the bathroom' nonsense, with this method you apparently don't get to expell what your body can't handle.
+
+					With all this in mind, is there a limit (average) that can be vaped without doing myself some serious brain damage?  So is this just another fad or is this the future?
+
+
+					  [1]: https://www.buzzfeed.com/nicolenguyen/we-tried-vaping-alcohol-and-it-was-definitely-something?utm_term=.cmNBppdOp#.ibzzeegYe
+					  [2]: https://i.stack.imgur.com/yPuQO.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Edit Body" >
+			<PostId>12122</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T10:32:41.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				Added:  effect on the lungs
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Just recently I discovered that not only can I vape in stead of smoking, but I can also vape instead of drinking.  What's vaping alcohol all about?  Well, you put a shot of spirits into an orb, which sits over a small candle (tea-light), and then through a glass or metal straw inhale the results.([check it out here with buzzfeed][1])
+
+					This is what the Vaportini looks like - credit Vaportini
+
+					[![enter image description here][2]][2]
+
+					I understand that the alcohol bypasses the liver stage and just goes straight to your head and lungs.  So, none of that 'oops, I've drunk too much - excuse me whilst I visit the bathroom' nonsense, with this method you apparently don't get to expell what your body can't handle.
+
+					With all this in mind, is there a limit (average) that can be vaped without doing myself some serious brain damage?  What also is the effect on the lungs?  Is this just another fad or is this the future?
+
+
+					  [1]: https://www.buzzfeed.com/nicolenguyen/we-tried-vaping-alcohol-and-it-was-definitely-something?utm_term=.cmNBppdOp#.ibzzeegYe
+					  [2]: https://i.stack.imgur.com/yPuQO.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>12692</PostId>
+			<ParentPostId>6811</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-30T13:58:57.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently I posted a question ([here][1]) regarding adding flavor to vodka.  In my usual exuberance and non-scientific approach to matters I thought 'I know, to cut a few calories I will add Splenda'.  OK, the taste was OK, the orange and lemon peel that I steeped in the vodka gave the drink a nice, if not bitter taste.  I added splenda - and then experimented on myself (can't find anyone stupid enough to join me in these ventures!).  I drank the 'vodka' in the same manner (volume) as I would a standard vodka or gin.  Now, first morning after, the raging headache should have been sufficient - but looking for a more conclusive scientific result I tried the 'experiment' for a couple more nights, with the same results each following morning.  So, my question is:  Does adding an artificial sweetener to alcohol increase the chance of a hangover?
+
+
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/6785/adding-flavor-to-vodka
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>12693</PostId>
+			<ParentPostId>6811</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-30T13:58:57.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Using 'splenda' in Vodka infusions. Serious headache!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>12694</PostId>
+			<ParentPostId>6811</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-30T13:58:57.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, vodka, hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Body" >
+			<PostId>13666</PostId>
+			<ParentPostId>7155</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-19T15:42:52.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The internet is full of hangover cures - (I need a drink just reading them all!)
+
+					Just how many can claim to be backed by science?
+
+					Obvious strategies include staying hydrated, getting plenty of sleep, eating a good breakfast and taking certain supplements, all of which could reduce your hangover symptoms.
+
+					But is there an instant cure?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Title" >
+			<PostId>13667</PostId>
+			<ParentPostId>7155</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-19T15:42:52.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any sure fire hangover cures?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Tags" >
+			<PostId>13668</PostId>
+			<ParentPostId>7155</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-19T15:42:52.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hangover, science, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Post Closed" >
+			<PostId>13691</PostId>
+			<ParentPostId>7155</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-26T11:08:01.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[6297],"Voters":[{"Id":938,"DisplayName":"mcraen"},{"Id":5064,"DisplayName":"Ken Graham"},{"Id":6111,"DisplayName":"farmersteve"},{"Id":187,"DisplayName":"Rory Alsop"},{"Id":5078,"DisplayName":"Jamie Eltringham"}]}
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

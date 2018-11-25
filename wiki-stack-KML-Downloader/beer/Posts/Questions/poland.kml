@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>172</PostId>
+			<AcceptedAnswerId>228</AcceptedAnswerId>
+			<Title>
+			"How do popular Polish beers fit into the "periodic table of beers"?"
+			</Title>
+			<Tags>
+				<tag>classification</tag>
+				<tag>poland</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>173</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T09:17:57.770</CreationDate>
+				<LastEditDate>2016-10-08T19:49:15.790</LastEditDate>
+				<LastActivityDate>2016-10-08T19:49:15.790</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>130</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In Poland, outside of imports, microbreweries, and various less popular varieties, about all mainstream brands come in two classes:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Piwo Jasne ('light beer')&lt;/li&gt;
+					&lt;li&gt;Piwo Mocne ('strong beer')&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;The two comprise the massive bulk of the market and are about never labeled differently, save for brand-specific marketing variations.&lt;/p&gt;
+
+					&lt;p&gt;I'd like to learn how they fit into the wider image. Are they lagers, stouts, ales, or maybe something yet different? A class of their own?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

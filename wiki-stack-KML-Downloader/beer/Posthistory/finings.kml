@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1519</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T15:38:04.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Isinglass][1] is a fining - when added to beer it helps the beer clarify - and it's a form of collagen derived from fish swim bladders. 
+
+					Given that this is an animal-derived product, to breweries have to declare this on the packaging?
+
+
+					  [1]: http://en.wikipedia.org/wiki/Isinglass
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>1520</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T15:38:04.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does use of Isinglass require special mention on the beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>1521</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T15:38:04.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					finings, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>1523</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T18:36:34.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<EditDetails>
+				typo
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					[Isinglass][1] is a fining - when added to beer it helps the beer clarify - and it's a form of collagen derived from fish swim bladders. 
+
+					Given that this is an animal-derived product, do breweries have to declare this on the packaging?
+
+
+					  [1]: http://en.wikipedia.org/wiki/Isinglass
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>1532</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T01:36:42.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433051938994028544
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

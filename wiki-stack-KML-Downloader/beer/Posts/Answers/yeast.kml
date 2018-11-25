@@ -1,0 +1,780 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>180</PostId>
+			<ParentPostId>60</ParentPostId>			<Tags>
+				<tag>health</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T11:39:21.440</CreationDate>
+				<LastActivityDate>2014-01-22T11:39:21.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>117</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Our bodies are ecosystems as much as they are machines.  We have a wide variety of microbes in our intestines and even if the yeast is not the culprit something else could be encouraged to grow.  I tend to suspect this is the real problem for the entirely unscientific reason that I have never noticed pasteurization to affect whether I am bloated after drinking beer (and sometimes it happens, and sometimes it doesn't).&lt;/p&gt;
+
+					&lt;p&gt;So in answer to your question, it is complicated, and it might be a factor but it is almost certainly not the only one.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>402</PostId>
+			<ParentPostId>401</ParentPostId>			<Tags>
+				<tag>history</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T08:53:46.477</CreationDate>
+				<LastEditDate>2014-01-29T16:13:10.360</LastEditDate>
+				<LastActivityDate>2014-01-29T16:13:10.360</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>171</OwnerUserId>
+				<LastEditorUserId>171</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There is no production of alcohol without yeast. Bevore the "discovery" (better: selection and cultivation) of the Yeasts we know and use today, humans had to rely on luck.&lt;/p&gt;
+
+					&lt;p&gt;Its a wild fermentation, many different microbes and fungi are competing for their nutrition (sugar). 
+					The problem here is: Many yeasts produces fusel alcohol, i.e. methyl alcohol (which can cause blindness).
+					Other bacteria could cause the fermentation to vinegar.&lt;/p&gt;
+
+					&lt;p&gt;So the resulting product seldom was good, mostly it was not drinkable for us today ;)&lt;/p&gt;
+
+					&lt;p&gt;Since the cultivation of special yeasts it's possible to control the fermentation, while adding a big amount of the yeast. So this yeast has a big advantage over others. Further the produced alcohol and carbondioxyde protects the beverage from other organisms.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>403</PostId>
+			<ParentPostId>401</ParentPostId>			<Tags>
+				<tag>history</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T09:58:15.303</CreationDate>
+				<LastActivityDate>2014-01-29T09:58:15.303</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>130</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are many plants where yeast grows in symbiotic mutuality. Take fresh dark grapes - the slight white "sediment" on the surface is natural yeast, and you won't find grapes without it. &lt;/p&gt;
+
+					&lt;p&gt;Another such plant is barley. Normally, the yeast only appears on the seeds, in relatively small amounts. Malting creates optimal environment for the yeast growth though, making the whole volume of the seed (as opposed to just the surface) nutritious for the yeast, and as it grows, it produces alcohol.&lt;/p&gt;
+
+					&lt;p&gt;Sure there is always a risk that a different culture of fungi or bacteria takes over, killing off the yeast (and e.g. producing vinegar instead of alcohol) but if brewing is performed in relative cleanliness, with little contaminants that could disrupt the process, the natural yeast will take over and dominate it, killing off all competing cultures.&lt;/p&gt;
+
+					&lt;p&gt;Currently, cultured yeast provide a kick-start to the process, simply leaving no time for different cultures to dominate the batch, and radically shortening the process that would normally take a long time until natural yeast reaches concentrations you create by just adding cultured yeast, but it's not essential to the process - it's just a strong push in the right direction.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>408</PostId>
+			<ParentPostId>401</ParentPostId>			<Tags>
+				<tag>history</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T13:42:29.423</CreationDate>
+				<LastActivityDate>2014-01-29T13:42:29.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>263</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Before brewers discovered the importance of yeast in the brewing process they had to rely on the local wild yeasts for fermentation.  Louis Pasteur discovered the importance of yeast to brewing in 1857.&lt;/p&gt;
+
+					&lt;p&gt;Ancient brewers still used the same process of mashing the grains to extract sugars for fermentation and adding hops for bittering and preservation.  As a side note, prior to the use of hops in brewing brewers used a mix of herbs called "gruit" which provided flavoring but no preservation.&lt;/p&gt;
+
+					&lt;p&gt;Certain areas of the world are known to have wild yeasts better suited to brewing and still produce beers of this style today, such as Belgian lambics.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>414</PostId>
+			<ParentPostId>401</ParentPostId>			<Tags>
+				<tag>history</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>20</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T15:53:09.787</CreationDate>
+				<LastActivityDate>2014-01-29T15:53:09.787</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>224</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You don't need to know what something is to use it effectively.  Though yeast was only identified as a microorganism recently, it has been known as the cause of fermentation for many centuries.  It's easy to underestimate how sophisticated people throughout history were.&lt;/p&gt;
+
+					&lt;p&gt;Before yeast was monocultured in labs it was actively cultured by brewers.  They would transfer the yeast cake from a batch that's finishing into a recently-brewed batch.  This cake contained a whole ecosystem of yeasts and bacterias, but a few strains were usually dominant.&lt;/p&gt;
+
+					&lt;p&gt;By applying artificial selection brewers developed different strains of yeast in different areas.  The yeast culture was &lt;em&gt;the&lt;/em&gt; make-or-break characteristic of a brewery, and defined the styles of beer that could be produced more than any other factor (other than water in Burton).&lt;/p&gt;
+
+					&lt;p&gt;Evidence of this process comes from the history of lager: bottom-fermenting yeast (Saccharomyces carlsbergensis) emerged in the fifteenth century as a direct result of the cold storage regime of northern brewers such as Carlsberg.&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;They may not have known it was a microorganism, but middle ages brewers most certainly knew that yeast was the cause of fermentation.  That's why they called it "Godisgood".&lt;/strong&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>439</PostId>
+			<ParentPostId>401</ParentPostId>			<Tags>
+				<tag>history</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>-1</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-30T05:05:01.370</CreationDate>
+				<LastActivityDate>2014-01-30T05:05:01.370</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The Vikings used to brew beer (some of us still do!). They did this without the specific knowledge of yeast. Each family owned a stock of wood that belonged to the family brewery which was used to stir the wort prior to fermentation. This inoculated the wort and provided the yeast needed for fermentation.&lt;/p&gt;
+
+					&lt;p&gt;Although they didn't know why it happened, they did know that unless they used the stirring stock, they wouldn't get beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>572</PostId>
+			<ParentPostId>571</ParentPostId>			<Tags>
+				<tag>freshness</tag>
+				<tag>yeast</tag>
+				<tag>filtering</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-08T00:47:48.623</CreationDate>
+				<LastActivityDate>2014-02-08T00:47:48.623</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>288</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It depends on how much sugar is present in the bottled beer.&lt;/p&gt;
+
+					&lt;p&gt;If the beer is bottle-conditioned, a small amount of sugar is added deliberately in order to carbonate the beer. Once the yeast have eaten all the sugar, they stop producing carbon dioxide and fall to the bottom of the bottle. This is not physiologically harmful in any way, but the beer might need to be poured carefully to avoid too much yeast in the glass.&lt;/p&gt;
+
+					&lt;p&gt;(If the beer is force-carbonated at the brewery, the yeast may contribute to the flavor of the beer, but does not produce any CO&lt;sub&gt;2&lt;/sub&gt;.)&lt;/p&gt;
+
+					&lt;p&gt;Harpoon's UFO appears to be bottle-conditioned, meaning the carbonation is produced naturally by the yeast. It's a hefeweizen, where the yeast character is actually desired - most people recommend to pour half the bottle, swirl it to suspend the remaining yeast, and then pour the rest.&lt;/p&gt;
+
+					&lt;p&gt;(Now, home-brewed beer &lt;em&gt;can&lt;/em&gt; be harmful if too much sugar is added at bottling - the bottles can explode and cause injury. The &lt;em&gt;beer itself&lt;/em&gt; doesn't become harmful, though.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>573</PostId>
+			<ParentPostId>571</ParentPostId>			<Tags>
+				<tag>freshness</tag>
+				<tag>yeast</tag>
+				<tag>filtering</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-08T13:53:53.200</CreationDate>
+				<LastEditDate>2014-02-09T05:40:30.083</LastEditDate>
+				<LastActivityDate>2014-02-09T05:40:30.083</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+				<LastEditorUserId>112</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The yeast have most likely stopped fermenting by the time you get the bottle, considering it's probably at least a 5 days old by that point. &lt;/p&gt;
+
+					&lt;p&gt;The yeast stop when the fermentable sugars have been consumed. This doesn't mean they consume all sugars in the beer, but rather just those that are fermentable. Most beer has both fermentable and unfermentable sugars. This ensures there is some body still to the beer from the unfermentable sugars when fermentation is complete.&lt;/p&gt;
+
+					&lt;p&gt;It's unlikely even if kept warm that the yeast will produce more carbon dioxide or cause any harm to the beer - there is nothing available they can metabolize, so they floc to the bottom and go dormant.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>669</PostId>
+			<ParentPostId>668</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-17T22:09:35.913</CreationDate>
+				<LastActivityDate>2014-03-17T22:09:35.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>647</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Short answer; you get a lot of the flavour from the yeast, you can get a fairly big difference by varying the yeast in your recipe.&lt;/p&gt;
+
+					&lt;p&gt;For example, a Saison and a Pale ale have similar ingredients, but taste quite different, a Saison yeast imparts a considerable amount of flavour... likewise if you use a lager yeast, and properly lager your beer, you can get a different flavour again, without modifying any other part of your recipe.&lt;/p&gt;
+
+					&lt;p&gt;Lots of discussion on HomeBrewTalk forums, and other places. For a fun experiment, brew split batches and try two different yeasts to compare!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>673</PostId>
+			<ParentPostId>672</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-18T17:49:49.470</CreationDate>
+				<LastActivityDate>2014-03-18T17:49:49.470</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>656</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Belgian Lambics are probably the most notable beers brewed with wild yeast. They are fermented in open vats, and wild yeast strains specific to the area contribute a very distinctive flavor to these beers. Lindeman's is probably the best known commerical example in the US, although these beers are sweetened and are not usually considered a true example of the style. &lt;/p&gt;
+
+					&lt;p&gt;There are strains of wild yeast that have been cultivated for commercial use such as &lt;a href="http://en.wikipedia.org/wiki/Brettanomyces"&gt;&lt;em&gt;Brettanomyces&lt;/em&gt;&lt;/a&gt;. Breweries use this yeast to produce sour flavors via lactic acid production. Brewers will use it both in primary fermentation, and by aging their beer in barrels that have been "infected" with it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>676</PostId>
+			<ParentPostId>675</ParentPostId>			<Tags>
+				<tag>pouring</tag>
+				<tag>yeast</tag>
+				<tag>hefeweizen</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-19T15:41:25.937</CreationDate>
+				<LastActivityDate>2014-03-19T15:41:25.937</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>39</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A proper hefeweizen is an unfiltered beer. The yeast and other sediment that would be filtered out for other brews is left in. These particles tend to accumulate on the bottom of the bottle during storage.&lt;/p&gt;
+
+					&lt;p&gt;By swirling the the beer in the bottle you're suspending that yeast and sediment so it can be poured into your glass. This is what gives hefeweizens their fruity (banana?) flavor.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>944</PostId>
+			<ParentPostId>401</ParentPostId>			<Tags>
+				<tag>history</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-22T14:05:12.337</CreationDate>
+				<LastEditDate>2014-07-23T07:01:48.923</LastEditDate>
+				<LastActivityDate>2014-07-23T07:01:48.923</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1125</OwnerUserId>
+				<LastEditorUserId>1125</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Actually, there are still people who brew the same way people did before the discovery of yeast, so we have a pretty good idea how it worked. There are also data from early 20-th century ethnological surveys where brewers describe their methods. Some of the equipment used for yeast transfer is still in use, or in ethnological museums.&lt;/p&gt;
+
+					&lt;p&gt;People usually didn't brew that often, so they couldn't transfer the yeast cake itself. Instead, they would collect yeast from the previous brew and either keep it in a jar that they kept cool, for example in a well, or by drying it on a wooden log, piece of linen, straw ring, etc etc etc. There were lots of methods, but they basically boil down to either keeping wet or dry yeast. Odd Nordland's 1969 book is the only detailed source of information on this that I know; unfortunately it's near-impossible to get hold of.&lt;/p&gt;
+
+					&lt;p&gt;As far as I know, this type of yeast and yeast use only survives in two places: the Lithuanian province of Aukstatija, and western Norway (specfically, Hardanger, Voss, and Sunnmøre).&lt;/p&gt;
+
+					&lt;p&gt;I've written &lt;a href="http://www.garshol.priv.no/blog/264.html" rel="nofollow"&gt;a summary of what's known of Norwegian practices&lt;/a&gt;, and earlier this year I was able to brew with a brewer who still uses his family's ancestral yeast strain. I've published &lt;a href="http://www.garshol.priv.no/blog/291.html" rel="nofollow"&gt;an account of that brewing session&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;p&gt;I hope people will forgive me for linking to my own stuff here. I don't know of any other detailed sources of information on the web anywhere.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13" InstanceType="answer">
+			<PostId>3487</PostId>
+			<ParentPostId>672</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-20T14:23:33.030</CreationDate>
+				<LastActivityDate>2015-07-20T14:23:33.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4338</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Well, people at the craft beer industry just doesn't have limits, so, guess what? They are doing primary fermentation with Brettanomyces for many styles, including popular ones, like IPAs (look for brett ipa on Google). I don't know very specific details about the strains used for it, but I do know there are a few ones in the market right know. Probably some of them are more suitable for it than other ones.&lt;/p&gt;
+
+					&lt;p&gt;As far as I know, Brett doesn't take longer than any ale yeast to ferment (primarily), and gives a slightly different aroma and taste profile, but nothing funky like it does in secondary fermentation/maturation, which is that slow process you probably have heard of, when it eats complex sugars and other compounds, ending up with that barnyard aroma. &lt;strong&gt;And contrary to what many people think, it doesn't acidify the beer (brett produces only a small amount of acid, not enough to sour it). When people want to brew sours, they use bacteria.&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;Actually, at a glance, 100% brett beers aren't so different from beers fermented with Saccharomyces. Off course, this is completely different from adding brett to the bootle and letting it to develop over time.&lt;/p&gt;
+
+					&lt;p&gt;Why brewers are doing it? A guess they ask the exact opposite: you should we not do this? =)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14" InstanceType="answer">
+			<PostId>4942</PostId>
+			<ParentPostId>60</ParentPostId>			<Tags>
+				<tag>health</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-08T13:32:13.527</CreationDate>
+				<LastActivityDate>2016-04-08T13:32:13.527</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5282</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Here's a good link regarding yeast, now this article is talking about candida but can likely apply to other strains of yeast&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://www.needs.com/product/NDNL-0704-01/a_Probiotics" rel="nofollow"&gt;http://www.needs.com/product/NDNL-0704-01/a_Probiotics&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;In a nut shell, a definite answer is not always easy to come by in medicine since many factors can give different results. Anything from the make up of your intestinal flora, your diet, to medications you take can have different affects that may be causing bloating or excessive flatulance. To answer your question, yes it could be the yeast activity but also it may be an intolerance to the yeast itself, also the bacteria in your intestines may not like the "new" yeast introduced and may produce additional toxins. Or  a combination of all this plus more.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15" InstanceType="answer">
+			<PostId>4955</PostId>
+			<ParentPostId>4947</ParentPostId>			<Tags>
+				<tag>hops</tag>
+				<tag>yeast</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-15T08:50:14.683</CreationDate>
+				<LastActivityDate>2016-04-15T08:50:14.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>984</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This discussion would be more suitable in the homebrew stack as Andrew said, but I will answer it anyway.&lt;/p&gt;
+
+					&lt;p&gt;You are on the right track, making a simple pilsner recipe will show you the effects of the malt, yeast, water and hops.&lt;/p&gt;
+
+					&lt;p&gt;There is a technique called SMASH (single malt, single hops), which is widely used to "test" the effect of a new ingredient. It is pretty much exactly what you are doing. &lt;/p&gt;
+
+					&lt;p&gt;The best technique: brew as often as possible. Be critical of your beer. Get a BJCP judge (or similar) to try your beer and give you feedback.&lt;/p&gt;
+
+					&lt;p&gt;Relax, dont worry, have a homebrew. (Papasian).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16" InstanceType="answer">
+			<PostId>6264</PostId>
+			<ParentPostId>6241</ParentPostId>			<Tags>
+				<tag>yeast</tag>
+				<tag>mead</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-30T01:10:24.847</CreationDate>
+				<LastActivityDate>2016-08-30T01:10:24.847</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5160</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Bread yeast is very close to brewers yeast.&lt;/p&gt;
+
+					&lt;p&gt;There is a mead recipe you can search-up: "Joes ancient orange mead", which does specify using bread yeast, rather than specific mead yeast.  Many home brewers make this with good levels of success.&lt;/p&gt;
+
+					&lt;p&gt;Failing that, you can grow naturally-occurring yeast from the skins of fresh and dried fruits (e.g.: grapes). We used to do this as kids to carbonate ginger beer soft drink (aka: soda). &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17" InstanceType="answer">
+			<PostId>6401</PostId>
+			<ParentPostId>6400</ParentPostId>			<Tags>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-24T16:41:47.430</CreationDate>
+				<LastEditDate>2016-12-10T00:42:18.967</LastEditDate>
+				<LastActivityDate>2016-12-10T00:42:18.967</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5145</OwnerUserId>
+				<LastEditorUserId>5145</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I think this homebrew post has a good explanation of how brewers keep yeast strains. &lt;a href="https://homebrew.stackexchange.com/questions/1753/how-do-new-yeast-strains-happen" title="Homebrew yeast discussion"&gt;Homebrew yeast discussion&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;White labs from San Diego also has a great &lt;a href="http://www.whitelabs.com/resources/how-we-make-yeast" rel="nofollow noreferrer"&gt;slide about how they do it&lt;/a&gt;. White labs is the company just finished the study of the &lt;a href="http://www.whitelabs.com/news/Cell-study-qa-troels-prahl" rel="nofollow noreferrer"&gt;yeast domestication tree&lt;/a&gt;, where they analyzed the DNA of several yeast used in fermentation and determined how they are related. I've seen Chris White the founder speak at a homebrew event and it was very interesting. He has a Phd in microbiology from the university of california and sells to all sorts of professional brewers, distillers, and wine makers.&lt;/p&gt;
+
+					&lt;p&gt;I'll summarize the information from the references here, 
+					but the bottom line is that they store samples at very cold temperatures so it's metabolism is almost shutdown and it won't evolve.&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;&lt;p&gt;Brewers isolate there yeast in slants or plates. These are the pure strain.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;The yeast that is isolated will be stored at a very cold temperature to remain dormant and unchanging. (-80 Celsius)&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;When they need to recharge because their yeast has drifted they remove a small amount from storage.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Using petri dishes they will grow a small size they can verify is still good.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;With this small batch they will add to wort (what brewers call the sugary liquid that makes beer) and then make a large batch of yeast.&lt;/p&gt;&lt;/li&gt;
+					&lt;/ol&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18" InstanceType="answer">
+			<PostId>6405</PostId>
+			<ParentPostId>6400</ParentPostId>			<Tags>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-28T19:10:58.590</CreationDate>
+				<LastActivityDate>2016-11-28T19:10:58.590</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6148</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Macrobreweries such as Budweiser brew several gigantic vats at a time, and they blend the various vats' products to create a consistent product.  They have a board of tasters at each factory to taste the batch and recommend what to blend to get the proper flavor. I know it's funny to think of Budweiser as having that kind of quality control, but they do have a specific flavor profile to protect and their drinkers are less likely to accept flavor variances than more adventurous beer drinkers and light pilsners have less of an ability to cover off flavors.&lt;/p&gt;
+
+					&lt;p&gt;Sources: homebrewing experience and an Q&amp;amp;A with a Budweiser master brewer and taster.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19" InstanceType="answer">
+			<PostId>6406</PostId>
+			<ParentPostId>6400</ParentPostId>			<Tags>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-29T00:00:13.030</CreationDate>
+				<LastActivityDate>2016-11-29T00:00:13.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are really two questions here. 
+					1) How do breweries keep the yeast they have from evolving over time
+					2) How to breweries keep a consistent flavor over time&lt;/p&gt;
+
+					&lt;p&gt;I'll answer the second one first...&lt;/p&gt;
+
+					&lt;p&gt;As to how do they keep the flavor the same all the time, year after year even though ingredients taste different from year to year? It's all about blending. They try to brew a consistent beer but it might be too hoppy or malty or strong or whatever but they will dilute, or add hop oil or blend in another beer that can adjust the flavor profile to exactly what they want. The same thing happens with Gallo and large wineries.&lt;/p&gt;
+
+					&lt;p&gt;As to the answer to how they keep the same yeast the same year after year. You can essentially keep yeast forever by deep freezing it. I'm sure they have a vault filled with a library of yeast which they can go back to if they ever need to whip up a batch of new yeast from the original yeast. &lt;/p&gt;
+
+					&lt;p&gt;I'll throw this in there too, that the taste of the major brands has evolved over the years. The Budweiser your great grandfather drank in the 1950s probably doesn't taste like the product you get now.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20" InstanceType="answer">
+			<PostId>6700</PostId>
+			<ParentPostId>6683</ParentPostId>			<Tags>
+				<tag>storage</tag>
+				<tag>aging</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-25T10:09:56.030</CreationDate>
+				<LastActivityDate>2017-03-25T10:09:56.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4857</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Quick answer no. The yeast used should have very little effect on on the expiry date. Things that will affect this more are:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Temperature of fermentation&lt;/li&gt;
+					&lt;li&gt;Hot side aeration&lt;/li&gt;
+					&lt;li&gt;Cold side aeration&lt;/li&gt;
+					&lt;li&gt;Pasteurization&lt;/li&gt;
+					&lt;li&gt;Filtration&lt;/li&gt;
+					&lt;li&gt;Colour of bottle the beer is stored in&lt;/li&gt;
+					&lt;li&gt;Type of beer ie % dark malts&lt;/li&gt;
+					&lt;li&gt;Live product vs sterile filtered&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;This list is incomplete. This is an incredibly complex subject, there are PhDs in Brewing/Chemistry handed out for small aspects of each of these topics.&lt;/p&gt;
+
+					&lt;p&gt;Here is a quick overview presentation of the technical aspects surrounding beer stability and stabilisation. &lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://www.craftbrewersconference.com/wp-content/uploads/2015_presentations/F1420_Deniz_Bilge.pdf" rel="nofollow noreferrer"&gt;https://www.craftbrewersconference.com/wp-content/uploads/2015_presentations/F1420_Deniz_Bilge.pdf&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21" InstanceType="answer">
+			<PostId>7107</PostId>
+			<ParentPostId>7071</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>wine</tag>
+				<tag>yeast</tag>
+				<tag>fermentation</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-07T04:38:26.730</CreationDate>
+				<LastActivityDate>2017-12-07T04:38:26.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7409</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's difficult to answer why fermentation did not complete without further information.&lt;/p&gt;
+
+					&lt;p&gt;It's quite possible the sugar content was too high and pH to low for whatever yeast was added to survive and begin fermentation.&lt;/p&gt;
+
+					&lt;p&gt;Vinegar however is created when bacteria that produce acetic acid are present in an environment with a sugar source and oxygen. They will thrive off of the sugar just like brewer's yeast, but will also produce acetic acid as a byproduct of their life processes.&lt;/p&gt;
+
+					&lt;p&gt;If you wish to make cherry wine, I would suggest diluting the juice down to somewhere in the range of a sugar concentration of 10 percent, measuring with a hydrometer or refractometer, and using a yeast, possibly a dry wine yeast, that can withstand alcohol in ranges of 10-14 percent abv.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22" InstanceType="answer">
+			<PostId>7197</PostId>
+			<ParentPostId>7196</ParentPostId>			<Tags>
+				<tag>wine</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-26T13:50:32.080</CreationDate>
+				<LastActivityDate>2018-02-26T13:50:32.080</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Vinometers don't work on beer or wine with residual sugars. You need to use a hydrometer. Vinometers only works with dry wine.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23" InstanceType="answer">
+			<PostId>7199</PostId>
+			<ParentPostId>7198</ParentPostId>			<Tags>
+				<tag>wine</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-26T20:15:19.940</CreationDate>
+				<LastActivityDate>2018-02-26T20:15:19.940</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are specific steps to restarting a stuck wine/mead/high gravity beer. You can read the whole procedure &lt;a href="http://blog.eckraus.com/making-a-wine-yeast-starter-to-restart-a-stuck-fermentation" rel="nofollow noreferrer"&gt;here&lt;/a&gt;. You'll need some champagne yeast or some other special yeast used to restart stuck fermentations. But it starts with this:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;For restarting 5 or 6 gallons, take a quart jar and fill it half way
+					  with the wine in question. Add to that, water until the jar is 2/3
+					  full. Put in the mix a 1/4 teaspoon of yeast nutrient, and 3
+					  tablespoons of sugar. Be sure that the sugar becomes completely
+					  dissolve. Now you can add a whole packet of the Champagne yeast. Cover
+					  the jar with a paper towel and secure with a rubber band.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24" InstanceType="answer">
+			<PostId>7340</PostId>
+			<ParentPostId>7111</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>yeast</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-14T14:00:30.720</CreationDate>
+				<LastActivityDate>2018-06-14T14:00:30.720</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7852</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some sugars won't start a fermentation with brewer's yeast at all, such a lactose. In such case, sooner or later other organisms would take over (e.g. lactobacteria).&lt;/p&gt;
+
+					&lt;p&gt;Any sugars that can be fermented, would ferment at different speeds. As there is usually more than one kind of sugar present, the easy ones ferment first until the alcohol kills off the yeast, leaving the more difficult ones behind. Fermentation usually continues at that point, just a lot more slowly.&lt;/p&gt;
+
+					&lt;p&gt;The difference in the effect is minor as long as everything is fully fermented. An example of such a difference is fruit wines and beer. Fruit wines contain minor amounts of methanol while beer usually does not. Differences in flavour are more about what is not fermented.&lt;/p&gt;
+
+					&lt;p&gt;Mannose can definitely be fermented by brewer's yeast. Dextrose is just another name for glucose.     &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25" InstanceType="answer">
+			<PostId>7425</PostId>
+			<ParentPostId>7424</ParentPostId>			<Tags>
+				<tag>alcohol-level</tag>
+				<tag>yeast</tag>
+				<tag>home-brew</tag>
+				<tag>champagne</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-09T15:17:33.850</CreationDate>
+				<LastEditDate>2018-08-11T15:59:38.287</LastEditDate>
+				<LastActivityDate>2018-08-11T15:59:38.287</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7954</OwnerUserId>
+				<LastEditorUserId>7954</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I will try to answer your questions to the best of my ability.&lt;/p&gt;
+
+					&lt;p&gt;Your description of your earlier wine makes me question you: 
+					Have you used a hydrometer to calculate the alcohol percentage of your earlier wines? &lt;/p&gt;
+
+					&lt;p&gt;If your wine tasted sweet after fermentation, it means your wine wasn't finished fermenting. If you bottle the wine and let it stay in room temperature with unfermented wine, then you may create bottle bombs.&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Comparison between wild yeast and adding wine yeast:&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;strong&gt;Duration of Fermentation:&lt;/strong&gt; Naturally occurring wild yeast will use longer time than wine yeast. Adding Wine yeast is a lot faster, and will substantially reduce the fermentation time.&lt;/li&gt;
+					&lt;li&gt;&lt;strong&gt;Taste:&lt;/strong&gt; The taste is subjective, where wine yeast may create a safer and cleaner taste, meanwhile wild yeast and other bacteria may produce 'unwanted flavors' or 'wanted flavors'. Everything depends on what you want. I don't know enough about the specific tastes to tell you here.&lt;/li&gt;
+					&lt;li&gt;&lt;strong&gt;Alcohol percentage:&lt;/strong&gt; I recommend using a hydrometer before and after fermentation to calculate the alcohol percentage of your wine. Adding wine yeast will eat up all the sugar in your wine very fast. 1-2 weeks, while wild yeast may use several months. Everything depends on how much yeast is present in the fermentation, temperature and how much sugar is in the unfermented wine.&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Wild yeast takes time to grow into a culture which can eat up all the sugar, where wine yeast usually already has ~1 billion cells in the package. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

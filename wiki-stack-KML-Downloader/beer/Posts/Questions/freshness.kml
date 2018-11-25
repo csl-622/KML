@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>31</PostId>
+			<AcceptedAnswerId>241</AcceptedAnswerId>
+			<Title>
+			"How can I prolong the life of beer in a growler?"
+			</Title>
+			<Tags>
+				<tag>preservation</tag>
+				<tag>growlers</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>805</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:59:16.810</CreationDate>
+				<LastEditDate>2014-01-22T23:43:26.450</LastEditDate>
+				<LastActivityDate>2014-01-22T23:43:26.450</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>25</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer in a growler typically lasts for 24 hours or less, depending on how full the growler is, how many times it's opened over that period of time, and how efficient the seal is on the lid. Are there ways of prolonging the life in a growler or at least seal it properly?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>99</PostId>
+			<Title>
+			"How can I tell whether a beer will improve with age?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>40</Score>
+				<ViewCount>8063</ViewCount>
+				<AnswerCount>8</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:05:29.813</CreationDate>
+				<LastActivityDate>2016-06-27T01:35:57.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>66</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Most mass-market beers come with expiration dates, and cease to be good for drinking if too much time has passed since they were brewed, even if they've been stored in unopened containers and good conditions. Some major breweries even have long-running advertising campaigns about the freshness of their products.&lt;/p&gt;
+
+					&lt;p&gt;Other beers improve with age. What qualities make a beer suitable for cellaring or bottle-conditioning? How can I know whether a given bottle of beer can be aged, short of looking it up online?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>353</PostId>
+			<AcceptedAnswerId>356</AcceptedAnswerId>
+			<Title>
+			"What can I do to prevent beer staling in a keg being pushed by air?"
+			</Title>
+			<Tags>
+				<tag>freshness</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>205</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T13:24:36.643</CreationDate>
+				<LastActivityDate>2014-09-15T08:58:28.957</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;On a private party or picnic when we use hand pump to push beer out of a keg the beer can relatively quickly get stale. What can be done to keep the beer in a good quality for as long as possible?&lt;/p&gt;
+
+					&lt;p&gt;I can imagine that a low temperature and not moving the keg can help. What about air pressure? Is it better to keep it low or higher? I guess that low pressure is better because lower amount of air should dissolve in the beer in such a case. What other factors could influence the beer durability in such a situation?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>571</PostId>
+			<AcceptedAnswerId>572</AcceptedAnswerId>
+			<Title>
+			"How much fermentation happens post-bottling in a UFO?"
+			</Title>
+			<Tags>
+				<tag>freshness</tag>
+				<tag>yeast</tag>
+				<tag>filtering</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>104</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-07T23:37:01.317</CreationDate>
+				<LastEditDate>2014-02-08T05:02:57.470</LastEditDate>
+				<LastActivityDate>2014-02-09T05:40:30.083</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+				<LastEditorUserId>170</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In &lt;a href="https://www.harpoonbrewery.com/beer/ufo"&gt;Harpoon's UFO series&lt;/a&gt; (and other related products from other companies), the beer is bottled unfiltered, so some of the yeast carries over into the bottled beer.&lt;/p&gt;
+
+					&lt;p&gt;As long as the beer is kept in a cool area, as not to promote the growth of the yeast, how much fermentation will occur?  Aside from producing extra carbon dioxide and eventually ruining the beer, is this harmful when it proceeds over short periods?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>654</PostId>
+			<Title>
+			"Is there anything I can do short of leaving a glass out on the counter to mitigate overcarbonation?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>141</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-08T18:42:21.577</CreationDate>
+				<LastActivityDate>2014-03-10T01:30:22.140</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently picked up a bunch of bottles of what seemed like interesting brews from &lt;a href="http://hitachinonest.com/"&gt;Hitachino&lt;/a&gt;, because I was interested in exploring some Japanese beers. Unfortunately, the first two bottles I've opened now seem to have both been &lt;em&gt;severely&lt;/em&gt; overcarbonated.&lt;/p&gt;
+
+					&lt;p&gt;We're talking foam overflowing out of the bottle once I open it. These bottles have &lt;em&gt;not&lt;/em&gt; been exposed to significant agitation recently. They've been sitting on a shelf, upright as is proper, for days. Worse still, they don't just explode and make a mess, but they also simply &lt;em&gt;taste&lt;/em&gt; severely overcarbonated. It's like drinking shaken seltzer water mixed with my beer, and it's decidedly unpleasant. At this point, the only thing I've been able to do is pour a glass, leave it out for an hour or three, and &lt;em&gt;then&lt;/em&gt; drink it.&lt;/p&gt;
+
+					&lt;p&gt;Which is... impractical at best, and is only going to become less so as the weather warms up. Is there anything else I can do to mitigate this?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>655</PostId>
+			<Title>
+			"Are Hitachino's beers characteristically really heavily carbonated?"
+			</Title>
+			<Tags>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>118</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-08T18:47:58.113</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-04-22T00:56:26.073</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently picked up a bunch of bottles of what seemed like interesting brews from &lt;a href="http://hitachinonest.com/" rel="nofollow noreferrer"&gt;Hitachino&lt;/a&gt;, because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be &lt;a href="https://alcohol.stackexchange.com/q/654/8"&gt;severely overcarbonated.&lt;/a&gt; To the point of both making a mess, and being unpleasant to drink.&lt;/p&gt;
+
+					&lt;p&gt;Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? Or just spoiled by sitting on the shelf too long? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>4825</PostId>
+			<AcceptedAnswerId>4828</AcceptedAnswerId>
+			<Title>
+			"Is there a universal resource to decipher beer production codes?"
+			</Title>
+			<Tags>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>58</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-12T18:24:57.593</CreationDate>
+				<LastActivityDate>2016-02-13T20:45:15.327</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5083</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I go buy my beer, I will always look for the some sort of date indicating when it expires, or when it was bottled, or something of that sort.  Occasionally, I run into undecipherable codes instead of dates and I am at a lost to know when the beer was produced.  Is it a company by company basis, or is there some general way to decipher the codes so I know when the beer was produced, or when it will expire, or whatever other information they care to give me?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>4937</PostId>
+			<Title>
+			"How long does an opened bottle of wine last in the fridge?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>freshness</tag>
+				<tag>wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>306</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-07T16:55:10.323</CreationDate>
+				<LastActivityDate>2016-04-08T22:10:07.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;How long does an opened bottle of wine last in the refrigerator?&lt;/p&gt;
+
+					&lt;p&gt;(Simply plugging the cork back in that is, and not using any vacuum contraption.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

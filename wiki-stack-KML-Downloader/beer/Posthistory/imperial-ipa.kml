@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>8763</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-25T22:15:33.670</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					One of the recent trends I've noticed is that breweries are starting to come out with Triple IPAs. (In fact, there's a triple IPA week in the Seattle area.) But what exactly distinguishes the Triple IPA from a Double IPA?
+
+					[Note that this was not included in [IPA and variants question][1], nor is it discussed in the [IPA vs. DIPA sweetness question][2].]
+
+
+					  [1]: http://beer.stackexchange.com/questions/28/what-are-the-differences-between-an-ipa-and-its-variants
+					  [2]: http://beer.stackexchange.com/questions/4778/why-do-double-ipas-aka-imperial-ipas-iipas-tend-to-be-sweeter-than-regular-ip
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>8764</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-25T22:15:33.670</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between a Triple IPA and a Double IPA?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>8765</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-25T22:15:33.670</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>8767</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-26T00:35:05.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<EditDetails>
+				Clarified different between IPAs and dubbels/tripels
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					One of the recent trends I've noticed is that breweries are starting to come out with Triple IPAs. (In fact, there's a triple IPA week in the Seattle area.) But what exactly distinguishes the Triple IPA from a Double IPA?
+
+					[Note that this was not included in [IPA and variants question][1], nor is it discussed in the [IPA vs. DIPA sweetness question][2].]
+
+					Edit: This is decidedly NOT the same as the question regarding dubbels vs. tripels (which are Abbey-style Belgian ales, and remarkably different in style from a double or triple IPA).
+
+					  [1]: http://beer.stackexchange.com/questions/28/what-are-the-differences-between-an-ipa-and-its-variants
+					  [2]: http://beer.stackexchange.com/questions/4778/why-do-double-ipas-aka-imperial-ipas-iipas-tend-to-be-sweeter-than-regular-ip
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Tags" >
+			<PostId>8768</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-26T00:40:43.347</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, ipa, imperial-ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>8816</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-02T05:00:22.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/704894092602429440
+			</EditDetails>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>8882</PostId>
+			<ParentPostId>4907</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-02T02:51:41.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5272</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've seen both refered to as IPA, which is the real IPA and how are they different?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>8883</PostId>
+			<ParentPostId>4907</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-02T02:51:41.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5272</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between imperial pale ale and indian pale ale?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>8884</PostId>
+			<ParentPostId>4907</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-02T02:51:41.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5272</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ipa, imperial-ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Unknown" >
+			<PostId>8898</PostId>
+			<ParentPostId>4907</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-04T20:00:31.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/717079419739832320
+			</EditDetails>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Body" >
+			<PostId>12521</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					One of the recent trends I've noticed is that breweries are starting to come out with Triple IPAs. (In fact, there's a triple IPA week in the Seattle area.) But what exactly distinguishes the Triple IPA from a Double IPA?
+
+					[Note that this was not included in [IPA and variants question][1], nor is it discussed in the [IPA vs. DIPA sweetness question][2].]
+
+					Edit: This is decidedly NOT the same as the question regarding dubbels vs. tripels (which are Abbey-style Belgian ales, and remarkably different in style from a double or triple IPA).
+
+					  [1]: https://alcohol.stackexchange.com/questions/28/what-are-the-differences-between-an-ipa-and-its-variants
+					  [2]: https://alcohol.stackexchange.com/questions/4778/why-do-double-ipas-aka-imperial-ipas-iipas-tend-to-be-sweeter-than-regular-ip
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

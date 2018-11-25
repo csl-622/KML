@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>6128</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-19T23:12:56.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3703</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can someone suggest me a beer with similar taste like Grimbergen Blanche ?
+
+					Grimbergen is the brand name of a variety of Belgian abbey beers. Originally made by Norbertine monks in the Belgian town of Grimbergen, it is now brewed by two different breweries in Belgium and France.
+
+					Thanks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>6129</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-19T23:12:56.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3703</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer like Grimbergen Banche
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>6130</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-19T23:12:56.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3703</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					aroma, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>6132</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-20T14:39:52.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<EditDetails>
+				Just adding some tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, flavor, foreign-beer, aroma, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Tags" >
+			<PostId>9494</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:53:51.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, recommendations, belgian-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>11229</PostId>
+			<ParentPostId>6342</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-14T01:30:58.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do you pronounce the "Abt" in St. Bernardus Abt 12?
+
+					I'm interested in the proper pronunciation as well as whether there is potentially a pronunciation that may be more prevalent in the US.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>11230</PostId>
+			<ParentPostId>6342</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-14T01:30:58.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Pronunciation of Abt (as in St. Bernardus Abt 12)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>11231</PostId>
+			<ParentPostId>6342</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-14T01:30:58.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					belgian-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>11368</PostId>
+			<ParentPostId>6395</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-20T23:17:59.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I had a bottle of Westvleteren XII aging in my fridge. As I was putting some other bottles next to it, I nudged it slightly and the bottle shattered violently. I'm certain that I didn't hit it with enough force to do that kind of damage, so I'm thinking that there was pressure that had built up inside the bottle.
+
+					Is this something that's plausible? Could it mean that the beer had gone "off" and so I should not feel bad that my prized beer ended up as a sticky puddle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>11369</PostId>
+			<ParentPostId>6395</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-20T23:17:59.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can aged beer explode?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>11370</PostId>
+			<ParentPostId>6395</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-20T23:17:59.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					aging, belgian-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Title" >
+			<PostId>11374</PostId>
+			<ParentPostId>6395</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-21T17:35:42.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<EditDetails>
+				your title is not clear.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why would an aged beer explode?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>11375</PostId>
+			<ParentPostId>6395</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-21T17:35:42.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5889 approved by 5328 edit id of 285
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Unknown" >
+			<PostId>11385</PostId>
+			<ParentPostId>6395</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-26T08:02:52.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/802422355079426052
+			</EditDetails>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Body" >
+			<PostId>12883</PostId>
+			<ParentPostId>6892</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-07T13:32:05.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6808</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Ive got 3 bottles of la chouf blonde belgian beer Cloudy)out of date frm may last year is it ok to drink? Theres a lot of sediment in the bottle doi decant or shake and drink
+					Thanks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Title" >
+			<PostId>12884</PostId>
+			<ParentPostId>6892</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-07T13:32:05.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6808</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Ofd belgian beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Tags" >
+			<PostId>12885</PostId>
+			<ParentPostId>6892</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-07T13:32:05.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6808</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					belgian-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Edit Body" >
+			<PostId>12887</PostId>
+			<ParentPostId>6892</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-07T23:14:33.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and spelling and added one link.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have 3 bottles of [La Chouffe Blonde Belgian Beer][1] that is cloudy. It is out of date as of May of last year. Is it ok to drink? Theres a lot of sediment in the bottle. Can I decant or shake and drink?
+
+					Thanks.
+
+
+					  [1]: https://www.saveur-biere.com/fr/biere-bouteille/1481-la-chouffe.html
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Edit Title" >
+			<PostId>12888</PostId>
+			<ParentPostId>6892</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-07T23:14:33.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and spelling and added one link.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Old Belgian Beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Title" >
+			<PostId>12899</PostId>
+			<ParentPostId>6892</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-12T07:41:44.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Sediment in expired Belgian Beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>12900</PostId>
+			<ParentPostId>6892</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-12T07:41:44.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4742 approved by 5064, 5078 edit id of 304
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>12927</PostId>
+			<ParentPostId>6892</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-19T04:16:09.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/876654812070367232
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>13192</PostId>
+			<ParentPostId>7003</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-06T08:04:50.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7080</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If I open a bottle of Belgian beer-with a cork- drink a little then put the cork back in the bottle will the cork randomly pop or the bottle explode from any pressure?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>13193</PostId>
+			<ParentPostId>7003</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-06T08:04:50.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7080</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can I re-cork a beer bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>13194</PostId>
+			<ParentPostId>7003</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-06T08:04:50.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7080</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preservation, belgian-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Unknown" >
+			<PostId>13206</PostId>
+			<ParentPostId>7003</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-11T07:28:25.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/907143779014074368
+			</EditDetails>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Body" >
+			<PostId>13576</PostId>
+			<ParentPostId>7129</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-21T19:11:28.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7449</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					As per title... I don't know where to find the Leffe Brune (my favourite) in London at "normal" price.
+					I live near Elephant &amp; Castle... south London.
+
+					By normal price I mean like 2 or 2.5£ (better around 1.59£).
+					It is common to find in little shops and on Tesco/Sainsbury's the Leffe Blonde (33cl) at 1.29£ or 1.59£.
+
+					I have found sometime the Brune one(at same price) but probably it was really an old stock in some shops. I bought all of them and after months I never seen them again (but they have the Blonde every time).
+
+					I'm also interested in:
+					- Westemalle Dubbel
+					- Chimay Red 
+					- Chimay Blue
+					- Achel 
+					- Kwack
+					- Delirium Tremens
+					- Rochefort
+
+					Do you know some shops that have that ones?
+
+					When I lived in Reading the local M&amp;s had a lot of belgian beers at reasonable price. Not the one in London (in my area).
+
+					The only option is online? (in case) Which one is the better shop/site?
+
+					Thanks,
+
+					Alex
+
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Title" >
+			<PostId>13577</PostId>
+			<ParentPostId>7129</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-21T19:11:28.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7449</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where to find the Leffe Brune (and other Belgian beers) in London
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Tags" >
+			<PostId>13578</PostId>
+			<ParentPostId>7129</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-21T19:11:28.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7449</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					stout, belgian-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Unknown" >
+			<PostId>13586</PostId>
+			<ParentPostId>7129</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-23T03:02:38.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/944402840403021824
+			</EditDetails>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Edit Body" >
+			<PostId>13592</PostId>
+			<ParentPostId>7129</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-24T20:55:52.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7449</UserId>
+			</Contributors>
+			<EditDetails>
+				added 56 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					As per title... I don't know where to find the **Leffe Brune** (my favourite) in London at "normal" price.
+					I live near Elephant &amp; Castle... south London.
+
+					By normal price I mean like 2 or 2.5£ (better around 1.59£).
+					It is common to find in little shops and on Tesco/Sainsbury's the Leffe Blonde (33cl) at 1.29£ or 1.59£.
+
+					I have found sometime the Brune one (at same price) but probably it was really an old stock in some shops. I bought all of them and after months I never seen them again (but they have the Blonde every time).  
+  
+					I'm also interested in:
+
+					- Westemalle Dubbel
+					- Chimay Red 
+					- Chimay Blue
+					- Achel 
+					- Kwack
+					- Delirium Tremens
+					- Rochefort
+  
+					Do you know some shops that have these ones?  
+  
+					When I lived in Reading the local M&amp;S (near the train station and city center) had a lot of Belgian beers at reasonable price. Not the one in London (in my area).  
+   
+					The only option is online? Which shop/site do you suggest?  
+  
+					Thanks,
+
+					Alex
+
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Edit Title" >
+			<PostId>13593</PostId>
+			<ParentPostId>7129</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-24T20:55:52.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7449</UserId>
+			</Contributors>
+			<EditDetails>
+				added 56 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where to find the Leffe Brune (and other Belgian beers) in South London
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Edit Body" >
+			<PostId>13594</PostId>
+			<ParentPostId>7129</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-24T21:01:21.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7449</UserId>
+			</Contributors>
+			<EditDetails>
+				added 56 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					As per title... I don't know where to find the **Leffe Brune** (my favourite) in London at "normal" price.
+					I live near Elephant &amp; Castle... south London.
+
+					By normal price I mean like 2 or 2.5£ (better around 1.59£).
+					It is common to find in little shops and on Tesco/Sainsbury's the Leffe Blonde (33cl) at 1.29£ or 1.59£.
+
+					I have found sometime the Brune one (at same price) but probably it was really an old stock in some shops. I bought all of them and after months I never seen them again (but they have the Blonde every time).  
+  
+					I'm also interested in:
+
+					- Westemalle Dubbel
+					- Chimay Red 
+					- Chimay Blue
+					- Achel 
+					- Kwack
+					- Delirium Tremens
+					- Rochefort
+  
+					Do you know some shops that have these ones?  
+  
+					When I lived in Reading the local M&amp;S (near the train station and city center) had a lot of Belgian beers at reasonable price. Not the one in London (in my area).  
+					In Reading I can suggest "The Grumpy Goat", it is a tiny shop near the station (hidden in a gallery, you have to know were it is) specialized in beers and cheese. It's a gem in Reading. Vary good choice and prices.  
+   
+					The only option is online? Which shop/site do you suggest?  
+  
+					Thanks,
+
+					Alex
+
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Edit Title" >
+			<PostId>13608</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-27T04:56:55.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7449</UserId>
+			</Contributors>
+			<EditDetails>
+				corrected name in title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Beer like Grimbergen Blanche
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>13609</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-27T04:56:55.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7449 approved by 43 edit id of 320
+			</EditDetails>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>13626</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-02T03:39:37.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/948036025745625088
+			</EditDetails>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Unknown" >
+			<PostId>13789</PostId>
+			<ParentPostId>7129</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-02T18:25:04.210</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+	</KnowledgeData>
+</KML>

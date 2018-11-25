@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>141</PostId>
+			<Title>
+			"Is there something special about Corona that makes it suitable for adding a slice of lime?"
+			</Title>
+			<Tags>
+				<tag>garnish</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>787</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T02:29:44.433</CreationDate>
+				<LastEditDate>2014-01-22T02:52:57.593</LastEditDate>
+				<LastActivityDate>2018-05-15T12:29:19.973</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+				<LastEditorUserId>60</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Corona, and some other beers, tend to go well with a slice of lemon inside. Is there something particular about the style of beer, or is this a marketing thing?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>960</PostId>
+			<AcceptedAnswerId>961</AcceptedAnswerId>
+			<Title>
+			"How to order a beer without garnish, simply?"
+			</Title>
+			<Tags>
+				<tag>garnish</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>182</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-31T14:40:48.293</CreationDate>
+				<LastActivityDate>2014-07-31T15:31:54.137</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1120</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a simple word for ordering a beer sans garnish?  Say for instance I want a Hoegaarden...  It's a great beer in it's own right, and I don't want it to come decorated with a slice of orange that I have to take responsibility for disposing of.  How can I order the beer without it, quickly and easily?  I've tried "no decoration," but that sounds pretentious.  For a scotch, I would say "neat."  Is there a way to do that for beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

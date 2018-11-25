@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>5015</PostId>
+			<AcceptedAnswerId>5019</AcceptedAnswerId>
+			<Title>
+			"Difference between Whiskey and Bourbon?"
+			</Title>
+			<Tags>
+				<tag>whiskey</tag>
+				<tag>bourbon</tag>
+			</Tags>
+			<Credit> 
+				<Score>29</Score>
+				<ViewCount>225219</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-23T10:39:19.523</CreationDate>
+				<LastEditDate>2016-05-24T22:56:36.683</LastEditDate>
+				<LastActivityDate>2017-09-15T00:05:19.737</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+				<LastEditorUserId>5467</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was wondering if anybody could give me the differences between a whiskey  and bourbon, as I was in a conversation the other day and we were talking about Jack Daniels. &lt;/p&gt;
+
+					&lt;p&gt;It is a bourbon but a lot of people still call it a whiskey. We got into a lot of different discussions about it, such as where it's made (USA vs. UK) and what goes into it (different barley) but we couldn't all agree on one reason.&lt;/p&gt;
+
+					&lt;p&gt;So can anybody tell me what the difference between these drinks is?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>6657</PostId>
+			<Title>
+			"Why is there sand in my bourbon?"
+			</Title>
+			<Tags>
+				<tag>bourbon</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>129</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-12T03:07:03.300</CreationDate>
+				<LastActivityDate>2017-03-12T14:37:28.073</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6549</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have a bottle of bourbon that I've been enjoying very much, but as I've neared the end, I've noticed very VERY fine grit (sand?) settling to the bottom of the glass, each time I have a drink.&lt;/p&gt;
+
+					&lt;p&gt;I've never noticed this before. Where would this come from? Is this just a normal consequence of the bourbon-making process? Is this an indication of a poor bourbon, or one that is slopilly made?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>6746</PostId>
+			<AcceptedAnswerId>6748</AcceptedAnswerId>
+			<Title>
+			"What makes bourbon sweet?"
+			</Title>
+			<Tags>
+				<tag>bourbon</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>670</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-07T15:31:34.047</CreationDate>
+				<LastActivityDate>2017-07-21T11:13:49.840</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6642</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If bourbon contains no carbohydrates (and therefore no sugar) what gives it a sweet flavour? What are the chemicals or compounds?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>7450</PostId>
+			<AcceptedAnswerId>7451</AcceptedAnswerId>
+			<Title>
+			"What is the difference between Cognac, Brandy, Bourbon, Scotch and Whiskey?"
+			</Title>
+			<Tags>
+				<tag>whiskey</tag>
+				<tag>spirits</tag>
+				<tag>liquor</tag>
+				<tag>scotch</tag>
+				<tag>bourbon</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>74</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-21T08:49:29.350</CreationDate>
+				<LastActivityDate>2018-08-28T17:22:25.100</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7954</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;All these taste and look pretty similar. What is the difference between them?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

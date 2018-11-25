@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="6771"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2017-01-03T11:10:04.517</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6889"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-01T12:56:34.890</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6902"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-04T15:27:24.477</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6922"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Enthusiast"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-08T08:34:00.777</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7288"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2017-03-27T16:19:26.667</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7387"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Fanatic"
+			</Title>
+			<TimeStamp>
+				<Date>2017-04-19T05:24:13.890</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7981"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-18T08:04:28.390</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7987"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Excavator"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-19T04:02:16.020</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8037"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Tag Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2017-11-07T11:46:47.633</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8950"  UserId="6255" InstanceType= "badges">
+			<Title>
+			"Organizer"
+			</Title>
+			<TimeStamp>
+				<Date>2018-07-19T09:44:56.430</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

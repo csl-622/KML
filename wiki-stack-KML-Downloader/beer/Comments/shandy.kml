@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>838</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-26T17:24:16.277</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					They have been popular in Ireland and the UK for a long time as a pub drink: The barman pours a lager and tops it off with "fizzy lemonade". AFAIK, bottled shandies are a relatively recent product.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>839</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-26T22:49:14.323</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Your first question on the history of shandies makes sense, but the second part seems very subjective.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="2">
+			<PostId>840</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-27T09:26:28.903</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've got no evidence for this, so not adding it as an answer: the sugar from the lemonade in a shandy hides the flavour of the beer/alcohol making the drink more palatable to people who might not otherwise like beer.  If you like beer, you might see this as unnecessary and look down on those ordering the drink.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>5171</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Contributors>
+				<UserId>895</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-06T18:51:34.590</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@jalynn2 shandy in U.K. And Ireland do not use lager but bitter
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>5172</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-07T12:11:42.243</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Mark - perhaps in U.K., but I've never seen bitter on tap in the Republic. Lager, yes: Harp, Bud, Miller, Heinekin in every pub.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

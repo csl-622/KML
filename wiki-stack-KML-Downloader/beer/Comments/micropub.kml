@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="2">
+			<PostId>3427</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T17:57:32.130</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It depends on where you are. In the U.S., you would need to comply with federal, state and local ordinances. They will vary by location.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>3431</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-08T09:16:40.710</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@andrew cheong thanks for including the micropub tag
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="1">
+			<PostId>3461</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Contributors>
+				<UserId>4411</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-10T20:56:54.553</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd like to know the same!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>3560</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Contributors>
+				<UserId>4691</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-04T08:54:38.843</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A micropub isn't a thing in my state, for what it's worth.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>3561</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-04T09:18:53.237</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@PrestonFitzgerald A micropub is a thing, at least here in the UK. There is a mircopub association as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>3562</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Contributors>
+				<UserId>4691</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-04T09:21:20.287</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm not saying it isn't. I'm saying that there are very specific legal classifications for pubs and breweries in various locations and that in my location in particular "micropub" isn't even a classification. I don't know what it would be. Just a point of clarification.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>3599</PostId>
+			<ParentPostId>4700</ParentPostId>
+			<Contributors>
+				<UserId>4338</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-28T00:56:45.907</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That's very interesting. I would like to know about it too.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>3600</PostId>
+			<ParentPostId>948</ParentPostId>
+			<Contributors>
+				<UserId>4775</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-29T09:52:01.820</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There are two craft breweries in Lisbon. The Lisbon Beer Museum (Museu da Cerveja) mostly has industrial beer and is mainly for tourists.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

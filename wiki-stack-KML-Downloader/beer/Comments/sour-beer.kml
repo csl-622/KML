@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>4186</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Contributors>
+				<UserId>4637</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-28T03:51:27.130</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are you looking for the reason behind the sour flavor or an explanation of the process that makes sour beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>4187</PostId>
+			<ParentPostId>6309</ParentPostId>
+			<Contributors>
+				<UserId>3744</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-28T19:35:42.067</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is called a "Blacksmith" in a lot of bars in the US (well, the handful of bars that carry anything other than Guinness and Bass). "Black and Tan" would be Guinness/Bass, "Half and Half" is Guinness/Harp. There are other cutsie names based on the beer + Guinness pairing. AFAICT Guinness can layer on any CO2 beer. Not tried to layer it with another nitro beer like Boddingtons, but maybe with a careful pour? A bunch of Guinness combos are listed here http://www.theperfectlyhappyman.com/various-guinness-combinations/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>4190</PostId>
+			<ParentPostId>6323</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-04T06:31:27.983</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I now think the temperature had something to do with it but seeing as I was drinking in very strong sun (it was a hot day) I'm now thinking as you suggested that the UV light had something to do with it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="1">
+			<PostId>4191</PostId>
+			<ParentPostId>6322</ParentPostId>
+			<Contributors>
+				<UserId>5976</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-04T17:02:06.877</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Sorry to say, how clean the establishment keeps the keg lines could impact this, as well.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

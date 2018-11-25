@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="2">
+			<PostId>3645</PostId>
+			<ParentPostId>868</ParentPostId>
+			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-03T22:12:05.603</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I want to go to grad school to study beer!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>3653</PostId>
+			<ParentPostId>868</ParentPostId>
+			<Contributors>
+				<UserId>985</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-04T15:49:43.403</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@wogsland If only it were that straightforward... the paper had nothing to do with beer, but was just using it as a helpful example of a completely different concept. But, fwiw, http://beeronomics.org.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>3655</PostId>
+			<ParentPostId>4756</ParentPostId>
+			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-06T05:33:23.493</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					ok see, I have been drinking stouts in goblets for I don't even know how many years now, Belgium in tall glasses, Ales in flutes (which you did not include here), it's good to know
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>3656</PostId>
+			<ParentPostId>4756</ParentPostId>
+			<Contributors>
+				<UserId>4394</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-06T10:12:03.630</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Lived in Scotland all my life and I've never seen a thistle glass.   In the UK pubs sell beer in generic pint glasses unless the beer supplier has provided glassware.  Regardless of that any glass used for draught beer has to contain 1/3, 1/2 or 1 pint.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>3658</PostId>
+			<ParentPostId>4757</ParentPostId>
+			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-06T14:47:54.673</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					this makes a lot of sense, as each brewery/beer would like to showcase its beer in the best possible glass for the beer itself. Which is why I have seen the subtle differences in glassware for similar beer types.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>3659</PostId>
+			<ParentPostId>4756</ParentPostId>
+			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-06T14:51:46.530</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@user23614 in northern american continent you will most always find beer poured into either a traditional mug or a stange glass. Unless the place has a beer cup for a specific beer that is, which they almost always do for the traditional cheap beer (one of many examples: Stella Artois)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>3660</PostId>
+			<ParentPostId>197</ParentPostId>
+			<Contributors>
+				<UserId>3879</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-06T15:28:10.427</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is all assuming, that the draught system is clean and running at 100%, and the people pouring it know what they're doing. There are many poorly-managed beer bars around my area where I order from the bottle because the draught quality is so suspect. 
+
+					Both bottles and kegs should have CO2 or neutral gas in them, not air, so it should be a non-issue as to the volume. Granted, the closures on kegs are typically tighter than the cap on a bottle.
+
+					Did that site actually cite the study? I didn't see it if they did.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

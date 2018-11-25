@@ -1,0 +1,1287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>231</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It the beer Velkopopovický Kozel possible to buy somewhere in Bavaria? Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>232</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Velkopopovický Kozel sold somewhere in Bavaria?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>233</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					buying, foreing-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>257</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:08:56.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling (tag)
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Body" >
+			<PostId>781</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are the Czech beers like Velkopopovický Kozel possible to buy somewhere in Bavaria? 
+
+					Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?
+
+					Czech beers are of very good quality, and Bavaria neighbours with Czech, so they shouldn't be hard to find.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Edit Title" >
+			<PostId>782</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where can I buy Czech beers in Bavaria?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>783</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Tags" >
+			<PostId>843</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T09:14:33.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, retail-availiability, distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Post Closed" >
+			<PostId>846</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T11:05:40.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":7,"DisplayName":"Tom Medley"},{"Id":37,"DisplayName":"Xander"},{"Id":22,"DisplayName":"Grohlier"},{"Id":138,"DisplayName":"Lucas Kauffman"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>3283</PostId>
+			<ParentPostId>840</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-03T04:07:15.007</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>955</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do they get them from stores, or do they set up a distributor? Also, is it cheaper than getting the beer from a store?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>3284</PostId>
+			<ParentPostId>840</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-03T04:07:15.007</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>955</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do restaurants/businesses get their beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>3285</PostId>
+			<ParentPostId>840</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-03T04:07:15.007</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>955</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>3289</PostId>
+			<ParentPostId>840</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-03T12:52:50.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/473809532913606656
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>3480</PostId>
+			<ParentPostId>921</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-13T16:21:23.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I live in Pennsylvania, where the folks in charge cling desperately to the last vestiges of Prohibition, with a protection racket on the side.  What this means is that the state heavily regulates alcohol import and distribution.  Wine and hard alcohol can only be bought from stores run by the state, and beer is largely sold through licensed distributors.  (I'm not counting ordering single servings in bars/restaurants; that's a separate matter.)
+
+					I recently learned that PLCB (PA Liquor Control Board) has opinions on which beers can be sold in the state.  On a recent trip out of town I had a local beer that I liked, but it's not on [the approved list](http://www.lcbapps.lcb.state.pa.us/webapp/registered_brands.asp) so I can't buy it here.  This led me to wonder how PLCB decides -- is there some sort of certification they depend on, or does it depend on breweries paying a fee to sell in Pennsylvania, or what?  I could find nothing on their web site that explains how these decisions are made.
+
+					How does the PLCB decide what beers I'm allowed to buy here?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>3481</PostId>
+			<ParentPostId>921</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-13T16:21:23.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How does the PA liquor control board decide which beers can be sold in the state?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>3482</PostId>
+			<ParentPostId>921</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-13T16:21:23.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Tags" >
+			<PostId>3483</PostId>
+			<ParentPostId>921</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-14T12:39:05.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<EditDetails>
+				added tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					laws, united-states, distribution, pennsylvania, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>3484</PostId>
+			<ParentPostId>921</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-14T12:39:05.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 909 approved by 43 edit id of 104
+			</EditDetails>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Body" >
+			<PostId>3522</PostId>
+			<ParentPostId>942</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-21T22:00:29.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1120</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm looking for distributors/shops close to central Pennsylvania that sell Okocim beers such as Okocim Porter, Okocim Beer, or Okocim Mocne.  I've seen O.K. Beer around here (another Okocim product), but the branded Okocim beers are what I'm really interested in.  I don't mind driving a bit either, but hopefully something in or around the state...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Title" >
+			<PostId>3523</PostId>
+			<ParentPostId>942</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-21T22:00:29.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1120</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where to find Okocim beer in or around Pennsylvania
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Tags" >
+			<PostId>3524</PostId>
+			<ParentPostId>942</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-21T22:00:29.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1120</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>3553</PostId>
+			<ParentPostId>942</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-25T18:44:05.613</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/492742098152873984
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>3555</PostId>
+			<ParentPostId>921</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-26T06:45:45.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/492923712791117824
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>3638</PostId>
+			<ParentPostId>991</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-17T16:27:52.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1222</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've tried hundreds of beers in recent years. But it starts to get expensive buying some beers less accessible online. Is there any site about swapping beers between people of different countries?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>3639</PostId>
+			<ParentPostId>991</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-17T16:27:52.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1222</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer swapping online?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>3640</PostId>
+			<ParentPostId>991</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-17T16:27:52.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1222</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>3678</PostId>
+			<ParentPostId>991</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-31T05:24:07.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/505949130255237120
+			</EditDetails>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>5041</PostId>
+			<ParentPostId>2167</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-01T16:03:50.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2644</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does Sam Adams sell its 'White Christmas' beer in six-packs?
+
+					I've only seen it included as part of its holiday sampler 12-pack. Never as its own standalone six-pack.
+
+					If not, why not?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>5042</PostId>
+			<ParentPostId>2167</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-01T16:03:50.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2644</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does Sam Adams sell its 'White Christmas' beer in six-packs?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>5043</PostId>
+			<ParentPostId>2167</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-01T16:03:50.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2644</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>6627</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T16:13:24.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4240</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					anyone know where you can buy US/American craft beers in Europe. Which shops/websites sell US craft beer and will ship it to other EU countries? Or any wholesalers/distributors to contact.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>6628</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T16:13:24.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4240</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where can you buy US craft beer in Europe that will ship to other EU countries?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>6629</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T16:13:24.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4240</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Body" >
+			<PostId>7903</PostId>
+			<ParentPostId>4534</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-18T13:07:43.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4434</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Wondering why it is that certain smaller brewing companies will export only certain beers out of their primary location? I am a huge fan of Goose Island (Chicago area based) and am having a tough time finding their Sofie and Matilda brews on the East Coast/NYC area.  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Title" >
+			<PostId>7904</PostId>
+			<ParentPostId>4534</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-18T13:07:43.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4434</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer distribution
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Tags" >
+			<PostId>7905</PostId>
+			<ParentPostId>4534</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-18T13:07:43.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4434</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Edit Title" >
+			<PostId>7968</PostId>
+			<ParentPostId>4534</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-02T17:12:05.373</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why do some brewing companies only export certain beers outside of their primary location?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>8135</PostId>
+			<ParentPostId>4534</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-13T20:46:38.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/654035537678966784
+			</EditDetails>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>8508</PostId>
+			<ParentPostId>4764</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-10T22:48:52.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I bought a 4-pack of Duvel recently and when I looked at the last bottle I saw that instead of this label:
+
+					[![Standard Duvel label with large red "Duvel"][1]][1]
+
+					It instead had this label:
+
+					[![Smaller red "Duvel" with larger carved-wood styled "love" text.][2]][2]
+
+					All of the bottles had different art/text on the backs, but up to this point I hadn't noticed anything different on the front label, so I decided to look into it.
+
+					I couldn't find any official references to a Duvel "love" beer but also could not find any official images of these labels.  I was able to find images of bottles with the same label [listed as a unique beer on Untappd](https://untappd.com/b/duvel-love/1158848) but am somewhat hesitant to take this as any kind of proof of it being a different beer.
+
+					Did I stumble upon a rarity or packaging mistake or is this the same beer and I'm just overreacting because I don't know any better?
+
+					  [1]: http://i.stack.imgur.com/817tK.jpg
+					  [2]: http://i.stack.imgur.com/IZyKu.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>8509</PostId>
+			<ParentPostId>4764</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-10T22:48:52.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a difference between normal Duvel and Duvel "Love"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>8510</PostId>
+			<ParentPostId>4764</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-10T22:48:52.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Unknown" >
+			<PostId>8661</PostId>
+			<ParentPostId>4764</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-12T06:31:46.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/698031724693950464
+			</EditDetails>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Edit Tags" >
+			<PostId>9492</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:51:56.370</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					distribution, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Edit Tags" >
+			<PostId>9495</PostId>
+			<ParentPostId>991</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:54:31.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Edit Tags" >
+			<PostId>9496</PostId>
+			<ParentPostId>942</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:55:12.107</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					distribution, pennsylvania, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Edit Tags" >
+			<PostId>9500</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:58:42.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					distribution, buying, retail-availiability, germany, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Body" >
+			<PostId>9650</PostId>
+			<ParentPostId>5161</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-21T17:24:14.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5582</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am wondering if the Zlatopramen lemon 1.9% is still available in the Czech republic (at supermarkets, bars et cetera).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Title" >
+			<PostId>9651</PostId>
+			<ParentPostId>5161</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-21T17:24:14.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5582</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Zlatopramen lemon 1.9% still available in the Czech republic?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Tags" >
+			<PostId>9652</PostId>
+			<ParentPostId>5161</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-21T17:24:14.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5582</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Edit Body" >
+			<PostId>9656</PostId>
+			<ParentPostId>5161</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-22T07:02:02.370</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, adding two words to body..
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I am wondering if the Zlatopramen lemon 1.9% is still available in the Czech Republic (in supermarkets, liquor stores, bars et cetera).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Edit Title" >
+			<PostId>9657</PostId>
+			<ParentPostId>5161</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-22T07:02:02.370</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, adding two words to body..
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is Zlatopramen lemon 1.9% still available in the Czech Republic?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Unknown" >
+			<PostId>9658</PostId>
+			<ParentPostId>5161</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-22T07:02:02.370</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5078 edit id of 264
+			</EditDetails>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Body" >
+			<PostId>9738</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-01T00:31:27.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5575</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					This beer used to be available from the LCBO but now outside of Kegs or going to a bar it doesn't seem that I can get it anymore. Does anyone know the best way I could get a hold of it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Title" >
+			<PostId>9739</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-01T00:31:27.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5575</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where can I buy Liefmans Fruitesse In Ontario?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Tags" >
+			<PostId>9740</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-01T00:31:27.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5575</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Unknown" >
+			<PostId>9802</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-17T22:16:19.683</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/754801935342002178
+			</EditDetails>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Unknown" >
+			<PostId>9870</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-31T13:36:11.903</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Unknown" >
+			<PostId>10978</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-30T13:38:15.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Unknown" >
+			<PostId>11105</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-29T15:38:25.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Unknown" >
+			<PostId>11318</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-29T15:39:19.290</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Unknown" >
+			<PostId>11644</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-27T13:16:29.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/824969327313092608
+			</EditDetails>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Unknown" >
+			<PostId>12135</PostId>
+			<ParentPostId>5161</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-07T20:22:46.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/839209730082029568
+			</EditDetails>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Unknown" >
+			<PostId>12434</PostId>
+			<ParentPostId>5161</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-06T17:16:31.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Unknown" >
+			<PostId>12956</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-22T11:52:27.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Unknown" >
+			<PostId>13071</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-22T19:39:42.090</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Unknown" >
+			<PostId>13153</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-21T20:08:53.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Unknown" >
+			<PostId>13233</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-20T20:39:26.163</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Unknown" >
+			<PostId>13349</PostId>
+			<ParentPostId>5182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-20T21:32:07.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Initial Body" >
+			<PostId>14029</PostId>
+			<ParentPostId>7275</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-10T10:59:42.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					As I receive many offers of Latin American spirits and do not have any experience in marketing those (high quality) products I think to buy into an existing distillery with skilled personnel, to use their distribution channels and add further spirits to the existing range of products. 
+
+					But besides sales and distribution channels, what should I pay attention to most?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Title" >
+			<PostId>14030</PostId>
+			<ParentPostId>7275</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-10T10:59:42.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If buying a distillery, what would you focus on?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Tags" >
+			<PostId>14031</PostId>
+			<ParentPostId>7275</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-10T10:59:42.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					spirits, distribution, distilleries, distillation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Unknown" >
+			<PostId>14041</PostId>
+			<ParentPostId>7275</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-13T19:35:15.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/995749330781949953
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

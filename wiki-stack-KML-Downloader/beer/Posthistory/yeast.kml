@@ -1,0 +1,1136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>151</PostId>
+			<ParentPostId>60</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:39.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does drinking yeast beer (known in Germany als Hefe-Weissbier) have any potential influence on gastric problems?
+
+					Yeast can become active in intestines, starting there fermentation processes and causing bloating. When such symptoms occur, is that the effect of yeast activity, or it's rather some kind of food intolerance?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>152</PostId>
+			<ParentPostId>60</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:39.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Yeast beer and the gastric problems
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>153</PostId>
+			<ParentPostId>60</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:39.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>1020</PostId>
+			<ParentPostId>401</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T07:48:41.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Yeast was identified as the cause of fermentation in the 1800s, but beer has been around since long before then.  How was fermentation started before the intentional introduction of yeast?  Was it all lambic-style ambient yeast, or what?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>1021</PostId>
+			<ParentPostId>401</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T07:48:41.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How was beer brewed before the discovery of Yeast?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>1022</PostId>
+			<ParentPostId>401</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T07:48:41.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1163</PostId>
+			<ParentPostId>401</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T07:25:09.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429153362505134080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>1466</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T23:37:01.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In Harpoon's UFO series (and other related products from other companies), the beer is bottled unfiltered, so some of the yeast carries over into the bottled beer.
+
+					As long as the beer is kept in a cool area, as not to promote the growth of the yeast, how much fermentation will occur?  Aside from producing extra carbon dioxide and eventually ruining the beer, is this harmful when it proceeds over short periods?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>1467</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T23:37:01.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How much fermentation happens post-bottling in a UFO?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>1468</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T23:37:01.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					freshness, yeast, filtering, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>1470</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T01:36:12.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431964651182882816
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>1472</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T05:02:57.470</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<EditDetails>
+				Provide a link to the beer in question, for the benefit of those not familiar with the brewery
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In [Harpoon's UFO series][1] (and other related products from other companies), the beer is bottled unfiltered, so some of the yeast carries over into the bottled beer.
+
+					As long as the beer is kept in a cool area, as not to promote the growth of the yeast, how much fermentation will occur?  Aside from producing extra carbon dioxide and eventually ruining the beer, is this harmful when it proceeds over short periods?
+
+
+					  [1]: https://www.harpoonbrewery.com/beer/ufo
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>1473</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T05:02:57.470</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 170 approved by 121 edit id of 72
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>1850</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-17T21:26:22.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When walking through a brewery supply store, you will see a variety of yeasts. 
+
+					Likewise, you can find a variety of yeasts when walking through a grocery store.
+
+					What "happens" if you use the 'wrong kind' of yeast when brewing? How much of a beer's flavor / texture / body / etc is derived from the yeast vs all other ingredients?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>1851</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-17T21:26:22.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the drawback of not using "brewer's yeast" when brewing beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>1852</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-17T21:26:22.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Post Closed" >
+			<PostId>1856</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-18T08:42:38.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":112,"DisplayName":"mdma"},{"Id":37,"DisplayName":"Xander"},{"Id":170,"DisplayName":"James Henstridge"},{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>1859</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-18T15:06:14.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is this practiced commercially? I'm not sure if it would scale very well, because I understand that the technique [takes a long time](http://homebrew.stackexchange.com/questions/146/whats-the-best-method-to-catch-a-strain-of-wild-yeast-for-homebrewing) even for a home brew batch. 
+
+					If so, what beers are brewed using this technique and why? Is it specific types of beer, or specific brewers, perhaps going for the "organic" angle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>1860</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-18T15:06:14.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What Beers are Brewed with Wild Yeast?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>1861</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-18T15:06:14.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>1868</PostId>
+			<ParentPostId>675</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-19T15:30:22.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I remember the first hefeweizen I had. It was made by Widmer, and I didn't like it. The second time I tried it, I noticed there were pouring instructions on the box/bottle. 
+
+					The instructions said to pour two thirds of the beer in to a glass, swirl, then pour the remainder. They even have an [official YouTube video][1] on it. I gave it a try, and maybe it was my imagination, but it tasted surprisingly different. I liked it.
+
+					What does rolling/swirling a hefeweizen actually do?
+
+					  [1]: http://www.youtube.com/watch?v=RVrLrdbMSyg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>1869</PostId>
+			<ParentPostId>675</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-19T15:30:22.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does rolling/swirling a hefeweizen actually do?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>1870</PostId>
+			<ParentPostId>675</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-19T15:30:22.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pouring, yeast, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>6803</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-21T00:30:05.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/623288802237358080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>8985</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-09T15:50:01.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5306</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My first batch of beer was very complicated with lots of different ingredients and to be honest i wasnt even knowing exactly what i was doing. In my second batch i decided to go 'neutral', made a smaller batch(5 liters) and used only pilsner , only saaz and single infusion (to see the impact of each ingredient and from there evolve). The beer is ready but now im kind of clueless to where to go. Is there any other way to see the impact of each ingredient without actually brewing a batch? I want to know how temperature, yeast, malt etc acts on the beer..
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>8986</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-09T15:50:01.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5306</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Alternative ways to know the impact of ingredients
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>8987</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-09T15:50:01.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5306</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, yeast, malt, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Unknown" >
+			<PostId>8989</PostId>
+			<ParentPostId>60</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-10T20:35:04.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/719262441859891201
+			</EditDetails>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Edit Body" >
+			<PostId>8990</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-10T22:59:30.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrcted grammar and added two words to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					My first batch of beer was very complicated with lots of different ingredients and to be honest I wasn't even sure exactly what I was doing. In my second batch I decided to go 'neutral, making a smaller batch (5 liters) and used only pilsner, only saaz and single infusion (to see the impact of each ingredient and from there evolve). The beer is ready but now I'm kind of clueless to where to go. Is there any other way to see the impact of each ingredient without actually brewing a batch? I want to know how temperature, yeast, malt etc acts on the beer..
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Unknown" >
+			<PostId>8991</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-10T22:59:30.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by -1 edit id of 170
+			</EditDetails>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Edit Body" >
+			<PostId>8992</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-10T22:59:30.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrcted grammar and added two words to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					My first batch of beer was very complicated with lots of different ingredients and to be honest I wasn't even sure exactly what I was doing. In my second batch I decided to go "neutral," making a smaller batch (5 liters) and used only Pilsner, only Saaz and single infusion (to see the impact of each ingredient, and from there evolve). The beer is ready but now I'm kind of clueless to where to go. Is there any other way to see the impact of each ingredient without actually brewing a batch? I want to know how temperature, yeast, malt, etc. act on the beer.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>10918</PostId>
+			<ParentPostId>6241</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-19T01:00:56.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5788</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A lot of Iranians would gladly push away their teetotal laws, and it's evident from the latest alcohol craze which makes me realize there are probably more and more Iranian rummers present in our society, doing God's job, or lack thereof.
+
+					I want to know what sort of yeast do you use? I want to brew myself some mead. In a large barrel. What should be the ratio of water and honey, and also, what yeast should I use? Where can I get brewer's yeast?
+
+					Thanks a lot.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>10919</PostId>
+			<ParentPostId>6241</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-19T01:00:56.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5788</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Any Iranian rummers here? What yeast do you use?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>10920</PostId>
+			<ParentPostId>6241</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-19T01:00:56.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5788</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					yeast, mead, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Body" >
+			<PostId>11380</PostId>
+			<ParentPostId>6400</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-24T14:55:03.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6132</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer yeast change over time due to new generations. It's biology. To my knowledge you can't keep the same generation of yeast alive.
+					Which should mean the taste should change or evolve over time? At least that's how I understand how different beer yeasts are created.
+
+					Would the same brand of beer really taste and be equal over time, as in scientifically analysed and compared?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Title" >
+			<PostId>11381</PostId>
+			<ParentPostId>6400</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-24T14:55:03.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6132</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do beer manufacturers keep the taste the same?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Tags" >
+			<PostId>11382</PostId>
+			<ParentPostId>6400</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-24T14:55:03.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6132</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>11689</PostId>
+			<ParentPostId>6400</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-05T14:05:10.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/828243068939825152
+			</EditDetails>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>12247</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T17:54:58.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6564</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've been enjoying lurking around here, I'm learning a lot! 
+
+					Part of my job involves selling beer. I was told by a coworker that visible yeast particulates at the top of a beer bottle indicate that it's not fit for consumption, whereas yeast at the bottom is fine. 
+
+					Is this true? And if so, does it change depending on whether it's a top-fermenting or bottom-fermenting beer? Does this affect meads and ciders as well? 
+
+					Thank you! 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>12248</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T17:54:58.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6564</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does beer expiration change based on yeasts?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>12249</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T17:54:58.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6564</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, aging, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Unknown" >
+			<PostId>12253</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-18T12:25:16.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/843075829408120833
+			</EditDetails>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Edit Body" >
+			<PostId>12541</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T12:46:00.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://homebrew.stackexchange.com/ with https://homebrew.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is this practiced commercially? I'm not sure if it would scale very well, because I understand that the technique [takes a long time](https://homebrew.stackexchange.com/questions/146/whats-the-best-method-to-catch-a-strain-of-wild-yeast-for-homebrewing) even for a home brew batch. 
+
+					If so, what beers are brewed using this technique and why? Is it specific types of beer, or specific brewers, perhaps going for the "organic" angle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Body" >
+			<PostId>13426</PostId>
+			<ParentPostId>7071</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-14T06:43:42.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					These canned, additive-free cherries are packed in their own juice, watered down.  I previously left this juice in a plastic water bottle while drinking it, for only three days, and it became pleasantly bubbly - carbonated juice.  A honey and water mix used for eye medicine turned into a strong alcohol over just 1-2 weeks (it was only one ounce of mixture).  This time, I used the extra, way-too-high amount of yeast to put in the juice, but after two months, it is still just sour juice, and no tasteable bubbles.  So I added a very small piece of kombucha SCOBY - maybe it will become kombhcha-like or become fuzzy juice.  One week later, it taste exactly the same.  Two weeks after that, it is vinegar.  It was never wine and it was never kombucha.  Why?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Title" >
+			<PostId>13427</PostId>
+			<ParentPostId>7071</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-14T06:43:42.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why did my cherry juice turn directly into vinegar while never being wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Tags" >
+			<PostId>13428</PostId>
+			<ParentPostId>7071</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-14T06:43:42.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, wine, yeast, fermentation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Body" >
+			<PostId>13519</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-09T18:42:12.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					While we generally focus on glucose, sucrose, and fructose for brewing, there are [a lot of sugars](https://en.wikipedia.org/wiki/List_of_sugars) out there. Can all of these be used in the brewing process, particularly for beer? What are the effects of using more esoteric sugars such as dextrose, xylose, mycose, or mannose alongside normal brewing grains? What about amino sugars such as glucosamine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Title" >
+			<PostId>13520</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-09T18:42:12.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can all sugars be used for brewing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Tags" >
+			<PostId>13521</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-09T18:42:12.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, yeast, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Edit Body" >
+			<PostId>13625</PostId>
+			<ParentPostId>7071</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-01T14:27:40.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<EditDetails>
+				added 1 character in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					These canned, additive-free cherries are packed in their own juice, watered down.  I previously left this juice in a plastic water bottle while drinking it, for only three days, and it became pleasantly bubbly - carbonated juice.  A honey and water mix used for eye medicine turned into a strong alcohol over just 1-2 weeks (it was only one ounce of mixture).  This time, I used the extra, way-too-high amount of yeast to put in the juice, but after two months, it is still just sour juice, and no tasteable bubbles.  So I added a very small piece of kombucha SCOBY - maybe it will become kombucha-like or become fuzzy juice.  One week later, it tastes exactly the same.  Two weeks after that, it is vinegar.  It was never wine and it was never kombucha.  Why?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Body" >
+			<PostId>13775</PostId>
+			<ParentPostId>7196</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-26T12:28:56.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My initial SG was 1.090 and now reads 1.026, this should give me an ABV between 8.4% and 9% but the vinometer is reading 16%, and I have a stuck fermentation with Montrechat (Premier Rouge) yeast (max 13%).
+
+					So obviously the vinometer is lying right?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Title" >
+			<PostId>13776</PostId>
+			<ParentPostId>7196</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-26T12:28:56.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Vinometer reads 16% while SG says that can't be possible
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Tags" >
+			<PostId>13777</PostId>
+			<ParentPostId>7196</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-26T12:28:56.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Body" >
+			<PostId>13779</PostId>
+			<ParentPostId>7198</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-26T14:50:46.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have a berry wine, stuck at 1.026SG and with a high malic acid (quite sour).  Should I try to restart the fermentation by adding fresh yeast?  What about yeast from another vat?  Is there enough sugar still in the vat to continue the ferment?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Title" >
+			<PostId>13780</PostId>
+			<ParentPostId>7198</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-26T14:50:46.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Restart fermentation stuck at 1.026SG?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Tags" >
+			<PostId>13781</PostId>
+			<ParentPostId>7198</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-26T14:50:46.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Unknown" >
+			<PostId>13908</PostId>
+			<ParentPostId>7196</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-12T12:34:31.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/984409424952483842
+			</EditDetails>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Body" >
+			<PostId>14466</PostId>
+			<ParentPostId>7424</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T11:03:28.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have had much success making Elder Flower champagne in the past by adding the flower heads to large container of water, add sugar and little lemon for taste and leave for 2-4 weeks to ferment before filtering and bottling up in screw top bottles to get fermentation in the bottle and add some fizz to the drink.
+
+					I have always used the natural yeast that occur on the elder flower and produce a 4-5% alcoholic drink. Just wondering if anyone had any advice on using any store bought yeast for obtaining higher % of alcohol and what side effects this might have on the taste etc.
+
+					Many thanks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Title" >
+			<PostId>14467</PostId>
+			<ParentPostId>7424</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T11:03:28.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Elder flower champagne best to use natural yeast or add a wine yeast?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Tags" >
+			<PostId>14468</PostId>
+			<ParentPostId>7424</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T11:03:28.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					alcohol-level, yeast, home-brew, champagne, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Unknown" >
+			<PostId>14506</PostId>
+			<ParentPostId>7424</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-14T15:01:50.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1029382594947895298
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

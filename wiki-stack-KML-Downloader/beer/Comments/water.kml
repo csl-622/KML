@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>512</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-31T22:01:20.093</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Crap, I think you're right.  Voting to close as duplicate.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>513</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-31T22:03:13.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A bit of a shame, since I actually like your question better.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="1">
+			<PostId>733</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Contributors>
+				<UserId>544</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-25T17:18:50.387</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					John Palmers new books is entirely about water chemistry for brewing: http://www.amazon.com/Water-Comprehensive-Brewers-Brewing-Elements/dp/0937381993
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

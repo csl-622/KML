@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>7457</PostId>
+			<Title>
+			"Dark winter days equal dark winter drinks!"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>gin</tag>
+				<tag>winter</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>37</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-26T15:09:26.680</CreationDate>
+				<LastActivityDate>2018-08-26T15:09:26.680</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Winter is just around the corner, thus what should I be drinking?  My normal summer tipple of Gin and Tonic, or should I move over to darker more homely drinks, like perhaps rum and coke?  Is there a particular wine that is evocative of cold days and warm fireplaces?  Or perhaps I should just simply remove ice from gin and carry on - any suggestions?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

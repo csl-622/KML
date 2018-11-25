@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>637</PostId>
+			<ParentPostId>245</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T02:44:18.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					For pushing of beer out of a keg to the line and faucet various media could be used. Usually they are gases which come into a direct contact with the beer like: carbon dioxide, nitrogen, carbon dioxide + nitrogen, air etc.
+
+					The beer could be also contained in a polypropylene sack to not come into contact with the pushing gas for example to avoid oxidization caused by the oxygen from air.
+
+					What are the effects of various pushing media on the taste, durability and quality of the beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>638</PostId>
+			<ParentPostId>245</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T02:44:18.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the effects of draught beer pushing medium on beer's taste and quality?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>639</PostId>
+			<ParentPostId>245</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T02:44:18.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, draught, gas, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>1600</PostId>
+			<ParentPostId>607</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T03:18:09.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I thought of this question when I've read the one about [mulled beer][1]. I thought heating the beer would make it lose carbonation, but then I've read somewhere that you have to [carbonate][2] the mulled beer as well.
+
+					So are there any beer styles that are served without carbonation or nitrogenation? I myself think that there are probably none, but I'm no beer expert (yet :D).
+
+
+					  [1]: http://beer.stackexchange.com/questions/597/are-there-any-beer-styles-that-are-best-enjoyed-hot
+					  [2]: http://homebrew.stackexchange.com/questions/2652/what-would-make-a-good-mulled-ale
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>1601</PostId>
+			<ParentPostId>607</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T03:18:09.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any beer styles that is served flat?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>1602</PostId>
+			<ParentPostId>607</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T03:18:09.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, gas, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1604</PostId>
+			<ParentPostId>607</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T07:38:02.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434592424560971776
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Title" >
+			<PostId>1635</PostId>
+			<ParentPostId>607</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-17T00:07:53.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>94</UserId>
+			</Contributors>
+			<EditDetails>
+				typo in title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any beer styles that are served flat?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>1636</PostId>
+			<ParentPostId>607</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-17T00:07:53.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 94 approved by 31, 127 edit id of 79
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>1988</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T13:07:27.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've read anecdotal evidence that says that real ale, though not as gassy as lager, makes you fart more.
+
+					Is there any truth to this and does it apply to ales in general or just certain types?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>1989</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T13:07:27.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does real ale make you fart more than lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>1990</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T13:07:27.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, gas, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>2031</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-15T11:48:51.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/456036425797226496
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Body" >
+			<PostId>12506</PostId>
+			<ParentPostId>607</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I thought of this question when I've read the one about [mulled beer][1]. I thought heating the beer would make it lose carbonation, but then I've read somewhere that you have to [carbonate][2] the mulled beer as well.
+
+					So are there any beer styles that are served without carbonation or nitrogenation? I myself think that there are probably none, but I'm no beer expert (yet :D).
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/597/are-there-any-beer-styles-that-are-best-enjoyed-hot
+					  [2]: http://homebrew.stackexchange.com/questions/2652/what-would-make-a-good-mulled-ale
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Body" >
+			<PostId>12540</PostId>
+			<ParentPostId>607</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T12:46:00.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://homebrew.stackexchange.com/ with https://homebrew.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I thought of this question when I've read the one about [mulled beer][1]. I thought heating the beer would make it lose carbonation, but then I've read somewhere that you have to [carbonate][2] the mulled beer as well.
+
+					So are there any beer styles that are served without carbonation or nitrogenation? I myself think that there are probably none, but I'm no beer expert (yet :D).
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/597/are-there-any-beer-styles-that-are-best-enjoyed-hot
+					  [2]: https://homebrew.stackexchange.com/questions/2652/what-would-make-a-good-mulled-ale
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

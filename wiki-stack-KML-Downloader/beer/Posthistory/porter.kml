@@ -1,0 +1,527 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>90</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:00:23.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Porters and stouts seem very similar and sometimes stores and restaurants group them together as if they're two different names for the same thing.
+
+					Is there a difference and what is it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>91</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:00:23.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between a porter and a stout?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>92</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:00:23.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					porter, stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>109</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:05:17.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Stouts are stout, Pale Ales use pale malt, but where did the name porter come from?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>110</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:05:17.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is it called "porter"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>111</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:05:17.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, porter, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>1144</PostId>
+			<ParentPostId>453</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T21:06:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently, I traveled to Denver, CO, and though I didn't go for beer-specific purposes, I took advantage of a few breweries (and taphouses) that were conveniently close to my hotel.
+
+					The one I was most excited about was Great Divide, mostly because I had discovered their [Saint Bridget's Porter](http://beeradvocate.com/beer/profile/158/262/) years beforehand. I did not keep track of this beer, however, and was disappointed to find that they no longer produced it.
+
+					The bartender informed me that this was because "porters don't do well in the marketplace."
+
+					Is this a common opinion among brewers? Could it just be regional to Denver? What might the reasoning be behind this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>1145</PostId>
+			<ParentPostId>453</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T21:06:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Porter in the Marketplace
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>1146</PostId>
+			<ParentPostId>453</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T21:06:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, porter, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>1384</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:48.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<EditDetails>
+				terminology tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, terminology, porter, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>1385</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:48.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 407 approved by 73, 60 edit id of 70
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>1632</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T16:38:03.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435090707746160641
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>1678</PostId>
+			<ParentPostId>453</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-20T19:40:59.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436586298674262016
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>3489</PostId>
+			<ParentPostId>924</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-14T16:42:58.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1098</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I can only find (on their website, and on other nutrition websites) the macronutrients of Guinness.
+
+					Can someone provide a specific breakdown of micronutrient information for Guinness, or another similar stout?
+
+					By micronutrients I mean vitamins, minerals, amino acids, etc.
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>3490</PostId>
+			<ParentPostId>924</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-14T16:42:58.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1098</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the micronutritional value of stouts such as Guinness?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>3491</PostId>
+			<ParentPostId>924</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-14T16:42:58.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1098</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					stout, porter, nutrition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>3558</PostId>
+			<ParentPostId>924</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-28T12:48:08.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/493739682875072512
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>6115</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:08:04.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any micro-brewery in Porto?
+
+					Are there any Port related beer brew in Porto? (like Rodenbach beers in Belgium, they have a winey feel)
+
+					What local beers (micro-brewery or not) should one look out for in Porto?
+
+					Is Port / Porto related to Porter?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>6116</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:08:04.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Microbrewery in Porto, Portugal? Port, Porter, Porto, Portugal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>6117</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:08:04.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, porter, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Body" >
+			<PostId>6137</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-20T16:38:39.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3671</UserId>
+			</Contributors>
+			<EditDetails>
+				changed grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any microbreweries in Porto?
+
+					Are there any Port-related beer breweries in Porto? (Such as Rodenbach beers in Belgium, that have a wine-like feel.)
+
+					What local beers (micro-brewery or not) should one look out for in Porto?
+
+					Is Port / Porto related to Porter?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>6138</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-20T16:38:39.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 3671 approved by 73 edit id of 122
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Tags" >
+			<PostId>8283</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-12T09:56:01.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					stout, classification, porter, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>11650</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-28T07:19:14.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What, exactly, is the difference between stout, porter, schwarzbier, and other dark beers?
+
+					Wiki descriptions:
+
+					-[Stout][1]: dark beer made using roasted malt or roasted barley, hops, water and yeast (fairly broad description, imho...)
+
+					-[Porter][2]: dark style of beer developed in London from well-hopped beers made from brown malt
+
+					-[Schwarzbier][3]: or black beer, is a dark lager made in Germany
+
+					[Dark Beer:][4] opaque or near-opaque colour that exists with stouts, porters, schwarzbiers (black beer) and other deeply coloured styles
+
+					Two overarching factors seem to be the color, most obviously, and geographical location.
+
+					But, are all dark beers, 'stouts,' by definition? For example, schwarzbier is a 'dark lager' but, still made from roasted malt?
+
+					  [1]: https://en.wikipedia.org/wiki/Stout
+					  [2]: https://en.wikipedia.org/wiki/Porter_(beer)
+					  [3]: https://en.wikipedia.org/wiki/Schwarzbier
+					  [4]: https://en.wikipedia.org/wiki/Beer_style#Appearance
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>11651</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-28T07:19:14.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Dark Beer Classifications
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>11652</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-28T07:19:14.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					stout, porter, schwarzbier, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>11653</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-29T07:30:25.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/825607012071436288
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

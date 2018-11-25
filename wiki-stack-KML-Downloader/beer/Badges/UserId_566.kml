@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="1215"  UserId="566" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-27T16:04:26.233</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1218"  UserId="566" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-27T17:04:30.883</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1221"  UserId="566" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-27T19:41:31.643</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1223"  UserId="566" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-27T21:33:37.543</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1235"  UserId="566" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-03-02T11:45:04.253</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1242"  UserId="566" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-03-03T12:17:03.930</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1243"  UserId="566" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2014-03-03T15:39:17.367</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1360"  UserId="566" InstanceType= "badges">
+			<Title>
+			"Nice Question"
+			</Title>
+			<TimeStamp>
+				<Date>2014-03-30T03:30:27.200</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6447"  UserId="566" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-10-07T23:06:58.027</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>4614</PostId>
+			<ParentPostId>6611</ParentPostId>
+			<Contributors>
+				<UserId>6473</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-28T07:12:57.477</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In cooking as in many endeavors the quality of the ingredients will have a significant impact on the outcome of the final product.  Do extensive research  experiments .
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>4615</PostId>
+			<ParentPostId>6611</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-28T07:15:17.113</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Do you mean research the whiskey?  I feel a hangover coming on - again!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>4616</PostId>
+			<ParentPostId>6536</ParentPostId>
+			<Contributors>
+				<UserId>6473</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-28T07:16:11.623</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I have always wondered how this actually functions, is there a video simulation one could watch.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>4619</PostId>
+			<ParentPostId>6611</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-28T13:29:37.160</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Great question , keep it up.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>4620</PostId>
+			<ParentPostId>6613</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-28T13:47:21.797</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					St Valentine was a Roman martyr, but the origins of [Valentine's Day](http://www.newadvent.org/cathen/15254a.htm) is from either England or France.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>4621</PostId>
+			<ParentPostId>6612</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-01T05:34:08.047</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Great info, who would have thought that this great dessert could be so diverse.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>4622</PostId>
+			<ParentPostId>6614</ParentPostId>
+			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-01T08:02:42.493</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					good answer, and fascinating as well the art of drinking whiskeys
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>5461</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-08T08:53:33.700</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I know of low alcohol beer but have not seen the same in wine.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>5462</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-08T17:16:13.023</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hard Cider is a low alcohol substitute for wine. You will never get to zero alcohol and still have the same flavors, mouthfeel and effects as wine. Sorry.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="2">
+			<PostId>5464</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-09T16:10:35.957</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You make the statement about cancer risk as though it is a simple fact. It isn't. There is a fair amount of data that suggests that moderate wine drinking (especially red wine) can actually be good for your heart and perhaps even be protective for cancer. Certainly abusing alcohol has all sorts of problems, but lets not assume they apply universally to modest drinking.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

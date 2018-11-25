@@ -1,0 +1,705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="meta_comments" xmlns:xi="http://www.w3.org/2001/XInclude">
+		<Instance Id="1" InstanceType="serving">
+			<KnowledgeData id="k1">
+				<xi:include href="beer/Comments/serving.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="2" InstanceType="temperature">
+			<KnowledgeData id="k2">
+				<xi:include href="beer/Comments/temperature.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="3" InstanceType="drinking">
+			<KnowledgeData id="k3">
+				<xi:include href="beer/Comments/drinking.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="4" InstanceType="glassware">
+			<KnowledgeData id="k4">
+				<xi:include href="beer/Comments/glassware.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="5" InstanceType="taste">
+			<KnowledgeData id="k5">
+				<xi:include href="beer/Comments/taste.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="6" InstanceType="aroma">
+			<KnowledgeData id="k6">
+				<xi:include href="beer/Comments/aroma.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="7" InstanceType="terminology">
+			<KnowledgeData id="k7">
+				<xi:include href="beer/Comments/terminology.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="8" InstanceType="storage">
+			<KnowledgeData id="k8">
+				<xi:include href="beer/Comments/storage.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="9" InstanceType="bottling">
+			<KnowledgeData id="k9">
+				<xi:include href="beer/Comments/bottling.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="10" InstanceType="stout">
+			<KnowledgeData id="k10">
+				<xi:include href="beer/Comments/stout.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="11" InstanceType="health">
+			<KnowledgeData id="k11">
+				<xi:include href="beer/Comments/health.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="12" InstanceType="history">
+			<KnowledgeData id="k12">
+				<xi:include href="beer/Comments/history.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="13" InstanceType="breweries">
+			<KnowledgeData id="k13">
+				<xi:include href="beer/Comments/breweries.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="14" InstanceType="brewing">
+			<KnowledgeData id="k14">
+				<xi:include href="beer/Comments/brewing.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="15" InstanceType="draught">
+			<KnowledgeData id="k15">
+				<xi:include href="beer/Comments/draught.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="16" InstanceType="aging">
+			<KnowledgeData id="k16">
+				<xi:include href="beer/Comments/aging.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="17" InstanceType="abv">
+			<KnowledgeData id="k17">
+				<xi:include href="beer/Comments/abv.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="18" InstanceType="3.2-beer">
+			<KnowledgeData id="k18">
+				<xi:include href="beer/Comments/3.2-beer.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="19" InstanceType="inebriation">
+			<KnowledgeData id="k19">
+				<xi:include href="beer/Comments/inebriation.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="20" InstanceType="keg">
+			<KnowledgeData id="k20">
+				<xi:include href="beer/Comments/keg.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="21" InstanceType="garnish">
+			<KnowledgeData id="k21">
+				<xi:include href="beer/Comments/garnish.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="22" InstanceType="yeast">
+			<KnowledgeData id="k22">
+				<xi:include href="beer/Comments/yeast.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="23" InstanceType="distribution">
+			<KnowledgeData id="k23">
+				<xi:include href="beer/Comments/distribution.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="24" InstanceType="buying">
+			<KnowledgeData id="k24">
+				<xi:include href="beer/Comments/buying.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="25" InstanceType="retail-availiability">
+			<KnowledgeData id="k25">
+				<xi:include href="beer/Comments/retail-availiability.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="26" InstanceType="germany">
+			<KnowledgeData id="k26">
+				<xi:include href="beer/Comments/germany.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="27" InstanceType="bottle-conditioning">
+			<KnowledgeData id="k27">
+				<xi:include href="beer/Comments/bottle-conditioning.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="28" InstanceType="cellaring">
+			<KnowledgeData id="k28">
+				<xi:include href="beer/Comments/cellaring.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="29" InstanceType="style">
+			<KnowledgeData id="k29">
+				<xi:include href="beer/Comments/style.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="30" InstanceType="local">
+			<KnowledgeData id="k30">
+				<xi:include href="beer/Comments/local.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="31" InstanceType="laws">
+			<KnowledgeData id="k31">
+				<xi:include href="beer/Comments/laws.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="32" InstanceType="classification">
+			<KnowledgeData id="k32">
+				<xi:include href="beer/Comments/classification.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="33" InstanceType="poland">
+			<KnowledgeData id="k33">
+				<xi:include href="beer/Comments/poland.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="34" InstanceType="science">
+			<KnowledgeData id="k34">
+				<xi:include href="beer/Comments/science.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="35" InstanceType="pairing">
+			<KnowledgeData id="k35">
+				<xi:include href="beer/Comments/pairing.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="36" InstanceType="restaurants">
+			<KnowledgeData id="k36">
+				<xi:include href="beer/Comments/restaurants.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="37" InstanceType="lager">
+			<KnowledgeData id="k37">
+				<xi:include href="beer/Comments/lager.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="38" InstanceType="schwarzbier">
+			<KnowledgeData id="k38">
+				<xi:include href="beer/Comments/schwarzbier.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="39" InstanceType="competition">
+			<KnowledgeData id="k39">
+				<xi:include href="beer/Comments/competition.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="40" InstanceType="cooking">
+			<KnowledgeData id="k40">
+				<xi:include href="beer/Comments/cooking.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="41" InstanceType="nutrition">
+			<KnowledgeData id="k41">
+				<xi:include href="beer/Comments/nutrition.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="42" InstanceType="untagged">
+			<KnowledgeData id="k42">
+				<xi:include href="beer/Comments/untagged.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="43" InstanceType="growlers">
+			<KnowledgeData id="k43">
+				<xi:include href="beer/Comments/growlers.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="44" InstanceType="cicerone">
+			<KnowledgeData id="k44">
+				<xi:include href="beer/Comments/cicerone.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="45" InstanceType="non-alcoholic">
+			<KnowledgeData id="k45">
+				<xi:include href="beer/Comments/non-alcoholic.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="46" InstanceType="german-beers">
+			<KnowledgeData id="k46">
+				<xi:include href="beer/Comments/german-beers.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="47" InstanceType="pouring">
+			<KnowledgeData id="k47">
+				<xi:include href="beer/Comments/pouring.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="48" InstanceType="ipa">
+			<KnowledgeData id="k48">
+				<xi:include href="beer/Comments/ipa.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="49" InstanceType="carbonation">
+			<KnowledgeData id="k49">
+				<xi:include href="beer/Comments/carbonation.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="50" InstanceType="united-states">
+			<KnowledgeData id="k50">
+				<xi:include href="beer/Comments/united-states.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="51" InstanceType="porter">
+			<KnowledgeData id="k51">
+				<xi:include href="beer/Comments/porter.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="52" InstanceType="water">
+			<KnowledgeData id="k52">
+				<xi:include href="beer/Comments/water.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="53" InstanceType="beer-cocktails">
+			<KnowledgeData id="k53">
+				<xi:include href="beer/Comments/beer-cocktails.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="54" InstanceType="foam">
+			<KnowledgeData id="k54">
+				<xi:include href="beer/Comments/foam.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="55" InstanceType="cans">
+			<KnowledgeData id="k55">
+				<xi:include href="beer/Comments/cans.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="56" InstanceType="specialty-beers">
+			<KnowledgeData id="k56">
+				<xi:include href="beer/Comments/specialty-beers.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="57" InstanceType="bottles">
+			<KnowledgeData id="k57">
+				<xi:include href="beer/Comments/bottles.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="58" InstanceType="resources">
+			<KnowledgeData id="k58">
+				<xi:include href="beer/Comments/resources.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="59" InstanceType="head">
+			<KnowledgeData id="k59">
+				<xi:include href="beer/Comments/head.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="60" InstanceType="ingredients">
+			<KnowledgeData id="k60">
+				<xi:include href="beer/Comments/ingredients.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="61" InstanceType="recommendations">
+			<KnowledgeData id="k61">
+				<xi:include href="beer/Comments/recommendations.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="62" InstanceType="finings">
+			<KnowledgeData id="k62">
+				<xi:include href="beer/Comments/finings.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="63" InstanceType="tripel">
+			<KnowledgeData id="k63">
+				<xi:include href="beer/Comments/tripel.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="64" InstanceType="trappist">
+			<KnowledgeData id="k64">
+				<xi:include href="beer/Comments/trappist.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="65" InstanceType="australia">
+			<KnowledgeData id="k65">
+				<xi:include href="beer/Comments/australia.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="66" InstanceType="freshness">
+			<KnowledgeData id="k66">
+				<xi:include href="beer/Comments/freshness.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="67" InstanceType="lambic">
+			<KnowledgeData id="k67">
+				<xi:include href="beer/Comments/lambic.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="68" InstanceType="alcohol-level">
+			<KnowledgeData id="k68">
+				<xi:include href="beer/Comments/alcohol-level.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="69" InstanceType="shandy">
+			<KnowledgeData id="k69">
+				<xi:include href="beer/Comments/shandy.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="70" InstanceType="hefeweizen">
+			<KnowledgeData id="k70">
+				<xi:include href="beer/Comments/hefeweizen.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="71" InstanceType="flavor">
+			<KnowledgeData id="k71">
+				<xi:include href="beer/Comments/flavor.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="72" InstanceType="additives">
+			<KnowledgeData id="k72">
+				<xi:include href="beer/Comments/additives.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="73" InstanceType="ale">
+			<KnowledgeData id="k73">
+				<xi:include href="beer/Comments/ale.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="74" InstanceType="gas">
+			<KnowledgeData id="k74">
+				<xi:include href="beer/Comments/gas.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="75" InstanceType="skunking">
+			<KnowledgeData id="k75">
+				<xi:include href="beer/Comments/skunking.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="76" InstanceType="craft-beers">
+			<KnowledgeData id="k76">
+				<xi:include href="beer/Comments/craft-beers.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="77" InstanceType="hops">
+			<KnowledgeData id="k77">
+				<xi:include href="beer/Comments/hops.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="78" InstanceType="pennsylvania">
+			<KnowledgeData id="k78">
+				<xi:include href="beer/Comments/pennsylvania.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="79" InstanceType="varieties">
+			<KnowledgeData id="k79">
+				<xi:include href="beer/Comments/varieties.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="80" InstanceType="fermentation">
+			<KnowledgeData id="k80">
+				<xi:include href="beer/Comments/fermentation.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="81" InstanceType="hangover">
+			<KnowledgeData id="k81">
+				<xi:include href="beer/Comments/hangover.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="82" InstanceType="cooling">
+			<KnowledgeData id="k82">
+				<xi:include href="beer/Comments/cooling.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="83" InstanceType="canada">
+			<KnowledgeData id="k83">
+				<xi:include href="beer/Comments/canada.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="84" InstanceType="preservation">
+			<KnowledgeData id="k84">
+				<xi:include href="beer/Comments/preservation.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="85" InstanceType="micropub">
+			<KnowledgeData id="k85">
+				<xi:include href="beer/Comments/micropub.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="86" InstanceType="ibu">
+			<KnowledgeData id="k86">
+				<xi:include href="beer/Comments/ibu.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="87" InstanceType="liquor">
+			<KnowledgeData id="k87">
+				<xi:include href="beer/Comments/liquor.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="88" InstanceType="pilsener">
+			<KnowledgeData id="k88">
+				<xi:include href="beer/Comments/pilsener.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="89" InstanceType="production">
+			<KnowledgeData id="k89">
+				<xi:include href="beer/Comments/production.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="90" InstanceType="preparation-for-drinking">
+			<KnowledgeData id="k90">
+				<xi:include href="beer/Comments/preparation-for-drinking.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="91" InstanceType="alcohol">
+			<KnowledgeData id="k91">
+				<xi:include href="beer/Comments/alcohol.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="92" InstanceType="malt">
+			<KnowledgeData id="k92">
+				<xi:include href="beer/Comments/malt.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="93" InstanceType="vodka">
+			<KnowledgeData id="k93">
+				<xi:include href="beer/Comments/vodka.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="94" InstanceType="imperal-stout">
+			<KnowledgeData id="k94">
+				<xi:include href="beer/Comments/imperal-stout.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="95" InstanceType="colour">
+			<KnowledgeData id="k95">
+				<xi:include href="beer/Comments/colour.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="96" InstanceType="filtering">
+			<KnowledgeData id="k96">
+				<xi:include href="beer/Comments/filtering.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="97" InstanceType="occasions">
+			<KnowledgeData id="k97">
+				<xi:include href="beer/Comments/occasions.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="98" InstanceType="cider">
+			<KnowledgeData id="k98">
+				<xi:include href="beer/Comments/cider.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="99" InstanceType="imperial-ipa">
+			<KnowledgeData id="k99">
+				<xi:include href="beer/Comments/imperial-ipa.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="100" InstanceType="whiskey">
+			<KnowledgeData id="k100">
+				<xi:include href="beer/Comments/whiskey.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="101" InstanceType="red-wine">
+			<KnowledgeData id="k101">
+				<xi:include href="beer/Comments/red-wine.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="102" InstanceType="scotch">
+			<KnowledgeData id="k102">
+				<xi:include href="beer/Comments/scotch.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="103" InstanceType="sake">
+			<KnowledgeData id="k103">
+				<xi:include href="beer/Comments/sake.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="104" InstanceType="wine">
+			<KnowledgeData id="k104">
+				<xi:include href="beer/Comments/wine.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="105" InstanceType="gin">
+			<KnowledgeData id="k105">
+				<xi:include href="beer/Comments/gin.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="106" InstanceType="cocktails">
+			<KnowledgeData id="k106">
+				<xi:include href="beer/Comments/cocktails.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="107" InstanceType="mead">
+			<KnowledgeData id="k107">
+				<xi:include href="beer/Comments/mead.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="108" InstanceType="sour-beer">
+			<KnowledgeData id="k108">
+				<xi:include href="beer/Comments/sour-beer.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="109" InstanceType="spirits">
+			<KnowledgeData id="k109">
+				<xi:include href="beer/Comments/spirits.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="110" InstanceType="belgian-beers">
+			<KnowledgeData id="k110">
+				<xi:include href="beer/Comments/belgian-beers.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="111" InstanceType="absinthe">
+			<KnowledgeData id="k111">
+				<xi:include href="beer/Comments/absinthe.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="112" InstanceType="holidays">
+			<KnowledgeData id="k112">
+				<xi:include href="beer/Comments/holidays.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="113" InstanceType="distillation">
+			<KnowledgeData id="k113">
+				<xi:include href="beer/Comments/distillation.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="114" InstanceType="bartending">
+			<KnowledgeData id="k114">
+				<xi:include href="beer/Comments/bartending.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="115" InstanceType="prohibition">
+			<KnowledgeData id="k115">
+				<xi:include href="beer/Comments/prohibition.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="116" InstanceType="bourbon">
+			<KnowledgeData id="k116">
+				<xi:include href="beer/Comments/bourbon.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="117" InstanceType="home-brew">
+			<KnowledgeData id="k117">
+				<xi:include href="beer/Comments/home-brew.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="118" InstanceType="tradition">
+			<KnowledgeData id="k118">
+				<xi:include href="beer/Comments/tradition.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="119" InstanceType="mixers">
+			<KnowledgeData id="k119">
+				<xi:include href="beer/Comments/mixers.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="120" InstanceType="liqueur">
+			<KnowledgeData id="k120">
+				<xi:include href="beer/Comments/liqueur.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="121" InstanceType="substitutions">
+			<KnowledgeData id="k121">
+				<xi:include href="beer/Comments/substitutions.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="122" InstanceType="quality">
+			<KnowledgeData id="k122">
+				<xi:include href="beer/Comments/quality.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="123" InstanceType="drink">
+			<KnowledgeData id="k123">
+				<xi:include href="beer/Comments/drink.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="124" InstanceType="price">
+			<KnowledgeData id="k124">
+				<xi:include href="beer/Comments/price.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="125" InstanceType="distilleries">
+			<KnowledgeData id="k125">
+				<xi:include href="beer/Comments/distilleries.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="126" InstanceType="europe">
+			<KnowledgeData id="k126">
+				<xi:include href="beer/Comments/europe.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="127" InstanceType="tequila">
+			<KnowledgeData id="k127">
+				<xi:include href="beer/Comments/tequila.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="128" InstanceType="identification">
+			<KnowledgeData id="k128">
+				<xi:include href="beer/Comments/identification.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="129" InstanceType="consumption">
+			<KnowledgeData id="k129">
+				<xi:include href="beer/Comments/consumption.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="130" InstanceType="age">
+			<KnowledgeData id="k130">
+				<xi:include href="beer/Comments/age.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="131" InstanceType="champagne">
+			<KnowledgeData id="k131">
+				<xi:include href="beer/Comments/champagne.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="132" InstanceType="solera">
+			<KnowledgeData id="k132">
+				<xi:include href="beer/Comments/solera.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="133" InstanceType="dubbel">
+			<KnowledgeData id="k133">
+				<xi:include href="beer/Comments/dubbel.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="134" InstanceType="reviews">
+			<KnowledgeData id="k134">
+				<xi:include href="beer/Comments/reviews.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="135" InstanceType="data">
+			<KnowledgeData id="k135">
+				<xi:include href="beer/Comments/data.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="136" InstanceType="rum">
+			<KnowledgeData id="k136">
+				<xi:include href="beer/Comments/rum.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="137" InstanceType="blonde">
+			<KnowledgeData id="k137">
+				<xi:include href="beer/Comments/blonde.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="138" InstanceType="cheap">
+			<KnowledgeData id="k138">
+				<xi:include href="beer/Comments/cheap.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="139" InstanceType="online">
+			<KnowledgeData id="k139">
+				<xi:include href="beer/Comments/online.kml" />
+			</KnowledgeData>
+		</Instance>
+		<Instance Id="140" InstanceType="winter">
+			<KnowledgeData id="k140">
+				<xi:include href="beer/Comments/winter.kml" />
+			</KnowledgeData>
+		</Instance>
+	</KnowledgeData>
+</KML>

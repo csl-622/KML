@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>3642</PostId>
+			<ParentPostId>705</ParentPostId>
+			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-03T22:00:31.247</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Snifters are great. Most festivals these days seem to give them out for tasting glasses.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

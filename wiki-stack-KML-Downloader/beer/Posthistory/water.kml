@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>139</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:17:49.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How much of an impact does the water (minerals/quality/distilled) have on a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>140</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:17:49.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How much of an impact does the water have on a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>141</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:17:49.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, water, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>1202</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T21:55:39.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It's often recommended that you drink water before and during a heavy drinking session.  Why is it that, despite being mostly water, beer dehydrates you?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>1203</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T21:55:39.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why does beer dehydrate you?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>1204</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T21:55:39.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, water, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Post Closed" >
+			<PostId>1452</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T04:14:02.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[16],"Voters":[{"Id":80,"DisplayName":"Fishtoaster"},{"Id":27,"DisplayName":"object88"},{"Id":112,"DisplayName":"mdma"},{"Id":36,"DisplayName":"crownjewel82"},{"Id":130,"DisplayName":"SF."}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>1651</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-18T01:40:31.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435589612497821696
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Tags" >
+			<PostId>1697</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T10:01:19.697</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<EditDetails>
+				Added tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, taste, water, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

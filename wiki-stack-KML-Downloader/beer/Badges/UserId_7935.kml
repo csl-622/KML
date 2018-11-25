@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="8951"  UserId="7935" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2018-07-19T15:51:45.163</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9033"  UserId="7935" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-09T10:55:02.630</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9034"  UserId="7935" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-09T10:58:24.477</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9039"  UserId="7935" InstanceType= "badges">
+			<Title>
+			"Suffrage"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-09T11:20:22.310</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9040"  UserId="7935" InstanceType= "badges">
+			<Title>
+			"Vox Populi"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-09T12:40:03.600</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9041"  UserId="7935" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-09T14:25:28.913</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9050"  UserId="7935" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-11T10:25:01.223</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

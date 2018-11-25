@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>57</PostId>
+			<AcceptedAnswerId>72</AcceptedAnswerId>
+			<Title>
+			"How much of an impact does the water have on a beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>water</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>1613</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:17:49.747</CreationDate>
+				<LastEditDate>2014-02-22T10:01:19.697</LastEditDate>
+				<LastActivityDate>2014-03-14T01:20:09.540</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>52</OwnerUserId>
+				<LastEditorUserId>52</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;How much of an impact does the water (minerals/quality/distilled) have on a beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>479</PostId>
+			<Title>
+			"Why does beer dehydrate you?"
+			</Title>
+			<Tags>
+				<tag>drinking</tag>
+				<tag>water</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>5133</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-31T21:55:39.973</CreationDate>
+				<LastActivityDate>2014-02-01T10:19:08.893</LastActivityDate>
+				<ClosedDate>2014-02-07T04:14:02.410</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's often recommended that you drink water before and during a heavy drinking session.  Why is it that, despite being mostly water, beer dehydrates you?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

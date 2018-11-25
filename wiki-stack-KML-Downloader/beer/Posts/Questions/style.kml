@@ -1,0 +1,1222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>28</PostId>
+			<AcceptedAnswerId>136</AcceptedAnswerId>
+			<Title>
+			"What are the differences between an IPA and its variants?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>18</Score>
+				<ViewCount>47529</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:58:13.430</CreationDate>
+				<LastEditDate>2014-01-22T05:50:20.457</LastEditDate>
+				<LastActivityDate>2014-01-22T05:50:20.457</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2</OwnerUserId>
+				<LastEditorUserId>2</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know what makes an IPA an IPA, but what are the unique characteristics of it's common variants? To be specific, the ones I'm interested in are Double IPA and Black IPA, but general differences between any other styles would be welcome too. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>115</PostId>
+			<Title>
+			"What styles of beer can you age?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>age</tag>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>29</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:44:47.400</CreationDate>
+				<LastActivityDate>2014-01-21T22:44:47.400</LastActivityDate>
+				<ClosedDate>2014-01-22T14:08:19.980</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>83</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know friends who have "aged" beers to around the 1 year mark. Typically I've heard of stouts and porters aging well. Is the aging style related? If so, what styles can you age and for how long?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>121</PostId>
+			<Title>
+			"What characteristics are used to distinguish styles of beer from each other?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>2739</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:55:10.623</CreationDate>
+				<LastEditDate>2014-01-21T23:08:25.953</LastEditDate>
+				<LastActivityDate>2014-01-22T18:56:52.483</LastActivityDate>
+				<ClosedDate>2014-01-22T14:55:20.197</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>86</OwnerUserId>
+				<LastEditorUserId>86</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are many styles of beer. It's straightforward to discuss the differences between two types of beer, but what are the characteristics used to distinguish between styles of beer?&lt;/p&gt;
+
+					&lt;p&gt;For each general characteristic, what kinds of beer have each specific quality?  For example, if color is a general characteristic what styles of beer are light, medium, and dark?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>138</PostId>
+			<Title>
+			"Does the climate and growing conditions of hops effect the taste of a beer, like with wine?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>style</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>471</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:27:29.303</CreationDate>
+				<LastActivityDate>2014-01-22T04:23:10.133</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>101</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You will often hear wine discussed in terms of the climate, soil, etc of the vineyard. The terms 'new world' and 'old world' wines are common.&lt;/p&gt;
+
+					&lt;p&gt;Is there a similar concept for the hops used in beer? A quick web search seems to indicate that hops don't thrive in as many different climates as grapes do, so there might be less variation. Similarly, there are a few websites that seem to refer to new vs. old world hops, but it doesn't seem to be as popular a talking point. Is there more to it than a 2 minute google search can reveal?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>212</PostId>
+			<AcceptedAnswerId>214</AcceptedAnswerId>
+			<Title>
+			"What is being doubled or tripled in a doublebock/triple bock?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>4274</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T17:46:39.437</CreationDate>
+				<LastActivityDate>2016-09-15T05:21:05.457</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some beers are classed as "doublebock" and some as "triple bock".  Doubles seem to be a little stronger (higher APV) than average and triples seem to be stronger than that, but is that they &lt;em&gt;definition&lt;/em&gt; or an &lt;em&gt;effect&lt;/em&gt;?  What exactly is being doubled or tripled in the production of these beers, and is the primary goal strength or some aspect of flavor or something else?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>338</PostId>
+			<Title>
+			"What are the defining characteristics of a Saison? What should I expect when I drink one?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>saison</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>7357</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-26T20:39:28.193</CreationDate>
+				<LastActivityDate>2015-06-18T15:18:52.910</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'll be the first to admit that I have, at best, the palate of a highly experienced amateur. I can tell an IPA from a Stout from a Doppelbock primarily on the common visual, olfactory, and above all else tastes that are found throughout any example of each style. However, while I've had many delightful 'Saisons' in my time as a drinker of beer, I've never been able to get a straight answer about what characteristics define the style. The best I've ever been able to get is vague handwavey historical notions about the beers role as a 'refreshing summer ale'.&lt;/p&gt;
+
+					&lt;p&gt;Which is... somewhat unsatisfying to someone who would hope that the term might actually &lt;em&gt;mean something&lt;/em&gt;. So, does it? If so, what? If I pick up a Saison from a brewery I've never heard of, what characteristics should I expect it to exhibit that earn it the name?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>340</PostId>
+			<AcceptedAnswerId>344</AcceptedAnswerId>
+			<Title>
+			"What should I expect from a Belgian double (dubbel)?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>dubbel</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>1845</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-26T21:44:11.193</CreationDate>
+				<LastEditDate>2018-06-25T16:03:42.993</LastEditDate>
+				<LastActivityDate>2018-06-25T16:03:42.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>215</OwnerUserId>
+				<LastEditorUserId>4962</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know dubbels are considered as strong beers, but what should I expect in when I try one of them?&lt;/p&gt;
+
+					&lt;p&gt;What are their defining characteristic? What should I expect in term of taste, foam, color and mouthfeel? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>371</PostId>
+			<AcceptedAnswerId>376</AcceptedAnswerId>
+			<Title>
+			"When are beers better "hard" poured rather than "soft" poured?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>4430</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T05:08:42.850</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2014-01-28T07:32:57.363</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>212</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;One of my favorite stouts, Left Hand's "Nitro Milk Stout," is supposed to be poured "hard" (rapidly dumping the whole bottle in the cup by holding it completely upside down)&lt;/p&gt;
+
+					&lt;p&gt;Typical pouring was covered in a previous question: &lt;a href="https://alcohol.stackexchange.com/questions/200/how-do-you-pour-the-perfect-beer"&gt;How do you pour the perfect beer&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;In another question Guinness (a 'nitro' beer) was brought up as a special case: &lt;a href="https://alcohol.stackexchange.com/questions/63/why-does-guinness-have-a-special-pouring-process-bottle-while-other-stouts-do"&gt;Why does Guinness have a special pouring process / bottle, while other stouts do not?&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;Are all nitros poured differently than carbonated beers?&lt;/p&gt;
+
+					&lt;p&gt;And are all nitros poured the same (or very similar) way?&lt;/p&gt;
+
+					&lt;p&gt;(i.e. all carbonated are "soft" poured and all nitros are "hard" poured)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>506</PostId>
+			<AcceptedAnswerId>510</AcceptedAnswerId>
+			<Title>
+			"What do these "OG" and "RDF" numbers mean?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>6809</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-03T18:24:49.433</CreationDate>
+				<LastEditDate>2014-02-03T18:59:36.657</LastEditDate>
+				<LastActivityDate>2014-02-04T05:45:56.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>352</OwnerUserId>
+				<LastEditorUserId>352</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently got a "Gnarly Oak" craft brew package. Three 22 oz beers and a glass. However, on the beers are some abbreviations and numbers I don't understand. they all have a 5.5% ABV, and I get the IBU and color numbers but what are the rest? The numbers and abbr's are below:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;ul&gt;
+					  &lt;li&gt;Winter Bock - 15 OG, 62.5 RDF - light, tasty, ever so slightly bitter&lt;/li&gt;
+					  &lt;li&gt;Hazelnut Dark - 15 OG, 60.4 RDF - nice bitter red with slightly sweet aftertaste&lt;/li&gt;
+					  &lt;li&gt;Chocolate Stout - 14.8 OG, 66.8 RDF - very sweet with hints of chocolate and malt&lt;/li&gt;
+					  &lt;/ul&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;strong&gt;EDIT&lt;/strong&gt;
+					In light of the answers so far, I should say I have brewed my own, and if OG is original gravity, it doesn't fit with the scale I know of. if 15 OG ~= 1.015, it doesn't match what that would give in final ABV. Is this OG on a different scale I haven't seen&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>596</PostId>
+			<AcceptedAnswerId>599</AcceptedAnswerId>
+			<Title>
+			"What should I expect from a Belgian triple (tripel)?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>tripel</tag>
+			</Tags>
+			<Credit> 
+				<Score>18</Score>
+				<ViewCount>3872</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-13T02:26:43.410</CreationDate>
+				<LastEditDate>2018-06-25T16:03:39.450</LastEditDate>
+				<LastActivityDate>2018-06-25T16:03:39.450</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>215</OwnerUserId>
+				<LastEditorUserId>4962</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know from &lt;a href="https://alcohol.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock"&gt;this question&lt;/a&gt; that doubles and triples are stronger than the "single" version. And from what I've seen, Belgian triple are often closer to be blond and golden while doubles are often darker. &lt;/p&gt;
+
+					&lt;p&gt;My question though is what should I expect from a triple? What are it's defining characteristics (meaning that I can recognize one when I drink it, or recognize an off-style one)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>597</PostId>
+			<AcceptedAnswerId>600</AcceptedAnswerId>
+			<Title>
+			"Are there any beer styles that are best enjoyed hot?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>1865</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-13T03:32:24.363</CreationDate>
+				<LastActivityDate>2014-04-03T14:17:49.407</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>31</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm well aware that beer is commonly enjoyed warm in Europe. However, mulled beer aside, are there any beer styles that fare well when enjoyed hot?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>602</PostId>
+			<AcceptedAnswerId>604</AcceptedAnswerId>
+			<Title>
+			"What are the difference between a dubbel and a tripel?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>classification</tag>
+				<tag>dubbel</tag>
+				<tag>tripel</tag>
+			</Tags>
+			<Credit> 
+				<Score>25</Score>
+				<ViewCount>7809</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-13T17:18:30.753</CreationDate>
+				<LastEditDate>2018-06-25T16:03:27.440</LastEditDate>
+				<LastActivityDate>2018-06-25T16:03:27.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>215</OwnerUserId>
+				<LastEditorUserId>4962</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;From a &lt;a href="https://alcohol.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock"&gt;question about german beers&lt;/a&gt;, the difference between a doppelbock and triple bock seems to be simply about the abv and maltiness. Basically just a stronger version of the "single" bock. &lt;/p&gt;
+
+					&lt;p&gt;Is is the same difference for Belgian versions (dubbels and trippels)?&lt;/p&gt;
+
+					&lt;p&gt;From a &lt;a href="https://alcohol.stackexchange.com/questions/596/what-should-i-expect-from-a-belgian-triple-tripel?noredirect=1#comment680_596"&gt;comment&lt;/a&gt; I read, the difference seemed to be more complex, and I would like to get more information about it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>620</PostId>
+			<AcceptedAnswerId>622</AcceptedAnswerId>
+			<Title>
+			"What is pale pilsen?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>3470</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-16T06:41:56.590</CreationDate>
+				<LastActivityDate>2014-02-27T16:06:26.330</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;We have this local beer in the Philippines called San Miguel Pale Pilsen. Looking at this &lt;a href="http://www.bjcp.org/2008styles/catdex.php"&gt;style guide&lt;/a&gt; I don't see any mention of the word Pilsen, though there is the word Pilsner. Are they in any way related?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>629</PostId>
+			<AcceptedAnswerId>631</AcceptedAnswerId>
+			<Title>
+			"What sort of flavours distinguish ultra-high IBU beers from other high IBU beers?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>427</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-21T07:07:06.040</CreationDate>
+				<LastEditDate>2014-02-22T07:17:45.373</LastEditDate>
+				<LastActivityDate>2014-02-22T07:17:45.373</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>170</OwnerUserId>
+				<LastEditorUserId>170</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I've drunk high-IBU beers such as Mikkeller's Hop Burn High (labelled as 300 IBU) I've been able to taste and smell the hops, but I'd be hard pressed to say that it was e.g. 6 times as bitter as a 50 IBU beer.&lt;/p&gt;
+
+					&lt;p&gt;So I was wondering if there is something about the beer that I'm missing that would indicate that it was a 300 IBU beer?  Or is this more of a marketing thing when breweries label beers with such high numbers?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>658</PostId>
+			<AcceptedAnswerId>660</AcceptedAnswerId>
+			<Title>
+			"Difference between Dark Lager and Black Lager"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>terminology</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>721</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-10T01:18:59.313</CreationDate>
+				<LastActivityDate>2014-03-10T01:51:23.220</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>443</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a difference between Black Lager and Dark Lager, or is it just the name?&lt;/p&gt;
+
+					&lt;p&gt;Since the recipes for Dark/Black Lagers seem to be quite varied, it is hard to tell if there are any majorly different components.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>734</PostId>
+			<AcceptedAnswerId>735</AcceptedAnswerId>
+			<Title>
+			"Master New Beer List"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>pairing</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>257</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-15T17:56:54.030</CreationDate>
+				<LastEditDate>2014-04-16T20:34:05.050</LastEditDate>
+				<LastActivityDate>2014-05-05T21:05:21.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>778</OwnerUserId>
+				<LastEditorUserId>778</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a site that attempts to list new beers as they become available? I am always hearing about new beers from friends but I want to know when a brewery markets a new brew without having to go to everyone's site myself... Thanks!&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; Originally, I was thinking just a list of the national/international 'major' brews but I suppose even a local list (that is accurate/updated) would be helpful if visiting a certain area. The scope of this question is really just a general list of major brews.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>814</PostId>
+			<Title>
+			"How can I try a wide variety beers without buying them by the case/spending a lot of money?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>specialty-beers</tag>
+				<tag>flavor</tag>
+				<tag>united-states</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>687</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-29T08:35:34.430</CreationDate>
+				<LastActivityDate>2014-05-30T03:08:25.990</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>928</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Like most of you here, I thoroughly enjoy beer.
+					How can I try a wide variety beers without buying them by the case/spending a lot of money? &lt;/p&gt;
+
+					&lt;p&gt;Aspiring beer enthusiast that is grows tired of the usual, and wants to branch out.
+					Also on a broke, paying for school out of pocket, college kid budget.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>880</PostId>
+			<Title>
+			"Removing the Crown / Neck paper"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>396</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-14T22:56:20.270</CreationDate>
+				<LastActivityDate>2014-06-19T23:44:23.177</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1000</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently moved to Germany and took Rothaus Pils here at the party. I opened the cap after tearing the crown/neck paper (Gold colored paper as shown below) partially.&lt;/p&gt;
+
+					&lt;p&gt;Reference Image :&lt;img src="https://i.stack.imgur.com/bWfDO.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;I was told that Germans really don't like to keep that crown/neck paper. I wanted to ask for reason, but felt it is too rude. Is there any specific reason behind removing the crown paper&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>887</PostId>
+			<AcceptedAnswerId>888</AcceptedAnswerId>
+			<Title>
+			"What transforms a beer into a Barley Wine?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>435</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-25T06:14:58.510</CreationDate>
+				<LastEditDate>2014-07-01T10:21:25.530</LastEditDate>
+				<LastActivityDate>2015-05-18T22:43:28.750</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1025</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is it merely high alcohol content or some change, alteration or addition to the brewing process, mandated by law or otherwise that requires the brew be called Barley Wine?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>912</PostId>
+			<Title>
+			"Belgian Styles brewed in Seattle?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>trappist</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>69</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-07T22:38:06.673</CreationDate>
+				<LastActivityDate>2014-07-09T16:52:00.737</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1062</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Suggestions on breweries that brew Belgian styles within Seattle city limits? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType="question">
+			<PostId>975</PostId>
+			<AcceptedAnswerId>990</AcceptedAnswerId>
+			<Title>
+			"Is there any meaningful difference in acidity level between beer styles?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>2408</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-09T10:27:48.793</CreationDate>
+				<LastActivityDate>2014-08-17T16:04:54.690</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1195</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would guess that a Porter pH is higher than for an IPA, because of alpha acids or other acids from the hops. I also heard that it can heavily  depend on the acidity of the water used. &lt;/p&gt;
+
+					&lt;p&gt;But anyway, are those pH differences really significant in the final product ? For instance, if I have an ulcer, would it be worse to drink some type of beer rather than an other ?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType="question">
+			<PostId>3195</PostId>
+			<AcceptedAnswerId>3196</AcceptedAnswerId>
+			<Title>
+			"What style of lager is Corona? And what other beers are similar?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>9681</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-15T05:45:02.543</CreationDate>
+				<LastEditDate>2015-01-15T07:52:30.377</LastEditDate>
+				<LastActivityDate>2016-01-04T12:53:32.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3676</OwnerUserId>
+				<LastEditorUserId>3676</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Corona Extra is a Mexican beer that is very popular (in Australia anyway). Most people seem to like it for it's drinkability, and suitability for enjoyment in hot weather.&lt;/p&gt;
+
+					&lt;p&gt;Is there a name for this style of lager? Eg; I don't think it's a pilsener or dark lager.&lt;/p&gt;
+
+					&lt;p&gt;And what other beers are in the same style?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType="question">
+			<PostId>3207</PostId>
+			<Title>
+			"Beer like Grimbergen Blanche"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>recommendations</tag>
+				<tag>belgian-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>620</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-19T23:12:56.160</CreationDate>
+				<LastEditDate>2017-12-27T04:56:55.217</LastEditDate>
+				<LastActivityDate>2017-12-27T04:56:55.217</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3703</OwnerUserId>
+				<LastEditorUserId>7449</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Can someone suggest me a beer with similar taste like Grimbergen Blanche ?&lt;/p&gt;
+
+					&lt;p&gt;Grimbergen is the brand name of a variety of Belgian abbey beers. Originally made by Norbertine monks in the Belgian town of Grimbergen, it is now brewed by two different breweries in Belgium and France.&lt;/p&gt;
+
+					&lt;p&gt;Thanks&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType="question">
+			<PostId>3287</PostId>
+			<AcceptedAnswerId>3290</AcceptedAnswerId>
+			<Title>
+			"Red Lager Recomendations and what flavours make a beer a "Red Lager""
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>2202</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-10T20:54:25.763</CreationDate>
+				<LastEditDate>2015-03-10T21:56:50.063</LastEditDate>
+				<LastActivityDate>2015-03-22T04:39:46.130</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3874</OwnerUserId>
+				<LastEditorUserId>3874</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm looking for new beers to try and have a great liking for a variety of Red Ales. Some of my favourite "big" brews are Yuengling and Dos Equis. I also really like a local brew &lt;a href="http://walkervillebrewery.com/tag/honest-lager/" rel="noreferrer"&gt;Walkerville Honest Lager&lt;/a&gt;. Rickards Red is also decent, but not quite "perfect".&lt;/p&gt;
+
+					&lt;p&gt;Interested in any suggestions for other beers I could try with a similar taste!&lt;/p&gt;
+
+					&lt;p&gt;In addition, what is the characteristic taste, or, what are some words that describe the taste, that makes a lager a red lager?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType="question">
+			<PostId>3357</PostId>
+			<AcceptedAnswerId>3359</AcceptedAnswerId>
+			<Title>
+			"Popularity: Ale vs Lager"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>united-states</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>777</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-02T03:29:09.723</CreationDate>
+				<LastActivityDate>2015-05-03T03:48:43.150</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4071</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This is something that has been on my mind and I am wondering if I just have a statistical bias here, but it seems to me that when I peruse the shelves of my local bottle shops that I usually see a larger selection of ales versus lagers, especially among craft circles. So I guess, in a roundabout way, my question is: are ales more popular/attractive to brew than lagers and why?&lt;/p&gt;
+
+					&lt;p&gt;Bonus points: numbers that demonstrate one way or another.&lt;/p&gt;
+
+					&lt;p&gt;The reason I ask is because I read something a couple months ago that said lagers are better sellers than ales and it doesn't see to align with what I observe. Also, please assume that I know the differences between the styles of beer. I just meant this to be overarching.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType="question">
+			<PostId>3372</PostId>
+			<AcceptedAnswerId>3376</AcceptedAnswerId>
+			<Title>
+			"Modern, commercial beers that closely mimic historic styles"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>207</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-09T11:48:17.607</CreationDate>
+				<LastActivityDate>2015-05-11T13:01:00.207</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm curious to try some beer that closely mimics more historic styles, although:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;I'm not too familiar with all of the styles and brewing methods of centuries past&lt;/li&gt;
+					&lt;li&gt;I don't always trust modern brewers to offer an authentic representation of old styles&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;So I wonder: what were the ancients up to the early modern people drinking, and who can I get similar beers from?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType="question">
+			<PostId>3403</PostId>
+			<AcceptedAnswerId>3406</AcceptedAnswerId>
+			<Title>
+			"Is there a wide variation amongst specific styles?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>92</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-08T02:08:00.350</CreationDate>
+				<LastActivityDate>2015-06-11T00:43:17.120</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A few years ago I moved to a bigger city where the craft beer selection got quite a bit broader from where I was living previously. For a while it was like being a kid in a candy store with so many different beers to choose from. &lt;/p&gt;
+
+					&lt;p&gt;Then as I got more experienced with beer I started getting more of an idea of the different styles that are out there, and what each of these styles tends to be like. What I noticed after a while was that if I tried 2-3 different examples of the same style, while I could quantitatively say that one was better than another, for the most part they would all taste similar.&lt;/p&gt;
+
+					&lt;p&gt;So this brought into question the 'craft beer obsession' that I had been riding for a while. I began to think that, maybe, at some point a chocolate stout is pretty much just a chocolate stout, an ipa is pretty much just an ipa, and whether you're drinking an ipa from here or there, you're basically getting the same experience.&lt;/p&gt;
+
+					&lt;p&gt;So with that said I wonder:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;is there any type of objective measure of the variation amongst specific styles?&lt;/li&gt;
+					&lt;li&gt;outside of esoteric beers that aren't commonly available, is 'trying as many as you can' really worth it?&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType="question">
+			<PostId>3441</PostId>
+			<Title>
+			"Craft beer - Ambient temperature for fermentation"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ale</tag>
+				<tag>recommendations</tag>
+				<tag>fermentation</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>144</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-30T10:57:56.400</CreationDate>
+				<LastActivityDate>2015-07-22T20:23:06.303</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4277</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am thinking about make my first beer in this summer. However, in my country the summer has an ambient temperature about 25-30º. So my question, is what type of beers are adequate to this conditions? &lt;/p&gt;
+
+					&lt;p&gt;My first idea is a blond ale (Brewferm Ale), with fermentation at the ambient temperature in Barrel Aging. What do you think about?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType="question">
+			<PostId>4537</PostId>
+			<Title>
+			"Looking for dark but not heavy"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>stout</tag>
+				<tag>lager</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>295</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-19T03:26:09.040</CreationDate>
+				<LastActivityDate>2015-08-19T20:40:34.643</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4439</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I tend to go for darker beers, typically stouts and porters. &lt;/p&gt;
+
+					&lt;p&gt;Guinness is my usual go to when I'm at a bar or restaurant, but as appealing as "a meal in a glass" is, on occasion I find these to be a little too filling/heavy.&lt;/p&gt;
+
+					&lt;p&gt;More recently I had the opportunity to try Köstritzer, which I guess would be classified as a black lager. It had the very familiar taste of a stout but without the filling quality. &lt;/p&gt;
+
+					&lt;p&gt;Black lager seems to be a rather generic category though, the title seems to cover a rather large variety of dark lagers and seems to be more about color than taste. &lt;/p&gt;
+
+					&lt;p&gt;Is there a more specific category I should be looking for?&lt;/p&gt;
+
+					&lt;p&gt;Or perhaps better, does any one know any other beers that taste like a stout but with the light weight of a lager?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType="question">
+			<PostId>4716</PostId>
+			<AcceptedAnswerId>4717</AcceptedAnswerId>
+			<Title>
+			"Do beer blends exist?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>483</ViewCount>
+				<AnswerCount>8</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-12-07T06:36:10.130</CreationDate>
+				<LastEditDate>2015-12-07T15:02:22.033</LastEditDate>
+				<LastActivityDate>2016-05-10T22:52:29.377</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I asked a bartender what she was drinking near the end of her shift. She said a blend. Of Bear Republic's Racer 5 IPA and North Coast's Le Merle (a Belgian Saison).&lt;/p&gt;
+
+					&lt;p&gt;I tried it and it was great. I already liked Le Merle except it had a bit too much of the Belgian kick, and I never liked Racer 5 at all, but together somehow the attributes I didn't like canceled out or masked one another.&lt;/p&gt;
+
+					&lt;p&gt;At the risk of heresy, I wonder if mixing beers is or was ever a (semi-)official thing anywhere. I've heard wine blends mostly exist as a product of leftover grapes, so their justification doesn't apply to beer. Still, if the taste is great, why not have beer blends? With the distinct taste variations of hops alone, I wouldn't be surprised if great combinations could be found.&lt;/p&gt;
+
+					&lt;p&gt;So, to put succinctly: Are beer blends being served anywhere?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType="question">
+			<PostId>4755</PostId>
+			<Title>
+			"How to pair a beer with a glass?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>serving</tag>
+				<tag>glassware</tag>
+				<tag>pairing</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>118</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-05T16:40:35.020</CreationDate>
+				<LastEditDate>2016-01-05T23:33:58.777</LastEditDate>
+				<LastActivityDate>2016-01-08T17:16:06.170</LastActivityDate>
+				<ClosedDate>2016-01-06T14:52:36.833</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4917</OwnerUserId>
+				<LastEditorUserId>4917</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have recently begun to learn somethings about beer and I suddenly noticed that, for a while now, I have always been served similar types of beer on different looking beer glasses... which is confusing me. It could be human error, but it's got me wondering what beer glasses should I really be sipping from?&lt;/p&gt;
+
+					&lt;p&gt;So I decided to get some beer glasses, and what do I find? A plethora of beer glasses, all kinds and funky shapes, where not one glass is like the next. It makes me feel like the beer glass industry is very opinionated, rather than factual, and I need to know how to choose correctly.&lt;/p&gt;
+
+					&lt;p&gt;Could anyone please instruct me on the general type of beers and how they pair with beer glasses, as well as why x glass goes with y beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType="question">
+			<PostId>4839</PostId>
+			<AcceptedAnswerId>4843</AcceptedAnswerId>
+			<Title>
+			"What is the difference between historical beer and 'modern' beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>history</tag>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>1365</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-19T01:37:52.540</CreationDate>
+				<LastActivityDate>2016-02-19T17:09:15.807</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This question might be a bit broad, but what I'm trying to understand is generally how the brewing process and the subsequent end result differed before the early-modern to modern era. &lt;/p&gt;
+
+					&lt;p&gt;I had asked a question here some months back on where I could find some historical styles of beer, but without having much luck I thought I'd try to get at least an understanding of what's known about the evolution of beer from ancient to medieval to modern times. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;So the question is&lt;/strong&gt;: if I was a European medieval man drinking beer circa 6th-15th centuries what would that beer have been like? How did it differ from what we've been brewing for the last few centuries? And is that product distinct from what existed in ancient times?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType="question">
+			<PostId>4869</PostId>
+			<AcceptedAnswerId>4883</AcceptedAnswerId>
+			<Title>
+			"What's the difference between a Triple IPA and a Double IPA?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ipa</tag>
+				<tag>imperial-ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>9820</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-25T22:15:33.670</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-02-28T18:59:46.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5107</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;One of the recent trends I've noticed is that breweries are starting to come out with Triple IPAs. (In fact, there's a triple IPA week in the Seattle area.) But what exactly distinguishes the Triple IPA from a Double IPA?&lt;/p&gt;
+
+					&lt;p&gt;[Note that this was not included in &lt;a href="https://alcohol.stackexchange.com/questions/28/what-are-the-differences-between-an-ipa-and-its-variants"&gt;IPA and variants question&lt;/a&gt;, nor is it discussed in the &lt;a href="https://alcohol.stackexchange.com/questions/4778/why-do-double-ipas-aka-imperial-ipas-iipas-tend-to-be-sweeter-than-regular-ip"&gt;IPA vs. DIPA sweetness question&lt;/a&gt;.]&lt;/p&gt;
+
+					&lt;p&gt;Edit: This is decidedly NOT the same as the question regarding dubbels vs. tripels (which are Abbey-style Belgian ales, and remarkably different in style from a double or triple IPA).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType="question">
+			<PostId>5179</PostId>
+			<AcceptedAnswerId>5180</AcceptedAnswerId>
+			<Title>
+			"Advice for finding the right beer for me"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>482</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-30T14:26:05.277</CreationDate>
+				<LastEditDate>2016-06-30T15:19:27.080</LastEditDate>
+				<LastActivityDate>2016-08-26T20:13:04.260</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5612</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently turned 21 (5 days) and I am trying to find some beer that I actually enjoy drinking. Currently I drink liquor like Jack + Coke and things like that. Any ideas on how to broaden my horizons when it comes to beer without just going out and buying random 6 packs?&lt;/p&gt;
+
+					&lt;p&gt;Thanks,&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType="question">
+			<PostId>7055</PostId>
+			<AcceptedAnswerId>7056</AcceptedAnswerId>
+			<Title>
+			"Why is Lager/Pilsner the most common beer style for alcohol-free beer?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>84</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-02T10:39:05.377</CreationDate>
+				<LastEditDate>2017-12-14T02:16:35.043</LastEditDate>
+				<LastActivityDate>2017-12-14T02:16:35.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5021</OwnerUserId>
+				<LastEditorUserId>7272</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If one wants to buy alcohol-free beer in a supermarket, the most common beer style is Lager/Pilsner. I have never seen other styles such as alcohol-free Witbier, IPA, Stout etc. in a store, but from doing a quick online research I learned that such beer does exist.&lt;/p&gt;
+
+					&lt;p&gt;Is Lager/Pilsner the most common style for alcohol-free beers because it is the most popular style for normal beer as well, or are there some technical limitations during the brewing process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

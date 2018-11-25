@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Votes">
+		<Instance Id="1"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2015-02-05T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2015-02-28T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>75</PostId>
+			<ParentPostId>63</ParentPostId>			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:33:04.113</CreationDate>
+				<LastActivityDate>2014-01-21T21:33:04.113</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>50</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness is "carbonated" with nitrogen, where most beers use carbon dioxide. This requires different hardware, bottling equipment, etc.&lt;/p&gt;
+
+					&lt;p&gt;If you've ever witnessed the appearance of a perfectly poured Guinness, and paid more than $5 USD for it, you'll understand why. It's partly about presentation. As one of the oldest beers on the market, it requires us to jump through some hoops to ensure we are enjoying it correctly. In short: I think it's mostly marketing!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>201</PostId>
+			<ParentPostId>200</ParentPostId>			<Tags>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T14:31:11.980</CreationDate>
+				<LastEditDate>2014-01-22T15:51:57.810</LastEditDate>
+				<LastActivityDate>2014-01-22T15:51:57.810</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>138</OwnerUserId>
+				<LastEditorUserId>138</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;To pour a beer you take a clean beer glass, preferably those made by the brewery specifically for their beer. You hold the glass at 45 - 60 degree angle and gently pour the beer into the glass. You then move, after pouring half of the beer, the glass into the upright position as to make a foam colar of about 2 cm. &lt;/p&gt;
+
+					&lt;p&gt;Depending on the beer you should or should not empty the bottle completely. Very old beers should be poured carefully as they have a lot of sediment on the bottom. Younger beers can have sediment as well, but can still be drunk. The beer will get a more bittre taste if sediment is poured a long as well.  &lt;/p&gt;
+
+					&lt;p&gt;Speed is also important, depending on the temperature of the beer, it can foam more. There are beers which have their own specifc pooring prescription. Some beers like Duvel actually need to be "dumped" into the glass with a vertical poor. Others like Guiness use a double poor. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>206</PostId>
+			<ParentPostId>203</ParentPostId>			<Tags>
+				<tag>pouring</tag>
+				<tag>preparation-for-drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T15:37:58.247</CreationDate>
+				<LastEditDate>2014-01-22T19:30:08.067</LastEditDate>
+				<LastActivityDate>2014-01-22T19:30:08.067</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+				<LastEditorUserId>22</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Foam comes from over pumping. For most of my keg beers I (with a CO2 tank) use about 11-15psi). For a hand pump this is more difficult. You will have to resist the urge to over pump. If you are a little more engineer-minded you can look at &lt;a href="http://www.wikihow.com/Stop-Guests-from-Overpumping-the-Keg" rel="nofollow"&gt;THIS&lt;/a&gt; article to gauge more consistently your tap pressures. Make sure you let the keg settle after moving as well. Just like shaking a soda can, a lot of jarring will make the CO2 come out of solution. &lt;/p&gt;
+
+					&lt;p&gt;A trick I use on my homebrew system (I use 5 gallon kegs) is gently placing the keg on its side and slowly rolling it about 3 feet forward and then 3 feet back. Then, I place it back in the fridge and repeat 3 times throughout the day. This helps the CO2 re-dissolve into the beer. However, if you are pulling the keg out of a trunk, throwing it in a trash can and packing it with ice...this solution isn't viable. In which case you want to let it settle and resist the urge to over pump.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>211</PostId>
+			<ParentPostId>63</ParentPostId>			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T17:43:33.070</CreationDate>
+				<LastActivityDate>2014-01-22T17:43:33.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness, and a few other beers out there, are carbonated in part with nitrogen, which has much smaller bubbles.  This creates a smoother mouthfeel; this is the "creaminess" that is often described.&lt;/p&gt;
+
+					&lt;p&gt;The use of nitrogen is probably uncommon for a few reasons.  Firstly, there's the added production cost in the bottled or canned product: the widget.  Secondly, I would wager that most breweries want the product to taste similar on draught as in a can or bottle, and it's very uncommon to have nitrogen available in a taproom.  (You can get special taps which "cream" the beer on the way out, but again, for consistency those would have to be installed where-ever you sell your beer.)  So it's something of an uphill battle.  Finally, not all beers may benefit from a different type of carbonation than what's prevalent... but of course, that's subjective.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>376</PostId>
+			<ParentPostId>371</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T07:32:57.363</CreationDate>
+				<LastActivityDate>2014-01-28T07:32:57.363</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beers served on nitro have only about 25-40% of the dissolved carbon dioxide compared to regular beers served only on CO&lt;sub&gt;2&lt;/sub&gt;.  For stouts, the figure is usually closer to 25% - 40% is for lagers served on nitro. &lt;/p&gt;
+
+					&lt;p&gt;With only 25% of the carbon dioxide, there is less concern of creating too large a foam. Plus the nitrogen causes the foam to be made of very very small bubbles, which readily turn back into beer. You can see this as the cascade &lt;a href="http://www.youtube.com/watch?v=lutxECdGWs8"&gt;(video)&lt;/a&gt; after the beer has been poured hard into the glass.&lt;/p&gt;
+
+					&lt;p&gt;If the beer served on nitro has more than 35% CO&lt;sub&gt;2&lt;/sub&gt; then it's a good idea to reduce how hard you pour - as the percentage of CO&lt;sub&gt;2&lt;/sub&gt; increases, so does the size of the foam with a hard pour. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>491</PostId>
+			<ParentPostId>488</ParentPostId>			<Tags>
+				<tag>storage</tag>
+				<tag>ingredients</tag>
+				<tag>pouring</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-01T20:02:37.250</CreationDate>
+				<LastEditDate>2014-02-01T20:38:45.047</LastEditDate>
+				<LastActivityDate>2014-02-01T20:38:45.047</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>341</OwnerUserId>
+				<LastEditorUserId>341</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;With regards to the beer, 4 things primarily determine the amount and consistency of head:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;Types of malt used: light malt typically produces larger, more dish-soapy bubbles. Roasted or dark malts will typically produce smaller bubbles. The proteins in the malt are what determine the consistency of the bubbles. There are additives that can alter and enhance the head forming capabilities of the beer. These are usually forms of protein. One of the best silky mouth feel beers I've ever had is Flying Dog Pearl Necklace Oyster Stout. Yes - they actually add oysters to the brew. The protein makes for an amazing feel.&lt;/li&gt;
+					&lt;li&gt;Amount of carbonation: pretty self explanatory. Mo' gas, mo' bubbles. Higher ABV beers and very malty beers can sometimes hold almost no CO2. Give these a rough pour to produce a decent head.&lt;/li&gt;
+					&lt;li&gt;Type of carbonation: CO2 produces larger bubbles while nitrogen produces very fine small bubbles which gives Guinness its famous silky creamy head.&lt;/li&gt;
+					&lt;li&gt;Conditioning &amp;amp; storage: bottle conditioned beer will hold more CO2 and have a different head and mouth feel and coarser bubbles. kegs carbonated by pressurizing with CO2 will hold less and be a bit foamier.&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;With regards to the pour, if less head is desired, tilt the glass at least 45 degrees and pour slowly, on the glass, rising as you pour to always be pouring just above the level of the beer. For more head, well... dump 'er in.&lt;/p&gt;
+
+					&lt;p&gt;The glass will make a difference too. For some high-browed beer-snobbery about cleaning your beer glasses: &lt;a href="http://byo.com/porter/item/425-can-you-explain-the-dos-and-donts-of-cleaning-beer-glasses"&gt;http://byo.com/porter/item/425-can-you-explain-the-dos-and-donts-of-cleaning-beer-glasses&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>551</PostId>
+			<ParentPostId>550</ParentPostId>			<Tags>
+				<tag>pouring</tag>
+				<tag>bottle-conditioning</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-05T21:44:44.847</CreationDate>
+				<LastEditDate>2017-03-10T09:42:50.110</LastEditDate>
+				<LastActivityDate>2014-02-05T21:53:54.883</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>410</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;img src="https://3.bp.blogspot.com/_59JXsJrAfxc/RzvLqgMLemI/AAAAAAAAAN0/Frc10NPiL2Q/s400/How%2Bto%2Bpour%2Ba%2BHomebrew%2B1.2.bmp" alt="Pour a beer"&gt;&lt;/p&gt;
+
+					&lt;p&gt;When pouring a beer with sediment, or lees, make sure your glass is of a size to accommodate the full contents of the bottle plus the attendant foam. Pour smoothly into the glass, watching the neck of the bottle, and suspend pouring when you see sediment starting to come to the neck. If you haven’t screwed it up, you have a glass of clear, inviting beer. Well done.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>552</PostId>
+			<ParentPostId>550</ParentPostId>			<Tags>
+				<tag>pouring</tag>
+				<tag>bottle-conditioning</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-05T21:45:56.923</CreationDate>
+				<LastActivityDate>2014-02-05T21:45:56.923</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/odwqd.png" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;sup&gt;Unfortunately, I don't know the source of this image&amp;mdash;a Google reverse image search reveals only a single webpage which itself attributes the image to Google searching.&lt;/sup&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>676</PostId>
+			<ParentPostId>675</ParentPostId>			<Tags>
+				<tag>pouring</tag>
+				<tag>yeast</tag>
+				<tag>hefeweizen</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-19T15:41:25.937</CreationDate>
+				<LastActivityDate>2014-03-19T15:41:25.937</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>39</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A proper hefeweizen is an unfiltered beer. The yeast and other sediment that would be filtered out for other brews is left in. These particles tend to accumulate on the bottom of the bottle during storage.&lt;/p&gt;
+
+					&lt;p&gt;By swirling the the beer in the bottle you're suspending that yeast and sediment so it can be poured into your glass. This is what gives hefeweizens their fruity (banana?) flavor.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>3209</PostId>
+			<ParentPostId>63</ParentPostId>			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-20T15:34:34.440</CreationDate>
+				<LastActivityDate>2015-01-20T15:34:34.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3671</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;While, as object88 says, it is uncommon for draught beers to use nitrogen, it is becoming more prevalent, though certainly not dwarfing CO2 draught beers anytime soon! So, it is certainly possible to remain consistent from bottle to draught, though it is less common and more costly to do so.&lt;/p&gt;
+
+					&lt;p&gt;Both bottled and draught beers use nitrogen to add bubbles instead of CO2 on occasion. This is more common with malty beers, say stouts and porters, than it is for hoppy beers. The nitrogen makes smaller bubbles than CO2, and creates a thick head due to the lower solubility of nitrogen in water than CO2 at the same temperatures. This creates the thicker mouthfeel that Guinness (as well as other nitrogenated stouts) are known for. &lt;/p&gt;
+
+					&lt;p&gt;CO2 will likely continue to be used for most hop-forward beers, since it pushes more aroma out of the beer (including the delicious hop scent!) while nitro is more about the mouthfeel and well-rounded flavor.&lt;/p&gt;
+
+					&lt;p&gt;A few reasons why other beers don't use the small nitrogen ball devices ("nitrogen widgets"):&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Alcohol laws (or FDA or something?) doesn’t allow craft brewers to add
+					  widgets/foreign objects to alcohol (cans). Imports exempt?&lt;/p&gt;
+  
+					  &lt;p&gt;Not cost effective for small brewers, who are only just able to start
+					  affording canning systems.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;[&lt;a href="http://www.thebrewsite.com/canned-beer-week-why-beer-widgets/" rel="nofollow"&gt;Source&lt;/a&gt;]&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>6777</PostId>
+			<ParentPostId>6774</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-16T13:47:56.823</CreationDate>
+				<LastActivityDate>2017-04-16T13:47:56.823</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5528</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This is very broad so I will stick to wine in my answer. There are many considerations for pouring, you have the aesthetic aspects and presentation, and you have the mechanical aspects which can change the properties of the served drink. &lt;/p&gt;
+
+					&lt;p&gt;For wine, the waitress was right from a presentation point of view when served in a fine dining setting. Holding the bottle by the base gives the server the maximum reach with good control, twisting at the end helps reduce drips, the napkin can be used for any cleanup quickly, and showing the label assures the customer they are being served the wine of their choice. This technique does not effect the consumption, if you are entertaining at home there's no right or wrong way really, although I find the hold and twist give me the same advantages when I'm serving wine at my table. &lt;/p&gt;
+
+					&lt;p&gt;From a mechanical aspect, with wine the major considerations are sediment with red wines and bubbles with sparkling wine. If you have a red wine with sediment you need to be careful to not shake up the bottle and to leave the dregs in the bottom as you pour (or decant it through a strainer). With sparkling wine you need to be sure not to overfill. With most wines how you pour it makes no detectable difference on the flavor. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>6778</PostId>
+			<ParentPostId>6774</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-17T16:23:14.993</CreationDate>
+				<LastEditDate>2017-04-17T17:13:36.940</LastEditDate>
+				<LastActivityDate>2017-04-17T17:13:36.940</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+				<LastEditorUserId>22</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness' perfect-pour is actually a &lt;a href="https://www.buzzfeed.com/lukebailey/guinness-two-pour-is-the-greatest-marketing-con?utm_term=.fe9VL8MP6#.cjL0vGm3y" rel="nofollow noreferrer"&gt;marketing scheme&lt;/a&gt; that gives them an &lt;em&gt;exclusivity&lt;/em&gt; factor. They have training courses and will invite patrons that visit Guinness to become masters of &lt;em&gt;The Perfect Pour.&lt;/em&gt; However, it has no real impact on the beer.  &lt;/p&gt;
+
+					&lt;p&gt;The actual answer to pouring is much less mystic and much more scientific. The pour does matter for several different reasons. &lt;/p&gt;
+
+					&lt;p&gt;First - Why does foaming occur? Carbon Dioxide is actually in solution inside of the beer. Several things play a factor; but, the biggest two are temperature and pressure. CO2 goes into solution easily around 36ºF &lt;a href="http://www.draughtquality.org/wp-content/uploads/2012/02/Carbonation_PH-Final_1.pdf" rel="nofollow noreferrer"&gt;(Here is a link to a slide that lists the temperature and PSI of beer)&lt;/a&gt;. Therefore - the warmer the beer when poured, the more head you tend to get (because the CO2 is leaving solution). The other big reason is pressure differentials - inside the keg/can/bottle the pressure is keeping the CO2 in solution. When the pressure outside is less than in the keg (like when you open a beer bottle or pour the beer) the CO2 starts escaping.&lt;/p&gt;
+
+					&lt;p&gt;The reason pour matters is really the following mixture of craftsmanship and business. &lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;Head retention (or the froth that stays at the top of your beer) is really important! It gives off &lt;strong&gt;&lt;em&gt;a lot&lt;/em&gt;&lt;/strong&gt; of aromatics that you get to experience before even tasting the beer. When you make beer - the hops added at the beginning of the process give the bittering falvors that balance the malty-sweetness while hops added toward the end (or even during fermentation) impart less bittering and more aromatics. Therefore, a lot of the &lt;a href="https://food-hacks.wonderhowto.com/how-to/beer-science-pour-perfect-glass-beer-every-single-time-0150843/" rel="nofollow noreferrer"&gt;beer's personality&lt;/a&gt; shines through the foamy-head. Let's be honest... what beer lover doesn't think that the way a freshly poured Left-Hand Nitro Stout (or other beers that have that tan-cascade of CO2 falling away from the head) is beautiful?&lt;/li&gt;
+					&lt;li&gt;For businesses foamy-pours are money wasters. &lt;a href="https://turbotapusa.com/" rel="nofollow noreferrer"&gt;This link&lt;/a&gt; from TurboTapsUSA describes why their tap is a money saver. It comes down to lost beer. We know that a beer with foam 3 inches from the top turns into a beer with only about 1.5 inches of space from the top. So, when you see bartenders or others pouring until there is just beer to the top while foam pours out in the drain are just wasting money. &lt;/li&gt;
+					&lt;li&gt;Glass shape plays a big part in foaming. Nucleation sites help create carbonation &lt;a href="https://www.beeradvocate.com/community/threads/glassware-nucleated-vs-non-nucleated.210694/" rel="nofollow noreferrer"&gt;(discussed at length in this forum)&lt;/a&gt;. When you want a lot of head retention, this is a good thing. There is also a reason that &lt;a href="https://alcohol.stackexchange.com/questions/300/what-glasses-are-meant-for-which-beers-and-why"&gt;glassware is shaped the way it is&lt;/a&gt;. It allows smells from the foam to be directed towards the imbiber's nose, allows the drink to breathe like wine, or keeps your hands from warming up the beer too much. &lt;/li&gt;
+					&lt;/ol&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

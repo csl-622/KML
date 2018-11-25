@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>14512</PostId>
+			<ParentPostId>7439</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-16T15:12:46.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Just visiting the good old UK, and discover that gin is so expensive - what and where can I buy a cheap gin in the UK, are there any online stores? Yes I have looked but to no avail.  Thanks guys.....
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>14513</PostId>
+			<ParentPostId>7439</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-16T15:12:46.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Cheapest Gin in the UK?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>14514</PostId>
+			<ParentPostId>7439</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-16T15:12:46.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					spirits, gin, cheap, online, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

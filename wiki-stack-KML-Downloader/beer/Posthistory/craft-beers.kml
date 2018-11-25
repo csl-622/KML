@@ -1,0 +1,2250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>2215</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T13:25:12.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm spending my summer in Florence, Italy. I've been here for a week already and I've since realized they much rather prefer wine. And in my opinion, wine is shit. If I wanted something made from grapes I'd grab a Capri Sun. I'm looking for the best beer in Italy because I don't know how much longer I can drink Heineken. So any idea?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>2216</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T13:25:12.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does a good Italian beer exist?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>2217</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T13:25:12.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>2223</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:30:31.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title and added tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm spending my summer in Florence, Italy. I've been here for a week already and I've since realized they much rather prefer wine. And in my opinion, wine is shit. If I wanted something made from grapes I'd grab a Capri Sun.  
+					I'm looking for good Italian beer because I don't know how much longer I can drink Heineken. Any ideas?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Title" >
+			<PostId>2224</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:30:31.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title and added tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any good Italian beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Edit Tags" >
+			<PostId>2225</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:30:31.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title and added tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					local, foreign-beer, travel, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>2226</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:30:31.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 69 approved by -1 edit id of 96
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Tags" >
+			<PostId>2227</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:30:31.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title and added tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Rollback Body" >
+			<PostId>2229</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Rollback Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:40:41.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<EditDetails>
+				Rollback to [e7efd644-6d7e-4bc1-9917-e01444669cf1]
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm spending my summer in Florence, Italy. I've been here for a week already and I've since realized they much rather prefer wine. And in my opinion, wine is shit. If I wanted something made from grapes I'd grab a Capri Sun. I'm looking for the best beer in Italy because I don't know how much longer I can drink Heineken. So any idea?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Rollback Title" >
+			<PostId>2230</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Rollback Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:40:41.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<EditDetails>
+				Rollback to [e7efd644-6d7e-4bc1-9917-e01444669cf1]
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Does a good Italian beer exist?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Rollback Tags" >
+			<PostId>2231</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Rollback Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:40:41.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<EditDetails>
+				Rollback to [e7efd644-6d7e-4bc1-9917-e01444669cf1]
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					&lt;foreign-beer&gt;
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>2232</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:42:50.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<EditDetails>
+				Changed it back to MY original words because a couple of cunts edited it. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm spending my summer in Florence, Italy. I've been here for a week already and I've since realized they much rather prefer wine. And in my opinion, wine is shit. If I wanted something made from grapes I'd grab a Capri Sun. I'm looking for the best beer in Italy because I don't know how much longer I can drink Heineken. So any ideas?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Post Closed" >
+			<PostId>2267</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-30T21:36:10.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Body" >
+			<PostId>3323</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-06T15:04:54.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<EditDetails>
+				changed text to be more constructive and therefore to unclose it
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm spending my summer in Florence, Italy. I've been here for a week already and I've since realized they much rather prefer wine. And in my opinion, wine is shit. If I wanted something made from grapes I'd grab a Capri Sun. I'm looking for some Italian craft beers because I don't know how much longer I can drink Heineken. So any ideas?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Title" >
+			<PostId>3324</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-06T15:04:54.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<EditDetails>
+				changed text to be more constructive and therefore to unclose it
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any Italian craft beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>3325</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-06T15:04:54.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 909 approved by 37, 268 edit id of 100
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>6627</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T16:13:24.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4240</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					anyone know where you can buy US/American craft beers in Europe. Which shops/websites sell US craft beer and will ship it to other EU countries? Or any wholesalers/distributors to contact.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>6628</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T16:13:24.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4240</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where can you buy US craft beer in Europe that will ship to other EU countries?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>6629</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T16:13:24.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4240</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>8173</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-21T05:24:25.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any South Korean craft breweries who bottle their beers?
+
+					Bonus question: Where (in Seoul) can my friend obtain some?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>8174</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-21T05:24:25.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any bottled South Korean craft beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>8175</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-21T05:24:25.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Tags" >
+			<PostId>9274</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:05:52.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				fixed tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					specialty-beers, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>9275</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:05:52.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5078 approved by 43, 37 edit id of 189
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Edit Tags" >
+			<PostId>9491</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:51:15.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Edit Tags" >
+			<PostId>9492</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:51:56.370</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					distribution, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Edit Body" >
+			<PostId>9498</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:57:12.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 81 characters in body; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm spending my summer in Florence, Italy. I've been here for a week already and I've since realized they much rather prefer wine, but I don't. I'm looking for some Italian craft beers because I don't know how much longer I can drink Heineken. So any ideas?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Edit Tags" >
+			<PostId>9499</PostId>
+			<ParentPostId>809</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:57:12.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 81 characters in body; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Unknown" >
+			<PostId>9770</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-10T21:33:00.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/752254320570208256
+			</EditDetails>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Unknown" >
+			<PostId>9802</PostId>
+			<ParentPostId>3416</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-17T22:16:19.683</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/754801935342002178
+			</EditDetails>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>11314</PostId>
+			<ParentPostId>6375</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-29T06:21:38.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6052</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Other than the ABV value what are the exact different between those two strong ale styles. I have tasted a lot and the difference seems very hard to notice. If you make a blind tasting, what descriptors would you use to identify each of them.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>11315</PostId>
+			<ParentPostId>6375</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-29T06:21:38.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6052</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					what is the difference between barley wine and old ale?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>11316</PostId>
+			<ParentPostId>6375</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-29T06:21:38.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6052</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Unknown" >
+			<PostId>11317</PostId>
+			<ParentPostId>6375</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-29T14:45:56.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/792376929383018496
+			</EditDetails>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Edit Body" >
+			<PostId>11323</PostId>
+			<ParentPostId>6375</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-31T13:36:52.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Other than the ABV value what are the exact differences between these two strong ale styles. I have tasted a lot of them and the difference seems very hard to notice. If you make a blind tasting, what descriptors would you use to identify each of them.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Edit Title" >
+			<PostId>11324</PostId>
+			<ParentPostId>6375</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-31T13:36:52.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What are the real differences between barley wine and old ale?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Body" >
+			<PostId>12645</PostId>
+			<ParentPostId>6792</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T05:52:08.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5607</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I want to measure the sugar content of several brewed beers. What is the best equipment to use for this (e.g., Brix hydrometer) and how accurate would the result be using this technology?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Title" >
+			<PostId>12646</PostId>
+			<ParentPostId>6792</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T05:52:08.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5607</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I measure the sugar content of brewed beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Tags" >
+			<PostId>12647</PostId>
+			<ParentPostId>6792</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T05:52:08.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5607</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Body" >
+			<PostId>12652</PostId>
+			<ParentPostId>6794</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T21:42:34.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6682</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was wondering if the craft beer has more nutritional values (vitamins and so on) than regular and cheap beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Title" >
+			<PostId>12653</PostId>
+			<ParentPostId>6794</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T21:42:34.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6682</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does craft beer have more nutritional values than regular beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Tags" >
+			<PostId>12654</PostId>
+			<ParentPostId>6794</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T21:42:34.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6682</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					craft-beers, nutrition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Unknown" >
+			<PostId>12657</PostId>
+			<ParentPostId>6792</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-24T07:53:49.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				30
+			</EditDetails>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Body" >
+			<PostId>12675</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T07:46:29.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6699</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently picked up a Mr. Beer DIY Northwest Pale Ale Beer Brewing Kit, and when I told my Mom I was brewing beer, she said she wouldn't drink it because it might be poison. What do?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Title" >
+			<PostId>12676</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T07:46:29.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6699</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How should I convince my mom that my beer isn't poison?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Tags" >
+			<PostId>12677</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T07:46:29.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6699</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					craft-beers, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Edit Body" >
+			<PostId>12681</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T11:56:12.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently picked up a Mr. Beer DIY Northwest Pale Ale Beer Brewing Kit, and when I told my Mom I was brewing some homemade beer. She said she wouldn't drink it because it might be poison. Is there any why to explain to my mom that my beer would be quite safe to drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Unknown" >
+			<PostId>12690</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-29T20:16:09.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/858414620503101440
+			</EditDetails>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Body" >
+			<PostId>13019</PostId>
+			<ParentPostId>6948</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-05T15:08:29.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6900</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[![enter image description here][1]][1]
+
+
+					  [1]: https://i.stack.imgur.com/4aDpB.jpg
+
+					I need help in trying to figure out what beer is pictured.  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Title" >
+			<PostId>13020</PostId>
+			<ParentPostId>6948</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-05T15:08:29.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6900</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can anyone help me figure out what beer this is?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Tags" >
+			<PostId>13021</PostId>
+			<ParentPostId>6948</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-05T15:08:29.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6900</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Post Closed" >
+			<PostId>13025</PostId>
+			<ParentPostId>6948</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-06T01:25:03.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				103
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":43,"DisplayName":"Monica Cellio"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Edit Body" >
+			<PostId>13028</PostId>
+			<ParentPostId>6948</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-06T12:41:03.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6900</UserId>
+			</Contributors>
+			<EditDetails>
+				added 113 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					[![enter image description here][1]][1]
+
+
+					  [1]: https://i.stack.imgur.com/4aDpB.jpg
+
+					I need help in trying to figure out what beer is pictured.  I don't have any more information regarding the beer. I am hoping that someone might recognize the partial label.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Post Reopened" >
+			<PostId>13029</PostId>
+			<ParentPostId>6948</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-07T01:07:50.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":43,"DisplayName":"Monica Cellio"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Body" >
+			<PostId>13408</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-11T20:36:16.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7261</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Not even compared to absinth, even SKYY vodka has a higher ABV and we well that everywhere.
+
+					http://www.dentonrc.com/news/denton/2017/11/10/200-beer-reportedly-illegal-11-states-texas
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Title" >
+			<PostId>13409</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-11T20:36:16.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7261</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is Sam Adam's high ABV beer illegal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Tags" >
+			<PostId>13410</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-11T20:36:16.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7261</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Edit Body" >
+			<PostId>13413</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-12T03:17:22.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				added 179 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Not even compared to absinth, even SKYY vodka has a higher ABV and we well that everywhere.
+
+					&gt; The end result is a 28 percent alcohol-by-volume beer that's void of any carbonation. According to Forbes, Utopias is illegal to sell in 11 states because it's so alcoholic.
+
+					http://www.dentonrc.com/news/denton/2017/11/10/200-beer-reportedly-illegal-11-states-texas
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Edit Title" >
+			<PostId>13414</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-12T03:17:22.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				added 179 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why is Sam Adam's high ABV beer illegal to sell in several US states?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Edit Tags" >
+			<PostId>13415</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-12T03:17:22.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				added 179 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					laws, united-states, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Edit Body" >
+			<PostId>13416</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-12T12:10:23.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved fomatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Not even compared to absinth, even SKYY vodka has a higher ABV and we well that everywhere.
+
+					&gt; The end result is a 28 percent alcohol-by-volume beer that's void of any carbonation. According to Forbes, Utopias is illegal to sell in 11 states because it's so alcoholic.
+
+					[This $200 beer is reportedly illegal in 11 states, but not Texas](http://www.dentonrc.com/news/denton/2017/11/10/200-beer-reportedly-illegal-11-states-texas).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Unknown" >
+			<PostId>13418</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-12T16:15:36.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/929744494743965696
+			</EditDetails>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Initial Body" >
+			<PostId>13519</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-09T18:42:12.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					While we generally focus on glucose, sucrose, and fructose for brewing, there are [a lot of sugars](https://en.wikipedia.org/wiki/List_of_sugars) out there. Can all of these be used in the brewing process, particularly for beer? What are the effects of using more esoteric sugars such as dextrose, xylose, mycose, or mannose alongside normal brewing grains? What about amino sugars such as glucosamine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Title" >
+			<PostId>13520</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-09T18:42:12.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can all sugars be used for brewing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Tags" >
+			<PostId>13521</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-09T18:42:12.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, yeast, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Edit Tags" >
+			<PostId>13551</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T11:13:56.970</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7272</UserId>
+			</Contributors>
+			<EditDetails>
+				adding tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					laws, united-states, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Unknown" >
+			<PostId>13552</PostId>
+			<ParentPostId>7066</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T11:13:56.970</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7272 approved by 6111, 5078 edit id of 316
+			</EditDetails>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Initial Body" >
+			<PostId>13724</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-01T19:44:37.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently ordered a sensory training kit from Siebel Institute. In short, glass vials of liquid isolating flavors (including off-flavors and contamination) commonly found in beer.
+
+					The instructions explain how to spike samples of beer, but say nothing about how to select a suitable beer:
+
+					[![enter image description here][1]][1]
+
+					I'll be hosting a party of six, and our tastes vary wildly: from craft drinkers to macro drinkers, and an enologist (winemaker).
+
+					**How should I select the base beer(s) to help us get the most out of this experience?**
+
+					 - Should we all have the same beer? If so, a macro, even though some dislike them? Or should I pick something like a pilsner?
+
+					 - Or should I have two tiers, a macro and something else? (What kind of ale would be appropriate?)
+
+					  [1]: https://i.stack.imgur.com/d8WFw.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Initial Title" >
+			<PostId>13725</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-01T19:44:37.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's a good (neutral) sample beer to spike with a sensory training kit?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Tags" >
+			<PostId>13726</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-01T19:44:37.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, lager, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Unknown" >
+			<PostId>13742</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-09T14:38:36.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/961972603983364096
+			</EditDetails>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Body" >
+			<PostId>13891</PostId>
+			<ParentPostId>7237</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-10T10:26:21.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I observed the following. When I was in Brazil I drank some craft beer, which I liked. I bought some bottles and took them with me to Europe. When I opened the bottles here the taste was terrible. Some months later I was revisited by my Brazilian friends who discovered some other nice beer in my town. So they took some bottles to Brazil where they made the same bad taste experience. 
+
+					What happened? The bottles were transported in suitcases (stored in the cold, but not frozen store of the plane) and reached their destination closed and assumed in best condition. I do not suppose any effect of light, temperature or pressure. Even vibrations must have been low because the bottles were covered by clothing. There must have been some impact to the beer which I do not understand. 
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Initial Title" >
+			<PostId>13892</PostId>
+			<ParentPostId>7237</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-10T10:26:21.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why changes taste of beer when transported by plane?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Tags" >
+			<PostId>13893</PostId>
+			<ParentPostId>7237</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-10T10:26:21.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Unknown" >
+			<PostId>13916</PostId>
+			<ParentPostId>7237</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-12T21:36:20.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/984545780114608128
+			</EditDetails>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Body" >
+			<PostId>14097</PostId>
+			<ParentPostId>7304</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T18:52:46.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've lived on the Canadian border, right next to the U.S. for most of my life. In the past 5 or so years I've noticed that many American craft breweries seem to produce higher quality craft beer than their Canadian counter-parts. Not only is the beer often better, but the styles and flavors seem to be more creative.
+
+					I've heard inklings here and there that the regulatory environment in the U.S. tends to be more lax, which might be the cause of this, but I'm not certain if this is true. That leads to the questions:
+
+					 - In what ways are Canadian and American craft beer different?
+					 - What are the major factors that have led to these differences?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Initial Title" >
+			<PostId>14098</PostId>
+			<ParentPostId>7304</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T18:52:46.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What factors cause distinctions between Canadian and American craft beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Initial Tags" >
+			<PostId>14099</PostId>
+			<ParentPostId>7304</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T18:52:46.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Unknown" >
+			<PostId>14103</PostId>
+			<ParentPostId>7304</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-19T04:38:51.060</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/997698070149296128
+			</EditDetails>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Body" >
+			<PostId>14197</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					There are several lists online for craft brews in Melbourne, Australia:
+
+					 - https://foursquare.com/top-places/melbourne/best-places-craft-beer
+					 - https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries
+					 - https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/
+
+					Are there others that are not on any of these lists? 
+
+					Are there any nearby the Melbourne Convention and Exhibition Centre ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Initial Title" >
+			<PostId>14198</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft beers and Microbreweries in Melbourne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Initial Tags" >
+			<PostId>14199</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, micropub, melbourne, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Unknown" >
+			<PostId>14208</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-22T05:26:28.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				42
+			</EditDetails>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Edit Tags" >
+			<PostId>14209</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-22T12:09:45.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, micropub, melbourne, australia, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Unknown" >
+			<PostId>14217</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-23T03:48:47.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1010369047945515008
+			</EditDetails>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Initial Body" >
+			<PostId>14248</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T02:53:40.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any other alcohol related data?
+
+					I've found several: 
+
+					 - **Wine Review**: https://www.kaggle.com/zynicide/wine-reviews
+
+					 - **CellarTracker**: https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf (but not sure how to download the data)
+
+					 - **Beer Advocate** data: http://snap.stanford.edu/data/web-BeerAdvocate.html
+
+					 - **RateBeer** data: https://snap.stanford.edu/data/web-RateBeer.html
+
+					But I'm sure there are more that our community here would know. 
+
+
+					----
+
+					BTW, there's also this nice post on some analysis and demo on:
+					https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Initial Title" >
+			<PostId>14249</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T02:53:40.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Alcohol related data openly available
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Initial Tags" >
+			<PostId>14250</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T02:53:40.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, craft-beers, reviews, data, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Edit Body" >
+			<PostId>14251</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T03:27:19.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				added 61 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any other alcohol related data?
+
+					I've found several: 
+
+					 - **Wine Review**: https://www.kaggle.com/zynicide/wine-reviews
+
+					 - **CellarTracker**: https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf (but not sure how to download the data)
+
+					 - **Beer Advocate** data: http://snap.stanford.edu/data/web-BeerAdvocate.html
+
+					 - **RateBeer** data: https://snap.stanford.edu/data/web-RateBeer.html
+
+					 - **US Beer Stats**: https://github.com/jasdumas/ttbbeer
+
+					But I'm sure there are more that our community here would know. 
+
+
+					----
+
+					BTW, there's also this nice post on some analysis and demo on:
+					https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Edit Body" >
+			<PostId>14252</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T04:05:02.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any other alcohol related data?
+
+					I've found several: 
+
+					 - **Wine Review**: https://www.kaggle.com/zynicide/wine-reviews
+
+					 - **CellarTracker**: https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf (but not sure how to download the data)
+
+					 - **Beer Advocate** data: http://snap.stanford.edu/data/web-BeerAdvocate.html
+
+					 - **RateBeer** data: https://snap.stanford.edu/data/web-RateBeer.html
+
+					 - **US Beer Stats**: https://github.com/jasdumas/ttbbeer
+
+					 - **Alcohol Language Corpus** (recordings of people who are drunk): https://www.phonetik.uni-muenchen.de/Bas/BasALCeng.html
+
+					But I'm sure there are more that our community here would know. 
+
+
+					----
+
+					BTW, there's also this nice post on some analysis and demo on:
+					https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Unknown" >
+			<PostId>14266</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-30T06:33:37.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				42
+			</EditDetails>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Unknown" >
+			<PostId>14406</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-28T22:01:08.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Initial Body" >
+			<PostId>14461</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T18:54:00.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7991</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was going through a brochure in brewing and it mentioned Single Turn, Double Turn and Triple turn brewing. However, it did not mention what those mean. I would really appreciate if anyone with knowledge of this enlighten me on this. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Initial Title" >
+			<PostId>14462</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T18:54:00.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7991</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does Single Turn, Double Turn and Triple Turn mean in brewing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Initial Tags" >
+			<PostId>14463</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T18:54:00.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7991</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Unknown" >
+			<PostId>14477</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-10T21:00:42.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1028023356371738625
+			</EditDetails>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Initial Body" >
+			<PostId>14480</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I want to brew beer and I wonder which temperature I should ferment it at?
+					I want to brew ales like IPA and Pale Ale.
+
+					What difference does different fermentation temperatures have on the beer? Are there different temperatures needed when brewing different kinds of beers with different yeasts?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Initial Title" >
+			<PostId>14481</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Brewing: Which temperature should I ferment ale beer at?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Initial Tags" >
+			<PostId>14482</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, german-beers, craft-beers, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Initial Body" >
+			<PostId>14486</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:57:15.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am wondering because I want to brew these styles of beer myself.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Initial Title" >
+			<PostId>14487</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:57:15.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the differences between Pale Ale (PA), India Pale Ale (IPA) and American Pale Ale (APA)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Initial Tags" >
+			<PostId>14488</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:57:15.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, craft-beers, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Initial Body" >
+			<PostId>14489</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T19:01:00.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have fresh hops and I wish to dry them for storage in vacuum packed bags. Which methods can I use for drying them, and what are the differences in quality?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Initial Title" >
+			<PostId>14490</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T19:01:00.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer Brewing: How do I dry fresh hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Initial Tags" >
+			<PostId>14491</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T19:01:00.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, craft-beers, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Post Locked" >
+			<PostId>14496</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Post Locked"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T21:26:13.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Unknown" >
+			<PostId>14497</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T21:26:13.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				to https://homebrew.stackexchange.com/questions/23245/beer-brewing-how-do-i-dry-fresh-hops
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Post Closed" >
+			<PostId>14498</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T21:26:13.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Unknown" >
+			<PostId>14501</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-13T21:01:34.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1029110738890182659
+			</EditDetails>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Unknown" >
+			<PostId>14572</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-27T23:00:33.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Initial Body" >
+			<PostId>14577</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-28T20:20:52.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8056</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I drink one or two can of 16% alcoholic beer in a month . Is it bad or good for my health ? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Initial Title" >
+			<PostId>14578</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-28T20:20:52.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8056</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Drinking Sixteen percent alcoholic beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Initial Tags" >
+			<PostId>14579</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-28T20:20:52.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8056</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Edit Body" >
+			<PostId>14580</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-29T00:51:17.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I drink about one or two cans of 16% alcoholic beer per month. Is this bad or good for my health? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Edit Tags" >
+			<PostId>14581</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-29T00:51:17.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Edit Title" >
+			<PostId>14582</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-29T00:51:17.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Drinking Sixteen percent alcoholic beer!
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

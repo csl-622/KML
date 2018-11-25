@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>36</PostId>
+			<ParentPostId>14</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:44:37.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer varies widely, and one of the most noticeable differences when drinking is the carbonation level.  What factors in the composition, brewing process, storage, etc affect the final level of carbonation? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>37</PostId>
+			<ParentPostId>14</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:44:37.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What factors affect the carbonation level of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>38</PostId>
+			<ParentPostId>14</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:44:37.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>1088</PostId>
+			<ParentPostId>435</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T21:58:40.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>286</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was perusing a question about uses for flat beer ("http://beer.stackexchange.com/q/354/286") when I came across an answer that mentioned "[any use that doesn't require it to be carbonated would be fitting][1]".
+
+					If I have flat beer, and I have, say, a [sodastream][2] (or some such), can I effectively re-carbonate my beer? What would be the disadvantage to doing so?
+
+					  [1]: http://beer.stackexchange.com/a/355/286
+					  [2]: http://www.sodastreamusa.com/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>1089</PostId>
+			<ParentPostId>435</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T21:58:40.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>286</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can beer be recarbonated?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>1090</PostId>
+			<ParentPostId>435</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T21:58:40.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>286</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1272</PostId>
+			<ParentPostId>435</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T16:30:12.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430377691175731200
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>1795</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. Unfortunately, the first two bottles I've opened now seem to have both been *severely* overcarbonated.
+
+					We're talking foam overflowing out of the bottle once I open it. These bottles have *not* been exposed to significant agitation recently. They've been sitting on a shelf, upright as is proper, for days. Worse still, they don't just explode and make a mess, but they also simply *taste* severely overcarbonated. It's like drinking shaken seltzer water mixed with my beer, and it's decidedly unpleasant. At this point, the only thing I've been able to do is pour a glass, leave it out for an hour or three, and *then* drink it.
+
+					Which is... impractical at best, and is only going to become less so as the weather warms up. Is there anything else I can do to mitigate this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>1796</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there anything I can do short of leaving a glass out on the counter to mitigate overcarbonation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>1797</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, freshness, bottles, carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Body" >
+			<PostId>1798</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:47:58.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be [severely overcarbonated.](http://beer.stackexchange.com/q/654/8) To the point of both making a mess, and being unpleasant to drink.
+
+					Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Title" >
+			<PostId>1799</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:47:58.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are Hitachino's beers characteristically really heavily carbonated?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Tags" >
+			<PostId>1800</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:47:58.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					freshness, bottles, carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Body" >
+			<PostId>1801</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:55:27.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				added 50 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be [severely overcarbonated.](http://beer.stackexchange.com/q/654/8) To the point of both making a mess, and being unpleasant to drink.
+
+					Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? Or just spoiled by sitting on the shelf too long? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>1807</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-09T22:46:32.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/442793585474551809
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1822</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T19:46:32.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/443110674894708736
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>2071</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T04:11:46.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have some homebrew that is really over-carbonated (before i learned about [priming sugar calculators][1]). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.
+
+					Is there something i can do when pouring it to *reduce* the head? I know some amount of head is desirable, but this is over the top (literally). 
+
+					  [1]: https://www.google.com/search?q=priming%20sugar%20calculators
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>2072</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T04:11:46.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Decreasing foam in over-carbonated beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>2073</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T04:11:46.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, carbonation, foam, head, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Body" >
+			<PostId>2089</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-24T13:16:50.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<EditDetails>
+				added 101 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have some homebrew that is really over-carbonated (before i learned about [priming sugar calculators][1]). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.
+
+					Is there something i can do when pouring it to *reduce* the head? I know some amount of head is desirable, but this is over the top (literally). 
+
+					[Edit] I get this much foam despite pouring very slowly and carefully down the side of the glass.
+
+					  [1]: https://www.google.com/search?q=priming%20sugar%20calculators
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>2090</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-25T00:37:46.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/459491424246194178
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Post Closed" >
+			<PostId>2099</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-26T04:45:23.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[654],"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>3443</PostId>
+			<ParentPostId>907</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-06T05:07:27.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My friend ordered a Wells Banana Bread Beer and to all three of us the beer tasted flat (carbonation-wise). She brought the beer to the bartender, who replied that that's just how that beer is. Is it true that some beers are meant to be served flat? Why? (What does it do for the taste?)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>3444</PostId>
+			<ParentPostId>907</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-06T05:07:27.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are some beers meant to be served flat?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>3445</PostId>
+			<ParentPostId>907</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-06T05:07:27.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Post Closed" >
+			<PostId>3459</PostId>
+			<ParentPostId>907</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-08T14:56:16.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[607],"Voters":[{"Id":37,"DisplayName":"Xander"},{"Id":85,"DisplayName":"anthony-arnold"},{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Body" >
+			<PostId>6492</PostId>
+			<ParentPostId>3367</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-06T18:29:21.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4070</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When I attempted brewing beer in my home the set and instructions called for the carbonation being done by adding [carbonation drops][1] instead of priming sugar. 
+
+					How does the fundamental chemical makeup differ between the two and how does the actual chemical process differ in beers brewed with carbonation drops versus priming sugar (if at all)? Is taste affected?
+
+					  [1]: http://www.mrbeer.com/mrbeer-carbonation-drops
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Title" >
+			<PostId>6493</PostId>
+			<ParentPostId>3367</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-06T18:29:21.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4070</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between carbonation drops and priming sugar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Tags" >
+			<PostId>6494</PostId>
+			<ParentPostId>3367</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-06T18:29:21.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4070</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Unknown" >
+			<PostId>6602</PostId>
+			<ParentPostId>3367</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-06T11:55:54.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/607153939176427520
+			</EditDetails>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>8180</PostId>
+			<ParentPostId>4648</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-22T12:38:18.250</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4650</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					is there information on how the levels of co2 and n2 change over time in a keg series pressurized with a 30/70 mix (co2/n2 respectively). Assuming the beer originally carbonated (not a nitro beer) and it takes a week to empty the series of kegs?
+					i would guess that one would get at least a 1/2 barrel of beer that is at the original carbonation level and no nitrogenation, but as the flow mixes the beer it would change and finally the last 1/2 barrel would have the greatest nitrogenation.  
+					Also, since it is not a nitro beer is there a limit of the amount of nitrogenation due to the originally present carbonation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>8181</PostId>
+			<ParentPostId>4648</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-22T12:38:18.250</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4650</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					changes of gasification of beer in a long draw series
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>8182</PostId>
+			<ParentPostId>4648</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-22T12:38:18.250</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4650</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Unknown" >
+			<PostId>8212</PostId>
+			<ParentPostId>4648</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-28T15:59:47.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/659399167165468673
+			</EditDetails>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Edit Body" >
+			<PostId>9033</PostId>
+			<ParentPostId>4648</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-19T22:56:28.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected grammar and added one word to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there any information on how the levels of co2 and n2 change over time in a keg series pressurized with a 30/70 mix (co2/n2 respectively)? Assuming the beer originally carbonated (not a nitro beer) and it takes a week to empty the series of kegs?
+					I would guess that one would get at least a 1/2 barrel of beer that is at the original carbonation level and no nitrogenation, but as the flow mixes the beer it would change and finally the last 1/2 barrel would have the greatest nitrogenation. 
+ 
+					Also, since it is not a nitro beer is there a limit of the amount of nitrogenation due to the originally present carbonation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Edit Title" >
+			<PostId>9034</PostId>
+			<ParentPostId>4648</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-19T22:56:28.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected grammar and added one word to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Changes of gasification of beer in a long draw series
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Unknown" >
+			<PostId>9035</PostId>
+			<ParentPostId>4648</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-19T22:56:28.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 73 edit id of 171
+			</EditDetails>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Body" >
+			<PostId>12201</PostId>
+			<ParentPostId>6668</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-15T16:28:43.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6557</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am looking for local beers to purchase that have no or little carbonation.  Can someone help me with this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Title" >
+			<PostId>12202</PostId>
+			<ParentPostId>6668</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-15T16:28:43.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6557</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Local beers sold in the US with little or no carbonation
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Tags" >
+			<PostId>12203</PostId>
+			<ParentPostId>6668</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-15T16:28:43.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6557</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Post Closed" >
+			<PostId>12217</PostId>
+			<ParentPostId>6668</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-15T23:59:56.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				103
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Edit Body" >
+			<PostId>12228</PostId>
+			<ParentPostId>6668</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-16T21:12:09.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6557</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 57 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What types of beer have lower or no carbonation?
+ 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Post Reopened" >
+			<PostId>12236</PostId>
+			<ParentPostId>6668</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T08:51:26.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":5974,"DisplayName":"Montijello"},{"Id":5078,"DisplayName":"Jamie Eltringham"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Edit Title" >
+			<PostId>12238</PostId>
+			<ParentPostId>6668</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T09:19:03.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Beers sold in the US with little or no carbonation
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Unknown" >
+			<PostId>12239</PostId>
+			<ParentPostId>6668</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T09:19:34.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				27
+			</EditDetails>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Unknown" >
+			<PostId>12321</PostId>
+			<ParentPostId>14</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-27T13:26:13.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/846352662610227200
+			</EditDetails>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Edit Body" >
+			<PostId>12498</PostId>
+			<ParentPostId>435</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I was perusing a question about uses for flat beer ("https://alcohol.stackexchange.com/q/354/286") when I came across an answer that mentioned "[any use that doesn't require it to be carbonated would be fitting][1]".
+
+					If I have flat beer, and I have, say, a [sodastream][2] (or some such), can I effectively re-carbonate my beer? What would be the disadvantage to doing so?
+
+					  [1]: https://alcohol.stackexchange.com/a/355/286
+					  [2]: http://www.sodastreamusa.com/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Edit Body" >
+			<PostId>12508</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be [severely overcarbonated.](https://alcohol.stackexchange.com/q/654/8) To the point of both making a mess, and being unpleasant to drink.
+
+					Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? Or just spoiled by sitting on the shelf too long? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Body" >
+			<PostId>13601</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-26T16:09:50.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm one of those people who puts nearly all my energy into things other than brewing.  And yet I still do it a little.  That's why I have a carboy of cider that is 18 months old in my basement.
+
+					I don't know if the cider will be good or not when I try to bottle it, but I do know that all bubbling stopped long, long ago.  I'm not sure if all the yeast is dead at this point (does that happen?) or if all the sugar is gone.  Seems like one or the other must be true though.
+
+					So on the off chance that I don't need to just pour this down the drain, what's my best bet for getting it carbonated in the growlers?  Yeast?  Sugar (though I actually used all honey initially)?  Both?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Title" >
+			<PostId>13602</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-26T16:09:50.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to recover a carboy of cider?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Tags" >
+			<PostId>13603</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-26T16:09:50.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, carbonation, cider, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Unknown" >
+			<PostId>13616</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-29T18:31:48.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/946811000375992322
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

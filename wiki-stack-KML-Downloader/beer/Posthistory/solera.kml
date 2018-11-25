@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>13995</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-03T09:35:11.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The [method to produce Sherry][1] and the respective Brandy uses four layers of barrels. From the lowest layer they take the annual amount they want to sell and refill from the respective layer above. The Layer on top is refilled with the newest production. So every Sherry and Brandy produced in this way contains at least four year old wine or spirits, but also much older components of the first year of production, which means that you may expect a drop of first production year in each bottle. ;)
+
+					This is why you will not find a year of  grape harvest on the bottle lables.
+
+					However, I do not know any other winery or distillery working in that way. I know some that finally blend (mix) different products, but that is not the same.
+
+					  [1]: https://en.wikipedia.org/wiki/Sherry
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>13996</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-03T09:35:11.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there other spirits and/or wines in the world that use the Sherry production method?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>13997</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-03T09:35:11.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, spirits, distilleries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>13998</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-03T09:47:31.060</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<EditDetails>
+				added 108 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					The [method to produce Sherry][1] and the respective Brandies, called [Solera][2], uses several layers of barrels (frequently four layers). From the lowest layer they take the annual amount they want to sell and refill from the respective layer above. The layer on top is refilled with the newest production. So every Sherry and Brandy produced in this way contains at least (four?) year old wine or spirits, but also much older components of the first year of production, which means that you may expect a drop of first production year in each bottle. ;)
+
+					This is why you will not find a year of  grape harvest on the bottle labels.
+
+					However, except those mentioned in [Wikipedia][2] I do not know any other winery or distillery working in that way. I know some that blend (mix) different products at the end of production, but that is not the same.
+
+
+					  [1]: https://en.wikipedia.org/wiki/Sherry
+					  [2]: https://en.wikipedia.org/wiki/Solera
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Tags" >
+			<PostId>14000</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-04T11:09:29.060</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					wine, spirits, distilleries, solera, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>14028</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-10T07:33:18.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/994480482011303936
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

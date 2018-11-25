@@ -1,0 +1,620 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>11917</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T07:59:40.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the most expensive legally available alcohol in the world (per unit)?  And why does it command the price?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>11918</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T07:59:40.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the most expensive alcohol (per unit) in the world?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>11919</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T07:59:40.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					price, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>11920</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T08:07:11.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added drink
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the most expensive legally available alcohol / drink in the world (per unit)?  And why does it command the price?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Title" >
+			<PostId>11921</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T08:07:11.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added drink
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the most expensive alcohol / drink (per unit) in the world?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>11935</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-25T03:55:43.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/835337451614978048
+			</EditDetails>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>12329</PostId>
+			<ParentPostId>6710</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-28T06:46:20.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Who owns or has been the costliest beer till date and who owns it and reasons for it to be a costly one.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>12330</PostId>
+			<ParentPostId>6710</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-28T06:46:20.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Costliest Commercial beer till date
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>12331</PostId>
+			<ParentPostId>6710</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-28T06:46:20.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, price, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Unknown" >
+			<PostId>12332</PostId>
+			<ParentPostId>6710</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-28T09:41:35.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				28
+			</EditDetails>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Body" >
+			<PostId>12334</PostId>
+			<ParentPostId>6710</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-28T13:23:34.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What has been the costliest beer commercial to date, who owns it and what are the reasons for it to be so costly?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Title" >
+			<PostId>12335</PostId>
+			<ParentPostId>6710</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-28T13:23:34.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Costliest l beer commercial to date?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Title" >
+			<PostId>12339</PostId>
+			<ParentPostId>6710</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-28T23:07:30.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Costliest beer commercial to date?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Body" >
+			<PostId>12340</PostId>
+			<ParentPostId>6710</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-29T05:23:06.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<EditDetails>
+				added 52 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What has been the costliest beer commercial to date, who owns it and what are the reasons for it to be so costly?
+
+					Adding reliable references would be appreciated . 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Body" >
+			<PostId>12381</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T12:39:12.970</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have noticed the proliferation in recent years of what most people refer to as 'plastic' corks in wine bottles.  It turns out not to be plastic, but nomex.  My question(s) is(are):  What exactly is nomex?  Is it a case of the fact that it doesn't leech into the wine?  Is there a standard/quality/bottle price issue regarding the usage of one type of cork over the other?  What other reasons are there for using a nomex opposed to cork 'cork'?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Title" >
+			<PostId>12382</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T12:39:12.970</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Nomex v Cork. What is the difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Tags" >
+			<PostId>12383</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T12:39:12.970</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, price, quality, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Edit Body" >
+			<PostId>12389</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T14:35:35.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved title and body for clarity and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have noticed the proliferation in recent years of what most people refer to as 'plastic' corks in wine bottles.  It turns out not to be plastic, but Nomex.  My question(s) is (are):  What exactly is Nomex?  Is it a case of the fact that it doesn't leech into the wine?  Is there a standard/quality/bottle price issue regarding the usage of one type of cork over the other?  What other reasons are there for using a nomex opposed to cork 'cork'?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Edit Title" >
+			<PostId>12390</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T14:35:35.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved title and body for clarity and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Alternative corks vs natural corks. What is the difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Tags" >
+			<PostId>12391</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T14:35:35.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved title and body for clarity and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					wine, bottling, price, quality, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Body" >
+			<PostId>12392</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T15:31:50.163</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added 340 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have noticed the proliferation in recent years of what most people refer to as 'plastic' corks in wine bottles.  It turns out not to be plastic, but Nomex.  My question(s) is (are):  What exactly is Nomex?  Is it a case of the fact that it doesn't leech into the wine?  Is there a standard/quality/bottle price issue regarding the usage of one type of cork over the other?  What other reasons are there for using a nomex opposed to cork 'cork'?
+
+					EDIT TO QUESTION (visual of nomex corks):  The interior of the cork is sponge like, the out is hard.  I have tried googling this and cannot find what I am looking for.  It is not what passes for a synthetic cork.  Apogies for the quality of photo:
+					[![enter image description here][1]][1]
+
+
+					  [1]: https://i.stack.imgur.com/mTbwH.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>12413</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T14:20:24.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/849265397786456064
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>12456</PostId>
+			<ParentPostId>6710</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-08T23:31:06.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/850853541073879041
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>12979</PostId>
+			<ParentPostId>6933</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-28T08:32:23.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6873</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do i calculate the market value for a limited edition beer (1700 bottles only)? It cannot be bought anywhere anymore except from private collectors. The beer in question is the Opeth XXV anniversary imperial stout.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>12980</PostId>
+			<ParentPostId>6933</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-28T08:32:23.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6873</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Right price for limited edition beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>12981</PostId>
+			<ParentPostId>6933</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-28T08:32:23.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6873</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					imperal-stout, price, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Edit Body" >
+			<PostId>12982</PostId>
+			<ParentPostId>6933</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-28T12:11:55.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one link.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do I calculate the market value for a limited edition beer (1700 bottles only)? It cannot be bought anywhere anymore except from private collectors. The beer in question is the [Opeth XXV anniversary imperial stout][1].
+
+
+					  [1]: http://loudwire.com/opeth-xxv-anniversary-imperial-stout/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>14309</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T07:43:35.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7894</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I live in Sydney. I was wondering if it would be possible to take a trip to the airport and buy a whole bunch of Johnnie walker duty free? Do you actually have to be boarding a flight, or can you just rock up, splash some money around and go home?
+
+					If you absolutely must be flying somewhere in order to buy some booze, would a domestic flight be sufficient? I've been thinking of visiting Melbourne for a while, and if it were possible to pick up some blue label on the way home I wouldn't complain!
+
+					Thanks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>14310</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T07:43:35.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7894</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do you need to actually be flying somewhere in order to buy booze duty free at the airport?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>14311</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T07:43:35.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7894</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					price, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Edit Tags" >
+			<PostId>14314</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T14:55:55.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added another tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					price, australia, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>14382</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-24T01:10:00.370</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1021563111726297088
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

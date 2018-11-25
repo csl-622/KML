@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="4499"  UserId="4394" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-08T16:01:16.090</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4654"  UserId="4394" InstanceType= "badges">
+			<Title>
+			"Enthusiast"
+			</Title>
+			<TimeStamp>
+				<Date>2015-09-06T09:28:44.613</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4882"  UserId="4394" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2015-10-27T15:47:14.683</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4966"  UserId="4394" InstanceType= "badges">
+			<Title>
+			"Fanatic"
+			</Title>
+			<TimeStamp>
+				<Date>2015-11-15T10:03:09.233</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5509"  UserId="4394" InstanceType= "badges">
+			<Title>
+			"Commentator"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-28T09:09:23.537</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6181"  UserId="4394" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-08-06T17:28:20.603</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7763"  UserId="4394" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2017-08-06T17:13:05.837</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

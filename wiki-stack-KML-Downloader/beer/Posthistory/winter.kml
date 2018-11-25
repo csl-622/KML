@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>14565</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T15:09:26.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Winter is just around the corner, thus what should I be drinking?  My normal summer tipple of Gin and Tonic, or should I move over to darker more homely drinks, like perhaps rum and coke?  Is there a particular wine that is evocative of cold days and warm fireplaces?  Or perhaps I should just simply remove ice from gin and carry on - any suggestions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>14566</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T15:09:26.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Dark winter days equal dark winter drinks!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>14567</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T15:09:26.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, gin, winter, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

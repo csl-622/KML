@@ -1,0 +1,748 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>42</PostId>
+			<ParentPostId>33</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>classification</tag>
+				<tag>porter</tag>
+			</Tags>
+			<Credit> 
+				<Score>24</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:06:34.833</CreationDate>
+				<LastEditDate>2015-12-26T18:57:02.757</LastEditDate>
+				<LastActivityDate>2015-12-26T18:57:02.757</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>28</OwnerUserId>
+				<LastEditorUserId>4880</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer Connoisseur Online answers this pretty thoroughly in &lt;a href="https://beerconnoisseur.com/articles/difference-between-porter-and-stout"&gt;an article&lt;/a&gt;.  &lt;/p&gt;
+
+					&lt;p&gt;The TLDR: is that "...originally a stout was a strong version of a porter.  Today, the difference is whatever you want it to be."&lt;/p&gt;
+
+					&lt;p&gt;For an interesting history on the term Stout and the style of beer, you can check out this &lt;a href="http://www.realbeer.com/library/authors/smith-g/stout.php"&gt;history of stout article&lt;/a&gt; provided by Eric Deloak.  Similarly you can read a &lt;a href="http://www.realbeer.com/library/authors/smith-g/porter.php"&gt;history of porter article&lt;/a&gt; written by the same author: Gregg Smith&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>205</PostId>
+			<ParentPostId>172</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>poland</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T15:34:07.457</CreationDate>
+				<LastActivityDate>2014-01-22T15:34:07.457</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>26</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In my (somewhat minimal) experience, Piwo Jasne and Piwo Mocne are both most commonly pilsners or perhaps more generally pale lagers.  Piwo Mocne is higher in alcohol content and might be called a "strong pale lager", or perhaps tagged with the modifier "Imperial" to indicate the increased alcohol.&lt;/p&gt;
+
+					&lt;p&gt;That said, I don't think there is anything inherent in the term that precludes, for example, a strong ale being sold as Piwo Mocne.  The two terms in the question aren't prescriptive of specific style.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>228</PostId>
+			<ParentPostId>172</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>poland</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T20:32:08.800</CreationDate>
+				<LastActivityDate>2014-01-22T20:32:08.800</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;strong&gt;Piwo Jasne&lt;/strong&gt; is, translated, "light beer". It's the common market name for all 'light' beers, and they are mostly pilsners. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Piwo Ciemne&lt;/strong&gt; - this is "dark beer", so something like ale. They are dark, as the name suggests, and usually quite sweet. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Piwo Mocne&lt;/strong&gt; - this is simply the beer that is more condensed, so it has more alcohol. That can be light beers or dark beers (for example, very good dark strong beer "Warka Strong"). &lt;/p&gt;
+
+					&lt;p&gt;Those names are the most popular market classifications in Poland, but usually you'll find more details on label or producer's page. For example, many beers have information, that they are pilsner-type beers. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>591</PostId>
+			<ParentPostId>590</ParentPostId>			<Tags>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>21</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-11T04:07:45.380</CreationDate>
+				<LastEditDate>2014-03-30T18:49:31.573</LastEditDate>
+				<LastActivityDate>2014-03-30T18:49:31.573</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>94</OwnerUserId>
+				<LastEditorUserId>94</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Snake Venom is beer not a spirit because spirits are &lt;a href="http://en.wikipedia.org/wiki/Distillation" rel="nofollow"&gt;distilled&lt;/a&gt;. Beer is technically not distilled. &lt;/p&gt;
+
+					&lt;p&gt;As the definition you cited says, beer is the product of fermenting sugar derived from cereal grain which is dissolved in water. So water + grain + yeast = beer. The grain has to undergo a saccharification process where the carbohydrate chains (starches) in the grain are transformed into sugar (glucose, fructose, sucrose, maltose...) which is then converted into alcohol by yeast. Fermentable sugar is extracted from barley through &lt;a href="http://en.wikipedia.org/wiki/Malt" rel="nofollow"&gt;malting&lt;/a&gt; and &lt;a href="http://en.wikipedia.org/wiki/Mash_%28beer%29" rel="nofollow"&gt;mashing&lt;/a&gt;. The yeast is generally added to the &lt;em&gt;wort&lt;/em&gt; (unfermented sugary water) manually by the brewer or wild yeast can fall into the beer from the air. &lt;/p&gt;
+
+					&lt;p&gt;Other processes may be involved with fermenting other grains. For example, in sake brewing, &lt;a href="http://www.themadfermentationist.com/2010/05/making-koji-for-sake.html" rel="nofollow"&gt;koji&lt;/a&gt; (a type of mold) is grown on rice (and soybeans) before fermentation in order to convert starches into fermentable sugars, as rice does not contain the enzymes needed to convert its starches into sugars (note: sake is generally not consider beer, but there are beers made with significant quantities of rice, up to 100% rice beer is possible).&lt;/p&gt;
+
+					&lt;p&gt;Hops is not a necessary ingredient in beer, and beer was made for thousands of years before people started adding hops to it. &lt;/p&gt;
+
+					&lt;p&gt;These strong beers like Snake Venom are generally brewed to this high ABV level through freeze "distillation." This isn't really distillation, because no heat is involved, so people still call them beers. But this is a concentration process similar to distillation. Alcohol has a lower freezing point than water, so when you freeze beer, you can remove the ice and you're left with a more concentrated beer. This is the process used in the German eisbock style. The brewers also start with a high ABV beer, using special ingredients (sugar sources other than malt, like table sugar) along with strains of yeast that can tolerate high levels of alcohol and still continue to live and ferment. This process can be somewhat difficult and expensive, so it gets attention. In my opinion it's a novelty, but I guess people like it, because they sell a lot of it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>594</PostId>
+			<ParentPostId>590</ParentPostId>			<Tags>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-11T17:31:03.497</CreationDate>
+				<LastActivityDate>2014-02-11T17:31:03.497</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some key attributes that make a beer a beer:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;the primary process to make it typically involves brewing, i.e. steeping something in water. For beer it's cereals or grains to extract something, that something is usually mainly carbohydrates, but also color, flavor and aroma.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;fermentation is used to convert the brew liquor (wort) into beer. There are unfermented "beers" such as the Norwegian "vørterøl" (wort-Ale) but these aren't strictly beers. Fermentation is usually by yeast, Saccaromyces cerevisiae (ales) or S. uvarum (lagers) but other yeasts (S. Brettanomyces) or bacteria (such as lactobacillus) may be used. &lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>603</PostId>
+			<ParentPostId>602</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>classification</tag>
+				<tag>dubbel</tag>
+				<tag>tripel</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-14T01:02:24.700</CreationDate>
+				<LastActivityDate>2014-02-14T01:02:24.700</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>476</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Dubbels and Tripels are vastly different beers. While dubbels are generally something akin to a brown ale, malt forward with some light hints of dark fruit and roastiness, Tripels are pale to golden, being a vehicle for both the yeast flavors (clove/bananna), fruity esters, and the whims of the brewer (Belgian candi sugar, coriander and other spices are common additions).&lt;/p&gt;
+
+					&lt;p&gt;The additional Trappist style ale the Quadripel (Quad) is much more like a bigger version of the dubbel, although they have their own distinct flavor profiles as well. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>604</PostId>
+			<ParentPostId>602</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>classification</tag>
+				<tag>dubbel</tag>
+				<tag>tripel</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-14T07:26:43.513</CreationDate>
+				<LastActivityDate>2014-02-14T07:26:43.513</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>138</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's often a misconception that one comes forth from the other, this is incorrect. The name was used to indicate the strength of the Westmalle beers. Originally there was the Enkel, Dubbel and Tripel. It is said that they represent the holy trinity. Later quadruppels were added. Both Dubbel and Tripel as name were first used by the Trappist brewery of Westmalle.&lt;/p&gt;
+
+					&lt;p&gt;Westmalle produced the first dark beer in 1856 named "Dubbel" (the recipe was changed in 1926). Dubbels are dark in color, and tend to have malt flavors dominating over hops. Whereas the Quadrupels have more of a fruit presence, the Dubbels tend to be a bit spicier with strong caramel flavors. They tend to have an ABV of 6.5-9.0%.&lt;/p&gt;
+
+					&lt;p&gt;Some examples:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Chimay Red&lt;/li&gt;
+					&lt;li&gt;La Trappe Dubbel&lt;/li&gt;
+					&lt;li&gt;Ommegang&lt;/li&gt;
+					&lt;li&gt;Westvleteren 8 &lt;/li&gt;
+					&lt;li&gt;Rochefort 6&lt;/li&gt;
+					&lt;li&gt;Westmalle Dubbel&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Tripels are lighter color, often blonde. They are generally a lot fruitier and lighter in flavor. The name Tripel originally was first used in 1956 by the Westmalle brewery to name their strongest beer (originally produced in 1930 and named Superbier, it was renamed to Tripel). The ABV is a lot higher than the double,  8.0-12.0%. &lt;/p&gt;
+
+					&lt;p&gt;Some examples:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Tripel Karmeliet&lt;/li&gt;
+					&lt;li&gt;Westmalle Tripel&lt;/li&gt;
+					&lt;li&gt;St. Bernardus Tripel&lt;/li&gt;
+					&lt;li&gt;Leuvense Tripel&lt;/li&gt;
+					&lt;li&gt;Chimay Cinq Cents Tripel &lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>770</PostId>
+			<ParentPostId>768</ParentPostId>			<Tags>
+				<tag>ipa</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-05T21:18:44.343</CreationDate>
+				<LastActivityDate>2014-05-05T21:18:44.343</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>467</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="http://www.beeroftomorrow.com/white-ipa/"&gt;WHITE IPA&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;A basic definition would be:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;strong hop character - similar to ipa&lt;/li&gt;
+					&lt;li&gt;wheat / wit grainbill-  &lt;/li&gt;
+					&lt;li&gt;essentially a mashup (beer pun) of wit and ipa, lighter malts with strong hops&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;As far as the is it an IPA question: as long as its fairly high alcohol, most of the ingredients would point to being almost the same as an IPA. but like noted above, there are different malts and probably a different yeast. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>824</PostId>
+			<ParentPostId>768</ParentPostId>			<Tags>
+				<tag>ipa</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-29T13:49:16.033</CreationDate>
+				<LastActivityDate>2014-05-29T13:49:16.033</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>931</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;YES. Deschutes Chainbreaker White IPA is in fact made with ale yeast using pilsner, malted wheat, wheat, and a large quantity of hops. A pale ale is an ale (a beer made with ale yeast) and lightly malted barley and adjuncts. An IPA is a pale ale that has been hopped greatly. Your particular white IPA is light in color and has 55 IBUs, qualifying it for the IPA class of beer. &lt;/p&gt;
+
+					&lt;p&gt;In case you are curious:
+					The reason IPAs were established is because the English brewers receiving spices from India made a habit of sending the would be empty ship back loaded with beer. At the time pale ales were the staple beer. At first the beer developed a bad flavor during the long voyage. English brewers learned to cover the negative flavor of their pale ales with more bittering hops. &lt;/p&gt;
+
+					&lt;p&gt;IBUs stands for International Bitterness Units, it is an approximation of how much bitterness you will taste. &lt;/p&gt;
+
+					&lt;p&gt;Answered by:  The GastroGraph Team&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>940</PostId>
+			<ParentPostId>939</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-21T14:05:56.267</CreationDate>
+				<LastActivityDate>2014-07-21T14:05:56.267</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>467</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="http://www.beeradvocate.com/app/" rel="nofollow"&gt;Beeradvocate.com &lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://www.thebeerexpert.com/beer-expert-app.shtml" rel="nofollow"&gt;Beer Expert - from "Rate Beer" data&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;Both of these are the largest rating/tasting databases for beer, I haven't used them but they would be the place to look for the information that untapped is lacking.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>941</PostId>
+			<ParentPostId>939</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-21T19:41:00.357</CreationDate>
+				<LastActivityDate>2014-07-21T19:41:00.357</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1104</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In terms of an Android app, I personally use &lt;a href="https://play.google.com/store/apps/details?id=com.definitionstudio.beercitizen&amp;amp;hl=en" rel="nofollow"&gt;Beer Citizen&lt;/a&gt;. It does not have every beer imaginable in its listing, but it has quite a large amount. I find the community to be pretty helpful. They helped me find a lot of different beers whenever and wherever I might travel.&lt;/p&gt;
+
+					&lt;p&gt;Jeff Wurz is also right to suggest Beer Advocate, which recently came out with a new app back in June of this year. I do frequently use Beer Advocate's website and am eager to try out their new app. If you end up not liking Beer Citizen I would recommend trying this app out; though I base this off the usefulness of the website, since I have no experience with the application.&lt;/p&gt;
+
+					&lt;p&gt;Hope I was able to help you out!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>970</PostId>
+			<ParentPostId>939</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-05T17:23:13.847</CreationDate>
+				<LastActivityDate>2014-08-05T17:23:13.847</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1183</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I like &lt;a href="https://untappd.com/" rel="nofollow"&gt;Untappd&lt;/a&gt;. It would be better if it automatically recognized the beer labels, but it is fine. You must type the beer name. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13" InstanceType="answer">
+			<PostId>3196</PostId>
+			<ParentPostId>3195</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-15T08:11:16.103</CreationDate>
+				<LastActivityDate>2015-01-15T08:11:16.103</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1289</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The BJCP classifies Corona Extra as a &lt;a href="http://www.bjcp.org/2008styles/style01.php#1c"&gt;Premium American Lager&lt;/a&gt;, being, clear, yellow, not hoppy but with a little more body than a light. &lt;/p&gt;
+
+					&lt;p&gt;Assuming 'dry' isn't some radically different beer, the category would probably still be correct. BJCP draft guidelines (not official) consider putting Asahi Super Dry and Corona Extra in  2A 'International Pale Lagers' which is '&lt;em&gt;Loosely derived from original Pilsner-type lagers....&lt;/em&gt;'&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://www.bjcp.org/docs/2014%20BJCP%20Style%20Guidelines%20(DRAFT).pdf"&gt;1MB PDF&lt;/a&gt; if you want to read the draft.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14" InstanceType="answer">
+			<PostId>3331</PostId>
+			<ParentPostId>172</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>poland</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-12T22:33:08.717</CreationDate>
+				<LastEditDate>2016-10-08T19:46:38.193</LastEditDate>
+				<LastActivityDate>2016-10-08T19:46:38.193</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3879</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Given how much modern Polish beer has in common with mass-market German and Czech beer- combined with a small handful that I've tried here in Germany- &lt;em&gt;they're what one would call "European pale lagers" or "International pilsners," depending on what book or site's style names you're going off of.&lt;/em&gt;&lt;/p&gt;
+
+					&lt;p&gt;In response to a previous answer, color has nothing to do with ale v. lager, nor alcohol concentration (Guinness is an ale and 4.2% where Aventinus Eisbock is a lager and 12%), it only tells you how it was fermented. There are tons of dark lagers around: Schwarzbier, Munich dunkel, Rauchbier, Doppelbock, the aforementioned Baltic porter, and the Czech 14* and 18* dark lagers.  &lt;/p&gt;
+
+					&lt;p&gt;I or someone will need to look more into this, but those terms might be bureaucratic in nature- up until the 90s, Germany had multiple beer categories based on the beer's original gravity that determined how it would be taxed and sold, sort of like how Texas used to label everything above a certain ABV% "ale".  &lt;a href="http://www.texastribune.org/2012/08/09/tabc-changes-what-it-means-to-be-a-beer/" rel="nofollow"&gt;TABC Changes What it Means to Be a Beer.&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15" InstanceType="answer">
+			<PostId>3488</PostId>
+			<ParentPostId>33</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>classification</tag>
+				<tag>porter</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-20T20:40:48.710</CreationDate>
+				<LastEditDate>2016-02-15T14:01:01.503</LastEditDate>
+				<LastActivityDate>2016-02-15T14:01:01.503</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4338</OwnerUserId>
+				<LastEditorUserId>4338</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Well, that style thing is complicated because in real world people just make beer, and don't make beer to satisfy styles guides (at least, not until very recentely when some people started to care more about style guidelines than the beer itself).&lt;/p&gt;
+
+					&lt;p&gt;Anyway, what I think is important to be aware is:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Many styles have a long and old history, often centuries, and what we have as one nowadays doesn't have much to do with what it was once ago.&lt;/li&gt;
+					&lt;li&gt;Styles change a lot over time as well. I'm not a specialist, but I think before the american craft beer revolution and revival in the early 80's, no one was gathering and classifying beer styles in a guide like BJCP. And that same revival brought back to life many dead styles in different fashion (well, look the case of IPAs), by the way.&lt;/li&gt;
+					&lt;li&gt;Generally, despite style guides, people have their own understanding of what is X or Y, and when naming their beers, they will do it based on their perception and references too, not strictly style guidelines.&lt;/li&gt;
+					&lt;li&gt;If you look closer, porter and stout are ancient reference styles for more specific and contemporaneous styles (sweet stout, dry stout, outmeal stout, brown porter, robust porter, russian imperial stout, etc).&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;So, I think it makes more sense telling the difference between a milk and an outmeal stout, or brown and baltic porter than stout X porter.&lt;/p&gt;
+
+					&lt;p&gt;For what's worth, for me, there's no difference between stout and porter. What I mean is, at least not so that we, as consumers, can trust and be 100% of what you are going to get if you choose one over the other, specially when the name is generic like that.&lt;/p&gt;
+
+					&lt;p&gt;What I think is enlightening is to understand the history of those related styles and how they came to be what they are today.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16" InstanceType="answer">
+			<PostId>3492</PostId>
+			<ParentPostId>33</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>classification</tag>
+				<tag>porter</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-22T17:37:29.760</CreationDate>
+				<LastActivityDate>2015-07-22T17:37:29.760</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1290</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;BJCP style guides aside, I generally love porters and don't care for stouts. The latter (in my experience) tend to have a much more pronounced roasted malt character.  (I do like most milk stouts though, now that that's a thing)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17" InstanceType="answer">
+			<PostId>4527</PostId>
+			<ParentPostId>3468</ParentPostId>			<Tags>
+				<tag>glassware</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-13T15:54:30.037</CreationDate>
+				<LastEditDate>2015-08-14T20:21:14.683</LastEditDate>
+				<LastActivityDate>2015-08-14T20:21:14.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4423</OwnerUserId>
+				<LastEditorUserId>4423</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Actually you have nice words to ask in Spain for a shooter beer, but I can add somes:&lt;/p&gt;
+
+					&lt;p&gt;big quantity (1L or more)&lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;mini
+					cachi
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;p&gt;regular size (200cl-500cl)&lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;tubo
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;p&gt;little quantities:&lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;cañita  
+					corto
+					chato  (used for beer but usually of wine)
+					zurito (basque country and andalucia but extendind all over Spain)
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;p&gt;but we have also words to name beer bottles depending the size:&lt;/p&gt;
+
+					&lt;p&gt;20cl bottle: &lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;botellin
+					quinto    (in north regions like Catalunya)
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;p&gt;33cl bottle: &lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;tercio
+					mediana   (in north regions like Catalunya)
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;p&gt;1 l  bottle: &lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;litro
+					litrona
+					xibi * 
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;p&gt;&lt;code&gt;*&lt;/code&gt; from &lt;a href="https://es.wikipedia.org/wiki/Xibeca" rel="nofollow"&gt;Xibeca&lt;/a&gt;, Damm big bottles&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18" InstanceType="answer">
+			<PostId>4687</PostId>
+			<ParentPostId>33</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>classification</tag>
+				<tag>porter</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-11-12T17:17:06.460</CreationDate>
+				<LastActivityDate>2015-11-12T17:17:06.460</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4725</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are a number of different types of porters and stouts, so it isn't necessarily a simple answer, but I would say the use of roasted grains in stouts, particularly roasted barley, is the biggest difference.  As such, you end up with more burnt toast and coffee type flavors in a stout, but the amount and type of roastiness depends upon the type of stout.  If you get the chance, try a side-by-side comparison between the regular Guinness and the Guinness Foreign Extra stouts where the regular Guinness comes off more roasty than the Foreign Extra.&lt;/p&gt;
+
+					&lt;p&gt;Most porters have little to no roastiness.  I think of them as having more smoother chocolate-type flavors, and to be lighter in color (deep red or ruby as opposed to black), but there is a lot of overlap in the Venn diagrams between the two.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19" InstanceType="answer">
+			<PostId>4748</PostId>
+			<ParentPostId>3195</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>-2</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-02T20:44:07.233</CreationDate>
+				<LastEditDate>2016-01-04T12:53:32.913</LastEditDate>
+				<LastActivityDate>2016-01-04T12:53:32.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4908</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Corona is a very famous, international beer consisting of corn. It's made by a starchy product, and that's why we use to lemon wedges at the time of serving: in order to disguise the starchy taste.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20" InstanceType="answer">
+			<PostId>6986</PostId>
+			<ParentPostId>6985</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>ale</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-17T14:09:24.643</CreationDate>
+				<LastActivityDate>2017-08-17T14:09:24.643</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beers (ales and lagers) are broken down into many, many different styles based on how they are brewed. Most beers have only 3 or 4 different types of ingredients. Malt, water, yeast, hops and sometimes fruit or herbs. While there doesn't seem like there can be a lot of variation, there are almost an infinite amount of ways to combine these ingredients. For the specific beers you mention, Brown Ale and Mild Ale are very similar styles. I'm not sure what you mean by "The Ale". &lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://www.craftbeer.com/beer/beer-styles-guide#english-style-dark-mild" rel="noreferrer"&gt;Mild Ale&lt;/a&gt; vs. &lt;a href="https://www.craftbeer.com/beer/beer-styles-guide#english-style-brown-ale" rel="noreferrer"&gt;Brown Ale&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;English-Style Brown Ale
+					Style Family: Brown Ales&lt;/strong&gt;
+					The English-style brown ale ranges from dryer (Northern English) to sweeter (Southern English) maltiness. Roast malt tones (chocolate, nutty) may sometimes contribute to the flavor and aroma profile. Hop bitterness is very low to low, with very little hop flavor and aroma. Known for rich and advanced malt aroma and flavor without centering too much on hops, the English-style mild is extremely sessionable and food-friendly.&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;English-Style Mild Style Family: Brown Ales&lt;/strong&gt;
+					Malt and caramel are part of the flavor and aroma profile of the English-style mild while licorice and roast malt tones may sometimes contribute as well. Hop bitterness is very low to low. U.S. brewers are known to make lighter-colored versions as well as the more common “dark mild.” These beers are very low in alcohol, yet often are still medium-bodied due to increased dextrin malts.&lt;/p&gt;
+
+					&lt;p&gt;If you want to dig deeper into this read the &lt;a href="https://www.craftbeer.com/beer/beer-styles-guide" rel="noreferrer"&gt;Beer Style Study Guide&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21" InstanceType="answer">
+			<PostId>7001</PostId>
+			<ParentPostId>7000</ParentPostId>			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-29T16:59:15.363</CreationDate>
+				<LastActivityDate>2017-08-29T16:59:15.363</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7061</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes, I think this is a pretty unnecessary (and non-descriptive) label to put on a category of alcohol. If I go to a liquor store looking for cider or for a dry stout or for anything else and I see a section labeled "women" that effectively tells me absolutely nothing about what it is I'll find over there. Not to mention it basically assumes a woman will have no clue what it is she's looking for, so we'll just label this shelf "women".&lt;/p&gt;
+
+					&lt;p&gt;I would definitely opt for something more descriptive and that doesn't imply clueless-ness i.e. "Radlers and Ciders", "IPAs", etc.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22" InstanceType="answer">
+			<PostId>7002</PostId>
+			<ParentPostId>7000</ParentPostId>			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-30T12:05:25.253</CreationDate>
+				<LastActivityDate>2017-08-30T12:05:25.253</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6874</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;strong&gt;Why would you have a “selection of beer for women”?&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;this is a marketing strategy that aims both women and men.&lt;/li&gt;
+					&lt;li&gt;women like to be treated differently, as a consumer with special needs and expectations.&lt;/li&gt;
+					&lt;li&gt;men looking for a gift to a woman will most likely be attracted by this selection.&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;hr&gt;
+
+					&lt;p&gt;From Bridget Brennan, a contributor to Forbes, and head of &lt;a href="http://www.thefemalefactor.com/services/marketing_consulting.html" rel="nofollow noreferrer"&gt;Female Factor&lt;/a&gt;: &lt;em&gt;The often repeated phrase, “I know 50% of my marketing budget is wasted, I just don't know which 50%” – has an answer. It's the 50% that doesn't appeal to women.&lt;/em&gt;&lt;/p&gt;
+
+					&lt;p&gt;She stressed the importance of thinking holistically and practically when working to promote any product to women. Be it color, size, or smell, it's all intended to catch woman's attention.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Women shop with all their senses.  Is your store a place that people want to linger?  How does it smell, how does it sound?  This creates an opportunity to reach the senses that e-commerce can't.  Women consumers in particular are highly attuned to the details of a retail environment, from scent to lighting to music to the tactile nature of touching and examining products.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;From Tom Peters &lt;a href="http://www.marketingdonut.co.uk/marketing-strategy/your-target-market/the-truth-about-marketing-to-women" rel="nofollow noreferrer"&gt;the truth about marketing to women&lt;/a&gt;:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The times they are a-changing. So the situation is as follows:
+					  Women are the number one business opportunity. They buy lots of stuff. Men and women are very different. Men are (still) in control and are totally, hopelessly, clueless about women. Not enough “stuff” is designed for women or communicated in a way that appeals to women. Most stuff for women is, to be frank, pretty patronising.&lt;/p&gt;
+  
+					  &lt;p&gt;This is a straight-down-the-line commercial argument. Women are not a niche market or a minority - they have wallets and, for many businesses, women as decision-makers and consumers hold the key to future success.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;hr&gt;
+
+					&lt;p&gt;&lt;strong&gt;Now, is it sexist?&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;I can't say, but my 2 cents: &lt;em&gt;when targeting women, you're even more willing to add a&lt;/em&gt; &lt;strong&gt;pink tax&lt;/strong&gt;.&lt;/p&gt;
+
+					&lt;p&gt;Read more about it here: &lt;a href="https://www.jec.senate.gov/public/_cache/files/8a42df04-8b6d-4949-b20b-6f40a326db9e/the-pink-tax---how-gender-based-pricing-hurts-women-s-buying-power.pdf" rel="nofollow noreferrer"&gt;how gender based pricing hurts women's buying power&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

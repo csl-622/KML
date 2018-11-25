@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>253</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:54:50.767</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					See @phoebus's [post](http://beer.stackexchange.com/questions/121/what-characteristics-are-used-to-distinguish-styles-of-beer-from-each-other/125) about the BJCP guidelines
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>951</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Contributors>
+				<UserId>802</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-22T18:49:15.337</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Note that the BJCP guidelines are not used for many commercial competitions, including the largest American commercial competition, GABF.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

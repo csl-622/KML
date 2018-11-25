@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>9101</PostId>
+			<ParentPostId>4990</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-04T02:32:41.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there any confirmed documentation on the origins of the [sake bomb?][1]
+
+
+
+					  [1]: https://en.wikipedia.org/wiki/Sake_bomb
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>9102</PostId>
+			<ParentPostId>4990</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-04T02:32:41.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any documetation on the origins of the Sake Bomb?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>9103</PostId>
+			<ParentPostId>4990</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-04T02:32:41.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					beer-cocktails, sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Title" >
+			<PostId>9104</PostId>
+			<ParentPostId>4990</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-04T02:46:41.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there any documentation on the origins of the Sake Bomb?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Body" >
+			<PostId>9110</PostId>
+			<ParentPostId>4990</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-05T01:51:07.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				added 138 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there any confirmed documentation on the origins of the [sake bomb?][1]
+
+					&gt; The sake bomb or sake bomber is a beer cocktail made by pouring sake into a shot glass and dropping it into a glass of beer. (Wikipedia)
+
+					  [1]: https://en.wikipedia.org/wiki/Sake_bomb
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>9709</PostId>
+			<ParentPostId>4990</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-26T20:09:47.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/747159945800466432
+			</EditDetails>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>13553</PostId>
+			<ParentPostId>7119</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T21:35:12.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7429</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Sake is commonly known as "wine rice". But the process of obtaining sake is more similar to the beer one, according to Wikipedia. And its alcohol content is closer to a spirit drink. 
+
+					Why is called wine then? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>13554</PostId>
+			<ParentPostId>7119</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T21:35:12.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7429</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is sake a wine, beer or spirit drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>13555</PostId>
+			<ParentPostId>7119</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T21:35:12.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7429</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Unknown" >
+			<PostId>13558</PostId>
+			<ParentPostId>7119</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-15T20:49:50.233</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/941772307214856198
+			</EditDetails>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Body" >
+			<PostId>13636</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-09T16:32:56.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I found a bottle of Sake in my grandfathers basement.
+
+					[![Picture of the Sake box I found][1]][1]
+
+
+					As there are no latin characters indicating the age of the bottle (and I don't speak japanese), I used google Translator and found the following on a card which I assume can be sent back to the manufacturer to give feedback.
+
+					&gt; 差出有効期間昭和45年12月14日迄（切手はいりません）
+
+					which is translated to:
+
+					&gt; Sent validity period Until December 14, 1970 (stamps are not required)
+
+					So I guess it must be produced somewhere around 1970
+
+
+					Does sake age well?
+
+					Can I sell the bottle, as in: is it worth anything due to its age?
+
+					How do I know if I can still drink it safely?
+
+					  [1]: https://i.stack.imgur.com/z5Dd5.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Title" >
+			<PostId>13637</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-09T16:32:56.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What to do with 50 (?) years old Sake
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Tags" >
+			<PostId>13638</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-09T16:32:56.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					aging, sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Body" >
+			<PostId>13640</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-10T07:55:03.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I found a bottle of sake in my grandfathers basement.
+
+					[![Picture of the sake box I found][1]][1]
+
+
+					As there are no Latin characters indicating the age of the bottle (and I don't speak Japanese), I used google Translator and found the following on a card which I assume can be sent back to the manufacturer to give feedback.
+
+					&gt; 差出有効期間昭和45年12月14日迄（切手はいりません）
+
+					which is translated to:
+
+					&gt; Sent validity period Until December 14, 1970 (stamps are not required)
+
+					So I guess it must be produced somewhere around 1970
+
+					Does sake age well?
+
+					Can I sell the bottle, as in: is it worth anything due to its age?
+
+					How do I know if I can still drink it safely?
+
+					  [1]: https://i.stack.imgur.com/z5Dd5.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Title" >
+			<PostId>13641</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-10T07:55:03.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What to do with 50 (?) years old sake?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Tags" >
+			<PostId>13642</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-10T07:55:03.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, aging, sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>13653</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-17T04:33:45.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/953485469085589505
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>13977</PostId>
+			<ParentPostId>7260</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-30T17:42:21.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7753</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have an already opened bottle of sake in my possession that I'd like to drink. I opened it roughly two years ago. Due to its relatively low alcohol content (15%) I wonder if it's still safe to drink.
+
+					If it isn't, is it safe for cooking?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>13978</PostId>
+			<ParentPostId>7260</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-30T17:42:21.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7753</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is a bottle of Sake that was open for roughly two years safe to drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>13979</PostId>
+			<ParentPostId>7260</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-30T17:42:21.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7753</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Body" >
+			<PostId>13980</PostId>
+			<ParentPostId>7260</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-30T17:52:49.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7753</UserId>
+			</Contributors>
+			<EditDetails>
+				added 42 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have an already opened bottle of sake in my possession that I'd like to drink. I opened it roughly two years ago, it was sealed with a simple screw-cap and stored at room temperature. Due to its relatively low alcohol content (15%) I wonder if it's still safe to drink.
+
+					If it isn't, is it safe for cooking?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>13985</PostId>
+			<ParentPostId>7260</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-01T22:23:07.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/991442919667232775
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>14493</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T19:07:37.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I received a very large bottle of Sake, but have not opened it because I am sure I can't drink it all quickly.  Once I open it how long can I expect it to last, and what's the best way to keep it good for the longest possible. 
+
+					What temperature should it be stored at, and what's the best temperate when drinking it?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>14494</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T19:07:37.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long does an open bottle of Sake last?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>14495</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T19:07:37.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Edit Tags" >
+			<PostId>14499</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T23:21:44.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					storage, temperature, sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>14539</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T18:01:14.023</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1031239679960670208
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

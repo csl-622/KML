@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>6860</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:16:54.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently, CNN listed the `Smith Street Tap` from the **Good Beer Company** in Singapore as one of the world's greatest bar (http://www.cntraveler.com/galleries/2015-07-21/the-greatest-bars-in-the-world/23).
+
+					Also, locally known, **Brewerkz** http://www.brewerkz.com/ serves some good craft beer.
+
+					After some internet searches, I found **Jungle Beer** that is a mircobrew: http://www.junglebeer.com/
+
+					Other than the 3 sources listed above, where else can one get craft/microbrewery beer in Singapore?
+
+					Are there other microbreweries in Singapore? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>6861</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:16:54.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft beers and Microbreweries in Singapore?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>6862</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:16:54.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>14200</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:19.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, singapore, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,742 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>11464</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T13:24:18.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Most places celebrate the [Feast of the Epiphany][1] on January 6. 
+
+					Are there any local, traditional drinks that exist that people have as a way celebrating this feast in a local and traditional manner?
+
+
+
+
+					  [1]: https://en.wikipedia.org/wiki/Epiphany_(holiday)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>11465</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T13:24:18.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Traditional drinks for celebrating the Feast of the Epiphany?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>11466</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T13:24:18.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					local, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>11467</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T15:23:20.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Made an update.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Most places celebrate the [Feast of the Epiphany][1] on January 6. 
+
+					Are there any local, traditional drinks that exist that people have as a way celebrating this feast in a local and traditional manner?
+
+					Update: I am limiting this question to wines.
+
+
+
+
+					  [1]: https://en.wikipedia.org/wiki/Epiphany_(holiday)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Tags" >
+			<PostId>11468</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T15:35:42.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					local, drinking, wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>11471</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T16:16:39.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/811606314715582471
+			</EditDetails>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>11507</PostId>
+			<ParentPostId>6451</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-26T15:40:14.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					From what I googled I didn't get an answer as to why Eggnog is considered a holiday drink.  Is it still a holiday drink today?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>11508</PostId>
+			<ParentPostId>6451</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-26T15:40:14.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Eggnog: is it really a holiday drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>11509</PostId>
+			<ParentPostId>6451</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-26T15:40:14.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					christmas, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Body" >
+			<PostId>11510</PostId>
+			<ParentPostId>6451</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-26T19:15:16.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				added 37 characters in body; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					From what I googled I didn't get an answer as to why Eggnog is considered a holiday drink.  Why is it associated with Christmas? Is it still a holiday drink today?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Tags" >
+			<PostId>11511</PostId>
+			<ParentPostId>6451</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-26T19:15:16.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				added 37 characters in body; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					holidays, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>11550</PostId>
+			<ParentPostId>6468</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-02T18:17:58.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the National Drinking Holidays? And, for what respective country? i.e.: Oktoberfest for Germany
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>11551</PostId>
+			<ParentPostId>6468</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-02T18:17:58.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there National Drinking Holidays?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>11552</PostId>
+			<ParentPostId>6468</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-02T18:17:58.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, holidays, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Tags" >
+			<PostId>11559</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-03T06:01:53.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<EditDetails>
+				adding holidays and history tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, local, drinking, wine, holidays, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>11560</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-03T06:01:53.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5847 approved by 5064 edit id of 287
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>11562</PostId>
+			<ParentPostId>6468</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-03T17:09:30.343</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/816330658683518977
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>11596</PostId>
+			<ParentPostId>6451</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-09T05:37:34.230</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/818330855269683201
+			</EditDetails>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Body" >
+			<PostId>11972</PostId>
+			<ParentPostId>6602</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-26T17:09:37.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So,  we have [shrove][1] tuesday.  But what should we serve with our pancakes?  I am thinking a nice [cognac][2] .
+
+					If you don't know how to make a pancake, you can learn [here][3].  Then add the drink of your choice.  What is your choice?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Shrove_Tuesday
+					  [2]: http://www.cognac.com/
+					  [3]: http://www.foodnetwork.com/how-to/articles/how-to-make-perfect-pancakes
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Title" >
+			<PostId>11973</PostId>
+			<ParentPostId>6602</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-26T17:09:37.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Shrove Tuesday - what alcohol can I serve with my pancakes?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Tags" >
+			<PostId>11974</PostId>
+			<ParentPostId>6602</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-26T17:09:37.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cooking, alcohol, pancakes, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Edit Tags" >
+			<PostId>11976</PostId>
+			<ParentPostId>6602</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-26T20:53:54.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					pairing, holidays, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>11979</PostId>
+			<ParentPostId>6602</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-27T13:13:57.380</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/836202712480026624
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>12581</PostId>
+			<ParentPostId>6771</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-14T13:37:45.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					We all know that Christmas Beers exist  as can be seen in this article: [25 Beers of Christmas][1]. By a Christmas beer, most interpret this to be a seasonal beer.
+
+					As such I would like to know if there are any seasonal Easter Beers exist for [Eastertide][2], especially any national ones?
+
+
+					  [1]: http://twentyfivebeersofchristmas.tumblr.com/
+					  [2]: https://en.wikipedia.org/wiki/Eastertide
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>12582</PostId>
+			<ParentPostId>6771</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-14T13:37:45.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do Easter Beers exist?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>12583</PostId>
+			<ParentPostId>6771</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-14T13:37:45.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Edit Body" >
+			<PostId>12584</PostId>
+			<ParentPostId>6771</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-14T14:16:45.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				added 5 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					We all know that Christmas Beers exist  as can be seen in this article: [25 Beers of Christmas][1]. By a Christmas beer, most interpret this to be a seasonal beer.
+
+					As such I would like to know if there are any seasonal Easter Beers that exist for [Eastertide][2], especially any national ones?
+
+
+					  [1]: http://twentyfivebeersofchristmas.tumblr.com/
+					  [2]: https://en.wikipedia.org/wiki/Eastertide
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Edit Tags" >
+			<PostId>12600</PostId>
+			<ParentPostId>6771</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-16T13:14:52.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					specialty-beers, holidays, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Unknown" >
+			<PostId>12602</PostId>
+			<ParentPostId>6771</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-16T15:22:33.863</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/853629695291797504
+			</EditDetails>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Body" >
+			<PostId>12743</PostId>
+			<ParentPostId>6834</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-13T13:43:19.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there some  unique drinks out there to pair with Halloween in order to make it truly memorial?
+
+					We like having a Halloween party in an area with some so called haunted houses and where stories of Sasquatches abound. we have a grand old time with stories, movies and eats the whole week of *Hell Week* (the week leading up to Halloween).
+
+					For my part, I would like to bring the following eats to our evening soirees:
+
+					 - My own variation of the [Croque Monsieur][1]. The béchamel sauce that I make contains enough  *Keens Mustard* to make your eyes weep and your nose run. These are best served warm to hot, but can be eaten cold.
+					 - [Mummy Dogs][2] or something resembling [Piggy Coffins][3].
+					 - **Green pasta** salad dish of sorts.
+					 - [Stuffed Jack-O-Lanterns Bell Peppers][4] which after my *Croque Monsieurs* are my favorite.
+
+ 
+
+  
+
+
+					  [1]: https://en.wikipedia.org/wiki/Croque-monsieur
+					  [2]: http://www.southernliving.com/food/holidays-occasions/
+					  [3]: http://www.thegastrognome.com/2012/10/14/halloween-food-piggy-coffins/
+					  [4]: http://allrecipes.com/recipe/180596/stuffed-jack-o-lantern-bell-peppers/?internalSource=hn_carousel%2001_Stuffed%20Jack-O-Lantern%20Bell%20Peppers&amp;referringId=17275&amp;referringContentType=recipe%20hub&amp;referringPosition=carousel%2001
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Title" >
+			<PostId>12744</PostId>
+			<ParentPostId>6834</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-13T13:43:19.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Unique drinks to make Halloween memorial?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Tags" >
+			<PostId>12745</PostId>
+			<ParentPostId>6834</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-13T13:43:19.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pairing, drink, holidays, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Edit Body" >
+			<PostId>13298</PostId>
+			<ParentPostId>6834</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-09T16:15:28.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any unique drinks out there to pair with Halloween in order to make it truly memorial?
+
+					We like having a Halloween party in an area with some so called haunted houses and where stories of Sasquatches abound. we have a grand old time with stories, movies and eats the whole week of *Hell Week* (the week leading up to Halloween).
+
+					For my part, I would like to bring the following eats to our evening soirees:
+
+					 - My own variation of the [Croque Monsieur][1]. The béchamel sauce that I make contains enough  *Keens Mustard* to make your eyes weep and your nose run. These are best served warm to hot, but can be eaten cold.
+					 - [Mummy Dogs][2] or something resembling [Piggy Coffins][3].
+					 - **Green pasta** salad dish of sorts.
+					 - [Stuffed Jack-O-Lanterns Bell Peppers][4] which after my *Croque Monsieurs* are my favorite.
+
+ 
+
+  
+
+
+					  [1]: https://en.wikipedia.org/wiki/Croque-monsieur
+					  [2]: http://www.southernliving.com/food/holidays-occasions/
+					  [3]: http://www.thegastrognome.com/2012/10/14/halloween-food-piggy-coffins/
+					  [4]: http://allrecipes.com/recipe/180596/stuffed-jack-o-lantern-bell-peppers/?internalSource=hn_carousel%2001_Stuffed%20Jack-O-Lantern%20Bell%20Peppers&amp;referringId=17275&amp;referringContentType=recipe%20hub&amp;referringPosition=carousel%2001
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Edit Body" >
+			<PostId>13301</PostId>
+			<ParentPostId>6834</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-13T02:53:35.237</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any unique drinks out there to pair with Halloween in order to make it truly memorable?
+
+					We like having a Halloween party in an area with some so called haunted houses and where stories of Sasquatches abound. we have a grand old time with stories, movies and eats the whole week of *Hell Week* (the week leading up to Halloween).
+
+					For my part, I would like to bring the following eats to our evening soirees:
+
+					 - My own variation of the [Croque Monsieur][1]. The béchamel sauce that I make contains enough  *Keens Mustard* to make your eyes weep and your nose run. These are best served warm to hot, but can be eaten cold.
+					 - [Mummy Dogs][2] or something resembling [Piggy Coffins][3].
+					 - **Green pasta** salad dish of sorts.
+					 - [Stuffed Jack-O-Lanterns Bell Peppers][4] which after my *Croque Monsieurs* are my favorite.
+
+ 
+
+  
+
+
+					  [1]: https://en.wikipedia.org/wiki/Croque-monsieur
+					  [2]: http://www.southernliving.com/food/holidays-occasions/
+					  [3]: http://www.thegastrognome.com/2012/10/14/halloween-food-piggy-coffins/
+					  [4]: http://allrecipes.com/recipe/180596/stuffed-jack-o-lantern-bell-peppers/?internalSource=hn_carousel%2001_Stuffed%20Jack-O-Lantern%20Bell%20Peppers&amp;referringId=17275&amp;referringContentType=recipe%20hub&amp;referringPosition=carousel%2001
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Edit Title" >
+			<PostId>13302</PostId>
+			<ParentPostId>6834</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-13T02:53:35.237</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Unique drinks to make Halloween memorable?
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

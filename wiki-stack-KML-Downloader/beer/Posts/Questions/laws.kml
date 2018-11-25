@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>220</PostId>
+			<AcceptedAnswerId>226</AcceptedAnswerId>
+			<Title>
+			"Why can't bars sell their in house brewed beers?"
+			</Title>
+			<Tags>
+				<tag>local</tag>
+				<tag>laws</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>565</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T19:39:33.820</CreationDate>
+				<LastActivityDate>2014-01-22T20:12:55.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>36</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;We've got this local bar that brews their own beer but when I tried to buy a bottle to take home they said they were only allowed to serve the in house beer, not sell it. If the state of Florida issued them a liquor license to serve and sell beer, why can't they sell what they make?&lt;/p&gt;
+
+					&lt;p&gt;Just to be clear by sell I mean sell me a bottle and let me walk out with it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>381</PostId>
+			<Title>
+			"Do open container laws in the U.S. apply to non-alcoholic beers?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>3228</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T15:39:56.967</CreationDate>
+				<LastActivityDate>2014-01-28T18:42:21.053</LastActivityDate>
+				<ClosedDate>2014-01-29T01:35:41.087</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Do &lt;a href="http://en.wikipedia.org/wiki/United_States_open_container_laws"&gt;open container laws in the U.S.&lt;/a&gt; apply to non-alcoholic beers? (Open container laws do &lt;a href="http://en.wikipedia.org/wiki/File%3aUSA-open-container-law-path2006-2.svg"&gt;vary from state to state&lt;/a&gt; but there may be a general consensus on definitions, &lt;em&gt;e.g.&lt;/em&gt; the definition of "an alcoholic beverage." Focusing on the most populous states, California, Texas, New York, and Florida may be a good estimator of widely-applicable laws.)&lt;/p&gt;
+
+					&lt;p&gt;I'm not looking for speculation (however logical) &lt;em&gt;e.g.&lt;/em&gt; &lt;i&gt;"Non-alcoholic beers still have alcohol and are therefore subject to the same laws,"&lt;/i&gt; or &lt;em&gt;"Non-alcoholic beers can't be purchased by minors, therefore [...],"&lt;/em&gt; only citations of state laws or on-the-record statements by law enforcement officials.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>383</PostId>
+			<AcceptedAnswerId>388</AcceptedAnswerId>
+			<Title>
+			"Can a brewery in California fill any growler?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>growlers</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>2281</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T18:38:59.933</CreationDate>
+				<LastActivityDate>2014-01-28T21:12:26.563</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There has been some confusion around the laws regarding "refillable containers" in California.  At times, I have been told that a brewery &lt;em&gt;cannot&lt;/em&gt; refill another brewery's growler.  At other times, I have been told that a brewery &lt;em&gt;may&lt;/em&gt; (or by their discretion, may not) refill.  I own growlers from at least 3 different breweries, and I have friends who have many more -- it makes sense to me that I should be able to take any clean container to a brewery which offers growlers, and have it filled.&lt;/p&gt;
+
+					&lt;p&gt;What do the actual laws of California state, regarding who can refill and into what vessels?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>430</PostId>
+			<AcceptedAnswerId>431</AcceptedAnswerId>
+			<Title>
+			"What is the German Beer Purity Law?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>laws</tag>
+				<tag>german-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>17</Score>
+				<ViewCount>1816</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T20:49:01.653</CreationDate>
+				<LastEditDate>2014-01-29T21:36:58.333</LastEditDate>
+				<LastActivityDate>2014-01-29T21:36:58.333</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I see some US beers advertising that they brew according to the "German Beer Purity Law."  What is that, and is it still relevant today?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>448</PostId>
+			<Title>
+			"United States Beer Shipping Laws"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>united-states</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>434</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>9</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-30T17:52:46.343</CreationDate>
+				<LastEditDate>2014-01-30T20:38:34.700</LastEditDate>
+				<LastActivityDate>2014-01-30T23:07:44.097</LastActivityDate>
+				<ClosedDate>2014-02-07T05:39:37.957</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>233</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Does anyone know about the laws when it comes to shipping beers to individual states?&lt;/p&gt;
+
+					&lt;p&gt;I am from Kentucky, which does not allow an individual to have alcohol shipped directly to their home address.&lt;/p&gt;
+
+					&lt;p&gt;Is there a way around this?
+					Are the states doing anything that may legalize this?&lt;/p&gt;
+
+					&lt;p&gt;I would love to start being able to participate in beer of the month clubs.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>472</PostId>
+			<AcceptedAnswerId>477</AcceptedAnswerId>
+			<Title>
+			"Why is beer regulated differently than other types of alcohol?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>laws</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>1352</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-31T19:49:17.750</CreationDate>
+				<LastActivityDate>2014-02-03T08:57:40.450</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>36</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In the US there are tons of rules about alcohol that vary widely from state to state and at the federal level. For example you can brew your own beer in most states but you have to have a license for liquor. Similarly, wine tastings are usually OK but beer tastings are illegal in many places.&lt;/p&gt;
+
+					&lt;p&gt;I'm not asking about the specifics of how each law came to be, that would take an encyclopedia. Rather, I want to know if there was an overall philosophy that drove regulating beer differently from other alcohol. Did different companies or industry groups lobby for laws that benefited their product over other companies products? Was there an overall public sentiment that drove the differences?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>532</PostId>
+			<AcceptedAnswerId>533</AcceptedAnswerId>
+			<Title>
+			"Why do corking fees exist?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>2737</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>7</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-04T22:56:54.107</CreationDate>
+				<LastActivityDate>2016-12-03T16:43:59.587</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>63</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've been to multiple combination bars/beer stores, where you can either buy bottles to go, or drink them on premises. If you buy a bottle to go, it costs the base price, but if you buy one to drink there, you have to pay an additional "corking" fee.  Is this due to licensing or tax laws, or just a way for a store to make a quick extra buck?  I know that restaurants will charge you this same type of fee if you bring in your own bottle of wine, but I don't understand why a beer store would charge you this for drinking a bottle of beer that you bought from them.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>546</PostId>
+			<AcceptedAnswerId>547</AcceptedAnswerId>
+			<Title>
+			"Why are half gallon growlers illegal in Florida?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>growlers</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>2144</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-05T16:24:39.500</CreationDate>
+				<LastActivityDate>2014-02-05T17:52:31.130</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>36</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Florida has a strange bottling law that allows growlers in 32 oz and 128 oz sizes but not 64 oz. People have tried to get the law changed but so far it's failed. How did the 64 oz size come to be illegal and what is the rationale for not legalizing it?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>665</PostId>
+			<Title>
+			"What are the specific laws regarding growler fills in Massachusetts?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>growlers</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>1887</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-15T03:07:13.767</CreationDate>
+				<LastActivityDate>2014-03-18T14:44:45.550</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm headed up to Boston next weekend for an event, and was planning to take up a few empty (or maybe full!) growlers to fill with interesting and delicious things from some of the local breweries up in the area. However, I've heard that MA has some fairly restrictive laws regarding fills (i.e., that breweries are not able to fill growlers other than those with their own logo/which they themselves distribute). This is baffling and monstrous to me coming from NY, where just about anyplace that's willing to can fill just about any appropriately sized bottle I bring up to the tap with me.&lt;/p&gt;
+
+					&lt;p&gt;What exactly are the rules regarding growler refills in Massachusetts? Do they differ if I am looking to get a fill at a bar or retail store, rather than direct from a brewery? Are there size restrictions?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>854</PostId>
+			<AcceptedAnswerId>857</AcceptedAnswerId>
+			<Title>
+			"In the United States, is a beer required to state ABV on the bottle/label?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>stout</tag>
+				<tag>abv</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>10616</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-05T21:22:58.623</CreationDate>
+				<LastActivityDate>2017-12-24T22:14:49.780</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>803</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently purchased a Dogfish Head World Wide Stout. I bought it on a whim because 1. I was looking for a stout, and 2. I typically enjoy Dogfish Head. Only after I got home and looked it up did I realize it has an ABV of roughly 18%. Then I checked the bottle and realized that no where on it does it state the ABV. I found that quite strange especially considering "liquor", by law, must state such information.&lt;/p&gt;
+
+					&lt;p&gt;So are fermented drinks simply exempt from having to state this info? I've never come across another beer that did not state ABV on it -- let alone one with 18%.&lt;/p&gt;
+
+					&lt;p&gt;(P.S. It was a delicious beer.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>921</PostId>
+			<AcceptedAnswerId>932</AcceptedAnswerId>
+			<Title>
+			"How does the PA liquor control board decide which beers can be sold in the state?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>united-states</tag>
+				<tag>distribution</tag>
+				<tag>pennsylvania</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>387</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-13T16:21:23.767</CreationDate>
+				<LastEditDate>2014-07-14T12:39:05.053</LastEditDate>
+				<LastActivityDate>2014-07-16T16:41:04.553</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+				<LastEditorUserId>909</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I live in Pennsylvania, where the folks in charge cling desperately to the last vestiges of Prohibition, with a protection racket on the side.  What this means is that the state heavily regulates alcohol import and distribution.  Wine and hard alcohol can only be bought from stores run by the state, and beer is largely sold through licensed distributors.  (I'm not counting ordering single servings in bars/restaurants; that's a separate matter.)&lt;/p&gt;
+
+					&lt;p&gt;I recently learned that PLCB (PA Liquor Control Board) has opinions on which beers can be sold in the state.  On a recent trip out of town I had a local beer that I liked, but it's not on &lt;a href="http://www.lcbapps.lcb.state.pa.us/webapp/registered_brands.asp"&gt;the approved list&lt;/a&gt; so I can't buy it here.  This led me to wonder how PLCB decides -- is there some sort of certification they depend on, or does it depend on breweries paying a fee to sell in Pennsylvania, or what?  I could find nothing on their web site that explains how these decisions are made.&lt;/p&gt;
+
+					&lt;p&gt;How does the PLCB decide what beers I'm allowed to buy here?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>930</PostId>
+			<AcceptedAnswerId>931</AcceptedAnswerId>
+			<Title>
+			"Are growlers considered open containers?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>growlers</tag>
+				<tag>pennsylvania</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>1590</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-16T13:42:46.053</CreationDate>
+				<LastActivityDate>2014-07-30T23:06:58.487</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>798</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;My local brewery fills growlers and just adds a twist-off cap to the top. They do not place any kind of seal or sticker on the cap to prove it hasn't been opened.&lt;/p&gt;
+
+					&lt;p&gt;So if I get pulled over for whatever reason and the cop sees the growler, in say, the backseat, is this considered a crime? Even if the growler hasn't been opened since it was filled and no beer was removed?&lt;/p&gt;
+
+					&lt;p&gt;What makes this different than a six pack with twist off caps?&lt;/p&gt;
+
+					&lt;p&gt;I live in Pennsylvania, so answers from a PA perspective will be most useful, but even just a general feel from law enforcement's view would be helpful.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>986</PostId>
+			<AcceptedAnswerId>1088</AcceptedAnswerId>
+			<Title>
+			"Why do some grocery stores in Colorado have regular beer and liquor but some only sell 3.2% beer?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>3.2-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>16205</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-15T21:20:31.147</CreationDate>
+				<LastActivityDate>2015-12-25T12:28:40.823</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1219</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I live in Denver, Colorado and I have noticed many grocery stores will have full a liquor selection and normal alcohol content beer, but others will only sell 3.2% beer and no liquor.  This goes even for the same chain of stores.  For example, Safeway will carry a full liquor selection at one location but only 3.2% beer at another.  &lt;/p&gt;
+
+					&lt;p&gt;This seems to apply to every chain in town including: King Soopers, Safeway, Walmart, Target, etc.  Therefore I am wondering if there is a law limiting this?  If so, what are the details?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>1061</PostId>
+			<Title>
+			"Selling/buying limited edition beers online"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>501</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-10-26T09:45:56.910</CreationDate>
+				<LastActivityDate>2014-10-27T15:12:45.380</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1426</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have some opened and unopened beer bottles that are limited edition and is not produced anymore.&lt;/p&gt;
+
+					&lt;p&gt;I would like to ask if there is any online store like &lt;em&gt;eBay&lt;/em&gt; where I could sell these beers,  opened empty bottles is OK to sell anywhere, but full bottles with an alcohol cannot be sold depending on privacy policies.&lt;/p&gt;
+
+					&lt;p&gt;So does anyone knows some kind of place to make such deal?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>2127</PostId>
+			<Title>
+			"Why is beer in Czech Republic so cheap?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>2096</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-11T08:41:37.863</CreationDate>
+				<LastActivityDate>2017-07-02T15:46:05.403</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2603</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently traveled to Prague where beer was extremely cheap, usually around $1-$2 USD in supermarkets for 16 oz. cans. Even brands like Heineken and Stella were this cheap. What are the main factors for this?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>3393</PostId>
+			<Title>
+			"Who made commercialization of beer possible"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>specialty-beers</tag>
+				<tag>laws</tag>
+				<tag>local</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>157</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-03T10:25:20.410</CreationDate>
+				<LastEditDate>2015-06-03T12:21:29.467</LastEditDate>
+				<LastActivityDate>2015-06-03T13:25:06.927</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2647</OwnerUserId>
+				<LastEditorUserId>2647</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Who was the person or company that made beer selling commercial .&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>4900</PostId>
+			<AcceptedAnswerId>4901</AcceptedAnswerId>
+			<Title>
+			"What are reasons to not sell alcohol free beer to minors?"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>laws</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>573</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-03-24T09:28:38.067</CreationDate>
+				<LastEditDate>2016-03-25T16:31:43.907</LastEditDate>
+				<LastActivityDate>2016-03-30T17:23:44.690</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In The Netherlands, the law also prevents selling alcohol free beer to minors.&lt;/p&gt;
+
+					&lt;p&gt;What can be reasons for this? Is alcohol free beer also addictive, and does it therefore attract minors to much to alcoholic beer? Or does alcohol free beer contain a substance that is also harmful to the (young) brain?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>6864</PostId>
+			<Title>
+			"Should all countries have strict wine laws, like France does?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>laws</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>81</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>7</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-05-29T10:31:16.110</CreationDate>
+				<LastEditDate>2017-05-30T12:12:28.137</LastEditDate>
+				<LastActivityDate>2017-05-30T12:12:28.137</LastActivityDate>
+				<ClosedDate>2017-05-30T17:41:37.700</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6778</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You can tell that the French take their wine seriously because of their wine laws. It may only be called Pomerol if it is from a small set of vineyards, and harvested by virgins at full moon at the south side of the hill or something rather. Very serious. But the wines are very good, and the Appellation Controlée does provide a degree of customer protection and quality guarantee that seems to work.&lt;/p&gt;
+
+					&lt;p&gt;I live in Australia myself and although one of the most expensive wines comes from this country (Grange), I'm often left with a vaguely unsettled head and stomach after drinking Ozzie wine (no I can't afford Grange). Never a problem with European wines, or Argentinean organic ones for that matter. And other than prohibiting contamination with proven poisonous chemicals, there seem to be very few laws in making wine in most countries, I believe the same goes for American wine. It's allowed to boil wood chips and mix the extract with the wine to create a woody flavour, for instance, forget about rising in casks.&lt;/p&gt;
+
+					&lt;p&gt;So after this rather lengthy introduction, here is my question. How come that this vital issue escapes our attention? Why don't all of us demand strict wine laws? What should it be anything else than crushed grapes that have fermented with the little yeasty boys that live on the grape skins?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>6976</PostId>
+			<Title>
+			"Are there any public APIs that will help determine the legality of a location to get Beer-Wine-Spirits delivered?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>united-states</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>171</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-04T16:51:57.173</CreationDate>
+				<LastActivityDate>2017-09-04T23:45:12.367</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6996</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Am after APIs that will in real-time help me understand by way of providing such APIs with the following inputs:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;Store/Location Address/Geocoordinates of the location&lt;/li&gt;
+					&lt;li&gt;Customer Address for receiving the delivery of Beer-Wine-Spirits (BWS)&lt;/li&gt;
+					&lt;li&gt;Provide such an API with a slew of inputs like time of day and day of the week and the pointers discussed in 1 and 2 and the incumbent API should come back and tell me whether I can proceed onto delivering Beer-Wine-Spirits?&lt;/li&gt;
+					&lt;li&gt;From Point 3, the API should also tell me whether I can ONLY deliver Beer or Wine or Spirits or All or what are the appropriate restrictions&lt;/li&gt;
+					&lt;/ol&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>7058</PostId>
+			<Title>
+			"Why are spirits typically 40% ABV?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>spirits</tag>
+				<tag>abv</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>223</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-03T19:23:40.507</CreationDate>
+				<LastEditDate>2017-11-04T11:02:09.943</LastEditDate>
+				<LastActivityDate>2017-11-08T09:54:11.327</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7238</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I live in France. I've found that at least cheaper (supermarket) spirits are almost always exactly 40% ABV. You can find stronger if you buy more niche or expensive alcohols like Chartreuse, but the vast majority seems to be precisely 40, unlike say wine or beer which varies more smoothly.&lt;/p&gt;
+
+					&lt;p&gt;Is there a reason for this? Is 40% the legal minimum to be able to call something whiskey or vodka, for instance? Or am I just flat wrong, and there's no statistical trend towards 40%?&lt;/p&gt;
+
+					&lt;p&gt;I realize the correct answer may vary from country to country. I'll be happy with an answer covering any "comparable" first world country (let's just say English speaking countries or West Europe, for simplicity).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType="question">
+			<PostId>7066</PostId>
+			<Title>
+			"Why is Sam Adam's high ABV beer illegal to sell in several US states?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>united-states</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>91</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-11T20:36:16.730</CreationDate>
+				<LastEditDate>2017-12-14T11:13:56.970</LastEditDate>
+				<LastActivityDate>2017-12-14T11:13:56.970</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7261</OwnerUserId>
+				<LastEditorUserId>7272</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Not even compared to absinth, even SKYY vodka has a higher ABV and we well that everywhere.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The end result is a 28 percent alcohol-by-volume beer that's void of any carbonation. According to Forbes, Utopias is illegal to sell in 11 states because it's so alcoholic.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;a href="http://www.dentonrc.com/news/denton/2017/11/10/200-beer-reportedly-illegal-11-states-texas" rel="nofollow noreferrer"&gt;This $200 beer is reportedly illegal in 11 states, but not Texas&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

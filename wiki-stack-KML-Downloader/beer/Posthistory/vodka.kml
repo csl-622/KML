@@ -1,0 +1,1060 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>8233</PostId>
+			<ParentPostId>4675</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-05T11:10:18.550</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1321</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it safe to mix small quantity of vodka with beer.
+
+					any dare devils who had tried cocktails on their beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>8234</PostId>
+			<ParentPostId>4675</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-05T11:10:18.550</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1321</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Mixing vodka with beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>8235</PostId>
+			<ParentPostId>4675</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-05T11:10:18.550</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1321</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, foreign-beer, 3.2-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>8246</PostId>
+			<ParentPostId>4675</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-06T18:46:55.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Removed irrelevant tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					beer-cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>9371</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T06:52:39.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The title is already the question.
+
+					How comes that i sleep well after drinking beer but i sleep terrible after drinking vodka?
+
+					I talk about 2 - 3 german 5,5% beer and about 100 - 200 ml vodka.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>9372</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T06:52:39.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How comes that i sleep well after drinking beer but i sleep terrible after drinking vodka?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>9373</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T06:52:39.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Body" >
+			<PostId>9374</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, addine two words to each and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					The title is already the question.
+
+					How is it that I sleep well after drinking beer but I sleep terrible after drinking vodka?
+
+					I am talking  about 2 - 3 German 5,5% beer and about 100 - 200 ml vodka.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Title" >
+			<PostId>9375</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, addine two words to each and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How is it that I sleep well after drinking beer, but I sleep terrible after drinking vodka?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>9376</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, addine two words to each and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					german-beers, foreign-beer, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>9377</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5530 edit id of 204
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Tags" >
+			<PostId>9489</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:47:02.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, german-beers, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>9608</PostId>
+			<ParentPostId>5154</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-20T00:26:09.393</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5576</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In ancient Russia the way to measure "proper" strong spirits was to burn it - if the volume decreased by half than it was considered right one. How can I convert this into modern days alcohol percentage? Also, as a side note, how accurate this conversion would be? I mean which factors besides actual alcohol percentage would affect the process - ambient temperature? humidity? atmospheric pressure? And to which degree: +-1%? 5%?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>9609</PostId>
+			<ParentPostId>5154</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-20T00:26:09.393</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5576</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Burned volume to alcohol percentage
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>9610</PostId>
+			<ParentPostId>5154</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-20T00:26:09.393</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5576</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					alcohol-level, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Tags" >
+			<PostId>9623</PostId>
+			<ParentPostId>5154</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-20T06:56:36.210</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, alcohol-level, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>9624</PostId>
+			<ParentPostId>5154</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-20T06:56:36.210</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5078 edit id of 263
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>10987</PostId>
+			<ParentPostId>6268</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-31T12:02:53.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I do not have much options in beer variety and therefore I need some good cocktail of beer with vodka/tequila or some other good choice to make it good for a party
+
+					Is there any way to mix things up   
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>10988</PostId>
+			<ParentPostId>6268</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-31T12:02:53.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					a good cocktail
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>10989</PostId>
+			<ParentPostId>6268</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-31T12:02:53.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					beer-cocktails, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Body" >
+			<PostId>10990</PostId>
+			<ParentPostId>6268</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-31T12:15:09.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added two words to title for clarity and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I do not have much options in beer variety and therefore I need some good cocktail of beer with vodka/tequila or some other good choice to make it good for a party.
+
+					Is there any way to mix things up?   
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Edit Title" >
+			<PostId>10991</PostId>
+			<ParentPostId>6268</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-31T12:15:09.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added two words to title for clarity and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Beer cocktail recommendation
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Tags" >
+			<PostId>10992</PostId>
+			<ParentPostId>6268</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-31T12:15:09.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added two words to title for clarity and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, beer-cocktails, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>11693</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-07T17:55:01.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					OK, so without sounding rather pathetic, I am allergic to a lot of things.  Without going into too much detail, wines and beers are out.  I tend to stick to the known - gin and rum.  I cannot drink anything fermented, but would like a nice tipple with my meal - any suggestions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>11694</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-07T17:55:01.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What can I drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>11695</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-07T17:55:01.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, gin, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Post Closed" >
+			<PostId>11697</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T03:21:07.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":5064,"DisplayName":"Ken Graham"},{"Id":43,"DisplayName":"Monica Cellio"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Edit Body" >
+			<PostId>11698</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T05:26:39.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added 16 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What could be a good alternative to either rum or gin to have with an evening meal (or lunch).  I do not drink wine or beer.  Vodka is well, to my thinking, just vodka, so I would like to find something that has its own taste without overpowering the food that it accompanies.  Any suggestions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Edit Title" >
+			<PostId>11699</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T05:26:39.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added 16 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Alternatives to rum and gin to drink with meals
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Edit Tags" >
+			<PostId>11700</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T05:26:39.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added 16 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					wine, vodka, gin, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Post Reopened" >
+			<PostId>11702</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T07:47:38.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":5078,"DisplayName":"Jamie Eltringham"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>11790</PostId>
+			<ParentPostId>6543</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-17T20:17:18.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					There are some very expensive vodkas that are in pure crystal bottles, etc etc
+
+					I'm looking for a vodka that's so special it warrants an approximate $500 price tag where the money is going to the contents, not the weird/special/extreme bottle.
+
+					Bottle size somewhere around the standard 750ml- no 5 liter bottle please.
+
+					Anyone have a direction to point me?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>11791</PostId>
+			<ParentPostId>6543</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-17T20:17:18.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a legitimate ~$500 vodka out there whose price isn't based on the bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>11792</PostId>
+			<ParentPostId>6543</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-17T20:17:18.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>12004</PostId>
+			<ParentPostId>6543</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-28T13:30:18.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/836569214811004928
+			</EditDetails>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Body" >
+			<PostId>12136</PostId>
+			<ParentPostId>6647</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-08T06:25:08.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					With some Russian friends coming I intend upon serving caviar in the correct manner.  Here is a link to [The Telegraph's][1] idea of what I should be doing as far as the caviar is concerned.  However I know that my friends do not like Vodka!  What other alcoholic drink can I serve, yet keep the Russian feel?
+
+
+					  [1]: http://www.telegraph.co.uk/foodanddrink/recipes/4570382/Caviar-with-blini-and-the-works.html
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Title" >
+			<PostId>12137</PostId>
+			<ParentPostId>6647</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-08T06:25:08.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					An alternative to Vodka to pair with caviar
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Tags" >
+			<PostId>12138</PostId>
+			<ParentPostId>6647</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-08T06:25:08.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					recommendations, pairing, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Edit Body" >
+			<PostId>12139</PostId>
+			<ParentPostId>6647</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-08T07:29:51.930</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added pic
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					With some Russian friends coming I intend upon serving caviar in the correct manner.  Here is a link to [The Telegraph's][1] idea of what I should be doing as far as the caviar is concerned.  However I know that my friends do not like Vodka!  What other alcoholic drink can I serve, yet keep the Russian feel?
+
+					Here's the caviar - now what to drink?
+
+					[![enter image description here][2]][2]
+
+
+					  [1]: http://www.telegraph.co.uk/foodanddrink/recipes/4570382/Caviar-with-blini-and-the-works.html
+					  [2]: https://i.stack.imgur.com/rarFp.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Unknown" >
+			<PostId>12151</PostId>
+			<ParentPostId>6647</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-09T02:25:15.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/839663343208128512
+			</EditDetails>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Unknown" >
+			<PostId>12250</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T18:13:23.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/842801050373513216
+			</EditDetails>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Unknown" >
+			<PostId>12286</PostId>
+			<ParentPostId>6268</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-22T07:01:42.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/844443952749187072
+			</EditDetails>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Body" >
+			<PostId>12624</PostId>
+			<ParentPostId>6785</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T08:41:36.503</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I accept that one of the easiest ways to add flavor to vodka is simply to add a mixer or juice of some type, but that would be diluting it.  I also know that I can add fruits to the vodka itself which would infuse the vodka with a particular flavor.  Is there another way, say with some type of essential oil of some variety.  Overly sweet flavors should be avoided.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Title" >
+			<PostId>12625</PostId>
+			<ParentPostId>6785</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T08:41:36.503</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Adding flavor to vodka
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Tags" >
+			<PostId>12626</PostId>
+			<ParentPostId>6785</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T08:41:36.503</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Unknown" >
+			<PostId>12631</PostId>
+			<ParentPostId>6785</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-21T10:01:55.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/855360944205123584
+			</EditDetails>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Body" >
+			<PostId>12692</PostId>
+			<ParentPostId>6811</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-30T13:58:57.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently I posted a question ([here][1]) regarding adding flavor to vodka.  In my usual exuberance and non-scientific approach to matters I thought 'I know, to cut a few calories I will add Splenda'.  OK, the taste was OK, the orange and lemon peel that I steeped in the vodka gave the drink a nice, if not bitter taste.  I added splenda - and then experimented on myself (can't find anyone stupid enough to join me in these ventures!).  I drank the 'vodka' in the same manner (volume) as I would a standard vodka or gin.  Now, first morning after, the raging headache should have been sufficient - but looking for a more conclusive scientific result I tried the 'experiment' for a couple more nights, with the same results each following morning.  So, my question is:  Does adding an artificial sweetener to alcohol increase the chance of a hangover?
+
+
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/6785/adding-flavor-to-vodka
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Title" >
+			<PostId>12693</PostId>
+			<ParentPostId>6811</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-30T13:58:57.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Using 'splenda' in Vodka infusions. Serious headache!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Tags" >
+			<PostId>12694</PostId>
+			<ParentPostId>6811</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-30T13:58:57.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, vodka, hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Edit Body" >
+			<PostId>12785</PostId>
+			<ParentPostId>4675</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-21T15:38:26.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling, grammar and addedone tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is it safe to mix small quantity of vodka with beer.
+
+					Any there any dare devils who had tried cocktails on their beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Edit Tags" >
+			<PostId>12786</PostId>
+			<ParentPostId>4675</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-21T15:38:26.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling, grammar and addedone tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					vodka, beer-cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Question Protected" >
+			<PostId>13094</PostId>
+			<ParentPostId>4675</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-30T04:09:55.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Body" >
+			<PostId>13403</PostId>
+			<ParentPostId>7065</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-09T21:22:56.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5482</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I typically drink brown spirits, however, I have some vodka left over from a wedding party so I was wondering if there are any good vodka cocktail recipes which aren't too sweet (or have too many ingredients) and would be enjoyed by someone who has a pallet for whisky/scotch.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Title" >
+			<PostId>13404</PostId>
+			<ParentPostId>7065</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-09T21:22:56.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5482</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any vodka cocktail recipes for someone who likes whisky/scotch?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Tags" >
+			<PostId>13405</PostId>
+			<ParentPostId>7065</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-09T21:22:56.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5482</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					vodka, whiskey, scotch, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

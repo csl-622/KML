@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>7355</PostId>
+			<Title>
+			"Alcohol related data openly available"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>craft-beers</tag>
+				<tag>reviews</tag>
+				<tag>data</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>73</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-26T02:53:40.557</CreationDate>
+				<LastEditDate>2018-06-26T04:05:02.673</LastEditDate>
+				<LastActivityDate>2018-08-27T23:00:33.590</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+				<LastEditorUserId>123</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are there any other alcohol related data?&lt;/p&gt;
+
+					&lt;p&gt;I've found several: &lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;Wine Review&lt;/strong&gt;: &lt;a href="https://www.kaggle.com/zynicide/wine-reviews" rel="nofollow noreferrer"&gt;https://www.kaggle.com/zynicide/wine-reviews&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;CellarTracker&lt;/strong&gt;: &lt;a href="https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf" rel="nofollow noreferrer"&gt;https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf&lt;/a&gt; (but not sure how to download the data)&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;Beer Advocate&lt;/strong&gt; data: &lt;a href="http://snap.stanford.edu/data/web-BeerAdvocate.html" rel="nofollow noreferrer"&gt;http://snap.stanford.edu/data/web-BeerAdvocate.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;RateBeer&lt;/strong&gt; data: &lt;a href="https://snap.stanford.edu/data/web-RateBeer.html" rel="nofollow noreferrer"&gt;https://snap.stanford.edu/data/web-RateBeer.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;US Beer Stats&lt;/strong&gt;: &lt;a href="https://github.com/jasdumas/ttbbeer" rel="nofollow noreferrer"&gt;https://github.com/jasdumas/ttbbeer&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;Alcohol Language Corpus&lt;/strong&gt; (recordings of people who are drunk): &lt;a href="https://www.phonetik.uni-muenchen.de/Bas/BasALCeng.html" rel="nofollow noreferrer"&gt;https://www.phonetik.uni-muenchen.de/Bas/BasALCeng.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;But I'm sure there are more that our community here would know. &lt;/p&gt;
+
+					&lt;hr&gt;
+
+					&lt;p&gt;BTW, there's also this nice post on some analysis and demo on:
+					&lt;a href="https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/" rel="nofollow noreferrer"&gt;https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

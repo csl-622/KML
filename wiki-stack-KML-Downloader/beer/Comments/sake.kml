@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>3875</PostId>
+			<ParentPostId>4990</ParentPostId>
+			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-05T12:02:51.580</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It just follows in the tradition of all the other 'bomb' cocktails. You name a spirit, and someone will have made a bomb from it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>5340</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-10T20:29:06.287</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Here is everything you wanted to know about aging Sake (Koshu Sake) http://sake-world.com/about-sake/sake-faq/aging-sake/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5341</PostId>
+			<ParentPostId>7147</ParentPostId>
+			<Contributors>
+				<UserId>7486</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-12T17:54:23.207</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					thanks. short follow-up: How much is "plenty demand" does it make sense to try look into that? I just don't want to unknowingly drink a bottle of sake that somebody else would want to pay 3 figures for…
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="1">
+			<PostId>5342</PostId>
+			<ParentPostId>7147</ParentPostId>
+			<Contributors>
+				<UserId>7430</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-12T22:45:01.657</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Niklas Hrm... Unfortunately I am not familiar with the vintage liquor market there to say with confidence that it'd be worth your effort to sell and ship over. I think it's like wine, where just one bottle isn't enough to get people interested. Like I mentioned in the answer, the expected flavor changes, so it's a gamble for anyone opening it. Personally, I would just enjoy it with a good meal, and if I didn't like it, reuse as cooking sake.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>5345</PostId>
+			<ParentPostId>7145</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-15T17:39:54.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Where is your data for pathogens and alcohol levels?  However, good answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="1">
+			<PostId>5671</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Contributors>
+				<UserId>860</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-15T19:49:30.870</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've never had a bottle last more than an hour.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>5675</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-16T15:20:47.440</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A full double magnum takes a while to consume unless you have a large group - that's why I am asking
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

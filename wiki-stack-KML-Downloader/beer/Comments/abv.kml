@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>54</PostId>
+			<ParentPostId>47</ParentPostId>
+			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:10:32.203</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I closed this as a duplicate of a slightly more open-ended question.  From the answer you got, it sounds like ABV is just one factor that determines how well a beer ages.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>55</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Contributors>
+				<UserId>5</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:13:51.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					http://beer.stackexchange.com/questions/3/how-is-reduced-alcoholic-beer-made addresses how it is achieved.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="1">
+			<PostId>91</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:04:13.913</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I thought you were referring to "non-alcoholic" beers, like non-alcoholic Beck's—which, by the way, still have a fraction of a percentage of alcohol. I can assure you that these taste _nothing_ like beer—more like old cough medicine.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>95</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:16:38.550</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@acheong87 - interesting.  I've never had non-alcoholic beer.  I was just wondering about the 3.2 crap some states make grocery stores sell.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>96</PostId>
+			<ParentPostId>132</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:19:36.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah, you are right about Pilsners being lagers, that's my mistake.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="1">
+			<PostId>686</PostId>
+			<ParentPostId>606</ParentPostId>
+			<Contributors>
+				<UserId>288</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-15T16:14:27.570</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Do you mean brewed in the Northeast, or anything distributed there? Bell's Hopslam qualifies either way, I suppose.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="1">
+			<PostId>687</PostId>
+			<ParentPostId>610</ParentPostId>
+			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-16T02:21:32.050</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Purple corn...chewing...ancient ales...I've learned quite a lot from this answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="1">
+			<PostId>688</PostId>
+			<ParentPostId>611</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-16T02:58:18.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Maybe you cut it off because it 'only' clocks in at 8%... but how can you make a list like this without the infamous [Heady Topper](http://www.beeradvocate.com/beer/profile/27039/16814/)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>689</PostId>
+			<ParentPostId>611</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-16T05:04:19.523</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yea, pretty much. I just went though Beer Advocate's list of Imperial IPA's and cut off anything 8 or below. And I've never had it nor heard of it. I'm not a big IPA fan in general; I prefer Beligian wheats, dubbels, tripels, etc. I like beers with spicy and fruity characteristics, but without the hop overload. Well balanced is what I generally look for in a beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>690</PostId>
+			<ParentPostId>611</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-16T05:06:15.707</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Heady has, for some time now, been BA's [#1 Beer In The World.](http://www.beeradvocate.com/lists/top/)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>691</PostId>
+			<ParentPostId>611</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-16T05:08:20.230</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm not denying it; I just never really pay attention to the IPA's cuz I'm not into them. But that list is overloaded with IPA's IMO, they should really rate the beers by style. I don't like IPA's with a few rare exceptions, so it doesn't mean much to me that it's their #1.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>707</PostId>
+			<ParentPostId>606</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-18T17:35:25.687</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A question with a much shorter list might be "What breweries are not brewing a double IPA in the NE US?". It seems like every brewery has at least one. E.G., Victory, in addition to Dirt Wolf also has Hop Wallop (8.5%ABV) and Hop Ranch (9.0%ABV). Thankfully, the tide is starting to turn, and they recently introduced Hop Ticket (4.5%ABV), a "Session IPA"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>708</PostId>
+			<ParentPostId>623</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-19T03:21:50.377</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Interesting that you point out that "draft" means unpasteurized. Makes me wonder why you can sell unpasteurized beer, but not raw milk. But that's another discussion for another place.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

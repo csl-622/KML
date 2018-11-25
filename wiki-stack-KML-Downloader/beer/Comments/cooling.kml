@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>3305</PostId>
+			<ParentPostId>3261</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-02-19T20:52:05.863</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Welcome to Beer.SE! A good question (and a good answer from @Sloloem), but already asked elsewhere on the site: http://beer.stackexchange.com/questions/605/does-beer-suffer-from-being-warmed-and-then-rechilled.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

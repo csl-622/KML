@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>275</PostId>
+			<ParentPostId>272</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>lager</tag>
+				<tag>schwarzbier</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T19:32:12.913</CreationDate>
+				<LastActivityDate>2014-01-23T19:32:12.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A black lager, or perhaps a schwarzbier, really is a lager.  Aside from the difference in the fermentation process, there will be some difference in your base ingredients, as a schwarzbier will focus less on the chocolates or coffee flavor of a stout.&lt;/p&gt;
+
+					&lt;p&gt;I suspect you may find significantly more information in homebrew.stackexchange.com, as hunse suggests.  We would love to go into all sorts of detail over there!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>6498</PostId>
+			<ParentPostId>6497</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>porter</tag>
+				<tag>schwarzbier</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-30T15:53:06.937</CreationDate>
+				<LastEditDate>2017-04-13T13:00:11.050</LastEditDate>
+				<LastActivityDate>2017-01-30T15:53:06.937</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Porters and Stouts were similar but different... in the beginning. I'm going to try my best to paraphrase &lt;a href="http://allaboutbeer.com/whats-the-difference-between-porter-and-stout/" rel="nofollow noreferrer"&gt;this wonderful article&lt;/a&gt;, some of the BJCP Guidelines, and &lt;a href="https://beerandbrewing.com/V4VFXSgAAFm6j1c8/article/what-exactly-is-the-difference-between-stout-and-porter" rel="nofollow noreferrer"&gt;this article&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;&lt;strong&gt;Porters (have #s) Stouts (have bullet points)&lt;/strong&gt;&lt;/p&gt;
+  
+					  &lt;p&gt;1) A substantial, malty dark ale with a complex and flavorful roasty character.  &lt;/p&gt;
+  
+					  &lt;ul&gt;
+					  &lt;li&gt;A very dark, roasty, bitter, creamy ale.&lt;/li&gt;
+					  &lt;/ul&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;These are the BJCP definitions - note... they're fairly similar&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;2) Originally, just your "common" brown beer.&lt;/p&gt;
+  
+					  &lt;ul&gt;
+					  &lt;li&gt;Originally, just a "stout" (or stronger) brown beer.&lt;/li&gt;
+					  &lt;/ul&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Already... you can probably see why people use them interchangeably&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;3) Origin for Porters are credited to London.&lt;/p&gt;
+  
+					  &lt;ul&gt;
+					  &lt;li&gt;Stouts are credited with originating in Ireland.&lt;/li&gt;
+					  &lt;/ul&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Apparently, water (which, as odd as it seems, is the most unique thing to beers!) and science played a large part in London's success in creating &lt;em&gt;Porters&lt;/em&gt; instead of porter being a generic brown beer. Science revealed that the efficiency of the brown grains was 2/3 of pale malt. Even though brown malt was cheaper than pale, the horrible grain efficiency made it more expensive. Therefore the Porter soon had a mixed grain bill using a brown malt base and substituted pale malt for profit. This was made even more apparent when the English Governement/Parliment/forgive my idiocy on the verbage here started taxing beer.  &lt;/p&gt;
+
+					&lt;p&gt;Later- London started using a method known as "parti-gyling"... per the first link:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Parti-gyling isn’t what you think it is. Almost all modern descriptions get it badly wrong. It isn’t—after 1800 at least—using the first runnings to make one beer and the second and third for others.  It’s much more sophisticated than that.&lt;/p&gt;
+  
+					  &lt;p&gt;Porter brewers mashed several times. The worts from each mash were hopped and boiled separately, then blended to produce whatever beers were required. Two, three or even four beers were assembled from blends of each of the worts.&lt;/p&gt;
+  
+					  &lt;p&gt;It’s a very efficient way of making not just huge volumes of a beer, but also relatively small amounts of stronger beers. Or any amount of any strength beer. With their brew lengths of hundreds of barrels, London’s porter brewers couldn’t brew the strongest Stouts single-gyle. The amount they could sell would barely have covered the false bottoms of their massive mash tuns.&lt;/p&gt;
+  
+					  &lt;p&gt;That’s why they often parti-gyled their stouts with porter. You can probably see where this is going. The recipes for porter and stout were, by definition, identical, as they were brewed together.
+					  (Sorry I couldn't paraphrase this part... it all seemed relevant.)&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;So... it seems that all Stouts are Porters; but, not all Porters are Stouts (think squares and rectangles).&lt;/p&gt;
+
+					&lt;p&gt;As far as Schwarzbier goes - this is a &lt;strong&gt;&lt;em&gt;LAGER&lt;/em&gt;&lt;/strong&gt; where Porters and Stouts are &lt;strong&gt;&lt;em&gt;ALES&lt;/em&gt;&lt;/strong&gt;.  &lt;a href="https://alcohol.stackexchange.com/questions/8/what-is-the-difference-between-an-ale-and-a-lager/18#18"&gt;I also differentiate between ales and lagers in this post.&lt;/a&gt; In the homebrewing world, there was a fad of black-lagers/ales a few years ago. The grain used in brewing was more or less burnt in order to give the pale ale a dark appearance but taste/feel like a pale ale/lager.&lt;/p&gt;
+
+					&lt;p&gt;Dark beer is just a classification of all of these types.&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://www.bjcp.org/stylecenter.php" rel="nofollow noreferrer"&gt;Here is a link&lt;/a&gt; to the Beer Judge Certification Program (BJCP) that has links to what each beer type should taste/look like.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

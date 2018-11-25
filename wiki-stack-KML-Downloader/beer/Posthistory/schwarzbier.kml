@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>705</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T18:47:57.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is a black lager really a lager (in terms of yeast and brewing time)? Can I just throw in whatever would make a good stout but use lager yeast? If not, then how much play is there to the recipe?
+
+					I've got a little bit of experience brewing ales, mainly stout and brown ale. Just a few months ago I tried my first experiment, deviating a little from a recipe in my choice of malts and yeast, but still using a malt extract for my primary malt. I have zero experience with brewing lager.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>706</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T18:47:57.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I brew a black lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>707</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T18:47:57.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, lager, schwarzbier, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Post Closed" >
+			<PostId>715</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T20:30:02.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":68,"DisplayName":"hunse"},{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":73,"DisplayName":"acheong87"},{"Id":37,"DisplayName":"Xander"},{"Id":22,"DisplayName":"Grohlier"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>11650</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-28T07:19:14.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What, exactly, is the difference between stout, porter, schwarzbier, and other dark beers?
+
+					Wiki descriptions:
+
+					-[Stout][1]: dark beer made using roasted malt or roasted barley, hops, water and yeast (fairly broad description, imho...)
+
+					-[Porter][2]: dark style of beer developed in London from well-hopped beers made from brown malt
+
+					-[Schwarzbier][3]: or black beer, is a dark lager made in Germany
+
+					[Dark Beer:][4] opaque or near-opaque colour that exists with stouts, porters, schwarzbiers (black beer) and other deeply coloured styles
+
+					Two overarching factors seem to be the color, most obviously, and geographical location.
+
+					But, are all dark beers, 'stouts,' by definition? For example, schwarzbier is a 'dark lager' but, still made from roasted malt?
+
+					  [1]: https://en.wikipedia.org/wiki/Stout
+					  [2]: https://en.wikipedia.org/wiki/Porter_(beer)
+					  [3]: https://en.wikipedia.org/wiki/Schwarzbier
+					  [4]: https://en.wikipedia.org/wiki/Beer_style#Appearance
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>11651</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-28T07:19:14.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Dark Beer Classifications
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>11652</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-28T07:19:14.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					stout, porter, schwarzbier, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>11653</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-29T07:30:25.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/825607012071436288
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

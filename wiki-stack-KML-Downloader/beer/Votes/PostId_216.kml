@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Votes">
+		<Instance Id="1"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-01-28T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5"  InstanceType= "AcceptedByOriginator">
+			<TimeStamp>
+				<CreationDate>2014-02-01T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-04-19T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-04-19T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-04-25T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-05-05T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="10"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-05-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="11"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-05-18T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="12"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2014-06-26T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="13"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2015-03-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="14"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2015-07-31T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="15"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2015-08-07T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="16"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-04-06T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="17"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2017-02-21T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="18"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2018-08-21T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="4856"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2015-10-18T12:44:37.680</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4863"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2015-10-19T15:45:02.590</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4864"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2015-10-19T16:04:23.210</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4945"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2015-11-11T02:37:25.083</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5043"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2015-12-06T15:47:53.293</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5050"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2015-12-08T03:40:16.837</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5072"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2015-12-15T06:18:35.353</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5073"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2015-12-15T06:23:35.433</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5415"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-11T18:32:19.793</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5416"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-11T18:47:24.727</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5453"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-21T13:58:59.363</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5464"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-24T05:28:17.347</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5467"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Tag Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-24T10:15:52.377</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5489"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-26T04:09:21.970</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5634"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2016-03-31T03:29:41.737</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6475"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Commentator"
+			</Title>
+			<TimeStamp>
+				<Date>2016-10-14T04:04:52.787</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6490"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-10-17T22:51:26.167</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6626"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2016-11-25T21:44:43.230</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6812"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Notable Question"
+			</Title>
+			<TimeStamp>
+				<Date>2017-01-14T05:18:14.880</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7899"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Famous Question"
+			</Title>
+			<TimeStamp>
+				<Date>2017-09-20T01:57:47.243</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7979"  UserId="4637" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-17T22:33:05.627</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>5450</PostId>
+			<ParentPostId>7230</ParentPostId>
+			<Contributors>
+				<UserId>7705</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-07T12:11:21.250</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I acknowledge that this is somewhat subjective, but I think that there is sufficient scope for definite answers that it works on a StackExchange forum.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>5452</PostId>
+			<ParentPostId>7230</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-07T13:00:44.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					For the sake of clarity, is [sparking wine](https://en.wikipedia.org/wiki/Sparkling_wine) to be considered champagne.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5453</PostId>
+			<ParentPostId>7230</ParentPostId>
+			<Contributors>
+				<UserId>7705</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-07T13:17:10.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@KenGraham - no, definitely just champagne - from Champagne in France. (I would have tagged the question as 'champagne', but that tag doesn't exist yet!)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>5454</PostId>
+			<ParentPostId>7230</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-07T15:23:47.940</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I vote to close. This is highly subjective and unanswerable
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>5457</PostId>
+			<ParentPostId>7230</ParentPostId>
+			<Contributors>
+				<UserId>7705</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-07T15:31:27.223</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@farmersteve - I don't think it is unanswerable - if I were to split it into multiple questions like "What was the iconic champagne of the 1960s?", that's a question that could have a definite answer. Admittedly, it's a little more complex, because I've asked about multiple decades - so it may be harder for any individual answer to be definite on all those parts - but I thought that was better than creating 10 separate questions. If that's the issue, then we create a community-wiki answer to collate the best answers.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>5458</PostId>
+			<ParentPostId>7230</ParentPostId>
+			<Contributors>
+				<UserId>7705</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-07T15:34:02.003</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@farmersteve - I've already acknowledged that it is somewhat (but not highly) subjective - i.e. I'm asking what would generally be regarded as the iconic champagnes of those periods, not people's favourites or what they were drinking then or whatever. Arguably, that's no more subjective than people having different opinions about the answer to a question like "How do I do xyz...?"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>5459</PostId>
+			<ParentPostId>7230</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-07T15:51:56.987</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Then you need to ask this question on Reddit, Facebook or somewhere else where wildly subjective questions are asked. Stack Exchange is not that place.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>5460</PostId>
+			<ParentPostId>7230</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-07T15:57:31.697</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How To Ask
+					Is your question about alcoholic beverages?
+
+					We prefer questions that can be answered, not just discussed.
+
+					Provide details. Share your research.
+
+					If your question is about this website, ask it on meta instead.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>5534</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-18T16:08:34.563</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The question should be how do people age wines, not preserve. You cannot preserve a wine indefinitely. All you can do is slow down the agin process...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="1">
+			<PostId>5535</PostId>
+			<ParentPostId>7298</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-18T18:19:18.297</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What is the control to stop it before it actually freezes?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>5536</PostId>
+			<ParentPostId>7298</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-18T21:19:57.810</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					visual. Look for ice crystals forming in the bottle. Pull it out when you start to see some.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

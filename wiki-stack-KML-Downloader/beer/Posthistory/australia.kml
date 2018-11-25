@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1533</PostId>
+			<ParentPostId>589</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T03:05:31.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The "Beer in Australia" article on Wikipedia, includes a [table listing the names for various size glasses][1] in the different states.  One peculiarity is that some South Australian glasses are one size down compared to the equivalents in other states.
+
+					For example, it lists their pint glass as three quarters of an imperial pint (which would be called a schooner in other states that use that size), and their schooner glass as half a pint (which would be called a middy in a number of other states).
+
+					So my question is how did this discrepancy occur?  The Wikipedia page includes a number of references that indicate that these names have been used in SA, but doesn't indicate why.
+
+
+					  [1]: https://en.wikipedia.org/wiki/Beer_in_Australia#Beer_glasses
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>1534</PostId>
+			<ParentPostId>589</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T03:05:31.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How did South Australia come to have smaller measures of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>1535</PostId>
+			<ParentPostId>589</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T03:05:31.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, glassware, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>1547</PostId>
+			<ParentPostId>589</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T10:36:42.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433187833755746305
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>9705</PostId>
+			<ParentPostId>589</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-26T10:25:10.060</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>14197</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					There are several lists online for craft brews in Melbourne, Australia:
+
+					 - https://foursquare.com/top-places/melbourne/best-places-craft-beer
+					 - https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries
+					 - https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/
+
+					Are there others that are not on any of these lists? 
+
+					Are there any nearby the Melbourne Convention and Exhibition Centre ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>14198</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft beers and Microbreweries in Melbourne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>14199</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, micropub, melbourne, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>14208</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-22T05:26:28.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				42
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>14209</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-22T12:09:45.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, micropub, melbourne, australia, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Tags" >
+			<PostId>14210</PostId>
+			<ParentPostId>589</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-22T12:24:11.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added another tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, glassware, australia, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>14217</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-23T03:48:47.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1010369047945515008
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>14266</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-30T06:33:37.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				42
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>14309</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T07:43:35.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7894</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I live in Sydney. I was wondering if it would be possible to take a trip to the airport and buy a whole bunch of Johnnie walker duty free? Do you actually have to be boarding a flight, or can you just rock up, splash some money around and go home?
+
+					If you absolutely must be flying somewhere in order to buy some booze, would a domestic flight be sufficient? I've been thinking of visiting Melbourne for a while, and if it were possible to pick up some blue label on the way home I wouldn't complain!
+
+					Thanks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>14310</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T07:43:35.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7894</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do you need to actually be flying somewhere in order to buy booze duty free at the airport?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>14311</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T07:43:35.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7894</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					price, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Tags" >
+			<PostId>14314</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T14:55:55.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added another tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					price, australia, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>14382</PostId>
+			<ParentPostId>7376</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-24T01:10:00.370</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1021563111726297088
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

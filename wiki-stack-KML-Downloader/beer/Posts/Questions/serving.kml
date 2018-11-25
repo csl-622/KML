@@ -1,0 +1,982 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>5</PostId>
+			<AcceptedAnswerId>19</AcceptedAnswerId>
+			<Title>
+			"What temperature should I serve my beer?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>21</Score>
+				<ViewCount>3569</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>9</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:31:44.693</CreationDate>
+				<LastEditDate>2014-01-21T21:21:29.497</LastEditDate>
+				<LastActivityDate>2017-06-07T11:10:28.887</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In general, what's the best way to work out the temperature at which to serve a particular beer? Room temperature? Cold? Supercold? &lt;em&gt;Warm?&lt;/em&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>76</PostId>
+			<AcceptedAnswerId>117</AcceptedAnswerId>
+			<Title>
+			"How do I tell if I poured a stout correctly?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>269</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:33:38.903</CreationDate>
+				<LastEditDate>2014-01-21T22:02:12.187</LastEditDate>
+				<LastActivityDate>2014-01-24T06:13:50.857</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>36</OwnerUserId>
+				<LastEditorUserId>36</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What do I need to be paying attention to when I pour a stout and how do I tell if I got it right? Usually this applies to either "regular" stouts or chocolate stouts.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>123</PostId>
+			<Title>
+			"Why would one choose to use Nitro vs CO2 as a beer gas?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>17206</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:57:28.603</CreationDate>
+				<LastEditDate>2015-06-11T13:19:47.000</LastEditDate>
+				<LastActivityDate>2016-04-20T11:52:21.797</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>84</OwnerUserId>
+				<LastEditorUserId>268</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some beers have taste different on Nitro vs CO2. I'm sure there is science behind this. Why choose one over the other?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>233</PostId>
+			<AcceptedAnswerId>253</AcceptedAnswerId>
+			<Title>
+			"Crash course to serving keg beer"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>1988</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:31:58.850</CreationDate>
+				<LastEditDate>2016-01-04T00:05:42.467</LastEditDate>
+				<LastActivityDate>2016-01-04T00:05:42.467</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>130</OwnerUserId>
+				<LastEditorUserId>1077</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was at a picnic where someone brought us a keg of beer. They left the keg, the tap, and bid us to have fun and left. And there we stood, baffled how to get this to work. Someone figured &lt;em&gt;something&lt;/em&gt; out and we got our cups full of beer froth with a tiny bit of beer on the bottom.&lt;/p&gt;
+
+					&lt;p&gt;I wouldn't want such a situation to repeat, so could someone give me a brief guide of how to assemble a beer stand (keg+tap) without getting it to explode into my face, get a proper stream going (instead of just a lot of froth), and pour it properly?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>234</PostId>
+			<Title>
+			"What exactly is a Cicerone? What do they do?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>cicerone</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>80</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:32:04.380</CreationDate>
+				<LastActivityDate>2014-01-23T16:34:07.970</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Recently I've started seeing references to the term 'Cicerone' pop up around the internet; generally, they are described as a 'Beer Sommelier' and the subject is left at that.&lt;/p&gt;
+
+					&lt;p&gt;I'd like to understand the role a little bit better. What exactly does a cicerone &lt;strong&gt;do&lt;/strong&gt;? If I encounter one in a restaurant, what sort of knowledge can I expect her to have? Is there a certification or credential of some sort that they're expected to receive? What sort of training is required?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>254</PostId>
+			<AcceptedAnswerId>262</AcceptedAnswerId>
+			<Title>
+			"Does a frosted glass cause any significant dilution of the beer it holds?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>484</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T08:26:49.693</CreationDate>
+				<LastActivityDate>2014-01-25T15:38:52.787</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've always been a fan of "the colder the better".  I enjoy using a glass that has been placed in the freezer.  &lt;/p&gt;
+
+					&lt;p&gt;Obviously, in this scenario, there's frozen condensation on it, but is this enough to dilute the beer such that I'm destroying the flavor by doing so?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>257</PostId>
+			<AcceptedAnswerId>258</AcceptedAnswerId>
+			<Title>
+			"When in the history of serving beer did it transition from a warm beverage to a cold one?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+				<tag>history</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>2793</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T08:31:42.643</CreationDate>
+				<LastActivityDate>2014-01-23T08:39:06.640</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know that there may be some debate raging over this today, depending on what side of the Atlantic one is on, but there seems to be a clear point in history when beer went from being enjoyed warm to warm beer being undesirable. &lt;/p&gt;
+
+					&lt;p&gt;I'm assuming some of this had to do with the advent of refrigeration, but in what era in America was the serving temperature more likely to be cold than warm?  Has a similar trend occurred in Europe and other parts of the world?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>361</PostId>
+			<AcceptedAnswerId>362</AcceptedAnswerId>
+			<Title>
+			"Why do steins have lids?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>19</Score>
+				<ViewCount>4516</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T18:25:04.527</CreationDate>
+				<LastActivityDate>2017-08-22T23:29:50.453</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>36</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What's the point of the lid on the beer stein? &lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/yy4mu.jpg" alt="beer stein"&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>399</PostId>
+			<Title>
+			"What's the difference between a cask beer and a kegged beer?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>16</Score>
+				<ViewCount>3816</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T06:54:31.877</CreationDate>
+				<LastActivityDate>2016-01-05T14:19:58.477</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Cask ales seem popular outside of the US (especially in the UK).  What distinguishes that style of beer from  beer out of a normal keg?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>480</PostId>
+			<Title>
+			"How do I get good layer seperation for a Shock Top Choc-top?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>beer-cocktails</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>3776</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-31T23:14:27.907</CreationDate>
+				<LastEditDate>2015-11-06T18:51:25.590</LastEditDate>
+				<LastActivityDate>2015-11-06T18:51:25.590</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>39</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I bought a 6 pack of Shock Top last night and is suggests on the package to make a drink they are calling a "Choc-Top." The pack comes with 3 Belgian Wheat normal Shock Tops and 3 Chocolate Wheat beers.&lt;/p&gt;
+
+					&lt;p&gt;I've looked around online and seen a bunch of pictures of nicely layered beverages. How do I acheive this layering when pouring my beer into a glass?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>485</PostId>
+			<Title>
+			"Why is it important to have foam on a beer?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>24</Score>
+				<ViewCount>28362</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-01T09:08:20.187</CreationDate>
+				<LastActivityDate>2017-02-23T13:00:36.153</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've seen people complain when served a beer without foam. Equally, getting a glass full of foam is no use.&lt;/p&gt;
+
+					&lt;p&gt;When serving a beer, how much is the right amount of foam and why is this important?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>515</PostId>
+			<AcceptedAnswerId>517</AcceptedAnswerId>
+			<Title>
+			"What is the best serving size for a beer tasting"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>taste</tag>
+				<tag>competition</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>8438</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-04T14:18:43.197</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-06-02T19:23:33.800</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>368</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I saw a comment asking this question &lt;a href="https://alcohol.stackexchange.com/questions/153/if-you-are-having-a-beer-tasting-what-is-a-good-way-to-clear-the-palate?rq=1"&gt;here&lt;/a&gt;, and became curious. In the context of a tasting panel or competition, what is the appropriate serving size?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>556</PostId>
+			<Title>
+			"What is the single most influential book every beer enthusiast should read?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>123</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-06T00:34:37.937</CreationDate>
+				<LastActivityDate>2014-02-06T00:44:29.473</LastActivityDate>
+				<ClosedDate>2014-02-06T05:55:19.877</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>303</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If you could go back in time and tell yourself to read a specific book about beer, which book would it be?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>654</PostId>
+			<Title>
+			"Is there anything I can do short of leaving a glass out on the counter to mitigate overcarbonation?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>141</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-08T18:42:21.577</CreationDate>
+				<LastActivityDate>2014-03-10T01:30:22.140</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently picked up a bunch of bottles of what seemed like interesting brews from &lt;a href="http://hitachinonest.com/"&gt;Hitachino&lt;/a&gt;, because I was interested in exploring some Japanese beers. Unfortunately, the first two bottles I've opened now seem to have both been &lt;em&gt;severely&lt;/em&gt; overcarbonated.&lt;/p&gt;
+
+					&lt;p&gt;We're talking foam overflowing out of the bottle once I open it. These bottles have &lt;em&gt;not&lt;/em&gt; been exposed to significant agitation recently. They've been sitting on a shelf, upright as is proper, for days. Worse still, they don't just explode and make a mess, but they also simply &lt;em&gt;taste&lt;/em&gt; severely overcarbonated. It's like drinking shaken seltzer water mixed with my beer, and it's decidedly unpleasant. At this point, the only thing I've been able to do is pour a glass, leave it out for an hour or three, and &lt;em&gt;then&lt;/em&gt; drink it.&lt;/p&gt;
+
+					&lt;p&gt;Which is... impractical at best, and is only going to become less so as the weather warms up. Is there anything else I can do to mitigate this?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>745</PostId>
+			<Title>
+			"Decreasing foam in over-carbonated beer"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>carbonation</tag>
+				<tag>foam</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>165</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-23T04:11:46.830</CreationDate>
+				<LastEditDate>2014-04-24T13:16:50.103</LastEditDate>
+				<LastActivityDate>2014-04-24T13:16:50.103</LastActivityDate>
+				<ClosedDate>2014-04-26T04:45:23.780</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>401</OwnerUserId>
+				<LastEditorUserId>401</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have some homebrew that is really over-carbonated (before i learned about &lt;a href="https://www.google.com/search?q=priming%20sugar%20calculators" rel="nofollow"&gt;priming sugar calculators&lt;/a&gt;). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.&lt;/p&gt;
+
+					&lt;p&gt;Is there something i can do when pouring it to &lt;em&gt;reduce&lt;/em&gt; the head? I know some amount of head is desirable, but this is over the top (literally). &lt;/p&gt;
+
+					&lt;p&gt;[Edit] I get this much foam despite pouring very slowly and carefully down the side of the glass.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>880</PostId>
+			<Title>
+			"Removing the Crown / Neck paper"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>396</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-14T22:56:20.270</CreationDate>
+				<LastActivityDate>2014-06-19T23:44:23.177</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1000</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently moved to Germany and took Rothaus Pils here at the party. I opened the cap after tearing the crown/neck paper (Gold colored paper as shown below) partially.&lt;/p&gt;
+
+					&lt;p&gt;Reference Image :&lt;img src="https://i.stack.imgur.com/bWfDO.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;I was told that Germans really don't like to keep that crown/neck paper. I wanted to ask for reason, but felt it is too rude. Is there any specific reason behind removing the crown paper&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>992</PostId>
+			<AcceptedAnswerId>1001</AcceptedAnswerId>
+			<Title>
+			"Do bubbles in Guinness go down?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>487</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-18T13:51:37.577</CreationDate>
+				<LastActivityDate>2014-08-25T14:49:06.853</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1226</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;We are used to seeing bubbles float up in a glass of beer, but bubbles in Guinness appear to break the rules.&lt;/p&gt;
+
+					&lt;p&gt;Do the bubbles really sink in Guinness, or is it just an illusion? &lt;/p&gt;
+
+					&lt;p&gt;If the bubbles go down, where do they go?  Why do they all end up at the head?&lt;/p&gt;
+
+					&lt;p&gt;Links:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;a href="http://news.stanford.edu/pr/2004/bubbles317.html"&gt;Scientists confirm phenomenon of falling beer bubbles&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://news.stanford.edu/news/2004/march17/beer-video-317.html"&gt;Zare explains the mystery of descending beer bubbles&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://web.stanford.edu/group/Zarelab/guinness/"&gt;Do bubbles in Guinness go down?&lt;/a&gt; at Stanford University&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>1024</PostId>
+			<Title>
+			"Unusal recepticles"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>flavor</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>176</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-18T11:42:48.517</CreationDate>
+				<LastActivityDate>2015-09-17T23:12:01.467</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1317</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I understand openings of a glass allow for aroma to add to the taste. However I recently had Kwak in its recommended glass, which is similar to a test tube. I have seen a number of other unique glasses. 
+					Are these really only for asthetics or are these meant to add to the flavour?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>3370</PostId>
+			<AcceptedAnswerId>3382</AcceptedAnswerId>
+			<Title>
+			"When and how to drink cellared beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>176</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-08T21:07:27.047</CreationDate>
+				<LastActivityDate>2015-05-13T16:47:11.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4101</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I had acquired a couple of Samuel Adams "one-off" beers, specifically "The Vixen (stout)", "Merry Mischief (gingerbread stout)", "Griffin's Bow (barley wine)" and "Norse Legend (Sahti)". These bottles are either first, second or third batch, according to the label mind you. I had these beers for 2 years in a cellar, almost no light touches them and at room temperature.&lt;/p&gt;
+
+					&lt;p&gt;I know that most of this types of beer gets better with time, except for the Sahti, hadn't explored much of that type, but I would like to know if it's safe for the beers to be kept and for how long, and at a given time, what's the best way to drink them (chill them, room temperature, etc.). Thanks.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>3507</PostId>
+			<AcceptedAnswerId>3509</AcceptedAnswerId>
+			<Title>
+			"How to drink kvass?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>858</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-31T20:12:21.117</CreationDate>
+				<LastActivityDate>2015-08-25T07:17:54.660</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4374</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I’ve recently received a bottle of gira (i.e. kvass from Lithuania).&lt;/p&gt;
+
+					&lt;p&gt;With it came a beer mug, so I guess the issue of the glassware is settled. At what temperature should I drink it? If I understand correctly (which I probably don’t, given that everything is written in Lithuanian), the kvass is unfiltered. Should I pour carefully to avoid mixing too much yeast in the glass or, on the contrary, should I ensure that some yeast do go into the glass? Or is it purely a matter of taste?&lt;/p&gt;
+
+					&lt;p&gt;Finally, at which temperature should it be served?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType="question">
+			<PostId>4654</PostId>
+			<AcceptedAnswerId>4656</AcceptedAnswerId>
+			<Title>
+			"How to decant beer from bottle"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>316</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-24T17:14:12.130</CreationDate>
+				<LastActivityDate>2015-10-25T02:11:44.997</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4101</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have an old bottle of Sahti, Samuel Adams, probably 3 years old, it's been kept properly, I noticed that it has a lot of sediment, don't know if it's normal or not, but regardless I want to try it. Is there a safe way to decant the beer, so the sediment or floaties don't make their way to the glass?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType="question">
+			<PostId>4706</PostId>
+			<Title>
+			"Recommendations for Kegerator conversion kit?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>46</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-11-30T23:58:22.357</CreationDate>
+				<LastActivityDate>2015-12-01T01:56:47.860</LastActivityDate>
+				<ClosedDate>2015-12-01T04:49:57.397</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4785</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have a mini fridge and looking to convert it into a kegerator with a tower tap on top. I've researched a few kegerator conversion kits and see economy, standard, deluxe, etc, kits available. &lt;/p&gt;
+
+					&lt;p&gt;I'm not looking for a super fancy setup but a solid kegerator that will look good in my garage. Any recommendations for what conversion kit or how to best practices to convert a mini fridge to a kegerator? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType="question">
+			<PostId>4755</PostId>
+			<Title>
+			"How to pair a beer with a glass?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>serving</tag>
+				<tag>glassware</tag>
+				<tag>pairing</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>118</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-05T16:40:35.020</CreationDate>
+				<LastEditDate>2016-01-05T23:33:58.777</LastEditDate>
+				<LastActivityDate>2016-01-08T17:16:06.170</LastActivityDate>
+				<ClosedDate>2016-01-06T14:52:36.833</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4917</OwnerUserId>
+				<LastEditorUserId>4917</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have recently begun to learn somethings about beer and I suddenly noticed that, for a while now, I have always been served similar types of beer on different looking beer glasses... which is confusing me. It could be human error, but it's got me wondering what beer glasses should I really be sipping from?&lt;/p&gt;
+
+					&lt;p&gt;So I decided to get some beer glasses, and what do I find? A plethora of beer glasses, all kinds and funky shapes, where not one glass is like the next. It makes me feel like the beer glass industry is very opinionated, rather than factual, and I need to know how to choose correctly.&lt;/p&gt;
+
+					&lt;p&gt;Could anyone please instruct me on the general type of beers and how they pair with beer glasses, as well as why x glass goes with y beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType="question">
+			<PostId>5013</PostId>
+			<AcceptedAnswerId>5014</AcceptedAnswerId>
+			<Title>
+			"Tap it or Pump it!"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>preparation-for-drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>295</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-19T08:38:33.790</CreationDate>
+				<LastEditDate>2016-05-20T08:00:04.030</LastEditDate>
+				<LastActivityDate>2016-05-21T21:40:08.003</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Whenever I'm out in a bar I always see bottles of ale or ale on a pump but I have never seen a bar that serves ale from a regular tap why is this ?&lt;/p&gt;
+
+					&lt;p&gt;Why serve ale from a &lt;a href="https://i.stack.imgur.com/OuG09.jpg"&gt;Pull Pump,&lt;/a&gt; instead of a &lt;a href="https://i.stack.imgur.com/t73S8.jpg"&gt;Beer Tap?&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;Is there a reason for this?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType="question">
+			<PostId>5031</PostId>
+			<AcceptedAnswerId>5033</AcceptedAnswerId>
+			<Title>
+			"The King's Shilling"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>469</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-26T08:01:01.330</CreationDate>
+				<LastEditDate>2016-05-27T06:59:25.453</LastEditDate>
+				<LastActivityDate>2016-05-27T06:59:25.453</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently purchased a new pewter Tankard with a glass bottom and a silver shilling encased between the two bits of glass. &lt;/p&gt;
+
+					&lt;p&gt;After a little bit of research, I discovered that this was one of the ways recruiters would trick people into joining the British Army or Navy, but there is also a lot of places that say this is just a legend!&lt;/p&gt;
+
+					&lt;p&gt;Does anybody know the true origins of the shilling in the bottom of the tankard and is that why they started to produce tankards with glass bottoms so people could see if they did have a shilling in them?  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType="question">
+			<PostId>5089</PostId>
+			<AcceptedAnswerId>5100</AcceptedAnswerId>
+			<Title>
+			"Why are some beers warm and some cold?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>615</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-14T07:32:14.680</CreationDate>
+				<LastActivityDate>2016-06-15T07:10:13.677</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;While out at my local I always like to try new beers, and as I was going through a few different beers and I noticed that almost all of them all had varying temperatures. Some where ice cold whilst some were warmer I understand that this is on purpose but I'm not sure why?&lt;/p&gt;
+
+					&lt;p&gt;So why is it that some beers are served Cold and why are some served Warm?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType="question">
+			<PostId>6501</PostId>
+			<AcceptedAnswerId>6533</AcceptedAnswerId>
+			<Title>
+			"Why is some beer kept in/served from a firkin in a bar?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>serving</tag>
+				<tag>drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>180</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-30T19:23:24.070</CreationDate>
+				<LastEditDate>2017-04-13T13:00:11.050</LastEditDate>
+				<LastActivityDate>2017-02-14T17:26:11.217</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>29</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've been to several bars recently that feature a "What's on cask?" section of the beer menu. The menu does not, however, suggest why that particular beer is being held in a firkin and served via the hand-pulled tap. &lt;/p&gt;
+
+					&lt;p&gt;I do not mean this as a repeat of &lt;a href="https://alcohol.stackexchange.com/questions/399/whats-the-difference-between-a-cask-beer-and-a-kegged-beer"&gt;this question&lt;/a&gt;. I am interested in the reasons bars, specifically, might wish to have and serve from firkins, and not just the general difference in beer varieties.&lt;/p&gt;
+
+					&lt;p&gt;I understand there is a historical nature to this, which might be amusing for some purposes. But I want to know if there are specific effects on the beer itself: storage timing, retention of flavor, temperature needs, pouring effect (slower, no CO2, whatever), and so on. &lt;/p&gt;
+
+					&lt;p&gt;If the bar offered the exact same beer, one in a cask and one on a regular tap, should there be noticeable differences in the resulting served beer? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType="question">
+			<PostId>6696</PostId>
+			<AcceptedAnswerId>6699</AcceptedAnswerId>
+			<Title>
+			"Red wine service"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>serving</tag>
+				<tag>red-wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>132</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-22T23:10:16.870</CreationDate>
+				<LastEditDate>2017-03-22T23:26:02.467</LastEditDate>
+				<LastActivityDate>2017-07-21T11:23:02.727</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6303</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I want organize a meeting around Italian wine but I have multiple question in my brain.&lt;/p&gt;
+
+					&lt;p&gt;I read a lot of page in this big web for prepare wine.&lt;/p&gt;
+
+					&lt;p&gt;My wine is not into a fridge. I know my red wine may be openned 1h before the degustation but I do not know if I need to kept the wine 1h hour in  the fridge before opening it. Because I saw after 1h the wine temperature was between 19°C or 20°C.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType="question">
+			<PostId>6774</PostId>
+			<Title>
+			"When does the pour matter?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>146</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-15T00:04:39.710</CreationDate>
+				<LastActivityDate>2017-04-17T17:13:36.940</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5847</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Especially when it comes to serving beer, such as Guinness, it is debatable that the pour is the most important aspect. This is something I understand due to the layering and carbonation...&lt;/p&gt;
+
+					&lt;p&gt;When is it important to pay attention to the pour for other alcoholic beverages?&lt;/p&gt;
+
+					&lt;p&gt;For example, I dated a waitress that was adamant about the proper way to pour wine - thumb in the bottom, on the forearm with a napkin, presenting the label during the pour, finally properly spinning the bottle at the end of the pour... Is this all due to presentation or does it have anything to do with consumption, as well?&lt;/p&gt;
+
+					&lt;p&gt;Considering cocktails, I do not mean shaken vs stirred...&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>209</PostId>
+			<ParentPostId>10</ParentPostId>			<Tags>
+				<tag>mulling</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T17:04:49.340</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2014-01-22T17:04:49.340</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;sup&gt;This answer was originally an answer to &lt;a href="https://alcohol.stackexchange.com/questions/171/optimal-mulling-temperature"&gt;Optimal mulling temperature?&lt;/a&gt;, but adapting it to this question seemed better, as the former asked a more specific question I couldn't address.&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Most well known of all the mulled beers was Wassail. Recipes for this holiday favorite vary, but all were based upon the same basic formula. Sugar was placed in the bottom of a bowl, one pint of warm beer was then poured in along with nutmeg, ginger and cinnamon.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;a href="http://www.realbeer.com/library/authors/smith-g/mulledbeer.php" rel="nofollow noreferrer"&gt;Smith, G. "Mulled beer." [URL]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;p&gt;One mulls beer by simmering beer in a pan, nearly always with the following ingredients:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;ginger&lt;/li&gt;
+					&lt;li&gt;nutmeg&lt;/li&gt;
+					&lt;li&gt;cinnamon&lt;/li&gt;
+					&lt;li&gt;cloves&lt;/li&gt;
+					&lt;li&gt;honey, agave nectar, or sugar&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;but also sometimes adding&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;egg yolk&lt;/li&gt;
+					&lt;li&gt;cardamon&lt;/li&gt;
+					&lt;li&gt;star anise&lt;/li&gt;
+					&lt;li&gt;coriander&lt;/li&gt;
+					&lt;li&gt;black pepper&lt;/li&gt;
+					&lt;li&gt;allspice berries&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;and occasionally garnishing the drink with orange rinds. The mixture should be brought to a simmer but &lt;em&gt;not&lt;/em&gt; a boil, and heated for 5 to 10 minutes depending on the recipe.&lt;/p&gt;
+
+					&lt;p&gt;Some even refer to &lt;em&gt;warmed&lt;/em&gt; beer as "mulled" beer, &lt;em&gt;i.e.&lt;/em&gt; beer heated it &lt;em&gt;in its bottle&lt;/em&gt; in a pot (or slowcooker) filled with water. For this case, there is not a consensus on the heating temperature, as it appears to vary according to the beer:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Mulled beer needs to be heated slowly. A slow-cooker half-filled with water works well. Just open the bottle and stand it in the uncovered appliance. I also have used a large pot on the stove, with the burner on low. Don't let the water to get anywhere close to boiling -- 130 to 140 degrees is ideal. It's also important to keep the water level constant, so replace the water as it evaporates.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;a href="http://www.mercurynews.com/ci_19342928" rel="nofollow noreferrer"&gt;Brooks, J. R. "Brooks on Beer: Hot, Mulled Beer?" 2011. [URL]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Before serving, you warm the opened bottle [of Brasserie des Franches-Montagnes' La Dragonne] in a pot of hot water to raise the ale's temperature to about 110 degrees.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;a href="http://www.joesixpack.net/columnArchives/2010/021910.htm" rel="nofollow noreferrer"&gt;Russell, D. "Cold day, cold beer? Give warm beer a try." 2010. [URL]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;[Unibroue "Quelque Chose"] should be served like a mulled wine at 122 to 158 degrees Fahrenheit.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;a href="http://www.gayot.com/beer/top10winter-beers/unibroue-quelque-chose.html" rel="nofollow noreferrer"&gt;"Unibroue Quelque Chose Beer." [URL]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>291</PostId>
+			<ParentPostId>171</ParentPostId>			<Tags>
+				<tag>temperature</tag>
+				<tag>mulling</tag>
+				<tag>preparation-for-drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-24T06:19:47.043</CreationDate>
+				<LastActivityDate>2014-01-24T06:19:47.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;strong&gt;Almost but not boiling&lt;/strong&gt;.&lt;/p&gt;
+
+					&lt;p&gt;I've been over a few recipes and "simmering" seems to be the consensus.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>4973</PostId>
+			<ParentPostId>4970</ParentPostId>			<Tags>
+				<tag>wine</tag>
+				<tag>mulling</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-22T03:09:20.427</CreationDate>
+				<LastActivityDate>2016-04-22T03:09:20.427</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;"&lt;a href="http://www.matchingfoodandwine.com/news/entertaining/how-to-mull-wine-the-tips-you-need-to-know/" rel="nofollow"&gt;Mulled wine&lt;/a&gt; is a seasonal staple but although it's easy to make it's also easy to spoil.&lt;/p&gt;
+
+					&lt;p&gt;You can mull white wine but most people prefer a red. It needs to be inexpensive, obviously, but that doesn’t mean it should be undrinkable so don’t just chuck in the tail ends of bottles you may have hanging round the kitchen. And you don’t want a wine that’s too heavily oaked though that’s relatively unlikely if it’s cheap.&lt;/p&gt;
+
+					&lt;p&gt;There’s a fair amount of inexpensive own-label Corbières I’ve noticed lately which would fit the bill perfectly or try a basic Portuguese red. Most recipes add water as well which brings down the cost and stops guests getting too plastered but adjust the amount to the strength of your wine.&lt;/p&gt;
+
+					&lt;p&gt;Whole spices work better than ground ones otherwise you can get an unpleasant powdery sensation as you drink. Cinnamon is probably the most popular spice but you could also use cloves, cardamom (lightly crush a few pods) ginger and nutmeg. Some recommend star anise but use sparingly if you don't want your mulled wine to taste of aniseed. &lt;/p&gt;
+
+					&lt;p&gt;Most recipes call for sugar but you might want to add a little less than they suggest if your wine is particularly soft and fruity or if you add port."&lt;/p&gt;
+
+					&lt;p&gt;Personally, I am very fond of cinnamon in my mulled wines at Christmas time. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

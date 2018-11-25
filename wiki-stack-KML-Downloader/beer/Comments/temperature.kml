@@ -1,0 +1,1878 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>1</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Contributors>
+				<UserId>10</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:34:28.740</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is a matter of taste I guess.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="2">
+			<PostId>6</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:57:44.653</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Doesn't this depend on the type of beer as well?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="4">
+			<PostId>7</PostId>
+			<ParentPostId>19</ParentPostId>
+			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:57:47.373</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I retracted my close vote after reading this answer.  Well done.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="10">
+			<PostId>8</PostId>
+			<ParentPostId>26</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:59:55.223</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A good answer here should include *how* various types of glasses work.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>14</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:06:31.850</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MonicaCellio Well yes, that's what I'm asking.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="1">
+			<PostId>15</PostId>
+			<ParentPostId>45</ParentPostId>
+			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:10:29.653</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yeah, I said 'equivalent quantities of alcohol', implying if you drink something with twice the ABV, you drink half as much.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>23</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:23:35.237</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@TomMedley I think what Monica is getting at is that it should be a specific question for a specific beer. This is too broad.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>25</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:24:48.353</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@waxeagle Asking for every beer would be a lot of questions. I'm asking for a rough guide, and the answer provided is an excellent one.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="4">
+			<PostId>26</PostId>
+			<ParentPostId>49</ParentPostId>
+			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:24:54.430</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think the question was why drinking beer *after* wine is a bad idea.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="3">
+			<PostId>234</PostId>
+			<ParentPostId>257</ParentPostId>
+			<Contributors>
+				<UserId>92</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T13:35:47.570</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					No beer that i am aware of is served *warm*. Beer is served at *ambient temperature*, in particular the ambient temperature of the cool Northern European countries where it was perfected, i imagine because this is simply the easiest thing to do. There is a fizzy pale yellow liquid which is sometimes erroneously referred to as beer which is served cold; perhaps you are thinking of that?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="2">
+			<PostId>235</PostId>
+			<ParentPostId>262</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T15:21:47.317</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					+1 for excessively cold serving temperatures destroying the flavor.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="1">
+			<PostId>236</PostId>
+			<ParentPostId>262</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T15:56:40.503</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					On that point, related: [How does serving temperature affect the taste of beers?](http://beer.stackexchange.com/questions/105/how-does-serving-temperature-affect-the-taste-of-beers)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>237</PostId>
+			<ParentPostId>101</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T15:59:47.190</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't see your answer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="1">
+			<PostId>238</PostId>
+			<ParentPostId>88</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T16:05:10.357</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In some studies, it can happen as quick as 30 seconds. But it's really dependent on a number of factors such as bottle and brew type.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="1">
+			<PostId>240</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Contributors>
+				<UserId>5</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T16:13:13.760</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's worth noting that the frosted appearance is not a requirement for an ice cold glass but is achieved by first rinsing the glass to coat it in water.  If you only rinse the outside, there shouldn't be extra ice on the inside.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>246</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:17:49.680</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Somewhere in between might be good—stouts, fruity beers, etc.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>247</PostId>
+			<ParentPostId>265</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:20:37.600</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That is just in Germany though. It is still beer everywhere else.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="3">
+			<PostId>248</PostId>
+			<ParentPostId>264</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:25:03.153</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Typically, adjuncts (fancy term for extra things added) added during the boiling process are trying to have soluble things extracted from them and tend to appear as "hints of X." If you want the flavor to be prominent, the adjuncts are added during the fermentation process (called dry-hopping but can be done with things other than hops). You can of course, add oranges (for example) in the boiling AND fermentation phases. I have even seen people place additives in a french press, pour the beer in, and then press the beer into a glass.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="0">
+			<PostId>249</PostId>
+			<ParentPostId>265</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:28:03.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You're referring to the Reinheitsebot -  the German purity laws established in 1516. Even then, they were controversial, and their application to the rest of Germany in the late 19th century endangered a number of prominent and ancient traditions of spiced beers. While some breweries adhere to the purity laws as a point of pride, they are, as established originally, largely defunct, and certainly it doesn't account for the Sweetwater label you see...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="0">
+			<PostId>250</PostId>
+			<ParentPostId>265</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:30:23.167</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In that case, the term [Malt Beverage](http://en.wikipedia.org/wiki/Malt_beverage) is actually an American term of art invented to encompass Beer in jurisdictions where 'beer' was in some way pejorative or bad for the industry image, or to refer to various low-alcohol flavored beverages that are served as 'beer alternatives', such as Mike's Hard Lemonade, or Smirnoff Ice.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="1">
+			<PostId>270</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Contributors>
+				<UserId>13</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T07:49:24.413</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Related: http://cooking.stackexchange.com/questions/848/how-to-chill-beer-quickly
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="0">
+			<PostId>271</PostId>
+			<ParentPostId>77</ParentPostId>
+			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T07:58:39.353</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The glass in windows flowing thing is actually an urban legend. Yes, the glass is thicker on the bottom, because the technology of making the sheets of glass was flawed, and setting glass in windows was easier with thicker side down. You'd need more than a few hundred years for measurable glass flow effects.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="3">
+			<PostId>273</PostId>
+			<ParentPostId>295</ParentPostId>
+			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T10:13:18.390</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Note thermal capacity of these is much worse than ice cubes. 0.98 J/gK vs 2.11 J/gK for ice, 4.18 for water + a whooping 334 J/g of melting latent heat! So, 1g "reusable ice cube" frozen to -10C melting and heating to +5C will absorb 376 J while the stone will absorb mere 14.7J making them about 25 times more efficient!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>274</PostId>
+			<ParentPostId>296</ParentPostId>
+			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T10:17:28.343</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Trick is not to freeze the beer and not to dilute it. Tossing a chunk of dry ice into your beer might sound like a very simple and very efficient idea except you freeze some of the beer and it's not so good afterwards.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="1">
+			<PostId>275</PostId>
+			<ParentPostId>296</ParentPostId>
+			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T10:53:41.730</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You don't put the dry ice **in** the beer - that's crazy talk :-) But you can pump the beer through a coil embedded in dry ice, for example.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="2">
+			<PostId>276</PostId>
+			<ParentPostId>295</ParentPostId>
+			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T10:56:29.997</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@SF. - it looks like you may not be completely correct (as Great Bear says here: http://physics.stackexchange.com/q/63164/2498 ) but the main reason is so you don't dilute the drink.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="1">
+			<PostId>277</PostId>
+			<ParentPostId>295</ParentPostId>
+			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T11:03:23.600</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@RoryAlsop: That's why I suggested "reusable cubes", ones where the 'coolant' is sealed within, for example, stainless steel case. BTW, where did I make a mistake? (10*2.11 + 334 + 5*4.18) / (15 * 0.98) = 376 / 14.7 = 25.578. True in case of "gel filling" the thermal capacity is worse, but the melting point is lower -&gt; higher temperature gradient -&gt; faster cooling.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>278</PostId>
+			<ParentPostId>295</ParentPostId>
+			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T11:24:48.230</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I take it back - I missed the word **reusable** in your comment. Sorry
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="0">
+			<PostId>279</PostId>
+			<ParentPostId>292</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T12:57:16.140</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Also: different price points, which can result in different consumption practices. Different levels of water consumption between different nights. Varied food consumption...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="5">
+			<PostId>281</PostId>
+			<ParentPostId>299</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T16:04:55.057</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd pour the salt at the bottom, _then_ the ice and water, to dissolve that salt as evenly as possible. Otherwise you're pouring salt over the tops of ice and beers... Also, the reason this works is that ice alone would barely contact the beer (in terms of total surface area)—there'd be a lot of air in between, and air's a very effective insulator (hence double-pane windows). Adding water maximizes the surface area of contact, and adding salt lowers the freezing point of water to make the transfer of cold (technically, heat) more efficient.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>282</PostId>
+			<ParentPostId>295</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T16:15:38.397</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not sure why it got downvoted though
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="0">
+			<PostId>283</PostId>
+			<ParentPostId>117</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T16:16:45.193</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					RIP Guinness widget (at least, in the USA)... we'll miss you always.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="0">
+			<PostId>286</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T17:40:20.670</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The biggest issue I've encountered with frosted glasses is ice in my beer. This shouldn't happen, but at some bars, it does.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="0">
+			<PostId>288</PostId>
+			<ParentPostId>298</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T17:52:58.027</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					So a whiskey would be more like a distilled wort, I take it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35"  InstanceType= "comments" Score="0">
+			<PostId>289</PostId>
+			<ParentPostId>223</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T17:55:38.167</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I see that the question has been edited; editing my answer to suit.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36"  InstanceType= "comments" Score="2">
+			<PostId>298</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T21:51:42.463</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Mythbusters did this a few years ago - http://kwc.org/mythbusters/2005/03/mythbusters_cooling_a_sixpack.html
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="37"  InstanceType= "comments" Score="0">
+			<PostId>299</PostId>
+			<ParentPostId>310</ParentPostId>
+			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T21:54:33.413</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					why do you have a risk of broken glass if you pour the beers into glasses?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="38"  InstanceType= "comments" Score="0">
+			<PostId>300</PostId>
+			<ParentPostId>310</ParentPostId>
+			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-24T23:15:38.613</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@warren if beer freezes in freezer, it can break the glass..
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="39"  InstanceType= "comments" Score="1">
+			<PostId>302</PostId>
+			<ParentPostId>296</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T01:04:13.680</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is all very nifty, but also *highly impractical.*
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="40"  InstanceType= "comments" Score="0">
+			<PostId>556</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-04T09:16:39.720</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well, like everything beer - judgement as to what is good vs bad will always come down to taste, and one should be tolerant to personal choice. Even so, there are some generally recognized guidelines regarding temperature that can serve as a starting point before someone has formed their own opinions about temperature.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="41"  InstanceType= "comments" Score="0">
+			<PostId>557</PostId>
+			<ParentPostId>342</ParentPostId>
+			<Contributors>
+				<UserId>368</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-04T14:13:08.033</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Re: number 3, smelling the back of one's hand is a common method of "cleansing" the olfactory palette to avoid fatigue. It works surprisingly well, IMO!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="42"  InstanceType= "comments" Score="3">
+			<PostId>558</PostId>
+			<ParentPostId>483</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-04T17:11:26.037</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The bent spoon is probably the best tool, but the *coolest* tool is most likely the [Lagerhead Black and Tan Turtle](http://morebeer.com/products/lagerhead-black-tan-turtle.html?gclid=CIzj87j7srwCFcdQOgodCGMA6g).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="43"  InstanceType= "comments" Score="1">
+			<PostId>559</PostId>
+			<ParentPostId>500</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-04T17:15:24.457</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The 70/30 ratio is interesting, and makes a lot of sense. As far as glasses go, a [tulip glass](http://www.outstandingbranding.com/images/NIRWoc4rAbfdMjjwGtnJJAGtGtMf/Tulip-Pint-Glass-57cl-20-1oz.jpg) generally works pretty well too.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="44"  InstanceType= "comments" Score="1">
+			<PostId>560</PostId>
+			<ParentPostId>500</ParentPostId>
+			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-04T17:22:26.763</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Ryan - Yeah the tulip glasses work as well :) Really any glass will work, it is just harder if there isn't much of a bend in it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="45"  InstanceType= "comments" Score="0">
+			<PostId>561</PostId>
+			<ParentPostId>514</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-04T17:56:06.917</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I typically like to leave a question unaccepted for a while, to encourage other answers, but this really hits on all the points I hoped for and expected.  Thanks!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="46"  InstanceType= "comments" Score="1">
+			<PostId>562</PostId>
+			<ParentPostId>519</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-04T17:58:55.450</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					One thing I never found out about cans is... is the outside lip also lined in plastic, or just the inside?  I rarely drink beer straight from a bottle or can, but I almost always drink coke from the can.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="47"  InstanceType= "comments" Score="0">
+			<PostId>563</PostId>
+			<ParentPostId>514</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-04T18:01:33.520</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks. I'm pleased you liked my answer - very glad to be of service!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="48"  InstanceType= "comments" Score="1">
+			<PostId>564</PostId>
+			<ParentPostId>519</ParentPostId>
+			<Contributors>
+				<UserId>233</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-04T18:06:30.073</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not sure... but I actually doubt it. I suppose the smell of the can could effect the taste of the beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="49"  InstanceType= "comments" Score="1">
+			<PostId>675</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T07:51:58.233</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I haven't drunk beer warm so far, can you show me which types are commonly drunk warm?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="50"  InstanceType= "comments" Score="2">
+			<PostId>676</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T12:14:40.990</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think, in this case, "warm" is a relative term. Rather than saying that beer is commonly enjoyed "warm" in Europe, I'd say that it's not as cold as Americans tend to serve their beer. Still, I doubt it's anything above room temperature.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="51"  InstanceType= "comments" Score="2">
+			<PostId>682</PostId>
+			<ParentPostId>605</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-15T00:33:04.350</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Excellent question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="52"  InstanceType= "comments" Score="1">
+			<PostId>702</PostId>
+			<ParentPostId>605</ParentPostId>
+			<Contributors>
+				<UserId>5</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-17T22:29:04.723</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Related, possibly duplicate: http://beer.stackexchange.com/questions/50/will-temperature-changes-cause-a-beer-to-skunk-or-otherwise-spoil though I didn't really get a satisfactory answer as to *why* warming doesn't cause spoilage.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="53"  InstanceType= "comments" Score="1">
+			<PostId>703</PostId>
+			<ParentPostId>533</ParentPostId>
+			<Contributors>
+				<UserId>492</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-17T23:58:44.273</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is mostly correct. Having owned a restaurant in Thailand where it's typical for a customer to stay ALL day and drink BYO whisky and still expect full service. My point is service costs and has to be taken into account. We made most of our profits on soda then ice then beer and nothing on spirits since it traditional in Thailand not to apply corkage or stop customers from byo-ing.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="54"  InstanceType= "comments" Score="0">
+			<PostId>704</PostId>
+			<ParentPostId>611</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-18T16:26:05.890</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@audiFanatic I'm sure there's an obvious issue of which I'm unaware, but what's your problem with InBev all about?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="55"  InstanceType= "comments" Score="1">
+			<PostId>705</PostId>
+			<ParentPostId>605</ParentPostId>
+			<Contributors>
+				<UserId>479</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-18T16:52:16.100</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hey Brian. Yeah, I saw that prior to posting but the answer made it clear that that kind of degradation requires light and isn't really about temperature.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="56"  InstanceType= "comments" Score="1">
+			<PostId>706</PostId>
+			<ParentPostId>611</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-18T17:30:42.513</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					They ruin every beer they touch; swap out the good ingredients for cheap corn. Their profits go up and the beer quality goes down. Goose Island is the only exception because they signed a contract which forbids them from changing the recipe for 100 years.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="57"  InstanceType= "comments" Score="0">
+			<PostId>861</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Contributors>
+				<UserId>719</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-31T07:44:27.803</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Put your sixpack into liquid helium. There is no way to get it cool that fast. The best thing: While you wait for the beer to get liquid again, all the helium evaporates ;-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="58"  InstanceType= "comments" Score="0">
+			<PostId>862</PostId>
+			<ParentPostId>682</ParentPostId>
+			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-31T08:02:20.740</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@JackAidley: Good point which I stupidly overlooked, but it's also been pointed out that freeze distilling is not distilling unless you allow a sense "any process that results in higher alcohol". To paraphrase you, "Distillation is vaporizing and condensing; once you've frozen and removed a significant amount of water you've done something that I don't know what is but it ain't distillation." You are free to like it or not like it but it's not down to the definition of words. Your "it ain't a beer" is somebody else's "it is a beer". Nobody makes beer in a still (-:
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="59"  InstanceType= "comments" Score="0">
+			<PostId>863</PostId>
+			<ParentPostId>682</ParentPostId>
+			<Contributors>
+				<UserId>691</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-31T10:50:28.020</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@hippietrail: There's a reason the modifier 'freeze' is used in 'freeze distillation' - you're correct that it's not technically a distillation process but that's the term that is used for it so them's the breaks. Since no widely drunk alcohol is freeze distilled there's no terminology for heavily freeze distilled alcoholic drinks, none-the-less I don't think it's reasonable to act like extensive post-production modification leaves it as still a beer: honestly, you may as well pour in absolute ethanol and claim the strongest beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="60"  InstanceType= "comments" Score="0">
+			<PostId>865</PostId>
+			<ParentPostId>682</ParentPostId>
+			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-31T11:22:52.977</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well there's also a reason people call things beer that you don't feel are beer and them's also the breaks. That's the point. It's all arbitrary and subjective. I wouldn't be surprised if there are beers with ethanol, apparently the Kingfisher you get in India is regarded as unsafe by expats there (unlike the export variety). You could indeed make the world's strongest beer this way. I agree it's not a great record to go for but but some people do so them's the breaks. In the meantime it's probably best to come up with some term like "natural" or "traditional" or "Reinheitsgebot" beer...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="61"  InstanceType= "comments" Score="0">
+			<PostId>866</PostId>
+			<ParentPostId>701</ParentPostId>
+			<Contributors>
+				<UserId>718</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-31T15:31:53.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Noooooooooo! This is very disappointing, but at least I got to try it once. Thanks Anthony!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="62"  InstanceType= "comments" Score="0">
+			<PostId>867</PostId>
+			<ParentPostId>701</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-01T05:08:06.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Nice sleuthing!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="63"  InstanceType= "comments" Score="0">
+			<PostId>896</PostId>
+			<ParentPostId>215</ParentPostId>
+			<Contributors>
+				<UserId>799</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-21T18:14:19.753</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Interesting note, there are places where it's not usually found in fridges at the supermarket.  Unfortunately.  http://www.indystar.com/story/money/2014/02/19/cold-beer-sales-fight-in-indiana-lands-in-federal-court/5621589/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="64"  InstanceType= "comments" Score="0">
+			<PostId>2060</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Contributors>
+				<UserId>1133</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-07-24T18:31:28.663</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					darker beer I leave it at room temperature. Lighter beer I like to drink really cold. Darker beer when you drink it at room temperature or at least keep it out of the fridge for a good 15 minutes, you will experience different tastes, and it is heaven. I hate drinking warm lighter beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="65"  InstanceType= "comments" Score="0">
+			<PostId>2061</PostId>
+			<ParentPostId>893</ParentPostId>
+			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-07-30T01:33:31.363</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Crabbies is my personal favorite at the moment.  I'll keep sampling to research this tasty beverage.  8-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="66"  InstanceType= "comments" Score="6">
+			<PostId>2131</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-09-27T16:44:01.333</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Welcome to Beer.SE! Actually, not everyone would agree that _"Nothing [is] better than [an] ice cold beer."_ Colder serving temperatures numb your taste buds (check out [some questions tagged "temperature"](http://beer.stackexchange.com/questions/tagged/temperature)), taking away your ability to taste your beer. This is why American "macros" (_e.g._ Coors) often advertise their beverages in the context of "enjoying an ice-cold beer"—because you do _not_ want to taste the nuances of those beers at room temperature. Lagers in general are served at cooler temperatures than ales, and
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="67"  InstanceType= "comments" Score="1">
+			<PostId>2132</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-09-27T16:52:22.277</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					imperial stouts are even served at room temperature! Of course, I'm not saying "ice-cold beers" _can't_ be pleasurable; indeed the sensation of coolness can be satisfying, especially after a hot summer day. But by serving all beers "ice-cold," not only would beer enthusiasts not be able to experience the finer differences in tastes of beers, but also we'd essentially marginalize the very art behind brewing: Why create unique (however nuanced) brews if no one can taste the difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="68"  InstanceType= "comments" Score="0">
+			<PostId>2134</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-09-27T19:32:32.147</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I have deleted your comment promoting your company's product around this "issue." Please do not attempt to use Beer.SE for advertising / SEO purposes. The next offense will result in a suspension.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="69"  InstanceType= "comments" Score="1">
+			<PostId>2135</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-09-30T15:14:16.490</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					People drinking Coors Light would agree, not those drinking craft beers
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="70"  InstanceType= "comments" Score="0">
+			<PostId>2136</PostId>
+			<ParentPostId>1032</ParentPostId>
+			<Contributors>
+				<UserId>241</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-10-01T00:35:45.007</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Having one of [these](http://www.elysianbrewing.com/elysian-beers/great-pumpkin-ale/) now. Smells absolutely perfect. Made with pumpkin &amp; pumpkin seeds.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="71"  InstanceType= "comments" Score="0">
+			<PostId>2137</PostId>
+			<ParentPostId>1032</ParentPostId>
+			<Contributors>
+				<UserId>241</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-10-01T01:50:11.243</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Oh man, [an other](http://www.elysianbrewing.com/elysian-beers/dark-o-the-moon/). So good.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="72"  InstanceType= "comments" Score="0">
+			<PostId>2224</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Contributors>
+				<UserId>176</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-24T00:17:36.347</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This doesn't seem to be a notable claim, can you provide some examples? Or is it simply your friends' idea?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="73"  InstanceType= "comments" Score="0">
+			<PostId>2225</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-24T00:43:45.743</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wit a little more searching I came across: [this source](http://www.binnys.com/blog/binnys-mailbag-re-refrigerating-beer/) that seems to suggest that it doesn't matter, and [this source](http://lemonlye.livejournal.com/80537.html) which seems to suggest that re-refrigerating is bad for beer, and *definitely* bad for wine. I did hear about this from my friends, though it seems to be a general superstition(?). There seems, however, to be [scientific evidence](https://beersensoryscience.wordpress.com/2011/03/17/lightstruck/) of beer being affected by light.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="74"  InstanceType= "comments" Score="0">
+			<PostId>2226</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-26T03:43:00.503</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@oddthinking thanks for the edit. I figured the title needed work, couldn't figure out how to word it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="75"  InstanceType= "comments" Score="0">
+			<PostId>2227</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-29T16:32:55.073</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@warren Good catch. I didn't even think to look for a beer-based SE... then again who would? Vote to close.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="76"  InstanceType= "comments" Score="0">
+			<PostId>2228</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-29T18:16:42.707</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@ChrisCirefice - who *wouldn't* think to look for beer-related questions on the Beer.SE? :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="77"  InstanceType= "comments" Score="0">
+			<PostId>2239</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-04T15:01:39.640</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@ChrisCirefice - Welcome to Beer.SE. Good question, but I believe it is a duplicate (which of course you couldn't have known while asking on Skeptics.SE). If the answers at the indicated duplicate don't satisfy you, please comment here to let us know.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="78"  InstanceType= "comments" Score="0">
+			<PostId>2240</PostId>
+			<ParentPostId>2159</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-04T15:02:25.333</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					+1 for pointing out the correlation between leaving beer out and exposure to light.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="79"  InstanceType= "comments" Score="0">
+			<PostId>2241</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Contributors>
+				<UserId>2632</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-04T20:06:43.223</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@AndrewCheong I didn't know Beer.SE even existed when I posted this question to Skeptics.SE, so you're right, I had no idea there was a duplicate (though I would have easily found it if I had even thought to look for Beer.SE). That said, it is appropriately marked as duplicate. I appreciate the answers everyone has given regardless, but I'm waiting on feedback to [my Meta question](http://meta.stackexchange.com/questions/246366/migration-to-a-site-with-no-account-prevents-quick-account-deletion-feature) before I take any further action (votes/accept) on Beer.SE.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="80"  InstanceType= "comments" Score="1">
+			<PostId>2242</PostId>
+			<ParentPostId>624</ParentPostId>
+			<Contributors>
+				<UserId>2639</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-04T22:16:35.807</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Here is a great research paper if anyone is looking for specifics [Stability profile of flavour-active ester compounds in
+					ale and lager beer during storage](http://www.academicjournals.org/article/article1380728686_Hiralal%20et%20al.pdf)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="81"  InstanceType= "comments" Score="0">
+			<PostId>2243</PostId>
+			<ParentPostId>2159</ParentPostId>
+			<Contributors>
+				<UserId>2607</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-05T15:45:20.937</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Cans will be fine, yes. As for bottles brown ones can probably take a couple of days of light and be fine as brown glass blocks some 90% of light. Green only blocks around 40% though and clear nearly 0%, so I would not expose either of them unless I was drinking them. Of course its best to just keep everything someplace cool and dark.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="82"  InstanceType= "comments" Score="0">
+			<PostId>2244</PostId>
+			<ParentPostId>2163</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-05T16:05:06.303</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I would agree with you.  The 2nd beer I put on tap was very temperamental and one thing I had to realize was that the setting on the regulator was the pressure of CO2 in the empty space of the keg, not necessarily the carbonation of the beer or even how much CO2 is coming out the tank.  Plus when you change the setting, it takes many hours to stabilize.  Also figure out some way to insulate the tap tower if you have one.  Warm beer in the upper foot of the tube has caused me lot of grief in the past.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="83"  InstanceType= "comments" Score="2">
+			<PostId>2245</PostId>
+			<ParentPostId>974</ParentPostId>
+			<Contributors>
+				<UserId>1275</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-07T01:20:09.110</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Good suggestion but I'm pretty sure Kriek is Flemish for sour cherry (see http://en.m.wikipedia.org/wiki/Kriek_lambic )
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="84"  InstanceType= "comments" Score="0">
+			<PostId>3245</PostId>
+			<ParentPostId>974</ParentPostId>
+			<Contributors>
+				<UserId>662</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-07T09:08:16.657</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@HNJSlater Good point, you are correct!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="85"  InstanceType= "comments" Score="2">
+			<PostId>3246</PostId>
+			<ParentPostId>2178</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-07T13:46:25.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Some of the resealable metal ones coming out recently actually look quite appealing.  Same reason micro-canning and portable cannery businesses are beginning to take off.  Metal containers like cans, kegs, or metal growlers offer 100% UV protection and they'll generally chill faster than glass.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="86"  InstanceType= "comments" Score="0">
+			<PostId>3247</PostId>
+			<ParentPostId>2170</ParentPostId>
+			<Contributors>
+				<UserId>198</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-08T15:19:58.033</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I have been served at least one "White Stout" that tasted like cream soda and had nothing to do with a stout, which just seems like marketing.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="87"  InstanceType= "comments" Score="0">
+			<PostId>3248</PostId>
+			<ParentPostId>3184</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-12T02:16:15.177</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Does the app provide a ranking as the OP asks? (If not, I may convert this answer into a comment.) In any case, interesting app—thanks, and welcome!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="88"  InstanceType= "comments" Score="1">
+			<PostId>3390</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-05-09T12:58:08.677</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Safe to keep that long? yes, now how they will taste is the unknown answer. I would serve them at a temperature I normally would for a stout or barley wine
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="89"  InstanceType= "comments" Score="0">
+			<PostId>3391</PostId>
+			<ParentPostId>3359</ParentPostId>
+			<Contributors>
+				<UserId>4071</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-05-10T20:42:27.900</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I guess I probably should have known that the shops I frequent are pretty outlier-y.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="90"  InstanceType= "comments" Score="0">
+			<PostId>3394</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Contributors>
+				<UserId>4106</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-05-10T02:15:16.273</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					warm light beer in summer outside is a UK cultural wonder
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="91"  InstanceType= "comments" Score="0">
+			<PostId>3395</PostId>
+			<ParentPostId>3382</ParentPostId>
+			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-05-20T21:38:00.460</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks, although I do not know if these have been bottle conditioned they have high abv, I do have some bcbs bottles from 2013 and indeed they had tasted better with age. They have been around that temperature, although I can't say exactly, but at least I know they're safe to drink.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="92"  InstanceType= "comments" Score="1">
+			<PostId>3397</PostId>
+			<ParentPostId>3189</ParentPostId>
+			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-05-27T13:08:58.743</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I am a huge fan of this sub-reddit and recommend trying it out.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="93"  InstanceType= "comments" Score="0">
+			<PostId>3859</PostId>
+			<ParentPostId>4972</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-22T17:17:39.730</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Partly a matter of personal taste. If you serve it over chilled for their taste they can just let is sit a few minutes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="94"  InstanceType= "comments" Score="0">
+			<PostId>3861</PostId>
+			<ParentPostId>131</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-23T11:14:17.480</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't think this question is about dispensing.  Still good answer on dispensing.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="95"  InstanceType= "comments" Score="0">
+			<PostId>3925</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Contributors>
+				<UserId>5283</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-28T13:34:17.943</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					liquid helium (or nitrogen) can be mixed into the beer as well—they'll evaporate and not react with the beer, but the cooling will be really efficient.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="96"  InstanceType= "comments" Score="0">
+			<PostId>3926</PostId>
+			<ParentPostId>5044</ParentPostId>
+			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-29T02:37:36.560</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					So one reasonable (but perhaps overly cautious) approach would be to assume that any American liquor *does* have additives unless it explicitly disclaims them?  And only the additives disclaimed?  (E.g., is Absolut glaring in its mention of sugar while remaining silent on the common and sweet additive *glycerin*?)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="97"  InstanceType= "comments" Score="0">
+			<PostId>3927</PostId>
+			<ParentPostId>5044</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-29T02:50:18.473</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Lysander That is the approach I would take to this question. It may be possible that you could get a more detailed answer if you were to email the manufacture of a particular liquor directly, but there is no guarantee  that you would get a response.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="98"  InstanceType= "comments" Score="0">
+			<PostId>3929</PostId>
+			<ParentPostId>5036</ParentPostId>
+			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-30T08:40:10.013</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That doesn't really answer the question.  I know that there are different names in different states (I linked to a similar table in the question).  The question is why the names used in South Australia seem to be one size smaller than what those names refer to in other states.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="99"  InstanceType= "comments" Score="0">
+			<PostId>3931</PostId>
+			<ParentPostId>49</ParentPostId>
+			<Contributors>
+				<UserId>5391</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-31T05:38:33.503</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What is the meaning of AB ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="100"  InstanceType= "comments" Score="1">
+			<PostId>3932</PostId>
+			<ParentPostId>49</ParentPostId>
+			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-31T12:24:42.657</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@HiteshSahu - ABV is "alcohol by volume"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="101"  InstanceType= "comments" Score="0">
+			<PostId>3933</PostId>
+			<ParentPostId>4938</ParentPostId>
+			<Contributors>
+				<UserId>5496</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-31T20:18:26.787</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@pau1 Would this be considered a timeframe when drinking the wine would still _taste_ ok? Or when it would be a food safety issue to consume it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="102"  InstanceType= "comments" Score="1">
+			<PostId>3934</PostId>
+			<ParentPostId>798</ParentPostId>
+			<Contributors>
+				<UserId>3744</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-02T16:50:36.830</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The marketing works. My wife orders Stella ONLY if it comes with that gold rimmed glass. I've seen other women ask about the glass and if the bar doesn't have it, they order some other drink. Very odd.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="103"  InstanceType= "comments" Score="0">
+			<PostId>3935</PostId>
+			<ParentPostId>5033</ParentPostId>
+			<Contributors>
+				<UserId>3744</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-02T16:53:21.987</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are these glass bottomed tankards where the term "beer goggles" originated?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="104"  InstanceType= "comments" Score="3">
+			<PostId>3936</PostId>
+			<ParentPostId>5059</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-02T17:09:26.283</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Why shouldn't he order "regular beer"? Everyone should order what they like, not what they think others expect them to order.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="105"  InstanceType= "comments" Score="0">
+			<PostId>4378</PostId>
+			<ParentPostId>605</ParentPostId>
+			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-28T06:18:24.410</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					My stouts are delicious at any temperature, regardless of fluctuation. :D (Living in an old house, there are a LOT of those....)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="106"  InstanceType= "comments" Score="0">
+			<PostId>4379</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-28T06:25:26.083</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I tend to enjoy all beer at any temperature... So, when I serve myself I do so generously and absolutely; regardless of circumstance. Who are you serving? This is a question of taste...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="107"  InstanceType= "comments" Score="0">
+			<PostId>4380</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-28T06:33:03.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd like to know how Guinness, in particular, should factor into this equation... It's Irish, I know. But, as far as concept - there are fascinatingly intricate serving rules associated with both the pour and temperature. I like it warm and cold..
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="108"  InstanceType= "comments" Score="0">
+			<PostId>5050</PostId>
+			<ParentPostId>6873</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-06-03T14:21:30.603</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Part of the reason for doing so can simply be put down to custom and tradition.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="109"  InstanceType= "comments" Score="0">
+			<PostId>5064</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-06-15T03:29:10.073</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Somewhat related: https://alcohol.stackexchange.com/q/83/43
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="110"  InstanceType= "comments" Score="0">
+			<PostId>5323</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-18T18:04:04.707</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You don't need to drink a beer at room temperature. Find a stream, lake, pond or whatever and stick your beer in there for a while. If that's not available, dig a hole in the ground until the ground cools off. Stick the beer in there for a while with good contact with the soil. Cans work better for this. If you have an couple of hours, the beer might be at least cooled off into the 50s or 60s.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="111"  InstanceType= "comments" Score="2">
+			<PostId>5324</PostId>
+			<ParentPostId>7128</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-19T21:47:18.657</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hi Aleksander, and welcome to Alcohol StackExchange!  Since your answer directly contradicts several other answers, can you expand on why you believe 10C is an optimal serving temperature for all beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="112"  InstanceType= "comments" Score="0">
+			<PostId>5332</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Contributors>
+				<UserId>7438</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-18T15:35:47.200</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					IPA. This beer was produced by the English to transport across the seas without spoiling
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="113"  InstanceType= "comments" Score="0">
+			<PostId>5333</PostId>
+			<ParentPostId>7103</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-28T01:05:36.223</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hi Mixhab, it would be useful if you could expand your answer to explain what in, and how water can impact the taste of beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="114"  InstanceType= "comments" Score="0">
+			<PostId>5334</PostId>
+			<ParentPostId>7107</ParentPostId>
+			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-01T14:34:23.743</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					As you can see by reading the post, the sugar content is exactly the same in both cases because both came from the canned cherries.  In addition, as you can see by reading the post, the juice is already very highly watered down.  Complete and 100% information was already given so it obviously is not possible to give "more".  The yeast, as mentioned in the post, came from when there is too-high amounts of yeast, which means that the only possibility of a place it can come from is the kombucha.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="115"  InstanceType= "comments" Score="0">
+			<PostId>5335</PostId>
+			<ParentPostId>7107</ParentPostId>
+			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-01T14:34:29.363</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Becoming a millionaire as well as spending literal tens of dollars for an ounce or two at a time of some kind of valid fermented drink (yes preferably wine but once again the first bottle of juice also just became carbonated) is obviously not a valid or reasonable thing to do, and of course anyone who has such a huge amount of money at one time could also simply buy alcohol, even if they wanted healthy/non-toxic alcohol.  The "juice" cab be drank on it's own though tastes much better when fermented as in the first bottle, and presumably as wine as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="116"  InstanceType= "comments" Score="0">
+			<PostId>5336</PostId>
+			<ParentPostId>7107</ParentPostId>
+			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-01T14:36:12.797</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If the problem would be allegedly merely that "the yeast did not survive", then this should result in the same result as happened the first time.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="117"  InstanceType= "comments" Score="1">
+			<PostId>5569</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-16T13:21:02.513</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Could you clarify the experiment? You have four temperatures and four durations specified, but only three cans of beer. Also, you can't "boil" something if the temperature is less than 212F. 149F for 30 minutes is not unlike driving home from the store with beer in a hot car trunk. Also it might matter if the beer was pasteurized. You might try reading this: http://www.itwatchdogs.com/environmental-monitoring-news/cold-storage/effects-of-temperature-on-beer-appearance,-aroma-and-taste-540333
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="118"  InstanceType= "comments" Score="0">
+			<PostId>5571</PostId>
+			<ParentPostId>7347</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-19T17:08:21.313</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					According to the current Fosters UK site, there are three beers listed. Fosters Gold, Fosters Radler and Fosters Lager. Nothing else.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="119"  InstanceType= "comments" Score="0">
+			<PostId>5627</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Contributors>
+				<UserId>5160</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-22T23:15:09.113</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is a reasonable question.  Terms like "room temperature" are a bit meaningless too - "In what season and country?", for example
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="120"  InstanceType= "comments" Score="0">
+			<PostId>5628</PostId>
+			<ParentPostId>161</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-24T16:00:02.483</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Good answer, but I would add that, in general, any major differences are going to come from ABV and hop content. According to my Untappd profile I've checked in 150 unique beers over the past several years, and the only ones I really recall standing out are very heavy IPAs and very strong beers. And even then it's mostly ABV that provides a difference. For instance, a beer at 11% is a *much* different beer than one at 5%
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="121"  InstanceType= "comments" Score="0">
+			<PostId>5629</PostId>
+			<ParentPostId>7398</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-24T16:53:47.297</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Sorry no prisoner is going to go through all this trouble to ferment something. Even I wouldn't go through this hassle and I can do whatever I want! Just some apple or grape juice in a bag is all you need.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="122"  InstanceType= "comments" Score="0">
+			<PostId>5631</PostId>
+			<ParentPostId>7398</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-25T20:42:28.237</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Muze The quickest way to make some hooch undercover is apple juice or grape juice. Welch's if you are from the USA. And some yeast. If no yeast add some grapes with skins on. Simple as that. Put the yeast (or grapes) in the juice, preferably in a bucket of some kind with a lid and let it rip. If using yeast, fermentation should start within hours. Grapes could take a couple of days. When it finishes fermenting put it in some kind of bottle with as little of the dregs as possible. Enjoy!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="123"  InstanceType= "comments" Score="0">
+			<PostId>5634</PostId>
+			<ParentPostId>161</ParentPostId>
+			<Contributors>
+				<UserId>117</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-26T19:12:00.177</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Keep in mind that alcohol content affects absorption of other things too...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="124"  InstanceType= "comments" Score="1">
+			<PostId>5671</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Contributors>
+				<UserId>860</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-15T19:49:30.870</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've never had a bottle last more than an hour.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="125"  InstanceType= "comments" Score="0">
+			<PostId>5675</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-16T15:20:47.440</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A full double magnum takes a while to consume unless you have a large group - that's why I am asking
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

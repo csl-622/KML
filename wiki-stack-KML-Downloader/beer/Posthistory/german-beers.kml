@@ -1,0 +1,1640 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1079</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T20:49:01.653</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I see some US beers advertising that they brew according to the "German Beer Purity Law."  What is that, and is it still relevant today?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>1080</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T20:49:01.653</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the German Beer Purity Law?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>1081</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T20:49:01.653</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>1085</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T21:36:58.333</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				added tags 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, laws, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>1086</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T21:36:58.333</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 150 approved by 80 edit id of 62
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>1216</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T04:25:06.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429470439845691392
+			</EditDetails>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>1980</PostId>
+			<ParentPostId>716</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T05:50:48.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is Frankfurt famous for Apply Cider? 
+
+					And is Apple Cider considered a beer? Can any Cider be a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>1981</PostId>
+			<ParentPostId>716</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T05:50:48.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is Frankfurt famous for Apply Cider?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>1982</PostId>
+			<ParentPostId>716</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T05:50:48.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Body" >
+			<PostId>1985</PostId>
+			<ParentPostId>716</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T09:04:23.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>609</UserId>
+			</Contributors>
+			<EditDetails>
+				s/apply/apple
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why is Frankfurt famous for Apple Cider? 
+
+					And is Apple Cider considered a beer? Can any Cider be a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Title" >
+			<PostId>1986</PostId>
+			<ParentPostId>716</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T09:04:23.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>609</UserId>
+			</Contributors>
+			<EditDetails>
+				s/apply/apple
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why is Frankfurt famous for Apple Cider?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>1987</PostId>
+			<ParentPostId>716</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T09:04:23.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 609 approved by 123 edit id of 92
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>2070</PostId>
+			<ParentPostId>716</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T09:28:02.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/458537705094533120
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>2206</PostId>
+			<ParentPostId>806</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-24T09:58:14.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Altbier is found in Dusseldorf. 
+
+					**Is Altbier "alt" (i.e. "old" in german) because they are aged like wine?** 
+
+					**Can altbier be found outside of Dusseldorf?**
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>2207</PostId>
+			<ParentPostId>806</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-24T09:58:14.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is Altbier?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>2208</PostId>
+			<ParentPostId>806</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-24T09:58:14.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>2214</PostId>
+			<ParentPostId>806</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T01:47:12.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/471105306790207488
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>2234</PostId>
+			<ParentPostId>811</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T16:31:59.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>923</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I visited Bavaria Germany once and had my first taste of beer ever.  It was delicious!  I have no idea what beer or even what type of beer it was.
+
+					I've since "sampled extensively" many beers in my home area ( Minnesota, USA ) but whenever I look through a liquor store, I never see "Bavarian Beer" on any labels.  I sometimes see "Belgian" and get that by mistake, but I usually don't like those ones, haha.
+
+					Looking suggestions of beer type or specific brands or flavors.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>2235</PostId>
+			<ParentPostId>811</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T16:31:59.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>923</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What kind or kinds of beer are common in Bavaria, Germany?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>2236</PostId>
+			<ParentPostId>811</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T16:31:59.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>923</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					local, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>3404</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-27T03:18:40.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1031</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I haven't been drinking for years. And over the last month, I've been trying a small variety of beers, but they all had a taste I can't put my finger on that I didn't like. I was starting to wonder if I had lost my taste for beer. However, I was lucky enough to have had a Becks the other day, because I remembered it was a beer I used to enjoy. Anyways, I really liked the Becks, so I'd like to know what I'm drinking and why I like it. Also what are other similar beers to Becks?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>3405</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-27T03:18:40.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1031</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What characteristics does Becks have, and what are similar beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>3406</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-27T03:18:40.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1031</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, terminology, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>3410</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-29T05:11:46.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/483115585782702080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>3693</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-11T07:45:21.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Trento in Italy has a lot of German influence and especially when it comes to food and beer. They even serve their versions of German Weizenbier. see http://en.wikipedia.org/wiki/Trentino and http://www.tripadvisor.co.uk/Restaurants-g1493737-c21-Province_of_Trento_Trentino_Alto_Adige.html
+
+					Why is that so? Does anyone know whether there is a difference between Trento's German style beers and German German style beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>3694</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-11T07:45:21.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why does Trento Itay have such a range of German beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>3695</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-11T07:45:21.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, german-beers, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>3700</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-15T20:49:10.687</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1309</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If I remember correctly, the website of Erdinger states their 'Dunkle Hefe' needs to be finished within just 3 days after opening. I know it isn't pasteurized but I wonder, can we stretch that a little? 3 days for a keg is kind of short....
+					Why is that anyways? Is it because the yeast settles?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>3701</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-15T20:49:10.687</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1309</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How fast do I need to finish a Hefe Weissbier Keg?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>3702</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-15T20:49:10.687</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1309</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>3706</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-17T00:32:54.740</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/512036438180114434
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>3709</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-17T21:39:11.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/512355108827721728
+			</EditDetails>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Unknown" >
+			<PostId>3789</PostId>
+			<ParentPostId>811</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-18T05:52:14.287</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/523350823569747968
+			</EditDetails>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Edit Body" >
+			<PostId>3797</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:54:42.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				added link and heferweizen tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					If I remember correctly, the website of Erdinger states their 'Dunkle Hefe' needs to be finished within just 3 days after opening. I know it isn't pasteurized but I wonder, can we stretch that a little? 3 days for a keg is kind of short....
+					Why is that anyways? Is it because the yeast settles?
+
+					This [pdf][1] states a criteria for handling/maintaining the draft beer (Kriterien für Freigabe, Handhabung und Ausschank):
+
+
+					&gt; Gleichzeitige Überprüfung, ob 30 L oder 50 L-KEGs in einem Zeitraum
+					&gt; von drei Tagen leergezapft werden können
+
+
+
+					  [1]: http://www.erdinger.de/de/component/docman/doc_download/253-fassbierkonzept-fuer-erdinger-weissbier-im-offenen-ausschank.html?ItemId=101
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Edit Tags" >
+			<PostId>3798</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:54:42.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				added link and heferweizen tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					german-beers, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>3799</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:54:42.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 123 approved by -1 edit id of 110
+			</EditDetails>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Edit Body" >
+			<PostId>3800</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:54:42.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added link and heferweizen tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					If I remember correctly, the website of Erdinger states their 'Dunkle Hefe' needs to be finished within just 3 days after opening. I know it isn't pasteurized but I wonder, can we stretch that a little? 3 days for a keg is kind of short....
+					Why is that anyways? Is it because the yeast settles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Body" >
+			<PostId>6150</PostId>
+			<ParentPostId>3216</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-23T06:54:47.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can anyone tell me if the USA market Becks adheres to the current definition of the Reinheitsgebot (aka German Purity Law) and what grains are used?  
+
+					I ask because I swear it tastes "ricey" like all the other American InBev beers, like Miller etc but friends swear "Oh no, it's made to German spec" and I note it's made in St. Louis where the devil makes gross Anheuser Busch products.
+
+					Thanks in advance!
+
+					- Sincerely, 
+					Someone Get Me a Growler of Dirt Wolf
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Title" >
+			<PostId>6151</PostId>
+			<ParentPostId>3216</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-23T06:54:47.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Becks USA AB InBev
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Tags" >
+			<PostId>6152</PostId>
+			<ParentPostId>3216</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-23T06:54:47.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Question Protected" >
+			<PostId>6248</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-17T18:14:08.200</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Body" >
+			<PostId>6674</PostId>
+			<ParentPostId>3436</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-29T13:58:19.923</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4270</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					As a person of good beer taste, I have moved to Germany and to my horror I discovered, nobody here considers Indian Pale Ale to be beer.
+
+					Having looked intensively for Indian Pale Ale for several years now, I only found it in one bar that has it occationally and one "Späti" (Liquor/Tobaco store).
+
+					Am I missing something? Do Germans have some alternative to Indian Pale Ale or are they a lost nation missing out on imho. one of the best beer types in the world?
+
+					They have things here like Bock, Doppelbock and other strange things I never heard of. Are any of these similar in taste to Indian Pale Ale?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Title" >
+			<PostId>6675</PostId>
+			<ParentPostId>3436</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-29T13:58:19.923</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4270</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In Germany, Out of pale ale
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Tags" >
+			<PostId>6676</PostId>
+			<ParentPostId>3436</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-29T13:58:19.923</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4270</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ipa, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Unknown" >
+			<PostId>6717</PostId>
+			<ParentPostId>3436</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-07T23:29:35.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/618562536305229824
+			</EditDetails>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Body" >
+			<PostId>6851</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:05:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I found this for Saarland, http://www.ratebeer.com/state/saarland/122/ but it looks more like commercial brews.
+
+
+					Are there any craft/microbrewery in the tri-country greater region of Saarland (Germany), Luxembourg and Lorraine (France)?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Title" >
+			<PostId>6852</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:05:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft/micro brewery in Saarland, Luxembourg and Lorraine region?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Tags" >
+			<PostId>6853</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:05:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, german-beers, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Unknown" >
+			<PostId>7884</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-13T21:56:05.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				7
+			</EditDetails>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Unknown" >
+			<PostId>7927</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-20T01:49:28.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				7
+			</EditDetails>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Body" >
+			<PostId>8522</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T09:24:31.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard lately, that the german beer [*Warsteiner*][1] does not fullfill the german [**Reinheitsgebot**][2] and therefore is not a [*Pilsner*][3].
+
+					Is that true and if yes, what is being done differently?
+
+
+					  [1]: http://www.warsteiner.com/
+					  [2]: http://beer.stackexchange.com/a/431/4947
+					  [3]: https://en.wikipedia.org/wiki/Pilsner
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Title" >
+			<PostId>8523</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T09:24:31.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is the german "Warsteiner" a Pilsner?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Tags" >
+			<PostId>8524</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T09:24:31.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Edit Body" >
+			<PostId>8532</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-14T09:17:13.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<EditDetails>
+				rephrased question according to comments
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've heard lately, that the german beer [*Warsteiner*][1] &lt;strike&gt;does not fullfill the german [**Reinheitsgebot**][2] and therefore is&lt;/strike&gt; is not allowed to be called [*Pilsner*][3], that is why they call it a *Premium Verum*.
+
+					Is that true and if yes, why?
+
+
+					  [1]: http://www.warsteiner.com/
+					  [2]: http://beer.stackexchange.com/a/431/4947
+					  [3]: https://en.wikipedia.org/wiki/Pilsner
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Unknown" >
+			<PostId>8592</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-31T08:38:39.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/693715001421471745
+			</EditDetails>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Body" >
+			<PostId>9371</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T06:52:39.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The title is already the question.
+
+					How comes that i sleep well after drinking beer but i sleep terrible after drinking vodka?
+
+					I talk about 2 - 3 german 5,5% beer and about 100 - 200 ml vodka.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Title" >
+			<PostId>9372</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T06:52:39.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How comes that i sleep well after drinking beer but i sleep terrible after drinking vodka?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Tags" >
+			<PostId>9373</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T06:52:39.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Edit Body" >
+			<PostId>9374</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, addine two words to each and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					The title is already the question.
+
+					How is it that I sleep well after drinking beer but I sleep terrible after drinking vodka?
+
+					I am talking  about 2 - 3 German 5,5% beer and about 100 - 200 ml vodka.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Edit Title" >
+			<PostId>9375</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, addine two words to each and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How is it that I sleep well after drinking beer, but I sleep terrible after drinking vodka?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Edit Tags" >
+			<PostId>9376</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, addine two words to each and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					german-beers, foreign-beer, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Unknown" >
+			<PostId>9377</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5530 edit id of 204
+			</EditDetails>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Edit Tags" >
+			<PostId>9489</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:47:02.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, german-beers, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Body" >
+			<PostId>9828</PostId>
+			<ParentPostId>5213</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-23T01:46:52.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5691</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am trying to think of what US brewed beer tastes most similar to a Weihenstephaner Hefeweissbier...
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Title" >
+			<PostId>9829</PostId>
+			<ParentPostId>5213</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-23T01:46:52.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5691</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is a comparable beer to Weihenstephaner Hefeweissbier?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Tags" >
+			<PostId>9830</PostId>
+			<ParentPostId>5213</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-23T01:46:52.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5691</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, brewing, recommendations, german-beers, foam, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Edit Tags" >
+			<PostId>9859</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:47:52.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					german-beers, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Initial Body" >
+			<PostId>10979</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-30T16:52:23.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I [understand](http://www.munichsoktoberfest.com/) that Oktoberfest begins this year in Munich on September 17.  I'm going to be passing through Munich a few days earlier than that.  Am I likely to find any Oktoberfest beers in the Munich airport in the week before the festival, or is that date the "debut" and I'll just have to settle for other German beers when I'm there?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Initial Title" >
+			<PostId>10980</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-30T16:52:23.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are Oktoberfest beers available in Germany before the official start of the festival?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Tags" >
+			<PostId>10981</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-30T16:52:23.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, germany, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Edit Body" >
+			<PostId>10985</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-30T20:02:32.007</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				clarified per comments
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In the US where I live, fall brings beers labelled "Oktoberfest", usually Bavarian Märzenbiers.  I like this style and look forward to it.
+
+					This year it happens that I'm going to be passing through Munich a few days before the start of their [Oktoberfest](http://www.munichsoktoberfest.com/).  It'd be great to be able to sample Oktoberfest beers fresh out of the tap where they're made, rather than waiting for whatever makes it across the Atlantic to me later.  Am I likely to find any Oktoberfest beers in the Munich airport in the week before the festival, or is that date the "debut" and I'll just have to settle for other German beers when I'm there?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Body" >
+			<PostId>11152</PostId>
+			<ParentPostId>6326</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-06T02:17:18.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any reasonably common beers that are made using a triple (or other) decoction mash? I'm interested trying some but have had some trouble finding examples.
+
+					I would imagine there have to be at least a couple breweries in Germany that still do decoction mashing but is there anything that makes its way to the US?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Initial Title" >
+			<PostId>11153</PostId>
+			<ParentPostId>6326</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-06T02:17:18.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Commercial beers made using a (triple) decoction mash?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Tags" >
+			<PostId>11154</PostId>
+			<ParentPostId>6326</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-06T02:17:18.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Edit Body" >
+			<PostId>11224</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-13T00:00:40.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I found these [Beer from Saarland](http://www.ratebeer.com/state/saarland/122/) but it looks more like commercial brews.
+
+
+					Are there any craft/microbrewery in the tri-country greater region of Saarland (Germany), Luxembourg and Lorraine (France)?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Edit Body" >
+			<PostId>11295</PostId>
+			<ParentPostId>6326</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-24T19:37:03.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6042</UserId>
+			</Contributors>
+			<EditDetails>
+				minor edit to grammar to improve readability.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any reasonably common beers that are made using a triple (or other) decoction mash? I'm interested in trying some but have had some trouble finding examples.
+
+					I would imagine there have to be at least a couple of breweries in Germany that still do decoction mashing, but are there any beers that make their way to the US?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Unknown" >
+			<PostId>11296</PostId>
+			<ParentPostId>6326</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-24T19:37:03.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6042 approved by 5078 edit id of 282
+			</EditDetails>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Unknown" >
+			<PostId>11708</PostId>
+			<ParentPostId>6326</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-09T05:23:55.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/829561445201362944
+			</EditDetails>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Edit Body" >
+			<PostId>12519</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've heard lately, that the german beer [*Warsteiner*][1] &lt;strike&gt;does not fullfill the german [**Reinheitsgebot**][2] and therefore is&lt;/strike&gt; is not allowed to be called [*Pilsner*][3], that is why they call it a *Premium Verum*.
+
+					Is that true and if yes, why?
+
+
+					  [1]: http://www.warsteiner.com/
+					  [2]: https://alcohol.stackexchange.com/a/431/4947
+					  [3]: https://en.wikipedia.org/wiki/Pilsner
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Body" >
+			<PostId>14230</PostId>
+			<ParentPostId>7351</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T07:51:17.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some German pilsner beers have and "ice-cold filtered" ("eiskalt gefiltert") line on their bottle labels. Is there any difference (regarding the taste first of all) between "normal" filtering and the ice-cold filtering of beer? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Initial Title" >
+			<PostId>14231</PostId>
+			<ParentPostId>7351</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T07:51:17.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does "ice-cold filtering" have additional value for a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Initial Tags" >
+			<PostId>14232</PostId>
+			<ParentPostId>7351</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T07:51:17.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, filtering, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Unknown" >
+			<PostId>14317</PostId>
+			<ParentPostId>7351</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-09T18:58:00.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1016396065044598785
+			</EditDetails>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Body" >
+			<PostId>14480</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I want to brew beer and I wonder which temperature I should ferment it at?
+					I want to brew ales like IPA and Pale Ale.
+
+					What difference does different fermentation temperatures have on the beer? Are there different temperatures needed when brewing different kinds of beers with different yeasts?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Title" >
+			<PostId>14481</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Brewing: Which temperature should I ferment ale beer at?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Initial Tags" >
+			<PostId>14482</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, german-beers, craft-beers, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

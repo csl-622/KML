@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>4800</PostId>
+			<ParentPostId>4799</ParentPostId>			<Tags>
+				<tag>deposit</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-02T16:10:39.360</CreationDate>
+				<LastEditDate>2016-02-04T09:12:02.227</LastEditDate>
+				<LastActivityDate>2016-02-04T09:12:02.227</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4938</OwnerUserId>
+				<LastEditorUserId>4938</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This deposit is called trub (sometimes lees), and is a created in all ethanol fermentation processes.
+					The trub is mostly yeast cells both living and dead. This is why this deposit is only seen in beers that ferment in the bottle as it is otherwise removed before bottling. It is even possible to cultivate the yeast from the trub, but this requires special care. It is often advised not to drink it but some people like the taste. It is also possible a little glass is provided to separately drink the trub. &lt;/p&gt;
+
+					&lt;p&gt;As some of the yeast still lives, it will continue to produce gas while inside you which can cause flatulence.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>15</PostId>
+			<AcceptedAnswerId>197</AcceptedAnswerId>
+			<Title>
+			"Why doesn't bottled beer taste as good as draught beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>draught</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>16</Score>
+				<ViewCount>2030</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:45:28.747</CreationDate>
+				<LastActivityDate>2017-01-11T00:52:20.037</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>25</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Bottled beer is significantly different than the same label beer available on tap.&lt;/p&gt;
+
+					&lt;p&gt;How does bottled beer differ from draught beer? What is done to the bottled beer in order to prolong its shelf life in the bottle?&lt;/p&gt;
+
+					&lt;p&gt;And finally, why does draught beer taste so much better than bottled beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>63</PostId>
+			<AcceptedAnswerId>75</AcceptedAnswerId>
+			<Title>
+			"Why does Guinness have a special pouring process / bottle, while other stouts do not?"
+			</Title>
+			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>1458</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:22:24.927</CreationDate>
+				<LastActivityDate>2015-01-20T15:34:34.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>56</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness is sold in bottles and cans with special nitrogen widgets; the taps are specially rigged to have a two-step pouring process; heck, there's even a certificate given to people who learn how to "pour the perfect pint" at the Guinness factory in Dublin.  My question is: what makes Guinness so special? Why aren't these tactics used by other stout (or similar variants) producers?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>118</PostId>
+			<Title>
+			"Why does a nitro beer taste different?"
+			</Title>
+			<Tags>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>42</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:51:05.710</CreationDate>
+				<LastEditDate>2014-01-21T23:02:41.190</LastEditDate>
+				<LastActivityDate>2014-01-21T23:20:07.593</LastActivityDate>
+				<ClosedDate>2014-01-22T01:29:15.817</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>86</OwnerUserId>
+				<LastEditorUserId>86</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why does a draught beer with a nitrogen &lt;em&gt;taste&lt;/em&gt; different from a draught beer with a primarily carbon dioxide carbonation?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>243</PostId>
+			<Title>
+			"Popularity of tank beer"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>draught</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>237</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T02:10:21.910</CreationDate>
+				<LastActivityDate>2014-02-02T01:33:04.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In Czech Republic pubs with tank beer are pretty common and popular. There in many pubs and restaurants the beer is not stored in mobile casks or kegs but in much larger stationary tanks.
+					&lt;img src="https://i.stack.imgur.com/7oPb4.jpg" alt="enter image description here"&gt;
+					Here is interesting &lt;a href="http://www.expats.cz/prague/article/czech-food-drink/tank-beer-in-prague/" rel="noreferrer"&gt;article about tank beer in Prague&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;p&gt;It seems that in other countries tank beer is not popular so much. For example I have found some &lt;a href="http://tankbeer.co.uk/" rel="noreferrer"&gt;references from United Kingdom&lt;/a&gt; but there the tank beer seems to be used mainly on sport stadiums and other large facilities. &lt;/p&gt;
+
+					&lt;p&gt;How is tank beer popular in other countries? Is not tank beer in pubs and restaurants only a Czech phenomenon?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>245</PostId>
+			<AcceptedAnswerId>248</AcceptedAnswerId>
+			<Title>
+			"What are the effects of draught beer pushing medium on beer's taste and quality?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>gas</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>81</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T02:44:18.310</CreationDate>
+				<LastActivityDate>2014-01-23T05:24:08.137</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;For pushing of beer out of a keg to the line and faucet various media could be used. Usually they are gases which come into a direct contact with the beer like: carbon dioxide, nitrogen, carbon dioxide + nitrogen, air etc.&lt;/p&gt;
+
+					&lt;p&gt;The beer could be also contained in a polypropylene sack to not come into contact with the pushing gas for example to avoid oxidization caused by the oxygen from air.&lt;/p&gt;
+
+					&lt;p&gt;What are the effects of various pushing media on the taste, durability and quality of the beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>382</PostId>
+			<AcceptedAnswerId>395</AcceptedAnswerId>
+			<Title>
+			"Can quick beer cooling have a negative effect on the beer's taste?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>279</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T18:04:27.527</CreationDate>
+				<LastActivityDate>2014-01-29T13:49:38.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a difference if we compare the &lt;strong&gt;classical cooling of the whole keg&lt;/strong&gt;:&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/YbVm0.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;and the &lt;strong&gt;quick flow cooling&lt;/strong&gt; where the keg is at the ambient temperature?&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/q0FEN.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;Can the quick cooling have negative effect on the beer's taste or head?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>621</PostId>
+			<AcceptedAnswerId>623</AcceptedAnswerId>
+			<Title>
+			"How can canned beer be draft without the widget? (Japan-specific)"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>draught</tag>
+				<tag>local</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>922</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-16T07:10:43.110</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2014-02-18T15:09:07.497</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Here in Japan, draft beer is called nama (生) beer, or so my boss said. Referencing my &lt;a href="https://alcohol.stackexchange.com/questions/169/what-is-a-draft-beer"&gt;previous question&lt;/a&gt;, one answer said that draft beer is "pushed using gas, or drawn via a partial vacuum". I get the concept of the widget being used to facilitate that. However, canned draft beers in Japan have no widget at all! They come in different can sizes from very small to a liter size, and all have no widget whatsoever. So I wonder how it is classified as draft without having the characteristic of draft beer. Or am I missing something? Is it possible the term draft means something different around here? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>999</PostId>
+			<Title>
+			"How can I diagnose dirty taps from drinking a beer?"
+			</Title>
+			<Tags>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>4446</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-24T17:21:26.650</CreationDate>
+				<LastActivityDate>2014-08-24T18:27:14.653</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>66</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There's a restaurant I've visited several times where the food is good, but the draught beer often tastes... off. It's hard to describe exactly how the taste is wrong, but the word "musty" comes to mind.&lt;/p&gt;
+
+					&lt;p&gt;I know it's not the natural taste of the beer because the effect applies to beers I'm familiar with the taste of, such as Sam Adams Boston Lager and Yuengling Lager. It's can't just be a single bad keg, either, because it happened with different beers and on different days (weeks if not months apart from each other).&lt;/p&gt;
+
+					&lt;p&gt;A friend suggested to me that the restaurant probably had dirty taps, but only based on my description of what happened (basically what I said above) and wasn't able to give me any more information than that. Is it possible to trace the cause of a bad-tasting beer to dirty taps just from drinking it, and if so, how?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>3417</PostId>
+			<Title>
+			"Why does draught (draft) beer cause hangovers?"
+			</Title>
+			<Tags>
+				<tag>draught</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>5209</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-23T19:00:38.220</CreationDate>
+				<LastActivityDate>2016-09-08T20:43:19.357</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4241</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why is draught (draft) beer known to cause more hangovers than bottled beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>6538</PostId>
+			<AcceptedAnswerId>6577</AcceptedAnswerId>
+			<Title>
+			"What is so special about Guinness DRAUGHT?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>specialty-beers</tag>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>6306</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-15T15:45:01.317</CreationDate>
+				<LastActivityDate>2017-02-26T18:39:50.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6402</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I haven't heard a lot about the DRAUGHT (Guinness) in terms of its taste. But my brother insists to say that DRAUGHT is the queen of the Guinness. &lt;/p&gt;
+
+					&lt;p&gt;But I found nothing special, indeed, I find it rather too watered down.&lt;/p&gt;
+
+					&lt;p&gt;It is worth the hype or just a fad?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>7102</PostId>
+			<Title>
+			"Why draught beer tastes so different at different places in India"
+			</Title>
+			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>81</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-06T14:20:42.727</CreationDate>
+				<LastActivityDate>2017-12-10T11:07:39.657</LastActivityDate>
+				<ClosedDate>2017-12-12T03:16:19.583</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7408</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I just want to know why draught beer tastes so different at different places in India. I have been to different places all over the country and the beer tastes radically different.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

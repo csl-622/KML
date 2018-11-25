@@ -1,0 +1,569 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>676</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:43:22.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Microbreweries make less than 15,000 barrels per year, and craft breweries make less than 6,000,000 barrels per year.  
+
+					Aside from this distinction, are there any differences in the styles of production by the two entities?  If there's no difference in production technique, why make this distinction at all?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>677</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:43:22.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Aside from the number of barrels they produce, what is the main difference between a craft brewery and a microbrewery?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>678</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:43:22.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>1030</PostId>
+			<ParentPostId>405</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:33:57.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Of all types of beer, what type of beer require the most time to produce?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>1031</PostId>
+			<ParentPostId>405</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:33:57.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What type of beer require the most time to produce?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>1032</PostId>
+			<ParentPostId>405</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:33:57.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1556</PostId>
+			<ParentPostId>405</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T19:36:42.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433323729830301696
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>1700</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T22:41:25.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/437356479746957312
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>6176</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T14:06:57.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Was just curious about how the manufacturing of beer is done .
+					Can it be made at home also ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>6177</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T14:06:57.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can a beer branded like Tuborg , Budwizer be made at home locally?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>6178</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T14:06:57.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>6182</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T21:05:59.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Clarify title to make it better match the question.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Was just curious about how the manufacturing of beer is done.
+					Can it be made at home also?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Title" >
+			<PostId>6183</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T21:05:59.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Clarify title to make it better match the question.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Can a beer like Tuborg or Budweiser be made at home?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>8022</PostId>
+			<ParentPostId>4580</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-15T04:10:41.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4526</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was recently crunching some numbers about beer production in the United States ([data from the Alcohol and Tobacco Tax and Trade Bureau](http://www.ttb.gov/beer/beer-stats.shtml)), and I noticed pretty significant seasonality in the production of beer:
+
+					[![enter image description here][1]][1]
+
+					Average production peaks in June (on average 18.1 million barrels) and is lowest in November and December (on average 14.1 million barrels). Are these ~25% seasonal swings in production based on some technical aspect of the brewing process, or are they based on something else (e.g. demand)?
+
+					  [1]: http://i.stack.imgur.com/t5ot5.png
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>8023</PostId>
+			<ParentPostId>4580</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-15T04:10:41.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4526</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Cause of seasonal difference in beer production
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>8024</PostId>
+			<ParentPostId>4580</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-15T04:10:41.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4526</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>13085</PostId>
+			<ParentPostId>6966</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-25T20:10:14.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					AFAIK, good distillers discard (or at least reduce) the head (typically the first 5%) of any primary distillation run because it is predominantly less desirable high-VOC compounds.
+
+					Is distillation ever used to remove these "head compounds" from a fermented beverage just to improve its taste?
+
+					For example, if removing the head improves our cognac, wouldn't removing it from otherwise finished wine also improve the wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>13086</PostId>
+			<ParentPostId>6966</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-25T20:10:14.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Distilling fermented beverages to remove head without concentrating alcohol?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>13087</PostId>
+			<ParentPostId>6966</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-25T20:10:14.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, production, distillation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>13644</PostId>
+			<ParentPostId>7148</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-15T16:21:37.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Commericial wineries sometimes (often?) [dilute the grape juice with water before fermentation](https://www.winebusiness.com/tools/?go=winemaking.calc&amp;cid=5).  This is done (according to that page) because the grapes have too much sugar and can kill off the yeast and malolactic bacteria.  I've been [told](https://judaism.stackexchange.com/questions/88614/blessing-over-a-wine-water-mix/88616#comment285717_88616) that wineries that do high-end wines don't dilute, but others do.
+
+					People have been pressing grapes into wine for thousands of years.  Of course, precise control over the yeast and the process is more modern.  I'm not an expert, but I've seen some medieval and renaissance research, including recipe redactions, that didn't call for dilution.  I used to be part of a brewing club that made some of those recipes, and they didn't taste unusual to me.  (Of course, yeast selection might have played a role there.)
+
+					What drove the need for dilution?  Is it that the yeasts that are now preferred (or even available) are more fragile?  Are we cultivating grapes with more sugar now?  Are we now able to engineer more parts of the process that previously fell to chance, and that's somehow involved?  Have tastes changed and historically wine was much different in taste or strength?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>13645</PostId>
+			<ParentPostId>7148</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-15T16:21:37.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When and why did wineries start diluting wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>13646</PostId>
+			<ParentPostId>7148</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-15T16:21:37.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Tags" >
+			<PostId>13647</PostId>
+			<ParentPostId>7148</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-15T17:01:28.230</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>488</UserId>
+			</Contributors>
+			<EditDetails>
+				adding a tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, wine, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>13648</PostId>
+			<ParentPostId>7148</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-15T17:01:28.230</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 488 approved by 43 edit id of 321
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Edit Body" >
+			<PostId>13650</PostId>
+			<ParentPostId>7148</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-15T17:37:59.287</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<EditDetails>
+				fixed spelling
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Commercial wineries sometimes (often?) [dilute the grape juice with water before fermentation](https://www.winebusiness.com/tools/?go=winemaking.calc&amp;cid=5).  This is done (according to that page) because the grapes have too much sugar and can kill off the yeast and malolactic bacteria.  I've been [told](https://judaism.stackexchange.com/questions/88614/blessing-over-a-wine-water-mix/88616#comment285717_88616) that wineries that do high-end wines don't dilute, but others do.
+
+					People have been pressing grapes into wine for thousands of years.  Of course, precise control over the yeast and the process is more modern.  I'm not an expert, but I've seen some medieval and renaissance research, including recipe redactions, that didn't call for dilution.  I used to be part of a brewing club that made some of those recipes, and they didn't taste unusual to me.  (Of course, yeast selection might have played a role there.)
+
+					What drove the need for dilution?  Is it that the yeasts that are now preferred (or even available) are more fragile?  Are we cultivating grapes with more sugar now?  Are we now able to engineer more parts of the process that previously fell to chance, and that's somehow involved?  Have tastes changed and historically wine was much different in taste or strength?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Unknown" >
+			<PostId>13651</PostId>
+			<ParentPostId>7148</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-16T01:23:36.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/953075226086125570
+			</EditDetails>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Body" >
+			<PostId>14473</PostId>
+			<ParentPostId>7428</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T19:49:46.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7995</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I enjoy drinking scotch, and I am about to have my first child. I would like to buy a bottle of scotch that has the year my child is born printed on it, and then give them the scotch as a gift when they turn 30 or so. I am well aware that the scotch won't age the same in a bottle as it would in a cask, but the idea is that I will be able to give my child something that I have held for them for 30 years. I am aware that I could find a special one-time release of some sort, but I am looking for a brand of scotch that routinely prints the year it was released somewhere on the bottle because when I have my second child a few years down the road, I would like to do the same thing for them, and I thought it would be nice if they were the same scotch. The closest thing that I can find is Booker's Small Batch Bourbon from Jim Beam. They do a few special releases a year, and the release year is printed on every bottle. If I cannot find a brand of scotch that does something similar I will just go with the Booker's. However, I thought I would ask this question here in case anyone is familiar with the sort of thing I am looking for. It would also be nice if it was a speyside or highland scotch, but that is not really necessary. I thank anyone in advance for taking the time to read this, and hopefully being able to point me in the right direction.
+
+					Best regards,
+					Josh
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Title" >
+			<PostId>14474</PostId>
+			<ParentPostId>7428</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T19:49:46.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7995</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A brand of scotch that routinely prints the release year on the bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Tags" >
+			<PostId>14475</PostId>
+			<ParentPostId>7428</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T19:49:46.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7995</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					whiskey, scotch, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Unknown" >
+			<PostId>14492</PostId>
+			<ParentPostId>7428</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T15:00:42.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1028657535019098112
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

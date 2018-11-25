@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>36</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:39:40.007</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This varies wildly on the type of beer being poured
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>37</PostId>
+			<ParentPostId>77</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:41:05.920</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It probably does...but it's too good to give up. Best for a separate topic.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>38</PostId>
+			<ParentPostId>71</ParentPostId>
+			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:42:24.937</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Laura well no, it's just what are people saying. At least in Poland. And they are referencing their own experience. I've modified the question to stress out it's only said it's so.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>50</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:02:33.060</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@TomMedley I made it specific to stouts. Is it answerable now?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>51</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:03:22.703</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes, but Guinness is a special case.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="1">
+			<PostId>61</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:48:34.590</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					With Guinness, if you can see a clover on top, then you know you've got it right.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>62</PostId>
+			<ParentPostId>103</ParentPostId>
+			<Contributors>
+				<UserId>5</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:50:15.173</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					To my knowledge, most modern wines don't age.  Champaign may because it is bottle fermented.  When looking at an old bottle of wine, the more important fact is what year it was bottled and how the other bottles from those grapes did.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>64</PostId>
+			<ParentPostId>117</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:52:44.330</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Unless you want it to overflow the glass so you can scrape it off with one of those beer-scraper-offer things. I usually go for 2 cm to 2.5 cm of head (foam), which is about one thumb width for me.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="1">
+			<PostId>65</PostId>
+			<ParentPostId>117</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:54:35.027</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					[Notable exception.](http://youtu.be/yNCaV3e9BEg)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="1">
+			<PostId>66</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:56:22.287</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Non-answer: none of the beer landed on the table or down your shirt.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>67</PostId>
+			<ParentPostId>112</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:56:46.863</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Good answer. What I'm not clear about is with lambics or other beers where yeast is added at bottling, is that bottle fermentation simply for carbonation or does it actually change the flavour significantly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>68</PostId>
+			<ParentPostId>32</ParentPostId>
+			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:58:32.473</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This raises the importance of staying properly hydrated while drinking alcohol; the beer more you drink, the more dehydrated you're going to get.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>69</PostId>
+			<ParentPostId>103</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:58:59.610</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wikipedia says [some kinds](http://en.wikipedia.org/wiki/Aging_of_wine#Good_aging_potential) of wine can age well, but I've never tried so you might be right.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="1">
+			<PostId>70</PostId>
+			<ParentPostId>112</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:59:28.613</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It is not just for carbonation, flavors do change.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>2190</PostId>
+			<ParentPostId>1095</ParentPostId>
+			<Contributors>
+				<UserId>887</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-03T20:51:58.843</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Do you have a [spectrophotometer](http://www.jenway.com/adminimages/A09_010A_Determination_of_Caffeine_in_Beverages_using_UV_Wavelength_Spectroscopy(1).pdf)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>2191</PostId>
+			<ParentPostId>134</ParentPostId>
+			<Contributors>
+				<UserId>887</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-03T21:00:42.400</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Excellent answer!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>2192</PostId>
+			<ParentPostId>1073</ParentPostId>
+			<Contributors>
+				<UserId>887</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-03T21:06:18.940</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					+1, excellent suggestions. Fremont Brewing in Seattle is also awesome!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>2200</PostId>
+			<ParentPostId>1095</ParentPostId>
+			<Contributors>
+				<UserId>1569</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-09T13:41:32.603</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I suspect the alcohol content of the beer would throw off basic attempts to measure the caffeine.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="0">
+			<PostId>3437</PostId>
+			<ParentPostId>3457</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-11T15:05:47.877</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've never heard of this drink, but it doesn't sound like it's related to beer. Can't find any reference to it online to confirm either, though.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="1">
+			<PostId>3439</PostId>
+			<ParentPostId>3457</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-13T22:55:37.150</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@AndrewCheong Sounds like a gin and mild ale cocktail to me, which would give it the beer aspect, but I can't say I've ever heard of it either.  Or necessarily want to.  :-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="0">
+			<PostId>3811</PostId>
+			<ParentPostId>63</ParentPostId>
+			<Contributors>
+				<UserId>5283</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-05T09:06:57.643</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					By the way, it's not the only beer using this widget. I've seen "young's double chocolate stout" cans with the same nitrogen balls.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="0">
+			<PostId>4349</PostId>
+			<ParentPostId>69</ParentPostId>
+			<Contributors>
+				<UserId>6222</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-24T12:13:11.367</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes....the lactose...is ever present in milk stout. I'm suffering from a poor decision on this brew as we speak. Take the pill...and enjoy your beverage.....or...don't take it...and suffer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>4359</PostId>
+			<ParentPostId>372</ParentPostId>
+			<Contributors>
+				<UserId>6284</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-10T19:03:11.640</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Guinness is actually about 19 calories lighter than original Budweiser.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>4383</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-30T15:27:41.363</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Read a bit further than the first sentence and you'll find the difference (or its absence) between stouts, porters and schwarzbier.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>4384</PostId>
+			<ParentPostId>6491</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-30T16:03:32.160</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					[This guy][1] has a LOT of reviews on his YouTube channel. In America - I have found that top tier doesn't always mean "better." Price normally denotes a rarity (think limited release, 1500 bottles ever) time/effort in releasing. Pappy Van Winkle 23yr takes 23 years of care to make and they have to make ~50 gallons to yield 3... Oddly, it retails for ~$120 but you'll normally see it priced closer to $2000.
+
+					[1]: https://www.youtube.com/channel/UCp0k3OKqfkPW0HdRLA8JWZg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="0">
+			<PostId>4388</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-31T15:53:19.747</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Altbier - I read the wikis and other articles - I only *posted* the first sentences from each. Was looking for further substantial (and helpful, mind you) input... Also, while I already know the differences, I felt it'd be a good question to have up on the board for anyone who might be curious... At least 6 community members so far (possibly including yourself?) would agree with me.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

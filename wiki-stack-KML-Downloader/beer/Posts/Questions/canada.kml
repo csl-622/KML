@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>3289</PostId>
+			<Title>
+			"Where to buy "Grimbergen" in Canada"
+			</Title>
+			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>canada</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>1841</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-11T22:02:02.137</CreationDate>
+				<LastEditDate>2017-04-13T21:32:33.880</LastEditDate>
+				<LastActivityDate>2017-04-24T13:25:38.887</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3876</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've spent much time in Ottawa and Halifax, and have yet to find a consistent source of this nectar of the gods.
+					Locations Found:&lt;/p&gt;
+
+					&lt;p&gt;Liquor Store in Whistler, BC&lt;/p&gt;
+
+					&lt;p&gt;LCBO in Trainyards, Ottawa&lt;/p&gt;
+
+					&lt;p&gt;Greek Restaurant in Downtown Ottawa&lt;/p&gt;
+
+					&lt;p&gt;Brussels.&lt;/p&gt;
+
+					&lt;p&gt;Anyone know where to find it?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>6767</PostId>
+			<AcceptedAnswerId>6768</AcceptedAnswerId>
+			<Title>
+			"How to obtain Japanese whisky in Canada?"
+			</Title>
+			<Tags>
+				<tag>whiskey</tag>
+				<tag>canada</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>289</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-13T17:59:16.327</CreationDate>
+				<LastEditDate>2017-04-13T21:30:04.117</LastEditDate>
+				<LastActivityDate>2017-04-14T04:55:57.307</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A few months ago I learned of a popular Japanese whisky, Yamazaki 12. Since then I've been searching, and searching for methods to get my hands on a bottle, but have come up empty-handed.&lt;/p&gt;
+
+					&lt;p&gt;Being in Ontario it would seem that the only legal method of obtaining any type of whisky is via the LCBO, and so I'm at the whims of what they have in stock. I've looked into online suppliers but it would appear that none of them can legally ship into Canada.&lt;/p&gt;
+
+					&lt;p&gt;So outside of leaving Canada, and bringing a bottle back in, is there a way to get my hands on any given Japanese whisky?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

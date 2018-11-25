@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>426</PostId>
+			<AcceptedAnswerId>427</AcceptedAnswerId>
+			<Title>
+			"What beers are good for making shandy?"
+			</Title>
+			<Tags>
+				<tag>shandy</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>2807</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T19:30:45.563</CreationDate>
+				<LastActivityDate>2014-01-29T20:34:58.633</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If I'm looking for a beer to make shandy with, what should I be looking for, in terms of flavour?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>694</PostId>
+			<AcceptedAnswerId>696</AcceptedAnswerId>
+			<Title>
+			"When and where did shandies first become popular and why do they get such a bad reputation?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>shandy</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>6846</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-26T03:03:24.633</CreationDate>
+				<LastEditDate>2014-03-26T23:42:29.427</LastEditDate>
+				<LastActivityDate>2017-04-02T15:40:19.280</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>31</OwnerUserId>
+				<LastEditorUserId>187</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was recently at a local craft beer festival and I tried a few shandies (my favorite was &lt;a href="http://travelerbeer.com/beers/time-traveler/"&gt;Time Traveler&lt;/a&gt;) and now I'm starting to get into them as well. But I've heard mixed things about their history. Some people say it goes back hundreds of years and others say it's a much more recent phenomenon. &lt;/p&gt;
+
+					&lt;p&gt;With that said, why do they have such a bad reputation? They always seem to score low on &lt;a href="http://www.beeradvocate.com/search/?q=shandy"&gt;beeradvocate&lt;/a&gt; and &lt;a href="http://www.ratebeer.com"&gt;ratebeer&lt;/a&gt;. To me it seems as though people are rating them as beers rather than what they actually are, shandies.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

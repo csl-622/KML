@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Votes">
+		<Instance Id="1"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-06-07T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-06-07T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-06-07T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-06-07T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5"  InstanceType= "Favorite">
+			<TimeStamp>
+				<CreationDate>2016-06-09T00:00:00.000</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<UserId>81</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id="6"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-06-09T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7"  InstanceType= "Favorite">
+			<TimeStamp>
+				<CreationDate>2016-06-15T00:00:00.000</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id="8"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2016-06-17T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2017-01-27T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="10"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2017-02-13T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="11"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2018-06-27T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

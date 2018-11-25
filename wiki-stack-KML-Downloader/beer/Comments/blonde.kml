@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>5651</PostId>
+			<ParentPostId>7412</ParentPostId>
+			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-02T07:26:42.677</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					what blond beer are we talking about?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>5652</PostId>
+			<ParentPostId>7412</ParentPostId>
+			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-02T14:06:41.647</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well, safe is it. But tasty? It may have become sour.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5653</PostId>
+			<ParentPostId>7417</ParentPostId>
+			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-03T12:53:41.720</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wow! That's a lot of great information. Thanks!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>5654</PostId>
+			<ParentPostId>7410</ParentPostId>
+			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-03T16:52:43.703</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't think this is the right answer as Mezcal is also regulated [according to geography](https://en.wikipedia.org/wiki/Mezcal#Regulation).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>5655</PostId>
+			<ParentPostId>7410</ParentPostId>
+			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-03T17:00:01.573</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Also there are [differences outside of geography](http://mezcalphd.com/2012/08/tequila-vs-mezcal/) such as the type of Agave plant and the production process, so Mezcal is not exactly Tequila made outside of Jalisco.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>5656</PostId>
+			<ParentPostId>7367</ParentPostId>
+			<Contributors>
+				<UserId>7988</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-05T07:45:42.773</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A purist notes that Johnny Walker is 'whisky', as it comes from Scotland.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>5657</PostId>
+			<ParentPostId>7422</ParentPostId>
+			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-07T20:03:27.467</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Awesome in depth answer! One thing is not clear to me though- is(/was) Agava a brand name, or a name that multiple distillers use for tequila-like spirits?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>5658</PostId>
+			<ParentPostId>7422</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-07T23:57:44.123</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@BenJones  Agava is a brand name for agave spirits.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

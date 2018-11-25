@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>5035</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-31T23:17:53.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>224</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have a corny (5 gal) keg of homebrew, already carbonated, that's been aging at room temperature.  I'd like to bottle it off soon, but in my experience that works best when the beer is in the 45-50 degree Fahrenheit range.
+
+					Tonight the weather forecast for my area says it will get down to 29, and tomorrow it will be right around 45.  I'm inclined to just stick the keg on the fire escape tonight and leave it until the afternoon.  I'm not really worried about freezing, given the alcohol content I understand it should be able to go down to 28 or 29 without trouble (correct me if I'm wrong here).
+
+					I can't seem to find any reliable resources about air cooling, just recommendations for folks trying to cool beer as fast as possible.  Will the keg be cool enough tomorrow to bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>5036</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-31T23:17:53.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>224</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long does it take to cool a keg of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>5037</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-31T23:17:53.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>224</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					keg, cooling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>5040</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-01T02:48:02.473</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>224</UserId>
+			</Contributors>
+			<EditDetails>
+				added 153 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have a corny (5 gal) keg of homebrew, already carbonated, that's been aging at room temperature.  I'd like to bottle it off soon, but in my experience that works best when the beer is in the 45-50 degree Fahrenheit range.
+
+					Tonight the weather forecast for my area says it will get down to 29, and tomorrow it will be right around 45.  I'm inclined to just stick the keg on the fire escape tonight and leave it until the afternoon.  I'm not really worried about freezing, given the alcohol content I understand it should be able to go down to 28 or 29 without trouble (correct me if I'm wrong here).
+
+					I can't seem to find any reliable resources about air cooling, just recommendations for folks trying to cool beer as fast as possible.  Will the keg be cool enough tomorrow to bottle?
+
+					EDIT: The forecast now says it could get as low as 24, so the freezing question may also be an issue.  The keg is outside, so we'll see what happens.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>5064</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-04T16:25:57.127</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/551776555568222208
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>6254</PostId>
+			<ParentPostId>3261</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-19T05:58:56.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have been told that once chilled, you should never let a beer come back to room temperature; what is the truth behind this?
+
+					If again chilled, will the flavor be the same? Or how might it change?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>6255</PostId>
+			<ParentPostId>3261</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-19T05:58:56.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Rising a cold beer to room temperature
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>6256</PostId>
+			<ParentPostId>3261</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-19T05:58:56.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, cooling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Post Closed" >
+			<PostId>6260</PostId>
+			<ParentPostId>3261</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-19T20:51:09.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[605],"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>6584</PostId>
+			<ParentPostId>3395</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-03T18:58:38.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4167</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I got my hand on a few bottles of Trappist Westvleteren (yay!) and of course I want to drink it at the right temperature. The "right" temperature is "cellar", but alas, I do not have a cellar.
+
+					What is the best way to chill a 30cl bottle to "celler" temperature, using a fridge? Drinking it too cool or warm would be quite a pity for a 8 euro bottle.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>6585</PostId>
+			<ParentPostId>3395</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-03T18:58:38.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4167</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to chill a 30cl bottle to "cellar" temperature?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>6586</PostId>
+			<ParentPostId>3395</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-03T18:58:38.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4167</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, trappist, cooling, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

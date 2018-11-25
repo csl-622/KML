@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>382</PostId>
+			<AcceptedAnswerId>395</AcceptedAnswerId>
+			<Title>
+			"Can quick beer cooling have a negative effect on the beer's taste?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>279</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T18:04:27.527</CreationDate>
+				<LastActivityDate>2014-01-29T13:49:38.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a difference if we compare the &lt;strong&gt;classical cooling of the whole keg&lt;/strong&gt;:&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/YbVm0.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;and the &lt;strong&gt;quick flow cooling&lt;/strong&gt; where the keg is at the ambient temperature?&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/q0FEN.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;Can the quick cooling have negative effect on the beer's taste or head?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>568</PostId>
+			<AcceptedAnswerId>569</AcceptedAnswerId>
+			<Title>
+			"Why do stouts foam so much when you pour them over ice cream?"
+			</Title>
+			<Tags>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>482</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-07T01:32:31.617</CreationDate>
+				<LastEditDate>2014-02-07T11:16:14.380</LastEditDate>
+				<LastActivityDate>2014-02-07T11:16:14.380</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>39</OwnerUserId>
+				<LastEditorUserId>39</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was just making a stout float and noticed that my beer foamed up a ton. &lt;/p&gt;
+
+					&lt;p&gt;It's not a very carbonated beer (there was barely a hiss when I opened the growler), yet the head was several inches with not very much beer poured into the chilled mug.&lt;/p&gt;
+
+					&lt;p&gt;What causes this massive head and is there a good way to prevent it?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>728</PostId>
+			<AcceptedAnswerId>729</AcceptedAnswerId>
+			<Title>
+			"Giving beer a decent head and why people like it?"
+			</Title>
+			<Tags>
+				<tag>head</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>2110</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-12T11:37:50.580</CreationDate>
+				<LastActivityDate>2018-05-22T22:49:31.960</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>765</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I love beer, but when I pour myself one, I try not to make it foam too much, I personally don't like the 'head' of a beer (Don't really know how to say it). My dad drinks beer religiously and demands a head when ever I pour one for him. A few (Most of my friends) aren't keen on having a head, but some love it.&lt;/p&gt;
+
+					&lt;p&gt;Obviously this is personal preference, but is beer normally supposed to have a head? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>745</PostId>
+			<Title>
+			"Decreasing foam in over-carbonated beer"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>carbonation</tag>
+				<tag>foam</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>165</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-23T04:11:46.830</CreationDate>
+				<LastEditDate>2014-04-24T13:16:50.103</LastEditDate>
+				<LastActivityDate>2014-04-24T13:16:50.103</LastActivityDate>
+				<ClosedDate>2014-04-26T04:45:23.780</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>401</OwnerUserId>
+				<LastEditorUserId>401</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have some homebrew that is really over-carbonated (before i learned about &lt;a href="https://www.google.com/search?q=priming%20sugar%20calculators" rel="nofollow"&gt;priming sugar calculators&lt;/a&gt;). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.&lt;/p&gt;
+
+					&lt;p&gt;Is there something i can do when pouring it to &lt;em&gt;reduce&lt;/em&gt; the head? I know some amount of head is desirable, but this is over the top (literally). &lt;/p&gt;
+
+					&lt;p&gt;[Edit] I get this much foam despite pouring very slowly and carefully down the side of the glass.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>3414</PostId>
+			<AcceptedAnswerId>3415</AcceptedAnswerId>
+			<Title>
+			"What is the significance of a beer's head?"
+			</Title>
+			<Tags>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>1115</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-22T19:28:25.223</CreationDate>
+				<LastEditDate>2015-06-23T21:26:43.587</LastEditDate>
+				<LastActivityDate>2015-06-24T13:31:26.470</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4238</OwnerUserId>
+				<LastEditorUserId>4238</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In many beer tasting guides it tells to describe the head, or to 'admire' the head of the beer. From Wikipedia, I understand that:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Beer head (also head) is the frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface. The elements that produce the head are wort protein, yeast and hop residue. The carbon dioxide that forms the bubbles in the head is produced during fermentation.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;But what is the actual significance of focusing on the head of the beer so much? Why does one concern themselves with how much head exists, how long it lasts, etc?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>5176</PostId>
+			<AcceptedAnswerId>5177</AcceptedAnswerId>
+			<Title>
+			"Removing detergent residue from glassware"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>87</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-28T14:06:17.837</CreationDate>
+				<LastActivityDate>2016-06-28T16:30:51.497</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5457</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Last night, after moving some heavy stones around, I poured myself a nice Berliner Weisse (style) into a glass I don't use regularly.  Initially there was a nice head on it but to my disappointment it broke down in a matter of seconds.  I'm pretty certain this was a result of detergent residue in the glass.&lt;/p&gt;
+
+					&lt;p&gt;I take pains to hand wash my beer glasses without detergent but some members of my household are not always cognizant of the damage this causes.  Once the detergent residue is on the glass, is there any method that can remove it?  I think that in the past I've found that wiping firmly and rinsing will eventually remove it but that means many flat beers along the way.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

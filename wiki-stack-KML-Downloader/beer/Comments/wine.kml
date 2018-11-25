@@ -1,0 +1,3544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>3956</PostId>
+			<ParentPostId>5071</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-06T20:03:53.310</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well, for even more ancient Greek wine, there's retsina still available.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>3957</PostId>
+			<ParentPostId>5071</ParentPostId>
+			<Contributors>
+				<UserId>5300</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-07T00:40:29.257</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					All righty, I think while you might get an answer on Cooking, [alcohol.se] is probably going to do a lot better, so I'm migrating this there.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>3958</PostId>
+			<ParentPostId>5071</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-07T02:40:14.353</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The Romans produced various types of wine . Are you interested in a particular type (seasoned) wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="1">
+			<PostId>3960</PostId>
+			<ParentPostId>5071</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-07T03:00:59.723</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					[Scientists plant vineyards with the aim of making wine using techniques from classical Rome described by Virgil](http://www.theguardian.com/world/2013/aug/22/italy-wine-archaeology)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>3961</PostId>
+			<ParentPostId>5071</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-07T03:20:12.503</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What do you mean by "intended to resemble ancient Ronan wine?"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>3962</PostId>
+			<ParentPostId>5068</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-07T03:32:01.050</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Perhaps you could expand your answer by providing a link to support your statement,
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="1">
+			<PostId>4114</PostId>
+			<ParentPostId>5087</ParentPostId>
+			<Contributors>
+				<UserId>4857</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-16T11:13:22.570</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question would be more appropriate in http://homebrew.stackexchange.com/.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>4154</PostId>
+			<ParentPostId>6277</ParentPostId>
+			<Contributors>
+				<UserId>5817</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-11T16:29:10.497</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm not sure about your assumption that there is such a thing as your 'favorite wine'.  (a) What wine I drink depends very much on what I will be eating with it. (b) Variety is a good thing.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>4155</PostId>
+			<ParentPostId>6277</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-11T16:38:46.427</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't agree about (a) and (b).  However, what you wrote made me thing and you may be right.  It might not exist.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>4157</PostId>
+			<ParentPostId>958</ParentPostId>
+			<Contributors>
+				<UserId>5901</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-13T14:06:34.223</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hello, how did you build this database? Do you think you can add EAN codes?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>4158</PostId>
+			<ParentPostId>958</ParentPostId>
+			<Contributors>
+				<UserId>1160</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-14T20:12:46.770</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hello, you're welcome to add EAN codes - all the code (tooling), database schema and datasets is open and public domain. For the database tables / schema, see [schema.rb](https://github.com/beerkit/beer.db.models/blob/master/lib/beerdb/schema.rb) -- as an alternative you can also use "plain" SQL of course.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>4198</PostId>
+			<ParentPostId>6327</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-06T19:01:10.837</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I have a bunch of smarty-pants answers (drink a lot of cheap beer first!) - but - consider revising you're question. As it currently stands, I foresee this question closing in the near future.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>4199</PostId>
+			<ParentPostId>6328</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-07T12:48:52.437</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					perfect. thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="0">
+			<PostId>4200</PostId>
+			<ParentPostId>4699</ParentPostId>
+			<Contributors>
+				<UserId>4725</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-07T21:24:52.693</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It is all a matter of preference.  If you want to be fun, you could use a straw and drink the bottom beer first.  The layered look is done as much for aesthetics as anything else.  I tip them to my mouth as usual, maybe sometimes trying to take care not to disturb it too much, but it really starts to mix once you've brought it to your mouth and back.  Check out [this page](http://www.theperfectblackandtan.com/blog/category/Triple%20layer) for some excellent examples of layered beers (even 3 layers).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>4229</PostId>
+			<ParentPostId>6327</ParentPostId>
+			<Contributors>
+				<UserId>5953</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-17T12:36:22.233</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Make a spritzer? Not the answer for everybody but improves the taste.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="1">
+			<PostId>4249</PostId>
+			<ParentPostId>6327</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-28T02:21:19.810</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is pretty broad; we don't know what you would consider an improvement in taste.  Is retaining its wine-ness important to you, or would solutions that combine the wine with other ingredients (cocktails, punch, etc) satisfy you?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>4250</PostId>
+			<ParentPostId>6327</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-28T14:14:32.057</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The answers below pretty much cover the question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>4257</PostId>
+			<ParentPostId>6380</ParentPostId>
+			<Contributors>
+				<UserId>5817</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-10T21:04:23.837</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Mint extract probably uses some form of alcohol as a solvent.  I would not add it until after fermentation is complete.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="0">
+			<PostId>4258</PostId>
+			<ParentPostId>6380</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-11T17:53:29.910</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					did I get the question right?  you don't know where to get fresh mint?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="1">
+			<PostId>4286</PostId>
+			<ParentPostId>6411</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-04T18:31:20.690</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are you sure it isn't a bottle opener holder?  It doesn't look exactly like any I've ever seen before, but it sure looks more like that than anything else I can think of.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="0">
+			<PostId>4287</PostId>
+			<ParentPostId>6411</ParentPostId>
+			<Contributors>
+				<UserId>6162</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-04T21:29:13.773</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Now that I think of it - it most probably is a holder for bottle opener. Thank you! :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="0">
+			<PostId>4314</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-21T15:00:22.400</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are you talking mixed drinks or alcohol in general? Otherwise, I think it is almost always wine...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>4315</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-21T15:24:15.683</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@ Steve S. Limited to wines.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>4317</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-21T18:55:48.100</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					All I can say is that wine is widespread through the Eastern Orthodox regions. I don't think there is any special wines they drink. It might depend on where you are. Probably red wine since it's used in rituals to replace the "blood of Christ". I dated a woman who was Eastern Orthodoxed from Slovenia originally and I don't think they cared as long as it was decent red wine.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>4324</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-27T16:40:32.957</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Eggnog comes to mind.?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="0">
+			<PostId>4325</PostId>
+			<ParentPostId>6453</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-27T18:51:18.943</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					About 1 teaspoon of household bleach (8.25% of sodium hypochlorite) in a gallon of dirty water is enough to sterilize it for drinking. Waaaay more effective than Alcohol.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="1">
+			<PostId>4371</PostId>
+			<ParentPostId>6486</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-21T00:00:07.680</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You can certainly store both.  For the most part white wines do not get better with ages.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="1">
+			<PostId>4412</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-08T16:56:50.863</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What about cider and mead? Many find cider a good substitute to wine (especially dry cider) with the alcohol levels of beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="0">
+			<PostId>4420</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-12T04:42:14.020</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Steve S.  Great Idea, however it's fermented, and there is the issue - I can't drink cider either - which is a shame as there are some great ciders out there - including a few that would knock my socks off!  I've been experimenting with the scotch and even tried a vodka or two, but vodka is still - well vodka...  at this rate I might have to become tea total!!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="0">
+			<PostId>4442</PostId>
+			<ParentPostId>6530</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-14T06:01:54.800</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					PS:  The prizes make it fun, and we have found some great wines at silly prices which we normally wouldn't have bought - the party works.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>4443</PostId>
+			<ParentPostId>6525</ParentPostId>
+			<Contributors>
+				<UserId>6386</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-14T09:59:34.950</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@EricShain Actually, if this whiskey is to be served cold, then the bar should keep it cold (as they do with the white wine). Otherwise, I can ask them to serve it properly (or maybe I never get to drink cold whiskey).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="0">
+			<PostId>4444</PostId>
+			<ParentPostId>6525</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-14T15:22:31.977</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Tell me if you find this particular whiskey at a bar served chilled.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="0">
+			<PostId>4445</PostId>
+			<ParentPostId>6531</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-14T16:23:28.997</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hi.  I live on a boat, normally for these tastings we have no more than 12 people, which of course means 12 bottles.  We have had so much fun, the prizes make it a great evening - only a couple of bucks a throw!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="0">
+			<PostId>4446</PostId>
+			<ParentPostId>6531</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-14T16:24:41.550</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					We tend to tell people that the spittoon is over the side of the boat - but sailors being what they are.......!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35"  InstanceType= "comments" Score="3">
+			<PostId>4477</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T15:42:58.103</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How about what your companion prefers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36"  InstanceType= "comments" Score="0">
+			<PostId>4478</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T15:51:39.363</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah, well that is why I put the no can't have this that and the other requirements - for various reasons certain things are out, but I want it to be a surprise.  On the whole though, mr dougal can drink anything except red wine.  It's dougal who can't drink the other stuff, so I want us both to enjoy something together and not have to resort to two different things, as is normal.  Any suggestions - I'm fairly open to anything (alcoholic)!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="37"  InstanceType= "comments" Score="0">
+			<PostId>4479</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T16:11:49.180</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What sort of engagement are we talking here? Is this a blind date? Fancy, aged red wine for good first impression type deal? Or, is this for your main squeeze? Sex on the Beach would be an option type deal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="38"  InstanceType= "comments" Score="0">
+			<PostId>4480</PostId>
+			<ParentPostId>6556</ParentPostId>
+			<Contributors>
+				<UserId>6422</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T16:23:37.170</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks! Indeed I have used a Chianti, fantastic. However, under suggestion of this [Italian site](http://www.saporiacasatua.com/prodotto/cacio-fiore/) I used a Gasperini and I appreciated the result. Though, I would like to go for a liquorous wine now, which will be even better, in my opinion. Do you have some in mind?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="39"  InstanceType= "comments" Score="0">
+			<PostId>4481</PostId>
+			<ParentPostId>6556</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T16:37:48.170</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@VincenzoOliva How exactly do you define a liquorous red wine: a fortified red wine, a red wine mixed with a liqueur or liquor or something else?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="40"  InstanceType= "comments" Score="0">
+			<PostId>4482</PostId>
+			<ParentPostId>6556</ParentPostId>
+			<Contributors>
+				<UserId>6422</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T16:49:02.993</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Oops, I see that maybe the use of the word differs from Italian to English. Yeah, fortified red wine.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="41"  InstanceType= "comments" Score="0">
+			<PostId>4485</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T16:51:59.383</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I like the sex on the beach idea!  Especially as we live on a boat and beaches are always near.  No we have been together since since - well - I am so old now I cant remember!  It's just a 'Hey let's be romantic 'cos I still sort of love you evening'.  OK OK you can all go and be sick now!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="42"  InstanceType= "comments" Score="0">
+			<PostId>4486</PostId>
+			<ParentPostId>6554</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T16:58:57.327</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I hate to say it but OMG.  I have spent a lot of time in the Caribbean and in one bar for St patricks's day they served green, yes I did say green beer (larger), no one bought it and for a long time thereafter green beer was on offer in the bar - god knows what it did to people's kidneys!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="43"  InstanceType= "comments" Score="0">
+			<PostId>4506</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-21T11:47:53.450</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal3.0.0 are you somewhere that you could get sparkling mead or is it off the list?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="44"  InstanceType= "comments" Score="0">
+			<PostId>4507</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-21T12:20:09.077</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks for the input, but that too is off the list - life can be a right pain in the $%^&amp; at times!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="45"  InstanceType= "comments" Score="0">
+			<PostId>4610</PostId>
+			<ParentPostId>6608</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-27T17:00:49.467</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					When is St Valentine's?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="46"  InstanceType= "comments" Score="0">
+			<PostId>4611</PostId>
+			<ParentPostId>6608</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-27T17:14:38.710</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal3.0.0 Good point.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="47"  InstanceType= "comments" Score="0">
+			<PostId>4613</PostId>
+			<ParentPostId>6610</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-28T03:42:44.693</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Great idea making my own.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="48"  InstanceType= "comments" Score="0">
+			<PostId>4637</PostId>
+			<ParentPostId>6608</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-01T16:24:37.690</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If it isn't a first date, you should have some inkling of what you both really like. Choose something on the higher quality side of that list and drink that.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="49"  InstanceType= "comments" Score="0">
+			<PostId>4638</PostId>
+			<ParentPostId>6622</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-01T16:42:10.710</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Good!  I nearly fell off the boat it was that good! (FYI I live on a boat).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="50"  InstanceType= "comments" Score="0">
+			<PostId>4639</PostId>
+			<ParentPostId>6624</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T08:06:23.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Now this is interesting, a big red colored tick for you!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="51"  InstanceType= "comments" Score="0">
+			<PostId>4640</PostId>
+			<ParentPostId>6624</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:39:13.677</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The advice here was outstanding, alchermes was something I didn't know about.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="52"  InstanceType= "comments" Score="0">
+			<PostId>4641</PostId>
+			<ParentPostId>6626</ParentPostId>
+			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:42:37.977</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					i'll try the martini solution i think...sounds tempting (also i doesn't love bloody mary), glad to let you discover this bottle
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="53"  InstanceType= "comments" Score="0">
+			<PostId>4642</PostId>
+			<ParentPostId>6624</ParentPostId>
+			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:43:41.517</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal 3.0.0 we're here for that
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="54"  InstanceType= "comments" Score="0">
+			<PostId>4643</PostId>
+			<ParentPostId>6624</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:46:05.177</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's a green tick this time not a red tick - great!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="55"  InstanceType= "comments" Score="1">
+			<PostId>4644</PostId>
+			<ParentPostId>6577</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:48:00.767</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@jalynn2 The pipes may have not been cleaned in years... or worse have been "cleaned" with something random and then not flushed. What's in the keg might be clean, but what gets into the glass could easily be "unhealthy" depending on the bar.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="56"  InstanceType= "comments" Score="1">
+			<PostId>4675</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T13:23:44.123</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Was the oenophile trained at all? Could there have been confusion about "oak" (I'm thinking cleaning product residue or even cigarette smoke residue)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="57"  InstanceType= "comments" Score="0">
+			<PostId>4676</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T13:57:36.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@David - He's experienced, and I'm a super-taster with a notoriously keen nose.  I don't know if the claim was explicitly "oak."  I wouldn't claim to know the wood specie, but it was definitely an "aging barrel wood" nose.  Keep in mind I had a glass with the same wine in it, so we were able to pick out the difference imparted by the glass.  If both glasses had been similarly tainted, I would have just assumed it was part of the wine's profile.  He might have known enough to alert on the fact that the particular wine he chose should not have a strong wood component.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="58"  InstanceType= "comments" Score="2">
+			<PostId>4677</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T14:14:04.863</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Then my bet would be that it was a previously used glass that wasn't washed properly and had some kind of residue (possibly whisky). I propose an experiment (and I'll try it myself in the coming days): put a half-measure of whisky in a wine glass, swirl, empty (drink). Leave to dry overnight, pour in a reasonably big &amp; powerful red... smell. In any case I would be shocked if this was intentional. To pick a small nit, "supertasters" aren't necessarily "better" tasters -- that's almost entirely down to olfaction and training. We just are capable of detecting a couple chemicals others can't.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="59"  InstanceType= "comments" Score="0">
+			<PostId>4678</PostId>
+			<ParentPostId>6536</ParentPostId>
+			<Contributors>
+				<UserId>3744</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T14:47:17.940</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					To add to this, POUR THE CAN DIRECTLY INTO A GLASS! The can widget will dump all of it's nitrogen upon opening, so don't sip from the can, it will lose nitrogen by the end. The bottle widget supposedly only injects nitrogen when tipped, so it IS designed to be sipped, not poured out.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="60"  InstanceType= "comments" Score="0">
+			<PostId>4679</PostId>
+			<ParentPostId>6644</ParentPostId>
+			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:23:27.973</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wow: That would certainly do it!  Although this was several years ago, and it was a red wine glass.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="61"  InstanceType= "comments" Score="0">
+			<PostId>4680</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:27:37.290</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@David: You're right of course about the supertasting.  I don't know how to qualify my olfactory acuity (except perhaps as "notoriously keen" ;)  I like the experiment idea, and I suspect it will produce the effect we observed (especially with a quarter-cask Laphroaig I have on hand).  But keep in mind this was a red wine glass at a fine restaurant: Is it conceivable they would be serving whiskey neat in such a glass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="62"  InstanceType= "comments" Score="0">
+			<PostId>4681</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:37:34.853</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If it was strongly oaky, a better bet might be a Bourbon (virgin cask aging). There are many ways it could end up in a "wrong" glass: by customer request, or it could be used as a temporary vessel, or a staff member's surreptitious quaff with whatever was on hand. Who knows.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="63"  InstanceType= "comments" Score="0">
+			<PostId>4682</PostId>
+			<ParentPostId>6644</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:47:13.277</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Who knows what drink they could've been making. I first saw this about 5 years ago but it just keeps getting more popular.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="64"  InstanceType= "comments" Score="0">
+			<PostId>4683</PostId>
+			<ParentPostId>6637</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:57:16.517</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't but know many who swear by it. I'm not convinced it doesn't just dilute the whisky and make it less 'harsh'.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="65"  InstanceType= "comments" Score="1">
+			<PostId>4693</PostId>
+			<ParentPostId>6649</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-08T22:09:09.673</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think it matters what kind of wine. For me, champagne gets better up to about $60. In any case if $20 wine tastes great to you enjoy your frugality.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="66"  InstanceType= "comments" Score="2">
+			<PostId>4694</PostId>
+			<ParentPostId>6649</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-08T22:21:18.300</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If nobody answers this, I'll flesh this out as an answer tomorrow... But essentially once you eliminate the rotgut at the bottom end, price and "quality" (in the sense we would normally understand it) are pretty much uncorrelated, as long as you are tasting blind (and haven't been primed psychologically). There are lots of relevant studies in the literature.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="67"  InstanceType= "comments" Score="0">
+			<PostId>4696</PostId>
+			<ParentPostId>6653</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T14:40:39.500</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes, it is living here in the Canary Islands that I first came across this problem that effected the peninsular and not here.  Hence my question about taste.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="68"  InstanceType= "comments" Score="0">
+			<PostId>4697</PostId>
+			<ParentPostId>6653</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T15:00:41.433</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I knew about grape growing on the Canary Islands. I didn't know they don't use rootstock. That makes sense. I wish I was there now! The weather here sucks right now...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="69"  InstanceType= "comments" Score="0">
+			<PostId>4698</PostId>
+			<ParentPostId>6653</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T16:04:03.593</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I only know what I read and am told - your knowledge is far superior.  Apparently Canarian wines are 'big' in certain restaurants in the states at present.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="70"  InstanceType= "comments" Score="0">
+			<PostId>4699</PostId>
+			<ParentPostId>6614</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T17:50:47.750</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I get the tulip glass thing, but as a big whisky drinker I don't like them, too hard to drink from. I usually use a small, wide-rimmed glass somewhere between a shot glass and a tumbler, enough to hold an ounce or two of neat liquor, and lightweight. Also don't usually dilute my whisky, given I should experiment a bit more with that.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="71"  InstanceType= "comments" Score="0">
+			<PostId>4700</PostId>
+			<ParentPostId>6653</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T18:02:51.627</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd love to taste one, but living here on the west coast of the USA, we already have an overwhelming selection of fine wines to choose from. I get a little sick of drink my neighbors wines all the time!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="72"  InstanceType= "comments" Score="0">
+			<PostId>4701</PostId>
+			<ParentPostId>6614</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T18:06:58.813</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@mcraen I'm a pretty strong proponent of enjoying what you enjoy in whatever way gives you the maximum pleasure, so if partaking of larger sips of cask strength from a wider-mouth glass is what does it for you, you should by all means keep doing that! I tried to hedge a little ("if you are drinking it to taste it" preface to my exhortation not to skip step 5) and suggestion that you should really be experimenting... it should be both fun and a learning experience, and hopefully deliciously pleasurable too :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="73"  InstanceType= "comments" Score="0">
+			<PostId>4702</PostId>
+			<ParentPostId>6614</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T19:10:38.767</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've done a small bit of researching on whisky dilution and am still unconvinced that it 'improves' the experience, but rather just 'changes' the experience. I'd love to get a definitive answer on the effect. I suspect the practice has arisen from people who drink sub-par whisky and like masking the harshness a bit, with water and/or ice. For me, I have no problem with the harshness of any liquor so usually just go full strength.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="74"  InstanceType= "comments" Score="0">
+			<PostId>4703</PostId>
+			<ParentPostId>6650</ParentPostId>
+			<Contributors>
+				<UserId>6204</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T20:55:39.687</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That pretty much matches my experience. Although the best wines I've tried are in the £30-£35 range it's also clear that there are plenty of wines at this price and more which have trouble standing up to some sub-£10 ones.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="75"  InstanceType= "comments" Score="1">
+			<PostId>4710</PostId>
+			<ParentPostId>6649</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-10T20:43:39.543</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@David would enjoy reading your answer if you care to write it
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="76"  InstanceType= "comments" Score="0">
+			<PostId>4729</PostId>
+			<ParentPostId>6662</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-15T15:41:19.387</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If the wine had gone bad you would know it.  It would taste like vinegar.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="77"  InstanceType= "comments" Score="2">
+			<PostId>4730</PostId>
+			<ParentPostId>6667</ParentPostId>
+			<Contributors>
+				<UserId>252</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-15T15:58:22.353</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Regarding that comment on red wines, so as to have enough richness to take on the flavor of haggis - I would point out that there are also some whites that will do the trick, though not as common. E.g. Gewürztraminer is a favorite of mine for similar types of food.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="78"  InstanceType= "comments" Score="0">
+			<PostId>4731</PostId>
+			<ParentPostId>6667</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-15T17:10:20.723</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That is an excellent comment and deserves putting into an answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="79"  InstanceType= "comments" Score="0">
+			<PostId>4732</PostId>
+			<ParentPostId>6671</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-15T18:38:48.057</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					From where - I am from Aberdeen originally.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="80"  InstanceType= "comments" Score="0">
+			<PostId>4733</PostId>
+			<ParentPostId>6671</ParentPostId>
+			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-15T18:43:49.317</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Orkney originally - now central belt
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="81"  InstanceType= "comments" Score="0">
+			<PostId>4745</PostId>
+			<ParentPostId>6675</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-16T13:35:34.640</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Woah, great question!  However, is it really possible to know what to look for in 'this' wine?  If you can give some pointers we can all go and find out.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="82"  InstanceType= "comments" Score="1">
+			<PostId>4747</PostId>
+			<ParentPostId>6675</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-16T16:18:49.837</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal3.0.0 I think (and he can correct me if I'm wrong) that, in part, Ken is asking if somebody else has done this research (and then produced it).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="83"  InstanceType= "comments" Score="1">
+			<PostId>4750</PostId>
+			<ParentPostId>6675</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-16T22:38:32.163</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MonicaCellio Your comment is very astute and correct.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="84"  InstanceType= "comments" Score="0">
+			<PostId>4751</PostId>
+			<ParentPostId>6675</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-16T22:40:54.997</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Based on what I read Retsina is about the closest thing you are going to find. It may not be made in Amphora, but the ingredients and flavor are about the same.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="85"  InstanceType= "comments" Score="0">
+			<PostId>4752</PostId>
+			<ParentPostId>6661</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-17T15:32:13.673</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is a good and appreciated answer, although it doesn't directly address the question. Even if wines have a wide range in production quality, the question is more about the range of the final product. If the best of the best wines are only marginally more enjoyable than mediocre ones, then the low threshold still exists.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="86"  InstanceType= "comments" Score="0">
+			<PostId>4753</PostId>
+			<ParentPostId>6681</ParentPostId>
+			<Contributors>
+				<UserId>5888</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-17T15:43:09.410</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If only it were that simple!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="87"  InstanceType= "comments" Score="0">
+			<PostId>4754</PostId>
+			<ParentPostId>6681</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-17T15:47:20.807</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yep. I suspected that the process is difficult and hard to do objectively. Although there's got to be some, any process at all that wine experts use to decide on a wine based on quality. When I go into a wine shop I feel totally blind and would like to change that, to any degree. If it's not really doable at all, I'd like to know that too!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="88"  InstanceType= "comments" Score="1">
+			<PostId>4755</PostId>
+			<ParentPostId>6681</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-17T16:35:19.737</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I also want to say if you can find a community college or something nearby that offers wine sensory evaluation classes that will go a long way to understanding what you like http://www.niagaracollege.ca/parttimestudies/courses/OEVT/1122/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="89"  InstanceType= "comments" Score="0">
+			<PostId>4756</PostId>
+			<ParentPostId>6489</ParentPostId>
+			<Contributors>
+				<UserId>6435</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-17T17:35:42.080</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Xander Not really relevant: many other subjects with information of interest published prior to Google's existence have that information posted to the web and subsequently indexed by Google.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="90"  InstanceType= "comments" Score="0">
+			<PostId>4757</PostId>
+			<ParentPostId>6489</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-17T18:42:52.653</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I am quite an expert in grape varieties. I checked my references, some of them quite old and could not find any reference. Grape varieties do not come and go that quickly. You be the judge. Zinfandel or Zinbardel?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="91"  InstanceType= "comments" Score="0">
+			<PostId>4758</PostId>
+			<ParentPostId>6661</ParentPostId>
+			<Contributors>
+				<UserId>6553</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-18T12:37:05.787</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The question you set appealled for a closed answer, I don't know how to make a useful one ;) I don't mean you are wrong in your assumption, but a diminutive threshold can be found in nearly every product or service, notwithstandig Vleben Good. Price can tend to mathematical infinity, while product or service can only tend to the maximum human abilities (for wine, sensoral capacity and knowledge which are limited by genetics and lifespan) : the diminutive threshold is the widening gap between both and won't widen the same for two given people. Focusing in value is IMHO more relevant than price.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="92"  InstanceType= "comments" Score="1">
+			<PostId>4759</PostId>
+			<ParentPostId>6681</ParentPostId>
+			<Contributors>
+				<UserId>6553</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-18T12:43:08.923</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If you know the kind of grape, difference between them, and the sweetness you like, **you are not ignorant anymore**. Half the work is knowing what you want before searching for it !
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="93"  InstanceType= "comments" Score="0">
+			<PostId>4774</PostId>
+			<ParentPostId>6608</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-21T05:46:29.950</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Just reading the news and I saw this article, I know it doesn't answer the question but might be of interest regarding St. Valentine.  http://www.express.co.uk/news/history/766657/Saint-Valentine-3D-technology-brought-back-life
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="94"  InstanceType= "comments" Score="0">
+			<PostId>4847</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T13:51:05.683</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Can you provide a reference to wine corks being made out of Nomex? I am not seeing anything about that.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="95"  InstanceType= "comments" Score="0">
+			<PostId>4848</PostId>
+			<ParentPostId>6730</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T14:51:32.830</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I hate plastic corks. Wineries are lazy in using them. They should be using screwcaps instead, which are recyclable. Plastic corks are hard to insert into a bottle and hard to remove. They have made some progress with plastic corks, but they still suck. Having said that, I think the claim that 10% of wines are tainted with TCA is way too high. In my own winery, I thought it was around 2% but then we used high end corks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="96"  InstanceType= "comments" Score="0">
+			<PostId>4849</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T15:16:47.560</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What makes you think that nomex isn't a plastic?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="97"  InstanceType= "comments" Score="1">
+			<PostId>4850</PostId>
+			<ParentPostId>6729</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T15:19:02.867</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There are plenty of dry German rieslings.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="98"  InstanceType= "comments" Score="0">
+			<PostId>4851</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T15:33:36.703</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The interior of the cork is sponge like (hard sponge) the outer shell is hard(ish) plastic like... does this help, apologies for photo.  The cork states NOMACORC
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="99"  InstanceType= "comments" Score="0">
+			<PostId>4852</PostId>
+			<ParentPostId>6729</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T17:28:27.597</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes, but they are way more expensive and it gets hotter in the Alsace than on the Rhine river (well technically both are on the Rhine) mostly giving a more full bodied Riesling than the German ones. These are generalities as I'm sure you can find some German ones that match the Alsatian ones in warmer years.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="100"  InstanceType= "comments" Score="0">
+			<PostId>4853</PostId>
+			<ParentPostId>6729</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T17:36:23.810</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There are good dry rieslings from many places. I've had some nice ones from Washington. What bothers me is the curt dismissal of German rieslings. Also off dry and sweet wines have there place and aren't "wimpy".
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="101"  InstanceType= "comments" Score="1">
+			<PostId>4854</PostId>
+			<ParentPostId>6729</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T17:48:30.293</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I lived on the Rhine river for 3 years so I know my German Rieslings quite well, thank you very much, but IMNSHO I think you need more power than what German rieslings can give you. The Alsace is warmer and drier than most of the Riesling growing territory in Germany. Grand Cru Alsatian Rieslings especially give you more "stuff".
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="102"  InstanceType= "comments" Score="0">
+			<PostId>4855</PostId>
+			<ParentPostId>6729</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T18:19:11.470</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm not questioning your suggesting of an Alsatian Riesling at all. It is excellent. But some wine beginners would read your answer and surmise that all German rieslings are wimpy and sweet. That is simply not accurate.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="103"  InstanceType= "comments" Score="0">
+			<PostId>4856</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T18:47:22.330</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					NOMACORC is one of the standard plastic corks out in the market. They have several different products from plonk wine to high end corks that transmit minute amounts of oxygen to slowly age the wine and much easier to pull out of the bottle. The quotes below about plastic corks look like talking points from the natural cork industry. Having said that, I just think plastic corks are a waste. Go to screw caps if are you are going to bottle wine on the cheap
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="104"  InstanceType= "comments" Score="0">
+			<PostId>4857</PostId>
+			<ParentPostId>6729</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T21:16:12.567</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Let us [continue this discussion in chat](http://chat.stackexchange.com/rooms/56464/discussion-between-eric-shain-and-steve-s).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="105"  InstanceType= "comments" Score="0">
+			<PostId>4858</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-03T05:00:10.510</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Steve S  Thanks for that, I eventually tracked it down to exactly what you have also said.  I found it quite interesting about allowing minute amounts of oxygen in.  The wine was very expensive, but to be honest should have had a screw cap!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="106"  InstanceType= "comments" Score="0">
+			<PostId>4863</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T15:11:12.827</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Is this for a romantic evening?  Is the color so very important?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="107"  InstanceType= "comments" Score="0">
+			<PostId>4864</PostId>
+			<ParentPostId>6739</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T16:57:11.200</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The fewer the imperfections the higher quality the cork. Almost no dark marks or striations. Lower quality corks have more dark spots and holes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="108"  InstanceType= "comments" Score="1">
+			<PostId>4865</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T18:06:34.193</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not a cocktail, but rosé wine comes in a variety of hues from pale pink to dark magenta.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="109"  InstanceType= "comments" Score="0">
+			<PostId>4866</PostId>
+			<ParentPostId>6739</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T20:07:43.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks again, however how does that work out with the 'plastic - alternative' corks?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="110"  InstanceType= "comments" Score="0">
+			<PostId>4867</PostId>
+			<ParentPostId>6739</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T20:58:46.523</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Plastic corks are much harder to tell. I would say that the more it looks and feels like a real cork, the more expensive they are. The ones that are purple or pink or whatever are probably the cheapest ones made.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="111"  InstanceType= "comments" Score="0">
+			<PostId>4868</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T23:59:40.277</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal3.0.0 The hue is important for a  meal which is linked to a traditional religious celebrations. Rose is a liturgical color as well a the tradition color used in the interior of the Grand Chartreuse. I like to celebrate my Feasts with great meaning and symbolism! There are many Carthusian  saints.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="112"  InstanceType= "comments" Score="0">
+			<PostId>4869</PostId>
+			<ParentPostId>6736</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T00:54:25.837</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					My friend reports that this looks exactly like her bottle (aside from hers missing the tag, but that can happen after 45 years).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="113"  InstanceType= "comments" Score="0">
+			<PostId>4872</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T02:42:40.907</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@EricShain Thanks for the heads up.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="114"  InstanceType= "comments" Score="1">
+			<PostId>4873</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T04:51:44.653</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah, thanks for that, I believe we are on the opposite ends of that spectrum, but it wont stop my dougal nose trying to sniff something out for you.  However, I think that @Dorothy has beaten us all to it with her answer below - which seems to cover just about everything - I hope your event is a success.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="115"  InstanceType= "comments" Score="1">
+			<PostId>4874</PostId>
+			<ParentPostId>6740</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T04:52:40.803</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wow, now that is what I call an answer!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="116"  InstanceType= "comments" Score="0">
+			<PostId>4882</PostId>
+			<ParentPostId>6749</ParentPostId>
+			<Contributors>
+				<UserId>6448</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-08T18:26:21.037</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Probably should be more specific so as to focus the answers.  Cakes?  Cheeses or yogurts?  Mushrooms?  Are you looking for variety in the entrée or in the dessert?  Is the drink to be served in courses, or are you simply planning to have guests who will serve themselves come for visit?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="117"  InstanceType= "comments" Score="0">
+			<PostId>4883</PostId>
+			<ParentPostId>6751</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-08T20:24:44.387</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Nice find. I took the liberty of adding some images and quotations from your linked article. Hope you don't mind and hope this will generate some interest with others.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="118"  InstanceType= "comments" Score="0">
+			<PostId>4895</PostId>
+			<ParentPostId>6488</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-10T12:57:07.893</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Was this a red or white wine or did they produce both types of wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="119"  InstanceType= "comments" Score="0">
+			<PostId>4908</PostId>
+			<ParentPostId>6749</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-13T16:43:19.017</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Uh... figs? ;-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="120"  InstanceType= "comments" Score="0">
+			<PostId>4909</PostId>
+			<ParentPostId>6764</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-13T21:20:27.357</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Your reasoning is bang on.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="121"  InstanceType= "comments" Score="0">
+			<PostId>4919</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Contributors>
+				<UserId>5974</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-19T04:50:02.077</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Was the bottle stored upright or on it's side? And it looks like rainwater is closed with a cork, is that right or is it a screwcap?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="122"  InstanceType= "comments" Score="0">
+			<PostId>4921</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Contributors>
+				<UserId>6672</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-19T13:21:16.610</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Montijello This bottle is a screwcap so I decided it would be fine to store upright in the refrigerator while I gave a few turns every so often. There appear to be no sediments on the bottom as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="123"  InstanceType= "comments" Score="2">
+			<PostId>4976</PostId>
+			<ParentPostId>6812</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-01T17:04:33.120</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are you talking about wine reps that work for a distributor?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="124"  InstanceType= "comments" Score="0">
+			<PostId>4977</PostId>
+			<ParentPostId>6813</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-01T18:19:55.073</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks for all of that.  At the moment I am staying away from vodka (too many headaches) and am back to the good ol' G&amp;T.  No doubt when my health gets back to normal (no headaches) I will try a few more varieties for my vodkas!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="125"  InstanceType= "comments" Score="0">
+			<PostId>4978</PostId>
+			<ParentPostId>6807</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-01T18:25:40.980</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This really is the best answer. People don't need to have their minds changed. Sometimes, you'll find that changing someone's mind leads to them having a resentment for you for convincing them to break with their beliefs. I have a friend that won't drink because four of their close friends were killed by drunk drivers. They might like it; but, is more of a way to remember them.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="126"  InstanceType= "comments" Score="0">
+			<PostId>4986</PostId>
+			<ParentPostId>6812</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-02T16:37:53.970</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Is this the right place for this question?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="127"  InstanceType= "comments" Score="0">
+			<PostId>4987</PostId>
+			<ParentPostId>6816</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-02T18:12:43.873</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal3.0.0 Indeed, agave nectar is intriguing. Here is a link to its use in cocktails instead of simple syrup: https://www.thespruce.com/what-is-agave-nectar-p2-760283
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="128"  InstanceType= "comments" Score="1">
+			<PostId>4988</PostId>
+			<ParentPostId>6821</ParentPostId>
+			<Contributors>
+				<UserId>5528</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-03T11:22:33.633</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Careful of these though as they tend to be hangover producing in large quantities.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="129"  InstanceType= "comments" Score="0">
+			<PostId>5007</PostId>
+			<ParentPostId>6836</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-15T01:46:55.863</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is a non answer, but I would say anything that pairs well with a Rose'. Orange wines were a fad about 5 years ago, but I don't see much anymore.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="130"  InstanceType= "comments" Score="0">
+			<PostId>5008</PostId>
+			<ParentPostId>6614</ParentPostId>
+			<Contributors>
+				<UserId>228</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-15T07:06:15.533</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It also depends on the kind of whisky. There are kinds that benefit greatly from adding water, and there are those that don't. The strongest I ever had (59% abv) insisted on being drank pure. Ah, the intensity! But with water added, it tasted just... ordinary. As if it was just any old whisky. Of course all this is just my personal subjectivity, but it shows it does pay to experiment.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="131"  InstanceType= "comments" Score="1">
+			<PostId>5021</PostId>
+			<ParentPostId>6864</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-29T14:50:34.483</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm considering closing this as primarily opinion based as it stands.   Additionally, it appears to be based on a flawed understanding of French law.  AOC wine accounts for less than half of the wine production in France.  France does allow many of the techniques you describe (such as using oak chips instead of barrels, and acids) for non-AOC, or the majority of its wine.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="132"  InstanceType= "comments" Score="0">
+			<PostId>5022</PostId>
+			<ParentPostId>6864</ParentPostId>
+			<Contributors>
+				<UserId>6778</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-29T15:07:13.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					So that means there is a choice then.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="133"  InstanceType= "comments" Score="0">
+			<PostId>5023</PostId>
+			<ParentPostId>6864</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-30T13:20:46.350</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The choice is you follow the laws and you can put the Appellation of the village or area you grow your grapes in, many times bringing a higher price. Don't follow the laws and you get to put Vin De France on your label which is usually a sign of plonk wine.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="134"  InstanceType= "comments" Score="0">
+			<PostId>5024</PostId>
+			<ParentPostId>6864</ParentPostId>
+			<Contributors>
+				<UserId>6778</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-30T13:34:34.483</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Excellent system, I wish we had it here. But no-one here seems to be aware that such a scheme even exists. Or in the US for that matter.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="135"  InstanceType= "comments" Score="0">
+			<PostId>5025</PostId>
+			<ParentPostId>6864</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-30T13:52:12.797</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think Australians and American winemakers don't like being told when and what to pick. What to grow and how to they can make their wine. Sorry, it's never going to change here in the USA.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="136"  InstanceType= "comments" Score="1">
+			<PostId>5026</PostId>
+			<ParentPostId>6864</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-30T15:15:28.050</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@SteveS. Vin de France is a minority of non-AOC wine.  IGP, an intermediate level of certification is the majority.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="137"  InstanceType= "comments" Score="0">
+			<PostId>5028</PostId>
+			<ParentPostId>6864</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-30T16:22:46.413</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Whatever... I guess it would be declassified at a  lower level like Vin de Bourgogne or Vin de Bordeaux still not bringing the $$$ at that level.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="138"  InstanceType= "comments" Score="2">
+			<PostId>5185</PostId>
+			<ParentPostId>7013</ParentPostId>
+			<Contributors>
+				<UserId>6878</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-19T13:59:01.213</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Do you have a question in your question anywhere?  It reads more like you're providing an answer (which is fine, you can ask and answer at the same time), not asking a question.  Also, the "organic" part doesn't seem to play a role in the rest of the text, is it important or relevant somehow?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="139"  InstanceType= "comments" Score="0">
+			<PostId>5186</PostId>
+			<ParentPostId>7013</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-19T18:33:49.960</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I almost took the question down because confusion, but since there wasn't a similar question posted here I let it go and answered it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="140"  InstanceType= "comments" Score="0">
+			<PostId>5187</PostId>
+			<ParentPostId>7013</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-20T22:36:26.530</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					OK, I spent a lot of time answering this question. I think it's pretty clear what the question is so I "fixed" it! ;-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="141"  InstanceType= "comments" Score="0">
+			<PostId>5210</PostId>
+			<ParentPostId>7032</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-04T14:23:45.877</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					possible duplicate that has no answer https://alcohol.stackexchange.com/questions/6976/are-there-any-public-apis-that-will-help-determine-the-legality-of-a-location-to
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="142"  InstanceType= "comments" Score="0">
+			<PostId>5211</PostId>
+			<ParentPostId>7032</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-04T14:44:28.583</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					FYI, people spend a lot of time writing and rating wines and they don't want to give that information for free. Would  you want to give away your app for free after you finish writing it? Just the way things are...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="143"  InstanceType= "comments" Score="0">
+			<PostId>5213</PostId>
+			<ParentPostId>7032</ParentPostId>
+			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-06T09:12:12.117</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@SteveS. And yet, according to the question, they had this information online and available until recently.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="144"  InstanceType= "comments" Score="0">
+			<PostId>5215</PostId>
+			<ParentPostId>7032</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-06T19:09:37.943</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Phillipp people just trying to monetize their intellectual property. Looks like wine.com is going out of business. I know that on some sites like Cellar Tracker you can see scores but the API is mainly for the bottles in your cellar. When I was selling wine, I used to download scores from Wine Spectator, but it was a manual process. I think the best thing you can do is some type of screen scraping program. Sorry but in my brief search of the internet it looks like there is nothing and it's something that you simply won't find for free.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="145"  InstanceType= "comments" Score="0">
+			<PostId>5239</PostId>
+			<ParentPostId>7047</ParentPostId>
+			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-23T08:06:39.867</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Though I like your question (hence +1), I vote to close it as it has nothing to do with wine as such, and is off-topic here, Maybe you could ask this question on StackOverflow.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="146"  InstanceType= "comments" Score="0">
+			<PostId>5240</PostId>
+			<ParentPostId>7047</ParentPostId>
+			<Contributors>
+				<UserId>7208</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-23T12:27:51.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think you may be right.  My only concern is that the specific set of requirements are driven very much by my wine tracking practices.  Perhaps other enthusiasts have found a solution, and not necessarily one of programming.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="147"  InstanceType= "comments" Score="0">
+			<PostId>5241</PostId>
+			<ParentPostId>7047</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-23T14:46:52.147</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I too am a database professional by day and super star wine person at night. You throw so many roadblocks in your way that you won't look at simple solutions like using Google Sheets on the cloud. All these apps store data in the "cloud", you'll never get around this requirement. It either sits on your phone or your desktop without a custom app that your will have to write yourself.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="148"  InstanceType= "comments" Score="0">
+			<PostId>5246</PostId>
+			<ParentPostId>7047</ParentPostId>
+			<Contributors>
+				<UserId>7208</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-24T01:47:41.387</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Oh, I'm definitetly not a database professional.  I just know enough to be dangerous (to myself).  I agree that if I use the cloud, the problem goes away.  The whole challenge/puzzle is how to do it without a cloud.  You are of the opinion that the only solution is a custom one that I create myself.  My current solution is a custom one, and it isn't good enough.  As I am not a developer, unless I am in a position to abandon my current life and transform myself, a custom solution doesn't cut it. It may be the case that there is no solution, and I would find that to be an acceptable answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="149"  InstanceType= "comments" Score="0">
+			<PostId>5248</PostId>
+			<ParentPostId>7047</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-27T16:32:47.407</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If this is for wine enthusiasts that have found a solution, and not necessarily one of programming then it should not have a programming like specification.  If you want two devices to be in synch then there has to be a master and email is not a valid master for this type of data.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="150"  InstanceType= "comments" Score="0">
+			<PostId>5249</PostId>
+			<ParentPostId>7047</ParentPostId>
+			<Contributors>
+				<UserId>7208</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-28T01:22:57.790</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's an open question.  It *can* be a technical solution, but if there is a solution that doesn't require geekiness, I welcome it.  I described the technical view of it because that's how I envision the solution, based on how I would try to realize it.  But my technical chops are not sufficient.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="151"  InstanceType= "comments" Score="0">
+			<PostId>5250</PostId>
+			<ParentPostId>7052</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-29T20:18:29.563</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Where do you get 3600 calories?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="152"  InstanceType= "comments" Score="0">
+			<PostId>5257</PostId>
+			<ParentPostId>7047</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-02T02:57:30.853</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal4.0.0 Although a relational database will work, a flat file database would as well. There is a software recommendation SE site that is just for this sort of question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="153"  InstanceType= "comments" Score="0">
+			<PostId>5276</PostId>
+			<ParentPostId>7070</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-15T17:43:27.047</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You might want to do a google search. There are several Riesling Gewurztraminer blends available.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="154"  InstanceType= "comments" Score="0">
+			<PostId>5277</PostId>
+			<ParentPostId>7074</ParentPostId>
+			<Contributors>
+				<UserId>5482</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-15T18:58:54.723</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I like the Black Russian recipe and shame on me for not thinking about the classic Vodka Martini.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="155"  InstanceType= "comments" Score="0">
+			<PostId>5278</PostId>
+			<ParentPostId>7070</ParentPostId>
+			<Contributors>
+				<UserId>7264</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-15T22:07:53.393</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@EricShain I have tried Googling it many times and the general theme is "Not currently available". On the rare occasion when someone *appears* to have it, they want around £10 per bottle. Let's put that in context; about a year ago a UK budget supermarket chain suddenly stocked it and I bought 15 bottles for £3.36 each. If you've seen somewhere that I can get it for, say, less than £7.50/bottle, can you please post a link?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="156"  InstanceType= "comments" Score="0">
+			<PostId>5279</PostId>
+			<ParentPostId>7070</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-16T20:36:32.387</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Sorry, I'm in the US. Perhaps we have greater access. Specifically, there are several options made in the Finger Lakes region of New York which is a surprising good source of rieslings. This site might be helpful: https://www.wine-searcher.com/grape-1801-gewurztraminer-riesling
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="157"  InstanceType= "comments" Score="0">
+			<PostId>5280</PostId>
+			<ParentPostId>7070</ParentPostId>
+			<Contributors>
+				<UserId>7264</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-16T22:26:35.230</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@EricShain It's very interesting reading that site, many of those brands; McGuigan, Wolf Blass, Hardys, these are very big sellers in the UK, all of the major supermarkets will stock their wines, but I can only assume that "GTR" is not really favoured by the British for some reason so they don't bother to import this particular variety. Actually Gewurztraminer itself is relatively rare in supermarkets but it is at least available if I look around. Riesling is pretty common.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="158"  InstanceType= "comments" Score="0">
+			<PostId>5281</PostId>
+			<ParentPostId>7070</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-16T23:18:54.900</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You might try requesting a specific wine at your favorite wine store. If they already carry a brand it should be feasible. Better specialty wine shops in the US sometimes try to help out their good customers. Otherwise you could contact the wine brands themselves. They may be able to point you to a UK reseller.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="159"  InstanceType= "comments" Score="0">
+			<PostId>5282</PostId>
+			<ParentPostId>7070</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-17T14:30:42.197</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					By the way, I think the answer provided by farmersteve is pretty solid. If you agree, you should consider accepting it by clicking the check mark.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="160"  InstanceType= "comments" Score="0">
+			<PostId>5284</PostId>
+			<ParentPostId>7070</ParentPostId>
+			<Contributors>
+				<UserId>7264</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-17T21:55:00.803</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@eric shain, I've tried every avenue I can think of. Rosemount's web site allowed me to order it for shipment from Australia to the UK; total price about £30/bottle. Hardys told me about the one retailer that imports it into the UK and I had to order it through them for a few years. They would not stock it due to lack of demand. They can no longer obtain it. Basically, people who stock Hardys wines cannot obtain GTR in the UK. I haven't seen Rosemount's version for about 10 years. M&amp;S have recently stocked another brand, but in limited supply for £9.50/bottle.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="161"  InstanceType= "comments" Score="0">
+			<PostId>5285</PostId>
+			<ParentPostId>7070</ParentPostId>
+			<Contributors>
+				<UserId>7264</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-17T22:16:06.493</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@EricShain I do intend to accept farmersteve' answer, I just want to give it a few more days in case anyone else has anything to add.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="162"  InstanceType= "comments" Score="1">
+			<PostId>5286</PostId>
+			<ParentPostId>7084</ParentPostId>
+			<Contributors>
+				<UserId>5482</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-22T17:31:27.193</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I should note that once the growler is opened, the beer inside only remains fresh (carbonated) for approx. 36 hours (3 days).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="163"  InstanceType= "comments" Score="0">
+			<PostId>5287</PostId>
+			<ParentPostId>7084</ParentPostId>
+			<Contributors>
+				<UserId>6874</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-23T09:09:38.787</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Do you mean *36 hours* (1.5 day) **or** *3 days* (72 hours)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="164"  InstanceType= "comments" Score="0">
+			<PostId>5288</PostId>
+			<ParentPostId>7084</ParentPostId>
+			<Contributors>
+				<UserId>5482</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-23T14:41:21.370</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes. Thanks for the correction, @OldPadawan. I'm not sure how the math slipped me on that one:p
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="165"  InstanceType= "comments" Score="0">
+			<PostId>5338</PostId>
+			<ParentPostId>7032</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-02T18:51:51.030</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I vote to close, this question is unanswerable.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="166"  InstanceType= "comments" Score="0">
+			<PostId>5346</PostId>
+			<ParentPostId>7148</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-15T17:45:47.420</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks for the team effort, and sorry about the typo.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="167"  InstanceType= "comments" Score="0">
+			<PostId>5347</PostId>
+			<ParentPostId>7149</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-15T17:46:51.613</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you for this thorough answer.  "Grapes not in their home habitats" hadn't even occurred to me, and now that you point it out I can see how huge a factor that would be.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="168"  InstanceType= "comments" Score="0">
+			<PostId>5348</PostId>
+			<ParentPostId>7149</ParentPostId>
+			<Contributors>
+				<UserId>331</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-15T18:20:26.573</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't follow your point 3. Whatever grape juice you start with, making a more alcoholic wine will remove more sugar. If the market is demanding sweet wines, that would pressure towards lower alcohol levels. And what does that have to do with watering down the juice, anyway?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="169"  InstanceType= "comments" Score="2">
+			<PostId>5349</PostId>
+			<ParentPostId>7149</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-15T18:31:36.677</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What happens when you get to the upper echelons of natural fermentation, around 17-18% ABV the fermentations usually aren't completed and leave some sweetness behind. This is a stylistic thing. I know guys that purposely leave their fruit on the vine to raisin so it gives them that sweet flavor in their wine. This comes at a cost since the grapes are over ripe. Therefore, there is a lot of watering down to get them below a level of sweetness to complete fermentation. Otherwise they have a wine that is 17+% ABV and sweet.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="170"  InstanceType= "comments" Score="0">
+			<PostId>5350</PostId>
+			<ParentPostId>7149</ParentPostId>
+			<Contributors>
+				<UserId>500</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-16T02:28:10.033</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@farmersteve this “raisining” technique is also how they make Sciacchetrà wine in Cinque Terre.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="171"  InstanceType= "comments" Score="0">
+			<PostId>5351</PostId>
+			<ParentPostId>7149</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-16T14:01:04.727</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					And Amarone which done after harvest, but has the same effect
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="172"  InstanceType= "comments" Score="0">
+			<PostId>5353</PostId>
+			<ParentPostId>7147</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-16T15:28:37.050</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Sorry, yes, the Doooog is back!  Just about to shoot off and adjust my doooginess to 5.0.0
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="173"  InstanceType= "comments" Score="0">
+			<PostId>5354</PostId>
+			<ParentPostId>7150</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-17T06:05:18.043</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I love the ashtray bit here - how do you know what ashtray juice tastes like!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="174"  InstanceType= "comments" Score="0">
+			<PostId>5363</PostId>
+			<ParentPostId>7141</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-19T15:51:05.740</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think I might just have put it up on Ebay, and bought a decent bottle with the proceeds!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="175"  InstanceType= "comments" Score="0">
+			<PostId>5364</PostId>
+			<ParentPostId>7095</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-19T16:18:05.067</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					These would be great if you had a themed party: Scientists, doctors and nurses etc...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="176"  InstanceType= "comments" Score="0">
+			<PostId>5436</PostId>
+			<ParentPostId>7217</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-23T01:11:14.560</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How careful were you in pouring from the bottle into the carafe?  I would expect that to have come from the bottle, but unless you up-ended the bottle I'm not sure how it got to the carafe.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="177"  InstanceType= "comments" Score="0">
+			<PostId>5438</PostId>
+			<ParentPostId>7217</ParentPostId>
+			<Contributors>
+				<UserId>7667</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-23T06:00:46.970</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I was not at all careful, I did indeed just about up-end the bottle in there. I’ve never seen something like this in a bottle of wine, though. Is it a vine or some weirdly shaped sediment, do you think? I’ve edited the question to reflect that it probably came from the wine, not the carafe itself.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="178"  InstanceType= "comments" Score="0">
+			<PostId>5439</PostId>
+			<ParentPostId>6274</ParentPostId>
+			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-23T17:59:09.947</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd say the question is experience-based more so, which keeps it on topic. Due to the nature of individual experience, I would agree that there could be no single answer, however...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="179"  InstanceType= "comments" Score="1">
+			<PostId>5440</PostId>
+			<ParentPostId>7217</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-23T19:11:35.533</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Also, the sediment can collect at the very bottom ring of the bottle forming a thin band of sediment that looks like a strip
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="180"  InstanceType= "comments" Score="1">
+			<PostId>5441</PostId>
+			<ParentPostId>7222</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-29T14:33:34.593</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Red and white wine is what they drank. Not much different from today. Grapes haven't changed much since then.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="181"  InstanceType= "comments" Score="1">
+			<PostId>5442</PostId>
+			<ParentPostId>7222</ParentPostId>
+			<Contributors>
+				<UserId>6874</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-29T14:40:59.830</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Grapes haven't changed much since then, but vinification process has :) I'm pretty sure, as historians often say/write, that most of people today would find roman-era wine's taste to be "awful".
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="182"  InstanceType= "comments" Score="1">
+			<PostId>5443</PostId>
+			<ParentPostId>7222</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-29T21:40:33.093</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not as much as you think
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="183"  InstanceType= "comments" Score="0">
+			<PostId>5444</PostId>
+			<ParentPostId>5019</ParentPostId>
+			<Contributors>
+				<UserId>7683</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-30T19:17:55.287</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What about the most important thing, their flavorur?  How are the different?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="184"  InstanceType= "comments" Score="0">
+			<PostId>5485</PostId>
+			<ParentPostId>7141</ParentPostId>
+			<Contributors>
+				<UserId>7662</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-22T17:29:36.047</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Absolutely! How great to have this opportunity. Enjoy!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="185"  InstanceType= "comments" Score="0">
+			<PostId>5493</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-03T17:11:15.300</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think you should rename this question to "are there any other wines/spirits in the world the Solera system
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="186"  InstanceType= "comments" Score="0">
+			<PostId>5495</PostId>
+			<ParentPostId>7264</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-04T08:10:42.543</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Did some additional research and found that the "solera" method seems to be more common than I thought. There exists even a cachaça produced with that method. Will continue searching for more
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="187"  InstanceType= "comments" Score="0">
+			<PostId>5497</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-04T11:03:25.343</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wording is not that important as long as everybody understands. The term "Sherry" of course is reserved for a specific regional product from Jerez de la Fonterra. As Sherry was first, is based on this specific method and best known with its production method talking about "Sherry production method" should not be misunderstood.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="188"  InstanceType= "comments" Score="0">
+			<PostId>5498</PostId>
+			<ParentPostId>7256</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-06T00:27:51.980</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					My assumption to crushed ice was that there might be less space for "alcohol" between and so create volume instead of taste.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="189"  InstanceType= "comments" Score="0">
+			<PostId>5499</PostId>
+			<ParentPostId>7268</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-06T02:12:36.313</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've independently verified that it's sold in the USA as well, but I've never heard of it.  Seems to be a low to mid-priced offering, and not that popular here either.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="190"  InstanceType= "comments" Score="0">
+			<PostId>5500</PostId>
+			<ParentPostId>7268</ParentPostId>
+			<Contributors>
+				<UserId>7737</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-07T13:07:05.887</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In India, It is most famous dark rum and was launched in 1954, since then the company is running without any kind of promotional activity and there is no change in packaging also. Old Monk had been awarded gold medals at Monde World Selections since 1982. Also it is most used brand by Indian Army.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="191"  InstanceType= "comments" Score="0">
+			<PostId>5502</PostId>
+			<ParentPostId>7271</ParentPostId>
+			<Contributors>
+				<UserId>7772</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-09T12:28:00.120</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Austrians loooovvveee Glühwein ;)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="192"  InstanceType= "comments" Score="0">
+			<PostId>5503</PostId>
+			<ParentPostId>7276</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-10T15:58:47.350</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I hoped to receive a different answer, but it is as I expected. Probably a good explanation why some spirits generate headache and others don't. They say that spirits reduce life time, however "Queen Mum" had her daily Gin and died in old age with more than 100 years. She definitely had no reason to consume a cheap Gin.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="193"  InstanceType= "comments" Score="0">
+			<PostId>5504</PostId>
+			<ParentPostId>7276</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-11T17:14:25.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I know your comment on selling paint thinner was a joke, but shouldn’t safety of the product be at least of moderate importance?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="194"  InstanceType= "comments" Score="0">
+			<PostId>5505</PostId>
+			<ParentPostId>7276</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-11T17:20:22.870</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In most countries Alcohol is highly regulated and tested for quality. (We are talking about spirits not beer and wine). However there are places in the world were there is little regulation and people put all kinds of crap into booze to make more money.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="195"  InstanceType= "comments" Score="0">
+			<PostId>5534</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-18T16:08:34.563</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The question should be how do people age wines, not preserve. You cannot preserve a wine indefinitely. All you can do is slow down the agin process...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="196"  InstanceType= "comments" Score="1">
+			<PostId>5535</PostId>
+			<ParentPostId>7298</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-18T18:19:18.297</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What is the control to stop it before it actually freezes?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="197"  InstanceType= "comments" Score="0">
+			<PostId>5536</PostId>
+			<ParentPostId>7298</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-18T21:19:57.810</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					visual. Look for ice crystals forming in the bottle. Pull it out when you start to see some.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="198"  InstanceType= "comments" Score="1">
+			<PostId>5548</PostId>
+			<ParentPostId>7323</ParentPostId>
+			<Contributors>
+				<UserId>7787</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-02T22:51:26.843</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A comment on your IPAs: If you need one more way to predict whether you'll like an IPA, look at the type of hops, not just the IBU level. Different varieties of hops have significantly different aromas and flavors. Not all bottled beers will tell you the varieties of hops they use, but most brewpubs and websites will tell you.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="199"  InstanceType= "comments" Score="1">
+			<PostId>5549</PostId>
+			<ParentPostId>7323</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-02T22:57:33.940</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Have you really found a white wine made with Malbec?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="200"  InstanceType= "comments" Score="1">
+			<PostId>5556</PostId>
+			<ParentPostId>7323</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-06T21:05:14.260</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@GaryR. Great comment. I find IBU indicative of bitterness, but not at all indicative of quality.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="201"  InstanceType= "comments" Score="0">
+			<PostId>5583</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-26T13:44:28.723</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Perhaps this should be made a community wiki?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="202"  InstanceType= "comments" Score="0">
+			<PostId>5584</PostId>
+			<ParentPostId>7354</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-26T16:44:56.197</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					When you say filtering can remove a lot of flavor is simply false unless they go to sub-micron filter to keep it sterile. Most beer is filtered at 5 microns on stripping out proteins and some yeast. Hop flavors are not stripped out. Although the yeast and proteins do have flavor in them, their flavoring components are water and alcohol soluble and are left behind.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="203"  InstanceType= "comments" Score="0">
+			<PostId>5585</PostId>
+			<ParentPostId>7354</ParentPostId>
+			<Contributors>
+				<UserId>5160</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-27T22:19:30.253</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@farmersteve - Yes, you're right.  A lot of macro lagers (most?) are sterile filtered to remove all yeast and bacteria for shelf-stability (and probably other reasons).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="204"  InstanceType= "comments" Score="0">
+			<PostId>5586</PostId>
+			<ParentPostId>7362</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-01T00:55:46.823</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes. There is Camellia Sinensis and then there is 'tea' defined as a hot steeped drink. In theory, anything can be a tea by the second definition, but whether it's palatable or has any pleasing affects is another thing altogether. I'd guess hops might offer some sedative qualities, but the fact that it isn't a commonly used 'tea' suggests to me that it's probably better left to beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="205"  InstanceType= "comments" Score="0">
+			<PostId>5587</PostId>
+			<ParentPostId>7362</ParentPostId>
+			<Contributors>
+				<UserId>6788</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-01T02:05:27.747</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've heard from some brewing enthusiasts that boiling water is not suitable for making a "tea" from grains, but 60-65°C water is just right. I haven't had a chance to experiment with it myself yet, but I will try soon. I just wonder why high temperature is bad, and why such a low temperature was recommended (65°C is also very appropriate for the smoothest green teas).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="206"  InstanceType= "comments" Score="0">
+			<PostId>5588</PostId>
+			<ParentPostId>7362</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-01T19:44:33.970</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Without knowing specific chemistry I'd assume elements of different teas/coffee/whatever break-down at different temperatures. Which means that grains likely have a maximal temperature to become 'activated' but not break down completely.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="207"  InstanceType= "comments" Score="0">
+			<PostId>5589</PostId>
+			<ParentPostId>7365</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-02T14:36:30.027</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are you eating when you are drinking these wines? That can have a profound impact on the flavors. Also, it could be the way the glasses are cleaned. What are you used to drinking for red wines. I am a lover of Austrian reds and they are pretty high on the fruit scale and low on the oak.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="208"  InstanceType= "comments" Score="0">
+			<PostId>5590</PostId>
+			<ParentPostId>7365</ParentPostId>
+			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-02T18:56:54.697</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@farmersteve I did suspect that it might be the food, but I’ve tried the same food with different reds and I only get a salty taste from some of them!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="209"  InstanceType= "comments" Score="0">
+			<PostId>5591</PostId>
+			<ParentPostId>7281</ParentPostId>
+			<Contributors>
+				<UserId>7903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-04T16:27:28.987</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					both absinthe and chartreuse are used in classic cocktails, including (but not limited to) corpse reviver #2, sazerac, death in the afternoon (absinthe) and last word, greenpoint (chartreuse)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="210"  InstanceType= "comments" Score="0">
+			<PostId>5593</PostId>
+			<ParentPostId>7369</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-05T15:50:24.637</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					All nontoxic fruits that contain reasonable sugar levels and can be juiced. Which is a far cry from "all fruits". But still +1 for why grapes are the perfect fruit.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="211"  InstanceType= "comments" Score="0">
+			<PostId>5594</PostId>
+			<ParentPostId>7369</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-05T15:58:05.213</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Added edible fruit
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="212"  InstanceType= "comments" Score="0">
+			<PostId>5595</PostId>
+			<ParentPostId>7369</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-05T16:10:57.773</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Grapes are roughly 16% sugar, and of course they work. Highly doubt limes or cucumbers at &lt;2% will work without first adding external sugar and for limes correcting acidity. Also, good luck with avocado, where even if you can get a "juice", contains basically no sugar to ferment.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="213"  InstanceType= "comments" Score="0">
+			<PostId>5596</PostId>
+			<ParentPostId>7369</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-05T18:12:36.880</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Sorry, 16% sugar in grapes would be on the very low end. Typically 18%-28% sugar in grapes. Late harvest could go over 30%.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="214"  InstanceType= "comments" Score="0">
+			<PostId>5597</PostId>
+			<ParentPostId>7369</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-05T21:31:50.113</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					All the more reason that very-low-sugar fruits are incredibly unlikely to work.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="215"  InstanceType= "comments" Score="1">
+			<PostId>5598</PostId>
+			<ParentPostId>7369</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-06T00:42:28.130</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					We use apples without any additions and they are pretty low sugar. They just happen to have a high level of Malic acid. The question is can all fruits be turned into wine and of course the technical answer is no. But let's assume the OP meant your typical fruit at the grocery store. Then yes, most can with the addition of sugar and acid. Only apples and grapes pretty much have everything needed to make an alcohol beverage without cooking or additions.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="216"  InstanceType= "comments" Score="1">
+			<PostId>5599</PostId>
+			<ParentPostId>7372</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-06T18:34:42.963</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Nobody is talking about toxic fruit. You brought that up. I'm sure the OP meant commonly available in a store type fruit.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="217"  InstanceType= "comments" Score="0">
+			<PostId>5601</PostId>
+			<ParentPostId>7369</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-06T21:09:47.807</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Apples are not "pretty low sugar".
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="218"  InstanceType= "comments" Score="1">
+			<PostId>5602</PostId>
+			<ParentPostId>7372</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-06T21:16:54.300</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Question literally says "*all* fruit". In any case, that point was tangential, as is clearly implied by "This is completely discounting..." verbiage in the last paragraph. If you want to stop after the first two paragraphs, fine... the answer is still "no". No issue with your answer to the "why are grapes best" question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="219"  InstanceType= "comments" Score="1">
+			<PostId>5603</PostId>
+			<ParentPostId>7368</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-06T21:27:12.300</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What do you mean by "wine", and what do you mean by "all fruit"? You can, of course, dissolve sugar in water and ferment that (the Finns call this *kilju*), flavoring it with whatever juice you want. If you mean fermenting the pure juice, lots of fruits won't work because they don't have enough sugar.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="220"  InstanceType= "comments" Score="0">
+			<PostId>5604</PostId>
+			<ParentPostId>7014</ParentPostId>
+			<Contributors>
+				<UserId>7914</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-07T02:44:12.243</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Why would a wine no be vegetarian‽
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="221"  InstanceType= "comments" Score="0">
+			<PostId>5605</PostId>
+			<ParentPostId>1062</ParentPostId>
+			<Contributors>
+				<UserId>7914</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-07T02:45:48.870</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					"_It is not legal to ship alcohol…across state or national lines_" What about within a state?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="222"  InstanceType= "comments" Score="0">
+			<PostId>5606</PostId>
+			<ParentPostId>7374</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-07T14:33:57.420</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don’t think there is a single answer. It depends on the dish. Have you tried searching on wine pairings?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="223"  InstanceType= "comments" Score="0">
+			<PostId>5607</PostId>
+			<ParentPostId>7014</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-07T16:53:40.990</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There are at least to things that winemakers put into wine that are made of animals. Egg whites to help clarify the wine. Isinglass which is a fish swim bladder and does the same thing as egg whites.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="224"  InstanceType= "comments" Score="0">
+			<PostId>5608</PostId>
+			<ParentPostId>7014</ParentPostId>
+			<Contributors>
+				<UserId>7914</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-07T18:23:09.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Isn't there an Italian drink where eggs are added to wine? They call it something other than _vino_. Perhaps the quantity of eggs you're speaking of is very small?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="225"  InstanceType= "comments" Score="0">
+			<PostId>5610</PostId>
+			<ParentPostId>1062</ParentPostId>
+			<Contributors>
+				<UserId>1429</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-08T03:56:29.157</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A beverage taxed inside a tax jurisdiction can be transferred, not resold without tax implications, to a 3rd party provided recieving party is legally allowed to have said item.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="226"  InstanceType= "comments" Score="0">
+			<PostId>5611</PostId>
+			<ParentPostId>7014</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-09T14:02:22.983</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					http://www.italyheritage.com/traditions/food/vov.htm
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="227"  InstanceType= "comments" Score="0">
+			<PostId>5612</PostId>
+			<ParentPostId>6253</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-10T12:44:03.423</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A red wine variety of this wine does exist. [St. John Commandaria](http://www.atheneeimporters.com/portfolio/st-john-commandaria)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="228"  InstanceType= "comments" Score="0">
+			<PostId>5650</PostId>
+			<ParentPostId>7368</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-31T13:20:33.877</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Ken Graham you can't just change the nature of the question. The OP said "all fruit" not "all edible fruit". Of course you can make wine from just about anything, toxic or inedible with some water and sugar. That brings up the question of what is "wine" but that's a different question!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="229"  InstanceType= "comments" Score="0">
+			<PostId>5681</PostId>
+			<ParentPostId>7448</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-19T12:53:42.240</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm voting to close this question as off-topic because it's a duplicate at https://homebrew.stackexchange.com/questions/7296/could-i-make-vinegar-from-spoiled-wine
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="230"  InstanceType= "comments" Score="1">
+			<PostId>5682</PostId>
+			<ParentPostId>7446</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-19T13:00:15.967</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Nobody is going to do that. Why don't you buy a nice book on wine because that's how long it would take to put it all down in an answer. Here is a good general purpose book on the wines of the world https://www.amazon.com/New-Sothebys-Wine-Encyclopedia-Third/dp/0789480395
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="231"  InstanceType= "comments" Score="0">
+			<PostId>5695</PostId>
+			<ParentPostId>7446</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-26T14:47:40.250</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There is such a thing called 'Google' - try it out and see just what you can learn before asking the rest of us to do it for you.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="232"  InstanceType= "comments" Score="1">
+			<PostId>5696</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-26T23:01:35.867</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question in it's current format isn't really a good fit for the Stack Exchange format. Broad suggestions are primarily opinion based, but the question could be re-worded to look for drinks that are most commonly drunk in the winter
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="233"  InstanceType= "comments" Score="0">
+			<PostId>5697</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-27T13:29:22.700</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Have you done a Google search. Lots of stuff comes up for “winter cocktail” like https://www.esquire.com/food-drink/drinks/gmp385/winter-cocktails/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="234"  InstanceType= "comments" Score="0">
+			<PostId>5698</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-28T16:17:04.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question is too vague. What are you asking?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="235"  InstanceType= "comments" Score="0">
+			<PostId>5702</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-09-01T06:44:30.307</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I get where you are coming from, however simply googling it would mean that no one ever came to this site.  I will however try to re-word it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="236"  InstanceType= "comments" Score="0">
+			<PostId>5703</PostId>
+			<ParentPostId>7458</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-09-01T06:46:25.853</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I should have known that you would have come up with a brilliant answer!  Thank you, a very interesting read.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

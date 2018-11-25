@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="8620"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2018-04-06T19:07:04.233</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8626"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2018-04-08T19:04:50.663</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8631"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2018-04-10T19:27:24.127</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8635"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2018-04-12T14:11:41.710</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8640"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2018-04-15T12:56:55.703</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8642"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2018-04-15T21:02:48.010</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8647"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Revival"
+			</Title>
+			<TimeStamp>
+				<Date>2018-04-16T11:43:52.693</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8692"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2018-05-04T11:24:24.670</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8694"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Curious"
+			</Title>
+			<TimeStamp>
+				<Date>2018-05-05T11:53:28.937</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8696"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2018-05-06T00:25:05.870</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8731"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Commentator"
+			</Title>
+			<TimeStamp>
+				<Date>2018-05-15T12:42:44.320</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8774"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2018-05-28T14:32:36.767</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8781"  UserId="7702" InstanceType= "badges">
+			<Title>
+			"Enthusiast"
+			</Title>
+			<TimeStamp>
+				<Date>2018-05-30T01:05:43.270</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

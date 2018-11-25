@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="1112"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-15T00:37:31.233</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1119"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-16T18:20:16.507</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1120"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-16T18:20:16.507</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1131"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Nice Question"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-18T21:14:26.617</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3773"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-02-11T22:19:23.440</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4046"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-04-24T01:24:18.007</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4193"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Notable Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-05-31T18:03:04.370</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4747"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Famous Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-09-25T23:07:54.207</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4811"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Good Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-10-10T06:08:31.650</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8047"  UserId="479" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2017-11-09T22:29:59.247</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

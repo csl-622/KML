@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>60</PostId>
+			<Title>
+			"Yeast beer and the gastric problems"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>147</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:21:39.010</CreationDate>
+				<LastActivityDate>2016-04-08T13:32:13.527</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Does drinking yeast beer (known in Germany als Hefe-Weissbier) have any potential influence on gastric problems?&lt;/p&gt;
+
+					&lt;p&gt;Yeast can become active in intestines, starting there fermentation processes and causing bloating. When such symptoms occur, is that the effect of yeast activity, or it's rather some kind of food intolerance?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>401</PostId>
+			<AcceptedAnswerId>414</AcceptedAnswerId>
+			<Title>
+			"How was beer brewed before the discovery of Yeast?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>16</Score>
+				<ViewCount>9788</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T07:48:41.170</CreationDate>
+				<LastActivityDate>2014-07-23T07:01:48.923</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yeast was identified as the cause of fermentation in the 1800s, but beer has been around since long before then.  How was fermentation started before the intentional introduction of yeast?  Was it all lambic-style ambient yeast, or what?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>571</PostId>
+			<AcceptedAnswerId>572</AcceptedAnswerId>
+			<Title>
+			"How much fermentation happens post-bottling in a UFO?"
+			</Title>
+			<Tags>
+				<tag>freshness</tag>
+				<tag>yeast</tag>
+				<tag>filtering</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>104</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-07T23:37:01.317</CreationDate>
+				<LastEditDate>2014-02-08T05:02:57.470</LastEditDate>
+				<LastActivityDate>2014-02-09T05:40:30.083</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+				<LastEditorUserId>170</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In &lt;a href="https://www.harpoonbrewery.com/beer/ufo"&gt;Harpoon's UFO series&lt;/a&gt; (and other related products from other companies), the beer is bottled unfiltered, so some of the yeast carries over into the bottled beer.&lt;/p&gt;
+
+					&lt;p&gt;As long as the beer is kept in a cool area, as not to promote the growth of the yeast, how much fermentation will occur?  Aside from producing extra carbon dioxide and eventually ruining the beer, is this harmful when it proceeds over short periods?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>668</PostId>
+			<AcceptedAnswerId>669</AcceptedAnswerId>
+			<Title>
+			"What are the drawback of not using "brewer's yeast" when brewing beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>146</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-17T21:26:22.267</CreationDate>
+				<LastActivityDate>2014-03-17T22:09:35.913</LastActivityDate>
+				<ClosedDate>2014-03-18T08:42:38.440</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>49</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When walking through a brewery supply store, you will see a variety of yeasts. &lt;/p&gt;
+
+					&lt;p&gt;Likewise, you can find a variety of yeasts when walking through a grocery store.&lt;/p&gt;
+
+					&lt;p&gt;What "happens" if you use the 'wrong kind' of yeast when brewing? How much of a beer's flavor / texture / body / etc is derived from the yeast vs all other ingredients?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>672</PostId>
+			<AcceptedAnswerId>673</AcceptedAnswerId>
+			<Title>
+			"What Beers are Brewed with Wild Yeast?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>231</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-18T15:06:14.583</CreationDate>
+				<LastEditDate>2017-04-13T12:46:00.997</LastEditDate>
+				<LastActivityDate>2015-07-20T14:23:33.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>85</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is this practiced commercially? I'm not sure if it would scale very well, because I understand that the technique &lt;a href="https://homebrew.stackexchange.com/questions/146/whats-the-best-method-to-catch-a-strain-of-wild-yeast-for-homebrewing"&gt;takes a long time&lt;/a&gt; even for a home brew batch. &lt;/p&gt;
+
+					&lt;p&gt;If so, what beers are brewed using this technique and why? Is it specific types of beer, or specific brewers, perhaps going for the "organic" angle?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>675</PostId>
+			<AcceptedAnswerId>676</AcceptedAnswerId>
+			<Title>
+			"What does rolling/swirling a hefeweizen actually do?"
+			</Title>
+			<Tags>
+				<tag>pouring</tag>
+				<tag>yeast</tag>
+				<tag>hefeweizen</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>1990</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-19T15:30:22.927</CreationDate>
+				<LastActivityDate>2014-03-19T15:41:25.937</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>75</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I remember the first hefeweizen I had. It was made by Widmer, and I didn't like it. The second time I tried it, I noticed there were pouring instructions on the box/bottle. &lt;/p&gt;
+
+					&lt;p&gt;The instructions said to pour two thirds of the beer in to a glass, swirl, then pour the remainder. They even have an &lt;a href="http://www.youtube.com/watch?v=RVrLrdbMSyg"&gt;official YouTube video&lt;/a&gt; on it. I gave it a try, and maybe it was my imagination, but it tasted surprisingly different. I liked it.&lt;/p&gt;
+
+					&lt;p&gt;What does rolling/swirling a hefeweizen actually do?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>4947</PostId>
+			<AcceptedAnswerId>4955</AcceptedAnswerId>
+			<Title>
+			"Alternative ways to know the impact of ingredients"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+				<tag>yeast</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>47</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-09T15:50:01.817</CreationDate>
+				<LastEditDate>2016-04-10T22:59:30.043</LastEditDate>
+				<LastActivityDate>2016-04-15T08:50:14.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5306</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;My first batch of beer was very complicated with lots of different ingredients and to be honest I wasn't even sure exactly what I was doing. In my second batch I decided to go "neutral," making a smaller batch (5 liters) and used only Pilsner, only Saaz and single infusion (to see the impact of each ingredient, and from there evolve). The beer is ready but now I'm kind of clueless to where to go. Is there any other way to see the impact of each ingredient without actually brewing a batch? I want to know how temperature, yeast, malt, etc. act on the beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>6241</PostId>
+			<Title>
+			"Any Iranian rummers here? What yeast do you use?"
+			</Title>
+			<Tags>
+				<tag>yeast</tag>
+				<tag>mead</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>58</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-19T01:00:56.953</CreationDate>
+				<LastActivityDate>2016-08-30T01:10:24.847</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5788</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A lot of Iranians would gladly push away their teetotal laws, and it's evident from the latest alcohol craze which makes me realize there are probably more and more Iranian rummers present in our society, doing God's job, or lack thereof.&lt;/p&gt;
+
+					&lt;p&gt;I want to know what sort of yeast do you use? I want to brew myself some mead. In a large barrel. What should be the ratio of water and honey, and also, what yeast should I use? Where can I get brewer's yeast?&lt;/p&gt;
+
+					&lt;p&gt;Thanks a lot.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>6400</PostId>
+			<Title>
+			"How do beer manufacturers keep the taste the same?"
+			</Title>
+			<Tags>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>270</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-24T14:55:03.990</CreationDate>
+				<LastActivityDate>2016-12-10T00:42:18.967</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6132</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer yeast change over time due to new generations. It's biology. To my knowledge you can't keep the same generation of yeast alive.
+					Which should mean the taste should change or evolve over time? At least that's how I understand how different beer yeasts are created.&lt;/p&gt;
+
+					&lt;p&gt;Would the same brand of beer really taste and be equal over time, as in scientifically analysed and compared?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>6683</PostId>
+			<AcceptedAnswerId>6700</AcceptedAnswerId>
+			<Title>
+			"Does beer expiration change based on yeasts?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>aging</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>92</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-17T17:54:58.957</CreationDate>
+				<LastActivityDate>2017-03-25T10:09:56.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6564</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've been enjoying lurking around here, I'm learning a lot! &lt;/p&gt;
+
+					&lt;p&gt;Part of my job involves selling beer. I was told by a coworker that visible yeast particulates at the top of a beer bottle indicate that it's not fit for consumption, whereas yeast at the bottom is fine. &lt;/p&gt;
+
+					&lt;p&gt;Is this true? And if so, does it change depending on whether it's a top-fermenting or bottom-fermenting beer? Does this affect meads and ciders as well? &lt;/p&gt;
+
+					&lt;p&gt;Thank you! &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>7071</PostId>
+			<Title>
+			"Why did my cherry juice turn directly into vinegar while never being wine?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>wine</tag>
+				<tag>yeast</tag>
+				<tag>fermentation</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>125</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-14T06:43:42.960</CreationDate>
+				<LastEditDate>2018-01-01T14:27:40.323</LastEditDate>
+				<LastActivityDate>2018-01-01T14:27:40.323</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7266</OwnerUserId>
+				<LastEditorUserId>7266</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;These canned, additive-free cherries are packed in their own juice, watered down.  I previously left this juice in a plastic water bottle while drinking it, for only three days, and it became pleasantly bubbly - carbonated juice.  A honey and water mix used for eye medicine turned into a strong alcohol over just 1-2 weeks (it was only one ounce of mixture).  This time, I used the extra, way-too-high amount of yeast to put in the juice, but after two months, it is still just sour juice, and no tasteable bubbles.  So I added a very small piece of kombucha SCOBY - maybe it will become kombucha-like or become fuzzy juice.  One week later, it tastes exactly the same.  Two weeks after that, it is vinegar.  It was never wine and it was never kombucha.  Why?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>7111</PostId>
+			<Title>
+			"Can all sugars be used for brewing?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>yeast</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>72</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-09T18:42:12.927</CreationDate>
+				<LastActivityDate>2018-06-14T14:00:30.720</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7415</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;While we generally focus on glucose, sucrose, and fructose for brewing, there are &lt;a href="https://en.wikipedia.org/wiki/List_of_sugars" rel="nofollow noreferrer"&gt;a lot of sugars&lt;/a&gt; out there. Can all of these be used in the brewing process, particularly for beer? What are the effects of using more esoteric sugars such as dextrose, xylose, mycose, or mannose alongside normal brewing grains? What about amino sugars such as glucosamine?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>7196</PostId>
+			<AcceptedAnswerId>7197</AcceptedAnswerId>
+			<Title>
+			"Vinometer reads 16% while SG says that can't be possible"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>56</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-26T12:28:56.043</CreationDate>
+				<LastActivityDate>2018-02-26T13:50:32.080</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7608</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;My initial SG was 1.090 and now reads 1.026, this should give me an ABV between 8.4% and 9% but the vinometer is reading 16%, and I have a stuck fermentation with Montrechat (Premier Rouge) yeast (max 13%).&lt;/p&gt;
+
+					&lt;p&gt;So obviously the vinometer is lying right?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>7198</PostId>
+			<Title>
+			"Restart fermentation stuck at 1.026SG?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>31</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-26T14:50:46.960</CreationDate>
+				<LastActivityDate>2018-02-26T20:15:19.940</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7608</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have a berry wine, stuck at 1.026SG and with a high malic acid (quite sour).  Should I try to restart the fermentation by adding fresh yeast?  What about yeast from another vat?  Is there enough sugar still in the vat to continue the ferment?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>7424</PostId>
+			<AcceptedAnswerId>7425</AcceptedAnswerId>
+			<Title>
+			"Elder flower champagne best to use natural yeast or add a wine yeast?"
+			</Title>
+			<Tags>
+				<tag>alcohol-level</tag>
+				<tag>yeast</tag>
+				<tag>home-brew</tag>
+				<tag>champagne</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>25</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-09T11:03:28.823</CreationDate>
+				<LastActivityDate>2018-08-11T15:59:38.287</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7935</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have had much success making Elder Flower champagne in the past by adding the flower heads to large container of water, add sugar and little lemon for taste and leave for 2-4 weeks to ferment before filtering and bottling up in screw top bottles to get fermentation in the bottle and add some fizz to the drink.&lt;/p&gt;
+
+					&lt;p&gt;I have always used the natural yeast that occur on the elder flower and produce a 4-5% alcoholic drink. Just wondering if anyone had any advice on using any store bought yeast for obtaining higher % of alcohol and what side effects this might have on the taste etc.&lt;/p&gt;
+
+					&lt;p&gt;Many thanks&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

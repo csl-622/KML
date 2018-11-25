@@ -1,0 +1,1251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>35</PostId>
+			<AcceptedAnswerId>44</AcceptedAnswerId>
+			<Title>
+			"Why are some beers non-vegan?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>276</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:02:59.240</CreationDate>
+				<LastEditDate>2014-01-21T21:22:24.807</LastEditDate>
+				<LastActivityDate>2014-01-22T06:24:58.930</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some beers (for example, Guinness) are marked as 'not suitable for vegans'. What is in the beer such that this is the case?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>53</PostId>
+			<AcceptedAnswerId>65</AcceptedAnswerId>
+			<Title>
+			"Does chocolate stout contain real chocolate?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>21</Score>
+				<ViewCount>2101</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:14:30.290</CreationDate>
+				<LastActivityDate>2014-12-09T13:43:48.883</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>53</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Various microbreweries make chocolate stout that does indeed, to varying degrees, taste of chocolate. Does it really contain chocolate, and how is chocolate used in the brewing process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>178</PostId>
+			<AcceptedAnswerId>179</AcceptedAnswerId>
+			<Title>
+			"What ingredients are used to make beer?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>193</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T10:23:09.180</CreationDate>
+				<LastActivityDate>2014-01-22T11:24:02.713</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know that it's typically what? yeast, hops, malted barley and water, but sometimes beer is made with other things, (eg wheat). &lt;/p&gt;
+
+					&lt;p&gt;What are some of the more typical alternative ingredients, and style beer does that make?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>315</PostId>
+			<AcceptedAnswerId>321</AcceptedAnswerId>
+			<Title>
+			"Were the Sam Adams seasonal beers actually developed to accommodate seasonal availability of ingredients or are they just a marketing construct?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>ingredients</tag>
+				<tag>varieties</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>191</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-25T03:26:55.270</CreationDate>
+				<LastActivityDate>2014-01-25T07:41:32.317</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I enjoy the Sam Adams seasonal varieties, as they usually put people in the holiday spirit(s), etc., and they evoke the feeling of "only for a limited time" like a Shamrock shake at McDonalds.  &lt;/p&gt;
+
+					&lt;p&gt;In that vein, were the beers originally designated "seasonal" due to the availability of certain ingredients during different times of the year (Harvest Pumpkin Ale springs to mind) or is this notion of a seasonal beer chiefly a marketing construct?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>488</PostId>
+			<AcceptedAnswerId>491</AcceptedAnswerId>
+			<Title>
+			"What determines how much foam a beer produces when it is poured?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>ingredients</tag>
+				<tag>pouring</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>513</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-01T19:06:17.957</CreationDate>
+				<LastActivityDate>2014-02-01T20:38:45.047</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>53</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Different beers and different types of storage result in different amounts of foam being produced when the beer is poured, from almost none at all to a glass full of foam.&lt;/p&gt;
+
+					&lt;p&gt;What factors, both in terms of ingredients/type of beer and storage, affect how much foam will be produced? And, as a bonus question, how do I avoid excessive amounts of foam when pouring?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>513</PostId>
+			<AcceptedAnswerId>514</AcceptedAnswerId>
+			<Title>
+			"What are the characteristics of a rye beer?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>2721</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-04T04:51:53.947</CreationDate>
+				<LastActivityDate>2014-02-04T06:45:56.517</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;After my taste adjusted to the flavors of IPAs, one of my favorites was He'brew Brewing's &lt;em&gt;Bittersweet Lenny&lt;/em&gt;, which as it turns out is an IPA made with rye.  I poked around on BeerAdvocate, and found this long list of &lt;a href="http://beeradvocate.com/beer/style/12/"&gt;rye beers&lt;/a&gt;, which seem to include pales, IPAs, and even a brown rye.&lt;/p&gt;
+
+					&lt;p&gt;What constitutes a "rye" beer (i.e., a certain ratio of rye to other grain)?  Are there characteristics common to a rye beers, and if so, what are they?  In other words, if I like &lt;em&gt;a&lt;/em&gt; rye beer, am I likely to enjoy &lt;em&gt;any&lt;/em&gt; rye beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>574</PostId>
+			<AcceptedAnswerId>575</AcceptedAnswerId>
+			<Title>
+			"Are some beers brewed with meat?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>19</Score>
+				<ViewCount>8040</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-09T17:14:51.480</CreationDate>
+				<LastActivityDate>2016-10-05T19:03:09.470</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>53</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've heard this urban legend that when Guinness changed their brewing equipment at some point, people started to complain that the beer tasted worse. According to the legend, it turned out that before rats were getting into the barrels, drowned in them and thus gave Guinness its "unique flavour".&lt;/p&gt;
+
+					&lt;p&gt;That legend aside (although I would also be interested to hear opinions on that), are there any beers that are deliberately brewed with meat or meat products? What does adding meat to the brewing process achieve?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>697</PostId>
+			<AcceptedAnswerId>707</AcceptedAnswerId>
+			<Title>
+			"Are there Hefeweizen beers with coriander?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+				<tag>hefeweizen</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>740</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-29T14:57:04.520</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2014-04-09T05:36:17.313</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>412</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;White beer ("&lt;a href="http://en.wikipedia.org/wiki/Wheat_beer#Witbier" rel="nofollow noreferrer"&gt;witbier&lt;/a&gt;" in Dutch) is a typical Dutch/Belgian thing, from research I found that it's wheat bear with flavours. This question is about the coriander flavour used in those beers.&lt;/p&gt;
+
+					&lt;p&gt;The question is about the wheat bear siblings of white beer: Hefeweizen. Are there any hefeweizen that also are coriander-flavoured? To add a more subjective bonus question: are any of those commercially available?&lt;/p&gt;
+
+					&lt;p&gt;I've tried &lt;a href="https://www.google.nl/search?q=hefeweizen%20coriander" rel="nofollow noreferrer"&gt;Googling&lt;/a&gt;, this mainly seems to lead to brewing recipes or extremely localized experiments. I've &lt;em&gt;assumed&lt;/em&gt; (perhaps incorrectly) most if not all German candidates would be bound by the &lt;a href="https://alcohol.stackexchange.com/a/431/412"&gt;Reinheitsgebot&lt;/a&gt; and as such will not contain coriander. Finally, I've checked some Dutch beers (e.g. "Grolsch Weizen") marketed as "weizen" and the listed ingredients, but so far no dice.&lt;/p&gt;
+
+					&lt;p&gt;To reiterate the question: &lt;strong&gt;are there any hefeweizen beers with coriander commercially available?&lt;/strong&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>742</PostId>
+			<Title>
+			"Are adjunct ingredients always GMO by default?"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>125</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-22T02:10:26.793</CreationDate>
+				<LastActivityDate>2014-05-08T12:11:31.057</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>800</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Does the presence of adjunct ingredients like rice or corn imply that these ingredients are always of the genetically modified variety?&lt;/p&gt;
+
+					&lt;p&gt;I mean, if you are going to add adjuncts to a beer, the main reason is usually to reduce production costs right? In that case, GMO rice and corn adjuncts are the cheapest, so it seems to me like any beers using adjuncts will be using GMO adjuncts.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>975</PostId>
+			<AcceptedAnswerId>990</AcceptedAnswerId>
+			<Title>
+			"Is there any meaningful difference in acidity level between beer styles?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>2408</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-09T10:27:48.793</CreationDate>
+				<LastActivityDate>2014-08-17T16:04:54.690</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1195</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would guess that a Porter pH is higher than for an IPA, because of alpha acids or other acids from the hops. I also heard that it can heavily  depend on the acidity of the water used. &lt;/p&gt;
+
+					&lt;p&gt;But anyway, are those pH differences really significant in the final product ? For instance, if I have an ulcer, would it be worse to drink some type of beer rather than an other ?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>3226</PostId>
+			<Title>
+			"Can a beer like Tuborg or Budweiser be made at home?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+				<tag>production</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>548</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-27T14:06:57.713</CreationDate>
+				<LastEditDate>2015-01-27T21:05:59.097</LastEditDate>
+				<LastActivityDate>2015-02-05T19:01:01.143</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2647</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Was just curious about how the manufacturing of beer is done.
+					Can it be made at home also?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>3309</PostId>
+			<Title>
+			"How can I add post-flavoring to beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>151</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-23T20:48:19.587</CreationDate>
+				<LastEditDate>2015-03-24T03:26:01.147</LastEditDate>
+				<LastActivityDate>2015-03-31T16:44:00.817</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3920</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm having a party and I want to add flavors to my already-brewed beer. How can I do that and have it mix?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>3491</PostId>
+			<AcceptedAnswerId>3495</AcceptedAnswerId>
+			<Title>
+			"Sour Beer (Gose, Wild Ales, Lambics)"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+				<tag>recommendations</tag>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>606</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-22T02:24:23.947</CreationDate>
+				<LastEditDate>2016-07-28T14:35:52.267</LastEditDate>
+				<LastActivityDate>2016-07-28T14:35:52.267</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4219</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What exactly is involved in the brewing process that turns a beer 'sour'?  Is it the addition of certain lactic acids or yeasts? I've been told before that, technically, a sour beer is a the result of the brewing process gone wrong (obviously this is controlled when that outcome is intentional). How true is this? &lt;/p&gt;
+
+					&lt;p&gt;The opinion part of my question: what are some excellent sour beers that you guys recommend? I have a few favorites, but am always looking for great suggestions. &lt;/p&gt;
+
+					&lt;p&gt;Some of my current favorites are Westbrook Gose (salty and sour), 4 Hands Prussia Berliner (passionfruit sour), New Belgian Hop Tart, Omer Vander's Cuvees Des Jacobins Rouge, and Brouwerij's Petrus Aged Ale &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>4600</PostId>
+			<AcceptedAnswerId>4605</AcceptedAnswerId>
+			<Title>
+			"What ingredients leave beer with sugary taste?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>325</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-23T07:54:58.770</CreationDate>
+				<LastEditDate>2017-03-27T02:14:46.693</LastEditDate>
+				<LastActivityDate>2017-04-21T18:05:19.927</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4514</OwnerUserId>
+				<LastEditorUserId>4514</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know that exists those beers that uses fruits and then leaving beer with sugary taste, for example Belgian Hoergaaden with orange zest. But there are those without any fruit part and it's yet sweet.&lt;/p&gt;
+
+					&lt;p&gt;I don't like too much these kind of beer but I don't know what look for in orther to avoid them.&lt;/p&gt;
+
+					&lt;p&gt;What kind of ingredients should I look for? Or maybe, should I look for ingredients that leave beer less sweet? &lt;/p&gt;
+
+					&lt;p&gt;P.S. My favorite kind of beer are American Lager like Heineken, IPA and Stout from Ale family.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>4749</PostId>
+			<Title>
+			"What are the ingredients in beer that cause people to feel ill almost immediately?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>1537</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-04T02:20:12.280</CreationDate>
+				<LastEditDate>2016-01-04T12:55:26.573</LastEditDate>
+				<LastActivityDate>2018-08-27T23:19:24.250</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4910</OwnerUserId>
+				<LastEditorUserId>1236</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer isn't for everyone. That's fair enough. However there are some people that get physically ill from it almost immediately.&lt;/p&gt;
+
+					&lt;p&gt;Are there specific ingredients in beer that can cause this? Or is it dependent on the consumer?&lt;/p&gt;
+
+					&lt;p&gt;If the ingredients cause this, is there a way to nullify/reduce the effects?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>4811</PostId>
+			<AcceptedAnswerId>4821</AcceptedAnswerId>
+			<Title>
+			"What are some of the most common ingredients used in gluten-free beers?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>76</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-08T05:12:49.880</CreationDate>
+				<LastEditDate>2016-07-28T14:36:35.377</LastEditDate>
+				<LastActivityDate>2018-06-29T22:41:03.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What are the most popular ingredient used in the making of gluten-free beers? Do they have a good shelve life or not? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>5181</PostId>
+			<Title>
+			"I have a crate of out of date beer/bitter by 6 months , tastes watery , can I ressurect it in some way?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>103</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-30T22:15:29.207</CreationDate>
+				<LastActivityDate>2016-07-26T15:44:16.177</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5616</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I found a case of Scottish beer / bitter that I had forgotten about , it is out of date by 7 months , which normally would not stop me but it tastes watery , my question is can I re ferment it or add something to resurrect it ? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>5202</PostId>
+			<AcceptedAnswerId>5204</AcceptedAnswerId>
+			<Title>
+			"Are there drinks/cocktails involving vinegar?"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>ingredients</tag>
+				<tag>cocktails</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>209</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-07-14T14:47:49.063</CreationDate>
+				<LastActivityDate>2016-07-17T08:07:59.657</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5460</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Being a huge fan of vinegar, I recently wondered if there are any actual known cocktail recipes/drinks that involve vinegar as an ingredient, preferably as a significant ingredient contributing perceivably to the drink's taste.&lt;/p&gt;
+
+					&lt;p&gt;While there are drinks with a more spicy/hearty flavour, like &lt;em&gt;Bloody Mary&lt;/em&gt;, I never heard of a cocktail involving vinegar and wonder if it would even work together with alcohol from a flavour-perspective. I could imagine the best targets to be spirits with a rather low-profile taste of their own, like vodka.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>6232</PostId>
+			<AcceptedAnswerId>6233</AcceptedAnswerId>
+			<Title>
+			"Beer label alcohol"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>91</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-12T23:12:32.503</CreationDate>
+				<LastEditDate>2016-09-04T07:27:31.720</LastEditDate>
+				<LastActivityDate>2016-09-04T07:27:31.720</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4903</OwnerUserId>
+				<LastEditorUserId>4045</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I wondered about the alcohol in a beer and it was not on the can. Neither were ingredients or calories.  Why does beer not have to list that stuff but food does?  This is Texas.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>6380</PostId>
+			<Title>
+			"Mint sugar wine"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+				<tag>wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>76</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-09T23:54:21.367</CreationDate>
+				<LastActivityDate>2016-11-11T08:48:31.410</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6092</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm planning on making sugar wine. I want to improve the flavor by adding mint but I don't know where I can get three cups of fresh mint. If I use mint extract, or mint oil will it do the same thing? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType="question">
+			<PostId>6402</PostId>
+			<AcceptedAnswerId>6410</AcceptedAnswerId>
+			<Title>
+			"How can absinthe be colored into a different colour other than green?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+				<tag>colour</tag>
+				<tag>absinthe</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>1935</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-27T12:05:41.410</CreationDate>
+				<LastEditDate>2017-04-12T12:22:37.897</LastEditDate>
+				<LastActivityDate>2017-04-12T12:22:37.897</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6142</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.&lt;/p&gt;
+
+					&lt;p&gt;There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a &lt;em&gt;primary&lt;/em&gt; color which is supposed to be impossible to create by mixing other colors.&lt;/p&gt;
+
+					&lt;p&gt;I have two theories: &lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;Absinthe is always green due to the presence of &lt;em&gt;Artemisia absinthium&lt;/em&gt;'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. &lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Absinthe is transparent until you add the &lt;em&gt;Artemisia absinthium&lt;/em&gt;'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;I'm attaching an image for you to know what I'm talking about:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg" rel="nofollow noreferrer"&gt;These are the ones I saw&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/XN8TE.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/XN8TE.jpg" alt="Colored Absinthe"&gt;&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType="question">
+			<PostId>6418</PostId>
+			<Title>
+			"What fruit spirit is in St. Germain?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+				<tag>spirits</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>656</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-12-08T04:07:34.553</CreationDate>
+				<LastActivityDate>2018-05-29T14:00:09.733</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6180</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I love St. Germain, and it's become a staple at my house... but it is so damn expensive. I'd like to make a homemade version using elderflower cordial for a fraction of the price.&lt;/p&gt;
+
+					&lt;p&gt;St. Germain lists their ingredients as: fruit Spirit, elderflower, sugar cane.
+					What type of fruit spirit is it? Pear / lychee?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType="question">
+			<PostId>6480</PostId>
+			<AcceptedAnswerId>6483</AcceptedAnswerId>
+			<Title>
+			"Who made or makes spirits from poisonous Heracleum?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>ingredients</tag>
+				<tag>local</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>122</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-10T00:46:33.273</CreationDate>
+				<LastEditDate>2017-04-13T12:47:53.987</LastEditDate>
+				<LastActivityDate>2017-03-17T20:14:48.957</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6280</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Heracleum_(plant)" rel="nofollow noreferrer"&gt;Heracleum&lt;/a&gt; or cow parsnips are high-latitude plants that can produce severe inflammation in humans. They seem like the last thing someone would want to ingest. However:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://kamchatka.org.ru/eng/aboutK/flora.html" rel="nofollow noreferrer"&gt;Flora on Kamchatka: flowers and grasses&lt;/a&gt;:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Puchka (Heracleum dulce) is an insidious plant. Its juice has a sweet taste, but leaves blisters and sores on the skin that ache for months! ... Cossacks distilled wine that produced a strange effect: after two or three glasses a person saw wonderful dreams, but in the morning felt so miserable as if he had committed a crime. &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;a href="https://books.google.com/books?id=10IMFSavIMsC&amp;amp;pg=PA1325&amp;amp;lpg=PA1325" rel="nofollow noreferrer"&gt;Mansfeld's Encyclopedia of Agricultural and Horticultural Crops&lt;/a&gt;:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;A psychoactive drink is made from the plant in Kamchatka.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;While the first quote is about something like an accident, the second one seems to describe an ongoing practice. Which culture(s) used this hogweed preparation, and to what ends? Does it still exist today? Is the poisonous part of the plant avoided, and is the preparation truly psychoactive?&lt;/p&gt;
+
+					&lt;p&gt;(&lt;a href="https://history.stackexchange.com/questions/34824/who-made-wine-from-poisonous-heracleum/36046"&gt;Asked previously&lt;/a&gt; on History.SE, -- somewhat resolved there)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType="question">
+			<PostId>6537</PostId>
+			<Title>
+			"What to and what not to mix with alcohol"
+			</Title>
+			<Tags>
+				<tag>recommendations</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>398</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-15T14:57:32.787</CreationDate>
+				<LastActivityDate>2017-02-28T12:02:27.690</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6403</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are there any restrictions to mix alcohol with other things? A friend of mine mixed whisky with milk and then he turned sick. he got rashes all over his face. But when i searched a little bit it turned out it's fine to mix whisky and milk. I want to know are there any limitations for mixing or can we just add anything we want to alcohols(mostly any) for better taste.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType="question">
+			<PostId>6582</PostId>
+			<AcceptedAnswerId>6584</AcceptedAnswerId>
+			<Title>
+			"How safe are eggs in cocktails like fizzes?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+				<tag>cocktails</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>138</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-23T20:26:30.157</CreationDate>
+				<LastActivityDate>2017-03-12T06:52:15.097</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6472</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Many cocktails such as fizzes call for an egg white (or an egg yolk in some cases).&lt;/p&gt;
+
+					&lt;p&gt;Given that I'm not sure I would eat a raw egg, how safe is it to put one in my drink? Are there any alternatives I can use instead of egg white?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType="question">
+			<PostId>6738</PostId>
+			<AcceptedAnswerId>6740</AcceptedAnswerId>
+			<Title>
+			"Rose colored wine cocktail"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>recommendations</tag>
+				<tag>ingredients</tag>
+				<tag>cocktails</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>84</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-04T12:14:28.640</CreationDate>
+				<LastEditDate>2017-04-04T13:24:37.760</LastEditDate>
+				<LastActivityDate>2017-04-04T22:39:28.747</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have no experience in making &lt;a href="https://en.wikipedia.org/wiki/Wine_cocktail" rel="nofollow noreferrer"&gt;wine cocktails&lt;/a&gt; and I would like a recommendation of a "rose" colored wine cocktail.&lt;/p&gt;
+
+					&lt;p&gt;The wine cocktail I am looking for should be as close as possible to the color &lt;a href="https://en.wikipedia.org/wiki/Rose_(color)" rel="nofollow noreferrer"&gt;rose&lt;/a&gt; as possible. The color &lt;a href="https://en.wikipedia.org/wiki/Pink" rel="nofollow noreferrer"&gt;pink&lt;/a&gt; is generally much lighter in color than that of rose.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Rose_(color)" rel="nofollow noreferrer"&gt;Rose&lt;/a&gt; is the color halfway between red and magenta.&lt;/p&gt;
+  
+					  &lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Pink" rel="nofollow noreferrer"&gt;Pink&lt;/a&gt; is a pale red color which takes its name from the flower of the same name.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;If possible could answers include why one is making their recommendations, a recipe for usage and an image of the suggested wine cocktail or wine cocktails (if possible). &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType="question">
+			<PostId>6741</PostId>
+			<Title>
+			"Is it possible to make a mock Chartreuse liqueur?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+				<tag>liqueur</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>697</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-05T12:27:42.310</CreationDate>
+				<LastActivityDate>2018-05-08T19:48:15.700</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The &lt;a href="https://en.wikipedia.org/wiki/Grande_Chartreuse" rel="noreferrer"&gt;Grande Chartreuse&lt;/a&gt;, just north of the city of Grenoble, France has been making Chartreuse since 1737 and is made with &lt;strong&gt;130 herbs&lt;/strong&gt;, plants and flowers. Talk about drinking to your health, some say this is an excellent medicinal liqueur. Here in Canada, the Chartreuse liqueur is very expensive.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The two types of Chartreuse are:&lt;/p&gt;
+  
+					  &lt;p&gt;Green Chartreuse (110 proof or 55%) is a naturally green liqueur made from 130 herbs and plants macerated in alcohol and steeped for about 8 hours. A last maceration of plants gives its colour to the liqueur.&lt;/p&gt;
+  
+					  &lt;p&gt;Yellow Chartreuse (80 proof or 40%), which has a milder and sweeter flavour and aroma.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;The actual recipe for the Green Chartreuse is known to only two Charthusian monks and is aged for five years, so no wonder it is so expensive.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The two monks charged with the duty oversee the entire production of Chartreuse. It begins in the monastery's herb room where the precise selection of herbs is bagged. These are then taken to the distillery and macerated with a neutral alcohol spirit which is then distilled. - &lt;a href="https://www.thespruce.com/about-chartreuse-liqueur-760267" rel="noreferrer"&gt;What is Chartreuse Liqueur?&lt;/a&gt;&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Does anyone know of a mock recipe for the Chartreuse Liqueur of 130 herbs?&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/35aFl.jpg" rel="noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/35aFl.jpg" alt="Chartreuse Green Liqueur (750ml)"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://www.drinkupny.com/Chartreuse-Green-Liqueur-p/s0081.htm" rel="noreferrer"&gt;Chartreuse Green Liqueur (750ml)&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType="question">
+			<PostId>7043</PostId>
+			<AcceptedAnswerId>7045</AcceptedAnswerId>
+			<Title>
+			"Made from flowers?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+				<tag>fermentation</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>143</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-10-19T05:38:50.763</CreationDate>
+				<LastEditDate>2017-10-20T04:27:21.900</LastEditDate>
+				<LastActivityDate>2017-10-24T01:20:28.657</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7198</OwnerUserId>
+				<LastEditorUserId>7198</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What alcohol is made from the solely from the nectar of flowers (with no hops in it) like honey suckle? Where could I buy that? Pull a honey suckle flower inside there is about two drops of nectar collect enough to ferment.                                   &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType="question">
+			<PostId>7076</PostId>
+			<Title>
+			"Has anyone tried infusing Torani sugar free syrup?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>20</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-15T17:31:02.113</CreationDate>
+				<LastActivityDate>2017-11-15T17:31:02.113</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7273</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'd like to make a cocktail recipe I found which uses a Ginger Cardamom Simple syrup, but I can't take all that sugar. I typically use Torani's Sugar free syrup for drinks (which uses Splenda and some gums for viscosity), and I was wondering if anyone has tried infusing flavors into that syrup. If so did you heat it or just let it sit for X days?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType="question">
+			<PostId>7265</PostId>
+			<Title>
+			"Are there any spirits that never should be combined in a cocktail or drink?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+				<tag>spirits</tag>
+				<tag>cocktails</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>127</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-04T20:48:19.647</CreationDate>
+				<LastActivityDate>2018-05-14T11:28:09.120</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7702</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Many drinks and cocktails are a mixture of different spirits with or without additional tastes introduced by juices, concentrates and/or other ingredients that create their special taste. &lt;/p&gt;
+
+					&lt;p&gt;My personal experience is that less components a cocktail has more specific the character of the drink seems to be. However, are there spirits (don't mention other ingredients) that never should be combined?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType="question">
+			<PostId>7360</PostId>
+			<Title>
+			"Can you make "herbal tea" out of beer brewing ingredients?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>49</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-28T20:35:11.550</CreationDate>
+				<LastActivityDate>2018-06-30T01:55:45.400</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6788</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I like teas and I like how some people describe the different beer flavors, and I think it's very interesting, but unfortunately I'm not into alcohol or the beer brewing so far. I've heard the hobbyist brewers describe the grains as something that is basically readily edible and a great material to make tea out of by just steeping some in hot water, but I was never able to get enough information about that from the streams or texts, as it's not their main focus. So I decided to ask here.&lt;/p&gt;
+
+					&lt;p&gt;There are exotic teas which are not teas at all, but collections of herbs or just a single herb or grain. Buckwheat tea is nice and I like the product called "barley tea". I don't know for sure whether it's actually what it says on the label, or if there are parts of grains which are usable as tea ingredients and parts which aren't, so I'd like to know everything about turning some tasty grains into non-alcoholic tea by just steeping them in hot water for some minutes.&lt;/p&gt;
+
+					&lt;p&gt;For the sake of clarity, my questions are:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Are there any beer brewing ingredients usable in making an "herbal tea"?&lt;/li&gt;
+					&lt;li&gt;Do the flavors which are normally expected to be found in beer after it's ready for pouring into glasses after a long time of sitting in kegs, translate into the tea which steeps for just minutes?&lt;/li&gt;
+					&lt;li&gt;If there's a gradation, which ingredients are the most appropriate for turning into tea?&lt;/li&gt;
+					&lt;li&gt;And lastly, if you have any recommendations, please throw them in at the end of your answer.&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType="question">
+			<PostId>7365</PostId>
+			<Title>
+			"Why do some wines taste salty?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>wine</tag>
+				<tag>flavor</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>42</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-07-02T11:13:58.800</CreationDate>
+				<LastActivityDate>2018-07-02T11:52:23.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7898</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently moved to a new city in Austria and have noticed that many (but not all, so it’s definitely not a problem with my taste perception) of the local red wines taste salty. I’ve tried red wines both on the cheaper and expensive side and they all give off this salty taste. Almost all that I’m referring to are Blauer Zweigelt variety. 
+					Is this salty taste coming from the grape variety, or could it be something else like my glass or detergent (I make sure that I wash the glass very thoroughly)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType="question">
+			<PostId>7368</PostId>
+			<AcceptedAnswerId>7369</AcceptedAnswerId>
+			<Title>
+			"Can wine be made from all edible fruits?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>history</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>161</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-07-02T19:11:50.173</CreationDate>
+				<LastEditDate>2018-07-31T10:27:55.850</LastEditDate>
+				<LastActivityDate>2018-07-31T10:27:55.850</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7898</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am an amateur in the topic, so I was wondering, can all edible fruits be turned into a fruit wine? Why have grapes historically become the main fruit for wine making over other fruits? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType="question">
+			<PostId>7397</PostId>
+			<AcceptedAnswerId>7398</AcceptedAnswerId>
+			<Title>
+			"How to make alchohol in jail?"
+			</Title>
+			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>ingredients</tag>
+				<tag>home-brew</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>127</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-07-23T21:41:30.997</CreationDate>
+				<LastEditDate>2018-07-25T20:01:04.663</LastEditDate>
+				<LastActivityDate>2018-07-25T20:01:04.663</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7198</OwnerUserId>
+				<LastEditorUserId>7198</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have heard about being able to make alcohol in jail. How would that be done?
+					I imagine the the ingredient list would be limited like thing that would only be found in a cell. Anybody have first hand experience? As far as utensils you have your hands, socks, toilet other basic supplies found in jail. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType="question">
+			<PostId>7415</PostId>
+			<AcceptedAnswerId>7417</AcceptedAnswerId>
+			<Title>
+			"What is the difference between inverted simple syrup and simple syrup (if any)"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+				<tag>cocktails</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>51</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-02T22:05:41.010</CreationDate>
+				<LastEditDate>2018-08-02T23:06:19.163</LastEditDate>
+				<LastActivityDate>2018-08-03T13:41:59.093</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7977</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have heard the term &lt;em&gt;inverse&lt;/em&gt; or &lt;em&gt;inverted simple syrup&lt;/em&gt; used in cocktail recipes, but I haven't been able to figure out how this is different from "regular" simple syrup.  For example, the &lt;a href="https://en.wikipedia.org/wiki/Inverted_sugar_syrup" rel="nofollow noreferrer"&gt;wikipedia page&lt;/a&gt; makes no mention of &lt;em&gt;uninverted&lt;/em&gt; simple syrup.&lt;/p&gt;
+
+					&lt;p&gt;Are these just longer names for regular simple syrup (sugar melted in water)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType="question">
+			<PostId>7437</PostId>
+			<Title>
+			"What ingredient may I be allergic to?"
+			</Title>
+			<Tags>
+				<tag>ingredients</tag>
+				<tag>health</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>36</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-15T12:55:12.803</CreationDate>
+				<LastActivityDate>2018-08-15T12:55:12.803</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8015</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Mandatory disclaimer: I'm &lt;strong&gt;not&lt;/strong&gt; asking for health related advices, this question is just out of &lt;strong&gt;pure curiosity&lt;/strong&gt;.&lt;/p&gt;
+
+					&lt;p&gt;I drink the occasional beer, wine, or whatever other alcoholic drinks: no issues with that, not getting drunk with just a beer, etc. etc. But...since I have memory, &lt;strong&gt;a single&lt;/strong&gt; red beer can put me under the table.&lt;/p&gt;
+
+					&lt;p&gt;From the &lt;strong&gt;next day&lt;/strong&gt;. (yeah, not the same day)&lt;/p&gt;
+
+					&lt;p&gt;With lot of stomach and intestinal pain and "funny" side effects.&lt;/p&gt;
+
+					&lt;p&gt;And a few days needed to recover.&lt;/p&gt;
+
+					&lt;p&gt;Now, it's not a big deal: on my list of things to avoid "Red beer" has been put in the top 5, and problem solved. It doesn't happen with 100% of the reds, but at 95% occurrence I just play safe...plus I prefer dark beers anyway :-D&lt;/p&gt;
+
+					&lt;p&gt;Only, exactly one week ago I got the same amazing effects, but worst, and I'm still halfway from full recovery...from a bock. Ok, "bock" is a pretty wide definition, but while I'm not an expert on beers I've always been pretty certain that if I order a bock I never feel bad the next day.&lt;/p&gt;
+
+					&lt;p&gt;So now I'm extremely curious to understand what it may be to knock me down this way, but as I said I'm no expert and that's the reason I'm asking here.&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Question&lt;/strong&gt;: what 95% of red beers and a Scheyern Kloster Doppelbock Dunkel (Poculator) have in common, in terms of ingredients and/or preparation?&lt;/p&gt;
+
+					&lt;p&gt;&lt;sub&gt;(bonus: I get the same effect with some Scotch)&lt;/sub&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

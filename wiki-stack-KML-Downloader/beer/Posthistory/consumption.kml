@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>12892</PostId>
+			<ParentPostId>6895</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-09T20:18:42.613</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					From Wikipedia:
+
+					&gt; Pálinka is a traditional fruit brandy in the Carpathian Basin, known under several names, and invented in the Middle Ages. Protected as a geographical indication of the European Union, only fruit spirits mashed, distilled, matured and bottled in Hungary and similar apricot spirits from four provinces of Austria can be called "pálinka". 
+
+					The question is, how is this spirit most commonly consumed in this region? Is it usually drunk neat/on rocks or do Hungarians usually mix it into cocktails?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>12893</PostId>
+			<ParentPostId>6895</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-09T20:18:42.613</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do Hungarians most commonly consume Palinka?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>12894</PostId>
+			<ParentPostId>6895</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-09T20:18:42.613</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					consumption, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>12897</PostId>
+			<ParentPostId>6895</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-11T09:48:51.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					liquor, consumption, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>13082</PostId>
+			<ParentPostId>6895</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-24T19:42:45.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/889571574290014209
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>13400</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-08T14:44:46.483</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7251</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Has alcoholism increased since prohibition days? I 've seen the sales outlets for alcohol availability rise since the days of the state liquor stores.
+					I checked niaaa.nih.gov &lt;https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/alcohol-facts-and-statistics&gt; and a news article at NBC &lt;https://www.nbcnews.com/health/health-news/americans-are-drinking-more-lot-more-n347126&gt; without many specific results.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>13401</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-08T14:44:46.483</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7251</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Has alcholism increased?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>13402</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-08T14:44:46.483</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7251</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, consumption, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Body" >
+			<PostId>13406</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-10T11:19:17.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				added 45 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Has alcoholism increased since prohibition days? I 've seen the sales outlets for alcohol availability rise since the days of the state liquor stores.
+					I checked the [National Institute on Alcohol Abuse and Alcoholism](https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/alcohol-facts-and-statistics) and a news article from [NBC](https://www.nbcnews.com/health/health-news/americans-are-drinking-more-lot-more-n347126) without many specific results.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Body" >
+			<PostId>13412</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-12T00:38:07.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7251</UserId>
+			</Contributors>
+			<EditDetails>
+				Moved corrected grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Has alcoholism increased since prohibition days? I 've seen the sales outlets for alcohol availability rise since the days of the state liquor stores.
+					I checked the [National Institute on Alcohol Abuse and Alcoholism](https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/alcohol-facts-and-statistics) and a news article from [NBC](https://www.nbcnews.com/health/health-news/americans-are-drinking-more-lot-more-n347126) without any specific results. Moved to [Health SE](https://health.stackexchange.com/)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>13560</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-17T17:50:01.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>13582</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-23T00:47:56.483</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6273</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling, spacing
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Has alcoholism increased since prohibition days? I've seen the sales outlets for alcohol availability rise since the days of the state liquor stores.
+					I checked the [National Institute on Alcohol Abuse and Alcoholism](https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/alcohol-facts-and-statistics) and a news article from [NBC](https://www.nbcnews.com/health/health-news/americans-are-drinking-more-lot-more-n347126) without any specific results. Moved to [Health SE](https://health.stackexchange.com/)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Title" >
+			<PostId>13583</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-23T00:47:56.483</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6273</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling, spacing
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Has alcoholism increased?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Unknown" >
+			<PostId>13584</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-23T00:47:56.483</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6273 approved by 7251 edit id of 319
+			</EditDetails>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>13676</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-22T00:54:42.943</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>13766</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-21T01:23:18.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Post Closed" >
+			<PostId>13767</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-21T14:33:16.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Post Reopened" >
+			<PostId>13768</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-21T14:33:29.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Post Closed" >
+			<PostId>13769</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-21T20:43:43.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

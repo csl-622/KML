@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="9075"  UserId="8031" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-21T10:10:40.810</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9076"  UserId="8031" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-21T10:41:35.817</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9078"  UserId="8031" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-21T10:50:14.907</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9080"  UserId="8031" InstanceType= "badges">
+			<Title>
+			"Suffrage"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-21T11:50:19.213</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="9081"  UserId="8031" InstanceType= "badges">
+			<Title>
+			"Vox Populi"
+			</Title>
+			<TimeStamp>
+				<Date>2018-08-21T11:55:34.273</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

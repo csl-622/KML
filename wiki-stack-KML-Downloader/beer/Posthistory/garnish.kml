@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>364</PostId>
+			<ParentPostId>141</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T02:29:44.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Corona, and some other beers, tend to go well with a slice of lemon inside. Is there something particular about the style of beer, or is this a marketing thing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>365</PostId>
+			<ParentPostId>141</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T02:29:44.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there something special about Corona that makes it suitable for adding a lemon slice?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>366</PostId>
+			<ParentPostId>141</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T02:29:44.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					garnish, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Title" >
+			<PostId>371</PostId>
+			<ParentPostId>141</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T02:52:57.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<EditDetails>
+				It's not lemon. It's lime that is traditional.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there something special about Corona that makes it suitable for adding a slice of lime?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>3572</PostId>
+			<ParentPostId>960</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-31T14:40:48.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1120</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a simple word for ordering a beer sans garnish?  Say for instance I want a Hoegaarden...  It's a great beer in it's own right, and I don't want it to come decorated with a slice of orange that I have to take responsibility for disposing of.  How can I order the beer without it, quickly and easily?  I've tried "no decoration," but that sounds pretentious.  For a scotch, I would say "neat."  Is there a way to do that for beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>3573</PostId>
+			<ParentPostId>960</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-31T14:40:48.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1120</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to order a beer without garnish, simply?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>3574</PostId>
+			<ParentPostId>960</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-31T14:40:48.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1120</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					garnish, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>3606</PostId>
+			<ParentPostId>960</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-09T07:22:16.550</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/498006331157401600
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>14123</PostId>
+			<ParentPostId>141</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-25T07:54:29.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/999921633186856960
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

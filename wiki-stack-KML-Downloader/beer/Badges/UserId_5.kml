@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="39"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T20:52:16.970</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="79"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:07:18.227</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="104"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:22:39.813</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="229"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T23:24:21.107</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="410"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T20:11:56.397</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="427"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T22:13:07.980</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="431"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Quorum"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T22:52:14.330</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="465"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-23T08:28:43.383</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="471"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-23T10:09:32.430</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="890"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Nice Question"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-04T16:54:22.713</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="920"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-04T22:31:58.440</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1001"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Beta"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-07T02:53:26.243</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1130"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Commentator"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-17T22:30:40.357</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1967"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-09-24T20:24:27.537</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2512"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2014-12-24T07:50:25.953</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3639"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-21T20:34:47.903</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3994"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Notable Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-04-09T00:35:43.570</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4466"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Famous Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-07-31T16:12:55.360</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5253"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-01-21T20:58:01.303</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6890"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-01T16:04:06.747</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8244"  UserId="5" InstanceType= "badges">
+			<Title>
+			"Good Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2017-12-11T19:00:13.933</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

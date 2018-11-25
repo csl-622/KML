@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>40</PostId>
+			<AcceptedAnswerId>41</AcceptedAnswerId>
+			<Title>
+			"Why is it called "porter"?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>terminology</tag>
+				<tag>porter</tag>
+				<tag>varieties</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>420</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:05:17.293</CreationDate>
+				<LastEditDate>2014-02-05T15:34:48.397</LastEditDate>
+				<LastActivityDate>2014-02-05T15:34:48.397</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>26</OwnerUserId>
+				<LastEditorUserId>407</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Stouts are stout, Pale Ales use pale malt, but where did the name porter come from?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>315</PostId>
+			<AcceptedAnswerId>321</AcceptedAnswerId>
+			<Title>
+			"Were the Sam Adams seasonal beers actually developed to accommodate seasonal availability of ingredients or are they just a marketing construct?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>ingredients</tag>
+				<tag>varieties</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>191</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-25T03:26:55.270</CreationDate>
+				<LastActivityDate>2014-01-25T07:41:32.317</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I enjoy the Sam Adams seasonal varieties, as they usually put people in the holiday spirit(s), etc., and they evoke the feeling of "only for a limited time" like a Shamrock shake at McDonalds.  &lt;/p&gt;
+
+					&lt;p&gt;In that vein, were the beers originally designated "seasonal" due to the availability of certain ingredients during different times of the year (Harvest Pumpkin Ale springs to mind) or is this notion of a seasonal beer chiefly a marketing construct?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>945</PostId>
+			<Title>
+			"Apps for recording variety of beers consumed"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>varieties</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>1343</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-22T15:13:54.770</CreationDate>
+				<LastEditDate>2014-07-23T03:04:23.643</LastEditDate>
+				<LastActivityDate>2014-07-24T13:57:18.693</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1126</OwnerUserId>
+				<LastEditorUserId>69</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm looking for apps, as a beer aficionado, to record the different beers that I try. Is there a &lt;a href="http://www.vivino.com/app/" rel="nofollow"&gt;vivino&lt;/a&gt; for beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>4562</PostId>
+			<Title>
+			"What beer is ok to drink not-cold or room temperature (for camping)"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>varieties</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>3915</ViewCount>
+				<AnswerCount>7</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-03T17:20:41.570</CreationDate>
+				<LastActivityDate>2017-12-18T19:20:39.977</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4488</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;As in title, I'm going camping with some buddies soon and we're planning on bringing far more beer than we have space for in a cooler. What kinds of beer are palatable to drink (or good even) when at room temperature or even slightly warm?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

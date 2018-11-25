@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>12017</PostId>
+			<ParentPostId>6615</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T05:44:53.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					With warmer weather upon us it is sometimes nice to just sit and enjoy a glass or two of fizz.  However, what to choose.  There are rows upon rows of fizzy wines and Champagnes in the shops.  It seems that there can be little difference between Champagne and Cava to the untrained palate. Is there a difference in production techniques?  Can the untrained or those not used to drinking such things taste the difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>12018</PostId>
+			<ParentPostId>6615</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T05:44:53.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between Cava and Champagne
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>12019</PostId>
+			<ParentPostId>6615</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T05:44:53.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, differences, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Title" >
+			<PostId>12020</PostId>
+			<ParentPostId>6615</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T06:08:38.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added a ? in the title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What's the difference between Cava and Champagne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>12048</PostId>
+			<ParentPostId>6615</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T07:36:02.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/837204836269555712
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>13103</PostId>
+			<ParentPostId>6972</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-03T20:58:03.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6989</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I don't mean brands, we could be here all day figuring out that list... I literally mean how many types of gin are there? I know there's dry (London) gin, and sloe gin, but are there any more? Why's dry gin different to just plain gin? Can a gin be two types at the same time? What makes a gin liqueur? Could someone also explain why they are different - is it due to the distilling process, or is it to do with the ingredients added etc.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>13104</PostId>
+			<ParentPostId>6972</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-03T20:58:03.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6989</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How many types of gin are there?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>13105</PostId>
+			<ParentPostId>6972</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-03T20:58:03.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6989</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					gin, differences, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>14171</PostId>
+			<ParentPostId>6972</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-10T20:34:13.060</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1005911028746637312
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

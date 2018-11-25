@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>2050</PostId>
+			<ParentPostId>930</ParentPostId>
+			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-07-16T14:02:53.150</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Also, from what I've read, I should be more worried if my growler is empty. This makes no sense to me if I'm not being pulled over for a suspected DUI. If I'm sober as a nun, to me the growler is just some glass jug.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>2056</PostId>
+			<ParentPostId>942</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-07-23T03:09:09.027</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I called several distributors in New Jersey and New York yesterday who purportedly carried Okocim, but all they had were the O.K. There is a wholesale distributor of Polish beers in Brooklyn, New York, called [Amtec International](http://yespils.com/index.php?&amp;path=home), who may be willing to refer you to some retailers in Pennsylvania. Good luck in your search.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="2">
+			<PostId>2057</PostId>
+			<ParentPostId>942</ParentPostId>
+			<Contributors>
+				<UserId>1120</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-07-23T04:58:23.273</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've checked around, and O.K. Beer seems to be what most people carry...  That's quite a shame too, because it just doesn't do justice to the brand.  Thanks for checking into it though!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="3">
+			<PostId>2058</PostId>
+			<ParentPostId>946</ParentPostId>
+			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-07-23T18:45:40.807</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Is that Untappd?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>2063</PostId>
+			<ParentPostId>930</ParentPostId>
+			<Contributors>
+				<UserId>1158</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-07-30T23:06:58.487</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					My local pub adds a heat-shrink wrapping around the screw-on top. I'm assuming that passes the test...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>4248</PostId>
+			<ParentPostId>942</ParentPostId>
+			<Contributors>
+				<UserId>6042</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-27T13:22:14.170</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Have you checked beermenus.com? That's where I usually go.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

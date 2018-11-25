@@ -1,0 +1,862 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>126</PostId>
+			<ParentPostId>123</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>19</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T23:06:41.837</CreationDate>
+				<LastEditDate>2014-01-21T23:20:07.593</LastEditDate>
+				<LastActivityDate>2014-01-21T23:20:07.593</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+				<LastEditorUserId>8</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In general, nitrogenation imparts a creamier, smoother texture to a beer. The bubbles are smaller in size than CO2 bubbles, and the reduced solubility results in a thicker beverage, which is both delicious, and results in that visually appealing 'cascade' effect. &lt;/p&gt;
+
+					&lt;p&gt;Also, you can do &lt;a href="http://youtu.be/yNCaV3e9BEg"&gt;this with a Nitro beer. And that's awesome.&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>131</PostId>
+			<ParentPostId>123</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T23:20:00.413</CreationDate>
+				<LastActivityDate>2014-01-21T23:20:00.413</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;CO&lt;sub&gt;2&lt;/sub&gt; is the traditional way of serving beer. The keg is filled with CO&lt;sub&gt;2&lt;/sub&gt; in order to push the beer into the tap. Since all beer contains CO&lt;sub&gt;2&lt;/sub&gt;, pressurizing the keg will maintain the natural carbonization of the beer as it is being served. The amount of CO&lt;sub&gt;2&lt;/sub&gt; that the beer already has needs to be taken into account because nobody likes their beer too foamy or too flat.&lt;/p&gt;
+
+					&lt;p&gt;Nitro dispensing is a newer method. In this case, N&lt;sub&gt;2&lt;/sub&gt; is used under high pressure either instead of or with the CO&lt;sub&gt;2&lt;/sub&gt;. It replaces some of the natural CO&lt;sub&gt;2&lt;/sub&gt; in the beer, which results in a creamy flavor as well as a thick, tight foam on the top. Some beer "purists" regard the process as being unnatural because it really messes with the flavor of the beer. An example of a beer that uses Nitro is Guinness. When you open a can of Guinness, a nitrogen "ball" activates to carbonate the beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>253</PostId>
+			<ParentPostId>233</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T08:00:41.727</CreationDate>
+				<LastActivityDate>2014-01-23T08:00:41.727</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;For a keg system to pour beer without excessive foam, the system must be balanced, and the serving line/faucet free of obstructions. Serving beer at too high a pressure, or through a half-open faucet/tap agitates the beer, causing the foam you saw. &lt;/p&gt;
+
+					&lt;p&gt;The system is balanced by having the pressure inside the keg set to just a touch more (0.5-1psi) than the pressure resistance outside the keg. The pressure resistance outside the keg comes from the beer line and the tap - the longer the beer line, the more resistance. Also any increase in height between the keg and the end of the tap will increase resistance.&lt;/p&gt;
+
+					&lt;p&gt;But even if the system was originally balanced, with the right dispensing pressure or adequate length of beer line, there are still some things working against you:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;if the keg has been sloshed about, some of the carbon dioxide will have come out of the beer and into the headspace, creating more pressure. It takes several days for this to equalize again.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;as the keg warms, the pressure inside the keg increases, since gas has a higher pressure at higher temperature with the same volume.&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;If you have a keg that is overpressured, you have 3 basic options:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;reduce the pressure inside the keg by venting some of the gas. Some kegs have a pressure relief valve that can be pulled to reduce pressure. But do it in small bursts, and try the beer after each until you see that the beer comes out not to quickly.&lt;/li&gt;
+					&lt;li&gt;increase the resistance outside the keg by using a longer beer line and/or placing the keg somewhere low and serving the beer higher. (e.g. keg at ground level and stand up to serve the beer.)&lt;/li&gt;
+					&lt;li&gt;dispense a large amount beer to a large jug - removing beer from the keg will reduce the pressure in the keg, and keeping it in a jug gives time for the head on the beer to settle down. While you're waiting, just pour some more beer from the keg - this will come out slower and have less foam.&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;see&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;a href="http://byo.com/stories/item/164-balancing-your-draft-system-advanced-brewing"&gt;balancing your draft system&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>356</PostId>
+			<ParentPostId>353</ParentPostId>			<Tags>
+				<tag>freshness</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T14:20:12.537</CreationDate>
+				<LastActivityDate>2014-01-27T14:20:12.537</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Avoiding agitating the beer and reducing the temperature are the two key ways to slow down the rate of staling, but really once there's air in the beer it's just a matter of time before it goes bad.&lt;/p&gt;
+
+					&lt;p&gt;Have you considered using a small CO&lt;sub&gt;2&lt;/sub&gt; charger like this - &lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/HkV7w.jpg" alt="corny keg charger"&gt;&lt;/p&gt;
+
+					&lt;p&gt;This uses small CO&lt;sub&gt;2&lt;/sub&gt; cartridges to push the beer. The advantage being that the keg won't stale quickly since very little air is introduced.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>359</PostId>
+			<ParentPostId>353</ParentPostId>			<Tags>
+				<tag>freshness</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T15:48:33.623</CreationDate>
+				<LastActivityDate>2014-01-27T15:48:33.623</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>212</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Because CO&lt;sub&gt;2&lt;/sub&gt; has a significantly higher affinity for water (and therefore beer), than O&lt;sub&gt;2&lt;/sub&gt; or N&lt;sub&gt;2&lt;/sub&gt; (the other major components in air) under normal keg conditions (pressure and temperature), I think it's worth a shot:&lt;/p&gt;
+
+					&lt;p&gt;If you take off the air pump and start charging it with CO&lt;sub&gt;2&lt;/sub&gt;, and then pump a good bit of beer/foam out of it (to rid it of some of the air), you should have a much nicer ratio of dissolved CO&lt;sub&gt;2&lt;/sub&gt; to other gases. That plus keeping it chilled and not shaking it (just like you'd treat a can of beer) should help it last a good deal longer.&lt;/p&gt;
+
+					&lt;p&gt;(This is assuming you've got a "ruined" keg on your hands. Obviously it's preferable to start out with CO&lt;sub&gt;2&lt;/sub&gt;.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>755</PostId>
+			<ParentPostId>744</ParentPostId>			<Tags>
+				<tag>foam</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-29T13:12:49.770</CreationDate>
+				<LastActivityDate>2014-04-29T13:12:49.770</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>798</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You were right to lower the temperature. Beer (or any liquid for that matter) is better at retaining gasses at lower temperatures. Therefore: cold beer = less gas released = less foam produced. &lt;/p&gt;
+
+					&lt;p&gt;Occam's Razor says your keg is probably warm. I'd check if your temperature is correct. Make sure the temperature is being checked from the bottom of the keg, as this is where your beer is coming from. &lt;/p&gt;
+
+					&lt;p&gt;I'm assuming you're pouring properly, (this includes using a clean, unfrozen glass with a smooth interior).&lt;/p&gt;
+
+					&lt;p&gt;Aside from that, I'd make sure all the parts of your system are clean and in good working order.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>764</PostId>
+			<ParentPostId>744</ParentPostId>			<Tags>
+				<tag>foam</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-01T12:40:35.717</CreationDate>
+				<LastActivityDate>2014-05-01T12:40:35.717</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are a few things you can check with you keg.  You said it's a home built system, yes?  So is this a mini-fridge conversion, chest freezer/keezer conversion, or some other kit?&lt;/p&gt;
+
+					&lt;p&gt;Anyway, what length are the beer lines?  Generally you need to balance CO2 pressure against beer lines to avoid consistently foamy pours.  If your system isn't properly balanced the beer will always be foamy, on every pour.  I have 5-6 foot lines in my kegerator and it works pretty well for me, when I was having foamy pour problems everyone suggested replacing them with 10 foot lines just to make damn sure the pour wasn't too violent.  Also making sure the lines are clean.  Any beer stone or other sediment in the lines is going to cause foam.&lt;/p&gt;
+
+					&lt;p&gt;Serving warmer with lower CO2 would also be a better step.  One frustrating thing about these sorts of adjustments is that it takes time for equilibrium to be hit.  So if you lower the CO2 pressure, the headspace is still pressurize.  You'll need to vent the keg via the pressure release valve.  Same deal with raising the temperature.  Once the beer actually comes up to the new temp, there will have been CO2 driven out of solution that you need to vent from the headspace via the pressure release valve.  It's a pain.  Regulators will also often have their own pressure valve, which you should poke and vent slightly when setting the pressure...especially when coming down since excess pressure in the system is going to mess with the reading.  So vent, watch it rise to the actual pressure, then adjust, vent again, and watch.  It takes some time but generally once you set it there's very little change required.&lt;/p&gt;
+
+					&lt;p&gt;It's hard to tell without seeing the speed of your pour.&lt;/p&gt;
+
+					&lt;p&gt;Definitely check the keg temperature itself.  As a homebrewer I reuse kegs, so I have stickers on all my kegs that have a little temperature line.  These liquid crystal thermometers, like &lt;a href="http://rads.stackoverflow.com/amzn/click/B00026Z4PS" rel="nofollow" title="this one"&gt;this one&lt;/a&gt;, are pretty cheap.&lt;/p&gt;
+
+					&lt;p&gt;You can also check the ambient temperature using a regular thermometer and a small glass of water.  You should check temperature at multiple spots inside the kegerator, so you could fill some tumblers or shot glasses with water and place them at the bottom of the kegerator, then maybe on top of the keg, and then maybe a back shelf if you have anything like that.  This lets you know if you have any hot spots which you can reduce by reorganizing tubes or tossing a small computer case fan in there.&lt;/p&gt;
+
+					&lt;p&gt;Also, if you haven't disabled the dome light in the fridge, do so or find some way to make sure the switch stays down beyond a doubt.  When I first built my kegerator I was getting incredibly foamy pours and a huge contributor wound up being the dome light kept coming on and heating up the tops of the kegs and the beer in my lines.&lt;/p&gt;
+
+					&lt;p&gt;Another final check is the temperature inside of the tower.  If you have no way for the cold air to get from the body of the fridge into the tower the lines in the tower will get warm and cause foamy beer, though if the CO2 pressure is set correctly, this would likely only result in the first 1-2 pours being foamy, then it calms down until the lines warm back up.  A lot of people will put fans or run copper tubes up the towers.  I filled mine with insulation.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>1017</PostId>
+			<ParentPostId>353</ParentPostId>			<Tags>
+				<tag>freshness</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-15T08:58:28.957</CreationDate>
+				<LastActivityDate>2014-09-15T08:58:28.957</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1306</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I prefer &lt;a href="http://www.drinkovna.cz/drinkgas/" rel="nofollow"&gt;DrinkGAS&lt;/a&gt;. It's a good solution for a party, I use it in my restaurants.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>2175</PostId>
+			<ParentPostId>2164</ParentPostId>			<Tags>
+				<tag>keg</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-05T15:58:06.133</CreationDate>
+				<LastActivityDate>2015-01-05T15:58:06.133</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know I'm a few days late but the worry I'd have leaving a keg outside in cold weather is the pressure changes.  CO2 absorbs more in colder conditions, but if anything freezes, even partially, CO2 gets driven out of solution.  Normally when you refrigerate kegs indoors they're hooked up to gas, so as pressure in the headspace drops it's less likely the keg will unseal itself.  Also, if the keg did freeze a bit the CO2 being forced into the headspace could conceivably go over the pressure limits of the keg, depending on how carbonated it was to begin with among other things.&lt;/p&gt;
+
+					&lt;p&gt;Think of leaving a bottle or can in the freezer to chill it quickly then forgetting about it.  Odds are instead of a beersicle you got beer and glass sprayed all over the inside of your icebox.  It's anecdotal, I'll admit, but I've seen it happen so I wouldn't risk a keg and either leave it outside uncarbonated or chill it in a temperature controlled fridge.&lt;/p&gt;
+
+					&lt;p&gt;Anyway, this is long since past so my fear mongering is moot.  Let us know how it went for you.  You should be able to leave and accept an answer to your own question and it would be good for the site.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>3283</PostId>
+			<ParentPostId>2164</ParentPostId>			<Tags>
+				<tag>keg</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-08T16:42:34.160</CreationDate>
+				<LastActivityDate>2015-03-08T16:42:34.160</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>529</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If I want to cool something really quick and not using a fire extinguisher, I use the method I saw on Myth Busters: Find a container that will hold the item you want to chill, add ice, water, and salt. Even on a hot day you can chill things real fast using this method.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>3410</PostId>
+			<ParentPostId>123</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-10T19:33:35.797</CreationDate>
+				<LastEditDate>2015-06-11T18:30:01.180</LastEditDate>
+				<LastActivityDate>2015-06-11T18:30:01.180</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3885</OwnerUserId>
+				<LastEditorUserId>3885</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;strong&gt;Just wanted to add to some of the already great answers…&lt;/strong&gt; &lt;/p&gt;
+
+					&lt;p&gt;Although it has been mentioned what the characteristics of Nitro are, and why that might be good for the beer drinking experience, it hasn't really been said why to use it or rather why its used in lieu of CO2. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;History&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;It was mentioned that the historical carbonation process was very different, but nobody has connected the two, so I figure I'll add a little input to hopefully color in a bit more. A lot of the reason for carbonation is to preserve the beer. By replacing the oxygen in the keg the beer will last longer. Now we associate the carbonation with beer but that was not always there traditionally. While it is true that older beer bottled from barrel storage was carbonated during bottling it wasn't mentioned that historically beer was poured from the cask and therefore not carbonated beyond natural carbonation. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Cask&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;In this string cask beer wasn't mentioned but it is literally from the barrel. It is the smoothest and creamiest way to "tap" beer. It's also considered the best by many purists. It however has a huge limitation in modern applications. The barrels don't last as long and thereby need to be smaller, swapped out more often, and potentially wasted if not used quick enough. For this reason most businesses opt for the larger, easier, cheaper carbonated kegs. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Purists&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;As stated before by Jeffrey Lin the Nitro is a newer solution but I have to take exception to his explanation of the unnatural side of Nitro. Really the purists are fine with nitro. They may not be particularly fond of the "in-can" nitro widget, but really the process just replaces a larger CO2 bubble with the smaller finer bubbles of dissolved nitrogen and thereby some dissolved C02 as well. Purists truly would be more likely to enjoy a cask pour but as Nitro, in a lot of ways, is closer to cask both in consistency and the "creaminess" described it goes without saying this would be enjoyed by the purists as well. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Types of Beer for Nitro&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;There are many types of beer where smooth finer bubbles are appropriate. Guinness being only one that comes to mind but really most British milds. Also English ales, pales and creams just to mention a few. The older styles from England were flat compared to American lagers and most modern beers. Another good example is a Boddingtons. Finer bubbles fit the mold with anything that traditionally would be served from the cask. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;As with most new technology it serves a purpose and in this case the purpose is two-fold. Store without oxygen to prevent going bad, and keep with the original intended style of those types of beers. The discussion of flavor change is slightly off because flavor change would only be present if oxygen were allowed to be present in the beer when kegged. Texture change is more accurate and the nitro is an effort to more closely approximate that. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;Hope that is helpful to fill in some details and thanks to Sloloem for helping, hopefully it is more easily digestable/readable? It may not be science but historically speaking it might be philosophy…&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>4586</PostId>
+			<ParentPostId>744</ParentPostId>			<Tags>
+				<tag>foam</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-16T07:50:30.810</CreationDate>
+				<LastActivityDate>2015-09-16T07:50:30.810</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>984</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Another something to look at: your beerline. Check for flaws, sharp bends, particles. Check your taps as well, as an imperfection there might cause the problem.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13" InstanceType="answer">
+			<PostId>4591</PostId>
+			<ParentPostId>4590</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-18T08:08:50.310</CreationDate>
+				<LastActivityDate>2015-09-18T08:08:50.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4394</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are two usual ways to extract beer from a barrel.&lt;/p&gt;
+
+					&lt;p&gt;By gravity, one places a tap a short way up from the base and you allow air into the top.  When you open the tap beer comes out.  Generally you want to drink the beer quickly in this situation as it will go off.  This method is commonly seen in beer exhibitions.&lt;/p&gt;
+
+					&lt;p&gt;The other method is to use an overpressure of gas to push beer out.  The gas can be CO2, Nitrogen or air.  The pressure is usually generated by some form of pump.  For Real Ale the handpump is the device of choice forcing air onto the beer and powered by human.  In some places in Scotland the handpump is replaced by a water powered pump because Scots are engineers.&lt;/p&gt;
+
+					&lt;p&gt;When the real ale resurrection happened in the 70s barmaids were actually warned to swap hands used to pull the pump lest they increase the muscles on one side and became lopsided as it were.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14" InstanceType="answer">
+			<PostId>4592</PostId>
+			<ParentPostId>4590</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-18T13:59:46.247</CreationDate>
+				<LastActivityDate>2015-09-18T13:59:46.247</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've never seen any evidence that Germans use anything but CO2, so if you have a source that'd be cool.  That said, for getting beer out of the cask/keg/barrel you generally have 3 options:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;&lt;p&gt;Pressurized gas.  As mentioned by the other answer this is most commonly CO2 since CO2 is produced by yeast, so if you sealed the container while yeast were still processing sugars and producing CO2, they would pressurize the container.  Some brewers, especially home brewers, will pressurize their kegs through natural carbonation but most just push CO2 from a canister.  BUT there's also "beer gas" which is a mix of Nitrogen and CO2, think Guinness or Boddingtons.  This came into use to emulate the soft carbonation of cask/real ale/kellerbier, which leads to:&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Siphoning.  A hand pump, or beer engine, uses a siphon to "pull" the beer out of the cask and up to the tap.  The physics needs atmospheric pressure to be maintained inside the cask, so it's usually open to the air at the top.  This required a fast turnaround on casks to prevent the beer from spoiling, which is one of the reasons cask/"real" ale fell out favor.  Kegs simply kept longer and were more economical.  I think CAMRA still isn't a fan of them, but some bars use "breathers" which basically add very low pressures of CO2 to replace the volume lost by the beer, but not enough to pressurize the cask.  This just lets the beer last longer in the cask.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Gravity pouring.  This tends to happen most often at festivals or if a bar has a "guest cask".  A spout is installed in the side and beer pours out.  All the caveats about air spoilage from cask ale still exist here.&lt;/p&gt;&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;So if the bartender pulls a handle and leaves it there until the glass is full of beer, that's a pressurized gas system.  If the bartender has to keep pulling the handle to fill the glass and the beer has that cool "cascading" look, it was pulled by siphoning.  If the cask is on the bar and the bartender just opens a spigot...that's a gravity pour.&lt;/p&gt;
+
+					&lt;p&gt;I don't know that there are any other options...maybe an open barrel and ladling the beer out like soup?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15" InstanceType="answer">
+			<PostId>4602</PostId>
+			<ParentPostId>4590</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-23T11:30:12.177</CreationDate>
+				<LastActivityDate>2015-09-23T11:30:12.177</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>984</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There is one new "sneaky" technique, where the beer is in a bag inside the keg. To create pressure, air is pumped into the area between the bag and the keg.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16" InstanceType="answer">
+			<PostId>4615</PostId>
+			<ParentPostId>3463</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-01T11:00:12.310</CreationDate>
+				<LastActivityDate>2015-10-01T11:00:12.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>984</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;the bubbles are most probably just CO2 coming out of suspension. This can be due to temperature diffences between the beer and the beerline, or because of something causing the agitation (dirt in the beerline).&lt;/p&gt;
+
+					&lt;p&gt;If the beer is overcarbonated this will happen quicker. Try to get the beer &amp;amp; beerline at the same temp, or get the beerline even colder.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17" InstanceType="answer">
+			<PostId>4619</PostId>
+			<ParentPostId>4590</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-01T17:17:08.173</CreationDate>
+				<LastActivityDate>2015-10-01T17:17:08.173</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4576</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;All beer has CO2 in it, whether or not its added artificially, even nitro pours. Not sure if you mean a gravity based pull system, or maybe a nitro tap line? Nitro beers use a gas mix of mostly nitrogen to some parts CO2 to give the beer a richer, creamier body and head. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18" InstanceType="answer">
+			<PostId>4622</PostId>
+			<ParentPostId>744</ParentPostId>			<Tags>
+				<tag>foam</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-07T08:09:06.327</CreationDate>
+				<LastActivityDate>2015-10-07T08:09:06.327</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>984</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I found an awesome resource: &lt;a href="http://www.draughtquality.org/" rel="nofollow"&gt;Draft Beer Quality&lt;/a&gt;. They have a very nifty &lt;a href="http://www.draughtquality.org/wp-content/uploads/2012/01/DQM_Full_Final.pdf" rel="nofollow"&gt;pdf Manual&lt;/a&gt; that you can download for free!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19" InstanceType="answer">
+			<PostId>4623</PostId>
+			<ParentPostId>3463</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-07T09:44:56.043</CreationDate>
+				<LastActivityDate>2015-10-07T09:44:56.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>984</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Here is a great site &lt;a href="http://www.draughtquality.org/" rel="nofollow"&gt;http://www.draughtquality.org/&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;Download the &lt;a href="http://www.draughtquality.org/wp-content/uploads/2012/01/DQM_Full_Final.pdf" rel="nofollow"&gt;free manual&lt;/a&gt; and I am sure it will help you.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20" InstanceType="answer">
+			<PostId>4670</PostId>
+			<ParentPostId>744</ParentPostId>			<Tags>
+				<tag>foam</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-11-04T08:58:02.763</CreationDate>
+				<LastActivityDate>2015-11-04T08:58:02.763</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4691</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Lots of good, in-depth answers here. It looks like nobody (edit: looks like Soloem did, actually) mentioned the obvious: close your supply line and bleed excess CO2 from the keg. &lt;/p&gt;
+
+					&lt;p&gt;Sometimes a keg will come to you highly carbonated and you just have to bleed it. Sometimes you have to bleed it a few times (before you begin dispensing for the day). &lt;/p&gt;
+
+					&lt;p&gt;As long as you don't have some physical problem with your setup (long lines, warm temps, leaks or something crazy) you're just facing an over-pressurized keg.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21" InstanceType="answer">
+			<PostId>4723</PostId>
+			<ParentPostId>123</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-12-10T12:50:18.197</CreationDate>
+				<LastActivityDate>2015-12-10T12:50:18.197</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4819</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In general, beers that are served with nitro tend to be smoother than their CO2 counterpart. Personally, I've had Left Handed Milk Stout Nitro and Standard side by side and much preferred the Nitro version.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22" InstanceType="answer">
+			<PostId>6365</PostId>
+			<ParentPostId>6364</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-24T12:20:12.140</CreationDate>
+				<LastEditDate>2017-04-13T13:00:11.050</LastEditDate>
+				<LastActivityDate>2016-10-24T12:20:12.140</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5528</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I don't see CO2 versus nitrogen making a difference in freshness. You are probably thinking that because nitrogen is an inert (ie non-reactive) gas that is used in some packaging to extend the shelf life of some foods like fresh pasta, using it instead of CO2 would extend the life of your beer. However, beer already has significant amounts of CO2 dissolved in it so using nitrogen isn't going to keep it any fresher as a result. &lt;/p&gt;
+
+					&lt;p&gt;Nitrogen is used versus CO2 because some people like the texture it creates as opposed to CO2, however that's a separate topic which has already been covered in &lt;a href="https://alcohol.stackexchange.com/questions/123/why-would-one-choose-to-use-nitro-vs-co2-as-a-beer-gas"&gt;another question&lt;/a&gt;. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23" InstanceType="answer">
+			<PostId>6366</PostId>
+			<ParentPostId>6364</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-24T14:12:24.357</CreationDate>
+				<LastEditDate>2016-10-24T18:45:39.667</LastEditDate>
+				<LastActivityDate>2016-10-24T18:45:39.667</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+				<LastEditorUserId>6042</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am going out on a limb and interpret "stay good" as "stay carbonated/nitrogenated." That being said, carbonation of beer has a &lt;strong&gt;lot&lt;/strong&gt; to do with temperature and pressure. If you are using a kegerator, you need to pay attention to: the temperature of your beer; the distance the beer has to travel to the tap; how well insulated that line is; and how much pressure you have delivering that system. If you are trying to carbonate your home-brew with nitrogen, you will need to rack the beer into the keg and then lower the temperature before force carbonating with Nitrogen. If you're just trying to drink a nitrogenated beer, provided ideal storage conditions (little to no light, cool, undisturbed) there should be a "best by" date on the bottle somewhere.&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://byo.com/bock/item/1492-the-nitrogen-effect" rel="nofollow" title="All block quote information is from byo.com"&gt; Below block-quote-information is from byo.com&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Why Are Nitrogen Beers Are "A Thing."&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Traditionally, cask-conditioned English ales were served with a hand pump, or “beer engine.” The barrels in the cellar of the pub were connected to the tap faucets on the bar upstairs, and the beer was drawn up by pumping air into the barrel. These hand pumps delivered about 25 to 30 pounds per square inch (psi).&lt;/p&gt;
+  
+					  &lt;p&gt;Air is 78 percent nitrogen, so they were pumping beer that had a low level of carbonation with something that was mostly nitrogen.&lt;/p&gt;
+  
+					  &lt;p&gt;The trouble with using air to pump beer is that the remaining 21 percent of air is mostly oxygen. If a keg is going to be consumed quickly, using air is okay. But if the beer is consumed over a period of more than one day, it quickly becomes oxidized. To avoid oxidation but duplicate the effects of traditional cask ale, modern pubs pump their low-carbonation draft ales with a mixture of 75 percent nitrogen and 25 percent carbon dioxide at high pressure, about 28 to 30 psi. Homebrewers can do this too, but using nitrogen is not as easy as CO2.&lt;/p&gt;
+  
+					  &lt;p&gt;It’s important to understand some basics. Nitrogen doesn’t behave like CO2. Nitrogen doesn’t have the affinity for going into
+					  solution like carbon dioxide does. Professional breweries “nitrogenate” their beer by chilling the beer to 32° F and forcing nitrogen into it under extremetly high pressure. Nitrogenation helps brewers re-create the smooth feel and thick head of cask ales. If you tried brewing a batch of homebrew, moving it into a keg, then pressurizing with nitrogen for a number of days, the only result would be a tap delivering very flat, high-pressure homebrew. As a safety note, most homebrew equipment is not designed to handle the pressure needed to force nitrogen into beer.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;strong&gt;Information for Nitrogen-Homebrews&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;First, make sure the beer recipes you want to dispense will be good at 55° F with low carbonation. The best candidates for this treatment are traditional stouts, porters, milds, and bitters.&lt;/p&gt;
+  
+					  &lt;p&gt;Good hop flavor and aroma and the flavors from specialty grains are important in beers with low carbonation. If you have some of your favorite beer bottled, open one and let it sit for a couple of hours before drinking it. If it seems better that way, that recipe is a good candidate for a traditional English draft beer.&lt;/p&gt;
+  
+					  &lt;p&gt;To be prepared for traditional serving, a beer must have a low level of carbonation. If you are adding priming sugar when kegging, cut the amount to one-third cup of corn sugar in five gallons of beer. If you are artificially carbonating, put the keg in the refrigerator, apply 20 psi CO2 pressure and give it a shake. The next day, take the keg out of the refrigerator, let it warm up to 55° F, and draw off some beer to check; there should be some carbonation, but not much. Stir the beer with a spoon and see if some CO2 bubbles are knocked out of solution.&lt;/p&gt;
+  
+					  &lt;p&gt;When you feel that the beer has the proper low level of carbonation, keep it at 55° F and reduce the CO2 pressure to 5 psi to maintain it. A stick-on strip thermometer on the keg is very helpful for checking the liquid temperature.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24" InstanceType="answer">
+			<PostId>6386</PostId>
+			<ParentPostId>6364</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-15T23:27:05.247</CreationDate>
+				<LastActivityDate>2016-11-15T23:27:05.247</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6042</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;TL:DR;
+					Not a lot of difference, but science favors carbonation for long-term storage. In a keg system, long-term storage isn't a factor, and there's no appreciable difference.&lt;/p&gt;
+
+					&lt;p&gt;In order to answer your question, a couple of things, first. 'Stay good'; is somewhat nebulous, but let's say that it consists of three things;
+					1. Not being oxidized or lightstruck
+					2. Not being infected
+					3. Being pleasant to taste&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Point 1&lt;/strong&gt;: Oxidation can be minimized by using good brewing practices, which (if you're bartending) is kinda out of your control. If you're the brewer, that's different. But oxidative compounds can be in your hops or grain, so that may still be out of your control. 
+					Lightstruck is easy to avoid with good storage practices and brown bottles [- first google listing on beer cellaring] here, and it has good info.&lt;a href="http://www.thekitchn.com/build-a-home-beer-cellar-tapped-in-201850" rel="nofollow noreferrer"&gt;1&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Point 2&lt;/strong&gt;: Beer isn't sterile. If it were sterile, it wouldn't be good. Pasteurization can make beer nearly sterile - so close that it pretty much &lt;em&gt;is&lt;/em&gt; sterile - but pasteurized beer generally has a shorter shelf life than beer with the right active microbes. Case in point: a pasteurized pale american lager at 3 years vs. a non-pasteurized lambic at 3 years. Or a bottle of Brett-aged beer. Lambics and wild beers have tons of microbes. Microbes do good things for stability, long-term. Or bad things, if you have bad microbes.&lt;/p&gt;
+
+					&lt;p&gt;The reason they stay good and don't make you sick is that the yeast, lactobacilli, pediococcus et al, alter the Ph so that hostile microbes won't grow, which leads me to the finale of point 2:&lt;/p&gt;
+
+					&lt;p&gt;Co2 in solution drives the Ph of the liquid down, or towards acidity. &lt;a href="https://www.ncbi.nlm.nih.gov/pubmed/17811917" rel="nofollow noreferrer"&gt;Hard science paper about that here&lt;/a&gt;(although you can only read the preview without membership, there's a graph in the preview that shows the effect on atmospheres of dissolved Co2 vs Ph). &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Point 3&lt;/strong&gt;:Being pleasant to taste. Although this could be considered subjective if we got into the flavor of N vs Co2, it really just hearks to point 1: no bad taste chemicals. Good storage and good brewing make for good beer.&lt;/p&gt;
+
+					&lt;p&gt;I looked all over for examples of nitrogenated beer that would be considered cellar-able. I didn't find any. Does this mean that Co2 is better for the health of your beer?&lt;/p&gt;
+
+					&lt;p&gt;Not necessarily. In order for N to come out of solution, it needs nucleation sites, which are usually other N bubbles. Coming out of a tap, it has bubbles. With a widget, it also has bubbles, but I'd be concerned about the alcohol slowly degrading a widget, were I to store nitrogenated beer long-term. Plenty of science out there about degradation of plastic when exposed to chemicals.&lt;/p&gt;
+
+					&lt;p&gt;So, in the end, it's just preference - unless you're cellaring.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25" InstanceType="answer">
+			<PostId>7049</PostId>
+			<ParentPostId>7048</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-10-23T16:39:24.433</CreationDate>
+				<LastEditDate>2017-10-25T02:03:28.123</LastEditDate>
+				<LastActivityDate>2017-10-25T02:03:28.123</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer kegged in the USA is usually stored cold and consumed quickly. Therefore, sterile filtration is all that's needed. To make it stable in a wider variety of temperatures, especially shipping it over an ocean, they pasteurize it.&lt;/p&gt;
+
+					&lt;p&gt;From &lt;a href="https://www.micromatic.com/beer-questions/pasteurized-and-non-pasteurized-keg-beer" rel="noreferrer"&gt;Pasteurized Kegged Beer&lt;/a&gt;: &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Non-Pasteurized&lt;/p&gt;
+  
+					  &lt;p&gt;For the most part keg beer brewed and &lt;strong&gt;packaged in kegs in the U.S&lt;/strong&gt;. is
+					  not pasteurized. During the packaging process non-pasteurized draft
+					  beers are sterile filtered and chilled to the point that any surviving
+					  bacteria, which could ferment the beer, become dormant. Kegs are kept
+					  cold ( &amp;lt; 50° F ) from the brewery to the point of dispense. Draft beer
+					  dispensed from a keg should be fresh by storing as short as possible,
+					  and serving cold at 38° F.&lt;/p&gt;
+  
+					  &lt;p&gt;Temperatures above 38° F may promote non pasteurized draft beers to
+					  turn sour or cloudy. Should the temperature rise above 50° F, the
+					  dormant bacteria which ferments and spoils beer will once again become
+					  active and, subsequent growth will rapidly begin to spoil flavor and
+					  cloud the beer.&lt;/p&gt;
+  
+					  &lt;p&gt;Pasteurized&lt;/p&gt;
+  
+					  &lt;p&gt;Most of the keg beer brewed and &lt;strong&gt;packaged outside the U.S.&lt;/strong&gt; (Import
+					  beers), are heat pasteurized during packaging. This process kills off
+					  the bacteria that ferment and spoils the beer.&lt;/p&gt;
+  
+					  &lt;p&gt;Pasteurized draft beer kegs can be transported and stored at room
+					  temperature. The beer in these kegs can be flash cooled at the point
+					  of dispense. However, most imported kegs are stored and dispensed at
+					  the same temperature (38° F) as domestic, non-pasteurized kegs.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26" InstanceType="answer">
+			<PostId>7285</PostId>
+			<ParentPostId>7282</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-15T00:22:49.863</CreationDate>
+				<LastActivityDate>2018-05-15T00:22:49.863</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7787</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have done this with homebrew beer, but never commercially-bottled beer. The issues should be the same, though:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;You will significantly shorten the beer's lifespan due to the oxygenation, but if you fill the keg as full as you can so there's little to no airspace at the top and you're drinking it all that day, you'll be fine.&lt;/li&gt;
+					&lt;li&gt;When you force-carbonate after sealing the keg, I'd recommend 10-15 psi of pressure.&lt;/li&gt;
+					&lt;li&gt;I have no experience with ciders, so I'll defer to someone else on that, although I can't see why it would be any different.&lt;/li&gt;
+					&lt;/ol&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27" InstanceType="answer">
+			<PostId>7335</PostId>
+			<ParentPostId>7282</ParentPostId>			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-12T16:18:21.383</CreationDate>
+				<LastActivityDate>2018-06-12T16:18:21.383</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7852</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There is no difference between ciders and beers for that matter. Ciders might be easier to pour because the foam less. At very low temperatures, however, this difference should be negligible. &lt;/p&gt;
+
+					&lt;p&gt;If you freeze the cans down to -1/-2°C, you could refill them without losing much CO². Then you wouldn't have to force-carbonate the beer. &lt;/p&gt;
+
+					&lt;p&gt;I would also fill the keg to the top in that case. &lt;/p&gt;
+
+					&lt;p&gt;Use a cold keg that does not warm up the beer in the process. Tilt the keg like pouring a glass, so the beer is always in contact with the keg.&lt;/p&gt;
+
+					&lt;p&gt;Normal serving pressure would suffice.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

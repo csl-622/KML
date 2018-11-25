@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>977</PostId>
+			<ParentPostId>382</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:04:27.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a difference if we compare the **classical cooling of the whole keg**:
+
+					![enter image description here][1]
+
+					and the **quick flow cooling** where the keg is at the ambient temperature?
+
+					![enter image description here][2]
+
+					Can the quick cooling have negative effect on the beer's taste or head?
+
+
+					  [1]: http://i.stack.imgur.com/YbVm0.jpg
+					  [2]: http://i.stack.imgur.com/q0FEN.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>978</PostId>
+			<ParentPostId>382</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:04:27.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can quick beer cooling have a negative effect on the beer's taste?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>979</PostId>
+			<ParentPostId>382</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:04:27.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, draught, head, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>1447</PostId>
+			<ParentPostId>568</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T01:32:31.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was just making a stout float and noticed that my beer foamed up a ton. 
+
+					It's not a very carbonated beer (there was barely a hiss when I opened the growler), yet the head was several inches with not very much beer poured into the chilled mug.
+
+					What causes this massive head and is there a good way to prevent it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>1448</PostId>
+			<ParentPostId>568</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T01:32:31.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do stouts foam so much when you pour it over ice cream?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>1449</PostId>
+			<ParentPostId>568</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T01:32:31.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					head, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1453</PostId>
+			<ParentPostId>568</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T04:36:09.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431647549729300481
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Title" >
+			<PostId>1457</PostId>
+			<ParentPostId>568</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T11:16:14.380</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why do stouts foam so much when you pour them over ice cream?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>1590</PostId>
+			<ParentPostId>382</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-14T10:37:34.923</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434275217066967040
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>2011</PostId>
+			<ParentPostId>728</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-12T11:37:50.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>765</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I love beer, but when I pour myself one, I try not to make it foam too much, I personally don't like the 'head' of a beer (Don't really know how to say it). My dad drinks beer religiously and demands a head when ever I pour one for him. A few (Most of my friends) aren't keen on having a head, but some love it.
+
+					Obviously this is personal preference, but is beer normally supposed to have a head? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>2012</PostId>
+			<ParentPostId>728</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-12T11:37:50.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>765</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Giving beer a decent head and why people like it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>2013</PostId>
+			<ParentPostId>728</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-12T11:37:50.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>765</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					head, foam, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>2026</PostId>
+			<ParentPostId>728</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-14T14:44:08.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/455718151897235456
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>2071</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T04:11:46.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have some homebrew that is really over-carbonated (before i learned about [priming sugar calculators][1]). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.
+
+					Is there something i can do when pouring it to *reduce* the head? I know some amount of head is desirable, but this is over the top (literally). 
+
+					  [1]: https://www.google.com/search?q=priming%20sugar%20calculators
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>2072</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T04:11:46.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Decreasing foam in over-carbonated beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>2073</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T04:11:46.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, carbonation, foam, head, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Body" >
+			<PostId>2089</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-24T13:16:50.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<EditDetails>
+				added 101 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have some homebrew that is really over-carbonated (before i learned about [priming sugar calculators][1]). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.
+
+					Is there something i can do when pouring it to *reduce* the head? I know some amount of head is desirable, but this is over the top (literally). 
+
+					[Edit] I get this much foam despite pouring very slowly and carefully down the side of the glass.
+
+					  [1]: https://www.google.com/search?q=priming%20sugar%20calculators
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>2090</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-25T00:37:46.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/459491424246194178
+			</EditDetails>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Post Closed" >
+			<PostId>2099</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-26T04:45:23.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[654],"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>6623</PostId>
+			<ParentPostId>3414</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-22T19:28:25.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In many beer tasting guides it tells to describe the head or admire the head of the beer. From Wikipedia, I understand that:
+
+					&gt; Beer head (also head) is the frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface. The elements that produce the head are wort protein, yeast and hop residue. The carbon dioxide that forms the bubbles in the head is produced during fermentation.
+
+					But what is the significance of focusing on the head of the beer so much? Why does one concern themselves with how much head exists, how long it lasts, etc?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>6624</PostId>
+			<ParentPostId>3414</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-22T19:28:25.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the significance of a beer's head?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>6625</PostId>
+			<ParentPostId>3414</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-22T19:28:25.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					head, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Body" >
+			<PostId>6635</PostId>
+			<ParentPostId>3414</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T21:26:43.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<EditDetails>
+				light question improvement
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In many beer tasting guides it tells to describe the head, or to 'admire' the head of the beer. From Wikipedia, I understand that:
+
+					&gt; Beer head (also head) is the frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface. The elements that produce the head are wort protein, yeast and hop residue. The carbon dioxide that forms the bubbles in the head is produced during fermentation.
+
+					But what is the actual significance of focusing on the head of the beer so much? Why does one concern themselves with how much head exists, how long it lasts, etc?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>6636</PostId>
+			<ParentPostId>3414</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T21:26:43.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4244 approved by 4238 edit id of 132
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Unknown" >
+			<PostId>6709</PostId>
+			<ParentPostId>3414</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-05T14:19:36.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/617699351557763072
+			</EditDetails>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>9718</PostId>
+			<ParentPostId>5176</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-28T14:06:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5457</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Last night, after moving some heavy stones around, I poured myself a nice Berliner Weisse (style) into a glass I don't use regularly.  Initially there was a nice head on it but to my disappointment it broke down in a matter of seconds.  I'm pretty certain this was a result of detergent residue in the glass.
+
+					I take pains to hand wash my beer glasses without detergent but some members of my household are not always cognizant of the damage this causes.  Once the detergent residue is on the glass, is there any method that can remove it?  I think that in the past I've found that wiping firmly and rinsing will eventually remove it but that means many flat beers along the way.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>9719</PostId>
+			<ParentPostId>5176</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-28T14:06:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5457</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Removing detergent residue from glassware
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>9720</PostId>
+			<ParentPostId>5176</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-28T14:06:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5457</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					glassware, head, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Unknown" >
+			<PostId>9749</PostId>
+			<ParentPostId>5176</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-04T05:51:48.943</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/749843133014413312
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

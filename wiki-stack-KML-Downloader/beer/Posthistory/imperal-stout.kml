@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>66</PostId>
+			<ParentPostId>25</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:54:05.140</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My local growler shop regularly has a variety of stouts on tap. I usually pick Imperial stouts over other kinds, what, specifically, distinguishes an Imperial stout from other kinds of stouts (Say a regular stout, an oatmeal stout etc)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>67</PostId>
+			<ParentPostId>25</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:54:05.140</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What specific characteristics distinguish an imperial stout from other kinds of stouts?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>68</PostId>
+			<ParentPostId>25</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:54:05.140</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					imperal-stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>69</PostId>
+			<ParentPostId>25</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:55:34.443</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<EditDetails>
+				grammar and wording
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					My local growler shop regularly has a variety of stouts on tap, of which I usually pick Imperial. 
+
+					What, specifically, distinguishes an Imperial stout from other kinds of stouts (say a regular stout, an oatmeal stout etc)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>70</PostId>
+			<ParentPostId>25</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:55:34.443</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 20 approved by 39 edit id of 4
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>1951</PostId>
+			<ParentPostId>705</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-03T21:49:40.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Over the weekend, I decided to order something new from the menu: a [Big Bad Baptist](http://www.beeradvocate.com/beer/profile/22893/73618/). I thoroughly enjoyed it (lots of coffee flavor and not nearly as much alcohol taste as I feared). But it came in what looked to be a brandy snifter.
+
+					Is this the typical way to serve that type of beer? I assume the purpose has something to do with the aroma, but is there any other reason (either traditional or practical)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>1952</PostId>
+			<ParentPostId>705</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-03T21:49:40.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why did my Big Bad Baptist come in a brandy snifter?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>1953</PostId>
+			<ParentPostId>705</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-03T21:49:40.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					glassware, imperal-stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>1963</PostId>
+			<ParentPostId>705</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-06T11:13:02.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/452765924517761024
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>8694</PostId>
+			<ParentPostId>4837</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-18T23:34:32.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm not looking for any specific vintage or special variant. Just the standard [Dark Lord RIS][1].
+
+					I'm also well aware of the fact that Three Floyds has limited distribution in the Midwest, and I'm for sure not going to find it on the West Coast.
+
+					However, I sometimes travel back to Ohio, where they do distribute. What are my chances of walking into a decent bottle shop back there and finding one of these? Do i have a good shot, or is this a very seasonal brew?
+
+
+					  [1]: http://www.ratebeer.com/beer/three-floyds-dark-lord-russian-imperial-stout/15917/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>8695</PostId>
+			<ParentPostId>4837</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-18T23:34:32.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How hard is it to find a Three Floyds Dark Lord?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>8696</PostId>
+			<ParentPostId>4837</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-18T23:34:32.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					imperal-stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>12580</PostId>
+			<ParentPostId>4837</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-14T09:10:08.487</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/852811196222717952
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>12979</PostId>
+			<ParentPostId>6933</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-28T08:32:23.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6873</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do i calculate the market value for a limited edition beer (1700 bottles only)? It cannot be bought anywhere anymore except from private collectors. The beer in question is the Opeth XXV anniversary imperial stout.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>12980</PostId>
+			<ParentPostId>6933</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-28T08:32:23.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6873</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Right price for limited edition beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>12981</PostId>
+			<ParentPostId>6933</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-28T08:32:23.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6873</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					imperal-stout, price, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Body" >
+			<PostId>12982</PostId>
+			<ParentPostId>6933</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-28T12:11:55.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one link.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do I calculate the market value for a limited edition beer (1700 bottles only)? It cannot be bought anywhere anymore except from private collectors. The beer in question is the [Opeth XXV anniversary imperial stout][1].
+
+
+					  [1]: http://loudwire.com/opeth-xxv-anniversary-imperial-stout/
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>14421</PostId>
+			<ParentPostId>7412</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T07:03:03.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7974</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					We have lots of Blonde beer which expired last year and some expired May this year.  Is it still safe to drink?
+
+					Emma 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>14422</PostId>
+			<ParentPostId>7412</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T07:03:03.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7974</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer expired last year and this year
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>14423</PostId>
+			<ParentPostId>7412</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T07:03:03.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7974</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>14425</PostId>
+			<ParentPostId>7412</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T07:28:56.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				retagged &amp; cleaned
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					We have lots of Blonde beer which expired last year and some expired May this year.  
+
+					Is it still safe to drink?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Tags" >
+			<PostId>14426</PostId>
+			<ParentPostId>7412</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T07:28:56.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				retagged &amp; cleaned
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					blonde, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>14518</PostId>
+			<ParentPostId>7412</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-17T00:01:54.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1030243281928630272
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

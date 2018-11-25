@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>234</PostId>
+			<Title>
+			"What exactly is a Cicerone? What do they do?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>cicerone</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>80</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:32:04.380</CreationDate>
+				<LastActivityDate>2014-01-23T16:34:07.970</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Recently I've started seeing references to the term 'Cicerone' pop up around the internet; generally, they are described as a 'Beer Sommelier' and the subject is left at that.&lt;/p&gt;
+
+					&lt;p&gt;I'd like to understand the role a little bit better. What exactly does a cicerone &lt;strong&gt;do&lt;/strong&gt;? If I encounter one in a restaurant, what sort of knowledge can I expect her to have? Is there a certification or credential of some sort that they're expected to receive? What sort of training is required?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>337</PostId>
+			<Title>
+			"How do you properly taste a beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>cicerone</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>185</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-26T19:20:22.630</CreationDate>
+				<LastEditDate>2014-01-26T21:43:30.797</LastEditDate>
+				<LastActivityDate>2014-01-27T16:31:00.187</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+				<LastEditorUserId>112</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If I want to fully appreciate what a beer is offering, how do I properly taste the beer to reveal all the nuances in the aroma, flavor and aftertaste?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>7091</PostId>
+			<Title>
+			"Universally Accepted Beer Education"
+			</Title>
+			<Tags>
+				<tag>recommendations</tag>
+				<tag>cicerone</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>106</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-27T15:05:29.930</CreationDate>
+				<LastEditDate>2017-11-27T20:34:39.067</LastEditDate>
+				<LastActivityDate>2017-12-07T04:26:49.500</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7295</OwnerUserId>
+				<LastEditorUserId>6111</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have been searching for Beer education with universally accepted certificate like WSET for a while but I couldn't find one. I've found some courses Prud'homme ,Cicerone, and The Beer Judge Certification Program (BJCP) but I don't think they are like WSET. 
+					Are there any training program like WSET for beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

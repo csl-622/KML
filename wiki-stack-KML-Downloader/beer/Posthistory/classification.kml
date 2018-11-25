@@ -1,0 +1,970 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>90</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:00:23.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Porters and stouts seem very similar and sometimes stores and restaurants group them together as if they're two different names for the same thing.
+
+					Is there a difference and what is it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>91</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:00:23.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between a porter and a stout?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>92</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:00:23.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					porter, stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>432</PostId>
+			<ParentPostId>172</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:17:57.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In Poland, outside of imports, microbreweries, and various less popular varieties, about all mainstream brands come in two classes:
+
+					* Piwo Jasne ('light beer')
+					* Piwo Mocne ('strong beer')
+
+					The two comprise the massive bulk of the market and are about never labeled differently, save for brand-specific marketing variations.
+
+					I'd like to learn how they fit into the wider image. Are they lagers, stouts, ales, or maybe something yet different? A class of their own?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>433</PostId>
+			<ParentPostId>172</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:17:57.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do common polish beers fit into the "periodic table of beers"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>434</PostId>
+			<ParentPostId>172</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:17:57.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>590</PostId>
+			<ParentPostId>172</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:08:15.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				Added tag 'Poland' for questions about Polish beers and buying/brewing beers in Poland.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					classification, poland, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>591</PostId>
+			<ParentPostId>172</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:08:15.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 21 approved by 130 edit id of 32
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>1536</PostId>
+			<ParentPostId>590</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T03:15:05.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>457</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What defines beer? Specifically, what's a definition of beer that allows [this][1] to be classed as one:
+
+					&gt; Snake Venom is the world’s strongest beer as of 24 October 2013, coming in at 67.5%. It is dark amber in colour with no carbonation due to the high ABV. Unlike the previous Armageddon, the alcohol is not masked in Snake Venom. It is highly present yet it still tastes like a beer with a good degree of hop profile. Each batch is tested by the brewery before bottling and random batches are tested externally.
+
+					An alcohol content of 67.5% is not something I would associate with beer. So, why is this considered one and not a spirit?
+
+					Dictionary.com [defines][2] beer as
+
+					&gt; an alcoholic beverage made by brewing and fermentation from cereals, usually malted barley, and flavored with hops and the like for a slightly bitter taste.
+
+					This is not a very restrictive definition and would seem to also apply to whisky if you add some hops to it. So, is there a better one? Preferably one that also excludes ales?
+
+
+					  [1]: http://www.ratebeer.com/beer/brewmeister-snake-venom/234626/
+					  [2]: http://dictionary.reference.com/browse/Beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>1537</PostId>
+			<ParentPostId>590</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T03:15:05.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>457</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the definition of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>1538</PostId>
+			<ParentPostId>590</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T03:15:05.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>457</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>1539</PostId>
+			<ParentPostId>590</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T03:59:04.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>457</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 41 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What defines beer? Specifically, what's a definition of beer that allows [this][1] to be classed as one:
+
+					&gt; Snake Venom is the world’s strongest beer as of 24 October 2013, coming in at 67.5%. It is dark amber in colour with no carbonation due to the high ABV. Unlike the previous Armageddon, the alcohol is not masked in Snake Venom. It is highly present yet it still tastes like a beer with a good degree of hop profile. Each batch is tested by the brewery before bottling and random batches are tested externally.
+
+					An alcohol content of 67.5% is not something I would associate with beer. So, why is this considered one and not a spirit?
+
+					Dictionary.com [defines][2] beer as
+
+					&gt; an alcoholic beverage made by brewing and fermentation from cereals, usually malted barley, and flavored with hops and the like for a slightly bitter taste.
+
+					This is not a very restrictive definition and would seem to also apply to whisky if you add some hops to it. So, is there a better one? 
+
+					  [1]: http://www.ratebeer.com/beer/brewmeister-snake-venom/234626/
+					  [2]: http://dictionary.reference.com/browse/Beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>1544</PostId>
+			<ParentPostId>590</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T04:36:42.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433097239276576768
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>1582</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T17:18:30.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					From a [question about german beers](http://beer.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock), the difference between a doppelbock and triple bock seems to be simply about the abv and maltiness. Basically just a stronger version of the "single" bock. 
+
+					Is is the same difference for Belgian versions (dubbels and trippels)?
+
+					From a [comment](http://beer.stackexchange.com/questions/596/what-should-i-expect-from-a-belgian-triple-tripel?noredirect=1#comment680_596) I read, the difference seemed to be more complex, and I would like to get more information about it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>1583</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T17:18:30.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the difference between a dubbel and a tripel?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>1584</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T17:18:30.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>1586</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-14T01:37:34.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434139321088880641
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>1632</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T16:38:03.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435090707746160641
+			</EditDetails>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Body" >
+			<PostId>2128</PostId>
+			<ParentPostId>768</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-05T19:32:49.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is a "White IPA" and can it actually be considered an IPA?
+
+					I'm asking in general but specifically I'm having a Deschutes Chainbreaker White IPA.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Title" >
+			<PostId>2129</PostId>
+			<ParentPostId>768</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-05T19:32:49.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is a "White IPA" and is it actually an IPA?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Tags" >
+			<PostId>2130</PostId>
+			<ParentPostId>768</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-05T19:32:49.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ipa, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Body" >
+			<PostId>3517</PostId>
+			<ParentPostId>939</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-20T10:09:07.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1114</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do you recommend any specific Android app to keep track of the different beers (and of course different kind of beers) that you have tasted?
+
+					Someone recommended me Untappd but I may need something less social and more informative...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Title" >
+			<PostId>3518</PostId>
+			<ParentPostId>939</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-20T10:09:07.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1114</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recommended Android app
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Tags" >
+			<PostId>3519</PostId>
+			<ParentPostId>939</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-20T10:09:07.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1114</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					classification, resources, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Unknown" >
+			<PostId>3545</PostId>
+			<ParentPostId>939</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-24T15:43:09.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/492334175673139200
+			</EditDetails>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>6104</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T05:45:02.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Corona Extra Dry is a Mexican beer that is very popular (in Australia anyway). Most people seem to like it for it's drinkability, and suitability for enjoyment in hot weather.
+
+					Is there a name for this style of lager? Eg; I don't think it's a pilsener or dark lager.
+
+					And what other beers are in the same style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>6105</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T05:45:02.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What style of lager is Corona? And what other beers are similar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>6106</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T05:45:02.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, lager, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Edit Body" >
+			<PostId>6107</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T07:52:30.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<EditDetails>
+				Removing incorrect part of the beer name
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Corona Extra is a Mexican beer that is very popular (in Australia anyway). Most people seem to like it for it's drinkability, and suitability for enjoyment in hot weather.
+
+					Is there a name for this style of lager? Eg; I don't think it's a pilsener or dark lager.
+
+					And what other beers are in the same style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Unknown" >
+			<PostId>6195</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-28T17:32:39.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/560490649032867840
+			</EditDetails>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>6404</PostId>
+			<ParentPostId>172</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-02T23:02:33.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/583766496104550400
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>6762</PostId>
+			<ParentPostId>3468</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T01:40:55.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer sizes in spain are aptly explained in http://matadornetwork.com/nights/order-beer-spain/ (copa, cana, tanque, jarra, etc.)
+
+					In portugal, similar sizes appear but I've only heard of `imperial` and `caneca`. 
+
+					**Are there other sizes of beer in Portugal/Spain?**
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>6763</PostId>
+			<ParentPostId>3468</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T01:40:55.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer Sizes in Spain and Portugal
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>6764</PostId>
+			<ParentPostId>3468</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T01:40:55.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					glassware, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Edit Tags" >
+			<PostId>8283</PostId>
+			<ParentPostId>33</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-12T09:56:01.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					stout, classification, porter, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Edit Tags" >
+			<PostId>8284</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-12T09:57:22.833</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Edit Title" >
+			<PostId>11191</PostId>
+			<ParentPostId>172</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-08T19:49:15.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in title.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do popular Polish beers fit into the "periodic table of beers"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Edit Body" >
+			<PostId>12505</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					From a [question about german beers](https://alcohol.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock), the difference between a doppelbock and triple bock seems to be simply about the abv and maltiness. Basically just a stronger version of the "single" bock. 
+
+					Is is the same difference for Belgian versions (dubbels and trippels)?
+
+					From a [comment](https://alcohol.stackexchange.com/questions/596/what-should-i-expect-from-a-belgian-triple-tripel?noredirect=1#comment680_596) I read, the difference seemed to be more complex, and I would like to get more information about it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>13138</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-17T13:18:19.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7030</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between "The Ale", "The Brown Ale" and the "Mild Ale" beer? The colour seem more or less the same so is it the taste that normally is different or is the level of alcool presents on the beer?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>13139</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-17T13:18:19.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7030</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Difference between "Ale's" beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>13140</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-17T13:18:19.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7030</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Body" >
+			<PostId>13181</PostId>
+			<ParentPostId>7000</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-29T12:56:05.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4095</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was on a webshop for beer and was surprised to find a "selection of beer for women". It consisted mostly of fruit-flavored beers and other sweet-type beverages such as ciders. 
+
+					This struck me initially as sexist, since women can, and do, like all kinds of beer. I decided to ask the company and they said that those are the beers that their female customers order most (although I'm doubtful that they did a statistical analysis...). 
+
+					I'm curious if beer experts out there believe there should be a category of "beer for women" and if so, what would be in that category.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Title" >
+			<PostId>13182</PostId>
+			<ParentPostId>7000</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-29T12:56:05.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4095</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Would it be sexist for a beer shop to have a "selection of beer for women"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Tags" >
+			<PostId>13183</PostId>
+			<ParentPostId>7000</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-29T12:56:05.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4095</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Edit Body" >
+			<PostId>13992</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-02T11:24:15.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6566</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected small typo, added 'ale' tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the difference between "The Ale", "The Brown Ale", and the "Mild Ale" beers? The colour seems more or less the same so, is it the taste that normally is different or is the level of alcohol present on the beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Edit Tags" >
+			<PostId>13993</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-02T11:24:15.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6566</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected small typo, added 'ale' tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, flavor, ale, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Unknown" >
+			<PostId>13994</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-02T11:24:15.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6566 approved by 5078 edit id of 325
+			</EditDetails>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Unknown" >
+			<PostId>14049</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T19:36:57.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/996112145061380096
+			</EditDetails>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Edit Tags" >
+			<PostId>14234</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T16:03:27.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Added appropriate tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, classification, dubbel, tripel, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Unknown" >
+			<PostId>14235</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T16:03:27.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4962 approved by 37 edit id of 331
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

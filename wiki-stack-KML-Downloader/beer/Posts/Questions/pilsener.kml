@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>6</PostId>
+			<AcceptedAnswerId>100</AcceptedAnswerId>
+			<Title>
+			"What is the best angle to store beer bottles?"
+			</Title>
+			<Tags>
+				<tag>pilsener</tag>
+				<tag>storage</tag>
+			</Tags>
+			<Credit> 
+				<Score>18</Score>
+				<ViewCount>507</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:33:12.797</CreationDate>
+				<LastEditDate>2014-01-22T14:32:47.030</LastEditDate>
+				<LastActivityDate>2014-01-22T14:32:47.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>10</OwnerUserId>
+				<LastEditorUserId>138</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Currently I am storing my bottles in the crates at a (about) 20 degree angle (bottles are upwards!).&lt;/p&gt;
+
+					&lt;p&gt;Does the way of storing the bottles affect something (and how)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>21</PostId>
+			<AcceptedAnswerId>292</AcceptedAnswerId>
+			<Title>
+			"Can one pilsener cause a hangover when another doesn't?"
+			</Title>
+			<Tags>
+				<tag>hangover</tag>
+				<tag>drinking</tag>
+				<tag>pilsener</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>505</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:48:46.880</CreationDate>
+				<LastActivityDate>2014-01-24T06:29:38.687</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>12</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I frequently hear stories about people drinking their favorite pilsener, and not liking the other brand because "they'll get a hangover when drinking that brand".&lt;/p&gt;
+
+					&lt;p&gt;Is there a truth in this?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>3478</PostId>
+			<AcceptedAnswerId>3484</AcceptedAnswerId>
+			<Title>
+			"Looking for a very hoppy beer (in Germany)"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>pilsener</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>1414</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-19T06:57:32.817</CreationDate>
+				<LastEditDate>2015-07-19T14:34:32.323</LastEditDate>
+				<LastActivityDate>2015-07-26T13:35:13.590</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4337</OwnerUserId>
+				<LastEditorUserId>4337</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Which beer, that is available in Germany, can you recommend that is more bitter than Jever?&lt;/p&gt;
+
+					&lt;p&gt;Or, to re-phrase the question: What is the beer with the most hop that you know of, in Germany?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>3512</PostId>
+			<AcceptedAnswerId>4525</AcceptedAnswerId>
+			<Title>
+			"Microbrewery in Prague"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>micropub</tag>
+				<tag>pilsener</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>121</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-04T21:11:12.573</CreationDate>
+				<LastActivityDate>2016-10-08T19:57:33.583</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Czech is known for its Pilsen Pilsner but is there any special beer from the Prague capital? &lt;/p&gt;
+
+					&lt;p&gt;Are there any craft/microbrewery in Prague? &lt;/p&gt;
+
+					&lt;p&gt;Any suggestions to pub that serves good craft Czech brews?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,2368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="2">
+			<PostId>635</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T05:15:02.047</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question is just going to generate a list of opinions, I think.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>637</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T09:41:39.597</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@jonsca - Does the edit make it somewhat more acceptable?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>638</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T09:51:51.330</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There's still quite a bit of "subjectiveness" to the question, with regards to what constitutes "good", "tasty", "well-known","fun neighborhoods", etc., but I think that you've narrowed it down quite a bit.  I think it's a great question at its core, it's just a question of how useful it will be to someone in the future...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>639</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T09:56:57.343</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@jonsca - Unfortunately, I agree; I guess some subjectivity can't be helped here. As to its usefulness though, besides me, I can definitely imagine others visiting NYC and wondering about breweries. Hopefully when they search "breweries in NYC," this question will be the first hit!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>640</PostId>
+			<ParentPostId>575</ParentPostId>
+			<Contributors>
+				<UserId>117</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T13:46:05.157</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					My first thought was of cock ale also.  Fascinating the stuff I learned in the history section of my high school's library.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="3">
+			<PostId>641</PostId>
+			<ParentPostId>581</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T13:59:50.560</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If this list grows to any substantial length the photos will make the page very long (more hassle to scroll through).  Are they needed?  Could they just be linked instead?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>642</PostId>
+			<ParentPostId>581</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T14:00:54.770</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MonicaCellio - Hm, good point. Let's (again, arbitrarily) agree for now that we'll remove all photos (or replace them with links) once we reach, er... 10?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="1">
+			<PostId>967</PostId>
+			<ParentPostId>816</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-30T03:10:50.757</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What does [tag:3.2-beer] mean?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="1">
+			<PostId>968</PostId>
+			<ParentPostId>816</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-31T16:01:54.007</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MonicaCellio The tag doesn't really apply to this question, but 3-2 beer is the term for reduced alcohol beer that is all some states allow to be sold by a supermarket or convenience store type retailer.  The name comes from the fact that these laws have typcially specified that only beer with an ABV of 3.2% or less may be sold by these licensees.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>1982</PostId>
+			<ParentPostId>816</ParentPostId>
+			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-06-06T08:44:46.013</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I updated the tag to reflect its meaning. It probably shouldn't be on this question now (unless chinese beers are all especially low gravity?)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>2100</PostId>
+			<ParentPostId>991</ParentPostId>
+			<Contributors>
+				<UserId>662</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-08-25T12:52:14.687</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't believe there is one. You can always start your own website :).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="1">
+			<PostId>2108</PostId>
+			<ParentPostId>991</ParentPostId>
+			<Contributors>
+				<UserId>1264</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-08-28T09:08:01.560</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I would love to do this, since I live in the Netherlands where we can't get many of the great American beers (do love that Stone is opening up in Berlin btw). But I have to wonder whether it is legal to do this...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="1">
+			<PostId>2109</PostId>
+			<ParentPostId>967</ParentPostId>
+			<Contributors>
+				<UserId>1276</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-09-01T15:32:29.250</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Perhaps you could quote a relevant line or two inline with your answer so we don't have to go off-site to get the gist of the thing.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="1">
+			<PostId>2112</PostId>
+			<ParentPostId>991</ParentPostId>
+			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-09-08T21:53:17.600</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I imagine it would be really complicated (and expensive) to trade beers internationally. Some countries impose heavy taxes on alcohol import.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="1">
+			<PostId>2188</PostId>
+			<ParentPostId>991</ParentPostId>
+			<Contributors>
+				<UserId>1547</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-12-02T14:53:06.723</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					BeerAdvocate ISO:FT
+					Reddit Beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>3319</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-03-10T21:34:33.130</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I had to read your post a few times to try to understand what you're asking. (Your title is about red lagers, but you start by mentioning red ales, then generic lagers, then IPAs, browns, and stouts, and your final question appears to be about _all_ beer, in general.) Let me try to distill a singular question here, to help others: **What is the characteristic taste, or, what are some _words_ that describe the taste, that makes a lager a _red_ lager?**
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="1">
+			<PostId>3320</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Contributors>
+				<UserId>3874</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-03-10T21:59:08.143</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You're right @AndrewCheong, I started just wanting to know what other beers I could try, but as I was writing the question I started trying to ask too much at once.
+
+					I've simplified my secondary question to just your summary, which I agree is the basis of what I was trying to ask anyway. Maybe once I've got a response I'll try to ask the 'other' part of the question separately.
+
+					Thanks for the feedback.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>3321</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-03-10T22:01:09.203</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Of course, and thank you for editing! Yes, don't be shy to spin off new questions. The more specific each is, the better the quality of answers we'll have on this site.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="1">
+			<PostId>3428</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T18:00:42.307</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Go with a Saison. That yeast likes temperatures in that range, even up to 35.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="0">
+			<PostId>3429</PostId>
+			<ParentPostId>3444</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T18:02:36.947</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think you mean fusel alcohols. It depends on the yeast whether you will or not. Some strains are very tolerant of higher temperatures.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="1">
+			<PostId>3430</PostId>
+			<ParentPostId>3423</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T18:08:01.593</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					yes, there is some truth to that. Draft beer usually comes in pints or larger, as apposed to 12 oz. bottles. So 3 drafts = 4 bottles, but most people count them both as "beers"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="1">
+			<PostId>3487</PostId>
+			<ParentPostId>4574</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-09-11T21:28:29.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					"Best" is going to be relative to the tastes of each individual.  Is there anything you can do to make your question less subjective?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>3488</PostId>
+			<ParentPostId>4574</ParentPostId>
+			<Contributors>
+				<UserId>4514</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-09-11T21:35:37.243</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I know it's relative, and for me that is the interesting thing. 
+					I'm going to change a little and hope you may contribute.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>3747</PostId>
+			<ParentPostId>1093</ParentPostId>
+			<Contributors>
+				<UserId>4136</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-19T02:17:06.797</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I was amazed by how popular Budweiser was in India (although I don't usually drink it). Pretty common actually.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>3748</PostId>
+			<ParentPostId>4846</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-20T01:22:45.570</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Agreed - excellent points, and thank you. I'm looking for the ones that aren't distributed in the US.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="0">
+			<PostId>3749</PostId>
+			<ParentPostId>4843</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-20T02:06:00.650</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					More information than I needed? No, that's a fantastic answer, thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="0">
+			<PostId>3750</PostId>
+			<ParentPostId>624</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-20T05:00:00.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I am talking to one of the brewers of Fat Cat right now, and he mentioned that heating affects unpasteurized beers still have live yeast that are affected by temperature. FWIW.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>3751</PostId>
+			<ParentPostId>4832</ParentPostId>
+			<Contributors>
+				<UserId>5050</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-21T16:07:13.547</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Nice site. Thank you for the information.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="0">
+			<PostId>3752</PostId>
+			<ParentPostId>4822</ParentPostId>
+			<Contributors>
+				<UserId>5050</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-21T16:08:41.517</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you I am specially interested on the Sepultura beer. Might be hard to order to Scandinavia tough.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="0">
+			<PostId>3753</PostId>
+			<ParentPostId>4822</ParentPostId>
+			<Contributors>
+				<UserId>4338</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-21T16:20:55.740</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Oh, for sure, hehe. But don't be too excited about it, it's just a regular hefeweizen.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>3761</PostId>
+			<ParentPostId>4858</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-24T17:21:03.623</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How much are you willing to spend? There are cheaper and more mass-produced ciders out there, as well as artisanal ciders that can run $30+/bottle. And where (approximately) do you live? With regional differences in distributions, just because something is available in the US doesn't mean it's available to you.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="0">
+			<PostId>3762</PostId>
+			<ParentPostId>4858</ParentPostId>
+			<Contributors>
+				<UserId>4637</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-24T22:23:13.727</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@maxwelldeux - Mountain states.  Not many apple orchards around here.  And willing to try anything once, so price isn't that big of a deal.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="1">
+			<PostId>3965</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T01:30:47.007</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That will depend on the type of martini  you are planning to make! A dry martini, a traditional martini or a specialty martini, all require different types of gin. Personal tastes will also play into this equation.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="0">
+			<PostId>3966</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Contributors>
+				<UserId>5532</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T07:34:29.450</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					As Ken Graham said, it highly depends on personal taste. Personally i think, that the vermouth (or other additions in specialty) plays a much bigger role to the taste than the gin.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35"  InstanceType= "comments" Score="0">
+			<PostId>3967</PostId>
+			<ParentPostId>5074</ParentPostId>
+			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T12:03:11.343</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					thats right but why is there a difference between the sort of spirits? Is this just my own thinking? My own subconscious? Or is there a real difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36"  InstanceType= "comments" Score="0">
+			<PostId>3968</PostId>
+			<ParentPostId>5074</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T12:07:48.073</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The alcohol that you are consuming, ethanol, is the same* in any alcoholic drink. The volume of ethanol is what is different. But, looking at your volumes, the amount of ethanol is very similar. Do you mix your vodka?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="37"  InstanceType= "comments" Score="0">
+			<PostId>3969</PostId>
+			<ParentPostId>5074</ParentPostId>
+			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T12:13:09.037</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I mix the vodka often with sprite but the volume remains the same. I wrote the ml there without sprite. I watched this phenomenon about 5 times now.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="38"  InstanceType= "comments" Score="1">
+			<PostId>3970</PostId>
+			<ParentPostId>5074</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T12:25:19.250</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					it is probably the sugar in the sprite that is keeping you up/making you not sleep well ! :) Try drinking that volume of sprite, but without the vodka, and see how well you sleep. Then drink the same amount of whisk(e)y as you would vodka, but drink it with water.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="39"  InstanceType= "comments" Score="0">
+			<PostId>3971</PostId>
+			<ParentPostId>5074</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T12:25:54.553</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					One other thing: If you are drinking really cheap vodka, it may have other chemicals in it that might affect your body as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="40"  InstanceType= "comments" Score="0">
+			<PostId>3972</PostId>
+			<ParentPostId>5074</ParentPostId>
+			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T12:34:48.553</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It is vodka Gorbatschow. (i don´t know if this counts to very cheap vodka) But you are right if i drink whisky like Jack Daniels, Jim Beam or Chivas Regal i could sleep well. Perhaps it is the vodka itself?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="41"  InstanceType= "comments" Score="0">
+			<PostId>3973</PostId>
+			<ParentPostId>5074</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T13:15:19.533</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Many vodkas have added sugar and/or glycerin in them.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="42"  InstanceType= "comments" Score="0">
+			<PostId>3974</PostId>
+			<ParentPostId>5074</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-08T14:21:04.350</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MCSell do you drink your whisk(e)ys with sprite, or water, or something else? See my other comment regarding the sugar in sprite.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="43"  InstanceType= "comments" Score="1">
+			<PostId>3975</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-09T02:47:35.800</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The one you like the best
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="44"  InstanceType= "comments" Score="0">
+			<PostId>3976</PostId>
+			<ParentPostId>5074</ParentPostId>
+			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-09T07:47:31.263</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Of course i don´t drink my whiskey with sprite sometimes with ice but nothing more.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="45"  InstanceType= "comments" Score="0">
+			<PostId>4116</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Contributors>
+				<UserId>4857</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-16T11:14:51.133</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question would be more appropriate in http://homebrew.stackexchange.com/.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="46"  InstanceType= "comments" Score="0">
+			<PostId>4117</PostId>
+			<ParentPostId>6240</ParentPostId>
+			<Contributors>
+				<UserId>5144</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-18T18:49:28.137</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've bought coronas in the us and in mexico, and the one sold in mexico is stronger and not as light.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="47"  InstanceType= "comments" Score="1">
+			<PostId>4118</PostId>
+			<ParentPostId>6234</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T12:49:30.007</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Welcome to Alcohol SE, Sam. Your answer would be better if you added more details and a linked reference if possible. Great to see your input and hope you stay around.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="48"  InstanceType= "comments" Score="0">
+			<PostId>4119</PostId>
+			<ParentPostId>6242</ParentPostId>
+			<Contributors>
+				<UserId>5771</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T15:16:51.430</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I recognize the above passages from my research on Google on this topic, I wold just cite the sources for credit and completion
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="49"  InstanceType= "comments" Score="0">
+			<PostId>4120</PostId>
+			<ParentPostId>6243</ParentPostId>
+			<Contributors>
+				<UserId>5778</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T18:03:36.943</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ya what is with the lime actually ??? I have seen people having it with lime .
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="50"  InstanceType= "comments" Score="0">
+			<PostId>4121</PostId>
+			<ParentPostId>6243</ParentPostId>
+			<Contributors>
+				<UserId>5796</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T19:00:23.597</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Makes it more refreshing. You don't have to do it, but it really adds to the taste. Where I live, every bar/restaurant that you go to will sell it with lime.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="51"  InstanceType= "comments" Score="0">
+			<PostId>4122</PostId>
+			<ParentPostId>6246</ParentPostId>
+			<Contributors>
+				<UserId>3905</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T00:17:34.133</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Goldschläger, I think.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="52"  InstanceType= "comments" Score="1">
+			<PostId>4123</PostId>
+			<ParentPostId>6247</ParentPostId>
+			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T09:54:26.613</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How much is a "drink"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="53"  InstanceType= "comments" Score="2">
+			<PostId>4124</PostId>
+			<ParentPostId>6244</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T13:19:39.660</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd add that objectively as an actual drink there isn't actually anything special about it besides the ambiance, marketing, and image.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="54"  InstanceType= "comments" Score="0">
+			<PostId>4126</PostId>
+			<ParentPostId>901</ParentPostId>
+			<Contributors>
+				<UserId>5818</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T20:55:44.633</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not sure about "UK fully adopted the metric system" but in practice all containers have ml listed. Beer tends to have fl. oz. as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="55"  InstanceType= "comments" Score="0">
+			<PostId>4128</PostId>
+			<ParentPostId>5162</ParentPostId>
+			<Contributors>
+				<UserId>5822</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-24T12:44:51.813</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I fully realize it does not meet the first requirement, but the St John's Commandaria form Cyprus would be worth a thought (http://www.cyprusfoodndrinks.com/cgibin/hweb?-A=681&amp;-V=authentics). Actually named by the Order of the Knights of St John, it is a delicious sweet desert wine of light brownish color and available for less than 20$.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="56"  InstanceType= "comments" Score="0">
+			<PostId>4129</PostId>
+			<ParentPostId>5162</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-24T12:58:52.663</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@LyingDog Go ahead and pose an answer mentioning why you proposed this wine although it does not fulfill all the requirements and I show our pastor your response. Thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="57"  InstanceType= "comments" Score="1">
+			<PostId>4145</PostId>
+			<ParentPostId>6268</ParentPostId>
+			<Contributors>
+				<UserId>5817</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-31T13:24:52.743</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Possible duplicate of [Mixing vodka with beer?](http://alcohol.stackexchange.com/questions/4675/mixing-vodka-with-beer)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="58"  InstanceType= "comments" Score="0">
+			<PostId>4146</PostId>
+			<ParentPostId>6270</ParentPostId>
+			<Contributors>
+				<UserId>5816</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-01T03:35:00.447</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In the UK, during the 1970's &amp; 80's, consumption and domination of traditional beer was dented by the slow but inexorable rise in popularity of lager. It became fashionable, particularly among the ladies, to drink a lager &amp; lime (cordial), a quasi-beer cocktail. The men followed suit to a certain extent if only because the middling quality of lager available in this era benefited from a good dash of lime cordial. The popularity of a lager &amp; lime has waned but the consumption of straight lager has burgeoned in the last 30 years, quite possibly matching or overtaking that of beer in the UK.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="59"  InstanceType= "comments" Score="0">
+			<PostId>4147</PostId>
+			<ParentPostId>6270</ParentPostId>
+			<Contributors>
+				<UserId>5816</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-01T04:04:13.650</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In support of my claim that lager consumption has matched or overtaken traditional beer in UK sales, I cite The Daily Telegraph, "How the UK became a nation of lager drinkers", online edition, 28 Nov 2014.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="60"  InstanceType= "comments" Score="0">
+			<PostId>4148</PostId>
+			<ParentPostId>6260</ParentPostId>
+			<Contributors>
+				<UserId>5850</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-05T04:29:06.027</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Tasting to a pattern or strategy is a great idea.  An alternative to tasting from a single region is to taste a single varietal (Riesling or Silvaner or Grüner Veltliner) from different makers or regions.  The suggestion to seek out local recommendations is excellent.  Best of all is to bring a friend and talk about what you're tasting.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="61"  InstanceType= "comments" Score="0">
+			<PostId>4164</PostId>
+			<ParentPostId>6268</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-15T19:37:19.047</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Try different Bourbons and beer (preferably porters/stouts). My favorite currently is Dragon's milk + Crown Royal. The sweetness of dark beers lends to blending with Bourbons, hence the "Bourbon Barrel Aged XYZ" beers you see. Note: I've ruined good beers and wasted good bourbon trying this.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="62"  InstanceType= "comments" Score="0">
+			<PostId>4165</PostId>
+			<ParentPostId>6287</ParentPostId>
+			<Contributors>
+				<UserId>5905</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-16T11:25:16.593</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I also like it that is why I wondered if it is also healthy :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="63"  InstanceType= "comments" Score="0">
+			<PostId>4166</PostId>
+			<ParentPostId>6287</ParentPostId>
+			<Contributors>
+				<UserId>5888</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-16T13:59:05.693</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Heh! I used to drink Amaro Montenegro when I worked in Italy. I loved the stuff. However, I can honestly say that it didn't help me with my Italian. It must be 30 years since I've downed a glass.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="64"  InstanceType= "comments" Score="2">
+			<PostId>4227</PostId>
+			<ParentPostId>6345</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-15T16:10:27.430</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Marijuana is legal in some parts of the world. Would  marijuana pairing be permitted?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="65"  InstanceType= "comments" Score="0">
+			<PostId>4228</PostId>
+			<ParentPostId>6348</ParentPostId>
+			<Contributors>
+				<UserId>4327</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-18T05:46:27.023</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I downvoted because OP asked for tea, not coffee.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="66"  InstanceType= "comments" Score="0">
+			<PostId>4232</PostId>
+			<ParentPostId>6356</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-20T16:13:17.267</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Most people do Bailey's, but I could see Kahlua being a good option. Basically any cream/sugar based liqueur.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="67"  InstanceType= "comments" Score="0">
+			<PostId>4233</PostId>
+			<ParentPostId>6358</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-20T18:55:59.747</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The bottle is actually clear so I guess I can expect some damage then.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="68"  InstanceType= "comments" Score="0">
+			<PostId>4234</PostId>
+			<ParentPostId>6358</ParentPostId>
+			<Contributors>
+				<UserId>860</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-20T19:05:26.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A bit but not a lot should be detected by you if you don't have a benchmark.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="69"  InstanceType= "comments" Score="0">
+			<PostId>4236</PostId>
+			<ParentPostId>6360</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-23T12:35:13.043</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					By flat do you mean loss of carbonation or something else? My mead isn't carbonated, as it shouldn't be, but I know some modern 'meaderies' make carbonated versions.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="70"  InstanceType= "comments" Score="0">
+			<PostId>4238</PostId>
+			<ParentPostId>6360</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-23T15:05:14.653</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					By flat I mean no carbonation and no noticeable alcohol smell or taste. The bottles were marked at 11% alcohol, but I believe the mead had next to no alcohol content. It did not have a vineagar taste either.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="71"  InstanceType= "comments" Score="1">
+			<PostId>4241</PostId>
+			<ParentPostId>6356</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-24T18:52:01.607</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wow. This is a broad question. I believe there is a wide variety of acceptable answers (aka Bailey's Irish Cream in coffee). However, this is largely going to be based on your taste buds. My recommendation is experiment! I like adding Crown Royal to Dragon's Milk (a beer) but hate other whiskey's in Dragon's milk. Try balancing flavors - Sweet or "malty" beers (Porter/Stouts) offset the bitter of coffees. If you like "creamy" textures try adding Nitrogenated beers to your coffee.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="72"  InstanceType= "comments" Score="0">
+			<PostId>4244</PostId>
+			<ParentPostId>6345</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-25T13:25:18.117</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Whisky and cigars
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="73"  InstanceType= "comments" Score="0">
+			<PostId>4245</PostId>
+			<ParentPostId>6360</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-25T16:23:36.203</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ok, the mead in question was never carbonated so I guess that doesn't apply for my bottle. The only question left is if sunlight would have any affect.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="74"  InstanceType= "comments" Score="0">
+			<PostId>4247</PostId>
+			<ParentPostId>4769</ParentPostId>
+			<Contributors>
+				<UserId>5816</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-27T05:45:43.963</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Most of the wine made by Rome within their vast Empire was done so in order to keep the legions of soldiers fed and watered, ready to defend the Empire. The wine was added to local water in an effort to make it more palatable and to pass on the health-giving properties of wine (drunk in moderation) to the soldiers and the patrician classes who turned up their noses at the watered down stuff.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="75"  InstanceType= "comments" Score="0">
+			<PostId>4255</PostId>
+			<ParentPostId>6356</ParentPostId>
+			<Contributors>
+				<UserId>6072</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-03T11:36:15.317</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I regularly put licor 42 in coffee, and my friends also think it tastes very well. It's the best but afforable liqueur in my opinion.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="76"  InstanceType= "comments" Score="1">
+			<PostId>4256</PostId>
+			<ParentPostId>6347</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-08T12:03:41.390</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					From my own recent research I have found that a sweet drink adds greatly to the smoking experience.  Examples of sweet drinks are easy to find.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="77"  InstanceType= "comments" Score="0">
+			<PostId>4260</PostId>
+			<ParentPostId>6382</ParentPostId>
+			<Contributors>
+				<UserId>5528</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-15T08:31:16.460</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is very open to opinion @GrumpyMammoth, and could get closed - everyone has their favorite beers and whiskeys for different reasons. What is "nicely" in your book is different for others, you're just going to have to try a few combos, and who says you're going to like them at all in the first place?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="78"  InstanceType= "comments" Score="0">
+			<PostId>4261</PostId>
+			<ParentPostId>6382</ParentPostId>
+			<Contributors>
+				<UserId>6023</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-15T12:32:04.287</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@GdD well surely a few combos to start me off could be alright?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="79"  InstanceType= "comments" Score="0">
+			<PostId>4262</PostId>
+			<ParentPostId>6382</ParentPostId>
+			<Contributors>
+				<UserId>6042</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-15T22:58:56.473</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Purely opinion-based, however I'd suggest checking some of your online resources. http://www.drinksmixer.com/guide/ as an example.
+
+					Of course, sensory training would help. There are myriad beer and whiskey flavors, but understanding the various chemicals helps.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="80"  InstanceType= "comments" Score="0">
+			<PostId>4263</PostId>
+			<ParentPostId>6345</ParentPostId>
+			<Contributors>
+				<UserId>6109</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-16T08:52:27.013</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@user6035379 I have proposed a Cigars SE. You might be interested in it as there seems to be no other SE site where questions about smokes are on topic. http://area51.stackexchange.com/proposals/104111/cigars-and-other-smokes
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="81"  InstanceType= "comments" Score="0">
+			<PostId>4265</PostId>
+			<ParentPostId>6381</ParentPostId>
+			<Contributors>
+				<UserId>6042</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-16T23:12:55.273</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Absolutely right. The leaves will turn your concoction brown. Anecdotal, but I've done this before. Although the taste isn't bad.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="82"  InstanceType= "comments" Score="0">
+			<PostId>4266</PostId>
+			<ParentPostId>6382</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-17T02:07:11.707</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Could you [edit] in something about what makes a boilermaker "nice" for you?  The site doesn't work well for opinion polls, but if you can describe what properties you're looking for, then answers could be evaluated more objectively.  Thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="83"  InstanceType= "comments" Score="0">
+			<PostId>4267</PostId>
+			<ParentPostId>6385</ParentPostId>
+			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-17T05:13:12.893</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I just want to second the "check with your doctor" note. If you shouldn't be drinking "cooled" beverages, should really still be drinking beer, which has its own health concerns? Cooled vs beer, the beer probably has more health concerns than a glass of ice water
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="84"  InstanceType= "comments" Score="1">
+			<PostId>4268</PostId>
+			<ParentPostId>6384</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-17T13:36:46.737</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Non-pasteurized beer does not need to be refrigerated.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="85"  InstanceType= "comments" Score="0">
+			<PostId>4269</PostId>
+			<ParentPostId>6361</ParentPostId>
+			<Contributors>
+				<UserId>5145</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-20T23:49:24.057</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Ken Graham I've updated to include some free that they will mail to you, some that you can purchase.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="86"  InstanceType= "comments" Score="2">
+			<PostId>4270</PostId>
+			<ParentPostId>6397</ParentPostId>
+			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-21T22:29:12.550</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Prior damage is entirely possible - I had these shipped from Belgium, and then moved house with them...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="87"  InstanceType= "comments" Score="0">
+			<PostId>4292</PostId>
+			<ParentPostId>6416</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-06T12:32:05.087</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Welcome to the site, SMASHED. The French love the fresh fruit with their cheeses and drinks. perhaps a fruity cocktail may be in order.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="88"  InstanceType= "comments" Score="0">
+			<PostId>4450</PostId>
+			<ParentPostId>6537</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-15T16:33:29.337</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Um, was it the milk?  When you say mixed with, do you mean literally 'mixed', or one whiskey, one milk.  I can't see why this would make anyone sick...  and believe me I have tried most combinations!  Quick edit: without the pictures, what do you mean by 'sick'?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="89"  InstanceType= "comments" Score="1">
+			<PostId>4451</PostId>
+			<ParentPostId>6539</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-15T16:37:51.983</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I agree with this answer, pretty good stuff.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="90"  InstanceType= "comments" Score="0">
+			<PostId>4452</PostId>
+			<ParentPostId>6539</ParentPostId>
+			<Contributors>
+				<UserId>6402</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-15T16:56:06.753</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Draught = Apples. I will say this to my brother! :P
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="91"  InstanceType= "comments" Score="1">
+			<PostId>4457</PostId>
+			<ParentPostId>6537</ParentPostId>
+			<Contributors>
+				<UserId>6210</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-16T08:37:41.897</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This. For as far as i know, you can mix alcohol with anything. It might not always be more tastier and can create weird side effects in the mix, depending on the booze used(Baileys and cola is not a good combination, for example).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="92"  InstanceType= "comments" Score="1">
+			<PostId>4459</PostId>
+			<ParentPostId>6537</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-16T13:37:40.533</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If you can eat and or drink it alone then you can mix with alcohol.  But it is hard to prove a negative so not going to say nothing.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="93"  InstanceType= "comments" Score="0">
+			<PostId>4471</PostId>
+			<ParentPostId>6551</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T13:50:31.360</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hi, and welcome!  What wine are you using in your sauce?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="94"  InstanceType= "comments" Score="0">
+			<PostId>4472</PostId>
+			<ParentPostId>6551</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T13:52:03.840</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Also, the cheese, can you tell us a bit more, please.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="95"  InstanceType= "comments" Score="0">
+			<PostId>4473</PostId>
+			<ParentPostId>6551</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T13:54:20.600</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					http://winefolly.com/tutorial/10-darkest-full-bodied-red-wines/  try this site  for starters to your question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="96"  InstanceType= "comments" Score="0">
+			<PostId>4475</PostId>
+			<ParentPostId>6551</ParentPostId>
+			<Contributors>
+				<UserId>6422</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T14:30:49.550</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal: Thank you. I've added some links.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="97"  InstanceType= "comments" Score="0">
+			<PostId>4483</PostId>
+			<ParentPostId>6551</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T16:49:06.520</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hi am thinking about the slightly bitter taste that the cheese gives - but beforehand, do you think that the bitterness and the lack of salt is an issue.  Great info by the way - interesting articles.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="98"  InstanceType= "comments" Score="0">
+			<PostId>4484</PostId>
+			<ParentPostId>6555</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T16:49:47.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					ah ha, any suggestions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="99"  InstanceType= "comments" Score="0">
+			<PostId>4487</PostId>
+			<ParentPostId>6551</ParentPostId>
+			<Contributors>
+				<UserId>6422</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T17:10:03.017</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal: I guess it needs to be accounted for. As I wrote in a comment to the answer below, the Gasperini goes well with it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="100"  InstanceType= "comments" Score="0">
+			<PostId>4488</PostId>
+			<ParentPostId>6551</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T17:12:09.253</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Sorry I might have been behind the times with your comments etc.  It is great that you are getting feedback and info - also the rest of us are learning something.  By the way can I come for dinner?  Pleaseeeeeeeeeeee!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="101"  InstanceType= "comments" Score="0">
+			<PostId>4489</PostId>
+			<ParentPostId>6551</ParentPostId>
+			<Contributors>
+				<UserId>6422</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T17:23:15.577</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal: Ahahahah sure you can! 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="102"  InstanceType= "comments" Score="0">
+			<PostId>4490</PostId>
+			<ParentPostId>4851</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T17:41:49.027</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not all beers are kosher.  Beers that have additives or that are aged in wine barrels have additional considerations -- they *can* be, but you can't *assume* it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="103"  InstanceType= "comments" Score="0">
+			<PostId>4492</PostId>
+			<ParentPostId>6555</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-19T19:51:51.450</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal3.0.0  Please see my edits including a beer suggestion.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="104"  InstanceType= "comments" Score="0">
+			<PostId>4610</PostId>
+			<ParentPostId>6608</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-27T17:00:49.467</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					When is St Valentine's?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="105"  InstanceType= "comments" Score="0">
+			<PostId>4611</PostId>
+			<ParentPostId>6608</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-27T17:14:38.710</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal3.0.0 Good point.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="106"  InstanceType= "comments" Score="0">
+			<PostId>4613</PostId>
+			<ParentPostId>6610</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-28T03:42:44.693</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Great idea making my own.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="107"  InstanceType= "comments" Score="0">
+			<PostId>4637</PostId>
+			<ParentPostId>6608</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-01T16:24:37.690</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If it isn't a first date, you should have some inkling of what you both really like. Choose something on the higher quality side of that list and drink that.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="108"  InstanceType= "comments" Score="0">
+			<PostId>4638</PostId>
+			<ParentPostId>6622</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-01T16:42:10.710</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Good!  I nearly fell off the boat it was that good! (FYI I live on a boat).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="109"  InstanceType= "comments" Score="0">
+			<PostId>4639</PostId>
+			<ParentPostId>6624</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T08:06:23.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Now this is interesting, a big red colored tick for you!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="110"  InstanceType= "comments" Score="0">
+			<PostId>4640</PostId>
+			<ParentPostId>6624</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:39:13.677</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The advice here was outstanding, alchermes was something I didn't know about.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="111"  InstanceType= "comments" Score="0">
+			<PostId>4641</PostId>
+			<ParentPostId>6626</ParentPostId>
+			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:42:37.977</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					i'll try the martini solution i think...sounds tempting (also i doesn't love bloody mary), glad to let you discover this bottle
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="112"  InstanceType= "comments" Score="0">
+			<PostId>4642</PostId>
+			<ParentPostId>6624</ParentPostId>
+			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:43:41.517</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal 3.0.0 we're here for that
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="113"  InstanceType= "comments" Score="0">
+			<PostId>4643</PostId>
+			<ParentPostId>6624</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:46:05.177</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's a green tick this time not a red tick - great!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="114"  InstanceType= "comments" Score="1">
+			<PostId>4644</PostId>
+			<ParentPostId>6577</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-02T14:48:00.767</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@jalynn2 The pipes may have not been cleaned in years... or worse have been "cleaned" with something random and then not flushed. What's in the keg might be clean, but what gets into the glass could easily be "unhealthy" depending on the bar.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="115"  InstanceType= "comments" Score="0">
+			<PostId>4774</PostId>
+			<ParentPostId>6608</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-21T05:46:29.950</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Just reading the news and I saw this article, I know it doesn't answer the question but might be of interest regarding St. Valentine.  http://www.express.co.uk/news/history/766657/Saint-Valentine-3D-technology-brought-back-life
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="116"  InstanceType= "comments" Score="0">
+			<PostId>4814</PostId>
+			<ParentPostId>6701</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-30T01:22:32.440</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Huh, the recipe doesn't mention boiling at all.  It sounds like this recipe is the mead analogue of cold-brew coffee.  Unless Columella just left that part out as obvious, which sometimes happens in pre-modern recipes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="117"  InstanceType= "comments" Score="0">
+			<PostId>4815</PostId>
+			<ParentPostId>6711</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-30T08:31:18.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ken Graham, again you are astounding, I just love reading your answers.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="118"  InstanceType= "comments" Score="0">
+			<PostId>4820</PostId>
+			<ParentPostId>6701</ParentPostId>
+			<Contributors>
+				<UserId>6422</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-30T18:54:33.877</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Monica: From Steve's comments, I would infer that they didn't boil water and honey together because they actually _had to use_ honey's yeast, and boiling would kill it. Am I wrong?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="119"  InstanceType= "comments" Score="0">
+			<PostId>4821</PostId>
+			<ParentPostId>6701</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-30T19:02:50.630</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Vincenzo, Steve's instructions include boiling, but it sounds like Columella's don't, hence my confusion.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="120"  InstanceType= "comments" Score="0">
+			<PostId>4822</PostId>
+			<ParentPostId>6701</ParentPostId>
+			<Contributors>
+				<UserId>6422</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-30T19:59:50.557</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Monica: Yeah, but I'm talking about his comment to his own answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="121"  InstanceType= "comments" Score="0">
+			<PostId>4823</PostId>
+			<ParentPostId>6701</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-30T20:01:13.143</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Oh, I missed the comment.  It'd be better if one of you were to edit that additional info into the answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="122"  InstanceType= "comments" Score="0">
+			<PostId>4844</PostId>
+			<ParentPostId>6727</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T12:44:06.957</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Good question, don't know the answer, but I am sure that there are some here who are expert at wine pairing who can give you a great answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="123"  InstanceType= "comments" Score="0">
+			<PostId>4845</PostId>
+			<ParentPostId>6727</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T12:57:58.110</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I would like to see a great answer to this as it affects many other dishes and not just goose...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="124"  InstanceType= "comments" Score="1">
+			<PostId>4846</PostId>
+			<ParentPostId>6729</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-02T13:04:56.543</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If you want to keep it all Canadian, there are some excellent Canadian Rieslings too. https://www.vivino.com/toplists/top-25-canadian-riesling-wines-canada-right-now-canada
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="125"  InstanceType= "comments" Score="0">
+			<PostId>4863</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T15:11:12.827</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Is this for a romantic evening?  Is the color so very important?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="126"  InstanceType= "comments" Score="0">
+			<PostId>4864</PostId>
+			<ParentPostId>6739</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T16:57:11.200</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The fewer the imperfections the higher quality the cork. Almost no dark marks or striations. Lower quality corks have more dark spots and holes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="127"  InstanceType= "comments" Score="1">
+			<PostId>4865</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T18:06:34.193</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not a cocktail, but rosé wine comes in a variety of hues from pale pink to dark magenta.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="128"  InstanceType= "comments" Score="0">
+			<PostId>4866</PostId>
+			<ParentPostId>6739</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T20:07:43.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks again, however how does that work out with the 'plastic - alternative' corks?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="129"  InstanceType= "comments" Score="0">
+			<PostId>4867</PostId>
+			<ParentPostId>6739</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T20:58:46.523</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Plastic corks are much harder to tell. I would say that the more it looks and feels like a real cork, the more expensive they are. The ones that are purple or pink or whatever are probably the cheapest ones made.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="130"  InstanceType= "comments" Score="0">
+			<PostId>4868</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-04T23:59:40.277</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dougal3.0.0 The hue is important for a  meal which is linked to a traditional religious celebrations. Rose is a liturgical color as well a the tradition color used in the interior of the Grand Chartreuse. I like to celebrate my Feasts with great meaning and symbolism! There are many Carthusian  saints.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="131"  InstanceType= "comments" Score="0">
+			<PostId>4869</PostId>
+			<ParentPostId>6736</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T00:54:25.837</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					My friend reports that this looks exactly like her bottle (aside from hers missing the tag, but that can happen after 45 years).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="132"  InstanceType= "comments" Score="0">
+			<PostId>4870</PostId>
+			<ParentPostId>6727</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T01:58:42.337</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's ROAST goose not roasted goose https://cooking.nytimes.com/recipes/1015806-roast-goose
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="133"  InstanceType= "comments" Score="2">
+			<PostId>4871</PostId>
+			<ParentPostId>6727</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T02:35:30.057</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@SteveS. Both forms are good English. "Impress your holiday guests with this crisp, moist, and undeniably delicious roasted goose. The recipe requires a day or two of advance preparation, but the results will create memories to last a lifetime, and maybe even inspire a seasonal tradition."  - [Super Crispy Roasted Goose](http://allrecipes.com/recipe/9318/super-crispy-roasted-goose/)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="134"  InstanceType= "comments" Score="0">
+			<PostId>4872</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T02:42:40.907</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@EricShain Thanks for the heads up.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="135"  InstanceType= "comments" Score="1">
+			<PostId>4873</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T04:51:44.653</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah, thanks for that, I believe we are on the opposite ends of that spectrum, but it wont stop my dougal nose trying to sniff something out for you.  However, I think that @Dorothy has beaten us all to it with her answer below - which seems to cover just about everything - I hope your event is a success.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="136"  InstanceType= "comments" Score="1">
+			<PostId>4874</PostId>
+			<ParentPostId>6740</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-05T04:52:40.803</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wow, now that is what I call an answer!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="137"  InstanceType= "comments" Score="0">
+			<PostId>4882</PostId>
+			<ParentPostId>6749</ParentPostId>
+			<Contributors>
+				<UserId>6448</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-08T18:26:21.037</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Probably should be more specific so as to focus the answers.  Cakes?  Cheeses or yogurts?  Mushrooms?  Are you looking for variety in the entrée or in the dessert?  Is the drink to be served in courses, or are you simply planning to have guests who will serve themselves come for visit?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="138"  InstanceType= "comments" Score="0">
+			<PostId>4883</PostId>
+			<ParentPostId>6751</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-08T20:24:44.387</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Nice find. I took the liberty of adding some images and quotations from your linked article. Hope you don't mind and hope this will generate some interest with others.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="139"  InstanceType= "comments" Score="0">
+			<PostId>4908</PostId>
+			<ParentPostId>6749</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-13T16:43:19.017</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Uh... figs? ;-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="140"  InstanceType= "comments" Score="0">
+			<PostId>4909</PostId>
+			<ParentPostId>6764</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-13T21:20:27.357</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Your reasoning is bang on.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="141"  InstanceType= "comments" Score="0">
+			<PostId>4919</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Contributors>
+				<UserId>5974</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-19T04:50:02.077</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Was the bottle stored upright or on it's side? And it looks like rainwater is closed with a cork, is that right or is it a screwcap?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="142"  InstanceType= "comments" Score="0">
+			<PostId>4921</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Contributors>
+				<UserId>6672</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-19T13:21:16.610</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Montijello This bottle is a screwcap so I decided it would be fine to store upright in the refrigerator while I gave a few turns every so often. There appear to be no sediments on the bottom as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="143"  InstanceType= "comments" Score="1">
+			<PostId>5029</PostId>
+			<ParentPostId>6770</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-30T18:25:42.310</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This depends quite a bit on the region you're from and the drinks you have available to you, but a pretty common, widespread and popular sweet beer is 'Fruli' strawberry beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="144"  InstanceType= "comments" Score="1">
+			<PostId>5030</PostId>
+			<ParentPostId>6866</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-30T19:03:20.203</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Excellent suggestion, and a similar style to keep an eye out for is a shandy.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="145"  InstanceType= "comments" Score="0">
+			<PostId>5051</PostId>
+			<ParentPostId>6880</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-06-03T19:25:52.930</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd think vodka would pair well with the fruitier sodas. But really, though, if you need to pollute liquor with a soft drink, rye/ginger is the way to go ;)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="146"  InstanceType= "comments" Score="0">
+			<PostId>5052</PostId>
+			<ParentPostId>6885</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-06-05T00:13:51.003</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This picture doesn't have the toast in it, but it is common to float toast on top of the soup.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="147"  InstanceType= "comments" Score="0">
+			<PostId>5053</PostId>
+			<ParentPostId>6885</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-06-05T00:16:51.967</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The "Soupe au Vin" is the "Soupe au Vin" whether it is "sucré" (sugared) or not. [Soupe de vin rouge froide](http://allrecipes.fr/recette/7317/soupe-de-vin-rouge-froide.aspx). I Lived in France, where we simply called it the "Soupe au Vin". In any case, Thank you for your recommendation.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="148"  InstanceType= "comments" Score="0">
+			<PostId>5054</PostId>
+			<ParentPostId>6882</ParentPostId>
+			<Contributors>
+				<UserId>5816</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-06-06T05:53:48.757</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Would ruin the taste of the...Seagrams, if you ask me,
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="149"  InstanceType= "comments" Score="0">
+			<PostId>5290</PostId>
+			<ParentPostId>7091</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-29T02:17:17.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What do you mean by education?  Taste/judge or brew?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="150"  InstanceType= "comments" Score="0">
+			<PostId>5291</PostId>
+			<ParentPostId>7091</ParentPostId>
+			<Contributors>
+				<UserId>7295</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-29T05:54:49.120</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					More like combination of theoretical training and tasting. For example, Pilsner lecture should generally include brewing techniques, ingredients like types of hops and grains are used (maybe their special characters and their impact on a beer), and of course at the end tasting.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="151"  InstanceType= "comments" Score="0">
+			<PostId>5311</PostId>
+			<ParentPostId>7113</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-14T15:23:09.897</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Is tequila really that variable? I'd just get something with a similar style at a similar price point, or abandon the Don Julio and just look for a new, good tequila
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="152"  InstanceType= "comments" Score="0">
+			<PostId>5312</PostId>
+			<ParentPostId>7104</ParentPostId>
+			<Contributors>
+				<UserId>7272</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-14T16:13:27.853</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What you wrote is true but doesn't accurately answer the question. Usually when the same company has numerous breweries/factories, it uses the same methods and ingredients for manufacturing and moving its products. The only thing that is different is the water. This is also the reason why certain beverages taste different in each country. Take Coca-Cola for example - the formula is exactly the same everywhere but the water is different in each country. This is the reason why the taste is a bit different in each country.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="153"  InstanceType= "comments" Score="1">
+			<PostId>5313</PostId>
+			<ParentPostId>7121</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-15T14:06:50.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I had the same thoughts when reading the question. While I called it a 'liquor' in my answer because this is it's closest analog, in practice it's none of the three.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="154"  InstanceType= "comments" Score="0">
+			<PostId>5314</PostId>
+			<ParentPostId>7121</ParentPostId>
+			<Contributors>
+				<UserId>7429</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-16T01:42:39.207</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks for your answers jimmy and @mcraen. I know way more now than when I asked the question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="155"  InstanceType= "comments" Score="0">
+			<PostId>5461</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-08T08:53:33.700</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I know of low alcohol beer but have not seen the same in wine.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="156"  InstanceType= "comments" Score="0">
+			<PostId>5462</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-08T17:16:13.023</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hard Cider is a low alcohol substitute for wine. You will never get to zero alcohol and still have the same flavors, mouthfeel and effects as wine. Sorry.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="157"  InstanceType= "comments" Score="2">
+			<PostId>5464</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-09T16:10:35.957</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You make the statement about cancer risk as though it is a simple fact. It isn't. There is a fair amount of data that suggests that moderate wine drinking (especially red wine) can actually be good for your heart and perhaps even be protective for cancer. Certainly abusing alcohol has all sorts of problems, but lets not assume they apply universally to modest drinking.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

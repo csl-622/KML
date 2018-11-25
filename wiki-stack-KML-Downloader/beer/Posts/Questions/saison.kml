@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>36</PostId>
+			<AcceptedAnswerId>218</AcceptedAnswerId>
+			<Title>
+			"What glass shape is most commonly used for Saison's?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>saison</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>1156</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:03:10.783</CreationDate>
+				<LastActivityDate>2014-01-22T18:55:41.557</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>42</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a widely accepted glass shape/type for Saison's (and if so, what is it)? Is a different glass used for French Saison's vs. Belgian Saison's vs. other common Saison styles?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>338</PostId>
+			<Title>
+			"What are the defining characteristics of a Saison? What should I expect when I drink one?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>saison</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>7357</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-26T20:39:28.193</CreationDate>
+				<LastActivityDate>2015-06-18T15:18:52.910</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'll be the first to admit that I have, at best, the palate of a highly experienced amateur. I can tell an IPA from a Stout from a Doppelbock primarily on the common visual, olfactory, and above all else tastes that are found throughout any example of each style. However, while I've had many delightful 'Saisons' in my time as a drinker of beer, I've never been able to get a straight answer about what characteristics define the style. The best I've ever been able to get is vague handwavey historical notions about the beers role as a 'refreshing summer ale'.&lt;/p&gt;
+
+					&lt;p&gt;Which is... somewhat unsatisfying to someone who would hope that the term might actually &lt;em&gt;mean something&lt;/em&gt;. So, does it? If so, what? If I pick up a Saison from a brewery I've never heard of, what characteristics should I expect it to exhibit that earn it the name?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>777</PostId>
+			<Title>
+			"What gives a "smoky" beer a smoked flavor?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>flavor</tag>
+				<tag>saison</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>3244</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-10T17:06:45.270</CreationDate>
+				<LastActivityDate>2016-10-26T14:52:27.397</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>842</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently started getting interested in smoked beers. Quite a few years back, Shiner had a seasonal called Smokehouse. I didn't care for it. However, I've recently been intrigued by varieties of smoked saisons, ipas and marzenbiers. What makes a beer smoky? Is the flavor created by casking, adding flavor or part of the brewing process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

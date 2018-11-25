@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="7124"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-24T10:30:21.930</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7125"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-24T10:35:19.893</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7126"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-24T10:35:19.893</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7132"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-24T16:22:57.233</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7134"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-24T18:19:38.363</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7142"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-25T06:40:37.507</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7143"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-25T15:17:02.113</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7170"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2017-03-01T10:42:24.570</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7178"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2017-03-02T17:04:54.467</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7179"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Commentator"
+			</Title>
+			<TimeStamp>
+				<Date>2017-03-02T17:26:38.923</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7182"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Explainer"
+			</Title>
+			<TimeStamp>
+				<Date>2017-03-02T18:38:00.907</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7462"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2017-05-15T18:24:15.253</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7463"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2017-05-15T19:39:44.833</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8499"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2018-02-24T10:11:54.347</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8921"  UserId="6490" InstanceType= "badges">
+			<Title>
+			"Revival"
+			</Title>
+			<TimeStamp>
+				<Date>2018-07-06T23:43:32.853</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

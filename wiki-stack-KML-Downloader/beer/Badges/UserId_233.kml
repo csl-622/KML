@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="669"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-29T06:29:41.197</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="757"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-30T18:00:15.220</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="759"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-30T18:00:15.220</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="760"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-30T18:00:15.220</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="891"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-04T16:54:22.713</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="933"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-05T04:29:45.430</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="946"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-05T14:53:27.663</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2010"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-09-24T20:24:27.537</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3725"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-28T21:16:36.023</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5323"  UserId="233" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-01-28T21:03:38.923</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

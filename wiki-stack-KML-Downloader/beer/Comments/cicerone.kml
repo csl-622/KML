@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="2">
+			<PostId>391</PostId>
+			<ParentPostId>337</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-28T16:09:17.127</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I disagree with the close votes that the question is broad - there are only a few generally accepted ways of sampling a beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>5290</PostId>
+			<ParentPostId>7091</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-29T02:17:17.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What do you mean by education?  Taste/judge or brew?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5291</PostId>
+			<ParentPostId>7091</ParentPostId>
+			<Contributors>
+				<UserId>7295</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-29T05:54:49.120</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					More like combination of theoretical training and tasting. For example, Pilsner lecture should generally include brewing techniques, ingredients like types of hops and grains are used (maybe their special characters and their impact on a beer), and of course at the end tasting.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

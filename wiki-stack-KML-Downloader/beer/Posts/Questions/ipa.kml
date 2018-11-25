@@ -1,0 +1,679 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>11</PostId>
+			<Title>
+			"Do IPAs cause worse hangovers?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>21609</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:41:10.950</CreationDate>
+				<LastActivityDate>2015-04-16T22:42:06.990</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>20</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I usually drink &lt;em&gt;strong&lt;/em&gt; Belgian Ales, particularly Triples, Quads and Trappists, so I'm no stranger to strong beer.  But I've noticed that I get far, far worse hangovers when drinking IPAs.  &lt;/p&gt;
+
+					&lt;p&gt;Is there anything about IPAs that would make this possible?  The lower quality places like ask.com or Yahoo answers usually say no, that only ABV produces hangovers, though one source did seem to imply that IPAs have special ingredients that make this a possibility. &lt;/p&gt;
+
+					&lt;p&gt;So I want to ask the experts here: do IPAs have ingredients that other strong beers lack, that could exacerbate hangovers? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>28</PostId>
+			<AcceptedAnswerId>136</AcceptedAnswerId>
+			<Title>
+			"What are the differences between an IPA and its variants?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>18</Score>
+				<ViewCount>47529</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:58:13.430</CreationDate>
+				<LastEditDate>2014-01-22T05:50:20.457</LastEditDate>
+				<LastActivityDate>2014-01-22T05:50:20.457</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2</OwnerUserId>
+				<LastEditorUserId>2</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know what makes an IPA an IPA, but what are the unique characteristics of it's common variants? To be specific, the ones I'm interested in are Double IPA and Black IPA, but general differences between any other styles would be welcome too. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>235</PostId>
+			<AcceptedAnswerId>238</AcceptedAnswerId>
+			<Title>
+			"How does boil time directly affect ABV% &amp; IBU?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>1934</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:42:38.283</CreationDate>
+				<LastActivityDate>2014-04-19T06:59:41.323</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>162</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Dogfish Head makes IPAs called "60 Minute", "90 Minute", and "120 Minute". According to &lt;a href="https://en.wikipedia.org/wiki/Dogfish_Head_Brewery#IPAs"&gt;Wikipedia&lt;/a&gt;:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Their names refer to the length of the boil time of the wort in which the hops are continuously added.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;There is also a limited edition "75 Minute" which is really a blend of the 60 &amp;amp; 90 varieties.&lt;/p&gt;
+
+					&lt;p&gt;What I find odd however, is that these numbers also roughly correspond to the beers' ABV% &amp;amp; IBU.&lt;/p&gt;
+
+					&lt;p&gt;Again, from &lt;a href="https://en.wikipedia.org/wiki/Dogfish_Head_Brewery#List_of_beers_brewed"&gt;Wikipedia&lt;/a&gt;:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;60 Minute: 6.0% ABV, 60 IBU&lt;/li&gt;
+					&lt;li&gt;90 Minute: 9.0% ABV, 90 IBU&lt;/li&gt;
+					&lt;li&gt;120 Minute: 18% ABV, 120 IBU&lt;/li&gt;
+					&lt;li&gt;75 Minute: 7.5% ABV, (no IBU listed)&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Generally, the ABV% is about one-tenth the boil time in minutes, while the IBU is directly equivalent. Is this naturally due to the chemical reactions which occur during this part of the brewing process, or must Dogfish Head be doing something in particular which leads to an abnormally tight correlation here?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>440</PostId>
+			<Title>
+			"What food pairs well with an IPA?"
+			</Title>
+			<Tags>
+				<tag>pairing</tag>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>5988</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-30T06:37:49.347</CreationDate>
+				<LastActivityDate>2016-12-12T20:30:54.303</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Consider your average american IPA.  What food would go well with it?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>446</PostId>
+			<Title>
+			"How long can you age an ipa?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>aging</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>6600</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-30T17:30:49.767</CreationDate>
+				<LastActivityDate>2015-03-26T07:27:42.003</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I understand IPAs are less amenable to aging than, say, a barely wine.  But how long, specifically, can you age an IPA - days, months, a year or two?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>605</PostId>
+			<AcceptedAnswerId>624</AcceptedAnswerId>
+			<Title>
+			"Does beer suffer from being warmed and then rechilled?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>35</Score>
+				<ViewCount>75330</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-15T00:09:29.893</CreationDate>
+				<LastActivityDate>2017-01-28T04:57:35.787</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>479</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I typically prefer my beer only a bit cold, so when I buy a 12-pack from a store's cooler I typically just leave it out. The excess I'll refrigerate at the end of the night, and sometimes repeat the process with the same beer on a different night.&lt;/p&gt;
+
+					&lt;p&gt;Does this affect the quality of the beer in some chemical way? I almost exclusively drink IPA's and personally never notice a difference, but many of my friends have commented on the habit of mine to let beer warm.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>606</PostId>
+			<AcceptedAnswerId>611</AcceptedAnswerId>
+			<Title>
+			"What are some high-ABV IPA's in the Northeast United States?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>abv</tag>
+				<tag>united-states</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>1223</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-15T00:32:23.547</CreationDate>
+				<LastEditDate>2014-02-15T21:58:24.237</LastEditDate>
+				<LastActivityDate>2014-02-16T05:06:51.113</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>479</OwnerUserId>
+				<LastEditorUserId>31</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm very familiar with Dogfishhead's series of 60/75/90/120 minute IPA's, Harpoon's Leviathan, and have recently found new favorites in Sixpoint Hi-Res and Resin.&lt;/p&gt;
+
+					&lt;p&gt;What are some similar high-ABV Double/Imperial IPA's in this area?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>647</PostId>
+			<Title>
+			"Where can I find a Coriolis IPA in the UK?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>49</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-02T23:41:38.690</CreationDate>
+				<LastActivityDate>2014-03-04T20:50:55.653</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>595</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;We tried the amazing Coriolis IPA by New England Brewery during a trip to the USA. However, upon our return to the UK, we have been unable to find it anywhere.&lt;/p&gt;
+
+					&lt;p&gt;Long shot, but has anyone ever seen/found this beer in the UK? &lt;/p&gt;
+
+					&lt;p&gt;Thank you for the help!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>768</PostId>
+			<AcceptedAnswerId>824</AcceptedAnswerId>
+			<Title>
+			"What is a "White IPA" and is it actually an IPA?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>2678</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-05T19:32:49.003</CreationDate>
+				<LastActivityDate>2014-05-29T13:49:16.033</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What is a "White IPA" and can it actually be considered an IPA?&lt;/p&gt;
+
+					&lt;p&gt;I'm asking in general but specifically I'm having a Deschutes Chainbreaker White IPA.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>769</PostId>
+			<AcceptedAnswerId>776</AcceptedAnswerId>
+			<Title>
+			"Bellwoods Brewery Beer in the UK"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>local</tag>
+				<tag>buying</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>119</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-05T19:34:34.940</CreationDate>
+				<LastActivityDate>2014-05-09T19:01:53.327</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>847</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;So, I was in Toronto (Canada) a little while ago and absolutely fell in love with a couple of the beers from &lt;a href="http://bellwoodsbrewery.com/" rel="noreferrer"&gt;Bellwoods Brewery&lt;/a&gt;. Specifically:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Witchshark; and&lt;/li&gt;
+					&lt;li&gt;Monogamy&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;I have been casually looking online to see if I could find their beers here in the London (England) or on the internet, but with no luck.&lt;/p&gt;
+
+					&lt;p&gt;Anyone know if I can find these beers somewhere?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>934</PostId>
+			<AcceptedAnswerId>936</AcceptedAnswerId>
+			<Title>
+			"Is Heady Topper by The Alchemist worth it?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>5188</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-16T19:18:37.623</CreationDate>
+				<LastActivityDate>2015-10-25T18:23:18.643</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1104</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have heard a lot about Heady Topper, the Double IPA by The Alchemist brewery, and how it is a fantastic beer. Online reviews always rank it exceptionally high and everyone I have asked that has tried it has said it was good. However, I have also been told that it is fairly pricey; due to name, renown, and the exclusivity of it. Would it be worth trying to get or order some?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>3436</PostId>
+			<AcceptedAnswerId>3440</AcceptedAnswerId>
+			<Title>
+			"In Germany, Out of pale ale"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>german-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>1122</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-29T13:58:19.923</CreationDate>
+				<LastActivityDate>2015-07-20T13:23:29.790</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4270</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;As a person of good beer taste, I have moved to Germany and to my horror I discovered, nobody here considers Indian Pale Ale to be beer.&lt;/p&gt;
+
+					&lt;p&gt;Having looked intensively for Indian Pale Ale for several years now, I only found it in one bar that has it occationally and one "Späti" (Liquor/Tobaco store).&lt;/p&gt;
+
+					&lt;p&gt;Am I missing something? Do Germans have some alternative to Indian Pale Ale or are they a lost nation missing out on imho. one of the best beer types in the world?&lt;/p&gt;
+
+					&lt;p&gt;They have things here like Bock, Doppelbock and other strange things I never heard of. Are any of these similar in taste to Indian Pale Ale?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>3446</PostId>
+			<AcceptedAnswerId>3477</AcceptedAnswerId>
+			<Title>
+			"Any advice on good breweries near São Paulo - Brazil?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>local</tag>
+				<tag>ipa</tag>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>89</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-01T11:39:05.320</CreationDate>
+				<LastEditDate>2015-07-19T06:13:13.943</LastEditDate>
+				<LastActivityDate>2015-07-19T06:13:13.943</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4281</OwnerUserId>
+				<LastEditorUserId>4324</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am moving back home in the next few days and the idea of importing all my beer does not seem reasonable.&lt;/p&gt;
+
+					&lt;p&gt;I'm willing to try any kind of beer, but my preference is for IPA's and Belgian Strong pale ales.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>3464</PostId>
+			<Title>
+			"De Ranke XXX Beer"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>768</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-15T00:34:56.987</CreationDate>
+				<LastActivityDate>2016-07-26T15:09:14.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;From beer advocate, it says that the XXX beer from De Ranke brewery is &lt;strong&gt;no longer brewed&lt;/strong&gt;. (&lt;a href="http://www.beeradvocate.com/beer/profile/739/97035/" rel="nofollow"&gt;http://www.beeradvocate.com/beer/profile/739/97035/&lt;/a&gt;). It's no longer on their brewery page too: &lt;a href="http://www.deranke.be/en/bieren_en.htm" rel="nofollow"&gt;http://www.deranke.be/en/bieren_en.htm&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;It's not exactly the kind of belgium kind of belgium pale ale, famous for their bitterness, it's normally criticized for being too bitter in normal crowd-source reviews. &lt;/p&gt;
+
+					&lt;p&gt;Sometime ago I saw this tweet that says XXX scored an IBU 70 (&lt;a href="https://twitter.com/beergusto/status/435908275863687168" rel="nofollow"&gt;https://twitter.com/beergusto/status/435908275863687168&lt;/a&gt;).&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Does anyone has any more information on the XXX?&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;And also how can I get hold of one now?&lt;/strong&gt; &lt;strong&gt;Is there like a beer amazon or something?&lt;/strong&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>4571</PostId>
+			<AcceptedAnswerId>4572</AcceptedAnswerId>
+			<Title>
+			"What exactly is an XPA?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>10813</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-10T17:48:02.347</CreationDate>
+				<LastActivityDate>2015-09-10T19:51:37.087</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>17</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The other day I ordered an Eagle Rock Brewery XPA on tap. At the time, I had no idea what that was, but according to the &lt;a href="http://eaglerockbrewery.com/group/revolutionxpa" rel="noreferrer"&gt;brewer's site&lt;/a&gt;:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Extra Pale Ale (XPA) is a variation of American pale ale – bright and refreshing with a substantial hop presence.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;I'm guessing the thing that is "extra" is the paleness. To my (very) untrained palate, it tasted pretty much like any other IPA/APA I've ordered. Maybe it was a bit more bitter though? &lt;/p&gt;
+
+					&lt;p&gt;Is there any standard that differentiates an XPA from other American pale ales?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>4778</PostId>
+			<Title>
+			"Why do Double IPAs (aka Imperial IPAs, IIPAs) tend to be sweeter than regular IPAs?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>672</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-16T05:10:11.163</CreationDate>
+				<LastActivityDate>2016-01-20T16:45:29.000</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why do Double IPAs tend to be sweeter than regular IPAs? (I personally have in mind Ninkasi's Tricerahops and Saint Archer's Double IPA.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>4863</PostId>
+			<Title>
+			"Is overcarbonated IPA an IPA or a different style?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>57</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-25T10:56:09.437</CreationDate>
+				<LastActivityDate>2016-02-25T17:07:36.473</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5138</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I usually brew my own beer. I prefer IPA (American) to all other styles. I like more carbonated beers (with CO2 volume &gt;4, refer to the chart -&lt;a href="http://www.drinktanks.com/wp-content/uploads/2015/02/CARBONATION_CHART_DRINKTANKS.png" rel="noreferrer"&gt;http://www.drinktanks.com/wp-content/uploads/2015/02/CARBONATION_CHART_DRINKTANKS.png&lt;/a&gt;). Would an overcarbonated hoppy (IBU &gt;70) ale qualify as an IPA or would that be a completely different style?&lt;/p&gt;
+
+					&lt;p&gt;Thank you.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>4867</PostId>
+			<AcceptedAnswerId>4868</AcceptedAnswerId>
+			<Title>
+			"What makes IPAS stronger than "regular" beers"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>8019</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-25T19:51:48.930</CreationDate>
+				<LastActivityDate>2016-04-07T02:32:08.470</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5144</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've only tried IPAS once, but when I can regularly drink 6 beers without feeling any type of alcohol in my system, it only took one and a half pints for me to feel the alcohol kicking in when drinking the IPA. I just know what it stands for but I have 0 knowledge about them, are they beers? how are they much stronger than regular beers? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>4869</PostId>
+			<AcceptedAnswerId>4883</AcceptedAnswerId>
+			<Title>
+			"What's the difference between a Triple IPA and a Double IPA?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ipa</tag>
+				<tag>imperial-ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>9820</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-25T22:15:33.670</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-02-28T18:59:46.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5107</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;One of the recent trends I've noticed is that breweries are starting to come out with Triple IPAs. (In fact, there's a triple IPA week in the Seattle area.) But what exactly distinguishes the Triple IPA from a Double IPA?&lt;/p&gt;
+
+					&lt;p&gt;[Note that this was not included in &lt;a href="https://alcohol.stackexchange.com/questions/28/what-are-the-differences-between-an-ipa-and-its-variants"&gt;IPA and variants question&lt;/a&gt;, nor is it discussed in the &lt;a href="https://alcohol.stackexchange.com/questions/4778/why-do-double-ipas-aka-imperial-ipas-iipas-tend-to-be-sweeter-than-regular-ip"&gt;IPA vs. DIPA sweetness question&lt;/a&gt;.]&lt;/p&gt;
+
+					&lt;p&gt;Edit: This is decidedly NOT the same as the question regarding dubbels vs. tripels (which are Abbey-style Belgian ales, and remarkably different in style from a double or triple IPA).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>4907</PostId>
+			<AcceptedAnswerId>4909</AcceptedAnswerId>
+			<Title>
+			"What's the difference between imperial pale ale and indian pale ale?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>imperial-ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>6122</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-02T02:51:41.993</CreationDate>
+				<LastActivityDate>2016-04-07T01:06:13.237</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5272</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've seen both refered to as IPA, which is the real IPA and how are they different?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

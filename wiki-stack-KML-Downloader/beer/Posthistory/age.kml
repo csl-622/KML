@@ -1,0 +1,674 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>101</PostId>
+			<ParentPostId>37</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:03:35.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Sometimes I buy beer more quickly than I can drink it -- a sad state of affairs, I know, but it happens.  I know that some beers are best drunk within a few weeks and others can be fine for months, but I don't know which are which.  What are the rules of thumb for this?  How can I determine how long a bottle of beer will keep before starting to lose its taste?  (Assume appropriate storage.)
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>102</PostId>
+			<ParentPostId>37</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:03:35.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I determine the shelf life of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>103</PostId>
+			<ParentPostId>37</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:03:35.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, age, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>284</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:47.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know friends who have "aged" beers to around the 1 year mark. Typically I've heard of stouts and porters aging well. Is the aging style related? If so, what styles can you age and for how long?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>285</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:47.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What styles of beer can you age?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>286</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:47.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, age, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Post Closed" >
+			<PostId>490</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:08:19.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[99],"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":83,"DisplayName":"akaykay"},{"Id":27,"DisplayName":"object88"},{"Id":7,"DisplayName":"Tom Medley"},{"Id":138,"DisplayName":"Lucas Kauffman"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>3294</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-04T00:25:40.840</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>961</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Pretty much this. I'm storing/aging bottles. They've been in my fridge for 6+ months now. I want to leave them there at least another 6+ months and on. But I've read aging beers in fridge is a "bad" idea because the cork will dry up. (All my bottles have corks). Temperature in the fridge is just above 32F (0 celsius)
+
+					I've talked to my father recently who's more into wine and told me I should get them out of the fridge and leave them somewhere else. That somewhere else is pitch black, pretty much on a cool floor and ambient temperature is about 65F(18 celsius), 85% humidity (http://i.imgur.com/rJNglxK.jpg)
+
+					Is there a risk to change the ambient temperature while it is aging, am I better getting them out of the fridge or does it matter little. I have a few bottles I've left out of the fridge in that place already. Should they go into the fridge? I'm also a bit curious as to why as well how it would affect the beers.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>3295</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-04T00:25:40.840</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>961</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm aging a few bottles. They've been in the fridge for a while. Should I take them out now?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>3296</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-04T00:25:40.840</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>961</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, aging, age, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>3297</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-04T00:52:30.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/473990643656564736
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>8949</PostId>
+			<ParentPostId>4931</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T02:30:29.733</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently came across a bottle of Pino Grigio that's a few years old (label says 2012, and that's probably when it was bought).  We usually only break out a bottle of wine for guests or a special occasion -- exactly the wrong time to find out that it's way past its use-by date.  We're usually more prompt in our consumption; this was an oversight.
+
+					I have the impression that whites are more fragile than reds in this regard, and that less-dry wines are more fragile than drier ones.  (Please correct any misunderstandings.)  How likely is it that I could serve this wine to people I like?  More generally, how long is too long?
+
+					The wine has been stored at room temperature in a room that isn't too hot (but isn't a cellar either), away from light.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>8950</PostId>
+			<ParentPostId>4931</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T02:30:29.733</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the shelf life for (unopened) Pino Grigio?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>8951</PostId>
+			<ParentPostId>4931</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T02:30:29.733</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					age, wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Tags" >
+			<PostId>9337</PostId>
+			<ParentPostId>4931</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-03T14:34:37.663</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					age, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>9431</PostId>
+			<ParentPostId>5092</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T12:46:24.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5548</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've noticed that on the label on some whiskey bottles it say "distilled 2010 | bottled 2016"
+
+					Is a Whiskey in that case then categorized as a six-year-old whiskey or one-year-old (or zero) whiskey?
+
+					I'm getting a daughter this year and I would love to buy a bottle of whiskey from the year she is born (which of cause if this year, 2016) but the only whiskey I can find is where it's bottled 2016.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>9432</PostId>
+			<ParentPostId>5092</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T12:46:24.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5548</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Whiskey: Year is it from distilled or bottled?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>9433</PostId>
+			<ParentPostId>5092</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T12:46:24.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5548</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					whiskey, age, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>9554</PostId>
+			<ParentPostId>5092</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-17T10:03:36.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/743745902611836929
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Unknown" >
+			<PostId>9721</PostId>
+			<ParentPostId>4931</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-28T14:20:02.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/747796704229990404
+			</EditDetails>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>10907</PostId>
+			<ParentPostId>6235</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-17T00:03:38.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I drink mixed drinks infrequently, so it takes me a while to go through a bottle of rum, whisky, or vodka.  Thus far I haven't noticed a problem with, say, a two-year-old (opened) bottle of any of these, but on the other hand, if they were degrading slowly I might not notice.  Does the flavor of hard liquors change over time after the bottle has been opened?  (Assume it is tightly recapped after use.)  And are there any safety considerations?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>10908</PostId>
+			<ParentPostId>6235</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-17T00:03:38.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does hard liquor keep forever?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>10909</PostId>
+			<ParentPostId>6235</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-17T00:03:38.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					age, spirits, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>10944</PostId>
+			<ParentPostId>6235</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-24T13:37:46.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/768442176388861952
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Edit Body" >
+			<PostId>11179</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-08T14:41:21.000</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting. and added linked image.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Pretty much this. I'm storing/aging bottles. They've been in my fridge for 6+ months now. I want to leave them there at least another 6+ months and on. But I've read aging beers in fridge is a "bad" idea because the cork will dry up. (All my bottles have corks). Temperature in the fridge is just above 32F (0 celsius)
+
+					I've talked to my father recently who's more into wine and told me I should get them out of the fridge and leave them somewhere else. That somewhere else is pitch black, pretty much on a cool floor and ambient temperature is about [65F(18 celsius), 85% humidity](http://i.imgur.com/rJNglxK.jpg)
+
+					[![Temperature and Humidity][1]][1]
+
+					Is there a risk to change the ambient temperature while it is aging, am I better getting them out of the fridge or does it matter little. I have a few bottles I've left out of the fridge in that place already. Should they go into the fridge? I'm also a bit curious as to why as well how it would affect the beers.
+
+
+					  [1]: http://i.stack.imgur.com/jPLFA.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>13790</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-03T00:13:33.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7617</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					how to check how old is this scotch whisky?
+
+					https://www.upload.ee/image/8123374/image.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>13791</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-03T00:13:33.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7617</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where I can check whisky year
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>13792</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-03T00:13:33.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7617</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					whiskey, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Edit Body" >
+			<PostId>13795</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-03T14:54:31.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<EditDetails>
+				added 40 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How to check how old this scotch whisky is?
+
+					[![enter image description here][1]][1]
+
+					  [1]: https://i.stack.imgur.com/hLVLe.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Edit Title" >
+			<PostId>13796</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-03T14:54:31.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<EditDetails>
+				added 40 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where I can check the age of this whisky?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Edit Tags" >
+			<PostId>13797</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-03T14:54:31.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<EditDetails>
+				added 40 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					whiskey, age, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Edit Body" >
+			<PostId>13822</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-22T02:13:03.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7635</UserId>
+			</Contributors>
+			<EditDetails>
+				Alt text for image. Made title more specific
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How to check how old this scotch whisky is?
+
+					[![Grant's Family Reserve Finest Scotch Whisky][1]][1]
+
+					  [1]: https://i.stack.imgur.com/hLVLe.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Edit Title" >
+			<PostId>13823</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-22T02:13:03.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7635</UserId>
+			</Contributors>
+			<EditDetails>
+				Alt text for image. Made title more specific
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where I can check the age of this blended scotch whisky?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Unknown" >
+			<PostId>13824</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-22T02:13:03.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7635 approved by 43 edit id of 323
+			</EditDetails>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>13839</PostId>
+			<ParentPostId>7202</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-26T17:42:51.287</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/978326426712756224
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

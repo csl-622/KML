@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>15</PostId>
+			<AcceptedAnswerId>197</AcceptedAnswerId>
+			<Title>
+			"Why doesn't bottled beer taste as good as draught beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>draught</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>16</Score>
+				<ViewCount>2030</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:45:28.747</CreationDate>
+				<LastActivityDate>2017-01-11T00:52:20.037</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>25</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Bottled beer is significantly different than the same label beer available on tap.&lt;/p&gt;
+
+					&lt;p&gt;How does bottled beer differ from draught beer? What is done to the bottled beer in order to prolong its shelf life in the bottle?&lt;/p&gt;
+
+					&lt;p&gt;And finally, why does draught beer taste so much better than bottled beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>54</PostId>
+			<Title>
+			"Beer in plastic bottles and health aspects"
+			</Title>
+			<Tags>
+				<tag>bottling</tag>
+				<tag>health</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>824</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:16:21.083</CreationDate>
+				<LastActivityDate>2014-01-21T21:35:15.343</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are there any potential health risk connected with drinking beer from plastic PET bottles?&lt;/p&gt;
+
+					&lt;p&gt;The beer in many countries, including Germany, is widely available in plastic recyclable bottles. Does it have any negative impact on health? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>58</PostId>
+			<Title>
+			"Impact of bottling in plastic on beer taste"
+			</Title>
+			<Tags>
+				<tag>bottling</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>134</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:17:52.263</CreationDate>
+				<LastEditDate>2018-04-20T15:03:58.590</LastEditDate>
+				<LastActivityDate>2018-04-20T15:03:58.590</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+				<LastEditorUserId>187</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer is commonly bottled in plastic bottles in Germany. Does drinking beer from plastic have some negative impact on beer taste? &lt;/p&gt;
+
+					&lt;p&gt;Or are the materials from which the bottles are made chosen so that they don't interact chemically with beer, or in any way change the taste?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>63</PostId>
+			<AcceptedAnswerId>75</AcceptedAnswerId>
+			<Title>
+			"Why does Guinness have a special pouring process / bottle, while other stouts do not?"
+			</Title>
+			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>1458</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:22:24.927</CreationDate>
+				<LastActivityDate>2015-01-20T15:34:34.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>56</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness is sold in bottles and cans with special nitrogen widgets; the taps are specially rigged to have a two-step pouring process; heck, there's even a certificate given to people who learn how to "pour the perfect pint" at the Guinness factory in Dublin.  My question is: what makes Guinness so special? Why aren't these tactics used by other stout (or similar variants) producers?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>64</PostId>
+			<AcceptedAnswerId>104</AcceptedAnswerId>
+			<Title>
+			"Should I get beer in bottles or in cans?"
+			</Title>
+			<Tags>
+				<tag>bottling</tag>
+				<tag>storage</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>538</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:22:35.577</CreationDate>
+				<LastEditDate>2014-01-21T21:28:56.820</LastEditDate>
+				<LastActivityDate>2014-02-07T06:20:49.997</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>53</OwnerUserId>
+				<LastEditorUserId>53</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Sometimes, companies offer the same beer in bottles and in cans. Everything else being equal, should I go for the bottle or the can? I know that e.g. Guinness have their "floating widget" in their cans that releases nitrogen when you open it, but assume that this isn't the case.&lt;/p&gt;
+
+					&lt;p&gt;In particular, I'm looking for the effects the inner coating/material of cans has on beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>192</PostId>
+			<Title>
+			"Does the choice of bottle cap or stopper make a difference?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>893</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T13:43:40.900</CreationDate>
+				<LastActivityDate>2014-01-22T16:24:59.820</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>85</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Does the choice of bottle cap design have any effect on the beer itself? With the primary goal being to keep the beer pressurized and prevent exposure, how do the different stoppers stack up against each other?&lt;/p&gt;
+
+					&lt;p&gt;It would seem to me that both the twist-top and flip-top cap designs provide roughly the same quality of seal, although a twist-top comes off easier and may be prone to opening during transport.&lt;/p&gt;
+
+					&lt;p&gt;In my experience, the flip-top caps, the ones where you need a bottle opener (or wooden table, or set of house keys) to get open, tend to come on the more mid-range to expensive beers whereas the standard, mass-produced cheapies come with a screw-off cap. Although, this isn't universal. I wonder if this is just a marketing technique (it needs a bottle opener so it &lt;em&gt;must&lt;/em&gt; be good).&lt;/p&gt;
+
+					&lt;p&gt;Then there are the swing tops, which have a swinging metal bracket which, when pushed down, plugs the opening of the bottle with a rubber washer. Is this any better or worse than the bottle caps? I've always liked them for home brewing because they're easily recyclable.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>210</PostId>
+			<AcceptedAnswerId>213</AcceptedAnswerId>
+			<Title>
+			"What's the benefit of cap *and* cork?"
+			</Title>
+			<Tags>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>100</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T17:34:23.803</CreationDate>
+				<LastActivityDate>2014-01-22T17:53:02.120</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some beers, like Lindemann's lambics, come in a bottle that resembles a champaigne bottle (but smaller), with a cork -- &lt;em&gt;and&lt;/em&gt; a bottlecap.  What does the cap add to this?  Why is it there?&lt;/p&gt;
+
+					&lt;p&gt;(By "resembles a champaigne bottle" I mean the glass is thicker and the bottom has that "indent" characteristic of bottles whose contents are under higher-than-normal pressure.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>3369</PostId>
+			<Title>
+			"How to determine where your beer was really bottled?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>159</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-08T18:22:31.777</CreationDate>
+				<LastActivityDate>2015-06-03T22:36:58.473</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4070</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have long entertained gossip from self-proclaimed "beer connoisseurs" that the Guiness I am drinking is not really brewed in Ireland, nor the Beck's from Germany. &lt;/p&gt;
+
+					&lt;p&gt;I would imagine that where you are in the world really does determine where your particular bottle of macro brand X was bottled, so my question is how can you determine the true origin of the bottle -- can you trust the location on the bottle next to "brewed and bottled by..."?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>3391</PostId>
+			<AcceptedAnswerId>3392</AcceptedAnswerId>
+			<Title>
+			"Why cork a beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>2520</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-29T12:44:10.360</CreationDate>
+				<LastEditDate>2015-05-29T16:43:25.707</LastEditDate>
+				<LastActivityDate>2015-07-17T19:37:59.737</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1104</OwnerUserId>
+				<LastEditorUserId>268</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have seen a lot of beers that have been corked and I can't really understand what the significance is. When I tried to look it up, most of what I found just related to how to properly store corked beer and similar means, but nothing really answering my question. I am trying to figure out what corking a beer actually does to it and if there are any real benefits. Is it simply a style choice or is it there for a reason, like it is for wine bottles. Does it actually have an effect on the beer's taste, quality, etc?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>5087</PostId>
+			<Title>
+			"muscadine wine fermenting"
+			</Title>
+			<Tags>
+				<tag>bottling</tag>
+				<tag>wine</tag>
+				<tag>fermentation</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>50</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-14T02:29:16.623</CreationDate>
+				<LastEditDate>2016-06-14T13:57:18.713</LastEditDate>
+				<LastActivityDate>2016-08-15T22:29:49.723</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5545</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I made wine last fall (2015) September and racked it one time.  After that
+					I left it in the carboys.  It stopped fermenting and cleared.  I never bottled it, it's still in there with the airator top on it.  Is it safe to bottle.  It looks good and doesn't smell. I followed the directions to ferment it and racking it.  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>6478</PostId>
+			<Title>
+			"Cling labels for beer bottles"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>57</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-09T01:04:53.513</CreationDate>
+				<LastActivityDate>2017-01-09T17:31:41.153</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6275</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Thinking of brewing my own beer and am interested in making some reusable labels using cling stickers - the kind you see for auto window stickers.&lt;/p&gt;
+
+					&lt;p&gt;Has anyone used cling labels and do they stay adhered when chilled and when the bottle has condensation?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>6728</PostId>
+			<AcceptedAnswerId>6730</AcceptedAnswerId>
+			<Title>
+			"Alternative corks vs natural corks. What is the difference?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>bottling</tag>
+				<tag>price</tag>
+				<tag>quality</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>232</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-02T12:39:12.970</CreationDate>
+				<LastEditDate>2017-04-02T15:31:50.163</LastEditDate>
+				<LastActivityDate>2017-04-02T22:34:40.507</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+				<LastEditorUserId>6366</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have noticed the proliferation in recent years of what most people refer to as 'plastic' corks in wine bottles.  It turns out not to be plastic, but Nomex.  My question(s) is (are):  What exactly is Nomex?  Is it a case of the fact that it doesn't leech into the wine?  Is there a standard/quality/bottle price issue regarding the usage of one type of cork over the other?  What other reasons are there for using a nomex opposed to cork 'cork'?&lt;/p&gt;
+
+					&lt;p&gt;EDIT TO QUESTION (visual of nomex corks):  The interior of the cork is sponge like, the out is hard.  I have tried googling this and cannot find what I am looking for.  It is not what passes for a synthetic cork.  Apogies for the quality of photo:
+					&lt;a href="https://i.stack.imgur.com/mTbwH.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/mTbwH.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

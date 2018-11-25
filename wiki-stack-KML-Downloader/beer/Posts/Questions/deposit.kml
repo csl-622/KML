@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>4799</PostId>
+			<AcceptedAnswerId>4800</AcceptedAnswerId>
+			<Title>
+			"Deposit on bottom beer bottle"
+			</Title>
+			<Tags>
+				<tag>deposit</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>206</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-02T16:10:39.360</CreationDate>
+				<LastEditDate>2016-02-02T23:18:03.360</LastEditDate>
+				<LastActivityDate>2016-02-04T09:12:02.227</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4938</OwnerUserId>
+				<LastEditorUserId>4938</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What is the residue some in bottled (special) beers. Is it true that it can cause flatulence?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

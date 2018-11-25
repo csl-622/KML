@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>14248</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T02:53:40.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any other alcohol related data?
+
+					I've found several: 
+
+					 - **Wine Review**: https://www.kaggle.com/zynicide/wine-reviews
+
+					 - **CellarTracker**: https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf (but not sure how to download the data)
+
+					 - **Beer Advocate** data: http://snap.stanford.edu/data/web-BeerAdvocate.html
+
+					 - **RateBeer** data: https://snap.stanford.edu/data/web-RateBeer.html
+
+					But I'm sure there are more that our community here would know. 
+
+
+					----
+
+					BTW, there's also this nice post on some analysis and demo on:
+					https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>14249</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T02:53:40.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Alcohol related data openly available
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>14250</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T02:53:40.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, craft-beers, reviews, data, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>14251</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T03:27:19.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				added 61 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any other alcohol related data?
+
+					I've found several: 
+
+					 - **Wine Review**: https://www.kaggle.com/zynicide/wine-reviews
+
+					 - **CellarTracker**: https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf (but not sure how to download the data)
+
+					 - **Beer Advocate** data: http://snap.stanford.edu/data/web-BeerAdvocate.html
+
+					 - **RateBeer** data: https://snap.stanford.edu/data/web-RateBeer.html
+
+					 - **US Beer Stats**: https://github.com/jasdumas/ttbbeer
+
+					But I'm sure there are more that our community here would know. 
+
+
+					----
+
+					BTW, there's also this nice post on some analysis and demo on:
+					https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Body" >
+			<PostId>14252</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-26T04:05:02.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any other alcohol related data?
+
+					I've found several: 
+
+					 - **Wine Review**: https://www.kaggle.com/zynicide/wine-reviews
+
+					 - **CellarTracker**: https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf (but not sure how to download the data)
+
+					 - **Beer Advocate** data: http://snap.stanford.edu/data/web-BeerAdvocate.html
+
+					 - **RateBeer** data: https://snap.stanford.edu/data/web-RateBeer.html
+
+					 - **US Beer Stats**: https://github.com/jasdumas/ttbbeer
+
+					 - **Alcohol Language Corpus** (recordings of people who are drunk): https://www.phonetik.uni-muenchen.de/Bas/BasALCeng.html
+
+					But I'm sure there are more that our community here would know. 
+
+
+					----
+
+					BTW, there's also this nice post on some analysis and demo on:
+					https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>14406</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-28T22:01:08.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>14572</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-27T23:00:33.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+	</KnowledgeData>
+</KML>

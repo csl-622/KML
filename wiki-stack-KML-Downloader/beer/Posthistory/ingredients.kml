@@ -1,0 +1,3284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>95</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:02:59.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some beers are marked as 'not suitable for vegans'. What is in the beer such that this is the case?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>96</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:02:59.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are some beers non-vegan?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>97</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:02:59.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>129</PostId>
+			<ParentPostId>53</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:14:30.290</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Various microbreweries make chocolate stout that does indeed, to varying degrees, taste of chocolate. Does it really contain chocolate, and how is chocolate used in the brewing process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>130</PostId>
+			<ParentPostId>53</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:14:30.290</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does chocolate stout contain real chocolate?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>131</PostId>
+			<ParentPostId>53</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:14:30.290</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					stout, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Body" >
+			<PostId>158</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:24.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				per comments
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some beers (for example, Guinness) are marked as 'not suitable for vegans'. What is in the beer such that this is the case?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>159</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:24.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 43 approved by 7 edit id of 7
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>444</PostId>
+			<ParentPostId>178</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T10:23:09.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know that it's typically what? yeast, hops, malted barley and water, but sometimes beer is made with other things, (eg wheat). 
+
+					What are some of the more typical alternative ingredients, and style beer does that make?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>445</PostId>
+			<ParentPostId>178</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T10:23:09.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What ingredients are used to make beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>446</PostId>
+			<ParentPostId>178</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T10:23:09.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>821</PostId>
+			<ParentPostId>315</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T03:26:55.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I enjoy the Sam Adams seasonal varieties, as they usually put people in the holiday spirit(s), etc., and they evoke the feeling of "only for a limited time" like a Shamrock shake at McDonalds.  
+
+					In that vein, were the beers originally designated "seasonal" due to the availability of certain ingredients during different times of the year (Harvest Pumpkin Ale springs to mind) or is this notion of a seasonal beer chiefly a marketing construct?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>822</PostId>
+			<ParentPostId>315</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T03:26:55.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Were the Sam Adams seasonal beers actually developed to accommodate seasonal availability of ingredients or are they just a marketing construct?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>823</PostId>
+			<ParentPostId>315</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T03:26:55.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, ingredients, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>1189</PostId>
+			<ParentPostId>53</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T19:25:06.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429334544316399616
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>1228</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T19:06:17.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Different beers and different types of storage result in different amounts of foam being produced when the beer is poured, from almost none at all to a glass full of foam.
+
+					What factors, both in terms of ingredients/type of beer and storage, affect how much foam will be produced? And, as a bonus question, how do I avoid excessive amounts of foam when pouring?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>1229</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T19:06:17.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What determines how much foam a beer produces when it is poured?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>1230</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T19:06:17.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, ingredients, pouring, foam, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>1252</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-02T04:25:10.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429832842617819136
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>1297</PostId>
+			<ParentPostId>513</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T04:51:53.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					After my taste adjusted to the flavors of IPAs, one of my favorites was He'brew Brewing's _Bittersweet Lenny_, which as it turns out is an IPA made with rye.  I poked around on BeerAdvocate, and found this long list of [rye beers][1], which seem to include pales, IPAs, and even a brown rye.
+
+					What constitutes a "rye" beer (i.e., a certain ratio of rye to other grain)?  Are there characteristics common to a rye beers, and if so, what are they?  In other words, if I like _a_ rye beer, am I likely to enjoy _any_ rye beer?
+
+
+					  [1]: http://beeradvocate.com/beer/style/12/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>1298</PostId>
+			<ParentPostId>513</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T04:51:53.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the characteristics of a rye beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>1299</PostId>
+			<ParentPostId>513</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T04:51:53.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>1307</PostId>
+			<ParentPostId>513</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T13:30:12.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430694780746891264
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>1422</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T04:36:06.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431285148597116928
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>1487</PostId>
+			<ParentPostId>574</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-09T17:14:51.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard this urban legend that when Guinness changed their brewing equipment at some point, people started to complain that the beer tasted worse. According to the legend, it turned out that before rats were getting into the barrels, drowned in them and thus gave Guinness its "unique flavour".
+
+					That legend aside (although I would also be interested to hear opinions on that), are there any beers that are deliberately brewed with meat or meat products? What does adding meat to the brewing process achieve?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>1488</PostId>
+			<ParentPostId>574</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-09T17:14:51.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are some beers brewed with meat?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>1489</PostId>
+			<ParentPostId>574</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-09T17:14:51.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Unknown" >
+			<PostId>1492</PostId>
+			<ParentPostId>574</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-09T22:36:42.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432644252552921088
+			</EditDetails>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>1926</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-29T14:57:04.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>412</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					White beer ("[witbier][1]" in Dutch) is a typical Dutch/Belgian thing, from research I found that it's wheat bear with flavours. This question is about the coriander flavour used in those beers.
+
+					The question is about the wheat bear siblings of white beer: Hefeweizen. Are there any hefeweizen that also are coriander-flavoured? To add a more subjective bonus question: are any of those commercially available?
+
+					I've tried [Googling][2], this mainly seems to lead to brewing recipes or extremely localized experiments. I've *assumed* (perhaps incorrectly) most if not all German candidates would be bound by the [Reinheitsgebot][3] and as such will not contain coriander. Finally, I've checked some Dutch beers (e.g. "Grolsch Weizen") marketed as "weizen" and the listed ingredients, but so far no dice.
+
+					To reiterate the question: **are there any hefeweizen beers with coriander commercially available?**
+
+
+					  [1]: http://en.wikipedia.org/wiki/Wheat_beer#Witbier
+					  [2]: https://www.google.nl/search?q=hefeweizen%20coriander
+					  [3]: http://beer.stackexchange.com/a/431/412
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>1927</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-29T14:57:04.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>412</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there Hefeweizen beers with coriander?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>1928</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-29T14:57:04.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>412</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>1931</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-30T05:01:10.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/450135625115893760
+			</EditDetails>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Body" >
+			<PostId>2062</PostId>
+			<ParentPostId>742</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T02:10:26.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>800</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does the presence of adjunct ingredients like rice or corn imply that these ingredients are always of the genetically modified variety?
+
+					I mean, if you are going to add adjuncts to a beer, the main reason is usually to reduce production costs right? In that case, GMO rice and corn adjuncts are the cheapest, so it seems to me like any beers using adjuncts will be using GMO adjuncts.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Title" >
+			<PostId>2063</PostId>
+			<ParentPostId>742</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T02:10:26.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>800</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are adjunct ingredients always GMO by default?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Tags" >
+			<PostId>2064</PostId>
+			<ParentPostId>742</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T02:10:26.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>800</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Body" >
+			<PostId>3607</PostId>
+			<ParentPostId>975</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-09T10:27:48.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1195</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would guess that a Porter pH is higher than for an IPA, because of alpha acids or other acids from the hops. I also heard that it can heavily  depend on the acidity of the water used. 
+
+					But anyway, are those pH differences really significant in the final product ? For instance, if I have an ulcer, would it be worse to drink some type of beer rather than an other ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Title" >
+			<PostId>3608</PostId>
+			<ParentPostId>975</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-09T10:27:48.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1195</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there any meaningful difference in acidity level between beer styles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Tags" >
+			<PostId>3609</PostId>
+			<ParentPostId>975</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-09T10:27:48.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1195</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Unknown" >
+			<PostId>3641</PostId>
+			<ParentPostId>975</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-18T13:47:23.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/501364740766326784
+			</EditDetails>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Body" >
+			<PostId>6176</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T14:06:57.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Was just curious about how the manufacturing of beer is done .
+					Can it be made at home also ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Title" >
+			<PostId>6177</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T14:06:57.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can a beer branded like Tuborg , Budwizer be made at home locally?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Tags" >
+			<PostId>6178</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T14:06:57.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Edit Body" >
+			<PostId>6182</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T21:05:59.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Clarify title to make it better match the question.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Was just curious about how the manufacturing of beer is done.
+					Can it be made at home also?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Edit Title" >
+			<PostId>6183</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T21:05:59.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Clarify title to make it better match the question.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Can a beer like Tuborg or Budweiser be made at home?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Body" >
+			<PostId>6369</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-23T20:48:19.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm having a party . I want to add favors to my already brewed beer. How an I do that and have it mix?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Title" >
+			<PostId>6370</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-23T20:48:19.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Post flavoring of beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Tags" >
+			<PostId>6371</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-23T20:48:19.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Edit Body" >
+			<PostId>6372</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-24T03:26:01.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 4 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm having a party and I want to add flavors to my already-brewed beer. How can I do that and have it mix?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Edit Title" >
+			<PostId>6373</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-24T03:26:01.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 4 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How can I add post-flavoring to beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Unknown" >
+			<PostId>6468</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-28T03:32:18.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/592894078745993216
+			</EditDetails>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Body" >
+			<PostId>6808</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-22T02:24:23.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What exactly is involved in the brewing process that turns a beer 'sour'?  Is it the addition of certain lactic acids or yeasts? I've been told before that, technically, a sour beer is a the result of the brewing process gone wrong (obviously this is controlled when that outcome is intentional). How true is this? 
+
+					The opinion part of my question: what are some excellent sour beers that you guys recommend? I have a few favorites, but am always looking for great suggestions. 
+
+					Some of my current favorites are Westbrook Gose (salty and sour), 4 Hands Prussia Berliner (passionfruit sour), New Belgian Hop Tart, Omer Vander's Cuvees Des Jacobins Rouge, and Brouwerij's Petrus Aged Ale 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Title" >
+			<PostId>6809</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-22T02:24:23.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Sour Beer (Gose, Wild Ales, Lambics)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Tags" >
+			<PostId>6810</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-22T02:24:23.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, ingredients, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Unknown" >
+			<PostId>6818</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-23T15:31:45.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/624240490695794688
+			</EditDetails>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Body" >
+			<PostId>8068</PostId>
+			<ParentPostId>4600</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-23T07:54:58.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4514</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know that exists those beers that uses fruits and then leaving beer with sugary taste, for example Belgian Hoergaaden with orange zest. But there are those without any fruit part and it's yet sweet.
+
+					I don't like too much these kind of beer but I don't what look for in orther to avoid them.
+
+					What kind of ingredients should I look for? Or maybe, should I look for ingredients that leave beer less sweet? 
+
+					P.S. My favorite kind of beer are Lager and Stout.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Title" >
+			<PostId>8069</PostId>
+			<ParentPostId>4600</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-23T07:54:58.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4514</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What ingredients leave beer with sugary taste?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Tags" >
+			<PostId>8070</PostId>
+			<ParentPostId>4600</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-23T07:54:58.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4514</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Unknown" >
+			<PostId>8081</PostId>
+			<ParentPostId>4600</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-27T10:24:23.250</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/648080737846079489
+			</EditDetails>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Edit Body" >
+			<PostId>8276</PostId>
+			<ParentPostId>4600</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-11T02:54:17.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4514</UserId>
+			</Contributors>
+			<EditDetails>
+				added 6 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I know that exists those beers that uses fruits and then leaving beer with sugary taste, for example Belgian Hoergaaden with orange zest. But there are those without any fruit part and it's yet sweet.
+
+					I don't like too much these kind of beer but I don't konow what look for in orther to avoid them.
+
+					What kind of ingredients should I look for? Or maybe, should I look for ingredients that leave beer less sweet? 
+
+					P.S. My favorite kind of beer are Lager and Stout.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Body" >
+			<PostId>8454</PostId>
+			<ParentPostId>4749</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T02:20:12.280</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4910</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer isn't for everyone. That's fair enough. However there are some people that get physically ill from it almost immediately.
+
+					Is there one (or more) specific ingredient in beer that can cause this? Or is it dependant on the consumer?
+
+					If it is the ingredients, is there a way to nullify/reduce the effects?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Title" >
+			<PostId>8455</PostId>
+			<ParentPostId>4749</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T02:20:12.280</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4910</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the ingredient(s) in beer that casues people to feel ill?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Initial Tags" >
+			<PostId>8456</PostId>
+			<ParentPostId>4749</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T02:20:12.280</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4910</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Edit Body" >
+			<PostId>8462</PostId>
+			<ParentPostId>4749</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T12:55:26.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1236</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling and title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Beer isn't for everyone. That's fair enough. However there are some people that get physically ill from it almost immediately.
+
+					Are there specific ingredients in beer that can cause this? Or is it dependent on the consumer?
+
+					If the ingredients cause this, is there a way to nullify/reduce the effects?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Edit Title" >
+			<PostId>8463</PostId>
+			<ParentPostId>4749</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T12:55:26.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1236</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling and title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What are the ingredients in beer that cause people to feel ill almost immediately?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Unknown" >
+			<PostId>8464</PostId>
+			<ParentPostId>4749</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T12:55:26.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 1236 approved by 73 edit id of 151
+			</EditDetails>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Body" >
+			<PostId>8636</PostId>
+			<ParentPostId>4811</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-08T05:12:49.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the most popular ingredient used in the making of gluten-free beers? Do they have a good shelve life or not? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Initial Title" >
+			<PostId>8637</PostId>
+			<ParentPostId>4811</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-08T05:12:49.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are some of the most common ingredients used in gluten-free beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Initial Tags" >
+			<PostId>8638</PostId>
+			<ParentPostId>4811</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-08T05:12:49.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Unknown" >
+			<PostId>8854</PostId>
+			<ParentPostId>4749</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-17T12:17:09.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/710439828802953216
+			</EditDetails>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Body" >
+			<PostId>9733</PostId>
+			<ParentPostId>5181</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-30T22:15:29.207</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5616</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I found a case of Scottish beer / bitter that I had forgotten about , it is out of date by 7 months , which normally would not stop me but it tastes watery , my question is can I re ferment it or add something to resurrect it ? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Title" >
+			<PostId>9734</PostId>
+			<ParentPostId>5181</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-30T22:15:29.207</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5616</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have a crate of out of date beer/bitter by 6 months , tastes watery , can I ressurect it in some way?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Tags" >
+			<PostId>9735</PostId>
+			<ParentPostId>5181</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-30T22:15:29.207</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5616</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Initial Body" >
+			<PostId>9781</PostId>
+			<ParentPostId>5202</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-14T14:47:49.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Being a huge fan of vinegar, I recently wondered if there are any actual known cocktail recipes/drinks that involve vinegar as an ingredient, preferably as a significant ingredient contributing perceivably to the drink's taste.
+
+					While there are drinks with a more spicy/hearty flavour, like *Bloody Mary*, I never heard of a cocktail involving vinegar and wonder if it would even work together with alcohol from a flavour-perspective. I could imagine the best targets to be spirits with a rather low-profile taste of their own, like vodka.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Title" >
+			<PostId>9782</PostId>
+			<ParentPostId>5202</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-14T14:47:49.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there drinks/cocktails involving vinegar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Tags" >
+			<PostId>9783</PostId>
+			<ParentPostId>5202</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-14T14:47:49.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, ingredients, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Edit Tags" >
+			<PostId>9847</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:35:52.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, recommendations, sour-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Edit Tags" >
+			<PostId>9848</PostId>
+			<ParentPostId>4811</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:36:35.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Initial Body" >
+			<PostId>10898</PostId>
+			<ParentPostId>6232</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-12T23:12:32.503</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I wondered about the alcohol in a beer and it was not on the can. Neither was ingredients or calories.  Why does beer not have to list that stuff but food does?  This is US TX.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Initial Title" >
+			<PostId>10899</PostId>
+			<ParentPostId>6232</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-12T23:12:32.503</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer label alocohol
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Tags" >
+			<PostId>10900</PostId>
+			<ParentPostId>6232</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-12T23:12:32.503</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Edit Body" >
+			<PostId>11005</PostId>
+			<ParentPostId>6232</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-04T07:27:31.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4045</UserId>
+			</Contributors>
+			<EditDetails>
+				Minor fixes
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I wondered about the alcohol in a beer and it was not on the can. Neither were ingredients or calories.  Why does beer not have to list that stuff but food does?  This is Texas.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Edit Title" >
+			<PostId>11006</PostId>
+			<ParentPostId>6232</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-04T07:27:31.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4045</UserId>
+			</Contributors>
+			<EditDetails>
+				Minor fixes
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Beer label alcohol
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Unknown" >
+			<PostId>11007</PostId>
+			<ParentPostId>6232</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-04T07:27:31.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4045 approved by 4903 edit id of 273
+			</EditDetails>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Body" >
+			<PostId>11334</PostId>
+			<ParentPostId>6380</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-09T23:54:21.367</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6092</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm planning on making sugar wine. I want to improve the flavor by adding mint but I don't know where I can get three cups of fresh mint. If I use mint extract, or mint oil will it do the same thing? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Title" >
+			<PostId>11335</PostId>
+			<ParentPostId>6380</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-09T23:54:21.367</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6092</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Mint sugar wine
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Initial Tags" >
+			<PostId>11336</PostId>
+			<ParentPostId>6380</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-09T23:54:21.367</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6092</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Unknown" >
+			<PostId>11337</PostId>
+			<ParentPostId>6380</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-11T01:01:49.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/796880577387524097
+			</EditDetails>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Initial Body" >
+			<PostId>11386</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Initial Title" >
+			<PostId>11387</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can absinthe be colored into a different colour other than green?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Initial Tags" >
+			<PostId>11388</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, colour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Unknown" >
+			<PostId>11389</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T20:09:29.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/802967600967929857
+			</EditDetails>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Edit Body" >
+			<PostId>11406</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-30T13:23:32.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<EditDetails>
+				Added image
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+
+					I'm attaching an image for you to know what I'm talking about:
+
+					[These are the ones I saw][1]
+
+
+					  [1]: https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Initial Body" >
+			<PostId>11428</PostId>
+			<ParentPostId>6418</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-08T04:07:34.553</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6180</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I love St. Germain, and it's become a staple at my house... but it is so damn expensive. I'd like to make a homemade version using elderflower cordial for a fraction of the price.
+
+					St. Germain lists their ingredients as: fruit Spirit, elderflower, sugar cane.
+					What type of fruit spirit is it? Pear / lychee?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Initial Title" >
+			<PostId>11429</PostId>
+			<ParentPostId>6418</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-08T04:07:34.553</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6180</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What fruit spirit is in St. Germain?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Initial Tags" >
+			<PostId>11430</PostId>
+			<ParentPostId>6418</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-08T04:07:34.553</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6180</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, spirits, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Unknown" >
+			<PostId>11442</PostId>
+			<ParentPostId>6418</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-12T12:29:50.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/808287747337232384
+			</EditDetails>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Initial Body" >
+			<PostId>11598</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-10T00:46:33.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6280</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Heracleum][1] or cow parsnips are high-latitude plants that can produce severe inflammation in humans. They seem like the last thing someone would want to ingest. However:
+
+					[Flora on Kamchatka: flowers and grasses][2]:
+
+					&gt; Puchka (Heracleum dulce) is an insidious plant. Its juice has a sweet taste, but leaves blisters and sores on the skin that ache for months! ... Cossacks distilled wine that produced a strange effect: after two or three glasses a person saw wonderful dreams, but in the morning felt so miserable as if he had committed a crime. 
+
+					[Mansfeld's Encyclopedia of Agricultural and Horticultural Crops][3]:
+
+					&gt; A psychoactive drink is made from the plant in Kamchatka.
+
+					While the first quote is about something like an accident, the second one seems to describe an ongoing practice. Which culture(s) used this hogweed preparation, and to what ends? Does it still exist today? Is the poisonous part of the plant avoided, and is the preparation truly psychoactive?
+
+					(Asked previously on History.SE, no bites there.)
+
+
+					  [1]: https://en.wikipedia.org/wiki/Heracleum_(plant)
+					  [2]: http://kamchatka.org.ru/eng/aboutK/flora.html
+					  [3]: https://books.google.com/books?id=10IMFSavIMsC&amp;pg=PA1325&amp;lpg=PA1325
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Initial Title" >
+			<PostId>11599</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-10T00:46:33.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6280</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Who made or makes spirits from poisonous Heracleum?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Initial Tags" >
+			<PostId>11600</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-10T00:46:33.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6280</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Unknown" >
+			<PostId>11608</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-11T05:51:27.903</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/819059126865108992
+			</EditDetails>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Edit Tags" >
+			<PostId>11617</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-14T17:16:45.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<EditDetails>
+				added history and preparation tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, ingredients, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Unknown" >
+			<PostId>11618</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-14T17:16:45.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5847 approved by 6280 edit id of 288
+			</EditDetails>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Initial Body" >
+			<PostId>11767</PostId>
+			<ParentPostId>6537</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T14:57:32.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6403</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any restrictions to mix alcohol with other things? A friend of mine mixed whisky with milk and then he turned sick. he got rashes all over his face. But when i searched a little bit it turned out it's fine to mix whisky and milk. I want to know are there any limitations for mixing or can we just add anything we want to alcohols(mostly any) for better taste.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Initial Title" >
+			<PostId>11768</PostId>
+			<ParentPostId>6537</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T14:57:32.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6403</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What to and what not to mix with alcohol
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Initial Tags" >
+			<PostId>11769</PostId>
+			<ParentPostId>6537</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T14:57:32.787</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6403</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					recommendations, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Unknown" >
+			<PostId>11778</PostId>
+			<ParentPostId>6537</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T17:55:46.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/831924981768544257
+			</EditDetails>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Initial Body" >
+			<PostId>11904</PostId>
+			<ParentPostId>6582</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-23T20:26:30.157</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6472</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Many cocktails such as fizzes call for an egg white (or an egg yolk in some cases).
+
+					Given that I'm not sure I would eat a raw egg, how safe is it to put one in my drink? Are there any alternatives I can use instead of egg white?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Initial Title" >
+			<PostId>11905</PostId>
+			<ParentPostId>6582</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-23T20:26:30.157</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6472</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How safe are eggs in cocktails like fizzes?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Initial Tags" >
+			<PostId>11906</PostId>
+			<ParentPostId>6582</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-23T20:26:30.157</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6472</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Edit Body" >
+			<PostId>12230</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T05:59:00.373</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6280</UserId>
+			</Contributors>
+			<EditDetails>
+				added 118 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					[Heracleum][1] or cow parsnips are high-latitude plants that can produce severe inflammation in humans. They seem like the last thing someone would want to ingest. However:
+
+					[Flora on Kamchatka: flowers and grasses][2]:
+
+					&gt; Puchka (Heracleum dulce) is an insidious plant. Its juice has a sweet taste, but leaves blisters and sores on the skin that ache for months! ... Cossacks distilled wine that produced a strange effect: after two or three glasses a person saw wonderful dreams, but in the morning felt so miserable as if he had committed a crime. 
+
+					[Mansfeld's Encyclopedia of Agricultural and Horticultural Crops][3]:
+
+					&gt; A psychoactive drink is made from the plant in Kamchatka.
+
+					While the first quote is about something like an accident, the second one seems to describe an ongoing practice. Which culture(s) used this hogweed preparation, and to what ends? Does it still exist today? Is the poisonous part of the plant avoided, and is the preparation truly psychoactive?
+
+					([Asked previously][4] on History.SE, -- somewhat resolved there)
+
+
+					  [1]: https://en.wikipedia.org/wiki/Heracleum_(plant)
+					  [2]: http://kamchatka.org.ru/eng/aboutK/flora.html
+					  [3]: https://books.google.com/books?id=10IMFSavIMsC&amp;pg=PA1325&amp;lpg=PA1325
+					  [4]: http://history.stackexchange.com/questions/34824/who-made-wine-from-poisonous-heracleum/36046
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Edit Title" >
+			<PostId>12231</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T05:59:00.373</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6280</UserId>
+			</Contributors>
+			<EditDetails>
+				added 118 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					somewhatWho made or makes spirits from poisonous Heracleum?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Unknown" >
+			<PostId>12241</PostId>
+			<ParentPostId>6582</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T12:13:25.280</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/842710460118044672
+			</EditDetails>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Edit Title" >
+			<PostId>12251</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T20:14:48.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				fixed typo in title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Who made or makes spirits from poisonous Heracleum?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Edit Body" >
+			<PostId>12317</PostId>
+			<ParentPostId>4600</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-27T02:14:46.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4514</UserId>
+			</Contributors>
+			<EditDetails>
+				corrected grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I know that exists those beers that uses fruits and then leaving beer with sugary taste, for example Belgian Hoergaaden with orange zest. But there are those without any fruit part and it's yet sweet.
+
+					I don't like too much these kind of beer but I don't know what look for in orther to avoid them.
+
+					What kind of ingredients should I look for? Or maybe, should I look for ingredients that leave beer less sweet? 
+
+					P.S. My favorite kind of beer are American Lager like Heineken, IPA and Stout from Ale family.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Initial Body" >
+			<PostId>12409</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T12:14:28.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have no experience in making [wine cocktails][1] and I would like recommendation of a "rose" colored wine cocktail.
+
+					The wine cocktail I am looking should be as close as possible to the color [rose][2] as possible. The color [pink][3] is generally much lighter in color than that of rose.
+
+					&gt; [Rose][2] is the color halfway between red and magenta.
+					&gt; 
+					&gt; [Pink][3] is a pale red color which takes its name from the flower of the same name.
+
+					If possible could answers include why one is making their recommendations, a recipe for usage and an image of the suggested wine cocktail or wine cocktails (if possible). 
+
+
+					  [1]: https://en.wikipedia.org/wiki/Wine_cocktail
+					  [2]: https://en.wikipedia.org/wiki/Rose_(color)
+					  [3]: https://en.wikipedia.org/wiki/Pink
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Initial Title" >
+			<PostId>12410</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T12:14:28.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Rose colored wine cocktail
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Initial Tags" >
+			<PostId>12411</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T12:14:28.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, recommendations, ingredients, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "118" InstanceType= "Edit Body" >
+			<PostId>12412</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T13:24:37.760</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				added 6 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have no experience in making [wine cocktails][1] and I would like a recommendation of a "rose" colored wine cocktail.
+
+					The wine cocktail I am looking for should be as close as possible to the color [rose][2] as possible. The color [pink][3] is generally much lighter in color than that of rose.
+
+					&gt; [Rose][2] is the color halfway between red and magenta.
+					&gt; 
+					&gt; [Pink][3] is a pale red color which takes its name from the flower of the same name.
+
+					If possible could answers include why one is making their recommendations, a recipe for usage and an image of the suggested wine cocktail or wine cocktails (if possible). 
+
+
+					  [1]: https://en.wikipedia.org/wiki/Wine_cocktail
+					  [2]: https://en.wikipedia.org/wiki/Rose_(color)
+					  [3]: https://en.wikipedia.org/wiki/Pink
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "119" InstanceType= "Initial Body" >
+			<PostId>12424</PostId>
+			<ParentPostId>6741</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-05T12:27:42.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The [Grande Chartreuse][1], just north of the city of Grenoble, France has been making Chartreuse since 1737 and is made with **130 herbs**, plants and flowers. Talk about drinking to your health, some say this is an excellent medicinal liqueur. Here in Canada, the Chartreuse liqueur is very expensive.
+
+					&gt; The two types of Chartreuse are:
+					&gt; 
+					&gt; Green Chartreuse (110 proof or 55%) is a naturally green liqueur made from 130 herbs and plants macerated in alcohol and steeped for about 8 hours. A last maceration of plants gives its colour to the liqueur.
+					&gt; 
+					&gt; Yellow Chartreuse (80 proof or 40%), which has a milder and sweeter flavour and aroma.
+
+					The actual recipe for the Green Chartreuse is known to only two Charthusian monks and is aged for five years, so no wonder it is so expensive.
+
+					&gt; The two monks charged with the duty oversee the entire production of Chartreuse. It begins in the monastery's herb room where the precise selection of herbs is bagged. These are then taken to the distillery and macerated with a neutral alcohol spirit which is then distilled. - [What is Chartreuse Liqueur?][2]
+
+					Does anyone know of a mock recipe for the Chartreuse Liqueur of 130 herbs?
+
+					[![Chartreuse Green Liqueur (750ml)][3]][3]
+
+					[Chartreuse Green Liqueur (750ml)][4]
+
+
+					  [1]: https://en.wikipedia.org/wiki/Grande_Chartreuse
+					  [2]: https://www.thespruce.com/about-chartreuse-liqueur-760267
+					  [3]: https://i.stack.imgur.com/35aFl.jpg
+					  [4]: https://www.drinkupny.com/Chartreuse-Green-Liqueur-p/s0081.htm
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "120" InstanceType= "Initial Title" >
+			<PostId>12425</PostId>
+			<ParentPostId>6741</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-05T12:27:42.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it possible to make a mock Chartreuse liqueur?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "121" InstanceType= "Initial Tags" >
+			<PostId>12426</PostId>
+			<ParentPostId>6741</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-05T12:27:42.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, liqueur, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "122" InstanceType= "Unknown" >
+			<PostId>12427</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-05T17:24:11.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/849674038171631619
+			</EditDetails>
+		</Instance>
+		<Instance Id= "123" InstanceType= "Edit Body" >
+			<PostId>12486</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T04:10:48.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added Linked Image for clarity.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+
+					I'm attaching an image for you to know what I'm talking about:
+
+					[These are the ones I saw][1]
+
+					[![Colored Absinthe][2]][2]
+
+
+					  [1]: https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg
+					  [2]: https://i.stack.imgur.com/XN8TE.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "124" InstanceType= "Edit Body" >
+			<PostId>12510</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					White beer ("[witbier][1]" in Dutch) is a typical Dutch/Belgian thing, from research I found that it's wheat bear with flavours. This question is about the coriander flavour used in those beers.
+
+					The question is about the wheat bear siblings of white beer: Hefeweizen. Are there any hefeweizen that also are coriander-flavoured? To add a more subjective bonus question: are any of those commercially available?
+
+					I've tried [Googling][2], this mainly seems to lead to brewing recipes or extremely localized experiments. I've *assumed* (perhaps incorrectly) most if not all German candidates would be bound by the [Reinheitsgebot][3] and as such will not contain coriander. Finally, I've checked some Dutch beers (e.g. "Grolsch Weizen") marketed as "weizen" and the listed ingredients, but so far no dice.
+
+					To reiterate the question: **are there any hefeweizen beers with coriander commercially available?**
+
+
+					  [1]: http://en.wikipedia.org/wiki/Wheat_beer#Witbier
+					  [2]: https://www.google.nl/search?q=hefeweizen%20coriander
+					  [3]: https://alcohol.stackexchange.com/a/431/412
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "125" InstanceType= "Edit Tags" >
+			<PostId>12524</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T12:22:37.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, colour, absinthe, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "126" InstanceType= "Edit Body" >
+			<PostId>12548</PostId>
+			<ParentPostId>6480</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T12:47:53.987</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://history.stackexchange.com/ with https://history.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					[Heracleum][1] or cow parsnips are high-latitude plants that can produce severe inflammation in humans. They seem like the last thing someone would want to ingest. However:
+
+					[Flora on Kamchatka: flowers and grasses][2]:
+
+					&gt; Puchka (Heracleum dulce) is an insidious plant. Its juice has a sweet taste, but leaves blisters and sores on the skin that ache for months! ... Cossacks distilled wine that produced a strange effect: after two or three glasses a person saw wonderful dreams, but in the morning felt so miserable as if he had committed a crime. 
+
+					[Mansfeld's Encyclopedia of Agricultural and Horticultural Crops][3]:
+
+					&gt; A psychoactive drink is made from the plant in Kamchatka.
+
+					While the first quote is about something like an accident, the second one seems to describe an ongoing practice. Which culture(s) used this hogweed preparation, and to what ends? Does it still exist today? Is the poisonous part of the plant avoided, and is the preparation truly psychoactive?
+
+					([Asked previously][4] on History.SE, -- somewhat resolved there)
+
+
+					  [1]: https://en.wikipedia.org/wiki/Heracleum_(plant)
+					  [2]: http://kamchatka.org.ru/eng/aboutK/flora.html
+					  [3]: https://books.google.com/books?id=10IMFSavIMsC&amp;pg=PA1325&amp;lpg=PA1325
+					  [4]: https://history.stackexchange.com/questions/34824/who-made-wine-from-poisonous-heracleum/36046
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "127" InstanceType= "Unknown" >
+			<PostId>12599</PostId>
+			<ParentPostId>6741</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-16T00:20:26.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/853402667648942082
+			</EditDetails>
+		</Instance>
+		<Instance Id= "128" InstanceType= "Initial Body" >
+			<PostId>13333</PostId>
+			<ParentPostId>7043</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-19T05:38:50.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What alcohol is made from the nectar of flowers like honey suckle? Where could I buy that?                                               
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "129" InstanceType= "Initial Title" >
+			<PostId>13334</PostId>
+			<ParentPostId>7043</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-19T05:38:50.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Made from flowers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "130" InstanceType= "Initial Tags" >
+			<PostId>13335</PostId>
+			<ParentPostId>7043</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-19T05:38:50.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, fermentation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "131" InstanceType= "Edit Body" >
+			<PostId>13346</PostId>
+			<ParentPostId>7043</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-19T22:08:48.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<EditDetails>
+				added 27 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What alcohol is made from the solely from the nectar of flowers (with no hops in it) like honey suckle? Where could I buy that?                                     
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "132" InstanceType= "Edit Body" >
+			<PostId>13347</PostId>
+			<ParentPostId>7043</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-20T04:27:21.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<EditDetails>
+				added 94 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What alcohol is made from the solely from the nectar of flowers (with no hops in it) like honey suckle? Where could I buy that? Pull a honey suckle flower inside there is about two drops of nectar collect enough to ferment.                                   
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "133" InstanceType= "Initial Body" >
+			<PostId>13438</PostId>
+			<ParentPostId>7076</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-15T17:31:02.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7273</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'd like to make a cocktail recipe I found which uses a Ginger Cardamom Simple syrup, but I can't take all that sugar. I typically use Torani's Sugar free syrup for drinks (which uses Splenda and some gums for viscosity), and I was wondering if anyone has tried infusing flavors into that syrup. If so did you heat it or just let it sit for X days?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "134" InstanceType= "Initial Title" >
+			<PostId>13439</PostId>
+			<ParentPostId>7076</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-15T17:31:02.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7273</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Has anyone tried infusing Torani sugar free syrup?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "135" InstanceType= "Initial Tags" >
+			<PostId>13440</PostId>
+			<ParentPostId>7076</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-15T17:31:02.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7273</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "136" InstanceType= "Initial Body" >
+			<PostId>14001</PostId>
+			<ParentPostId>7265</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-04T20:48:19.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Many drinks and cocktails are a mixture of different spirits with or without additional tastes introduced by juices, concentrates and/or other ingredients that create their special taste. 
+
+					My personal experience is that less components a cocktail has more specific the character of the drink seems to be. However, are there spirits (don't mention other ingredients) that never should be combined?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "137" InstanceType= "Initial Title" >
+			<PostId>14002</PostId>
+			<ParentPostId>7265</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-04T20:48:19.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any spirits that never should be combined in a cocktail or drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "138" InstanceType= "Initial Tags" >
+			<PostId>14003</PostId>
+			<ParentPostId>7265</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-04T20:48:19.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, spirits, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "139" InstanceType= "Unknown" >
+			<PostId>14016</PostId>
+			<ParentPostId>7265</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-08T13:32:35.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/993846123264724993
+			</EditDetails>
+		</Instance>
+		<Instance Id= "140" InstanceType= "Unknown" >
+			<PostId>14018</PostId>
+			<ParentPostId>6741</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-08T19:48:15.700</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "141" InstanceType= "Initial Body" >
+			<PostId>14260</PostId>
+			<ParentPostId>7360</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-28T20:35:11.550</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6788</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I like teas and I like how some people describe the different beer flavors, and I think it's very interesting, but unfortunately I'm not into alcohol or the beer brewing so far. I've heard the hobbyist brewers describe the grains as something that is basically readily edible and a great material to make tea out of by just steeping some in hot water, but I was never able to get enough information about that from the streams or texts, as it's not their main focus. So I decided to ask here.
+
+					There are exotic teas which are not teas at all, but collections of herbs or just a single herb or grain. Buckwheat tea is nice and I like the product called "barley tea". I don't know for sure whether it's actually what it says on the label, or if there are parts of grains which are usable as tea ingredients and parts which aren't, so I'd like to know everything about turning some tasty grains into non-alcoholic tea by just steeping them in hot water for some minutes.
+
+					For the sake of clarity, my questions are:
+
+					- Are there any beer brewing ingredients usable in making an "herbal tea"?
+					- Do the flavors which are normally expected to be found in beer after it's ready for pouring into glasses after a long time of sitting in kegs, translate into the tea which steeps for just minutes?
+					- If there's a gradation, which ingredients are the most appropriate for turning into tea?
+					- And lastly, if you have any recommendations, please throw them in at the end of your answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "142" InstanceType= "Initial Title" >
+			<PostId>14261</PostId>
+			<ParentPostId>7360</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-28T20:35:11.550</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6788</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can you make "herbal tea" out of beer brewing ingredients?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "143" InstanceType= "Initial Tags" >
+			<PostId>14262</PostId>
+			<ParentPostId>7360</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-28T20:35:11.550</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6788</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "144" InstanceType= "Initial Body" >
+			<PostId>14274</PostId>
+			<ParentPostId>7365</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-02T11:13:58.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently moved to a new city in Austria and have noticed that many (but not all, so it’s definitely not a problem with my taste perception) of the local red wines taste salty. I’ve tried red wines both on the cheaper and expensive side and they all give off this salty taste. Almost all that I’m referring to are Blauer Zweigelt variety. 
+					Is this salty taste coming from the grape variety, or could it be something else like my glass or detergent (I make sure that I wash the glass very thoroughly)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "145" InstanceType= "Initial Title" >
+			<PostId>14275</PostId>
+			<ParentPostId>7365</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-02T11:13:58.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do some wines taste salty?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "146" InstanceType= "Initial Tags" >
+			<PostId>14276</PostId>
+			<ParentPostId>7365</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-02T11:13:58.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, wine, flavor, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "147" InstanceType= "Initial Body" >
+			<PostId>14279</PostId>
+			<ParentPostId>7368</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-02T19:11:50.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am an amateur in the topic, so I was wondering, can all fruits be turned into wine? Why have grapes historically become the main fruit for wine making over other fruits? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "148" InstanceType= "Initial Title" >
+			<PostId>14280</PostId>
+			<ParentPostId>7368</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-02T19:11:50.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can wine be made from all fruits?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "149" InstanceType= "Initial Tags" >
+			<PostId>14281</PostId>
+			<ParentPostId>7368</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-02T19:11:50.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, history, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "150" InstanceType= "Unknown" >
+			<PostId>14312</PostId>
+			<ParentPostId>7368</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T09:52:43.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1015534064357560320
+			</EditDetails>
+		</Instance>
+		<Instance Id= "151" InstanceType= "Initial Body" >
+			<PostId>14379</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-23T21:41:30.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have heard about being able to make alcohol in jail. How would that be done?
+					I imagine the the ingredient list would be limited. Anybody have first hand experience?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "152" InstanceType= "Initial Title" >
+			<PostId>14380</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-23T21:41:30.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do you make alchohol in jail?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "153" InstanceType= "Initial Tags" >
+			<PostId>14381</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-23T21:41:30.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, ingredients, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "154" InstanceType= "Edit Body" >
+			<PostId>14390</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-25T19:46:30.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<EditDetails>
+				added 100 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have heard about being able to make alcohol in jail. How would that be done?
+					I imagine the the ingredient list would be limited like thing that would only be found in a cell. Anybody have first hand experience? As far as utensils you have your hands, socks, toilet other basic supplies found in jail. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "155" InstanceType= "Edit Title" >
+			<PostId>14391</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-25T20:01:04.663</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How to make alchohol in jail?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "156" InstanceType= "Edit Body" >
+			<PostId>14417</PostId>
+			<ParentPostId>7368</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-31T10:27:55.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  context setting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I am an amateur in the topic, so I was wondering, can all edible fruits be turned into a fruit wine? Why have grapes historically become the main fruit for wine making over other fruits? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "157" InstanceType= "Edit Title" >
+			<PostId>14418</PostId>
+			<ParentPostId>7368</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-31T10:27:55.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  context setting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Can wine be made from all edible fruits?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "158" InstanceType= "Initial Body" >
+			<PostId>14429</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T22:05:41.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have heard the term _inverse_ or _inverted simple syrup_ used in cocktail recipes, but I haven't been able to figure out how this is different from "regular" simple syrup.  For example, the [wikipedia page][1] makes no mention of _uninverted_ simple syrup.
+
+					Are these just longer names for regular simple syrup (sugar melted in water)?
+
+					  [1]: https://en.wikipedia.org/wiki/Inverted_sugar_syrup
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "159" InstanceType= "Initial Title" >
+			<PostId>14430</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T22:05:41.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between inverted simple syrup and simple syrup (if any)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "160" InstanceType= "Initial Tags" >
+			<PostId>14431</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T22:05:41.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "161" InstanceType= "Edit Tags" >
+			<PostId>14432</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T23:06:19.163</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added another tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					ingredients, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "162" InstanceType= "Unknown" >
+			<PostId>14435</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-03T06:02:24.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1025260573360095232
+			</EditDetails>
+		</Instance>
+		<Instance Id= "163" InstanceType= "Initial Body" >
+			<PostId>14508</PostId>
+			<ParentPostId>7437</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-15T12:55:12.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8015</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Mandatory disclaimer: I'm **not** asking for health related advices, this question is just out of **pure curiosity**.
+
+					I drink the occasional beer, wine, or whatever other alcoholic drinks: no issues with that, not getting drunk with just a beer, etc. etc. But...since I have memory, **a single** red beer can put me under the table.
+
+					From the **next day**. (yeah, not the same day)
+
+					With lot of stomach and intestinal pain and "funny" side effects.
+
+					And a few days needed to recover.
+
+					Now, it's not a big deal: on my list of things to avoid "Red beer" has been put in the top 5, and problem solved. It doesn't happen with 100% of the reds, but at 95% occurrence I just play safe...plus I prefer dark beers anyway :-D
+
+
+					Only, exactly one week ago I got the same amazing effects, but worst, and I'm still halfway from full recovery...from a bock. Ok, "bock" is a pretty wide definition, but while I'm not an expert on beers I've always been pretty certain that if I order a bock I never feel bad the next day.
+
+					So now I'm extremely curious to understand what it may be to knock me down this way, but as I said I'm no expert and that's the reason I'm asking here.
+
+					**Question**: what 95% of red beers and a Scheyern Kloster Doppelbock Dunkel (Poculator) have in common, in terms of ingredients and/or preparation?
+
+					&lt;sub&gt;(bonus: I get the same effect with some Scotch)&lt;/sub&gt;
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "164" InstanceType= "Initial Title" >
+			<PostId>14509</PostId>
+			<ParentPostId>7437</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-15T12:55:12.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8015</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What ingredient may I be allergic to?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "165" InstanceType= "Initial Tags" >
+			<PostId>14510</PostId>
+			<ParentPostId>7437</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-15T12:55:12.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8015</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "166" InstanceType= "Unknown" >
+			<PostId>14538</PostId>
+			<ParentPostId>7437</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T12:01:31.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1031149157568970752
+			</EditDetails>
+		</Instance>
+		<Instance Id= "167" InstanceType= "Unknown" >
+			<PostId>14541</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-20T09:00:59.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1031466111483764736
+			</EditDetails>
+		</Instance>
+		<Instance Id= "168" InstanceType= "Unknown" >
+			<PostId>14560</PostId>
+			<ParentPostId>4811</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T09:00:36.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1033640343693139968
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

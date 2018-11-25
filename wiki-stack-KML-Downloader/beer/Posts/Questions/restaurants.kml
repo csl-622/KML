@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>234</PostId>
+			<Title>
+			"What exactly is a Cicerone? What do they do?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>cicerone</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>80</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:32:04.380</CreationDate>
+				<LastActivityDate>2014-01-23T16:34:07.970</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Recently I've started seeing references to the term 'Cicerone' pop up around the internet; generally, they are described as a 'Beer Sommelier' and the subject is left at that.&lt;/p&gt;
+
+					&lt;p&gt;I'd like to understand the role a little bit better. What exactly does a cicerone &lt;strong&gt;do&lt;/strong&gt;? If I encounter one in a restaurant, what sort of knowledge can I expect her to have? Is there a certification or credential of some sort that they're expected to receive? What sort of training is required?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>243</PostId>
+			<Title>
+			"Popularity of tank beer"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>draught</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>237</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T02:10:21.910</CreationDate>
+				<LastActivityDate>2014-02-02T01:33:04.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In Czech Republic pubs with tank beer are pretty common and popular. There in many pubs and restaurants the beer is not stored in mobile casks or kegs but in much larger stationary tanks.
+					&lt;img src="https://i.stack.imgur.com/7oPb4.jpg" alt="enter image description here"&gt;
+					Here is interesting &lt;a href="http://www.expats.cz/prague/article/czech-food-drink/tank-beer-in-prague/" rel="noreferrer"&gt;article about tank beer in Prague&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;p&gt;It seems that in other countries tank beer is not popular so much. For example I have found some &lt;a href="http://tankbeer.co.uk/" rel="noreferrer"&gt;references from United Kingdom&lt;/a&gt; but there the tank beer seems to be used mainly on sport stadiums and other large facilities. &lt;/p&gt;
+
+					&lt;p&gt;How is tank beer popular in other countries? Is not tank beer in pubs and restaurants only a Czech phenomenon?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>6643</PostId>
+			<Title>
+			"Do restaurants ever oak their wine glasses?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>146</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-07T12:27:31.600</CreationDate>
+				<LastActivityDate>2017-03-07T17:49:14.703</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5486</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some time ago I was at a dinner with an oenophile who ordered an expensive bottle of red wine.  After a few sips, he noted that it was very "oaky."  I thought it was excellent, but I didn't smell &lt;em&gt;any&lt;/em&gt; significant wood flavors.  After some puzzling and nosing each others' glasses it became clear that his &lt;em&gt;glass&lt;/em&gt; had an oak smell to it.&lt;/p&gt;
+
+					&lt;p&gt;It wasn't long before the sommelier confirmed this and began tripping over herself to apologize and make up for what was obviously a contaminated glass.  Thinking back on it I'm wondering: is it plausible that the restaurant was intentionally "salting" wine glasses with some sort of wood flavoring?  Is this a known practice in the industry?&lt;/p&gt;
+
+					&lt;p&gt;(Unless it was being stored in a working woodshop I'm having a hard time imagining how a fine wine glass in a restaurant would naturally acquire a notable oak flavor in the course of cleaning and storing.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

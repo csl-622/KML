@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>7352</PostId>
+			<ParentPostId>7344</ParentPostId>			<Tags>
+				<tag>breweries</tag>
+				<tag>craft-beers</tag>
+				<tag>micropub</tag>
+				<tag>melbourne</tag>
+				<tag>australia</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-25T16:18:42.633</CreationDate>
+				<LastActivityDate>2018-06-25T16:18:42.633</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why don't you do the work yourself. &lt;a href="https://www.google.com/search?safe=off&amp;amp;rlz=1C1GGRV_enUS751US751&amp;amp;q=melbourne%20micro%20breweries&amp;amp;npsic=0&amp;amp;rflfq=1&amp;amp;rlha=0&amp;amp;rllag=-37876314,144977068,10910&amp;amp;tbm=lcl&amp;amp;ved=0ahUKEwii4q2Wm-_bAhVgJDQIHbTPAkQQjGoIZg&amp;amp;tbs=lrf:!2m1!1e2!2m1!1e3!2m1!1e16!3sIAE,lf:1,lf_ui:9&amp;amp;rldoc=1#rlfi=hd:;si:;mv:!1m3!1d148035.92266011552!2d145.08454344999998!3d-37.86729595!2m3!1f0!2f0!3f0!3m2!1i325!2i282!4f13.1;tbs:lrf:!2m1!1e2!2m1!1e3!2m1!1e16!3sIAE,lf:1,lf_ui:9" rel="nofollow noreferrer"&gt;Google lists about 15 craft breweries&lt;/a&gt; in downtown Melbourne. I would have to say that's probably the most up to date list &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

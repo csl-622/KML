@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>269</PostId>
+			<AcceptedAnswerId>271</AcceptedAnswerId>
+			<Title>
+			"What do they judge on at beer competitions?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>competition</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>118</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T17:21:16.297</CreationDate>
+				<LastEditDate>2014-01-24T04:01:59.643</LastEditDate>
+				<LastActivityDate>2014-01-25T08:00:05.547</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>116</OwnerUserId>
+				<LastEditorUserId>116</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When you see advertising for beer, some of them advertise awards that they have won at various beer festivals and/or competitions.&lt;/p&gt;
+
+					&lt;p&gt;What are the judging standards at these competitions, and what are the most prestigious competitions?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>515</PostId>
+			<AcceptedAnswerId>517</AcceptedAnswerId>
+			<Title>
+			"What is the best serving size for a beer tasting"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>taste</tag>
+				<tag>competition</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>8438</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-04T14:18:43.197</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-06-02T19:23:33.800</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>368</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I saw a comment asking this question &lt;a href="https://alcohol.stackexchange.com/questions/153/if-you-are-having-a-beer-tasting-what-is-a-good-way-to-clear-the-palate?rq=1"&gt;here&lt;/a&gt;, and became curious. In the context of a tasting panel or competition, what is the appropriate serving size?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>229</PostId>
+			<Title>
+			"What's the difference between normal and Christmas beer?"
+			</Title>
+			<Tags>
+				<tag>occasions</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>156</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:05:56.283</CreationDate>
+				<LastEditDate>2016-07-28T14:50:36.080</LastEditDate>
+				<LastActivityDate>2016-07-28T14:50:36.080</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>138</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What's the difference between normal and Christmas beer? What makes them special?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>4813</PostId>
+			<Title>
+			"Which beer or beers are associated with Lent?"
+			</Title>
+			<Tags>
+				<tag>occasions</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>155</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-08T16:09:36.070</CreationDate>
+				<LastEditDate>2016-07-28T14:40:16.517</LastEditDate>
+				<LastActivityDate>2016-07-28T14:40:16.517</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are there any varieties of beer that some people associate with the liturgical season of Lent? If so, why?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>6899</PostId>
+			<Title>
+			"Besides wine, are there any alcoholic drinks associated with any religious rituals or customs?"
+			</Title>
+			<Tags>
+				<tag>drink</tag>
+				<tag>occasions</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>185</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-06-12T11:54:03.833</CreationDate>
+				<LastEditDate>2017-06-13T14:06:35.340</LastEditDate>
+				<LastActivityDate>2017-06-16T11:03:42.900</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Besides wine, are there any alcoholic drinks (beer, liquors or liqueurs, etc.) associated with any religious rituals or customs?&lt;/p&gt;
+
+					&lt;p&gt;I am deliberately not interested in wine because it is associated with the eucharist and the Roman Ritual contains a blessing for wine which is associated with the &lt;a href="https://christianity.stackexchange.com/questions/48459/why-is-wine-associated-with-st-john-the-apostle"&gt;Feast of St. John&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;p&gt;The Roman Ritual also has a blessing for beer which I exclude as a response to this question as well as which &lt;a href="https://alcohol.stackexchange.com/a/4885/5064"&gt;beers are associated with Lent&lt;/a&gt;. Easter Beers and beers associated with any Christian liturgical season are to be excluded also.&lt;/p&gt;
+
+					&lt;p&gt;This question is open to religious rituals and customs of any belief, whether Christian, or otherwise. The brewing of beer is not to be considered a ritual either.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

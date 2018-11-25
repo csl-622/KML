@@ -1,0 +1,819 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="3">
+			<PostId>331</PostId>
+			<ParentPostId>330</ParentPostId>
+			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T02:11:55.357</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					While we're in beta, it would be good to leave a comment whenever you downvote a question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>332</PostId>
+			<ParentPostId>332</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T03:51:13.527</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					technically, liter should always be lowercase - i.e. ml, cl, dl - a capital L is incorrect, since it's not named after someone.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>333</PostId>
+			<ParentPostId>334</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T06:07:07.680</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm assuming a milk stout would fall in this category then?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="1">
+			<PostId>334</PostId>
+			<ParentPostId>334</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T06:21:51.023</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah, no! A milk stout is made with lactose - milk sugar - not lactic acid.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="2">
+			<PostId>335</PostId>
+			<ParentPostId>334</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T06:53:41.950</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					thanks for accepting the answer! May I suggest in future that you wait a few days so that others have chance to answer - who knows, maybe they will offer a different perspective!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="1">
+			<PostId>336</PostId>
+			<ParentPostId>332</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T12:37:19.323</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@mdma SI accepts both L and l to avoid confusion: http://physics.nist.gov/cuu/Units/outside.html. They prefer L so as to avoid confusion with the number 1.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>337</PostId>
+			<ParentPostId>332</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T12:46:37.213</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks, I stand corrected! I must have be mixing it up with another unit. Although it's quite unusual for both forms of capitalization to be officially recognized.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>339</PostId>
+			<ParentPostId>334</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T15:47:02.357</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					ah, ok, gotcha! Dunno where I read lactic acid
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>342</PostId>
+			<ParentPostId>310</ParentPostId>
+			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T15:57:16.300</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					And then what, are you going to drink the beer from several glasses or pour it all back into one, releasing more carbonation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="1">
+			<PostId>344</PostId>
+			<ParentPostId>90</ParentPostId>
+			<Contributors>
+				<UserId>213</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-26T17:33:27.257</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Your final warning is important, and not just in beer!  The tern *gluten free* allows for small amounts, so celiacs are always minded to read the ingredients!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>345</PostId>
+			<ParentPostId>343</ParentPostId>
+			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T01:49:23.373</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm pretty sure your description of a Tripel vs a standard Trappist beer is incorrect.  Currently, dubbel vs tripel is just a marketing difference.  There's a stylistic difference (much like the difference between a stout and a porter), but as far as I can tell there's no fixed definition of how you brew one vs the other.  See http://ithinkaboutbeer.com/2013/03/19/q-ale-why-are-they-called-dubbel-tripel-quad-etc/ for more.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="1">
+			<PostId>346</PostId>
+			<ParentPostId>328</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T02:44:27.730</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Great advice! I always rinse my glasses first and give them a shake. What's left is really minuscule.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>347</PostId>
+			<ParentPostId>343</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T02:46:34.753</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You need to be careful quoting prices - the internet is worldwide. I live in Norway and I'm pretty sure it's a lot more than that for a bottle if it's available at all. And most seasoned beer drinkers would readily drink a dubbel without a hangover. I've been to a number of festivals in Belgium serving dubbels and trippels with no hangover if you manage the beer and your water consumption in proportion. And -1 - trippels are very different from dubbles. It's not just about magnification.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="0">
+			<PostId>348</PostId>
+			<ParentPostId>344</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T02:52:11.640</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If you could find the ideal serving glass, this would be complete! Sadly the BJCP don't consider this important.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="1">
+			<PostId>349</PostId>
+			<ParentPostId>344</ParentPostId>
+			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T03:20:33.547</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've always thought the [tulip](http://www.truebeer.com/assets/images/tulip-beer-glass-set-1.jpg) glass was great for belgians, although that's just preference.  I don't know if any beer-related bodies say that's "correct" or not.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>350</PostId>
+			<ParentPostId>344</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T03:24:59.663</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I usually drink dubbels in a wide glass - like a challace/goblet. IMHO, you don't need a tall glass - the carbonation or aroma isn't a key player here, but more the richness of the malt.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>351</PostId>
+			<ParentPostId>343</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T04:17:39.083</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					True, it may be different in Norway. Then again, I didn't realize there was much of a demand for American beers in Europe. with that said, here in the states, It's $12. But that's not relevant to the question regardless; no reason to vote down my answer for that.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="1">
+			<PostId>352</PostId>
+			<ParentPostId>343</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T04:23:49.507</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Fishtoaster, I've got no clue what you're talking about. It's very clear what the differences are; just look at the ABV. There's no way you can compare the differences between a dubbel and a tripel to that of a porter and a stout.
+
+					I trust Beeradvocate over a blog any day, sorry:
+					http://beeradvocate.com/beer/style/57/
+					http://beeradvocate.com/beer/style/58/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="1">
+			<PostId>353</PostId>
+			<ParentPostId>349</ParentPostId>
+			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T06:34:00.320</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Related question on [Chemistry.SE](http://chemistry.stackexchange.com/questions/252/whats-the-chemical-nature-of-a-dishwashers-rinsing-agent)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="1">
+			<PostId>354</PostId>
+			<ParentPostId>343</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T09:37:56.727</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is actually, wrong, a trappist can also be a Tripel. Like Westmalle Tripel. Not all tripels are Trappists. Trappist is a label for beers being brewed within the walls of a Trappist Abbey. Have a look here http://beer.stackexchange.com/questions/181/whats-the-difference-between-normal-beer-and-trappist/182#182
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="0">
+			<PostId>355</PostId>
+			<ParentPostId>339</ParentPostId>
+			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T13:50:54.550</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Totally true. Though this may be frowned upon in many situations.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="2">
+			<PostId>3520</PostId>
+			<ParentPostId>4594</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-01T10:51:33.827</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What country do you stay in?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>3521</PostId>
+			<ParentPostId>709</ParentPostId>
+			<Contributors>
+				<UserId>4575</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-01T14:55:39.600</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I have done this twice and I would like to add my thoughts: The most difficult part is the phone part to make the appointment. I tried it twice. The first time I called for a whole day (about 150 calls) before I finally have them. The seconde time my girlfriend and I called for a day and a half (about 250 calls) to have an answer. I suggest that you prepare yourself for that :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>3522</PostId>
+			<ParentPostId>709</ParentPostId>
+			<Contributors>
+				<UserId>4575</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-01T14:57:51.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Also, you can't chose which beer you will have, it depends on the week as Valentin Grégoire said : http://www.sintsixtus.be/bierverkoopactueel.htm You should try to have the 8 or the 12, the blond is more "classic" When you are there, try the In De Vrede Inn near the monastery, you may be able to buy some more. And I advise you to try their Westvleteren Paté wich is quite awesome :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>3523</PostId>
+			<ParentPostId>4616</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-01T15:40:28.470</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks for the reply. I was aware that heat damages beer but wasn't sure how it applied during shipment for Ontario. One thing to note is that I contacted the LCBO about their shipping processes on Twitter and they ignored me. That's telling.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="0">
+			<PostId>3524</PostId>
+			<ParentPostId>4618</ParentPostId>
+			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-01T18:47:59.990</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you for this explanation. The evolution part was very inspiring :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="0">
+			<PostId>3525</PostId>
+			<ParentPostId>4615</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-02T14:08:34.280</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I would second this, especially if there's a metallic taste.  That sounds like carbonic acid to me, which is to say WAAAY too much CO2.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>3527</PostId>
+			<ParentPostId>4592</ParentPostId>
+			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-07T05:04:19.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					`ladling the beer out like soup` I've seen it done with mead, but not beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="1">
+			<PostId>3528</PostId>
+			<ParentPostId>4615</ParentPostId>
+			<Contributors>
+				<UserId>4322</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-07T13:12:01.907</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks all. Eventually it resolved at a lower CO2 setting.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="1">
+			<PostId>3529</PostId>
+			<ParentPostId>4622</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-07T15:34:00.663</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Do you think you could combine this with your previous answer on this question?  Same with the other question you linked this on...just merge it into your other answer there.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>3530</PostId>
+			<ParentPostId>610</ParentPostId>
+			<Contributors>
+				<UserId>94</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-07T19:47:14.390</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Good catch @Ernir! I have updated my answer to include the fact that straight lambics can be served with no carbonation according to the BJCP style guide.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="1">
+			<PostId>3531</PostId>
+			<ParentPostId>3409</ParentPostId>
+			<Contributors>
+				<UserId>4136</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-09T18:30:30.390</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well technically it is against California law for a brewery to fill growlers with other brewery's name/logo on it. There is a way around this though by covering it up (I have used tape). In San Diego, any place has happily filled or even supplied the tape. I will have to try those places you mentioned though, maybe I'll have some luck.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="0">
+			<PostId>3532</PostId>
+			<ParentPostId>4626</ParentPostId>
+			<Contributors>
+				<UserId>4526</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-10T02:17:23.753</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Interesting -- do you then have thoughts for why Spain, which shares a similar climate, has so much higher beer consumption? In the numbers from the Wikipedia article I linked, Spain has 68.4 L/year per capita consumption, while Italy has only 29 L/year.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="0">
+			<PostId>3533</PostId>
+			<ParentPostId>4626</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-10T14:11:05.003</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@josilber Not off the top of my head, but I'll see what I can dig up.  I've done some reading about the history of beverage in France and Italy, but don't know as much about Spain.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35"  InstanceType= "comments" Score="0">
+			<PostId>3534</PostId>
+			<ParentPostId>3281</ParentPostId>
+			<Contributors>
+				<UserId>1501</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-10-12T22:34:41.513</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well, I haven't to Vancouver yet, so I haven't been able to check, so I still don't know.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36"  InstanceType= "comments" Score="0">
+			<PostId>3579</PostId>
+			<ParentPostId>4594</ParentPostId>
+			<Contributors>
+				<UserId>4691</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-11T07:10:07.320</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					We'd need to know some specifics about what qualities you think make the best service before we could give objective answers.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="37"  InstanceType= "comments" Score="1">
+			<PostId>3580</PostId>
+			<ParentPostId>4683</ParentPostId>
+			<Contributors>
+				<UserId>4719</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-11T13:28:44.840</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Maillard reaction, my friends. Bolied beer will taste more bready, cracker-like etc. And if it's high on sugar, it will end up with more caramel in it. Both are actually good in hot winter beer or in cooking.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="38"  InstanceType= "comments" Score="0">
+			<PostId>3581</PostId>
+			<ParentPostId>4592</ParentPostId>
+			<Contributors>
+				<UserId>4719</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-11T13:33:46.143</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Actually, mix of nitrogen and CO2 is pretty common. Like, 70% of nitrogen. the point is, you don't want to change amount of dissolved carbon dioxide in any way, so mixtures are generally "safer" at serving pressure. For hi-carbonation beer, it will allow beer to lessen it's co2 content, but slowly. On low carbonated one, it will add co2 to it, but again - slow enough for it not to really matter.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="39"  InstanceType= "comments" Score="0">
+			<PostId>3582</PostId>
+			<ParentPostId>4681</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-13T17:15:16.513</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					No to mention that frozen beer loses most of its carbonation
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="40"  InstanceType= "comments" Score="0">
+			<PostId>3583</PostId>
+			<ParentPostId>4690</ParentPostId>
+			<Contributors>
+				<UserId>4394</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-14T15:46:08.737</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You can make a tasty beef stew with Guinness, or any IPA type beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="41"  InstanceType= "comments" Score="0">
+			<PostId>3584</PostId>
+			<ParentPostId>4663</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-16T09:19:32.313</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@JasonCoder, I heard of people that like infected beers. Why would you want an infected beer when you can have a good, crisp, clean Budweizer? ;D
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="42"  InstanceType= "comments" Score="1">
+			<PostId>3587</PostId>
+			<ParentPostId>4681</ParentPostId>
+			<Contributors>
+				<UserId>4725</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-18T12:17:58.067</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Bottles aren't as likely to pop a cap as they are for the glass to break, at least in my experience.  The bottle cap is crimped over the lip of the bottle and makes a very good mechanical connection.  When people over carbonate their home-brew they end up with bottle grenades because the glass fails before the cap pops off, which is the opposite to what happens if you over carbonate something in a corked wine bottle (unless the cork is secured with a cage).  Perhaps it may be different with screw-top caps.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="43"  InstanceType= "comments" Score="1">
+			<PostId>3677</PostId>
+			<ParentPostId>4770</ParentPostId>
+			<Contributors>
+				<UserId>4394</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-13T11:32:24.183</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In the UK there is a long tradition of spicing beer with cinnamon and recently other spices have been tried Modha ales make a cardamom spiced beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="44"  InstanceType= "comments" Score="0">
+			<PostId>3738</PostId>
+			<ParentPostId>4829</ParentPostId>
+			<Contributors>
+				<UserId>4637</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-16T15:56:37.493</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					While Schmaltz Brewing (http://www.shmaltzbrewing.com/) plays up the Jewish puns in its beer names, I cannot find any reference to Kosher certification in its publications and press releases.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="45"  InstanceType= "comments" Score="1">
+			<PostId>3739</PostId>
+			<ParentPostId>4829</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-17T01:52:22.490</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Beer does not have to be "100% brewed by Jewish hands"; it just needs to be under supervision, which might not be constant.  Wine has special rules that don't apply to most other foods and drinks, because wine is sometimes used by other religions and the prohibitions about being involved with idolatry are very strong.  If you want to know more about that, I recommend visiting [Mi Yodeya](http://judaism.stackexchange.com).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="46"  InstanceType= "comments" Score="0">
+			<PostId>3740</PostId>
+			<ParentPostId>4828</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-17T12:12:05.737</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Another spanner is the date format. If a bottle says BB090216 is it 9 Feb 2016, 2 Sept 2016 or 16 Feb 2009?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="47"  InstanceType= "comments" Score="0">
+			<PostId>3741</PostId>
+			<ParentPostId>4826</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-17T12:21:40.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I have had some older bottles where the top of the cork breaks off. Then you use a standard bottle opener (waiter's friend) to open the bottle.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="48"  InstanceType= "comments" Score="0">
+			<PostId>3742</PostId>
+			<ParentPostId>4826</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-17T13:46:50.687</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@AtronSeige  Very good tip.  I've had this happen from time to time as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="49"  InstanceType= "comments" Score="0">
+			<PostId>3743</PostId>
+			<ParentPostId>4828</ParentPostId>
+			<Contributors>
+				<UserId>4338</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-17T18:58:25.477</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well, as a rule of thumb, I would assume that if it is from USA, the month comes first, otherwise the day does. However, again, it may not be true 100% of times.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="50"  InstanceType= "comments" Score="0">
+			<PostId>3744</PostId>
+			<ParentPostId>4829</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-18T13:51:09.230</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MonicaCellio Great source of information. Thanks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="51"  InstanceType= "comments" Score="0">
+			<PostId>3746</PostId>
+			<ParentPostId>4687</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-19T01:08:37.203</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is my experience as well. I like the first answer, although I think it's important to note the 'modern' distinction too, and I think this is it. Most porters I come across have a nice body, and are often sweetened or spiced.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="52"  InstanceType= "comments" Score="3">
+			<PostId>4655</PostId>
+			<ParentPostId>6634</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-03T14:14:47.370</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd dispute the "all you need is water... and you have a normal alcoholic drink". That was the marketing hype, but considering it's 55% ethanol and ~45% cyclodextrin, and all the flavors are necessarily going to be essences, I wouldn't call the end result "normal" in any way.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="53"  InstanceType= "comments" Score="0">
+			<PostId>4657</PostId>
+			<ParentPostId>77</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-03T18:08:52.500</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ethanol is not corrosive. Glass is certainly not a liquid at room temperature, and neither are the plastics we're discussing. BPA might be a problem, but if it is, it isn't because plastic is a liquid. Ethanol does increase BPA solubility in water at relatively low concentrations (~10%) per https://www.researchgate.net/post/I_have_a_problem_with_dissolving_of_Bis-Phenol_A_BPA_in_water_Any_suggestions
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="54"  InstanceType= "comments" Score="0">
+			<PostId>4658</PostId>
+			<ParentPostId>6637</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-04T03:53:41.030</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					When you drink scotch do you add a touch of water to bring out the flavor?
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

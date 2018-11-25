@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>6769</PostId>
+			<AcceptedAnswerId>6773</AcceptedAnswerId>
+			<Title>
+			"How prominent were drinking (alcohol) establishments in the Middle Ages?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>alcohol</tag>
+				<tag>europe</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>92</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-13T21:54:28.810</CreationDate>
+				<LastActivityDate>2017-04-14T23:41:45.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am interested in knowing how popular were drinking establishments (or more commonly known as taverns) in Europe during the &lt;a href="https://en.wikipedia.org/wiki/Middle_Ages" rel="nofollow noreferrer"&gt;Middle Ages&lt;/a&gt; (5th-15th century)?&lt;/p&gt;
+
+					&lt;p&gt;Did they exist during the entire Middle Ages or not? Did every town have a tavern?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>6827</PostId>
+			<AcceptedAnswerId>6831</AcceptedAnswerId>
+			<Title>
+			"What is the strongest alcoholic drink that existed during the Middle Ages in Europe?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>drink</tag>
+				<tag>europe</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>846</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-05-05T19:29:54.227</CreationDate>
+				<LastActivityDate>2017-05-07T14:59:48.173</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What is the strongest &lt;a href="https://en.wikipedia.org/wiki/Alcoholic_drink" rel="noreferrer"&gt;alcoholic drink&lt;/a&gt; that was drank within the &lt;a href="https://en.wikipedia.org/wiki/Europe" rel="noreferrer"&gt;European nations&lt;/a&gt; during the &lt;a href="https://en.wikipedia.org/wiki/Middle_Ages" rel="noreferrer"&gt;Middle Ages&lt;/a&gt; (5th to the 15th century)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,720 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>429</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:05:49.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Taste-wise, at least in my opinion, the hotter the mulled beer the better. Except past certain point the alcohol starts evaporating so quickly you end up losing most of it before you start drinking.
+
+					How should I heat the beer - what temperature, what heating method - to get it as hot as possible without losing alcohol content?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>430</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:05:49.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Optimal mulling temperature?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>431</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:05:49.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					mulling, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>512</PostId>
+			<ParentPostId>203</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T15:11:10.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When using a keg setup at home, either with a hand pump or a pressurized system, I keep getting a lot of foam after changing and/or pumping up the air pressure (In a hand system).
+
+					This appears to me to be wasting beer, so how can I avoid this overfoaming of the pour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>513</PostId>
+			<ParentPostId>203</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T15:11:10.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to avoid keg foam?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>514</PostId>
+			<ParentPostId>203</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T15:11:10.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pouring, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>528</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T16:09:14.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Since the temperature tag already exists...
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					temperature, mulling, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>529</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T16:09:14.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 73 approved by 60 edit id of 24
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>8055</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My friends says if you eat some bread it will absorb the alcohol and make you high less. is it true?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>8056</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Eat bread before drink beer make you drunk less?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>8057</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>9171</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-19T08:38:33.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When ever i'm out in a bar I always see bottles of ale or ale on a pump but i have never seen a bar that serves ale from a regular tap why is this ?
+
+					Why serve Ale from a [Pull Pump][1]
+
+					Instead of a [Beer Tap][2]
+
+					Is there a reason for this?
+
+
+					  [1]: http://i.stack.imgur.com/OuG09.jpg
+					  [2]: http://i.stack.imgur.com/t73S8.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>9172</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-19T08:38:33.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Tap it or Pump it
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>9173</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-19T08:38:33.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Body" >
+			<PostId>9177</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T06:56:59.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Whenever I'm out in a bar I always see bottles of ale or ale on a pump but I have never seen a bar that serves ale from a regular tap why is this ?
+
+					Why serve ale from a [Pull Pump,][1] instead of a [Beer Tap?][2]
+
+					Is there a reason for this?
+
+
+					  [1]: http://i.stack.imgur.com/OuG09.jpg
+					  [2]: http://i.stack.imgur.com/t73S8.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Title" >
+			<PostId>9178</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T06:56:59.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Tap it or Pump it!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>9179</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T06:56:59.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5078 edit id of 178
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Edit Tags" >
+			<PostId>9180</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T08:00:04.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					serving, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>9181</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T22:36:03.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/733788402756292608
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>9367</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-07T15:25:47.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5529</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am trying to make a gin martini and I would like to know what is the best type of gin to use for doing so.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>9368</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-07T15:25:47.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5529</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the best type of gin to use in a gin martini?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>9369</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-07T15:25:47.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5529</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Tags" >
+			<PostId>9384</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-09T16:51:57.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>9385</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-09T16:51:57.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by -1 edit id of 205
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Edit Tags" >
+			<PostId>9386</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-09T16:51:57.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				Added tags.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, preparation-for-drinking, gin, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Post Closed" >
+			<PostId>9727</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-30T09:04:43.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":187,"DisplayName":"Rory Alsop"},{"Id":5064,"DisplayName":"Ken Graham"},{"Id":27,"DisplayName":"object88"},{"Id":5078,"DisplayName":"Jamie Eltringham"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Edit Tags" >
+			<PostId>9846</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:34:54.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Edit Tags" >
+			<PostId>11922</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T08:11:41.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					drinking, alcohol-level, non-alcoholic, preparation-for-drinking, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>12069</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T19:20:43.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Who came up with the idea of pouring 30ml, 60ml or 90ml drinks . Is there a theory or scientific reason behind it ? Have gone through this post : https://en.m.wikipedia.org/wiki/Peg_(unit)
+
+					And 
+
+					https://en.m.wikipedia.org/wiki/Patiala_peg
+
+					Did it originate in India ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>12070</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T19:20:43.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How the idea of 30ml , 60ml and 90ml got started
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>12071</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T19:20:43.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preparation-for-drinking, drink, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Edit Tags" >
+			<PostId>12072</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T19:27:26.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					alcohol-level, preparation-for-drinking, alcohol, drink, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Edit Body" >
+			<PostId>12075</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T00:59:28.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting and grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where did the idea of pouring 30 ml, 60 ml or 90 ml in drinks begin. Is there a theory or scientific reason behind it? Have gone through this post: [Peg (unit)](https://en.m.wikipedia.org/wiki/Peg_(unit)) from Wikipedia, but it does not help me.
+
+					&gt; A peg is a unit of volume for measuring liquor in India and Nepal. The terms "large peg" and "small peg" are used, equal to 60 mL and 30 mL, respectively, with "peg" simply referring to a small peg. In India liquor's alcohol content is fixed at 42.8% ABV, it follows that a peg of liquor contains 25.68 mL of pure alcohol, or 20.26 g.
+
+					And then there is this also: [Patiala peg (Wikipedia)](https://en.m.wikipedia.org/wiki/Patiala_peg).
+
+					&gt; The Patiala peg is a measure of liquor popular in Indian Punjab. It is a volume roughly equivalent to 120 ml, though the rough and ready measure is the amount of liquor needed to fill a glass equal to the height between the index and little fingers when they are held parallel to one another.[1] Even major liquor companies have started selling their products in the single drink packaging of 90 ml &amp; 120 ml bottles in India. The name originates from the city of Patiala, which was once a state known for the extravagant ways of its royalty and extraordinary height of its Sikh soldiers.
+
+					Did it originate in India ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Edit Title" >
+			<PostId>12076</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T00:59:28.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting and grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How the idea of 30 ml, 60 ml and 90 ml drinks get started?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>12394</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T16:59:47.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>12559</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T17:58:35.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/852581799586914306
+			</EditDetails>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Unknown" >
+			<PostId>12780</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-19T08:09:08.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/865479422039670784
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

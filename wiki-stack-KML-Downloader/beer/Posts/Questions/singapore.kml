@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>3513</PostId>
+			<AcceptedAnswerId>3519</AcceptedAnswerId>
+			<Title>
+			"Craft beers and Microbreweries in Singapore?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>micropub</tag>
+				<tag>singapore</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>124</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-04T21:16:54.980</CreationDate>
+				<LastEditDate>2018-06-19T06:54:19.457</LastEditDate>
+				<LastActivityDate>2018-06-19T06:54:19.457</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+				<LastEditorUserId>123</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Recently, CNN listed the &lt;code&gt;Smith Street Tap&lt;/code&gt; from the &lt;strong&gt;Good Beer Company&lt;/strong&gt; in Singapore as one of the world's greatest bar (&lt;a href="http://www.cntraveler.com/galleries/2015-07-21/the-greatest-bars-in-the-world/23" rel="nofollow"&gt;http://www.cntraveler.com/galleries/2015-07-21/the-greatest-bars-in-the-world/23&lt;/a&gt;).&lt;/p&gt;
+
+					&lt;p&gt;Also, locally known, &lt;strong&gt;Brewerkz&lt;/strong&gt; &lt;a href="http://www.brewerkz.com/" rel="nofollow"&gt;http://www.brewerkz.com/&lt;/a&gt; serves some good craft beer.&lt;/p&gt;
+
+					&lt;p&gt;After some internet searches, I found &lt;strong&gt;Jungle Beer&lt;/strong&gt; that is a mircobrew: &lt;a href="http://www.junglebeer.com/" rel="nofollow"&gt;http://www.junglebeer.com/&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;Other than the 3 sources listed above, where else can one get craft/microbrewery beer in Singapore?&lt;/p&gt;
+
+					&lt;p&gt;Are there other microbreweries in Singapore? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="639"  UserId="240" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-28T22:34:52.317</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="643"  UserId="240" InstanceType= "badges">
+			<Title>
+			"Precognitive"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-28T23:17:35.967</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

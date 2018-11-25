@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>6402</PostId>
+			<AcceptedAnswerId>6410</AcceptedAnswerId>
+			<Title>
+			"How can absinthe be colored into a different colour other than green?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+				<tag>colour</tag>
+				<tag>absinthe</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>1935</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-27T12:05:41.410</CreationDate>
+				<LastEditDate>2017-04-12T12:22:37.897</LastEditDate>
+				<LastActivityDate>2017-04-12T12:22:37.897</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6142</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.&lt;/p&gt;
+
+					&lt;p&gt;There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a &lt;em&gt;primary&lt;/em&gt; color which is supposed to be impossible to create by mixing other colors.&lt;/p&gt;
+
+					&lt;p&gt;I have two theories: &lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;Absinthe is always green due to the presence of &lt;em&gt;Artemisia absinthium&lt;/em&gt;'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. &lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Absinthe is transparent until you add the &lt;em&gt;Artemisia absinthium&lt;/em&gt;'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;I'm attaching an image for you to know what I'm talking about:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg" rel="nofollow noreferrer"&gt;These are the ones I saw&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/XN8TE.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/XN8TE.jpg" alt="Colored Absinthe"&gt;&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>6464</PostId>
+			<AcceptedAnswerId>6465</AcceptedAnswerId>
+			<Title>
+			"Is the saying true that drinking absinthe drives a person insane?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>drinking</tag>
+				<tag>absinthe</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>185</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>7</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-01T21:44:12.293</CreationDate>
+				<LastActivityDate>2017-01-06T12:06:16.543</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5847</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Absinthe"&gt;Absinthe&lt;/a&gt; has been said to cause insanity, permanent brain-damage and/or hallucinatory state.&lt;/p&gt;
+
+					&lt;p&gt;Is this accurate?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

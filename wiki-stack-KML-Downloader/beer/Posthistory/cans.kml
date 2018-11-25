@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1313</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T15:26:44.127</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My favorite beers come in bottles and in cans. I always buy it in bottles because I've heard that cans negatively impact the flavor of the beer. Is this true? If so, how does it work?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>1314</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T15:26:44.127</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do cans change the taste of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>1315</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T15:26:44.127</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>1341</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T22:30:12.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430830677009760256
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>1359</PostId>
+			<ParentPostId>539</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T05:35:18.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>403</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have started to collect beer cans over the past year or so, some are older and some are new.  I am curious to see where I can find more information on what specific old or new beer cans (by brand, etc) are considered valuable and/or collector items?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>1360</PostId>
+			<ParentPostId>539</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T05:35:18.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>403</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer can collecting
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>1361</PostId>
+			<ParentPostId>539</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T05:35:18.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>403</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Title" >
+			<PostId>1397</PostId>
+			<ParentPostId>539</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T20:01:52.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where can I found out which beer cans are "collectable"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>1407</PostId>
+			<ParentPostId>554</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T23:30:12.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>418</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Different beer bottles and cans (with contents) from different places collected in the past 3 years.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>1408</PostId>
+			<ParentPostId>554</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T23:30:12.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>418</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Will a collection of 100 beers collectively be worth more 20 years from now than their value today?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>1409</PostId>
+			<ParentPostId>554</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T23:30:12.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>418</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottles, cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>1462</PostId>
+			<ParentPostId>539</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T19:36:12.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431874051548934144
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>1471</PostId>
+			<ParentPostId>554</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T04:36:12.487</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432009948160339968
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>3510</PostId>
+			<ParentPostId>935</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-17T11:33:58.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1108</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where can I order Puerto Rican brand "Medalla" (canned) from Germany/online ?
+
+					May there is better German beer available, but I liked drinking frozen Medalla when I was visiting PR last summer - and right now it's hot in Germany and I really miss it...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>3511</PostId>
+			<ParentPostId>935</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-17T11:33:58.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1108</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where to buy "Medalla"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>3512</PostId>
+			<ParentPostId>935</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-17T11:33:58.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1108</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					local, buying, cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>3559</PostId>
+			<ParentPostId>935</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-29T00:57:49.533</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/493923314545733633
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>6823</PostId>
+			<ParentPostId>3499</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-24T07:10:26.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4353</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was wondering if there really is a difference in taste when you drink the same beer out of a glass, a bottle and a can.
+
+					Can anybody please tell me if there is a difference or if this is just a prejudice in your mind that makes you think it's better in one way?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>6824</PostId>
+			<ParentPostId>3499</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-24T07:10:26.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4353</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Difference between glass, bottle and can?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>6825</PostId>
+			<ParentPostId>3499</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-24T07:10:26.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4353</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, glassware, bottles, cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>7894</PostId>
+			<ParentPostId>3499</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-15T22:00:44.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/632673302042030080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Edit Body" >
+			<PostId>9427</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:42:05.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				added 6 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					My favorite beers come in bottles and in cans. I always buy it in bottles because I've heard that cans negatively impact the flavor of the beer.
+
+					Is this true?
+
+					If so, how does it work?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Tags" >
+			<PostId>9861</PostId>
+			<ParentPostId>539</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:49:22.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>11762</PostId>
+			<ParentPostId>6535</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T13:47:51.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6402</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Into a canned DRAUGHT Guinness I found a plastic white sphere. What is its purpose?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>11763</PostId>
+			<ParentPostId>6535</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T13:47:51.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6402</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why does canned Guinness DRAUGHT have a plastic sphere?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>11764</PostId>
+			<ParentPostId>6535</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T13:47:51.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6402</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>11858</PostId>
+			<ParentPostId>6535</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-21T18:31:12.263</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/834108223456235520
+			</EditDetails>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>13883</PostId>
+			<ParentPostId>7233</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-09T16:49:17.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7710</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am looking for a beer that is sold in flat top cans or at least cans that require a tool to open it. A friend and I were discussing it and I thought that it would make an excellent present.
+
+					I am not looking for a vintage buy, preferably it should be drinkable.
+
+					Any help will be appreciated.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>13884</PostId>
+			<ParentPostId>7233</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-09T16:49:17.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7710</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where can I find a type of beer that comes in flat top beer cans?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>13885</PostId>
+			<ParentPostId>7233</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-09T16:49:17.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7710</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Edit Tags" >
+			<PostId>14388</PostId>
+			<ParentPostId>539</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-25T08:37:42.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6255</UserId>
+			</Contributors>
+			<EditDetails>
+				tags edited
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>14389</PostId>
+			<ParentPostId>539</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-25T08:37:42.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6255 approved by 5078 edit id of 337
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

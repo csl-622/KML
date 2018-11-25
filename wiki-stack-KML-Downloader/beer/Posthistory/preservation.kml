@@ -1,0 +1,895 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>84</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:59:16.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer in a growler typically lasts for 24 hours or less, depending on how full the growler is, how many times it's opened over that period of time, and how efficient the seal is on the lid. Are there ways of prolonging the life in a growler or at least seal it properly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>85</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:59:16.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I prolong the life of beer in a growler?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>86</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:59:16.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					growlers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>475</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:43:27.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What temperature is ideal to store my beer? Is there a difference depending on the beer type?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>476</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:43:27.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What temperature is ideal to store my beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>477</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:43:27.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>484</PostId>
+			<ParentPostId>195</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:56:11.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does beer really go bad after the 'best before'-date? I head I can drink beers even after the expiration date?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>485</PostId>
+			<ParentPostId>195</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:56:11.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does beer really go bad after the 'best before'-date?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>486</PostId>
+			<ParentPostId>195</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:56:11.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>508</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:36:44.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>10</UserId>
+			</Contributors>
+			<EditDetails>
+				Added storage tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					storage, preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>509</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:36:44.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 10 approved by 138 edit id of 22
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>580</PostId>
+			<ParentPostId>195</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T20:07:12.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added a bit more details to the question
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Does beer really go bad after the 'best before'-date? I hear I can drink beers even after the expiration date, but is it safe, and does that still taste good?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>581</PostId>
+			<ParentPostId>195</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T20:07:12.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 21 approved by 5 edit id of 31
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Tags" >
+			<PostId>620</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T23:43:26.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Added some tags.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					preservation, growlers, freshness, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>621</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T23:43:26.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 73 approved by 27, 25 edit id of 34
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1572</PostId>
+			<ParentPostId>195</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T04:37:33.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433822225255657472
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>1698</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T13:41:26.177</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/437220589355687937
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>6375</PostId>
+			<ParentPostId>3311</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-24T09:53:31.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3921</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I left 2 beers in the fridge, Just found them and im sure they've been in there for like ... maybe 4 months? They okay XD?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>6376</PostId>
+			<ParentPostId>3311</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-24T09:53:31.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3921</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What if beer (opened) was left in fridge for like... months
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>6377</PostId>
+			<ParentPostId>3311</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-24T09:53:31.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3921</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					3.2-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Post Closed" >
+			<PostId>6379</PostId>
+			<ParentPostId>3311</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-25T01:55:21.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[195],"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Edit Tags" >
+			<PostId>8248</PostId>
+			<ParentPostId>3311</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-06T18:48:35.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Post Reopened" >
+			<PostId>8265</PostId>
+			<ParentPostId>3311</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-09T21:30:03.407</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Question Protected" >
+			<PostId>8389</PostId>
+			<ParentPostId>195</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-17T19:51:02.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>11620</PostId>
+			<ParentPostId>6486</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-17T11:42:54.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would like buy a cellar of aging at home for preserve my wine, but i don't know if the white and red wine can be kept in the same cellar.
+
+					Maybe at the same temperature?
+
+
+					There are cellars refrigerated with two zones but this is not for preserve wine.
+
+					Thank you for your help
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>11621</PostId>
+			<ParentPostId>6486</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-17T11:42:54.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can white wine and red wine be kept in the same cellar
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>11622</PostId>
+			<ParentPostId>6486</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-17T11:42:54.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, red-wine, preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Unknown" >
+			<PostId>11634</PostId>
+			<ParentPostId>6486</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-21T06:50:29.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/822697861792075776
+			</EditDetails>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Edit Body" >
+			<PostId>12611</PostId>
+			<ParentPostId>3311</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-18T07:10:26.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				Grammar 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I left 2 beers in the fridge, Just found them and I'm sure they've been in there for like ... maybe 4 months
+
+					Are they okay to consume?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Body" >
+			<PostId>13192</PostId>
+			<ParentPostId>7003</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-06T08:04:50.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7080</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If I open a bottle of Belgian beer-with a cork- drink a little then put the cork back in the bottle will the cork randomly pop or the bottle explode from any pressure?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Title" >
+			<PostId>13193</PostId>
+			<ParentPostId>7003</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-06T08:04:50.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7080</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can I re-cork a beer bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Tags" >
+			<PostId>13194</PostId>
+			<ParentPostId>7003</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-06T08:04:50.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7080</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preservation, belgian-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Unknown" >
+			<PostId>13206</PostId>
+			<ParentPostId>7003</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-11T07:28:25.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/907143779014074368
+			</EditDetails>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Body" >
+			<PostId>13695</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-28T21:09:52.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>174</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A long long time ago (.. I can still remember ♫) there were these old bottle caps. My parents still have 2 or 3 at home from soviet times. They look kinda like this:
+
+					[![enter image description here][1]][1]
+
+
+					What are those called? Ar there some keywords to find them? It took me at least 3- minutes to even find this image (and it was in  middle of completely unrelated images down on something like the third image-search page). Or, the best option, where can I buy a box of these?
+
+					  [1]: https://i.stack.imgur.com/kv6MK.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Title" >
+			<PostId>13696</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-28T21:09:52.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>174</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Trying to find a resealable bottle cap
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Tags" >
+			<PostId>13697</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-28T21:09:52.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>174</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottles, preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Edit Body" >
+			<PostId>13698</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-28T21:35:12.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>174</UserId>
+			</Contributors>
+			<EditDetails>
+				added 150 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					A long long time ago (.. I can still remember ♫) there were these old bottle caps. My parents still have 2 or 3 at home from soviet times. They look kinda like this:
+
+					[![enter image description here][1]][1]
+
+
+					What are those called? Ar there some keywords to find them? It took me at least 3- minutes to even find this image (and it was in  middle of completely unrelated images down on something like the third image-search page). Or, the best option, where can I buy a box of these?
+
+					**P.S.** I know that the image is from "flip-top" wikipedia page, but what I am looking for is a cap, that is independent from the bottle itself. 
+
+					  [1]: https://i.stack.imgur.com/kv6MK.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>13744</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-10T20:48:56.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/962428191234232321
+			</EditDetails>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>14088</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T08:41:35.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do people preserve wines , champagnes for decades . Is there a special method or is it like keep in wine storage or cupboard and forget for some decades to be better in taste 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>14089</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T08:41:35.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to people preserve wines , champange?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>14090</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T08:41:35.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, storage, preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Edit Body" >
+			<PostId>14093</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T12:35:24.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7517</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do people preserve wines and champagnes for decades? Is there a special method or is it like keep in wine storage or cupboard and forget for some decades to be better in taste?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Edit Title" >
+			<PostId>14094</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T12:35:24.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7517</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How to people preserve wines, champagne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Unknown" >
+			<PostId>14095</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T12:35:24.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7517 approved by 187, 5064 edit id of 326
+			</EditDetails>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Unknown" >
+			<PostId>14100</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T19:38:01.250</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/997561965148102657
+			</EditDetails>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Edit Title" >
+			<PostId>14107</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-19T19:06:56.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7787</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed spelling in title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do people preserve wines, champagne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Unknown" >
+			<PostId>14108</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-19T19:06:56.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7787 approved by 5064, 187 edit id of 327
+			</EditDetails>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Edit Tags" >
+			<PostId>14109</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-19T19:31:54.470</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					wine, storage, preservation, champagne, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,730 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>11782</PostId>
+			<ParentPostId>6541</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-16T13:09:15.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would like to know the real origins of the word (terminology) 'Hooch'.  I have done some research [here][1] and [here][2].  However is there another point of view?  If I make my own, can I call it 'Hooch'?
+
+
+					  [1]: http://www.culinarylore.com/drinks:origin-of-the-word-hooch-for-liquor
+					  [2]: http://www.funtrivia.com/askft/Question119446.html
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>11783</PostId>
+			<ParentPostId>6541</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-16T13:09:15.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					'Hooch' - origins of the word
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>11784</PostId>
+			<ParentPostId>6541</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-16T13:09:15.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>11840</PostId>
+			<ParentPostId>6541</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-20T15:27:00.090</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/833699479387770880
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>12675</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T07:46:29.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6699</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently picked up a Mr. Beer DIY Northwest Pale Ale Beer Brewing Kit, and when I told my Mom I was brewing beer, she said she wouldn't drink it because it might be poison. What do?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>12676</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T07:46:29.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6699</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How should I convince my mom that my beer isn't poison?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>12677</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T07:46:29.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6699</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					craft-beers, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Body" >
+			<PostId>12681</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T11:56:12.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently picked up a Mr. Beer DIY Northwest Pale Ale Beer Brewing Kit, and when I told my Mom I was brewing some homemade beer. She said she wouldn't drink it because it might be poison. Is there any why to explain to my mom that my beer would be quite safe to drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>12684</PostId>
+			<ParentPostId>6808</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T14:16:41.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6371</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I want to home-brew some mead because why not , plus it seems pretty easy to do.
+
+					My question is :
+
+					Can any mistake in the brewing process make the drink "poisonous" ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>12685</PostId>
+			<ParentPostId>6808</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T14:16:41.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6371</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can home-brewed mead be dangerous?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>12686</PostId>
+			<ParentPostId>6808</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-28T14:16:41.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6371</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					mead, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>12690</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-29T20:16:09.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/858414620503101440
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>12697</PostId>
+			<ParentPostId>6808</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-01T11:30:23.007</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/859007082984550400
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>12957</PostId>
+			<ParentPostId>6924</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-22T12:56:44.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6857</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					This is my first time homebrewing. I'm making mead with apples but noticed that some of the sliced apples lies above the liquid level.
+
+					 1. Do i need to push them down?
+					 2. Will the apple rot and spoil the mead if i dont?
+					 3. Is it necessary to siphon the mead to other containers to continue fermentation? I've seen some videos where people do so but I had no idea why.
+					 4. Do I need to add campden tablets once i am done with the fermentation?
+
+					Thanks in advance.
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>12958</PostId>
+			<ParentPostId>6924</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-22T12:56:44.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6857</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Brewing mead with fruits
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>12959</PostId>
+			<ParentPostId>6924</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-22T12:56:44.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6857</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					mead, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>13856</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-01T08:11:43.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7688</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can you brew beer in an apt? I could let it age in my closet, or the balcony storage shed.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>13857</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-01T08:11:43.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7688</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Brewing in a rented space/place.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>13858</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-01T08:11:43.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7688</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Unknown" >
+			<PostId>14143</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-01T02:04:48.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1002370346421547009
+			</EditDetails>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>14379</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-23T21:41:30.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have heard about being able to make alcohol in jail. How would that be done?
+					I imagine the the ingredient list would be limited. Anybody have first hand experience?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>14380</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-23T21:41:30.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do you make alchohol in jail?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>14381</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-23T21:41:30.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, ingredients, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Edit Body" >
+			<PostId>14390</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-25T19:46:30.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<EditDetails>
+				added 100 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have heard about being able to make alcohol in jail. How would that be done?
+					I imagine the the ingredient list would be limited like thing that would only be found in a cell. Anybody have first hand experience? As far as utensils you have your hands, socks, toilet other basic supplies found in jail. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Edit Title" >
+			<PostId>14391</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-25T20:01:04.663</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How to make alchohol in jail?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>14466</PostId>
+			<ParentPostId>7424</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T11:03:28.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have had much success making Elder Flower champagne in the past by adding the flower heads to large container of water, add sugar and little lemon for taste and leave for 2-4 weeks to ferment before filtering and bottling up in screw top bottles to get fermentation in the bottle and add some fizz to the drink.
+
+					I have always used the natural yeast that occur on the elder flower and produce a 4-5% alcoholic drink. Just wondering if anyone had any advice on using any store bought yeast for obtaining higher % of alcohol and what side effects this might have on the taste etc.
+
+					Many thanks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>14467</PostId>
+			<ParentPostId>7424</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T11:03:28.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Elder flower champagne best to use natural yeast or add a wine yeast?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>14468</PostId>
+			<ParentPostId>7424</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T11:03:28.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7935</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					alcohol-level, yeast, home-brew, champagne, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>14480</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I want to brew beer and I wonder which temperature I should ferment it at?
+					I want to brew ales like IPA and Pale Ale.
+
+					What difference does different fermentation temperatures have on the beer? Are there different temperatures needed when brewing different kinds of beers with different yeasts?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>14481</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Brewing: Which temperature should I ferment ale beer at?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>14482</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, german-beers, craft-beers, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>14483</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:51:25.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I live close to a farm and I have access to fresh barley. How would I go forward to create barley malt, so I can brew for example a Pale Ale beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>14484</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:51:25.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I create, dry or roast my own barley malt for beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>14485</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:51:25.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, home-brew, malt, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Post Locked" >
+			<PostId>14502</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Post Locked"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-14T02:12:37.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>14503</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-14T02:12:37.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				to https://homebrew.stackexchange.com/questions/23253/how-do-i-create-dry-or-roast-my-own-barley-malt-for-beer
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Post Closed" >
+			<PostId>14505</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-14T02:12:37.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>14506</PostId>
+			<ParentPostId>7424</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-14T15:01:50.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1029382594947895298
+			</EditDetails>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Unknown" >
+			<PostId>14541</PostId>
+			<ParentPostId>7397</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-20T09:00:59.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1031466111483764736
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

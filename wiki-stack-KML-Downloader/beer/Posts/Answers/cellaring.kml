@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>103</PostId>
+			<ParentPostId>99</ParentPostId>			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:16:57.733</CreationDate>
+				<LastEditDate>2014-01-21T23:01:58.577</LastEditDate>
+				<LastActivityDate>2014-01-21T23:01:58.577</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>68</OwnerUserId>
+				<LastEditorUserId>68</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Good question! I know that most (almost all) beers will not improve with age, and as you say will simply spoil. I don't know of any beers that you really want to age in the same way that you would age wine. In general, I would not age any beer unless it has specifically been presented to you by the brewer as something that should be aged.&lt;/p&gt;
+
+					&lt;p&gt;Bottle fermentation or bottle-conditioning is adding yeast to the bottle at bottling time, so that the beer continues to ferment in the bottle. The main purpose of this is to carbonate the beer in the bottle, without injecting CO2 under pressure. I think most brewers do any conditioning before they sell their product, so you don't have to do this yourself unless you're homebrewing.&lt;/p&gt;
+
+					&lt;p&gt;It's not clear to me why wine ages in the bottle, while whisky and beer don't. Any good answer would probably just confuse me anyway, with lots of mumbo-jumbo about tannins and stuff. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>112</PostId>
+			<ParentPostId>99</ParentPostId>			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>29</Score>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:43:07.797</CreationDate>
+				<LastActivityDate>2014-01-21T22:43:07.797</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are a couple of considerations, although this is far from a complete answer.&lt;/p&gt;
+
+					&lt;p&gt;First, a stronger (higher ABV) beer will tend to cellar better, as the alcohol can act to help prevent oxidization.&lt;/p&gt;
+
+					&lt;p&gt;Second, a beer with less emphasis on hops, and more on malt, yeast, or other characteristics, will be a better candidate, because the qualities that hops impart will fade in a fairly short time.  This is why your IPAs and such should be consumed sooner than later -- the character is primarily in the hops.&lt;/p&gt;
+
+					&lt;p&gt;The purpose of cellaring a beer is to see its improvement over time.  Some may stay exactly the same, which others will change.  I think the answer there lies in whether there is still active yeast or bacteria in the bottle, and whether there is anything for them to chew on.  Some styles (lambics, for example) are far more prone to this, but I don't think there's a hard and fast rule that one couple follow.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>114</PostId>
+			<ParentPostId>99</ParentPostId>			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:44:36.553</CreationDate>
+				<LastEditDate>2014-02-01T20:10:48.037</LastEditDate>
+				<LastActivityDate>2014-02-01T20:10:48.037</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>31</OwnerUserId>
+				<LastEditorUserId>31</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Typically it depends on the style. High ABV beers, such as imperial stouts and barley wines will typically age well while others lower in ABV will go rancid after 3-6 months. Obviously you're not going to want to cellar a Bud Light (it tastes rancid anyway before storing it). But even when speaking of higher quality beers, you're not going to want to cellar witbeers, pale ales, and things of that nature which are rather light beers. It is usually best to ask the brewer if the beer is recommended for storing. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>163</PostId>
+			<ParentPostId>99</ParentPostId>			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T06:05:41.460</CreationDate>
+				<LastActivityDate>2014-01-22T06:05:41.460</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>117</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In terms of commercial beers, it is hard to say.  In general I find that aging tends to allow flavors to meld.  If I brew beer and do a brief aging in oak (or add oak chips), the beer usually &lt;em&gt;requires&lt;/em&gt; aging to achieve balance.  This is most typical with something I sometimes make called ebulon (non-carbonated, fermented malt and elderberries, secondary fermentation in oak for a month, then bottled and aged for several more months).&lt;/p&gt;
+
+					&lt;p&gt;Extrapolating from my experience here, I would expect a few general rules to apply:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;&lt;p&gt;Beers with disparate sharp contrasts (particularly where fruit are involved) may benefit from aging.  I could imagine things like full-bodied apricot ales aging well.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Higher ABV and richer beers are likely to age better than lower ABV and lighter beers.&lt;/p&gt;&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;This is assuming you hope to see a general "smoothing over" of contrasts in an aged beer.  Some things will usually fade and some others may increase (for non-pasteurized or unfiltered beers, yeast flavors will usually increase).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>474</PostId>
+			<ParentPostId>204</ParentPostId>			<Tags>
+				<tag>storage</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-31T20:17:30.217</CreationDate>
+				<LastActivityDate>2014-01-31T20:17:30.217</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You'll probably do best keeping the room layout simple and as easily organized as possible.  The main thing for the beer is to keep the temperature steady and relatively low (around 50F) and keep light out.  Even with brown bottles there's still some UV penetration, which you want none of.  So keep it dark when you're not in there and try to avoid florescent lighting when you're there.  Keeping it organized also helps you minimize your time in there, which keeps light and temperature steady.&lt;/p&gt;
+
+					&lt;p&gt;I wouldn't worry too much about the air flow as long as it's not completely stagnant and all the areas of the room are getting some air of the right temperature.  Liquid and glass hold temperature a lot better than air on their own so they won't have significant fluctuation once you get them where you want them.  I think most collections prefer shallow shelves for this reason.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>534</PostId>
+			<ParentPostId>99</ParentPostId>			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-04T23:31:25.287</CreationDate>
+				<LastActivityDate>2014-02-04T23:31:25.287</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>81</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are a few types of beers which are (generally) good to age.&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;&lt;em&gt;Strong Beers:&lt;/em&gt; like such as barleywines, robust porters, and imperial stouts. It is benefical if a beer is 8-10 percent or stronger, since an elevated alcohol profile will typically become smoother, mellower and more agreeable. That does not mean lower alcohol percentage beers can not be aged, but higer percentage beers are more suitable most of the time. &lt;/li&gt;
+					&lt;li&gt;&lt;em&gt;Dark Malt:&lt;/em&gt; like Palo Santo and World Wide Stout. Darker, maltier beer is better because the sweet, residual sugars tend to soften over time. Even lower-alcohol beers with a malt-heavy profile will age better. &lt;/li&gt;
+					&lt;li&gt;&lt;em&gt;Wild Beers:&lt;/em&gt; living organisms change the beer as it ages in the bottle. Orval Trappist Ale is a classic example. The Belgian pale ale receives a dose of Brettanomyces yeast as it goes in the bottle. The yeast can live in the bottle for years, slowly consuming sugars and protecting the beer’s existing flavors by consuming oxygen. Over time it goes from being bright and hoppy to bready, earthy and spicy. But sometimes they are unstable, because the yeast rapidly works through a beer and alters its character.&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;&lt;em&gt;What not to age:&lt;/em&gt; IPA do not improve with age. Hoppy beers are not for aging.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>3327</PostId>
+			<ParentPostId>99</ParentPostId>			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-08T14:07:54.007</CreationDate>
+				<LastActivityDate>2015-04-08T14:07:54.007</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>529</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would suggest reading "Vintage Beer: A Taster's Guide to Brews That Improve over Time" by Patrick Dawson. To summarize his findings on what types of beers improve with age they must contain at least one of these three characteristics:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;High ABV (8% or more)&lt;/li&gt;
+					&lt;li&gt;Sour&lt;/li&gt;
+					&lt;li&gt;Smoke&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;It goes without saying that if a beer has two or more of these characteristics the odds of it improving with cellaring go up. But even if it has all three characteristics it may not improve with age, or only aging to a certain point.&lt;/p&gt;
+
+					&lt;p&gt;Plus you must remember that proper aging is also required. Proper storage, temperature control, how the bottle is positioned while being stored, etc.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>3330</PostId>
+			<ParentPostId>99</ParentPostId>			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-11T08:34:46.707</CreationDate>
+				<LastActivityDate>2015-04-11T08:34:46.707</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3885</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Personally I was quite taken with 60, 90, and 120 minute IPAs (thank you DFH) when shelved in cool and dark places for as much as a year. My guess is it would have been good for longer, but tasty beer and curiosity got the best of my experiment. I think Wayne in Yak deserves an up vote I can't yet do thanks to my noob status. Well researched and void of conjectural inaccuracy. If hops were the only flavor in IPA then yes it could be decreasingly "hoppy" but that's assuming we're referring to the aroma hops. Your bittering hops would surely deepen with time. But with any beer there are more layers than one. High ABV beers will just broaden the chord change more as every flavor will carry different in the changing alcohol/water/sugar levels that time provides. Fruit in the beer no matter its place on the sweet/sour spectrum (notably normally high point as well) have similar success on the "cool dark" shelf. This is due to natural fermentation of organic matter  stored over time. Ever noticed how fresh salsa gets effervescent in your fridge? Granted there are no chunks of fruit (or tomatoes luckily) in your beer so the effects are severely lessened. They weigh in on the scale equal to the alcohol changes mentioned above. A personal favorite of mine is a Scotch Ale stored for as long as you can wait. Hope this helps.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>5174</PostId>
+			<ParentPostId>99</ParentPostId>			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-27T01:35:57.440</CreationDate>
+				<LastActivityDate>2016-06-27T01:35:57.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5599</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Home brew here: I do German Hefeweitzen, or wheats. No preservatives. Did a dark one, went overboard on the dark malt, used 4 times as much as I should. Got something that tasted like a Guiness out of it. Not bad, but not what I was looking for in a dark German wheat. Put the bottles away in a dedicated fridge, a year ago.&lt;/p&gt;
+
+					&lt;p&gt;Oh my god, the sugars built up! Just tried it for the first time tonight, to see if it was spoiled. I am now going to brew this one as my "one year old", as a special recipe. &lt;/p&gt;
+
+					&lt;p&gt;Yes, you can age a good, quality beer, at least under refrigeration. I am just learning about this. I am just consuming my one-year-old bottle of medium Hefe that I brewed last summer (my favorite recipe), and it is knocking a punch in terms of good flavors.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>7163</PostId>
+			<ParentPostId>7162</ParentPostId>			<Tags>
+				<tag>wine</tag>
+				<tag>cellaring</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-01-24T11:19:16.027</CreationDate>
+				<LastActivityDate>2018-01-24T11:19:16.027</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>187</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If Angove's are suggesting it may not be good, then its value as an investment is going to be low or zero, so if I were in your shoes I'd probably open it and try it. What's the worst that could happen?&lt;/p&gt;
+
+					&lt;p&gt;That said, Vintage Ports are typically supposed to last a long time. As it mentions on the label, "extended bottle maturation" where the port is bottled with unfiltered sediment usually means they should be cellared for 20 or 30 years or even 40 years. So I'd suggest it will be coming into its own soon. Give it another few years and then open it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>7165</PostId>
+			<ParentPostId>7162</ParentPostId>			<Tags>
+				<tag>wine</tag>
+				<tag>cellaring</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-01-24T19:47:11.193</CreationDate>
+				<LastActivityDate>2018-01-24T19:47:11.193</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The person you talked to knows nothing about Port. Port is meant to age a very long time. Personally, I've had 50 year old ports that were excellent. Port is made by stopping fermentation with alcohol leaving behind some unfermented grape juice and about 20% alcohol. Because of the high alcohol, properly stored Port rarely has the problems that regular wine have. Actually, part of the reason they started putting alcohol in wine like this was exactly for abuse. It was meant to ship all over the world in adverse conditions and still be drinkable. &lt;/p&gt;
+
+					&lt;p&gt;Enjoy your Port now or hold for as long as can. Maybe up to another 20 years!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>7186</PostId>
+			<ParentPostId>7162</ParentPostId>			<Tags>
+				<tag>wine</tag>
+				<tag>cellaring</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-09T00:08:09.090</CreationDate>
+				<LastActivityDate>2018-02-09T00:08:09.090</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7572</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would open at the next possible occasion. Twenty three years is usually enough time for the majority of vintage ports to mature fully. When the previous commenter says he’s had wonderful 50 year old ports, he surely means ones from the very highest quality :
+					 (1) Producers - I don’t know much about Angove’s but my quick research has revealed some older vintages of Angove’s  (early 70s) retailing for about $90. Top vintage ports from this era typically retail much higher. 
+					 (2) Vintages - how was ‘95 for Australian port? I don’t know. 
+					 (3) Provenance - you said yourself you’re not sure if it’s been stored properly. &lt;/p&gt;
+
+					&lt;p&gt;Good luck! &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

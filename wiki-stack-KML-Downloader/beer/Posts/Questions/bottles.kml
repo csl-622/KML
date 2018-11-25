@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>458</PostId>
+			<AcceptedAnswerId>460</AcceptedAnswerId>
+			<Title>
+			"Why do beer bottles overflow when hit from above?"
+			</Title>
+			<Tags>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>26</Score>
+				<ViewCount>1492</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-31T04:14:24.583</CreationDate>
+				<LastEditDate>2017-08-16T11:47:14.140</LastEditDate>
+				<LastActivityDate>2017-08-16T11:47:14.140</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;ol&gt;
+					&lt;li&gt;You're holding a bottle of beer, mostly full&lt;/li&gt;
+					&lt;li&gt;A prankster comes up and hits your bottle from above with hers.&lt;/li&gt;
+					&lt;li&gt;Yours immediately and violently overflows (while hers stays unaffected).&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;See this short &lt;a href="http://www.npr.org/assets/img/2013/11/beer/beerresized.gif" rel="nofollow noreferrer"&gt;video&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;p&gt;Of special note is the fact that this does not occur when a beer bottle is hit from below or on the sides.&lt;/p&gt;
+
+					&lt;p&gt;What mechanism causes this?  Is it a property of beer, or of glass beer bottles, or something else?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>470</PostId>
+			<AcceptedAnswerId>471</AcceptedAnswerId>
+			<Title>
+			"Why use clear or green bottles?"
+			</Title>
+			<Tags>
+				<tag>skunking</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>2325</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-31T18:59:21.883</CreationDate>
+				<LastActivityDate>2014-01-31T20:17:09.733</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>192</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In my experience, as well as accounts of others' experiences, it seems that clear and green bottles are inferior to brown bottles for storing beer. I know this is due to the amount of light allowed through the bottle.&lt;/p&gt;
+
+					&lt;p&gt;But why do breweries continue to use green and (especially) clear bottles? Why bother with a bottle that is more likely to allow beer to spoil?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>521</PostId>
+			<AcceptedAnswerId>527</AcceptedAnswerId>
+			<Title>
+			"Does bottle size affect aging or storage?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>aging</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>425</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-04T18:23:03.580</CreationDate>
+				<LastActivityDate>2014-02-04T20:11:31.223</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>83</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Typically I want to age 22oz bottles, but I'm curious if I could get away with aging a smaller bottle. Is there any difference based on bottle size?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>554</PostId>
+			<AcceptedAnswerId>570</AcceptedAnswerId>
+			<Title>
+			"Will a collection of 100 beers collectively be worth more 20 years from now than their value today?"
+			</Title>
+			<Tags>
+				<tag>bottles</tag>
+				<tag>cans</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>568</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-05T23:30:12.823</CreationDate>
+				<LastActivityDate>2014-02-07T21:18:28.040</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>418</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Different beer bottles and cans (with contents) from different places collected in the past 3 years.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>654</PostId>
+			<Title>
+			"Is there anything I can do short of leaving a glass out on the counter to mitigate overcarbonation?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>141</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-08T18:42:21.577</CreationDate>
+				<LastActivityDate>2014-03-10T01:30:22.140</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently picked up a bunch of bottles of what seemed like interesting brews from &lt;a href="http://hitachinonest.com/"&gt;Hitachino&lt;/a&gt;, because I was interested in exploring some Japanese beers. Unfortunately, the first two bottles I've opened now seem to have both been &lt;em&gt;severely&lt;/em&gt; overcarbonated.&lt;/p&gt;
+
+					&lt;p&gt;We're talking foam overflowing out of the bottle once I open it. These bottles have &lt;em&gt;not&lt;/em&gt; been exposed to significant agitation recently. They've been sitting on a shelf, upright as is proper, for days. Worse still, they don't just explode and make a mess, but they also simply &lt;em&gt;taste&lt;/em&gt; severely overcarbonated. It's like drinking shaken seltzer water mixed with my beer, and it's decidedly unpleasant. At this point, the only thing I've been able to do is pour a glass, leave it out for an hour or three, and &lt;em&gt;then&lt;/em&gt; drink it.&lt;/p&gt;
+
+					&lt;p&gt;Which is... impractical at best, and is only going to become less so as the weather warms up. Is there anything else I can do to mitigate this?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>655</PostId>
+			<Title>
+			"Are Hitachino's beers characteristically really heavily carbonated?"
+			</Title>
+			<Tags>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>118</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-08T18:47:58.113</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-04-22T00:56:26.073</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently picked up a bunch of bottles of what seemed like interesting brews from &lt;a href="http://hitachinonest.com/" rel="nofollow noreferrer"&gt;Hitachino&lt;/a&gt;, because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be &lt;a href="https://alcohol.stackexchange.com/q/654/8"&gt;severely overcarbonated.&lt;/a&gt; To the point of both making a mess, and being unpleasant to drink.&lt;/p&gt;
+
+					&lt;p&gt;Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? Or just spoiled by sitting on the shelf too long? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>740</PostId>
+			<Title>
+			"Are brown bottles sufficient to protect beer from skunking?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>bottles</tag>
+				<tag>skunking</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>909</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-19T16:56:02.880</CreationDate>
+				<LastActivityDate>2014-06-03T10:42:23.010</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>793</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have read that when stored in a clear container, sunlight can cause beer to skunk in a matter of seconds or minutes. I have also read that brown bottles are "better" when it comes to preventing this.&lt;/p&gt;
+
+					&lt;p&gt;But how much better? Enough to "not worry about it" for short-term storage?&lt;/p&gt;
+
+					&lt;p&gt;My specific situation is this: I have a (clear) glass cupboard in the living room. I also have a rotating (every few weeks or so) selection of beers, some of which are in rather nice bottles. I would like to store the bottles in said cupboard. &lt;/p&gt;
+
+					&lt;p&gt;The bottles are brown, and the cupboard is not exposed to &lt;em&gt;direct&lt;/em&gt; sunlight, but the room is generally well-lit. Would I be risking (or just waiting for) spoilage?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>3417</PostId>
+			<Title>
+			"Why does draught (draft) beer cause hangovers?"
+			</Title>
+			<Tags>
+				<tag>draught</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>5209</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-23T19:00:38.220</CreationDate>
+				<LastActivityDate>2016-09-08T20:43:19.357</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4241</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why is draught (draft) beer known to cause more hangovers than bottled beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>3499</PostId>
+			<AcceptedAnswerId>3500</AcceptedAnswerId>
+			<Title>
+			"Difference between glass, bottle and can?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>glassware</tag>
+				<tag>bottles</tag>
+				<tag>cans</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>3452</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-24T07:10:26.990</CreationDate>
+				<LastActivityDate>2015-08-14T11:59:40.297</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4353</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was wondering if there really is a difference in taste when you drink the same beer out of a glass, a bottle and a can.&lt;/p&gt;
+
+					&lt;p&gt;Can anybody please tell me if there is a difference or if this is just a prejudice in your mind that makes you think it's better in one way?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>4824</PostId>
+			<AcceptedAnswerId>4826</AcceptedAnswerId>
+			<Title>
+			"What is the proper way to open a bottle of Delirium Tremens?"
+			</Title>
+			<Tags>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>849</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-12T18:19:14.713</CreationDate>
+				<LastActivityDate>2016-10-08T21:19:20.187</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5083</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I received a bottle of Delirium Tremens for my birthday and this will be the first time I have tasted that beer.  I see that it has what appears to be a cork which is surrounded by 4 wire posts at the corner.  The &lt;a href="https://www.instagram.com/p/6OODOXD7f2/"&gt;following site&lt;/a&gt; (of some random person I don't know) has an image of a bottle looking very much like my own.&lt;/p&gt;
+
+					&lt;p&gt;So that I don't mutilate what is sure to be a wonderful beer, how should I get about opening it?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>7168</PostId>
+			<AcceptedAnswerId>7171</AcceptedAnswerId>
+			<Title>
+			"Trying to find a resealable bottle cap"
+			</Title>
+			<Tags>
+				<tag>bottles</tag>
+				<tag>preservation</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>75</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-01-28T21:09:52.497</CreationDate>
+				<LastEditDate>2018-01-28T21:35:12.133</LastEditDate>
+				<LastActivityDate>2018-02-01T03:41:24.870</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>174</OwnerUserId>
+				<LastEditorUserId>174</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A long long time ago (.. I can still remember ♫) there were these old bottle caps. My parents still have 2 or 3 at home from soviet times. They look kinda like this:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/kv6MK.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/kv6MK.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;What are those called? Ar there some keywords to find them? It took me at least 3- minutes to even find this image (and it was in  middle of completely unrelated images down on something like the third image-search page). Or, the best option, where can I buy a box of these?&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; I know that the image is from "flip-top" wikipedia page, but what I am looking for is a cap, that is independent from the bottle itself. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

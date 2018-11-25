@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>10</PostId>
+			<AcceptedAnswerId>209</AcceptedAnswerId>
+			<Title>
+			"How do you mull beer?"
+			</Title>
+			<Tags>
+				<tag>mulling</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>171</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:39:03.323</CreationDate>
+				<LastActivityDate>2014-01-22T17:04:49.340</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's pretty cold at the moment. Mulled wine being more of a Christmas drink, mulled beer is getting popular. What beers, and what spices should I use to make it?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>171</PostId>
+			<Title>
+			"Optimal mulling temperature?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>mulling</tag>
+				<tag>preparation-for-drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>59</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T09:05:49.673</CreationDate>
+				<LastEditDate>2014-01-22T16:09:14.117</LastEditDate>
+				<LastActivityDate>2014-01-24T06:19:47.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>130</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Taste-wise, at least in my opinion, the hotter the mulled beer the better. Except past certain point the alcohol starts evaporating so quickly you end up losing most of it before you start drinking.&lt;/p&gt;
+
+					&lt;p&gt;How should I heat the beer - what temperature, what heating method - to get it as hot as possible without losing alcohol content?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>4970</PostId>
+			<Title>
+			"What characteristics make a suitable wine for mulling?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>mulling</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>80</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-22T00:53:24.277</CreationDate>
+				<LastActivityDate>2016-04-22T03:09:20.427</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5328</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I make mulled wine (wine heated with anise stars, citrus, and spices) I use Rex Goliath because at $6 a bottle, it's the cheapest thing I can get my hands on. But is there a better way? &lt;/p&gt;
+
+					&lt;p&gt;What style of wine is most suitable, and will I get better results from a more drinkable wine?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

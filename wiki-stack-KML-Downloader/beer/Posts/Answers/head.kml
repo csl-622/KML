@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>389</PostId>
+			<ParentPostId>382</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T22:48:38.377</CreationDate>
+				<LastActivityDate>2014-01-28T22:48:38.377</LastActivityDate>
+				<CommunityOwnedDate>2014-01-28T22:48:38.377</CommunityOwnedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;As long the beer's sealed, there should be no difference in taste due to rapid or slow cooling. Lowering the temperature only increases the solubility of CO&lt;sub&gt;2&lt;/sub&gt;, which should dissolve later.&lt;/p&gt;
+
+					&lt;p&gt;Temperature itself does impact taste, supposedly due to our taste buds being number in cold, hiding certain flavors (which can be desirable or undesirable depending on the beer). But this isn't related to the rate of cooling of beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>395</PostId>
+			<ParentPostId>382</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T23:45:14.353</CreationDate>
+				<LastActivityDate>2014-01-28T23:45:14.353</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>224</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I can think of three possible impacts this scheme might have on a keg of beer.  &lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;Since the keg is kept at room temperature, if the beer is unpasteurized the flavor will evolve at a faster rate than refrigerated beer would.  This isn't a change due to the quick cooling, per se, but it is a possibly major difference.&lt;/li&gt;
+					&lt;li&gt;As mentioned by @acheong, the CO2 solubility of beer is significantly lower at room temperature, so keeping the beer properly carbonated becomes a more difficult task.  Specifically, you have to keep the pressure much higher, making the serving pressure higher, which makes the complex calculus of draft line measurements that much harder.&lt;/li&gt;
+					&lt;li&gt;Chill haze could be an issue.  If the brewer didn't take steps to prevent it, there'll be haze-inducing proteins in suspension.  If the beer is stored cool, these will quickly fall out, but if it's kept warm and only cooled at the time it's served, they'll end up in your glass.&lt;/li&gt;
+					&lt;/ol&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>409</PostId>
+			<ParentPostId>382</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T13:49:38.310</CreationDate>
+				<LastActivityDate>2014-01-29T13:49:38.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>263</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In short, no.  The time it takes to cool a beer will not have an impact on the flavor of a beer.  However there are certain temperatures that are preferred for serving certain beers.&lt;/p&gt;
+
+					&lt;p&gt;The most damaging thing to beer flavor is light pollution.  When in direct light, isohumulones from the bittering agents in hops can react with riboflavin (Vitamin B2) in beer and produce 3-methylbut-2-ene-1-thiol (MBT) which has a noticeable skunky flavor and aroma.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>569</PostId>
+			<ParentPostId>568</ParentPostId>			<Tags>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-07T03:19:18.823</CreationDate>
+				<LastActivityDate>2014-02-07T03:19:18.823</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>37</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;For the same reason that root beer floats behave in a similar fashion.  Even though there is less carbonation than in root beer (and I presume similarly less foam, though still a significant quantity) the irregular surface of the ice cream offers a massively larger number of nucleation sites than the smooth glass of your favorite beer vessel.   These nucleation sites cause the CO2 to come out of solution, and voila, much foam does appear.  I believe that the ice cream has properties that enhance the foaming effect as well.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>729</PostId>
+			<ParentPostId>728</ParentPostId>			<Tags>
+				<tag>head</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-12T13:12:36.093</CreationDate>
+				<LastActivityDate>2014-04-12T13:12:36.093</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>37</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes, beer is indeed generally supposed to have a head.  The foam can add to both the flavor and the texture of your beer.  It is preference for sure, and if you don't like it, then you don't like it, but I'd encourage you to try it from time to time with an open mind.  The head of a beer is quite complex, consisting of proteins that are acted on by the hops, the yeast, and the carbonation. Because of the complexity, creating the perfect recipe for foam in a beer is something the brewers spend quite a lot of time and energy on, and it's a fairly integral part of a good beer. &lt;/p&gt;
+
+					&lt;p&gt;Note that there are exceptions. Truly non-carbonated beer, like Samuel Adams Utopias will not have a head. Hever, from what I've read, that specific example is probably more closely comparable to a fortified wine than a common beer in any case.  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>741</PostId>
+			<ParentPostId>728</ParentPostId>			<Tags>
+				<tag>head</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-21T15:20:48.617</CreationDate>
+				<LastEditDate>2014-05-08T19:49:16.100</LastEditDate>
+				<LastActivityDate>2014-05-08T19:49:16.100</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>798</OwnerUserId>
+				<LastEditorUserId>798</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer is typically supposed to have a head of about 1/2 inch. This enhances the flavor and gives off an aroma that will add to the experience. A good bartender should give you a nice head on your beer unless you ask for your beer sans head. You should not be getting a glass half full of foam.&lt;/p&gt;
+
+					&lt;p&gt;Some brewers (I know Guinness specifically, but I'm sure there are others) even have special glasses and pouring procedures to give their beer the perfect head. &lt;/p&gt;
+
+					&lt;p&gt;If you try a beer with a head, try not to look down into your beer, but instead look straight ahead and bring your glass to your mouth with your elbow out. This will keep you from getting a mouth full of foam, and is how you are supposed to drink most beers.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>746</PostId>
+			<ParentPostId>745</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>carbonation</tag>
+				<tag>foam</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>-1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-23T12:09:35.870</CreationDate>
+				<LastActivityDate>2014-04-23T12:09:35.870</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>353</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This isn't the "best" answer but a dab of soap (think back to grade school science) with help break up the bubbles and bring that head down real fast&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>749</PostId>
+			<ParentPostId>745</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>carbonation</tag>
+				<tag>foam</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-23T16:53:44.177</CreationDate>
+				<LastActivityDate>2014-04-23T16:53:44.177</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>662</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Soap is absolutely the worst thing you could do I guess :P.
+					Sometimes I notice that badly dried glasses (with soap rests) produce more foam...
+					In general, make sure your glass is spotlessly clean. You could then either leave it dry or make it a little wet, works sometimes...
+					Keep your glass diagonal to make sure the liquid touches the glass almost parallel to the glass' inner side.
+					Then when pouring, make sure you have a slow and fluent ray of beer that doesn't splash out of your bottle.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>772</PostId>
+			<ParentPostId>728</ParentPostId>			<Tags>
+				<tag>head</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-06T19:31:05.273</CreationDate>
+				<LastActivityDate>2014-05-06T19:31:05.273</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>842</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I had an opportunity to visit the Heineken Brewery on a trip to Amsterdam. During my tour, our bartender was able to give a succinct and general answer: to protect the beer, it's flavor and aroma. If you like, you can read more about foam physics and the importance of foam in this dated WSJ article: &lt;a href="http://www.rpi.edu/dept/chem-eng/Biotech-Environ/FOAM/bcbeer.htm" rel="nofollow"&gt;http://www.rpi.edu/dept/chem-eng/Biotech-Environ/FOAM/bcbeer.htm&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>3415</PostId>
+			<ParentPostId>3414</ParentPostId>			<Tags>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-23T14:09:47.053</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2015-06-24T13:31:26.470</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are some good answers &lt;a href="https://alcohol.stackexchange.com/questions/485/why-is-it-important-to-have-foam-on-a-beer"&gt;here&lt;/a&gt;, but to distill and maybe enhance:&lt;/p&gt;
+
+					&lt;p&gt;Beer heads are a great indication of proper serving because if any number of factors that could affect the taste are off, they'll also affect the head.  Some of these are:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Warm beer foams too much. If your server is dumping tons of head down the drain to fill your glass with enough beer, it might be too warm.&lt;/li&gt;
+					&lt;li&gt;Too much pressure in the keg makes beer foam too much.  The brewer carbonated it to the level they wanted, the bar might be over-carbonating it.&lt;/li&gt;
+					&lt;li&gt;Cold beer does not foam very much.  If the kegs are chilled too cold or the bar is serving beer in a frozen glass, your beer is probably too cold.  Cold temperatures will dull flavors and kill aromas. Obviously if you're into beer for flavor, this is bad.&lt;/li&gt;
+					&lt;li&gt;Dirty glasses tend to dissipate the foam very quickly, so you could be drinking whatever was in the glass before, or soap scum... neither of which sounds very tasty.&lt;/li&gt;
+					&lt;li&gt;Under-carbonated beer doesn't foam very much.  Under-carbonation can also dull flavors since so much of taste is based on smell and you can't smell volatile aromatics if there's no fizz to carry them out of the liquid.&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;There are various schools of thought on the head as an indicator of beer's quality or freshness but realistically this will vary by style.  Think of the thick creamy head of Guinness stout; remove the head and you completely change the experience.  The large luxurious heads of Belgian beers, or the thinner off-color head of porters.&lt;/p&gt;
+
+					&lt;p&gt;Also, without a good head with lots of tiny popping bubbles of CO2 to spray the air above the glass with volatile aromatic oils, you wouldn't have nearly as much hoppiness to smell and taste in an IPA or spices from a Belgian style.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>3419</PostId>
+			<ParentPostId>3414</ParentPostId>			<Tags>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-23T21:24:51.813</CreationDate>
+				<LastEditDate>2015-06-23T21:41:22.313</LastEditDate>
+				<LastActivityDate>2015-06-23T21:41:22.313</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4238</OwnerUserId>
+				<LastEditorUserId>4238</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;blockquote&gt;
+					  &lt;p&gt;You taste and judge beer more or less like wine. Among the first things (after looking at the color) is the fragrance. Pouring a beer with a good head brings more of that out. You can test it yourself. Open a bottle of good beer (not an ordinary lager) and pour two glasses: one with a good head (2-3 centimeters) and one without any. Then see which one has the most fragrance.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;This was an answer on a similar Quora question &lt;a href="http://www.quora.com/Why-is-head-important-in-beer" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>5177</PostId>
+			<ParentPostId>5176</ParentPostId>			<Tags>
+				<tag>glassware</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-28T16:30:51.497</CreationDate>
+				<LastActivityDate>2016-06-28T16:30:51.497</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>187</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Generally, washing and rinsing properly first time should mean this problem doesn't happen.&lt;/p&gt;
+
+					&lt;p&gt;If it does, vinegar is an excellent residue remover. &lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Rinse the glass fully in clean water (no soap).&lt;/li&gt;
+					&lt;li&gt;Rub the glass with a small sponge soaked in vinegar&lt;/li&gt;
+					&lt;li&gt;Rinse again&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;That should solve the problem. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

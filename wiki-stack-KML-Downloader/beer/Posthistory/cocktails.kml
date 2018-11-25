@@ -1,0 +1,1741 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>9343</PostId>
+			<ParentPostId>5066</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-04T05:00:28.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Could anyone tell me what is the name of the cocktail with largest number of layers in a [layered drink][1] and in which order the various liqueurs are poured into it?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Layered_drink
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>9344</PostId>
+			<ParentPostId>5066</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-04T05:00:28.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the name of the coctail with the greatest number of layers in a layered drink and which order are the various liqueurs poured?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>9345</PostId>
+			<ParentPostId>5066</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-04T05:00:28.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					liqueur, coctails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Title" >
+			<PostId>9346</PostId>
+			<ParentPostId>5066</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-04T12:57:51.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the name of the cocktail with the greatest number of layers in a layered drink and which order are the various liqueurs poured?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Tags" >
+			<PostId>9347</PostId>
+			<ParentPostId>5066</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-04T12:57:51.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					liqueur, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Edit Body" >
+			<PostId>9352</PostId>
+			<ParentPostId>5066</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-05T15:20:35.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added 38 words for clearity.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Could anyone tell me what is the name of the cocktail with largest number of layers in a [layered drink][1] and in which order the various liqueurs are poured into it?
+
+					&gt;A layered (or "stacked") drink, sometimes called a pousse-café, is a kind of cocktail in which the slightly different densities of various liqueurs are used to create an array of colored layers, typically two to seven. - [Wikipedia.][1]
+
+
+					  [1]: https://en.wikipedia.org/wiki/Layered_drink
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>9353</PostId>
+			<ParentPostId>5066</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-06T13:36:07.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				Removed misspelled tag have not added Liquor tag as not necessary cocktail is enough 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>9781</PostId>
+			<ParentPostId>5202</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-14T14:47:49.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Being a huge fan of vinegar, I recently wondered if there are any actual known cocktail recipes/drinks that involve vinegar as an ingredient, preferably as a significant ingredient contributing perceivably to the drink's taste.
+
+					While there are drinks with a more spicy/hearty flavour, like *Bloody Mary*, I never heard of a cocktail involving vinegar and wonder if it would even work together with alcohol from a flavour-perspective. I could imagine the best targets to be spirits with a rather low-profile taste of their own, like vodka.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>9782</PostId>
+			<ParentPostId>5202</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-14T14:47:49.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there drinks/cocktails involving vinegar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>9783</PostId>
+			<ParentPostId>5202</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-14T14:47:49.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, ingredients, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Body" >
+			<PostId>11216</PostId>
+			<ParentPostId>6336</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-11T11:26:43.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5998</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I want to make a cocktail which uses Yellow Chartreuse. I happen to have a quarter-bottle of Green Chartreuse in the back of the cabinet. I know the green variety is stronger and the yellow somewhat sweeter. I'm thinking I'll use a little less, increase the (other) sweeter ingredients, and maybe pick a stronger base liquor to balance better. Will this result in something mostly like the original cocktail, or will it be more like a whole new thing (for better or worse)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Title" >
+			<PostId>11217</PostId>
+			<ParentPostId>6336</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-11T11:26:43.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5998</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can I substitute Green Chartreuse for Yellow?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Tags" >
+			<PostId>11218</PostId>
+			<ParentPostId>6336</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-11T11:26:43.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5998</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Unknown" >
+			<PostId>11222</PostId>
+			<ParentPostId>6336</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-12T19:39:03.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/786290101466849280
+			</EditDetails>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Body" >
+			<PostId>11422</PostId>
+			<ParentPostId>6416</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-06T08:13:45.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6171</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					For a kind of cocktail competition I'm running against friends, I need a cocktail around France theme, my idea is to pair a cocktail with a French cheese.
+
+					I know that cherries do pair well with bask sheep cheese for example (we're used to eat it with black cherry jam)
+
+					Would you have a cherry flavored cocktail to advise ? 
+					Or any other cheese / cocktail association ?
+
+					Many thanks! 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Title" >
+			<PostId>11423</PostId>
+			<ParentPostId>6416</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-06T08:13:45.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6171</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What cocktail could be paired with French cheese?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Tags" >
+			<PostId>11424</PostId>
+			<ParentPostId>6416</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-06T08:13:45.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6171</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					recommendations, pairing, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>11432</PostId>
+			<ParentPostId>6416</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-08T15:04:02.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/806877000979902464
+			</EditDetails>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Body" >
+			<PostId>11678</PostId>
+			<ParentPostId>6507</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-02T12:20:41.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6346</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently was in Singapore, where I tasted some of the most incredible Singapore Slings ever (hint: the best was NOT at the Raffles, but I guess this is a matter of personal taste).
+
+					When I came back home, I really wanted to buy the ingredients to prepare it at home, but I found that if I follow the original recipe (well, I do have something different), the taste is different. 
+
+					I am pretty sure then, that the bars I visited did something different, and I'd like to find out the combination that I like the most.
+
+					I used:
+
+					    120ml Generic brand pineapple Juice
+					    7,5ml Cointreau
+					    7,5ml DOM Benedectine 
+					    15ml Generic brand lime juice
+					    15ml Bols cherry brandy
+					    30ml Beefeater gin
+					    10ml Monin Grenadine
+					    Dash of Angostura bitter
+
+					If I drink it near the ice, it tastes good, while if I do it with a straw from the bottom of the glass, the after taste is... Too much Almond-like, sweet/bitter.
+
+					I wonder if `Cherry Heering` really is that "something" here (I know the Bols is cheap, maybe DeKuyper instead?), or if I can substitute `Cointreau` with a Triple Sec, or if I have to choose a better gin.
+
+					Any idea?
+    
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Title" >
+			<PostId>11679</PostId>
+			<ParentPostId>6507</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-02T12:20:41.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6346</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can different ingredients be replaced in the Singapore Sling recipe?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Tags" >
+			<PostId>11680</PostId>
+			<ParentPostId>6507</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-02T12:20:41.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6346</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>11804</PostId>
+			<ParentPostId>6507</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-18T12:16:44.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/832926825617698816
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>11904</PostId>
+			<ParentPostId>6582</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-23T20:26:30.157</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6472</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Many cocktails such as fizzes call for an egg white (or an egg yolk in some cases).
+
+					Given that I'm not sure I would eat a raw egg, how safe is it to put one in my drink? Are there any alternatives I can use instead of egg white?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>11905</PostId>
+			<ParentPostId>6582</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-23T20:26:30.157</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6472</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How safe are eggs in cocktails like fizzes?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>11906</PostId>
+			<ParentPostId>6582</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-23T20:26:30.157</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6472</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>11980</PostId>
+			<ParentPostId>6604</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-27T13:55:29.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Just recently I have got into cocktails.  But I am finding it hard to find the right cherries so offset my designs.  The Maraschino cherry is the classic but what else is there to make my cocktails just that bit 'extra special'?
+
+					[This is what wikipedia][1] has to say about the Maraschino cherry
+
+
+					  [1]: https://en.wikipedia.org/wiki/Maraschino_cherry
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>11981</PostId>
+			<ParentPostId>6604</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-27T13:55:29.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Maraschino cherry - can I use an alternative?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>11982</PostId>
+			<ParentPostId>6604</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-27T13:55:29.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>12026</PostId>
+			<ParentPostId>6618</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T09:34:16.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently i tried a custom cocktail from my barman with wasabi, vodka and some sambuco syrup (not Sambuca, and still no found resource in english to add , if you know some, edit is welcome) and got in love with that cocktail ,like my top 5 ever.
+
+					Wasabi itself as an ingredient was surprising on mixing with vodka, so i'm trying to understand if there are other coktails with wasabi or other spicy ingredient .
+
+					Do you know some?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>12027</PostId>
+			<ParentPostId>6618</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T09:34:16.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there cocktails with wasabi or other spicy ingredients?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>12028</PostId>
+			<ParentPostId>6618</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T09:34:16.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Edit Body" >
+			<PostId>12031</PostId>
+			<ParentPostId>6618</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T11:53:53.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Recently I tried a custom cocktail from my barman with wasabi, vodka and some sambuco syrup (not Sambuca, and still no found resource in English to add) and got in love with that cocktail, like my top 5 ever.
+
+					Wasabi itself as an ingredient was surprising on mixing with vodka, so I'm trying to find out if there are other coktails with wasabi or other spicy ingredients.
+
+					Does anyone know some?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Edit Body" >
+			<PostId>12037</PostId>
+			<ParentPostId>6618</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T15:45:36.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<EditDetails>
+				added 146 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Recently I tried a custom cocktail from my barman with wasabi, vodka and some sambuco syrup (not Sambuca, and still no found resource in English to add) and got in love with that cocktail, like my top 5 ever.
+
+					Wasabi itself as an ingredient was surprising on mixing with vodka, so I'm trying to find out if there are other coktails with wasabi or other spicy ingredients.
+
+					Does anyone know some?  
+
+					EDIT:If anyone is interested on this Sambuco syrup, can find some info [here][1]
+
+
+					  [1]: https://en.wikipedia.org/wiki/Elderflower_cordial
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Unknown" >
+			<PostId>12043</PostId>
+			<ParentPostId>6618</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-01T22:34:58.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/837068673433108482
+			</EditDetails>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>12052</PostId>
+			<ParentPostId>6604</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T13:44:39.330</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/837297601858924544
+			</EditDetails>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>12241</PostId>
+			<ParentPostId>6582</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T12:13:25.280</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/842710460118044672
+			</EditDetails>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Body" >
+			<PostId>12275</PostId>
+			<ParentPostId>6691</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-20T13:34:42.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have a lot of bananas at the moment - too many to consume by just eating or cooking or using in general.  What is the best way to use banana in a drink - assume that I have a fairly wide and varied bar to choose from for the base of the drink.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Title" >
+			<PostId>12276</PostId>
+			<ParentPostId>6691</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-20T13:34:42.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Bananas in cocktails or other drinks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Tags" >
+			<PostId>12277</PostId>
+			<ParentPostId>6691</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-20T13:34:42.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Unknown" >
+			<PostId>12318</PostId>
+			<ParentPostId>6691</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-27T07:26:13.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/846262063404060672
+			</EditDetails>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Body" >
+			<PostId>12409</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T12:14:28.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have no experience in making [wine cocktails][1] and I would like recommendation of a "rose" colored wine cocktail.
+
+					The wine cocktail I am looking should be as close as possible to the color [rose][2] as possible. The color [pink][3] is generally much lighter in color than that of rose.
+
+					&gt; [Rose][2] is the color halfway between red and magenta.
+					&gt; 
+					&gt; [Pink][3] is a pale red color which takes its name from the flower of the same name.
+
+					If possible could answers include why one is making their recommendations, a recipe for usage and an image of the suggested wine cocktail or wine cocktails (if possible). 
+
+
+					  [1]: https://en.wikipedia.org/wiki/Wine_cocktail
+					  [2]: https://en.wikipedia.org/wiki/Rose_(color)
+					  [3]: https://en.wikipedia.org/wiki/Pink
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Title" >
+			<PostId>12410</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T12:14:28.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Rose colored wine cocktail
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Tags" >
+			<PostId>12411</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T12:14:28.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, recommendations, ingredients, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Edit Body" >
+			<PostId>12412</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T13:24:37.760</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				added 6 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have no experience in making [wine cocktails][1] and I would like a recommendation of a "rose" colored wine cocktail.
+
+					The wine cocktail I am looking for should be as close as possible to the color [rose][2] as possible. The color [pink][3] is generally much lighter in color than that of rose.
+
+					&gt; [Rose][2] is the color halfway between red and magenta.
+					&gt; 
+					&gt; [Pink][3] is a pale red color which takes its name from the flower of the same name.
+
+					If possible could answers include why one is making their recommendations, a recipe for usage and an image of the suggested wine cocktail or wine cocktails (if possible). 
+
+
+					  [1]: https://en.wikipedia.org/wiki/Wine_cocktail
+					  [2]: https://en.wikipedia.org/wiki/Rose_(color)
+					  [3]: https://en.wikipedia.org/wiki/Pink
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Unknown" >
+			<PostId>12427</PostId>
+			<ParentPostId>6738</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-05T17:24:11.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/849674038171631619
+			</EditDetails>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Body" >
+			<PostId>12671</PostId>
+			<ParentPostId>6802</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-27T18:50:54.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6696</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does anyone have a good resource for clarifying fruits and veggies and using as a cocktail mixer? I had this fabulous Bloody Mary last weekend. It was was made with yellow tomato and yellow bell pepper. Evidently egg whites remove impurities or something like that. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Title" >
+			<PostId>12672</PostId>
+			<ParentPostId>6802</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-27T18:50:54.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6696</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Clarified Bloody Mary and Egg Whites
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Tags" >
+			<PostId>12673</PostId>
+			<ParentPostId>6802</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-27T18:50:54.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6696</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Body" >
+			<PostId>12762</PostId>
+			<ParentPostId>6842</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-15T15:44:51.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6745</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm a total novice, so excuses for what is likely a ridiculously stupid question.  I know that a MARTINI is a drink (like a gin martini, vodka martini) but there is also a bottled drink called "[MARTINI][1]", in many varieties (extra dry - torino, bianco, rosso, and so on). What's the relation between MARTINI-the-drink and MARTINI-the-brand? 
+
+					I use MARTINI-the-brand to make Negronis, to mix with tonic, and so on, and these drinks are obviously not martinis, even though they're made with a drink which has the word MARTINI on the label. 
+
+					Thanks!
+
+
+
+
+					  [1]: https://www3.martini.com
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Title" >
+			<PostId>12763</PostId>
+			<ParentPostId>6842</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-15T15:44:51.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6745</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's Martini (the brand)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Tags" >
+			<PostId>12764</PostId>
+			<ParentPostId>6842</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-15T15:44:51.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6745</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, spirits, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Body" >
+			<PostId>13111</PostId>
+			<ParentPostId>6975</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-04T13:36:20.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6993</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know it's made from 1/4 Vana Tallinn and 3/4 Sparkling Wine (or Champaign) but I've spent ages trying to find out where and how it started. Does anyone claim to have invented it? What is the earliest reference to the drink? etc... Also, it's so called as it will hit you over the head and cut your legs off, where does that story come from?
+
+					Thanks in advance for anyone that can help. Chris.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Title" >
+			<PostId>13112</PostId>
+			<ParentPostId>6975</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-04T13:36:20.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6993</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When and how was the Estonian cocktail the Hammer and Sickle invented
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Tags" >
+			<PostId>13113</PostId>
+			<ParentPostId>6975</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-04T13:36:20.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6993</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Edit Body" >
+			<PostId>13114</PostId>
+			<ParentPostId>6975</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-04T14:37:53.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one link.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I know it's made from 1/4 [Vana Tallinn][1] and 3/4 Sparkling Wine (or Champaign) but I've spent ages trying to find out where and how it started. Does anyone claim to have invented it? What is the earliest reference to the drink? Also, it's so called as it will hit you over the head and cut your legs off, where does that story come from?
+
+					Thanks in advance for anyone that can help.
+
+
+					  [1]: https://en.wikipedia.org/wiki/Vana_Tallinn
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Edit Title" >
+			<PostId>13115</PostId>
+			<ParentPostId>6975</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-04T14:37:53.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one link.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					When and how was the Estonian cocktail the Hammer and Sickle invented?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Unknown" >
+			<PostId>13239</PostId>
+			<ParentPostId>6802</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-22T13:59:56.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/911228574711115776
+			</EditDetails>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Body" >
+			<PostId>13368</PostId>
+			<ParentPostId>7053</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-01T15:05:10.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					OK, so here I sit, in a fantastic marina (yes I live on a boat), but every Saturday and Sunday night the local cocktail bar has a rather serious disco, or should I say Saturday morning/Sunday morning (as they finish at 6am!).  I have friends who state that the cocktails they drink in the bar taste better when they are there during disco night than when they are there on a normal night - how does this happen? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Title" >
+			<PostId>13369</PostId>
+			<ParentPostId>7053</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-01T15:05:10.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do lights and music enhance a cocktail?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Tags" >
+			<PostId>13370</PostId>
+			<ParentPostId>7053</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-01T15:05:10.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Edit Tags" >
+			<PostId>13371</PostId>
+			<ParentPostId>7053</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-01T15:42:20.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added a tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Initial Body" >
+			<PostId>13677</PostId>
+			<ParentPostId>7158</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-22T03:46:47.533</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7512</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would like to know what Whisky is better with cocktails.
+
+					I've bough the Jack Daniels Whisky, but I feel that the taste of the cocktail is off since the flavors of the Jack Daniels is stronger than others. I might be wrong but I really do taste the Jack Daniels in any Cocktails involving Whisky.
+
+					I wonder then what Whisky is mostly used for cocktails and what Whisky is mostly used for shots or straight consumption.
+
+					If any of my sayings are wrong or badly expressed just let me know.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Initial Title" >
+			<PostId>13678</PostId>
+			<ParentPostId>7158</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-22T03:46:47.533</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7512</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any Whisky better for cocktails?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Tags" >
+			<PostId>13679</PostId>
+			<ParentPostId>7158</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-22T03:46:47.533</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7512</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Body" >
+			<PostId>13728</PostId>
+			<ParentPostId>7182</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-05T11:41:04.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7562</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Last night, I asked bartender for a cocktail based on orange peel. Then he made a cup of cocktail with orange peel &amp; coconut &amp; lime. It was of sweet taste.
+					He told me the name of cocktail which is named after a woman chancellor who shut down every bars and pups in her university, and so their students made this cocktail to curse her. But now I can't remember the name...
+					Is here any body who knows the name?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Title" >
+			<PostId>13729</PostId>
+			<ParentPostId>7182</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-05T11:41:04.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7562</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Name of a cocktail with orange peel+coconut+lime
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Initial Tags" >
+			<PostId>13730</PostId>
+			<ParentPostId>7182</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-05T11:41:04.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7562</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Unknown" >
+			<PostId>13757</PostId>
+			<ParentPostId>7158</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-12T21:15:02.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/963159534167560193
+			</EditDetails>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Edit Body" >
+			<PostId>13773</PostId>
+			<ParentPostId>7182</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-22T11:49:19.383</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				Foo bar foobar get
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Last night, I asked bartender for a cocktail based on orange peel. Then he made a cup of cocktail with orange peel &amp; coconut &amp; lime. It was off sweet taste.
+					He told me the name of cocktail which is named a after a WoMan chancellor who shut down every bars and pups in her university, and so their students made this cocktail to curse her. But now I can't remember the name...
+					Is here any body who knows the name?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Unknown" >
+			<PostId>13774</PostId>
+			<ParentPostId>7182</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-22T11:49:19.383</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 124.217.189.205|415710dd-5a2c-4c4f-95dd-981a06dd102b approved by 5078 edit id of 322
+			</EditDetails>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Body" >
+			<PostId>13919</PostId>
+			<ParentPostId>7241</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-13T19:13:38.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4309</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was given some decent Limoncello from Italy as a gift, 30% proof, brand name 'Villa Massa' from Sorrento.
+
+					I had a tiny sip of it and it is quite smooth, not too sharp and rather nice. 
+
+					However I'm not sure if I should continue drink it neat or whether to mix it with tonic water, lemonade or something else altogether. I've read it is good as a cocktail ingredient, but I'm not too keen on the hassle of making a cocktail.
+
+					How should I take it ?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Title" >
+			<PostId>13920</PostId>
+			<ParentPostId>7241</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-13T19:13:38.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4309</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How should I drink limoncello?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Initial Tags" >
+			<PostId>13921</PostId>
+			<ParentPostId>7241</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-13T19:13:38.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4309</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					spirits, cocktails, liqueur, mixers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Unknown" >
+			<PostId>13927</PostId>
+			<ParentPostId>7241</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-15T03:45:34.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/985363476418846721
+			</EditDetails>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Body" >
+			<PostId>13944</PostId>
+			<ParentPostId>7251</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-17T19:47:54.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Receipt in Brazil: Ice-Cubes, white fine sugar, Cachaça, squeezed lemon
+
+					Receipt in Germany / Europe: Crashed ice, coarse brown sugar, Cachaça, squeezed lemon.
+
+					The difference is enormous. Made in the Brazilian way the Caipirinha is sweet and strong, made in the European way it is less strong, crispy and sour.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Title" >
+			<PostId>13945</PostId>
+			<ParentPostId>7251</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-17T19:47:54.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do they use different receipt for making a Caipirinha in Brazil and in Germany / Europe?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Initial Tags" >
+			<PostId>13946</PostId>
+			<ParentPostId>7251</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-17T19:47:54.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, drink, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Edit Body" >
+			<PostId>13947</PostId>
+			<ParentPostId>7251</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-17T19:55:53.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Recipe in Brazil: Ice-Cubes, white fine sugar, Cachaça, squeezed lemon
+
+					Recipe in Germany / Europe: Crashed ice, coarse brown sugar, Cachaça, squeezed lemon.
+
+					The difference is enormous. Made in the Brazilian way the Caipirinha is sweet and strong, made in the European way it is less strong, crispy and sour.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Edit Title" >
+			<PostId>13948</PostId>
+			<ParentPostId>7251</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-17T19:55:53.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why do they use different recipe for making a Caipirinha in Brazil and in Germany / Europe?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Unknown" >
+			<PostId>13950</PostId>
+			<ParentPostId>7251</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-18T21:57:45.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/986725493717327872
+			</EditDetails>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Initial Body" >
+			<PostId>14001</PostId>
+			<ParentPostId>7265</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-04T20:48:19.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Many drinks and cocktails are a mixture of different spirits with or without additional tastes introduced by juices, concentrates and/or other ingredients that create their special taste. 
+
+					My personal experience is that less components a cocktail has more specific the character of the drink seems to be. However, are there spirits (don't mention other ingredients) that never should be combined?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Initial Title" >
+			<PostId>14002</PostId>
+			<ParentPostId>7265</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-04T20:48:19.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any spirits that never should be combined in a cocktail or drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Initial Tags" >
+			<PostId>14003</PostId>
+			<ParentPostId>7265</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-04T20:48:19.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, spirits, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Unknown" >
+			<PostId>14016</PostId>
+			<ParentPostId>7265</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-08T13:32:35.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/993846123264724993
+			</EditDetails>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Body" >
+			<PostId>14429</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T22:05:41.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have heard the term _inverse_ or _inverted simple syrup_ used in cocktail recipes, but I haven't been able to figure out how this is different from "regular" simple syrup.  For example, the [wikipedia page][1] makes no mention of _uninverted_ simple syrup.
+
+					Are these just longer names for regular simple syrup (sugar melted in water)?
+
+					  [1]: https://en.wikipedia.org/wiki/Inverted_sugar_syrup
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Initial Title" >
+			<PostId>14430</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T22:05:41.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between inverted simple syrup and simple syrup (if any)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Initial Tags" >
+			<PostId>14431</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T22:05:41.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7977</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Edit Tags" >
+			<PostId>14432</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-02T23:06:19.163</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added another tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					ingredients, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Unknown" >
+			<PostId>14435</PostId>
+			<ParentPostId>7415</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-03T06:02:24.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1025260573360095232
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

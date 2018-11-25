@@ -1,0 +1,4049 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>14</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:33:12.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>10</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Currently I am storing my bottels in the crates at a (about) 20 degree angle (bottels are upwards!).
+
+					Does the way of storing the bottels affect something (and how)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>15</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:33:12.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>10</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the best angle to store pilsener beer bottels?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>16</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:33:12.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>10</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pilsener, storing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>52</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:54.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				Spelling and tag change.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Currently I am storing my bottles in the crates at a (about) 20 degree angle (bottles are upwards!).
+
+					Does the way of storing the bottles affect something (and how)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Title" >
+			<PostId>53</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:54.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				Spelling and tag change.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the best angle to store pilsener beer bottles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Edit Tags" >
+			<PostId>54</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:54.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				Spelling and tag change.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					pilsener, storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>101</PostId>
+			<ParentPostId>37</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:03:35.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Sometimes I buy beer more quickly than I can drink it -- a sad state of affairs, I know, but it happens.  I know that some beers are best drunk within a few weeks and others can be fine for months, but I don't know which are which.  What are the rules of thumb for this?  How can I determine how long a bottle of beer will keep before starting to lose its taste?  (Assume appropriate storage.)
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>102</PostId>
+			<ParentPostId>37</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:03:35.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I determine the shelf life of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>103</PostId>
+			<ParentPostId>37</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:03:35.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, age, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>124</PostId>
+			<ParentPostId>50</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:13:53.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In my fraternity days, there was a constant fear of beer (typically kegged but also bottled) getting "skunked" as a result of warming up and cooling down too many times, possibly even once.
+
+					Do non-extreme temperature changes such as moving a beer back and forth from a counter to a refrigerator cause perceptible changes to beer?  If not, what about more extreme changes, such as sitting in the bed of a truck or a trunk?  I'm aware that light has a degrading affect on it's own, so let's assume this beer is in a keg or a light-proof box.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>125</PostId>
+			<ParentPostId>50</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:13:53.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Will temperature changes cause a beer to "skunk"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>126</PostId>
+			<ParentPostId>50</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:13:53.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>163</PostId>
+			<ParentPostId>64</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:35.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Sometimes, companies offer the same beer in bottles and in cans. Everything else being equal, should I go for the bottle or the can? I know that e.g. Guinness have their "floating widget" in their cans that releases carbon dioxide when you open it, but assume that this isn't the case.
+
+					In particular, I'm looking for the effects the inner coating/material of cans has on beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>164</PostId>
+			<ParentPostId>64</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:35.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Should I get beer in bottles or in cans?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>165</PostId>
+			<ParentPostId>64</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:35.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottling, storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Body" >
+			<PostId>175</PostId>
+			<ParentPostId>64</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:28:56.820</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<EditDetails>
+				fix gas
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Sometimes, companies offer the same beer in bottles and in cans. Everything else being equal, should I go for the bottle or the can? I know that e.g. Guinness have their "floating widget" in their cans that releases nitrogen when you open it, but assume that this isn't the case.
+
+					In particular, I'm looking for the effects the inner coating/material of cans has on beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>213</PostId>
+			<ParentPostId>83</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:42:09.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Every August I go camping&lt;sup&gt;1&lt;/sup&gt; for a week or two in western PA, and I like to take along some beer to drink in the evenings.  What I've been doing, to save cooler space (and reduce the amount of ice I have to replace each day), is to keep most of it out and just keep a buffer of a couple bottles in the cooler.  But [this question](http://beer.stackexchange.com/questions/50/will-temperature-changes-cause-a-beer-to-skunk) makes me wonder whether that harms the taste, because while I can control for light I can't do much about storage temperature.  Should I just suck it up and put everything on ice when I get there?  I haven't noticed a problem so far, but I tend to take a variety of beers (I don't drink the same thing every day) so I might never notice on my own.
+
+					&lt;sup&gt;1&lt;/sup&gt; This is not primitive camping with tiny, heat-absorbing nylon tents.  Most of our tents/pavillions are canvas, and we have a small cabin available.  No electricity is available, however.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>214</PostId>
+			<ParentPostId>83</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:42:09.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the best way to store beer while camping in hot climates?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>215</PostId>
+			<ParentPostId>83</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:42:09.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>284</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:47.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know friends who have "aged" beers to around the 1 year mark. Typically I've heard of stouts and porters aging well. Is the aging style related? If so, what styles can you age and for how long?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>285</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:47.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What styles of beer can you age?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>286</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:47.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, age, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Title" >
+			<PostId>328</PostId>
+			<ParentPostId>50</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:22:21.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5</UserId>
+			</Contributors>
+			<EditDetails>
+				Broadened title to match question body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Will temperature changes cause a beer to "skunk" or otherwise spoil?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Post Closed" >
+			<PostId>372</PostId>
+			<ParentPostId>64</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T03:49:48.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":7,"DisplayName":"Tom Medley"},{"Id":50,"DisplayName":"GhostToast"},{"Id":75,"DisplayName":"Tanner"},{"Id":90,"DisplayName":"Jeffrey Lin"},{"Id":39,"DisplayName":"wax eagle"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>475</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:43:27.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What temperature is ideal to store my beer? Is there a difference depending on the beer type?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>476</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:43:27.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What temperature is ideal to store my beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>477</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:43:27.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>479</PostId>
+			<ParentPostId>192</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:43:40.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does the choice of bottle cap design have any effect on the beer itself? With the primary goal being to keep the beer pressurized and prevent exposure, how do the different stoppers stack up against each other?
+
+					It would seem to me that both the twist-top and flip-top cap designs provide roughly the same quality of seal, although a twist-top comes off easier and may be prone to opening during transport.
+
+					In my experience, the flip-top caps, the ones where you need a bottle opener (or wooden table, or set of house keys) to get open, tend to come on the more mid-range to expensive beers whereas the standard, mass-produced cheapies come with a screw-off cap. Although, this isn't universal. I wonder if this is just a marketing technique (it needs a bottle opener so it *must* be good).
+
+					Then there are the swing tops, which have a swinging metal bracket which, when pushed down, plugs the opening of the bottle with a rubber washer. Is this any better or worse than the bottle caps? I've always liked them for home brewing because they're easily recyclable.
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>480</PostId>
+			<ParentPostId>192</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:43:40.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does the choice of bottle cap or stopper make a difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>481</PostId>
+			<ParentPostId>192</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:43:40.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, bottling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Post Closed" >
+			<PostId>490</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:08:19.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[99],"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":83,"DisplayName":"akaykay"},{"Id":27,"DisplayName":"object88"},{"Id":7,"DisplayName":"Tom Medley"},{"Id":138,"DisplayName":"Lucas Kauffman"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Edit Title" >
+			<PostId>504</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:32:47.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<EditDetails>
+				More generalized, we can't have seperate storing questions for lager, pilsner, ... 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the best angle to store beer bottles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Unknown" >
+			<PostId>505</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:32:47.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 138 approved by 10 edit id of 20
+			</EditDetails>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Edit Tags" >
+			<PostId>508</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:36:44.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>10</UserId>
+			</Contributors>
+			<EditDetails>
+				Added storage tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					storage, preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>509</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:36:44.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 10 approved by 138 edit id of 22
+			</EditDetails>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Body" >
+			<PostId>515</PostId>
+			<ParentPostId>204</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T15:18:09.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've got an extra room in my house that I was thinking of turning into a "beer cellar", or as much of a cellar as an above ground room can be. I don't have a problem with the actual construction, but especially since I'm in Phoenix, Arizona, I was trying to figure out how to insulate and cool the room for optimum storage.
+
+					Also, should I build the shelves to store both 6 packs still in the original cardboard casings along with individual bottles, or should I plan to remove all bottles from packaging? Separate temperature control?
+
+					One final consideration, should I keep all bottles of similar size on separate shelves, or should I have more open shelves for more air flow around bottles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Title" >
+			<PostId>516</PostId>
+			<ParentPostId>204</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T15:18:09.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I build a beer room/cellar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Tags" >
+			<PostId>517</PostId>
+			<ParentPostId>204</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T15:18:09.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, bottle-conditioning, cellaring, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Edit Body" >
+			<PostId>534</PostId>
+			<ParentPostId>204</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T16:24:31.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<EditDetails>
+				added 25 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've got an extra room in my house that I was thinking of turning into a "beer cellar", or as much of a cellar as an above ground room can be. I don't have a problem with the actual construction, but especially since I'm in Phoenix, Arizona, I was trying to figure out how to insulate and cool the room for optimum storage.
+
+					Also, should I build the shelves to store both 6 packs still in the original cardboard casings along with individual bottles, or should I plan to remove all bottles from packaging? Separate temperature control? Lighting considerations?
+
+					One final consideration, should I keep all bottles of similar size on separate shelves, or should I have more open shelves for more air flow around bottles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Body" >
+			<PostId>556</PostId>
+			<ParentPostId>215</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T18:14:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer is usually found in fridges in shops and supermarkets. At home, you would store it in the fridge as well before drinking. On the other hand, many liquor shops have stacks of beer cans outside fridges, and beer in kegs isn't usually refrigerated when it's transported.
+
+					What are the benefits of keeping beer refrigerated? Which kinds of beer should/must be refrigerated and which ones don't need to be?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Title" >
+			<PostId>557</PostId>
+			<ParentPostId>215</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T18:14:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why should beer be kept in the fridge?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Tags" >
+			<PostId>558</PostId>
+			<ParentPostId>215</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T18:14:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Body" >
+			<PostId>632</PostId>
+			<ParentPostId>243</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T02:10:21.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In Czech Republic pubs with tank beer are pretty common and popular. There in many pubs and restaurants the beer is not stored in mobile casks or kegs but in much larger stationary tanks.
+					![enter image description here][1]
+					Here is interesting [article about tank beer in Prague][2].
+
+					It seems that in other countries tank beer is not popular so much. For example I have found some [references from United Kingdom][3] but there the tank beer seems to be used mainly on sport stadiums and other large facilities. 
+
+					How is tank beer popular in other countries? Is not tank beer in pubs and restaurants only a Czech phenomenon?
+
+					  [1]: http://i.stack.imgur.com/7oPb4.jpg
+					  [2]: http://www.expats.cz/prague/article/czech-food-drink/tank-beer-in-prague/
+					  [3]: http://tankbeer.co.uk/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Title" >
+			<PostId>633</PostId>
+			<ParentPostId>243</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T02:10:21.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Popularity of tank beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Tags" >
+			<PostId>634</PostId>
+			<ParentPostId>243</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T02:10:21.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, draught, restaurants, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Body" >
+			<PostId>965</PostId>
+			<ParentPostId>379</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T11:05:35.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>229</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Assuming a relatively cool and stable environment, how long can you store beer in: 
+
+					 - Bottles
+					 - Wooden barrels
+					 - Metallic barrels
+					 - Cans (Yes, I really asked that.)
+
+					without it loosing its carbonation and taste or going off?  
+					Are there general rules that apply to any sort of beer or is this highly specific?
+
+					(Please note that this question is not about intentionally aging the beer, just storing it.)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Title" >
+			<PostId>966</PostId>
+			<ParentPostId>379</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T11:05:35.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>229</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long can you store beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Tags" >
+			<PostId>967</PostId>
+			<ParentPostId>379</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T11:05:35.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>229</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Post Closed" >
+			<PostId>980</PostId>
+			<ParentPostId>379</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:18:07.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":116,"DisplayName":"JohnP"},{"Id":37,"DisplayName":"Xander"},{"Id":21,"DisplayName":"Łukasz L."},{"Id":27,"DisplayName":"object88"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Unknown" >
+			<PostId>1018</PostId>
+			<ParentPostId>204</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T07:15:03.090</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/428426043230519296
+			</EditDetails>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Unknown" >
+			<PostId>1139</PostId>
+			<ParentPostId>243</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T19:20:06.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/428970899648573440
+			</EditDetails>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Body" >
+			<PostId>1228</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T19:06:17.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Different beers and different types of storage result in different amounts of foam being produced when the beer is poured, from almost none at all to a glass full of foam.
+
+					What factors, both in terms of ingredients/type of beer and storage, affect how much foam will be produced? And, as a bonus question, how do I avoid excessive amounts of foam when pouring?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Title" >
+			<PostId>1229</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T19:06:17.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What determines how much foam a beer produces when it is poured?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Tags" >
+			<PostId>1230</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T19:06:17.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, ingredients, pouring, foam, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Unknown" >
+			<PostId>1252</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-02T04:25:10.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429832842617819136
+			</EditDetails>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Body" >
+			<PostId>1313</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T15:26:44.127</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My favorite beers come in bottles and in cans. I always buy it in bottles because I've heard that cans negatively impact the flavor of the beer. Is this true? If so, how does it work?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Title" >
+			<PostId>1314</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T15:26:44.127</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do cans change the taste of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Tags" >
+			<PostId>1315</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T15:26:44.127</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Body" >
+			<PostId>1322</PostId>
+			<ParentPostId>521</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T18:23:03.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Typically I want to age 22oz bottles, but I'm curious if I could get away with aging a smaller bottle. Is there any difference based on bottle size?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Title" >
+			<PostId>1323</PostId>
+			<ParentPostId>521</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T18:23:03.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does bottle size affect aging or storage?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Tags" >
+			<PostId>1324</PostId>
+			<ParentPostId>521</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T18:23:03.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, aging, bottles, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Unknown" >
+			<PostId>1334</PostId>
+			<ParentPostId>521</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T19:30:12.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430785377784578048
+			</EditDetails>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Unknown" >
+			<PostId>1341</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T22:30:12.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430830677009760256
+			</EditDetails>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Body" >
+			<PostId>1412</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:34:37.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If you could go back in time and tell yourself to read a specific book about beer, which book would it be?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Title" >
+			<PostId>1413</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:34:37.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the single most influential book every beer enthusiast should read?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Tags" >
+			<PostId>1414</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:34:37.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, taste, storage, serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Post Closed" >
+			<PostId>1423</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T05:55:19.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>13</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":27,"DisplayName":"object88"},{"Id":80,"DisplayName":"Fishtoaster"},{"Id":13,"DisplayName":"Shog9"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Post Reopened" >
+			<PostId>1456</PostId>
+			<ParentPostId>64</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T06:20:49.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":27,"DisplayName":"object88"},{"Id":73,"DisplayName":"acheong87"},{"Id":43,"DisplayName":"Monica Cellio"},{"Id":21,"DisplayName":"Łukasz L."}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Unknown" >
+			<PostId>1465</PostId>
+			<ParentPostId>64</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T22:36:12.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431919351122649088
+			</EditDetails>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Unknown" >
+			<PostId>1608</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T16:38:03.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434728320195104768
+			</EditDetails>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Unknown" >
+			<PostId>1619</PostId>
+			<ParentPostId>50</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T01:38:03.033</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434864215527264256
+			</EditDetails>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Unknown" >
+			<PostId>1677</PostId>
+			<ParentPostId>215</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-20T16:40:37.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436540909313069056
+			</EditDetails>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Unknown" >
+			<PostId>1698</PostId>
+			<ParentPostId>190</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T13:41:26.177</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/437220589355687937
+			</EditDetails>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Body" >
+			<PostId>2054</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-19T16:56:02.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>793</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have read that when stored in a clear container, sunlight can cause beer to skunk in a matter of seconds or minutes. I have also read that brown bottles are "better" when it comes to preventing this.
+
+					But how much better? Enough to "not worry about it" for short-term storage?
+
+					My specific situation is this: I have a (clear) glass cupboard in the living room. I also have a rotating (every few weeks or so) selection of beers, some of which are in rather nice bottles. I would like to store the bottles in said cupboard. 
+
+					The bottles are brown, and the cupboard is not exposed to *direct* sunlight, but the room is generally well-lit. Would I be risking (or just waiting for) spoilage?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Title" >
+			<PostId>2055</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-19T16:56:02.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>793</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are brown bottles sufficient to protect beer from skunking?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Tags" >
+			<PostId>2056</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-19T16:56:02.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>793</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, bottles, skunking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Unknown" >
+			<PostId>2057</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-20T00:15:25.157</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/457673856447442944
+			</EditDetails>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Initial Body" >
+			<PostId>3328</PostId>
+			<ParentPostId>862</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-07T02:57:33.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some of my favorite beers come in 22+oz bottles. Typically these are heavier beers and sometimes, I simply cannot finish the entire bottle in one sitting (maybe I had too much to eat previously. Who knows). Because they are nice beers, I want to enjoy them to their fullest extent, and so I will save the remainder for another night.
+
+					How can I prevent these beers from loosing any (at least a bare minimum) of their quality once they've been opened? And, does this being opened for a duration -- typically 1 to 2 days -- have a noticeable effect on their quality?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Initial Title" >
+			<PostId>3329</PostId>
+			<ParentPostId>862</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-07T02:57:33.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to store a bottle of beer once it has been opened?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Tags" >
+			<PostId>3330</PostId>
+			<ParentPostId>862</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-07T02:57:33.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Unknown" >
+			<PostId>3333</PostId>
+			<ParentPostId>862</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-07T22:24:45.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/475403011964305408
+			</EditDetails>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Edit Body" >
+			<PostId>3336</PostId>
+			<ParentPostId>862</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-08T04:22:18.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>803</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 1 character in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some of my favorite beers come in 22+oz bottles. Typically these are heavier beers and sometimes, I simply cannot finish the entire bottle in one sitting (maybe I had too much to eat previously. Who knows). Because they are nice beers, I want to enjoy them to their fullest extent, and so I will save the remainder for another night.
+
+					How can I prevent these beers from losing any (at least a bare minimum) of their quality once they've been opened? And, does this being opened for a duration -- typically 1 to 2 days -- have a noticeable effect on their quality?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Initial Body" >
+			<PostId>6254</PostId>
+			<ParentPostId>3261</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-19T05:58:56.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have been told that once chilled, you should never let a beer come back to room temperature; what is the truth behind this?
+
+					If again chilled, will the flavor be the same? Or how might it change?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Title" >
+			<PostId>6255</PostId>
+			<ParentPostId>3261</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-19T05:58:56.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Rising a cold beer to room temperature
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Tags" >
+			<PostId>6256</PostId>
+			<ParentPostId>3261</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-19T05:58:56.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, cooling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Post Closed" >
+			<PostId>6260</PostId>
+			<ParentPostId>3261</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-19T20:51:09.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[605],"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Initial Body" >
+			<PostId>6510</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I had acquired a couple of Samuel Adams "one-off" beers, specifically "The Vixen (stout)", "Merry Mischief (gingerbread stout)", "Griffin's Bow (barley wine)" and "Norse Legend (Sahti)". These bottles are either first, second or third batch, according to the label mind you. I had these beers for 2 years in a cellar, almost no light touches them and at room temperature.
+
+					I know that most of this types of beer gets better with time, except for the Sahti, hadn't explored much of that type, but I would like to know if it's safe for the beers to be kept and for how long, and at a given time, what's the best way to drink them (chill them, room temperature, etc.). Thanks.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Initial Title" >
+			<PostId>6511</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When and how to drink cellared beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Initial Tags" >
+			<PostId>6512</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, serving, temperature, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Initial Body" >
+			<PostId>6573</PostId>
+			<ParentPostId>3391</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-29T12:44:10.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have seen a lot of beers that have been corked and I can't really understand what the significance is. When I tried to look it up, most of what I found just related to how to properly store corked beer and similar means, but nothing really answering my question. I am trying to figure out what corking a beer actually does to it and if there are any real benefits. Is it simply a style choice or is it there for a reason, like it is for wine bottles. Does it actually have an effect on the beer's taste, quality, etc?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Initial Title" >
+			<PostId>6574</PostId>
+			<ParentPostId>3391</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-29T12:44:10.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why cork a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Initial Tags" >
+			<PostId>6575</PostId>
+			<ParentPostId>3391</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-29T12:44:10.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Edit Tags" >
+			<PostId>6577</PostId>
+			<ParentPostId>3391</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-29T16:43:25.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, storage, bottling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Unknown" >
+			<PostId>6589</PostId>
+			<ParentPostId>3391</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-03T23:41:10.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/606244264855642113
+			</EditDetails>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Unknown" >
+			<PostId>6598</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-06T02:54:09.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/607017605057159168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Initial Body" >
+			<PostId>6665</PostId>
+			<ParentPostId>3429</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-26T17:39:08.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					 My main question is really, I guess - **how resilient is beer?** I have some beer in my refrigerator that was cold when I bought it. I couldn't bring it home quickly due to having to visit my fiancee's grandmother in the hospital (short notice). It got pretty warm sitting out in the car and I have it refrigerated again. My roommate took one out to drink it, but fell asleep before he opened it - therefore, it got warm (room temperature) again. If I were to put it back in the refrigerator a third time, would the beer still be safe to drink? Would there be any quality loss?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Initial Title" >
+			<PostId>6666</PostId>
+			<ParentPostId>3429</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-26T17:39:08.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Would a beer still be good after being cold then hot then cold again?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Initial Tags" >
+			<PostId>6667</PostId>
+			<ParentPostId>3429</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-26T17:39:08.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Unknown" >
+			<PostId>6702</PostId>
+			<ParentPostId>3429</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-03T11:10:36.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/616927015527170052
+			</EditDetails>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Initial Body" >
+			<PostId>7959</PostId>
+			<ParentPostId>4559</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-01T02:20:49.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have some cans of Busch in my refrigerator that say "Born on: DD/MM/YYYY". That seems odd to me. When I drink craft beers, I always see "Best by: xx/xx/xxxx" or something like that. 
+
+					Why would some beers have a born on date and others have an expiration, or "best by" date?
+
+					Bonus: How long after the "Born on" date will a beer last before the taste begins to diminish? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Initial Title" >
+			<PostId>7960</PostId>
+			<ParentPostId>4559</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-01T02:20:49.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do some beers have expiration date, while others have "born on" date?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Initial Tags" >
+			<PostId>7961</PostId>
+			<ParentPostId>4559</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-01T02:20:49.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Unknown" >
+			<PostId>8074</PostId>
+			<ParentPostId>4559</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-23T12:59:55.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/646670326567424001
+			</EditDetails>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Initial Body" >
+			<PostId>8895</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-03T00:11:00.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5278</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I bought a 6 pack of milk stout by left hand off the shelf and it was warm..upon looking on the bottle it says "Please Keep Refrigerated" ..is this beer ok to be stored on the shelf???
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Initial Title" >
+			<PostId>8896</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-03T00:11:00.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5278</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it ok to store milk stout on the shelf
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Initial Tags" >
+			<PostId>8897</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-03T00:11:00.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5278</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Edit Body" >
+			<PostId>8921</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T16:21:42.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>887</UserId>
+			</Contributors>
+			<EditDetails>
+				minor punctuation fixes, added temperature tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I bought a 6 pack of milk stout by left hand off the shelf and it was warm. Upon looking on the bottle, it says "Please Keep Refrigerated." Is this beer okay to be stored on the shelf?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Edit Title" >
+			<PostId>8922</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T16:21:42.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>887</UserId>
+			</Contributors>
+			<EditDetails>
+				minor punctuation fixes, added temperature tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is it okay to store milk stout on the shelf?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Edit Tags" >
+			<PostId>8923</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T16:21:42.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>887</UserId>
+			</Contributors>
+			<EditDetails>
+				minor punctuation fixes, added temperature tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					storage, temperature, stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Unknown" >
+			<PostId>8924</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T16:21:42.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 887 approved by 37 edit id of 169
+			</EditDetails>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Initial Body" >
+			<PostId>8929</PostId>
+			<ParentPostId>4923</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T21:32:35.107</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5144</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Last night two of my friends were having this huge argument on which was the proper way to make your beer bottles cold. One said in the freezer cause they're kept at some point dry, and the other one claimed that it was better in ice since they're more in contact with the freezing agent.
+
+					I personally think it doesn't really matter(I'd still drink both anyways) but out of curiosity, is there really a best way to freeze your beers? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Initial Title" >
+			<PostId>8930</PostId>
+			<ParentPostId>4923</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T21:32:35.107</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5144</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Most effective way to freeze beer bottles
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Initial Tags" >
+			<PostId>8931</PostId>
+			<ParentPostId>4923</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T21:32:35.107</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5144</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Unknown" >
+			<PostId>8945</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T02:11:18.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/717897506848423936
+			</EditDetails>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Initial Body" >
+			<PostId>8961</PostId>
+			<ParentPostId>4937</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T16:55:10.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long does an opened bottle of wine last in the refrigerator?
+
+					(Simply plugging the cork back in that is, and not using any vacuum contraption.)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Initial Title" >
+			<PostId>8962</PostId>
+			<ParentPostId>4937</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T16:55:10.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long does an opened bottle of wine last in the fridge?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Initial Tags" >
+			<PostId>8963</PostId>
+			<ParentPostId>4937</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T16:55:10.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, freshness, wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "118" InstanceType= "Unknown" >
+			<PostId>9049</PostId>
+			<ParentPostId>4937</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-21T21:42:21.487</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/723265640455409664
+			</EditDetails>
+		</Instance>
+		<Instance Id= "119" InstanceType= "Unknown" >
+			<PostId>9073</PostId>
+			<ParentPostId>4923</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-26T04:06:08.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/724811775435235328
+			</EditDetails>
+		</Instance>
+		<Instance Id= "120" InstanceType= "Edit Tags" >
+			<PostId>9199</PostId>
+			<ParentPostId>379</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-23T12:56:27.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>122</UserId>
+			</Contributors>
+			<EditDetails>
+				added appropriate tag 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "121" InstanceType= "Unknown" >
+			<PostId>9200</PostId>
+			<ParentPostId>379</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-23T12:56:27.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 122 approved by 229 edit id of 182
+			</EditDetails>
+		</Instance>
+		<Instance Id= "122" InstanceType= "Initial Body" >
+			<PostId>9388</PostId>
+			<ParentPostId>5078</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-10T12:44:59.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5538</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm not a wine man but I believe the general is to keep the cork wet, although I've heard the story is entirely different with whisky due to its high alcohol content.
+
+					If the rule for whisky is to store the bottle upright, will it not suffer the same fate as wine stored upright? Assuming I open a number of bottles for enjoyment rather than waxing the seal for longevity, how can I make my spirits last?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "123" InstanceType= "Initial Title" >
+			<PostId>9389</PostId>
+			<ParentPostId>5078</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-10T12:44:59.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5538</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I keep Whisky from corking over time?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "124" InstanceType= "Initial Tags" >
+			<PostId>9390</PostId>
+			<ParentPostId>5078</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-10T12:44:59.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5538</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, whiskey, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "125" InstanceType= "Edit Body" >
+			<PostId>9392</PostId>
+			<ParentPostId>5078</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-10T13:35:00.550</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5538</UserId>
+			</Contributors>
+			<EditDetails>
+				added 5 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm not a wine man but I believe the general rule is to keep the cork wet, although I've heard the story is entirely different with whisky due to its high alcohol content.
+
+					If the rule for whisky is to store the bottle upright, will it not suffer the same fate as wine stored upright? Assuming I open a number of bottles for enjoyment rather than waxing the seal for longevity, how can I make my spirits last?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "126" InstanceType= "Edit Body" >
+			<PostId>9399</PostId>
+			<ParentPostId>5078</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-11T02:31:44.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5538</UserId>
+			</Contributors>
+			<EditDetails>
+				added detail
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm not a wine man but I believe the general rule is to keep the cork wet, although I've heard the story is entirely different with whisky due to the effect of its high alcohol content on the cork.
+
+					If the rule for whisky is to store the bottle upright, will it not suffer the same fate as wine stored upright? Assuming I open a number of bottles for enjoyment rather than waxing the seal for longevity, how can I make my spirits last?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "127" InstanceType= "Unknown" >
+			<PostId>9401</PostId>
+			<ParentPostId>5078</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-12T09:28:41.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/741925179425689600
+			</EditDetails>
+		</Instance>
+		<Instance Id= "128" InstanceType= "Edit Body" >
+			<PostId>9427</PostId>
+			<ParentPostId>518</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:42:05.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				added 6 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					My favorite beers come in bottles and in cans. I always buy it in bottles because I've heard that cans negatively impact the flavor of the beer.
+
+					Is this true?
+
+					If so, how does it work?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "129" InstanceType= "Edit Body" >
+			<PostId>9464</PostId>
+			<ParentPostId>5078</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-15T23:20:04.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5538</UserId>
+			</Contributors>
+			<EditDetails>
+				Added clarity to question
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm not a wine man but I believe the general rule is to keep the cork wet, although the story is entirely different with whisky due to the effect of its high alcohol content breaking down the cork.
+
+					If the rule for whisky is to store the bottle upright, will it not suffer the same fate as wine stored upright? Assuming I open a number of bottles for enjoyment rather than waxing the seal for longevity, how can I make my spirits last?
+
+					**Edit**: _for clarification, this question is focused on whisky that comes with a cork and by extension what to do with the cork, not whisky storage in general._
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "130" InstanceType= "Initial Body" >
+			<PostId>9665</PostId>
+			<ParentPostId>5165</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-22T14:27:08.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5587</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Unfortunately I dont have a basement or a different room where its between 10-15 degrees. Since it summer, the temperature in the house is between 20 and 25 degrees. All of my beers are stored in a closet where it is 23 degrees at the moment. I have 3 year old Orvals, Barleywines, ipas and some other beers. Is this going to damage the beer? Or shouldn't I worry about it? 
+
+					Thanks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "131" InstanceType= "Initial Title" >
+			<PostId>9666</PostId>
+			<ParentPostId>5165</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-22T14:27:08.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5587</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How bad is it to storage beer at 20 to 25 degrees celsius?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "132" InstanceType= "Initial Tags" >
+			<PostId>9667</PostId>
+			<ParentPostId>5165</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-22T14:27:08.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5587</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "133" InstanceType= "Initial Body" >
+			<PostId>11658</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-30T19:23:24.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've been to several bars recently that feature a "What's on cask?" section of the beer menu. The menu does not, however, suggest why that particular beer is being held in a firkin and served via the hand-pulled tap. 
+
+					I do not mean this as a repeat of [this question][1]. I am interested in the reasons bars, specifically, might wish to have and serve from firkins, and not just the general difference in beer varieties.
+
+					I understand there is a historical nature to this, which might be amusing for some purposes. But I want to know if there are specific effects on the beer itself: storage timing, retention of flavor, temperature needs, pouring effect (slower, no CO2, whatever), and so on. 
+
+					If the bar offered the exact same beer, one in a cask and one on a regular tap, should there be noticeable differences in the resulting served beer? 
+
+
+					  [1]: http://alcohol.stackexchange.com/questions/399/whats-the-difference-between-a-cask-beer-and-a-kegged-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "134" InstanceType= "Initial Title" >
+			<PostId>11659</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-30T19:23:24.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is some beer kept in/served from a firkin in a bar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "135" InstanceType= "Initial Tags" >
+			<PostId>11660</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-30T19:23:24.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, serving, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "136" InstanceType= "Initial Body" >
+			<PostId>11969</PostId>
+			<ParentPostId>6601</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-26T15:50:16.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6472</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In a home bar, the rate of consumption is (in theory at least...) a lot less than for a commercial bar. This means proper storage of ingredients becomes a much more important question, as bottles will stick around for months or years.
+
+					What's the best way to store liquor to ensure each bottle does not go bad?
+
+					What impact do light, temperature, humidity, and other factors play in this?
+
+					Are there any particular alcohols (e.g., vermouths) that should be stored differently?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "137" InstanceType= "Initial Title" >
+			<PostId>11970</PostId>
+			<ParentPostId>6601</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-26T15:50:16.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6472</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How should one store liquors in a home bar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "138" InstanceType= "Initial Tags" >
+			<PostId>11971</PostId>
+			<ParentPostId>6601</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-26T15:50:16.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6472</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, liquor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "139" InstanceType= "Initial Body" >
+			<PostId>12247</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T17:54:58.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6564</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've been enjoying lurking around here, I'm learning a lot! 
+
+					Part of my job involves selling beer. I was told by a coworker that visible yeast particulates at the top of a beer bottle indicate that it's not fit for consumption, whereas yeast at the bottom is fine. 
+
+					Is this true? And if so, does it change depending on whether it's a top-fermenting or bottom-fermenting beer? Does this affect meads and ciders as well? 
+
+					Thank you! 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "140" InstanceType= "Initial Title" >
+			<PostId>12248</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T17:54:58.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6564</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does beer expiration change based on yeasts?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "141" InstanceType= "Initial Tags" >
+			<PostId>12249</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T17:54:58.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6564</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, aging, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "142" InstanceType= "Unknown" >
+			<PostId>12253</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-18T12:25:16.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/843075829408120833
+			</EditDetails>
+		</Instance>
+		<Instance Id= "143" InstanceType= "Unknown" >
+			<PostId>12281</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-21T09:44:49.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/844122617279864832
+			</EditDetails>
+		</Instance>
+		<Instance Id= "144" InstanceType= "Initial Body" >
+			<PostId>12435</PostId>
+			<ParentPostId>6745</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-07T01:36:54.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6639</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a reason why yeast sugar and water will not create enough pressure to explode a pressure barrel With enough sugar will the yeast create pressure indefinitely?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "145" InstanceType= "Initial Title" >
+			<PostId>12436</PostId>
+			<ParentPostId>6745</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-07T01:36:54.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6639</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Carbonation in pressure barrel
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "146" InstanceType= "Initial Tags" >
+			<PostId>12437</PostId>
+			<ParentPostId>6745</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-07T01:36:54.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6639</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "147" InstanceType= "Edit Body" >
+			<PostId>12487</PostId>
+			<ParentPostId>83</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Every August I go camping&lt;sup&gt;1&lt;/sup&gt; for a week or two in western PA, and I like to take along some beer to drink in the evenings.  What I've been doing, to save cooler space (and reduce the amount of ice I have to replace each day), is to keep most of it out and just keep a buffer of a couple bottles in the cooler.  But [this question](https://alcohol.stackexchange.com/questions/50/will-temperature-changes-cause-a-beer-to-skunk) makes me wonder whether that harms the taste, because while I can control for light I can't do much about storage temperature.  Should I just suck it up and put everything on ice when I get there?  I haven't noticed a problem so far, but I tend to take a variety of beers (I don't drink the same thing every day) so I might never notice on my own.
+
+					&lt;sup&gt;1&lt;/sup&gt; This is not primitive camping with tiny, heat-absorbing nylon tents.  Most of our tents/pavillions are canvas, and we have a small cabin available.  No electricity is available, however.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "148" InstanceType= "Edit Body" >
+			<PostId>12554</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T13:00:11.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://alcohol.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've been to several bars recently that feature a "What's on cask?" section of the beer menu. The menu does not, however, suggest why that particular beer is being held in a firkin and served via the hand-pulled tap. 
+
+					I do not mean this as a repeat of [this question][1]. I am interested in the reasons bars, specifically, might wish to have and serve from firkins, and not just the general difference in beer varieties.
+
+					I understand there is a historical nature to this, which might be amusing for some purposes. But I want to know if there are specific effects on the beer itself: storage timing, retention of flavor, temperature needs, pouring effect (slower, no CO2, whatever), and so on. 
+
+					If the bar offered the exact same beer, one in a cask and one on a regular tap, should there be noticeable differences in the resulting served beer? 
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/399/whats-the-difference-between-a-cask-beer-and-a-kegged-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "149" InstanceType= "Initial Body" >
+			<PostId>12614</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-18T13:23:05.443</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6672</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've seen a few questions about what to do with some wines that have been in the refrigerator. I am planning on opening an unopened bottle of rainwater Madeira (aged 5 years) that has been in my refrigerator for about 2-3 years. I received it as a gift and I live in a hot and humid climate where my job keeps me away for long periods of time, so I ended up storing the wine in the refrigerator, knowing it was not the best thing to do.
+
+					I finally have a chance to enjoy this wine in a few days but wanted to know how to best ready it for consumption, whether or not it should be aerated or decanted first, if there are any potential effects of refrigeration I should take into account when serving, and if there are any steps I should take to mitigate and bring out the best of this bottle.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "150" InstanceType= "Initial Title" >
+			<PostId>12615</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-18T13:23:05.443</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6672</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to best serve a Madeira that's been in the fridge for a few years
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "151" InstanceType= "Initial Tags" >
+			<PostId>12616</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-18T13:23:05.443</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6672</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					recommendations, storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "152" InstanceType= "Edit Title" >
+			<PostId>12617</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-18T13:28:22.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6672</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How to best serve a Madeira that's been in the fridge for a few years?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "153" InstanceType= "Edit Body" >
+			<PostId>12621</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T02:29:20.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added a Wikipedia link for clarity and one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've seen a few questions about what to do with some wines that have been in the refrigerator. I am planning on opening an unopened bottle of rainwater [Madeira][1] (aged 5 years) that has been in my refrigerator for about 2-3 years. I received it as a gift and I live in a hot and humid climate where my job keeps me away for long periods of time, so I ended up storing the wine in the refrigerator, knowing it was not the best thing to do.
+
+					I finally have a chance to enjoy this wine in a few days but wanted to know how to best ready it for consumption, whether or not it should be aerated or decanted first, if there are any potential effects of refrigeration I should take into account when serving, and if there are any steps I should take to mitigate and bring out the best of this bottle.
+
+
+					  [1]: https://en.wikipedia.org/wiki/Madeira_wine
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "154" InstanceType= "Edit Tags" >
+			<PostId>12622</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T02:29:20.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added a Wikipedia link for clarity and one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					wine, recommendations, storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "155" InstanceType= "Unknown" >
+			<PostId>12628</PostId>
+			<ParentPostId>6782</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T15:45:37.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/854722662152720385
+			</EditDetails>
+		</Instance>
+		<Instance Id= "156" InstanceType= "Unknown" >
+			<PostId>12655</PostId>
+			<ParentPostId>6745</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-24T01:21:03.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/856317028038258690
+			</EditDetails>
+		</Instance>
+		<Instance Id= "157" InstanceType= "Initial Body" >
+			<PostId>12752</PostId>
+			<ParentPostId>6838</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-14T19:24:05.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6743</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Tequila happens to be just about the only liquor I enjoy. Recently, I was talking to some guys from Mexico who know their tequila pretty well. One of the older guys was telling me he sometimes enjoys keeping tequila in the freezer as it completely changes the flavour (I guess to something better/positive).
+
+					Is it a bad idea for any reason to store tequila in the freezer, and does it matter what type of tequila it is?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "158" InstanceType= "Initial Title" >
+			<PostId>12753</PostId>
+			<ParentPostId>6838</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-14T19:24:05.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6743</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Storing tequila in the freezer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "159" InstanceType= "Initial Tags" >
+			<PostId>12754</PostId>
+			<ParentPostId>6838</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-14T19:24:05.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6743</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					tequila, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "160" InstanceType= "Edit Tags" >
+			<PostId>12757</PostId>
+			<ParentPostId>6838</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-15T12:10:10.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one link.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					storage, tequila, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "161" InstanceType= "Initial Body" >
+			<PostId>12951</PostId>
+			<ParentPostId>6922</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-21T01:23:32.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6853</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A week ago it was 100 degrees and I don't have AC. The outcome: my newly opened 1.5 litre bottle of Merlot went bad.
+
+					So I bought a new bottle of Pinot Noir and left it in the fridge while it was unoppened. Now I have opened it and fear my wine will go bad in the coming days (80 degrees +). What should I do? Can I keep it in the refrigerator? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "162" InstanceType= "Initial Title" >
+			<PostId>12952</PostId>
+			<ParentPostId>6922</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-21T01:23:32.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6853</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					100 degrees, now what to do with the wine
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "163" InstanceType= "Initial Tags" >
+			<PostId>12953</PostId>
+			<ParentPostId>6922</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-21T01:23:32.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6853</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, red-wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "164" InstanceType= "Unknown" >
+			<PostId>12965</PostId>
+			<ParentPostId>6922</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-24T07:34:53.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/878516764996509696
+			</EditDetails>
+		</Instance>
+		<Instance Id= "165" InstanceType= "Initial Body" >
+			<PostId>12967</PostId>
+			<ParentPostId>6928</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-25T11:32:54.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6778</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Many sites state that bottles of vintage port should be stored on their side, like wine, in order to prevent the cork from drying out. However, at the bottle shop, bottles are standing upright on the shelves to display themselves more attractively.
+
+					We don't know how long the bottle has been standing upright, and it could have dried out the cork, and then do bad things to the port once layed on its side again. Once a bottle comes out of the cellars and is put upright on a shelf for let's say a couple of months or a year, is it advisable to lay the bottle down in storage again?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "166" InstanceType= "Initial Title" >
+			<PostId>12968</PostId>
+			<ParentPostId>6928</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-25T11:32:54.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6778</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Vintage port stored on the side
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "167" InstanceType= "Initial Tags" >
+			<PostId>12969</PostId>
+			<ParentPostId>6928</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-25T11:32:54.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6778</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, aging, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "168" InstanceType= "Edit Body" >
+			<PostId>13010</PostId>
+			<ParentPostId>6922</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-04T13:18:37.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6853</UserId>
+			</Contributors>
+			<EditDetails>
+				added 11 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					A week ago it was 100 degrees Fahrenheit and I don't have AC. The outcome: my newly opened 1.5 litre bottle of Merlot went bad.
+
+					So I bought a new bottle of Pinot Noir and left it in the fridge while it was unoppened. Now I have opened it and fear my wine will go bad in the coming days (80 degrees +). What should I do? Can I keep it in the refrigerator? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "169" InstanceType= "Unknown" >
+			<PostId>13030</PostId>
+			<ParentPostId>6928</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-07T17:46:24.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/883381700499308544
+			</EditDetails>
+		</Instance>
+		<Instance Id= "170" InstanceType= "Initial Body" >
+			<PostId>13467</PostId>
+			<ParentPostId>7087</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-23T11:47:17.913</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7286</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I put my beer on a warm floor for a week (I live in Korea and during winter we keep our floor warm). Does this make my beer go bad enough that it's unhealthy to drink it?
+
+					The beer is Schneider Weisse Tap 5, and the shelf life written on the bottle says July 2018. I'm just concerned if the warm floor may have made the beer go bad real fast or something.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "171" InstanceType= "Initial Title" >
+			<PostId>13468</PostId>
+			<ParentPostId>7087</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-23T11:47:17.913</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7286</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Shelf Life of Warm Beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "172" InstanceType= "Initial Tags" >
+			<PostId>13469</PostId>
+			<ParentPostId>7087</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-23T11:47:17.913</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7286</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "173" InstanceType= "Initial Body" >
+			<PostId>13489</PostId>
+			<ParentPostId>7096</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-30T19:37:36.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've recently made the decision to put my whisky collection into storage and slow down my drinking habit.
+
+					Assuming I keep the bottles under moderate temperature, and out of sunlight, is there a ballpark figure to how long they'll remain palatable?
+
+					More specifically, I'm interested in real numbers, and not just 'a long time'.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "174" InstanceType= "Initial Title" >
+			<PostId>13490</PostId>
+			<ParentPostId>7096</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-30T19:37:36.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long will a bottle of whisky last while stored under ideal conditions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "175" InstanceType= "Initial Tags" >
+			<PostId>13491</PostId>
+			<ParentPostId>7096</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-30T19:37:36.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, whiskey, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "176" InstanceType= "Edit Title" >
+			<PostId>13496</PostId>
+			<ParentPostId>7096</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-01T14:38:18.343</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<EditDetails>
+				changed title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How long will an opened bottle of whisky last while stored under ideal conditions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "177" InstanceType= "Unknown" >
+			<PostId>13497</PostId>
+			<ParentPostId>7096</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-01T17:13:50.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/936644520522977281
+			</EditDetails>
+		</Instance>
+		<Instance Id= "178" InstanceType= "Unknown" >
+			<PostId>13599</PostId>
+			<ParentPostId>83</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-25T09:10:24.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/945220169168809984
+			</EditDetails>
+		</Instance>
+		<Instance Id= "179" InstanceType= "Initial Body" >
+			<PostId>13856</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-01T08:11:43.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7688</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can you brew beer in an apt? I could let it age in my closet, or the balcony storage shed.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "180" InstanceType= "Initial Title" >
+			<PostId>13857</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-01T08:11:43.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7688</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Brewing in a rented space/place.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "181" InstanceType= "Initial Tags" >
+			<PostId>13858</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-01T08:11:43.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7688</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "182" InstanceType= "Initial Body" >
+			<PostId>14056</PostId>
+			<ParentPostId>7283</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T22:47:43.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7786</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have had cola cans explode in my freezer. But I cannot afford to test this on my long neck beer bottles.
+
+					Do beer bottles (or cans) explode in a freezer (of a typical fridge in a household) ?
+ 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "183" InstanceType= "Initial Title" >
+			<PostId>14057</PostId>
+			<ParentPostId>7283</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T22:47:43.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7786</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do beer bottles explode in freezer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "184" InstanceType= "Initial Tags" >
+			<PostId>14058</PostId>
+			<ParentPostId>7283</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T22:47:43.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7786</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "185" InstanceType= "Initial Body" >
+			<PostId>14067</PostId>
+			<ParentPostId>7291</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-15T23:24:12.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7786</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I like cold beer. Given the answers in https://alcohol.stackexchange.com/q/7283/7786 -beer bottles may break in a freezer. 
+
+					How can I get my beer to chill as much as possible. Get it so cold that it's only slightly away from being frozen ? 
+
+					If the bottle type of a beer matters, I am happy to propose we talk about Corona Extra or Budweiser as both of these are easily available in USA and Australia and am hoping their bottles are of a similar quality. 
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "186" InstanceType= "Initial Title" >
+			<PostId>14068</PostId>
+			<ParentPostId>7291</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-15T23:24:12.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7786</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I get beer to chill to the maximum possible?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "187" InstanceType= "Initial Tags" >
+			<PostId>14069</PostId>
+			<ParentPostId>7291</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-15T23:24:12.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7786</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "188" InstanceType= "Edit Body" >
+			<PostId>14070</PostId>
+			<ParentPostId>7291</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-15T23:31:32.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7786</UserId>
+			</Contributors>
+			<EditDetails>
+				added 46 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I like cold beer. Given the answers in https://alcohol.stackexchange.com/q/7283/7786 -beer bottles may break in a freezer. 
+
+					How can I get my beer to chill as much as possible. Get it so cold that it's only slightly away from being frozen ? 
+
+					If the bottle type of a beer matters, I am happy to propose we talk about Corona Extra or Budweiser as both of these are easily available in USA and Australia (I am looking to chill my beer in Australia) and am hoping their bottles are of a similar quality. 
+ 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "189" InstanceType= "Initial Body" >
+			<PostId>14088</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T08:41:35.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do people preserve wines , champagnes for decades . Is there a special method or is it like keep in wine storage or cupboard and forget for some decades to be better in taste 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "190" InstanceType= "Initial Title" >
+			<PostId>14089</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T08:41:35.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to people preserve wines , champange?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "191" InstanceType= "Initial Tags" >
+			<PostId>14090</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T08:41:35.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, storage, preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "192" InstanceType= "Unknown" >
+			<PostId>14092</PostId>
+			<ParentPostId>7291</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T10:38:00.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/997426065785147392
+			</EditDetails>
+		</Instance>
+		<Instance Id= "193" InstanceType= "Edit Body" >
+			<PostId>14093</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T12:35:24.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7517</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do people preserve wines and champagnes for decades? Is there a special method or is it like keep in wine storage or cupboard and forget for some decades to be better in taste?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "194" InstanceType= "Edit Title" >
+			<PostId>14094</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T12:35:24.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7517</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How to people preserve wines, champagne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "195" InstanceType= "Unknown" >
+			<PostId>14095</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T12:35:24.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7517 approved by 187, 5064 edit id of 326
+			</EditDetails>
+		</Instance>
+		<Instance Id= "196" InstanceType= "Unknown" >
+			<PostId>14100</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T19:38:01.250</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/997561965148102657
+			</EditDetails>
+		</Instance>
+		<Instance Id= "197" InstanceType= "Edit Title" >
+			<PostId>14107</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-19T19:06:56.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7787</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed spelling in title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do people preserve wines, champagne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "198" InstanceType= "Unknown" >
+			<PostId>14108</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-19T19:06:56.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7787 approved by 5064, 187 edit id of 327
+			</EditDetails>
+		</Instance>
+		<Instance Id= "199" InstanceType= "Edit Tags" >
+			<PostId>14109</PostId>
+			<ParentPostId>7301</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-19T19:31:54.470</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					wine, storage, preservation, champagne, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "200" InstanceType= "Unknown" >
+			<PostId>14114</PostId>
+			<ParentPostId>7283</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-21T22:44:31.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/998696063287652353
+			</EditDetails>
+		</Instance>
+		<Instance Id= "201" InstanceType= "Unknown" >
+			<PostId>14143</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-01T02:04:48.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1002370346421547009
+			</EditDetails>
+		</Instance>
+		<Instance Id= "202" InstanceType= "Initial Body" >
+			<PostId>14187</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-15T06:13:35.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					We have 12 can of beer, we boiled 3 of them in some ranges of temperature such as: 122F, 131F, 140F, 149F in some duration (30min, 40min, 50min, and 60min). 
+					Then we drank them, but we feel their quality very distinguighed. But someone says the temperature no effect on quality of beer. So, what are the true answers?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "203" InstanceType= "Initial Title" >
+			<PostId>14188</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-15T06:13:35.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Effects of temperature and time handling on beer 's taste?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "204" InstanceType= "Initial Tags" >
+			<PostId>14189</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-15T06:13:35.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, storage, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "205" InstanceType= "Unknown" >
+			<PostId>14207</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-20T21:40:38.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1009551622001872896
+			</EditDetails>
+		</Instance>
+		<Instance Id= "206" InstanceType= "Initial Body" >
+			<PostId>14253</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Should non-alcoholic beer be refrigerated to preserve it? How long does non-alcoholic beer last when not refrigerated?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "207" InstanceType= "Initial Title" >
+			<PostId>14254</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Refrigerate Non-Alcoholic beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "208" InstanceType= "Initial Tags" >
+			<PostId>14255</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, flavor, temperature, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "209" InstanceType= "Initial Body" >
+			<PostId>14493</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T19:07:37.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I received a very large bottle of Sake, but have not opened it because I am sure I can't drink it all quickly.  Once I open it how long can I expect it to last, and what's the best way to keep it good for the longest possible. 
+
+					What temperature should it be stored at, and what's the best temperate when drinking it?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "210" InstanceType= "Initial Title" >
+			<PostId>14494</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T19:07:37.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long does an open bottle of Sake last?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "211" InstanceType= "Initial Tags" >
+			<PostId>14495</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T19:07:37.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "212" InstanceType= "Edit Tags" >
+			<PostId>14499</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T23:21:44.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					storage, temperature, sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "213" InstanceType= "Unknown" >
+			<PostId>14539</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T18:01:14.023</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1031239679960670208
+			</EditDetails>
+		</Instance>
+		<Instance Id= "214" InstanceType= "Initial Body" >
+			<PostId>14551</PostId>
+			<ParentPostId>7453</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-23T04:53:05.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8038</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where does expired beer typically go when sellers rotate their stock?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "215" InstanceType= "Initial Title" >
+			<PostId>14552</PostId>
+			<ParentPostId>7453</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-23T04:53:05.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8038</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How is expired beer typically disposed of by large retailers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "216" InstanceType= "Initial Tags" >
+			<PostId>14553</PostId>
+			<ParentPostId>7453</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-23T04:53:05.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8038</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

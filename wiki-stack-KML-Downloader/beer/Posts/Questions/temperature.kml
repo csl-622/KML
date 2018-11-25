@@ -1,0 +1,835 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>5</PostId>
+			<AcceptedAnswerId>19</AcceptedAnswerId>
+			<Title>
+			"What temperature should I serve my beer?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>21</Score>
+				<ViewCount>3569</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>9</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:31:44.693</CreationDate>
+				<LastEditDate>2014-01-21T21:21:29.497</LastEditDate>
+				<LastActivityDate>2017-06-07T11:10:28.887</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In general, what's the best way to work out the temperature at which to serve a particular beer? Room temperature? Cold? Supercold? &lt;em&gt;Warm?&lt;/em&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>105</PostId>
+			<AcceptedAnswerId>128</AcceptedAnswerId>
+			<Title>
+			"How does serving temperature affect the taste of beers?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>961</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:26:32.303</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2014-01-22T01:23:17.063</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;For example, from the label of Uinta's Crooked Line Labyrinth Black Ale:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Flavors are enhanced when served cool, not frigid.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;How does serving temperature affect the taste of beers? By &lt;em&gt;"How?"&lt;/em&gt; I'm asking more about its effects on flavor, &lt;em&gt;e.g.&lt;/em&gt; hoppiness, crispness, the aftertaste, etc. more so than the chemical process.&lt;sup&gt;*&lt;/sup&gt; That is, what flavors become pronounced or dulled with the changing of temperature?&lt;/p&gt;
+
+					&lt;p&gt;There's a question, &lt;a href="https://alcohol.stackexchange.com/questions/5/what-temperature-should-i-serve-my-beer"&gt;What temperature should I serve my beer?&lt;/a&gt;, where an answerer states, for example, that letting darker beers warm up brings out new flavors—but what flavors? It doesn't seem to be the case that cooling kills all desirable flavors in general—for example for pilsners, lagers, and hefeweizens, "letting them get warm changes their flavor profile for the worse" (from the same answer).&lt;/p&gt;
+
+					&lt;p&gt;&lt;sup&gt;* Knowing the chemical process, &lt;em&gt;e.g.&lt;/em&gt; how certain elements or ingredients react or suspend differently according to temperature, would be very interesting indeed, but it seems difficult to find solid literature / knowledge on the subject.&lt;/sup&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>171</PostId>
+			<Title>
+			"Optimal mulling temperature?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>mulling</tag>
+				<tag>preparation-for-drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>59</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T09:05:49.673</CreationDate>
+				<LastEditDate>2014-01-22T16:09:14.117</LastEditDate>
+				<LastActivityDate>2014-01-24T06:19:47.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>130</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Taste-wise, at least in my opinion, the hotter the mulled beer the better. Except past certain point the alcohol starts evaporating so quickly you end up losing most of it before you start drinking.&lt;/p&gt;
+
+					&lt;p&gt;How should I heat the beer - what temperature, what heating method - to get it as hot as possible without losing alcohol content?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>215</PostId>
+			<AcceptedAnswerId>216</AcceptedAnswerId>
+			<Title>
+			"Why should beer be kept in the fridge?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>22</Score>
+				<ViewCount>35768</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T18:14:32.440</CreationDate>
+				<LastActivityDate>2014-05-02T21:58:27.923</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>53</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer is usually found in fridges in shops and supermarkets. At home, you would store it in the fridge as well before drinking. On the other hand, many liquor shops have stacks of beer cans outside fridges, and beer in kegs isn't usually refrigerated when it's transported.&lt;/p&gt;
+
+					&lt;p&gt;What are the benefits of keeping beer refrigerated? Which kinds of beer should/must be refrigerated and which ones don't need to be?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>254</PostId>
+			<AcceptedAnswerId>262</AcceptedAnswerId>
+			<Title>
+			"Does a frosted glass cause any significant dilution of the beer it holds?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>484</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T08:26:49.693</CreationDate>
+				<LastActivityDate>2014-01-25T15:38:52.787</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've always been a fan of "the colder the better".  I enjoy using a glass that has been placed in the freezer.  &lt;/p&gt;
+
+					&lt;p&gt;Obviously, in this scenario, there's frozen condensation on it, but is this enough to dilute the beer such that I'm destroying the flavor by doing so?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>257</PostId>
+			<AcceptedAnswerId>258</AcceptedAnswerId>
+			<Title>
+			"When in the history of serving beer did it transition from a warm beverage to a cold one?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+				<tag>history</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>2793</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T08:31:42.643</CreationDate>
+				<LastActivityDate>2014-01-23T08:39:06.640</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know that there may be some debate raging over this today, depending on what side of the Atlantic one is on, but there seems to be a clear point in history when beer went from being enjoyed warm to warm beer being undesirable. &lt;/p&gt;
+
+					&lt;p&gt;I'm assuming some of this had to do with the advent of refrigeration, but in what era in America was the serving temperature more likely to be cold than warm?  Has a similar trend occurred in Europe and other parts of the world?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>293</PostId>
+			<AcceptedAnswerId>299</AcceptedAnswerId>
+			<Title>
+			"What are some ways to quickly cool a beer?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>21</Score>
+				<ViewCount>2430</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-24T06:44:00.180</CreationDate>
+				<LastActivityDate>2017-02-17T10:17:24.317</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's happened to the best of us: you really want a nice hefeweizen or maybe a good bitter, but all you have are room-temperature bottles.  Short of waiting an hour or so or (god forbid) putting ice in it, how can a bottle or can of beer be effectively cooled quickly?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>415</PostId>
+			<AcceptedAnswerId>417</AcceptedAnswerId>
+			<Title>
+			"Should English/English-style beers be served warmer, since that is how the taste was developed?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>temperature</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>994</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T16:07:56.303</CreationDate>
+				<LastActivityDate>2017-01-28T05:36:20.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>29</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Given that the British tend to drink their beer at a higher temperature than those of us in the US, should beer brewed in an English style be consumed that way? The justification I can think of is: the people developing the taste of the beer probably consumed it at a certain temperature, which might have not been the ice-cold levels that predominate in the Colonies. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>597</PostId>
+			<AcceptedAnswerId>600</AcceptedAnswerId>
+			<Title>
+			"Are there any beer styles that are best enjoyed hot?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>1865</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-13T03:32:24.363</CreationDate>
+				<LastActivityDate>2014-04-03T14:17:49.407</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>31</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm well aware that beer is commonly enjoyed warm in Europe. However, mulled beer aside, are there any beer styles that fare well when enjoyed hot?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>605</PostId>
+			<AcceptedAnswerId>624</AcceptedAnswerId>
+			<Title>
+			"Does beer suffer from being warmed and then rechilled?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>35</Score>
+				<ViewCount>75330</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-15T00:09:29.893</CreationDate>
+				<LastActivityDate>2017-01-28T04:57:35.787</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>479</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I typically prefer my beer only a bit cold, so when I buy a 12-pack from a store's cooler I typically just leave it out. The excess I'll refrigerate at the end of the night, and sometimes repeat the process with the same beer on a different night.&lt;/p&gt;
+
+					&lt;p&gt;Does this affect the quality of the beer in some chemical way? I almost exclusively drink IPA's and personally never notice a difference, but many of my friends have commented on the habit of mine to let beer warm.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>845</PostId>
+			<Title>
+			"I'm aging a few bottles. They've been in the fridge for a while. Should I take them out now?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>aging</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>806</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-04T00:25:40.840</CreationDate>
+				<LastEditDate>2016-10-08T14:41:21.000</LastEditDate>
+				<LastActivityDate>2016-10-08T14:41:21.000</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>961</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Pretty much this. I'm storing/aging bottles. They've been in my fridge for 6+ months now. I want to leave them there at least another 6+ months and on. But I've read aging beers in fridge is a "bad" idea because the cork will dry up. (All my bottles have corks). Temperature in the fridge is just above 32F (0 celsius)&lt;/p&gt;
+
+					&lt;p&gt;I've talked to my father recently who's more into wine and told me I should get them out of the fridge and leave them somewhere else. That somewhere else is pitch black, pretty much on a cool floor and ambient temperature is about &lt;a href="https://i.imgur.com/rJNglxK.jpg" rel="nofollow noreferrer"&gt;65F(18 celsius), 85% humidity&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/jPLFA.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/jPLFA.jpg" alt="Temperature and Humidity"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;Is there a risk to change the ambient temperature while it is aging, am I better getting them out of the fridge or does it matter little. I have a few bottles I've left out of the fridge in that place already. Should they go into the fridge? I'm also a bit curious as to why as well how it would affect the beers.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>1033</PostId>
+			<Title>
+			"Why are breweries against freezing pint glasses?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>-7</Score>
+				<ViewCount>1160</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-27T01:18:49.873</CreationDate>
+				<LastEditDate>2014-10-30T18:02:04.910</LastEditDate>
+				<LastActivityDate>2018-07-22T23:13:20.353</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1338</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It makes no sense to me why breweries are against freezing pint glasses. I think that there's nothing better than ice cold beer, and it seems in most ways the breweries agree. They try and cool beer lines, beer in bottles is always served cold, and some beer is bottled with labels that let you know when the beer is cold. So why are they so against freezing pint glasses, particularly when there are some great inventions out there that can freeze pint glasses in seconds? I think they should promote instead of being against it, so why don't they?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>2158</PostId>
+			<Title>
+			"Does re-refrigerating affect the taste of beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>10028</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>7</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-24T00:00:38.473</CreationDate>
+				<LastEditDate>2015-01-04T14:58:29.780</LastEditDate>
+				<LastActivityDate>2015-01-04T14:58:29.780</LastActivityDate>
+				<ClosedDate>2015-01-04T15:00:23.657</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2632</OwnerUserId>
+				<LastEditorUserId>2639</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some of my college friends like to tell me that refrigerating beer, then taking it out (allowing it to warm up), and re-refrigerating it causes the beer to lose its taste. I've even known some to throw out beer that has gone through this scenario.&lt;/p&gt;
+
+					&lt;p&gt;I've looked around on the internet a bit, and there doesn't seem to be any real evidence to the claim. I found an article on &lt;a href="http://www.beeradvocate.com/community/threads/letting-cold-beer-get-warm.14663/"&gt;Beer Advocate&lt;/a&gt;, where people seem to agree that:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;UV light exposure causes negative effects (only a real problem for bottled beer).&lt;/li&gt;
+					&lt;li&gt;&lt;em&gt;Extreme&lt;/em&gt; fluctuations in temperature are generally not good for the beer.&lt;/li&gt;
+					&lt;li&gt;Bottled beers can sometimes re-ferment at higher temperatures, causing over-carbonation.&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;Nothing conclusive.&lt;/p&gt;
+
+					&lt;p&gt;My question is: &lt;strong&gt;does refrigerating, unrefrigerating, and re-refrigerating beer negatively affect the taste of beer?&lt;/strong&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>3350</PostId>
+			<AcceptedAnswerId>3351</AcceptedAnswerId>
+			<Title>
+			"Why do lagers get made in tropical climates?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>temperature</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>787</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-24T08:49:22.350</CreationDate>
+				<LastActivityDate>2015-04-27T05:49:29.810</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4024</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Lager" rel="nofollow"&gt;Lagers&lt;/a&gt; traditionally were made in the colder months and stored (lagered) in caves. As lager yeast prefers a &lt;a href="https://www.wyeastlab.com/he_b_fermentation.cfm" rel="nofollow"&gt;colder fermentation and conditioning temperature&lt;/a&gt; than ales, why is lager regularly made in hot, tropical climates around the world instead of more temperature tolerant ales, or just imported?&lt;/p&gt;
+
+					&lt;p&gt;On a tour around the Tiger Brewery in Singapore where the average temperature is 30 deg C, the guide mentioned the brewery started in 1932 and used a "tropical lagering process". The guide wasn't sure of details, and I haven't found details elsewhere on this process.&lt;/p&gt;
+
+					&lt;p&gt;Is it a simple matter of economics, that it's cheaper to brew lager locally even with climate control than to import, or is there a way to successfully brew lagers at high temperatures?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>3370</PostId>
+			<AcceptedAnswerId>3382</AcceptedAnswerId>
+			<Title>
+			"When and how to drink cellared beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>176</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-08T21:07:27.047</CreationDate>
+				<LastActivityDate>2015-05-13T16:47:11.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4101</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I had acquired a couple of Samuel Adams "one-off" beers, specifically "The Vixen (stout)", "Merry Mischief (gingerbread stout)", "Griffin's Bow (barley wine)" and "Norse Legend (Sahti)". These bottles are either first, second or third batch, according to the label mind you. I had these beers for 2 years in a cellar, almost no light touches them and at room temperature.&lt;/p&gt;
+
+					&lt;p&gt;I know that most of this types of beer gets better with time, except for the Sahti, hadn't explored much of that type, but I would like to know if it's safe for the beers to be kept and for how long, and at a given time, what's the best way to drink them (chill them, room temperature, etc.). Thanks.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>3507</PostId>
+			<AcceptedAnswerId>3509</AcceptedAnswerId>
+			<Title>
+			"How to drink kvass?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>858</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-31T20:12:21.117</CreationDate>
+				<LastActivityDate>2015-08-25T07:17:54.660</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4374</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I’ve recently received a bottle of gira (i.e. kvass from Lithuania).&lt;/p&gt;
+
+					&lt;p&gt;With it came a beer mug, so I guess the issue of the glassware is settled. At what temperature should I drink it? If I understand correctly (which I probably don’t, given that everything is written in Lithuanian), the kvass is unfiltered. Should I pour carefully to avoid mixing too much yeast in the glass or, on the contrary, should I ensure that some yeast do go into the glass? Or is it purely a matter of taste?&lt;/p&gt;
+
+					&lt;p&gt;Finally, at which temperature should it be served?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>4562</PostId>
+			<Title>
+			"What beer is ok to drink not-cold or room temperature (for camping)"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>varieties</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>3915</ViewCount>
+				<AnswerCount>7</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-03T17:20:41.570</CreationDate>
+				<LastActivityDate>2017-12-18T19:20:39.977</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4488</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;As in title, I'm going camping with some buddies soon and we're planning on bringing far more beer than we have space for in a cooler. What kinds of beer are palatable to drink (or good even) when at room temperature or even slightly warm?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>4713</PostId>
+			<AcceptedAnswerId>4714</AcceptedAnswerId>
+			<Title>
+			"At what temperature should sour brown ale be served?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>76</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-12-05T18:39:15.880</CreationDate>
+				<LastActivityDate>2015-12-06T15:43:27.463</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1482</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have never tried sour beer before, and was recently given a sour brown ale. At what temperature should I serve this type of beer? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>4911</PostId>
+			<Title>
+			"Is it okay to store milk stout on the shelf?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>temperature</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>1236</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-03T00:11:00.517</CreationDate>
+				<LastEditDate>2016-04-06T16:21:42.223</LastEditDate>
+				<LastActivityDate>2016-04-06T16:21:42.223</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5278</OwnerUserId>
+				<LastEditorUserId>887</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I bought a 6 pack of milk stout by left hand off the shelf and it was warm. Upon looking on the bottle, it says "Please Keep Refrigerated." Is this beer okay to be stored on the shelf?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>4972</PostId>
+			<AcceptedAnswerId>4975</AcceptedAnswerId>
+			<Title>
+			"Should lighter red wines be served chilled?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>red-wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>2644</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-22T02:02:55.063</CreationDate>
+				<LastEditDate>2016-06-03T14:34:18.193</LastEditDate>
+				<LastActivityDate>2016-06-03T14:34:18.193</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know that white wines are usually served chilled and drier or full-bodied reds are served at room temperature.  For an upcoming gathering I'll be serving some lighter, sweeter reds (one is called a "red moscato", for example), alongside whites and other reds.  At what temperature should I serve them?  If chilled, would the same temperature as for whites (like rieslings) be suitable?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType="question">
+			<PostId>6383</PostId>
+			<Title>
+			"Are there any problems in serving non-cooled beer?"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>164</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-15T10:21:46.680</CreationDate>
+				<LastEditDate>2016-11-16T12:38:48.273</LastEditDate>
+				<LastActivityDate>2016-11-17T14:08:52.800</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6105</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are there any problems in serving a non-cooled (without cooling) a beer, as the doctor has told me not to take any cooled products. So I used to take beer once in couple of day without cooling it. The taste is different, but are there any real problems with consuming noncooled beers?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType="question">
+			<PostId>6873</PostId>
+			<Title>
+			"Why don't bars keep their bottles in the fridge to avoid using ice?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>1187</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-05-31T23:33:53.450</CreationDate>
+				<LastActivityDate>2017-06-06T16:20:23.303</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6788</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Maybe this is a non-question for connoisseurs, but as a non-drinking person I have no idea why it is so common to order certain alcoholic drinks at a bar "on the rocks" (with ice or even special "whiskey rocks" which are basically refrigerated non-dissolving shapes of plastic/metal/glass) instead of just keeping the whole bottle in the fridge. Then it wouldn't be watered down by melting ice, and be cool enough from the moment the bartender is done pouring it.&lt;/p&gt;
+
+					&lt;p&gt;Cursory research says repeated temperature change may alter certain alcohols' flavor, but then for other spirits it doesn't seem to be a problem, so that's ambiguous. However, at a regular bar's rate of consumption, I suppose there wouldn't be enough time for a bottle to go bad − it would be empty before then. Or maybe the effect is so strong that even one cycle of temperature change is enough. I don't know.&lt;/p&gt;
+
+					&lt;p&gt;My question is: Why most alcohols which become drinks into which ice is usually put, are not stored in a fridge instead, so that the ice isn't needed?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType="question">
+			<PostId>7341</PostId>
+			<Title>
+			"Effects of temperature and time handling on beer 's taste?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>storage</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>40</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-15T06:13:35.253</CreationDate>
+				<LastActivityDate>2018-07-22T22:56:07.140</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7860</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;We have 12 can of beer, we boiled 3 of them in some ranges of temperature such as: 122F, 131F, 140F, 149F in some duration (30min, 40min, 50min, and 60min). 
+					Then we drank them, but we feel their quality very distinguighed. But someone says the temperature no effect on quality of beer. So, what are the true answers?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType="question">
+			<PostId>7356</PostId>
+			<Title>
+			"Refrigerate Non-Alcoholic beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>flavor</tag>
+				<tag>temperature</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>22</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-27T13:51:31.633</CreationDate>
+				<LastActivityDate>2018-06-28T17:28:58.890</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7887</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Should non-alcoholic beer be refrigerated to preserve it? How long does non-alcoholic beer last when not refrigerated?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType="question">
+			<PostId>7434</PostId>
+			<AcceptedAnswerId>7436</AcceptedAnswerId>
+			<Title>
+			"How long does an open bottle of Sake last?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>temperature</tag>
+				<tag>sake</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>50</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-12T19:07:37.753</CreationDate>
+				<LastEditDate>2018-08-12T23:21:44.707</LastEditDate>
+				<LastActivityDate>2018-08-14T18:07:26.060</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8002</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I received a very large bottle of Sake, but have not opened it because I am sure I can't drink it all quickly.  Once I open it how long can I expect it to last, and what's the best way to keep it good for the longest possible. &lt;/p&gt;
+
+					&lt;p&gt;What temperature should it be stored at, and what's the best temperate when drinking it?  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

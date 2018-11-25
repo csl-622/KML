@@ -1,0 +1,1101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>17</PostId>
+			<ParentPostId>8</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>ale</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:45:57.743</CreationDate>
+				<LastActivityDate>2014-01-21T20:45:57.743</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Ales and lagers are brewed with different types of yeast.  Ale yeast ferments at the top of the brewing vat at a comfortable room temperature while lager yeast ferments at the bottom of the vat at a lower temperature.  The "low and slow" lager fermentation brings out more complex flavors.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>18</PostId>
+			<ParentPostId>8</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>ale</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>38</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:47:17.840</CreationDate>
+				<LastEditDate>2016-07-17T02:37:56.550</LastEditDate>
+				<LastActivityDate>2016-07-17T02:37:56.550</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Ale yeast strains are best used at temperatures ranging from 10 to 25°C, though some strains will not actively ferment below 12°C (33). Ale yeasts are generally regarded as top-fermenting yeasts since they rise to the surface during fermentation, creating a very thick, rich yeast head. That is why the term "top-fermenting" is associated with ale yeasts. Fermentation by ale yeasts at these relatively warmer temperatures produces a beer high in esters, which many regard as a distinctive character of ale beers. &lt;/p&gt;
+
+					&lt;p&gt;Top-fermenting yeasts are used for brewing ales, porters, stouts, Altbier, Kölsch, and wheat beers. *&lt;/p&gt;
+
+					&lt;p&gt;Lager yeast strains are best used at temperatures ranging from 7 to 15°C. At these temperatures, lager yeasts grow less rapidly than ale yeasts, and with less surface foam they tend to settle out to the bottom of the fermenter as fermentation nears completion. This is why they are often referred to as "bottom" yeasts. The final flavour of the beer will depend a great deal on the strain of lager yeast and the temperatures at which it was fermented. &lt;/p&gt;
+
+					&lt;p&gt;Some of the lager styles made from bottom-fermenting yeasts are Pilsners, Dortmunders, Märzen, Bocks, and American malt liquors.* &lt;/p&gt;
+
+					&lt;p&gt;(All information from &lt;a href="https://www.beeradvocate.com/"&gt;BeerAdvocate&lt;/a&gt;.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>24</PostId>
+			<ParentPostId>8</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>ale</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:52:07.243</CreationDate>
+				<LastActivityDate>2014-01-21T20:52:07.243</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The primary difference is the yeast used to ferment the beer -- ales use yeasts strains which work at a warmer temperature (10-25 deg C) than lager yeasts strains (7-15 deg C).  You may hear the terms "top-fermenting" for ale yeasts and "bottom-fermenting" for lagers, but I think that's more-or-less happen-stance -- the yeasts themselves are not inclined toward a particular altitude.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>97</PostId>
+			<ParentPostId>59</ParentPostId>			<Tags>
+				<tag>terminology</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:00:30.617</CreationDate>
+				<LastActivityDate>2014-01-21T22:00:30.617</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It doesn't actually mean anything; or at least, it almost never means the same thing twice, and doesn't refer to any &lt;em&gt;specific&lt;/em&gt; common style or process. It's about as meaningful as the fact that several dozen breweries have a beer they label as "Select".&lt;/p&gt;
+
+					&lt;p&gt;For example, in the case of Molson Export, the story goes that it was deemed so high quality that it was "good enough to send overseas" - and, implicitly, better than competing &lt;em&gt;imported&lt;/em&gt; brands.&lt;/p&gt;
+
+					&lt;p&gt;One common usage is for a line with slightly higher ABV (it keeps better in shipment!) or tailored to suit the ABC laws of other jurisdictions to which it might be shipped. But there isn't any single meaning that's widely understood. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>275</PostId>
+			<ParentPostId>272</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>lager</tag>
+				<tag>schwarzbier</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T19:32:12.913</CreationDate>
+				<LastActivityDate>2014-01-23T19:32:12.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A black lager, or perhaps a schwarzbier, really is a lager.  Aside from the difference in the fermentation process, there will be some difference in your base ingredients, as a schwarzbier will focus less on the chocolates or coffee flavor of a stout.&lt;/p&gt;
+
+					&lt;p&gt;I suspect you may find significantly more information in homebrew.stackexchange.com, as hunse suggests.  We would love to go into all sorts of detail over there!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>398</PostId>
+			<ParentPostId>8</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>ale</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>16</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T01:53:14.717</CreationDate>
+				<LastEditDate>2016-07-17T02:45:00.713</LastEditDate>
+				<LastActivityDate>2016-07-17T02:45:00.713</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A pictty good summary: 
+					&lt;img src="https://i.stack.imgur.com/llN8k.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;(Source: &lt;a href="http://www.popsci.com/science/article/2013-01/beersci-what-difference-between-lager-and-ale" rel="nofollow noreferrer"&gt;BeerSci: What Is The Difference Between A Lager And An Ale?&lt;/a&gt;)&lt;/p&gt;
+
+					&lt;p&gt;The first part of the picture depicts the description in my answer about where the yeast "works," the temperatures at which they work, and then some common types of ales/lagers. The second picture shows S. cerevisiae (common ale yeast) and a wild yeast S. eubayanus making some new cold tolerant yeast strain babies that are the common lager yeast (S. pastorianus). Note: my biology is rusty but from my reading and looking at the picture, this is what I derived. &lt;/p&gt;
+
+					&lt;p&gt;&lt;em&gt;(From @Grohlier's comment)&lt;/em&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>406</PostId>
+			<ParentPostId>8</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>ale</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T12:34:31.443</CreationDate>
+				<LastEditDate>2016-07-17T02:49:19.827</LastEditDate>
+				<LastActivityDate>2016-07-17T02:49:19.827</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>189</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This is pretty good explanation &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;&lt;img src="https://i.stack.imgur.com/GdEdo.png" alt="enter image description here"&gt;&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Source: &lt;a href="http://theoatmeal.com/comics/beer" rel="nofollow noreferrer"&gt;Twenty Things Worth Knowing About Beer.&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>462</PostId>
+			<ParentPostId>59</ParentPostId>			<Tags>
+				<tag>terminology</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-31T13:00:53.317</CreationDate>
+				<LastActivityDate>2014-01-31T13:00:53.317</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>301</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I visited Stella Artois brewery in Leuven (Belgium), they told us that they distributed the same beer in two kind of bottles. In brown reusable simply etiqueted bottles for distribution inside Belgium (note that it is a regular beer, the most drunk in Belgium), and in green more fancier etiqueted bottles with "imported" insciption on it for distribution around the world.&lt;/p&gt;
+
+					&lt;p&gt;In belgium Stella artois is a normal cheap beer, but where I live, in Spain, it is sold as imported special beer and costs more than double. However, the liquid inside the bottles is the same. So it is just marketing stragegy.&lt;/p&gt;
+
+					&lt;p&gt;The guy who showed us the brewery was clear. While people outside belgium are kind to pay more for a fancier bottle, they would distribute more expensive fancier bottles.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>660</PostId>
+			<ParentPostId>658</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>terminology</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-10T01:51:23.220</CreationDate>
+				<LastActivityDate>2014-03-10T01:51:23.220</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's likely just naming differences.  Though the BJCP has distinct categories for "Dark American Lager" and "Schwarzbier (Black Beer)".  The main difference seems to be that Dark lager is sweeter and more towards caramel malt than Black which is more dry and slightly roasty.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>793</PostId>
+			<ParentPostId>788</ParentPostId>			<Tags>
+				<tag>glassware</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-19T00:51:10.090</CreationDate>
+				<LastEditDate>2014-12-06T22:34:48.623</LastEditDate>
+				<LastActivityDate>2014-12-06T22:34:48.623</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>529</OwnerUserId>
+				<LastEditorUserId>550</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;According to Stella Artois  &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;In order to perfectly enjoy the unique taste and beauty of Stella Artois, we created the Chalice, instead of merely a glass. The Chalice is designed so that every curve serves a discrete purpose to how Stella Artois should be enjoyed. &lt;/p&gt;
+  
+					  &lt;p&gt;The authentic shape of the body encourages the perfect balance of C02 and liquid, enhancing head retention and flavor. The angles at the bottom cause a wave that works in harmony with the liquid alchemy. The stem provides a means to hold the chalice so that the Stella Artois stays cold longer and it's embellished with a star to honor our history.&lt;/p&gt;
+  
+					  &lt;p&gt;All of these details, however small, make a big impact on the flavor and experience, giving everyone the opportunity to taste a proper Stella Artois.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;a href="http://www.stellaartois.com/en/us/content/article/the-ritual/us-adorned-with-a-chalice" rel="nofollow"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>798</PostId>
+			<ParentPostId>788</ParentPostId>			<Tags>
+				<tag>glassware</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-21T01:20:03.927</CreationDate>
+				<LastActivityDate>2014-05-21T01:20:03.927</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>37</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The first, and primary reason any beer comes in branded glassware is this:  Marketing.  Brewers, like any other businesses, like for the general public to know that the anonymous tapped beer you're drinking is theirs.  That is why they provide branded glasses to bars, and request (or require) that their beer be served in their glasses.  &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Is there a benefit to the mildly curved shape of this glass for this type of beer?&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;In my observations, yes, there is.  While the throat may not narrow as severely as a brandy snifter, the effect of concentrating the aroma is still achieved. Eyeballing it, I'd say that the curvature is somewhere in between that of my champagne flutes and my red wines glasses, which are presumed to have the same general effect.  More generally I'd say that a glass with a narrowing or restricted throat does concentrate the aroma, and the degree of restriction doesn't seem to matter significantly, to my nose.  (Assuming it isn't &lt;em&gt;too&lt;/em&gt; great, that is.  Beer in a bottle or can, for instance, is definitely at a disadvantage.) &lt;/p&gt;
+
+					&lt;p&gt;I'd like to also look at a few of the reasons they state in their marketing material as well.  &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The authentic shape of the body encourages the perfect balance of C02 and liquid, enhancing head retention and flavor.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;I don't have any evidence to back this up, but I suspect that this is probably the most legitimate of the claims.  This would have a significant effect on the experience of drinking the beer, it is going to be specific to their recipe, and it's a reason that's often given for custom beer glassware.  (Boston Beer Company laser etches the bottom of their Sam Adams Boston Lager glass to enhance cavitation, for instance.) &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The angles at the bottom cause a wave that works in harmony with the liquid alchemy. &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;I have no idea what this means.  Alchemy is the term for pre-chemistry, and primarily deals with trying to turn ordinary substances into gold.  I assume they're trying to insinuate that the glass magically turns Stella into better beer. &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The stem provides a means to hold the chalice so that the Stella Artois stays cold longer &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;This is plausible, and perhaps unfortunate.  This is why you are supposed to hold red wine glasses by the bowl (to warm the wine) and white wine glasses by the stem (to keep it cool.)   However, with wine, a serving is generally five ounces or so, compared to twelve or more of lager.   The effect certainly won't be the same given the significantly higher mass.   The unfortunate bit is that colder is not generally what you want when you're talking about good beer.  Colder is the realm of the cheap macro-brews like Coors Light.   Cold subdues flavor compounds, which is useful when the flavor of the beer is nasty, and not so useful when it's pleasant.  This certainly isn't a a requirement or general best practice for lagers as you won't find stemmed glassware used for Boston Beer's Samuel Adams Lager glass: &lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/DMcwF.jpg" alt="Samuel Adams Boston Lager Glass"&gt; &lt;/p&gt;
+
+					&lt;p&gt;or my classic Spiegelau Lager glass: &lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/wn6wv.png" alt="Speieglau lager glass"&gt;&lt;/p&gt;
+
+					&lt;p&gt;or any of the glasses you'll see used for the many fine Lagers of Germany.  So, I have to suppose one of the following two reasons.  First, they may simply be pandering to the general belief that colder beer is better.  Second, it would be unfortunate if they were trying to hide a lack of quality by trying to ensure the beer was too cold to taste properly.  &lt;/p&gt;
+
+					&lt;p&gt;Finally, and I've left this to last, because it's purely my opinion...I think they've chosen the chalice glass specifically because it's fancy, and that's the image they want to portray for their beer.  When people see the Stella glass, they don't want their beer to be lumped in with the pint-glass styles, they want it to stand out as sophisticated, and the chalice specifically gives it that cachet.   &lt;/p&gt;
+
+					&lt;p&gt;So, my top line and bottom line are down to marketing, with a bit of truth and a bit of fiction to all the bits in between. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>978</PostId>
+			<ParentPostId>8</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>ale</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-10T23:05:22.343</CreationDate>
+				<LastActivityDate>2014-08-10T23:05:22.343</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1199</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The main difference between the two is the different types of yeast that they both use. Lager yeasts are more tolerant to cold temperatures and so are fermented at a lower temperature. This is what gives the lager a crisp flavour. The ale yeasts ferment at higher temperatures and take less time to complete as the yeast is more active the higher the temperature.&lt;/p&gt;
+
+					&lt;p&gt;Both types also use very different hops and malts...&lt;/p&gt;
+
+					&lt;p&gt;Source: &lt;a href="http://www.homebrew-zone.com" rel="nofollow"&gt;http://www.homebrew-zone.com&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13" InstanceType="answer">
+			<PostId>985</PostId>
+			<ParentPostId>983</ParentPostId>			<Tags>
+				<tag>ale</tag>
+				<tag>lager</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-15T20:15:37.780</CreationDate>
+				<LastActivityDate>2014-08-15T20:15:37.780</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>467</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes, they contain adjuncts which aren't malted barley to make them cheaper to produce. &lt;/p&gt;
+
+					&lt;p&gt;These adjuncts aren't the same type of sugar so are fermented differently than maltose. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14" InstanceType="answer">
+			<PostId>989</PostId>
+			<ParentPostId>983</ParentPostId>			<Tags>
+				<tag>ale</tag>
+				<tag>lager</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-16T11:24:44.203</CreationDate>
+				<LastActivityDate>2014-08-16T11:24:44.203</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1195</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;That is possible to a level, but not proven, and probably does not make a huge difference, as &lt;a href="http://en.wikipedia.org/wiki/Hangover#Causes" rel="nofollow"&gt;there are &lt;strong&gt;many factors causing hangover&lt;/strong&gt;&lt;/a&gt;, some stronger than others. &lt;/p&gt;
+
+					&lt;p&gt;Moreover, that would be saying that all commercial beers have the same effects and all local brewed ales have the same other (better) effect, which sounds to me very simple and convenient to conclude.&lt;/p&gt;
+
+					&lt;p&gt;That being said, adjuncts in mass-produced beers may still play a role, but I would tend to seek the explanation for the hangover difference in context first.&lt;/p&gt;
+
+					&lt;p&gt;But anyway, hangover mechanisms are not well understood, so I could be wrong !&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15" InstanceType="answer">
+			<PostId>1020</PostId>
+			<ParentPostId>983</ParentPostId>			<Tags>
+				<tag>ale</tag>
+				<tag>lager</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-15T20:55:07.593</CreationDate>
+				<LastActivityDate>2014-09-15T20:55:07.593</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1309</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This does indeed happen to me, too. So I stopped drinking beer where the ingredients aren't listed or if I think the beer is likely to contain GMO. Call me a tree hugger I don't care;-)&lt;/p&gt;
+
+					&lt;p&gt;I remember reading the head aches may come from fusel oils, which are byproducts of fermentation. Depending on the ingredients there may be more or less of them. I remember reading a while back that mold and spoilage can cause a higher concentration of those fusel oils in the wine; hence, wine made from handpicked grapes is of higher quality. I wouldn't be surprised if it's similar in beer production&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16" InstanceType="answer">
+			<PostId>1037</PostId>
+			<ParentPostId>983</ParentPostId>			<Tags>
+				<tag>ale</tag>
+				<tag>lager</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-30T16:52:11.660</CreationDate>
+				<LastActivityDate>2014-09-30T16:52:11.660</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A while back Jim Koch, the owner of Boston Beer Company, said in an interview that his secret to hangover avoidance was straight up eating live brewer's yeast.  This is probably dubious at best, but if you had to stretch to make something sound plausible...yeast has a good amount of Vitamin B and Magnesium, which are essential nutrients.  Anything marketed as Real Ale is likely unfiltered and will therefor have more live yeast in it than filtered ale or lager.  So it could, in theory, maybe, sortof, a bit, if you squint at it, sideways, have something to do with buffering the hangover better vs filtered ale or lager.&lt;/p&gt;
+
+					&lt;p&gt;It may also be an adjunct fermentation or ABV related thing like others have mentioned.  Or it may not?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17" InstanceType="answer">
+			<PostId>1059</PostId>
+			<ParentPostId>788</ParentPostId>			<Tags>
+				<tag>glassware</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-10-22T20:02:28.537</CreationDate>
+				<LastActivityDate>2014-10-22T20:02:28.537</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1412</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I grew up in Belgium, near the town of Leuven where Stella was originally brewed. &lt;/p&gt;
+
+					&lt;p&gt;The classic Belgian beers all have their characteristic glass shapes, which are a part of the experience of the beer.  Duvel, Kwak, Mort Subite and the rest come in glasses of various shapes and sizes.&lt;/p&gt;
+
+					&lt;p&gt;The traditional Stella Artois glass was a straight, narrow-ish glass, much like that of other basic lager-style beers like Jupiler or Maes Pils.  They usually have a set of ridges towards the bottom for improved grip and to reduce heat transfer.  The lager brand glasses are all very similar, reflecting their status as "ordinary, everyday" beers.  Only the expensive specialty beers have really distinctive glasses.&lt;/p&gt;
+
+					&lt;p&gt;The glasses are usually small for Belgian lager (about 275ml), so the beer would still taste cold and fresh at the bottom.  Larger half-litres are sold, but older Belgians would always drink a small beer as larger beers go "off".&lt;/p&gt;
+
+					&lt;p&gt;In my view the Chalice is pure marketing bullshit.  Taking an ordinary beer and dressing it up as something more expensive and more special than it is.  It makes me as angry as the UK positioning of the brand as French, when it is brewed in the very Flemish town of Leuven.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18" InstanceType="answer">
+			<PostId>3196</PostId>
+			<ParentPostId>3195</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-15T08:11:16.103</CreationDate>
+				<LastActivityDate>2015-01-15T08:11:16.103</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1289</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The BJCP classifies Corona Extra as a &lt;a href="http://www.bjcp.org/2008styles/style01.php#1c"&gt;Premium American Lager&lt;/a&gt;, being, clear, yellow, not hoppy but with a little more body than a light. &lt;/p&gt;
+
+					&lt;p&gt;Assuming 'dry' isn't some radically different beer, the category would probably still be correct. BJCP draft guidelines (not official) consider putting Asahi Super Dry and Corona Extra in  2A 'International Pale Lagers' which is '&lt;em&gt;Loosely derived from original Pilsner-type lagers....&lt;/em&gt;'&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://www.bjcp.org/docs/2014%20BJCP%20Style%20Guidelines%20(DRAFT).pdf"&gt;1MB PDF&lt;/a&gt; if you want to read the draft.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19" InstanceType="answer">
+			<PostId>3348</PostId>
+			<ParentPostId>3347</ParentPostId>			<Tags>
+				<tag>history</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-24T03:10:41.987</CreationDate>
+				<LastActivityDate>2015-04-24T03:10:41.987</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1289</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I think it would be right to say that lagers were discovered rather than invented. Lager yeast is apparently the result of an unlikely mating of ale yeast and a wild yeast from South America. It's ability to ferment at lower temperatures probably led to its establishment in some brewery in some cold part of Bohemia centuries ago.&lt;/p&gt;
+
+					&lt;p&gt;According to Wikipedia, &lt;a href="http://en.wikipedia.org/wiki/Lager"&gt;lagering&lt;/a&gt; became more commercially viable with the appearance of refrigeration systems. But &lt;a href="http://www.brewerspublications.com/books/yeast-the-practical-guide-to-beer-fermentation/"&gt;White &amp;amp; Zainasheff&lt;/a&gt; describe why this was desired. After Pasteur showed that yeast are responsible for fermentation, the Carlsberg brewery isolated &lt;em&gt;S. carlsbergensis&lt;/em&gt;, now known as &lt;em&gt;S. pastorianus&lt;/em&gt;, for commercial use. This is a lager yeast, and since many ales were brewed with mixed (&lt;em&gt;S cerevisiae&lt;/em&gt; plus wild yeasts, bacteria) cultures, it created the perception was that lager, as a style, was cleaner than ale, and the improved shelf life made it a more attractive product to produce. And so, lagers took over the beer world after that, despite so many small breweries that make high quality ales. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20" InstanceType="answer">
+			<PostId>3351</PostId>
+			<ParentPostId>3350</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>temperature</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-24T17:05:42.567</CreationDate>
+				<LastActivityDate>2015-04-24T17:05:42.567</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's just marketing.  &lt;/p&gt;
+
+					&lt;p&gt;Lager fermentations are very clean so it tends to be a beer you want to drink in a warm and humid climate.  The breweries want to make beer that will sell very well locally, and that just happens to be lagers.&lt;/p&gt;
+
+					&lt;p&gt;At a commercial scale brewers are investing in temperature control regardless of ale or lager, so it's not a significant expense or savings one way or another.  So since they're spending the money anyway, might as well brew what people will buy more of.&lt;/p&gt;
+
+					&lt;p&gt;From the consumer perspective, it's cheaper to buy from a local company than it is to buy an imported beer in most cases.  So the local beer sells better than the import.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21" InstanceType="answer">
+			<PostId>3354</PostId>
+			<ParentPostId>3350</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>temperature</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-27T05:49:29.810</CreationDate>
+				<LastActivityDate>2015-04-27T05:49:29.810</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4056</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Lagers tend to be more popular as they taste better colder, and are 'easier drinking' than heavier, more flavourful beers, and taste good very cold or with ice, so better for quenching thirst in the heat.&lt;/p&gt;
+
+					&lt;p&gt;That said, stouts and darker heavier beers are often popular in rural areas in tropical Asia where ice is unavailable - think &lt;a href="http://www.beeradvocate.com/beer/profile/727/5551/" rel="nofollow"&gt;ABC Extra Stout&lt;/a&gt;, Beer Laos Dark, Guinness Foreign Extra Stout, or &lt;a href="http://www.beeradvocate.com/beer/profile/1885/12773/" rel="nofollow"&gt;Black Panther&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22" InstanceType="answer">
+			<PostId>3489</PostId>
+			<ParentPostId>59</ParentPostId>			<Tags>
+				<tag>terminology</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-21T03:13:29.640</CreationDate>
+				<LastActivityDate>2015-07-21T03:13:29.640</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4345</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;While I was in Germany, you had pretty much two common choices of beer available from the local brewery: Pils and Export. They were quite different, with Pils being lighter in color and taste and Export being darker and a little heavier flavor. They were in the same colored glass bottle with different labels. They are obviously two different beers. The name had nothing to do with whether it went out of the country or not. Now, maybe back when it was first developed way back when, it was exported to another people somewhere, I don't know. My beer knowledge is not that impressive, so I have relayed what I experienced. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23" InstanceType="answer">
+			<PostId>4538</PostId>
+			<ParentPostId>4537</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>stout</tag>
+				<tag>lager</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-19T16:47:53.373</CreationDate>
+				<LastActivityDate>2015-08-19T16:47:53.373</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4394</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Two types of beers might suit you, both are similar but with slightly different flavour profiles.&lt;/p&gt;
+
+					&lt;p&gt;English mild ale has a lower alcoholic content than bitter or Guinness, generally dark coloured.  Theakstons make a particularly nice mild on an irregular basis.&lt;/p&gt;
+
+					&lt;p&gt;Scottish 60 shilling (60/-) or light beer is similar to mild but is generally slightly sweeter to suit the Scottish palate.  McEwan's 60/- is the one most commonly seen.&lt;/p&gt;
+
+					&lt;p&gt;It should be noted that this class of beer is generally out of favour in the UK despite efforts by the Campaign for Real Ale to revive interest.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24" InstanceType="answer">
+			<PostId>4540</PostId>
+			<ParentPostId>4537</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>stout</tag>
+				<tag>lager</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-19T20:40:34.643</CreationDate>
+				<LastActivityDate>2015-08-19T20:40:34.643</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4350</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Let's start off with beers that you're interested in, something akin to a black lager. I'm going to keep things focused on beer styles rather than particulars, since I do not know where you are nor what might be available for you.&lt;/p&gt;
+
+					&lt;h2&gt;Dunkelweizen&lt;/h2&gt;
+
+					&lt;p&gt;This is a dark wheat beer with characteristics of a traditional wheat with caramel type flavors joining the mix. Not exactly stout-like, but more like your black lager in lightness.&lt;/p&gt;
+
+					&lt;h2&gt;Schwarzbier&lt;/h2&gt;
+
+					&lt;p&gt;Schwarzbier means "black beer" in German. This is what you had with your  Köstritzer. It is a medium-bodied, malt-accented dark brew, very opaque and deep-sepia in color, with a chewy texture and a firm, creamy, long-lasting head. In spite of its dark color, it comes across as a soft and elegant brew that is rich, mild, and surprisingly balanced. It never tastes harsh, toasty or acrid.&lt;/p&gt;
+
+					&lt;h2&gt;Black IPA / Cascadian Dark Ale&lt;/h2&gt;
+
+					&lt;p&gt;The American fascination with hops has shown that the addition of toasted malts can give a hoppy, bitter, and coffee-like experience to these beers. &lt;/p&gt;
+
+					&lt;h2&gt;Black Saisons&lt;/h2&gt;
+
+					&lt;p&gt;Similar to the Black IPA, I've seen a few breweries start brewing their saisons with roasted malts. The usual light flavors of the saison are accented by this extra roasted character. It's never acrid, however. &lt;/p&gt;
+
+					&lt;h2&gt;Porters&lt;/h2&gt;
+
+					&lt;p&gt;A lot of English porters are not heavy at all, and are generally akin to milds that have roasted malts added in. Look for lower ABV porters in the 4-5% range, and you'll probably find something you like.&lt;/p&gt;
+
+					&lt;p&gt;Surprisingly to many, Guinness is actually &lt;a href="http://time.com/25145/3-surprising-facts-about-guinness/"&gt;on par with any other beer of similar alcohol strength&lt;/a&gt;, as beer gets a majority of its calories from alcohol, &lt;a href="https://www.uhs.uga.edu/documents/nutrition_alcohol.pdf"&gt;about 7 per gram&lt;/a&gt;. Perhaps much of the 'full' feeling is a product of the use of nitrogen in the mix which gives it that creamy texture. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25" InstanceType="answer">
+			<PostId>4748</PostId>
+			<ParentPostId>3195</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>-2</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-02T20:44:07.233</CreationDate>
+				<LastEditDate>2016-01-04T12:53:32.913</LastEditDate>
+				<LastActivityDate>2016-01-04T12:53:32.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4908</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Corona is a very famous, international beer consisting of corn. It's made by a starchy product, and that's why we use to lemon wedges at the time of serving: in order to disguise the starchy taste.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26" InstanceType="answer">
+			<PostId>5041</PostId>
+			<ParentPostId>5038</ParentPostId>			<Tags>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-27T12:40:29.340</CreationDate>
+				<LastActivityDate>2016-05-27T12:40:29.340</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Most generic lagers have subtle differences, but in general as you say they are usually very similar.&lt;/p&gt;
+
+					&lt;p&gt;To be frank, though, this is something I find with just about any style of beer. For instance, if I'm buying an imperial stout from any given brewery I can reasonably expect what the beer is going to taste like for the most part. The only thing that really brings it down below my standard is if it's just not a quality beer.&lt;/p&gt;
+
+					&lt;p&gt;In the same way generic lagers are an equivalent style and have a similar purpose, to be non-offensive and give people the 'beer' taste that they expect. So if you're drinking a Canadian, to a Bud, to a Sapporo you can expect them to be pretty similar.&lt;/p&gt;
+
+					&lt;p&gt;The one additional thing I'll say, though, is that when beer falls into the realm of 'craft' you usually see a higher range of flavour within a style, than with generics, though. This is because &lt;strong&gt;the very purpose of a generic lager is not to stand out as to gain mass appeal&lt;/strong&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27" InstanceType="answer">
+			<PostId>5043</PostId>
+			<ParentPostId>5038</ParentPostId>			<Tags>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-27T15:33:43.750</CreationDate>
+				<LastActivityDate>2016-05-27T15:33:43.750</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5482</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I think the short answer to whether mainstream lagers taste different is no, not really. But this depends on how you define mainstream lagers. Different lager styles definitely taste different, but the reason mainstream lagers all taste the same is because they're all pretty much the same style of lager- American lager, and are all probably brewed in a similar fashion (what those in the industry call "macro brews").&lt;/p&gt;
+
+					&lt;p&gt;For instance, coors light, bud light, keystone light are all the same style of lager, just different brands of the same brew.&lt;/p&gt;
+
+					&lt;p&gt;But to taste the difference between different styles of lagers, try a budweiser and compare it to a Pilsner Urquell (it's a Euro pilsner- another lager style). The bud will taste light, bready and slightly sweet, while the pilsner will taste crisp, somewhat floral, and slightly bitter on the finish (and definitely way better imho).&lt;/p&gt;
+
+					&lt;p&gt;Since craft beers are made in small batches with brewmasters experimenting with different flavours through use of various hops (flavouring agents), I'd recommend trying craft lagers if you want to experience the difference lager styles and flavours within a style. A brooklyn lager definitely tastes different/better than a Budweiser, even though they're both of the American Lager style.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28" InstanceType="answer">
+			<PostId>6404</PostId>
+			<ParentPostId>6403</ParentPostId>			<Tags>
+				<tag>hops</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-28T18:56:47.370</CreationDate>
+				<LastEditDate>2016-11-28T20:31:35.247</LastEditDate>
+				<LastActivityDate>2016-11-28T20:31:35.247</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+				<LastEditorUserId>22</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Finding a compiled list of common-marketplace lagers is probably not going to happen unless someone has made a specific list &lt;a href="http://gearpatrol.com/2016/04/13/best-american-lagers/" rel="nofollow noreferrer"&gt;like this&lt;/a&gt;.  &lt;/p&gt;
+
+					&lt;p&gt;Generally, you would just search "&lt;em&gt;SPECIFIC BEER&lt;/em&gt; IBU" and either the result or website where you can find the result would populate. You can also look at &lt;a href="http://www.brewersfriend.com/search/" rel="nofollow noreferrer"&gt;homebrewer clone-recipe sites like this&lt;/a&gt; that give you the IBUs and recipes for clones of your favorite beers.&lt;/p&gt;
+
+					&lt;p&gt;There are, however, sites &lt;a href="http://www.brewersfriend.com/2009/01/24/beer-styles-ibu-chart-graph-bitterness-range/" rel="nofollow noreferrer"&gt;like this&lt;/a&gt; that have BJCP average IBU ranges for varying styles of beer.  &lt;/p&gt;
+
+					&lt;p&gt;For proprietary reasons, you will never know the exact make-up of hops/hop ratios in beers unless the &lt;a href="https://www.homebrewersassociation.org/how-to-brew/craft-breweries-share-homebrew-clone-recipes/" rel="nofollow noreferrer"&gt;company shares that information with their imbibers.&lt;/a&gt;  &lt;/p&gt;
+
+					&lt;p&gt;If you have a good palate and understanding of what &lt;a href="http://appellationbeer.com/blog/hop-union-hop-aroma-wheel/" rel="nofollow noreferrer"&gt;kinds of hops&lt;/a&gt; yield what &lt;a href="https://byo.com/resources/hops" rel="nofollow noreferrer"&gt;kinds of flavors&lt;/a&gt;, you might be able to pick them out.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29" InstanceType="answer">
+			<PostId>6430</PostId>
+			<ParentPostId>6403</ParentPostId>			<Tags>
+				<tag>hops</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-12-21T08:43:24.730</CreationDate>
+				<LastActivityDate>2016-12-21T08:43:24.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6210</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;List of ibu's:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Stella: 30 &lt;/li&gt;
+					&lt;li&gt;Kronenbourg 1664: 20&lt;/li&gt;
+					&lt;li&gt;Corona: 10&lt;/li&gt;
+					&lt;li&gt;Fosters: 12&lt;/li&gt;
+					&lt;li&gt;Becks: 20&lt;/li&gt;
+					&lt;li&gt;Heineken: 23&lt;/li&gt;
+					&lt;li&gt;San Miguel: 12&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;The difference in IBU seems to come from the type of beer, Heineken en Becks are quite similar european lagers with the same ingredients(barly, yeast water and hops) while Corona uses corn and rice with much les hops. &lt;/p&gt;
+
+					&lt;p&gt;Grohlier already gave a good answer for the second question.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30" InstanceType="answer">
+			<PostId>6523</PostId>
+			<ParentPostId>6522</ParentPostId>			<Tags>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-12T23:44:21.627</CreationDate>
+				<LastActivityDate>2017-02-12T23:44:21.627</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes Coffee Lagers exist.&lt;/p&gt;
+
+					&lt;p&gt;Some call them &lt;a href="https://www.craftbeer.com/styles/coffee-beer" rel="noreferrer"&gt;Coffee Beer&lt;/a&gt; as a generic name for all styles of Coffee Beer.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;As the name suggests, &lt;strong&gt;this can be either a lager or ale with coffee added to boost flavor.&lt;/strong&gt; While stouts and porters are popular base styles for coffee beer, many craft breweries are experimenting with other styles, like cream ales and India pale ales. Brewers may steep the beans in either water or beer to impart java flavor without adding acidity. Barrel-aged or wood-influenced versions may show signs of oxidation, including sherry notes and other advanced flavors.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Here is one example of a Cold Brew Coffee Lager: &lt;a href="https://www.saranac.com/beer/cold-brew/" rel="noreferrer"&gt;Saranac&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31" InstanceType="answer">
+			<PostId>7056</PostId>
+			<ParentPostId>7055</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-02T17:00:25.020</CreationDate>
+				<LastActivityDate>2017-11-02T17:00:25.020</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are several ways to make a non-alcoholic beer (which BTW is not alcohol free. These beers can have .5% ABV). Boiling off the alcohol at 175f degrees, vacuum distillation at 120f degrees and reverse osmosis filters. They all take a toll on flavor and mouthfeel. &lt;/p&gt;
+
+					&lt;p&gt;Here is a great &lt;a href="https://gizmodo.com/the-science-of-non-alcoholic-beer-509674407" rel="nofollow noreferrer"&gt;article:&lt;/a&gt;&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The most common way that alcohol is removed from beer is through heating. As we've discussed in several previous articles, alcohol has a much lower boiling point than water. At sea level, it's roughly 173 degrees F. &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Then also: &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;To minimize this, some operations practice vacuum distilling. Depending on the power of the vacuum, the alcohol's boiling point may be lowered as far as 120 degrees, which is much less disruptive to the flavors. &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Then the last way:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;"...beer is passed through a filter with pores so small that only alcohol and water (and a few volatile acids) can pass through. The alcohol is distilled out of the alcohol-water mix using conventional distillation methods, and the water and remaining acids are added back into the syrupy mixture of sugars and flavor compounds left on the other side of the filter. &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;The reason why hoppy and dark beers can't really be made this way:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;According to Brew Your Own, "The hop aromas will usually be driven off within the first five minutes, while the hop flavors will be gone within the first 15 minutes." This is why neither we nor any of our sources have encountered a half-decent non-alcoholic IPA, which is a damn shame, really.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;To sum it up, light lager type beers have little color or flavor to begin with so it's easier for them to come through the process pretty close to what they were before they went in. Hoppy or dark beers would be stripped of so much flavor and color that they would be awful so nobody tries...&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32" InstanceType="answer">
+			<PostId>7166</PostId>
+			<ParentPostId>983</ParentPostId>			<Tags>
+				<tag>ale</tag>
+				<tag>lager</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-01-26T12:18:40.517</CreationDate>
+				<LastActivityDate>2018-01-26T12:18:40.517</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6991</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Hangovers are worse depending on sugar content regardless of type of alcoholic beverage. Mixed drinks that use sugar free mixes don’t hurt as much the next day so figure out the sugar content.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33" InstanceType="answer">
+			<PostId>7181</PostId>
+			<ParentPostId>7180</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>lager</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-01T20:50:46.387</CreationDate>
+				<LastEditDate>2018-05-16T22:08:30.757</LastEditDate>
+				<LastActivityDate>2018-05-16T22:08:30.757</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+				<LastEditorUserId>6111</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You want a mildly flavored, low hop beer for something like this. I would suggest a Kolsch or Helles Lager or a Mild. Pilsners can be heavily hopped. I have done a lot of this with wines when I taught winemaking classes at a community college near here. We used very low aroma wines like a warm climate sauvignon blanc. You want the same for this since you don't want anything to get in the way of your samples. Also keep a small cup of coffee beans and water nearby to "reset" your nose and mouth between smelling and tasting. I wouldn't do two different beers it will muddy things. Good luck!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34" InstanceType="answer">
+			<PostId>7294</PostId>
+			<ParentPostId>7180</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>lager</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-16T01:39:57.010</CreationDate>
+				<LastActivityDate>2018-05-16T01:39:57.010</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7787</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You should definitely all use the same beer as the base, and you want a beer that has a good balance of hops and malt. The less flavor the beer has, the more the "spiked" flavors and aromas will stand out. Too much aromatic hops (e.g., an IPA) will mask the aromas. Too much malt will mask the flavors. A lighter, neutral beer is the way to go for an educational tasting.&lt;/p&gt;
+
+					&lt;p&gt;I agree with everything farmersteve said except for the part about the coffee beans. That's an extremely strong flavor and aroma that will taint the beer tasting. As one who dislikes coffee, I can say that smelling coffee beans would ruin whatever beer sample I next tasted.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35" InstanceType="answer">
+			<PostId>7295</PostId>
+			<ParentPostId>7180</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>lager</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-16T22:25:12.310</CreationDate>
+				<LastActivityDate>2018-05-16T22:25:12.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7796</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would choose Coors. It's easy to get, always tastes the same so it makes for a good control. Also, it is light in flavor so it won't mask anything. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

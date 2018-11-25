@@ -1,0 +1,516 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="4">
+			<PostId>625</PostId>
+			<ParentPostId>568</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-07T07:14:29.937</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Why are you pouring beer over ice cream?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="7">
+			<PostId>626</PostId>
+			<ParentPostId>568</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-07T11:00:51.337</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@LucasKauffman Because it's delicious.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="1">
+			<PostId>627</PostId>
+			<ParentPostId>468</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-07T20:37:20.507</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@RyanKinal - Actually, in the US, the tolerance is 0.3%, so a beer listed as 5% ABV would have to be between 4.7% and 5.3%. But you're correct about the second point: if a malt beverage (more general than "beer," but includes beer) is listed as 0.6%, it must be between 0.5% and 0.9%, as the tolerance ends at 0.5%. Yes, this is due to the threshold for non-alcoholic beverages being 0.5%—similarly a non-alcoholic beverage listed as 0.4% cannot exceed 0.5% ABV.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>628</PostId>
+			<ParentPostId>468</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-07T20:53:25.257</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah, yes. Got my numbers confused.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>629</PostId>
+			<ParentPostId>575</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-09T18:55:10.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I tried finding references for bacon beer, but came up empty. I'll add if some turn up.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="1">
+			<PostId>630</PostId>
+			<ParentPostId>575</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-09T19:09:27.020</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Rogue has one, if it helps.  https://rogue.com/beers/voodoo-bacon-maple.php
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>631</PostId>
+			<ParentPostId>575</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-09T19:21:13.773</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks! I hope you don't mind I add this to my answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>632</PostId>
+			<ParentPostId>575</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-09T20:06:55.700</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not at all, cheers.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="1">
+			<PostId>664</PostId>
+			<ParentPostId>568</ParentPostId>
+			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-11T04:33:51.553</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ha, I will have to try this. A chocolate stout or a milk-stout would probably work great.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="5">
+			<PostId>665</PostId>
+			<ParentPostId>591</ParentPostId>
+			<Contributors>
+				<UserId>288</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-11T05:44:51.503</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's not really well-defined in practice - any fermented grain-based beverage can be called beer, regardless of the yeast used (you can use *Brettanomyces* or even more unusual fungal organisms), but one would not ordinarily refer to sake as beer, even though it's brewed from a grain using a fungus. You can use wheat or corn or millet and still have it be beer, though. So the answer is probably a matter of local custom.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>851</PostId>
+			<ParentPostId>568</ParentPostId>
+			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-30T04:17:12.040</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Contrary to what you might expect, the flavours of beer and chocolate go together quite well. You might not pour beer on your ice cream every day but if you've ever been eating a bowl of chocolate ice cream and given a beer to drink you will discover this. By the way if you like beer, especially bitter ones, but think you are not a fan of chocolate, try some pure dark unsweetened chocolate (often labelled "bitter"), you might be surprised what chocolate really tastes like.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>852</PostId>
+			<ParentPostId>104</ParentPostId>
+			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-30T04:20:15.447</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					**TL;DR** Buy beer in cans but pour into a glass to drink. But if you're buying to drink straight from the container then buy it in bottles.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>886</PostId>
+			<ParentPostId>728</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-15T14:41:55.850</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					duplicate - http://beer.stackexchange.com/questions/485/why-is-it-important-to-have-foam-on-a-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="3">
+			<PostId>887</PostId>
+			<ParentPostId>727</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-15T14:44:02.487</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I an confirm this - I've had plenty of warm beer this year yet have also had a cold most of the time.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>888</PostId>
+			<ParentPostId>717</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-16T06:35:30.037</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					100% correct and well stated.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>891</PostId>
+			<ParentPostId>735</ParentPostId>
+			<Contributors>
+				<UserId>778</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-16T20:30:34.560</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks! I figured there probably wasnt one because of the complexity of keeping tabs on it. I'm still going to keep it open in case someone else has any other sites. Oh and I would love the site to encompass both local and major brews but I understand it is far more difficult to get those local breweries on board.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>904</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-24T14:57:46.950</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Is this the right place for this question and not Homebrew SE?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>909</PostId>
+			<ParentPostId>724</ParentPostId>
+			<Contributors>
+				<UserId>662</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-29T09:40:04.810</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Nice road trip! :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="3">
+			<PostId>910</PostId>
+			<ParentPostId>756</ParentPostId>
+			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-30T00:57:43.977</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That definition of cider doesn't sound quite right: without fermentation, don't you just have apple juice?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="0">
+			<PostId>911</PostId>
+			<ParentPostId>759</ParentPostId>
+			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-30T02:25:59.533</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think you accidently a word somewhere - 'Sugar is a cheap Usually sweet bears are...'
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="0">
+			<PostId>912</PostId>
+			<ParentPostId>759</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-30T02:28:07.590</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@dwjohnston Thanks!  Fixed.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="0">
+			<PostId>913</PostId>
+			<ParentPostId>756</ParentPostId>
+			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-30T03:12:44.473</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I thought we were supposed to just use Google to look up medical symptoms for self treatment.  8-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="2">
+			<PostId>914</PostId>
+			<ParentPostId>756</ParentPostId>
+			<Contributors>
+				<UserId>23</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-30T13:17:04.517</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@JamesHenstridge Cider is not necessarily alcoholic.  Juice v Cider is basically filtered&amp;pasteurized vs not.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>938</PostId>
+			<ParentPostId>728</ParentPostId>
+			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-16T16:02:03.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					definitely feels like a dupe, yes. Worth merging though, as Xander's answer here is good.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="1">
+			<PostId>940</PostId>
+			<ParentPostId>756</ParentPostId>
+			<Contributors>
+				<UserId>895</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-18T14:23:12.333</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@BryanCain Isn't that a US definition - I have not seen non alcoholic cider in the UK or Europe
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="0">
+			<PostId>941</PostId>
+			<ParentPostId>793</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-19T04:05:45.317</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Oh!  Their web site... I didn't even think to look for an explanation there.  Thanks!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="2">
+			<PostId>942</PostId>
+			<ParentPostId>797</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-20T23:56:30.943</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've upvoted this answer because I agree with it generally.  I disagree that a beverage must contain hops in order to be beer.  Beer has been around far longer than hops have been, and even today there are gruit-style spice beers that are made without the assistance of hops.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>943</PostId>
+			<ParentPostId>797</ParentPostId>
+			<Contributors>
+				<UserId>902</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-21T08:47:15.573</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I realise my animal/vegetable/mineral style classification was poor, and I suppose that mead is more of a wine really, although the fact that they regularly include hops confuses things.  It would be interesting to see a chart showing this stuff, I have seen the like for beers, but not for the whole family tree of alcoholic drinks.  Thanks!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="1">
+			<PostId>944</PostId>
+			<ParentPostId>799</ParentPostId>
+			<Contributors>
+				<UserId>902</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-21T09:40:37.433</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Is it not more complex than that though? Gin can be made from starch, but it's not a beer.  Isn't it a mix of key ingredients and the process by which the end result is acheived (brewed/distilled etc)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="0">
+			<PostId>945</PostId>
+			<ParentPostId>756</ParentPostId>
+			<Contributors>
+				<UserId>23</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-21T14:01:02.670</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Mark I guess it could be - I haven't made it to Europe yet, but I've seen non-alcoholic cider here.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>946</PostId>
+			<ParentPostId>797</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-21T14:13:51.907</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Mead regularly includes hops?  That's not my experience, though my mead experience is homebrew not commercial and is focused on medieval/renaissance studies.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="1">
+			<PostId>947</PostId>
+			<ParentPostId>799</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-22T00:02:09.403</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Beer is not made from starch - the starch is broken down either during mashing (or malting for crystal malts) - so beer is fermented from mostly simple reducing sugars (mainly maltose), not starch.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="0">
+			<PostId>948</PostId>
+			<ParentPostId>797</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-22T12:43:36.947</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think the addition of herbs and spices like hops to mead is more historic than contemporary.  The Dansk Mjod company that brews meads you'll often see in badass stone bottles spices all their meads and claim they base everything off historic 1700's recipes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="1">
+			<PostId>949</PostId>
+			<ParentPostId>797</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-22T12:52:58.403</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I lost the ability to edit my comment, but I was going to add that considering the lengthy aging old mead underwent before we understood oxygenation and pitching rates and the less-than-sterile storage, the additional preservatives (like hops) were probably a good idea.
+					As to the question at hand, I draw the line between beer and wine where any conversion had to happen to make sugars available for fermentation.  In mead you just take honey, filter out the bee chunks, add water and ferment...so Honey Wine.  Sake and barley-based beers require mash conversion, so beer.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

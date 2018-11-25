@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1350</PostId>
+			<ParentPostId>536</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T01:26:01.023</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I love drinking beer after a run. It's also good to drink electrolytes after a run. 
+
+					Is it possible to add electrolytes to beer? How would you do it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>1351</PostId>
+			<ParentPostId>536</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T01:26:01.023</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer containing electrolytes
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>1352</PostId>
+			<ParentPostId>536</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T01:26:01.023</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					additives, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>1474</PostId>
+			<ParentPostId>536</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T07:36:12.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432055248610689024
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>1940</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T09:51:29.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It seems that Ginger Beer has no barley, no hops, no wort, no malted anything; so why is it a _beer_?  Seems like it is closer to a cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>1941</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T09:51:29.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is it a Ginger _Beer_ and not a Ginger _Cider_?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>1942</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T09:51:29.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, terminology, specialty-beers, additives, flavour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>1943</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T23:01:17.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/451132222587023362
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Body" >
+			<PostId>1944</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					It seems that *Ginger Beer* has no barley, no hops, no wort, no malted anything; so why is it a _beer_?  Seems like it is closer to a cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Title" >
+			<PostId>1945</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why is it a Ginger "Beer" and not a Ginger "Cider"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>1946</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 69 approved by 112, -1 edit id of 90
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>1947</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					It seems that *Ginger Beer* has no barley, no hops, no wort, no malted anything; so why is it a "beer"?  Seems like it is closer to a cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Tags" >
+			<PostId>2023</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:27:11.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<EditDetails>
+				Tag name: flavour -&gt; flavor
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, terminology, specialty-beers, additives, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>9267</PostId>
+			<ParentPostId>5042</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:00:04.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm sick of buying infused spirits (usually advertised in the U.S. as flavored vodkas) and discovering that they have added sugar (and probably glycerine).
+
+					I have scoured labels and asked in stores and never found any way of determining whether a liquor is a pure distillate or whether it has additives (other than water).
+
+					In the U.S. is there any way to determine this before opening a bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>9268</PostId>
+			<ParentPostId>5042</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:00:04.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I determine whether infused spirits contain sugar (before buying)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>9269</PostId>
+			<ParentPostId>5042</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:00:04.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					additives, liquor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Body" >
+			<PostId>9282</PostId>
+			<ParentPostId>5042</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T23:38:47.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<EditDetails>
+				Clarification
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm sick of buying infused spirits (usually advertised in the U.S. as flavored vodkas) and discovering that they have added sugar (and often, apparently, glycerine).
+
+					I have scoured labels and asked in stores and never found any way of determining whether a liquor is a pure distillate or whether it has substantial additives (other than water and flavor).
+
+					In the U.S. is there any way to determine this before opening a bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Edit Body" >
+			<PostId>9287</PostId>
+			<ParentPostId>5042</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-29T02:29:12.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected spelling and added two words to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm sick of buying infused spirits (usually advertised in the U.S. as flavored vodkas) and discovering that they have added sugar (and often, apparently, glycerin).
+
+					I have scoured labels and asked in stores and never found any way of determining whether a liquor is a pure distillate or whether it has substantial additives (other than water and flavor).
+
+					In the U.S. is there any way to determine this before acquiring a particular bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>9288</PostId>
+			<ParentPostId>5042</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-29T02:29:12.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5486 edit id of 196
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Unknown" >
+			<PostId>9690</PostId>
+			<ParentPostId>5042</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-25T11:01:47.330</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/746659649194168320
+			</EditDetails>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Tags" >
+			<PostId>9860</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:48:24.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, flavor, terminology, additives, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

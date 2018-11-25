@@ -1,0 +1,890 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>9082</PostId>
+			<ParentPostId>4983</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-28T19:16:52.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've been testing out different Scotches for the last few years and usually find a pretty strong correlation between price point and quality. When I pay more the Scotch almost always offers a better drinking experience up to a point. 
+
+					That said, recently I bought an **Aberlour 12** at about 65 cdn and found it to be very similar in character to a **Dalmore 12** which I bought for a much higher price a few months ago. For that reason I'm characterizing the Aberlour as a high value Scotch. It's priced reasonably and is a bit better of a Scotch than it's price point would suggest.
+
+					So I wonder what examples of Scotches people would recommend that are superior than their price point would suggest.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>9083</PostId>
+			<ParentPostId>4983</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-28T19:16:52.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Examples of high value Scotches
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>9084</PostId>
+			<ParentPostId>4983</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-28T19:16:52.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					scotch, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>9086</PostId>
+			<ParentPostId>4983</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-29T19:22:46.423</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/726129617262809089
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>11717</PostId>
+			<ParentPostId>6518</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-12T00:45:20.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I see Scotch is often labelled as single malt or blended, but never both. What, exactly, is the distinction?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>11718</PostId>
+			<ParentPostId>6518</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-12T00:45:20.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between blended and single malt Scotch?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>11719</PostId>
+			<ParentPostId>6518</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-12T00:45:20.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					scotch, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>12125</PostId>
+			<ParentPostId>6518</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T19:58:29.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/838478843883229184
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>12399</PostId>
+			<ParentPostId>6735</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-03T02:05:44.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A friend of mine has come into possession of some rather old alcohol.  On one bottle of J&amp;B Scotch, the label looks like [this one](https://www.masterofmalt.com/whiskies/j-and-b/j-and-b-rare-blended-scotch-whisky-1950s-whisky/) and not any of their later ones, but my friend's bottle has a screw-top cap, not a cork.
+
+					When did J&amp;B start using caps?  (There is no contact information on their web site to ask them directly.)
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>12400</PostId>
+			<ParentPostId>6735</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-03T02:05:44.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When did J&amp;B Scotch switch from corks to screw-tops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>12401</PostId>
+			<ParentPostId>6735</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-03T02:05:44.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					scotch, distilleries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>12403</PostId>
+			<ParentPostId>6735</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-03T17:14:03.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/848946710692888581
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Body" >
+			<PostId>12404</PostId>
+			<ParentPostId>6735</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-03T23:07:35.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				the date should be in the question too and not just the link
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					A friend of mine has come into possession of some rather old alcohol.  On one bottle of J&amp;B Scotch, the label looks like [this one](https://www.masterofmalt.com/whiskies/j-and-b/j-and-b-rare-blended-scotch-whisky-1950s-whisky/) from 1958 and not any of their later ones, but my friend's bottle has a screw-top cap, not a cork.
+
+					When did J&amp;B start using caps?  (There is no contact information on their web site to ask them directly.)
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>12829</PostId>
+			<ParentPostId>6868</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-31T05:08:29.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6784</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've just recently begun drinking Scotch, and I find it absolutely delicious. However, most brands I see in the store are quite expensive. So far the best Scotch I've tried is Aberlour single malt, and although it's not prohibitively expensive, it's not exactly cheap either. 
+
+					What are some good brands of Scotch that won't break the bank? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>12830</PostId>
+			<ParentPostId>6868</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-31T05:08:29.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6784</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are some affordable brands of good Scotch?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>12831</PostId>
+			<ParentPostId>6868</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-31T05:08:29.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6784</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					whiskey, spirits, scotch, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>12843</PostId>
+			<ParentPostId>6868</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-01T02:48:04.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/870109665719406594
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>13403</PostId>
+			<ParentPostId>7065</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-09T21:22:56.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5482</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I typically drink brown spirits, however, I have some vodka left over from a wedding party so I was wondering if there are any good vodka cocktail recipes which aren't too sweet (or have too many ingredients) and would be enjoyed by someone who has a pallet for whisky/scotch.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>13404</PostId>
+			<ParentPostId>7065</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-09T21:22:56.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5482</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any vodka cocktail recipes for someone who likes whisky/scotch?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>13405</PostId>
+			<ParentPostId>7065</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-09T21:22:56.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5482</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					vodka, whiskey, scotch, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>13492</PostId>
+			<ParentPostId>7097</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-01T09:15:46.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7189</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					This isn't a question about typical production: I know that Scotch is often peated while Irish rarely is and that Irish is usually triple-distilled whereas Scotch is usually double-distilled. That's covered well by the question https://alcohol.stackexchange.com/questions/5134/whiskey-irish-vs-scottish. This more of a question about whether those processes make a noticable difference to the result.
+
+					Imagine a wine tasting: a skilled wine taster can identify the grape(s) and regions from a sip of the wine without seeing the bottle. I guess my question is: could a consuisseur readily identify whether a whiskey was Scotch or Irish from the flavour alone? Are there typical "giveaway" flavours, smells or textures (other than peat) which identify each?
+
+					Or, put it another way, if you wanted to showcase a typical range of whiskey styles, could you do it solely with a selection from North America and Scotland, or are there examples made in Ireland of a style unique to that country?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>13493</PostId>
+			<ParentPostId>7097</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-01T09:15:46.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7189</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there broad stylistic differences between Scotch and Irish whiskey?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>13494</PostId>
+			<ParentPostId>7097</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-01T09:15:46.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7189</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					spirits, whiskey, scotch, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>13499</PostId>
+			<ParentPostId>7097</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-02T02:13:51.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/936780420020035585
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>13534</PostId>
+			<ParentPostId>7114</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-12T17:47:39.597</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It's established in the Scotch world that the age of a whisky pushes it's price up. A MacAllan or Glenmorangie 18 will fetch a much higher price than their respective 12 year old versions.
+
+					Having tried a small number of 18 year olds, I've found them highly variable in quality, just as you would with those in the 12 category, but those which were of higher quality seemed to be more *mellow and subtle* than their twelve year old counter-parts. But that's only my understanding from a very small sample size.
+
+					So the questions are:
+
+					 - What does aging a Scotch do to the whisky chemically?
+					 - What properties do 18 year old Scotches tend to share for tasters?
+					 - Are 18 year old Scotches ever crafted with special care, to make them superior aside from the aging process?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>13535</PostId>
+			<ParentPostId>7114</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-12T17:47:39.597</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the main qualitative and quantitative differences between 18 and 12 year old Scotches?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>13536</PostId>
+			<ParentPostId>7114</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-12T17:47:39.597</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					aging, scotch, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Unknown" >
+			<PostId>13537</PostId>
+			<ParentPostId>7114</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-13T02:38:44.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/940772950441152513
+			</EditDetails>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>13617</PostId>
+			<ParentPostId>7140</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-29T19:12:23.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've noticed the tendency for different regions of Scotland to produce malt whiskies that tend to be similar in character, and I wonder how this came to be.
+
+					That the distilling methods from each region are different is clear enough, but the **question is** is this because different distilling methods arose naturally out of each region, historically, and became static once they had established themselves, or something else?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>13618</PostId>
+			<ParentPostId>7140</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-29T19:12:23.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why have distinct styles of Scotch clustered in different regions of Scotland?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>13619</PostId>
+			<ParentPostId>7140</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-29T19:12:23.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					scotch, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>13628</PostId>
+			<ParentPostId>7140</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-03T00:41:00.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/948353465893507073
+			</EditDetails>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Body" >
+			<PostId>13784</PostId>
+			<ParentPostId>7200</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-27T20:41:25.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					For the purpose of definition we'll call 'rare 18 year old Scotch' bottles that aren't really common in foreign markets like Canada. 
+
+					What I wonder is, if we're talking about that type of high-grade Scotch, how easy is it to find a bottle if you were visiting distilleries or liquor stores in Scotland directly.
+
+					In other words, when distilleries produce premium product does it tend to mostly stay in country, or are some of these whiskies just produced in such low quantities that getting your hands on it anywhere is rare?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Title" >
+			<PostId>13785</PostId>
+			<ParentPostId>7200</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-27T20:41:25.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How hard is it to get rare 18 year old Scotches directly in Scotland?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Tags" >
+			<PostId>13786</PostId>
+			<ParentPostId>7200</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-27T20:41:25.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					scotch, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>13788</PostId>
+			<ParentPostId>7200</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-01T04:29:17.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/969067022641451010
+			</EditDetails>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Body" >
+			<PostId>14270</PostId>
+			<ParentPostId>7363</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-01T09:49:04.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7894</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm curious to experience Christopher Hitchens reported favourite drink. He described it as Johnnie Walker black, cut with perrier water, and no ice.
+
+					I've had a go and it's interesting, but I'm wondering what else needs to be done to get the perfect drink:
+
+					 1. What temperature should the whisky be?
+					 2. What temperature should the perrier water be?
+					 3. What would be the ideal ratio of whisky to water?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Title" >
+			<PostId>14271</PostId>
+			<ParentPostId>7363</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-01T09:49:04.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7894</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to correctly do a "Hitch Mix" - Johnnie walker and perrier water
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Tags" >
+			<PostId>14272</PostId>
+			<ParentPostId>7363</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-01T09:49:04.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7894</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					scotch, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Unknown" >
+			<PostId>14284</PostId>
+			<ParentPostId>7363</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-03T09:51:52.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1014084298704637952
+			</EditDetails>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Post Closed" >
+			<PostId>14360</PostId>
+			<ParentPostId>6868</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-20T13:49:36.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":187,"DisplayName":"Rory Alsop"},{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Body" >
+			<PostId>14473</PostId>
+			<ParentPostId>7428</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T19:49:46.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7995</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I enjoy drinking scotch, and I am about to have my first child. I would like to buy a bottle of scotch that has the year my child is born printed on it, and then give them the scotch as a gift when they turn 30 or so. I am well aware that the scotch won't age the same in a bottle as it would in a cask, but the idea is that I will be able to give my child something that I have held for them for 30 years. I am aware that I could find a special one-time release of some sort, but I am looking for a brand of scotch that routinely prints the year it was released somewhere on the bottle because when I have my second child a few years down the road, I would like to do the same thing for them, and I thought it would be nice if they were the same scotch. The closest thing that I can find is Booker's Small Batch Bourbon from Jim Beam. They do a few special releases a year, and the release year is printed on every bottle. If I cannot find a brand of scotch that does something similar I will just go with the Booker's. However, I thought I would ask this question here in case anyone is familiar with the sort of thing I am looking for. It would also be nice if it was a speyside or highland scotch, but that is not really necessary. I thank anyone in advance for taking the time to read this, and hopefully being able to point me in the right direction.
+
+					Best regards,
+					Josh
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Title" >
+			<PostId>14474</PostId>
+			<ParentPostId>7428</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T19:49:46.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7995</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A brand of scotch that routinely prints the release year on the bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Tags" >
+			<PostId>14475</PostId>
+			<ParentPostId>7428</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T19:49:46.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7995</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					whiskey, scotch, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Unknown" >
+			<PostId>14492</PostId>
+			<ParentPostId>7428</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T15:00:42.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1028657535019098112
+			</EditDetails>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Body" >
+			<PostId>14545</PostId>
+			<ParentPostId>7450</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-21T08:49:29.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					All these taste and look pretty similar. What is the difference between them?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Title" >
+			<PostId>14546</PostId>
+			<ParentPostId>7450</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-21T08:49:29.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between Cognac, Brandy, Bourbon, Scotch and Whiskey?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Tags" >
+			<PostId>14547</PostId>
+			<ParentPostId>7450</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-21T08:49:29.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					whiskey, spirits, liquor, scotch, bourbon, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

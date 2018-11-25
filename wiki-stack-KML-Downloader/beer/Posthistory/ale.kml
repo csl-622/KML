@@ -1,0 +1,1237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>20</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:37:12.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Apart from coming out of different taps, some ales seem very similar to lagers (although there are clearly a much greater variety of ales). Is there a difference in the way they are made?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>21</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:37:12.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between an ale and a lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>22</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:37:12.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ale, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>154</PostId>
+			<ParentPostId>61</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:12.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>57</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Whats the difference between a bitter and an Ale? Is it the manufacturing process or the ingredients that make these different drinks?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>155</PostId>
+			<ParentPostId>61</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:12.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>57</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Difference between Ale and Bitter
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>156</PostId>
+			<ParentPostId>61</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:12.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>57</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1052</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T16:15:03.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/428561938965344256
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>1168</PostId>
+			<ParentPostId>463</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T15:26:58.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I ask this because I just ordered an "American Pale Ale" and it's actually quite dark in color. So how can I tell a pale ale?  What actually defines an ale as *pale*?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>1169</PostId>
+			<ParentPostId>463</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T15:26:58.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What constitutes a Pale Ale?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>1170</PostId>
+			<ParentPostId>463</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T15:26:58.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>1175</PostId>
+			<ParentPostId>463</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T16:25:06.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429289246311329792
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>1290</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T22:49:13.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>359</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					does anyone know if a "session beer" has to be below a specif ABV to qualify as a session beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>1291</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T22:49:13.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>359</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does a session beer have to be below a specific ABV?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>1292</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T22:49:13.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>359</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Body" >
+			<PostId>1294</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T23:02:04.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<EditDetails>
+				Spelling
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Does anyone know if a "session beer" has to be below a specific ABV to qualify as a session beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1304</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T07:30:12.483</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430604185026183168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>1976</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T05:37:01.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				2
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>1988</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T13:07:27.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've read anecdotal evidence that says that real ale, though not as gassy as lager, makes you fart more.
+
+					Is there any truth to this and does it apply to ales in general or just certain types?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>1989</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T13:07:27.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does real ale make you fart more than lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>1990</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T13:07:27.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>608</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, gas, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>2031</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-15T11:48:51.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/456036425797226496
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>2038</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-16T05:42:12.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				2
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>3624</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-13T10:40:56.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have noticed that when I spend a night drinking the usual lagers found on bar taps in the UK (Heineken, Carlsberg, etc.), I have a much worse hangover than when I spend a night drinking locally brewed real ales (or mass-produced real ales such as Spitfire, Wainwright, etc.).
+
+					Is there any reason for this? Do lagers contain any ingredients that can cause worse hangovers than real ales?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>3625</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-13T10:40:56.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does drinking mainstream, mass-produced lagers give you a worse hangover than real ale?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>3626</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-13T10:40:56.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, lager, hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Unknown" >
+			<PostId>3692</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-11T02:59:54.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/509899105209188352
+			</EditDetails>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Body" >
+			<PostId>3783</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-17T09:19:30.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1398</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					*This may come across as more of a rant, but stick with me…I have a genuine question!*
+
+					I've been following the craft beer scene in the UK for some time now, and much prefer true craft beers to real ales, or bastardised beers labelled "craft" when they have no business being represented in such a way.
+
+					A few months ago, I went into London with a friend of mine for a few beers, starting a craft beer bar for two pints, and on the way back to the tube station, stopped in a traditional pub and had a pint of "real ale" there too.
+
+					After drinking the craft beers (hoppy as f***) we were both thoroughly disappointed with taste of the real ale, which I can only describe as a bland, waxy taste!
+
+					Since that day, I pretty much won't touch, and certainly don't enjoy real ales, and since Brewdog (Punk IPA, Dead Pony Club &amp; 5AM Saint) are available in my local superstores, I tend to buy, and thoroughly enjoy drinking these beers, rather than boring alternatives.
+
+					My friend however, whom I believe to be a complete philistine on the subject  has decided in his infinite wisdom that the terms “craft beer” and “real ale” are synonymous with each other, stating: 
+
+					&gt; “You realise that most of the industrialised breweries started out
+					&gt; making “craft beer” however demand and greed caused them to skimp on
+					&gt; ingredients, adding less and less to make more and more profit? Most
+					&gt; of these new breweries will probably go the same way.”
+
+					*I tell you, it’s going to be a sad day when I can no longer enjoy a Moor Nor’Hop, or a Beavertown Neck Oil, or a Kernel IPA, or a Brewdog Jackhammer, because greed and industrialisation caused them to make boring beers.*
+
+					Whilst I agree in principle regarding greed and industrialisation, I most certainly do not agree that most industrialised breweries started out making “craft beer”, and I don’t even think that “real ale” breweries have changed their recipes that much over time.
+
+					To put this into context:
+
+					**Real Ale:** Youngs London Gold, Bombardier, Tribute, Deuchars IPA
+
+					**Craft Beer:** Brewdog IPA is Dead Citra, Kernel Black IPA, Lagunitas IPA, Moor So’Hop
+
+					So, given the vast difference in taste between “Real Ale” and “Craft Beer” I’d like to know:
+
+					 - What distinguishes a beer as “craft beer” or “real ale”?
+					 - Will “craft beer” become boring due to industrialisation?
+					 - Did “real ale” used to taste nicer than it does today?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Title" >
+			<PostId>3784</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-17T09:19:30.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1398</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft Beer vs Real Ale
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Tags" >
+			<PostId>3785</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-17T09:19:30.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1398</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, taste, ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Edit Body" >
+			<PostId>3803</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-21T14:48:52.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				OP did not respond to request to edit question; forced to do so myself. OP is free to suggest a new edit to reinstitute any deletions (s)he feels is relevant.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've been following the craft beer scene in the UK for some time now, and much prefer true craft beers to real ales (and beers labeled "craft" when they have no business being represented in such a way). Comparatively, real ales I've tried have a bland, waxy taste to them, unlike craft beers such as Brewdog's Punk IPA, Dead Pony Club, and 5AM Saint.
+
+					A friend expressed to me his view that the terms “craft beer” and “real ale” are synonymous, stating: 
+
+					&gt; “You realise that most of the industrialised breweries started out making “craft beer,” however demand and greed caused them to skimp on ingredients, adding less and less to make more and more profit? Most of these new breweries will probably go the same way.”
+
+					Whilst I agree in principle regarding greed and industrialisation, I am skeptical of the claim that most industrialised breweries started out making “craft beer.” Nor do I believe that “real ale” breweries have changed their recipes to that degree over time.
+
+					To put this into context, some beers I consider real ales are Youngs London Gold, Bombardier, Tribute, and Deuchars IPA, while some beers I consider craft beers are Brewdog IPA is Dead Citra, Kernel Black IPA, Lagunitas IPA, and Moor So’Hop.
+
+					 - What distinguishes a “craft beer” from a “real ale”?
+					 - Do “craft beers” change as breweries scale up for profits?
+					 - Did “real ales” use to taste nicer than it does today?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>3865</PostId>
+			<ParentPostId>1085</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-19T00:29:39.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1501</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					is "Capilano Pale Ale" still being produced and is it possible to get it in the States?I'm referring to the Vancouver, British Colombia, microbrew. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>3866</PostId>
+			<ParentPostId>1085</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-19T00:29:39.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1501</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					is "Capilano Pale Ale" still being produced and is it possible to get it in the States?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>3867</PostId>
+			<ParentPostId>1085</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-19T00:29:39.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1501</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Unknown" >
+			<PostId>3904</PostId>
+			<ParentPostId>1085</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-30T23:06:37.107</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/539193812036616192
+			</EditDetails>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Body" >
+			<PostId>6444</PostId>
+			<ParentPostId>3341</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-22T14:20:15.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4034</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'll admin i got a bit excited. My first best of home brew fermented for 6 days, then transferred to barrel for the net 3 weeks - i used woodforde's real ale mix.
+
+					BUT at the last seconds i forgot primer so i improvised wit 80g of caster sugar for 23 litres of beer.
+
+					Does anyone have experience of using caster sugar as a primer in a barrell? And more importantly - have i just borked my first barrell?!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Title" >
+			<PostId>6445</PostId>
+			<ParentPostId>3341</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-22T14:20:15.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4034</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Using Caster Sugar as Primer in Barrell
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Tags" >
+			<PostId>6446</PostId>
+			<ParentPostId>3341</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-22T14:20:15.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4034</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Post Closed" >
+			<PostId>6497</PostId>
+			<ParentPostId>3341</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-07T05:50:58.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":85,"DisplayName":"anthony-arnold"},{"Id":39,"DisplayName":"wax eagle"},{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>6683</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-30T10:57:56.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4277</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am thinking about make my first beer in this summer. However, in my country the summer has an ambient temperature about 25-30º. So my question, is what type of beers are adequate to this conditions? 
+
+					My first idea is a blond ale (Brewferm Ale), with fermentation at the ambient temperature in Barrel Aging. What do you think about?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>6684</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-30T10:57:56.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4277</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft beer - Ambient temperature for fermentation
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>6685</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-30T10:57:56.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4277</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, ale, recommendations, fermentation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Body" >
+			<PostId>6695</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-01T11:39:05.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4281</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am moving back home in the next few days and the idea of importing all my beer does not seem reasonable.
+
+					I'm willing to try any kind of beer, but my preference is for IPA's and Belgian Strong pale ales.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Title" >
+			<PostId>6696</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-01T11:39:05.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4281</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Any advice on good brewaries near São Paulo - Brazil?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Tags" >
+			<PostId>6697</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-01T11:39:05.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4281</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, ipa, ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Body" >
+			<PostId>6718</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-09T11:40:14.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would like the other beer enthusiasts to suggest some new ales for me to try. I enjoy all Bath Ales and Box Steam Brewery; I'm more a fan of a bitter and less so of pale ales.
+
+					Can you advise of any brands of a similar or superior quality I might try? The cheaper end of the scale (Spitfire, speckled hen) doesn't interest me.
+
+					Many thanks in advance. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Title" >
+			<PostId>6719</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-09T11:40:14.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Broadening my horizons
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Tags" >
+			<PostId>6720</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-09T11:40:14.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Edit Body" >
+			<PostId>6721</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-09T14:04:59.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<EditDetails>
+				added 31 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I would like the other beer enthusiasts to suggest some new ales for me to try. I enjoy all Bath Ales and Box Steam Brewery; I'm more a fan of a bitter and less so of pale ales.
+
+					Can you advise of any brands of a similar or superior quality I might try? (In the South West of the UK). The cheaper end of the scale (Spitfire, speckled hen) doesn't interest me.
+
+					Many thanks in advance. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Edit Body" >
+			<PostId>6724</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-10T08:43:05.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 4 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I would like the other beer enthusiasts to suggest some new ales for me to try. I enjoy all Bath Ales and Box Steam Brewery; I'm more a fan of a bitter and less so of pale ales.
+
+					Can you advise of any brands of a similar or superior quality I might try? (In the South West of the UK). The cheaper end of the scale (Spitfire, speckled hen) doesn't interest me.
+
+					Many thanks in advance. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Edit Title" >
+			<PostId>6725</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-10T08:43:05.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 4 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Broadening my horizons (Ale recommendations in South West UK)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Edit Title" >
+			<PostId>6778</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:13:13.943</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4324</UserId>
+			</Contributors>
+			<EditDetails>
+				correct spelling
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Any advice on good breweries near São Paulo - Brazil?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Unknown" >
+			<PostId>6779</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:13:13.943</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4324 approved by 73 edit id of 139
+			</EditDetails>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Unknown" >
+			<PostId>6837</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-29T23:17:19.467</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				6
+			</EditDetails>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Unknown" >
+			<PostId>6849</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-02T06:06:21.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				6
+			</EditDetails>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Body" >
+			<PostId>9420</PostId>
+			<ParentPostId>5089</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:32:14.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					While out at my local I always like to try new beers, and as I was going through a few different beers and I noticed that almost all of them all had varying temperatures. Some where ice cold whilst some were warmer I understand that this is on purpose but I'm not sure why?
+
+					So why is it that some beers are served Cold and why are some served Warm?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Title" >
+			<PostId>9421</PostId>
+			<ParentPostId>5089</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:32:14.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are some beers warm and some cold?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Tags" >
+			<PostId>9422</PostId>
+			<ParentPostId>5089</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:32:14.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Unknown" >
+			<PostId>9639</PostId>
+			<ParentPostId>5089</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-21T04:34:04.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/745112525247680518
+			</EditDetails>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Body" >
+			<PostId>13138</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-17T13:18:19.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7030</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between "The Ale", "The Brown Ale" and the "Mild Ale" beer? The colour seem more or less the same so is it the taste that normally is different or is the level of alcool presents on the beer?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Title" >
+			<PostId>13139</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-17T13:18:19.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7030</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Difference between "Ale's" beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Tags" >
+			<PostId>13140</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-17T13:18:19.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7030</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Edit Body" >
+			<PostId>13992</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-02T11:24:15.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6566</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected small typo, added 'ale' tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the difference between "The Ale", "The Brown Ale", and the "Mild Ale" beers? The colour seems more or less the same so, is it the taste that normally is different or is the level of alcohol present on the beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Edit Tags" >
+			<PostId>13993</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-02T11:24:15.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6566</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected small typo, added 'ale' tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, flavor, ale, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Unknown" >
+			<PostId>13994</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-02T11:24:15.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6566 approved by 5078 edit id of 325
+			</EditDetails>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Unknown" >
+			<PostId>14049</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T19:36:57.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/996112145061380096
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

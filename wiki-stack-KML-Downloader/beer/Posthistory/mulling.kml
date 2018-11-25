@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>26</PostId>
+			<ParentPostId>10</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:39:03.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It's pretty cold at the moment. Mulled wine being more of a Christmas drink, mulled beer is getting popular. What beers, and what spices should I use to make it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>27</PostId>
+			<ParentPostId>10</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:39:03.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do you mull beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>28</PostId>
+			<ParentPostId>10</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:39:03.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					mulling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>429</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:05:49.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Taste-wise, at least in my opinion, the hotter the mulled beer the better. Except past certain point the alcohol starts evaporating so quickly you end up losing most of it before you start drinking.
+
+					How should I heat the beer - what temperature, what heating method - to get it as hot as possible without losing alcohol content?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>430</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:05:49.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Optimal mulling temperature?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>431</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:05:49.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					mulling, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>528</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T16:09:14.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Since the temperature tag already exists...
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					temperature, mulling, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>529</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T16:09:14.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 73 approved by 60 edit id of 24
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>9050</PostId>
+			<ParentPostId>4970</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-22T00:53:24.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When I make mulled wine (wine heated with anise stars, citrus, and spices) I use Rex Goliath because at $6 a bottle, it's the cheapest thing I can get my hands on. But is there a better way? 
+
+					What style of wine is most suitable, and will I get better results from a more drinkable wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>9051</PostId>
+			<ParentPostId>4970</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-22T00:53:24.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What characteristics make a suitable wine for mulling?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>9052</PostId>
+			<ParentPostId>4970</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-22T00:53:24.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, mulling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>9118</PostId>
+			<ParentPostId>4970</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-08T04:59:11.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/729173780191391744
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

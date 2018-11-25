@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>266</PostId>
+			<ParentPostId>234</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>cicerone</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T16:34:07.970</CreationDate>
+				<LastActivityDate>2014-01-23T16:34:07.970</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>31</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Basically, they are experts in beer. They are knowledgeable in everything from the brewing process and the beer styles to properly serving beer and how to pair it with food. Yes, there are certification programs around, such as &lt;a href="http://www.cicerone.org/" rel="nofollow"&gt;this one&lt;/a&gt;. I'm not sure about training, but it seems like it involves a series of exams, much like actuarial exams or the FE and PE for engineers. &lt;a href="http://www.craftbeer.com/craft-beer-muses/beer-experts-and-cicerone" rel="nofollow"&gt;craftbeer.com has a great article&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>498</PostId>
+			<ParentPostId>243</ParentPostId>			<Tags>
+				<tag>storage</tag>
+				<tag>draught</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-01T22:49:35.430</CreationDate>
+				<LastEditDate>2014-02-02T01:33:04.993</LastEditDate>
+				<LastActivityDate>2014-02-02T01:33:04.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Tank beer does seem to be mainly a Czech thing, although there are some pubs in England that use tanks too. In terms of why it might not be as popular in other countries, there seem to be some downsides: you would need to clean the tanks about once a week, also if you are dealing with unpasteurized beer it must be consumed in a shorter time period which may lead to possible waste of product.&lt;/p&gt;
+
+					&lt;p&gt;Link to a article of a pub in England with tank beer &lt;a href="http://www.independent.co.uk/life-style/food-and-drink/features/how-very-refreshing-tank-beer-is-so-fresh-its-like-drinking-straight-from-the-brewery-8560688.html" rel="nofollow"&gt;here&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>499</PostId>
+			<ParentPostId>243</ParentPostId>			<Tags>
+				<tag>storage</tag>
+				<tag>draught</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-01T22:49:55.550</CreationDate>
+				<LastActivityDate>2014-02-01T22:49:55.550</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>37</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;According to the article you linked to, the specific draw of tank beer is that it's unpasteurized.  This does also exist (albeit not served from tanks) in the form of Real Ale, or Cask Ale in Britain.  Historically, this was not only popular, but the &lt;em&gt;primary&lt;/em&gt; distribution mechanism for beer in Britain a hundred years ago.  However, its popularity has diminished over time because it's harder to transport and doesn't last as long as pasteurized beer, making it more expensive which necessarily reduces the size of the market that can and will pay for it.   &lt;/p&gt;
+
+					&lt;p&gt;Tanked beer is something that you see in brewpubs in the United States, where transportation isn't an issue (since it's being brewed on-site) but real ale is definitely on the decline in the U.K. and possibly only survives due to CAMRA, the British Beer Preservation Society's Campaign for Real Ale. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>6644</PostId>
+			<ParentPostId>6643</ParentPostId>			<Tags>
+				<tag>wine</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-07T15:40:36.247</CreationDate>
+				<LastActivityDate>2017-03-07T15:40:36.247</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Smoked drinks are all the rage right now. I bet something like this happened. Scroll down a bit. &lt;a href="http://www.frolichawaii.com/stories/something-new-downtowns-bar-leather-apron/" rel="nofollow noreferrer"&gt;Smoked whisky drink&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/0oPjG.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/0oPjG.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

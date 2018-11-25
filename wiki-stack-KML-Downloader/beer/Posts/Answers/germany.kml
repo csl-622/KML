@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>6260</PostId>
+			<ParentPostId>6259</ParentPostId>			<Tags>
+				<tag>recommendations</tag>
+				<tag>wine</tag>
+				<tag>germany</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-29T17:55:20.073</CreationDate>
+				<LastActivityDate>2016-08-29T17:55:20.073</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5817</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would spend your limited time and money just tasting wines from one region.  &lt;strong&gt;Nahe&lt;/strong&gt; is a smaller wine region just west of Frankfurt, and I've found the wines there to be good quality, with individual charm (in other words, without the sense that they are mass-produced).  &lt;a href="https://en.wikipedia.org/wiki/Nahe_(wine_region)" rel="nofollow"&gt;More info here&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;By all means, talk to locals: the people you're visiting, the clerk in your hotel.  That's almost always a great way to discover something.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>6267</PostId>
+			<ParentPostId>6265</ParentPostId>			<Tags>
+				<tag>german-beers</tag>
+				<tag>germany</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-30T20:04:13.257</CreationDate>
+				<LastActivityDate>2016-08-30T20:04:13.257</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4742</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm not sure if you will find any Oktoberfest beer at the airport but they are available several weeks before "official" start in big groceries or beer shops.  Hacker-Pschorr Oktoberfest Märzen, Paulaner Oktoberfest and Löwenbräu Oktoberfestbier were already available three weeks  ago even in nothern Germany. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>6290</PostId>
+			<ParentPostId>6265</ParentPostId>			<Tags>
+				<tag>german-beers</tag>
+				<tag>germany</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-09-16T14:36:06.863</CreationDate>
+				<LastActivityDate>2016-09-16T14:36:06.863</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4109</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You can even buy the Löwenbräu beer easily on Amazon so &lt;strong&gt;YES&lt;/strong&gt; you can buy it.
+					&lt;a href="https://www.amazon.de/L%C3%B6wenbr%C3%A4u-257885-Oktoberfestbier-24-0-5/dp/B01LB4KPGM/ref=sr_1_2?ie=UTF8&amp;amp;qid=1474036523&amp;amp;sr=8-2&amp;amp;keywords=L%C3%B6wenbr%C3%A4u" rel="nofollow"&gt;beer Amazon&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

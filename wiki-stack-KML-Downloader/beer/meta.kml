@@ -1,0 +1,35 @@
+﻿<?xml version='1.0' encoding='utf-8-sig'?>
+<KML>
+  <KnowledgeData Type="meta">
+    <Instance Id="1" InstanceType="posts" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <KnowledgeData Id="k1">
+        <xi:include href="beer/Posts/meta_posts.kml" />
+      </KnowledgeData>
+    </Instance>
+    <Instance Id="2" InstanceType="posthistory" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <KnowledgeData Id="k2">
+        <xi:include href="beer/Posthistory/meta_post_history.kml" />
+      </KnowledgeData>
+    </Instance>
+    <Instance Id="3" InstanceType="comments" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <KnowledgeData Id="k3">
+        <xi:include href="beer/Comments/meta_comments.kml" />
+      </KnowledgeData>
+    </Instance>
+    <Instance Id="4" InstanceType="users" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <KnowledgeData Id="k4">
+        <xi:include href="beer/Users/meta_users.kml" />
+      </KnowledgeData>
+    </Instance>
+    <Instance Id="5" InstanceType="badges" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <KnowledgeData Id="k5">
+        <xi:include href="beer/Badges/badges.kml" />
+      </KnowledgeData>
+    </Instance>
+    <Instance Id="6" InstanceType="votes" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <KnowledgeData Id="k6">
+        <xi:include href="beer/Votes/meta_votes.kml" />
+      </KnowledgeData>
+    </Instance>
+  </KnowledgeData>
+</KML>

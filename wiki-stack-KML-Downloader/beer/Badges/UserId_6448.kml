@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="7060"  UserId="6448" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-22T11:45:35.380</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7061"  UserId="6448" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-22T11:45:35.380</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7309"  UserId="6448" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2017-03-31T13:43:39.340</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7339"  UserId="6448" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2017-04-08T20:01:21.387</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7362"  UserId="6448" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2017-04-14T03:35:51.693</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7531"  UserId="6448" InstanceType= "badges">
+			<Title>
+			"Enthusiast"
+			</Title>
+			<TimeStamp>
+				<Date>2017-06-03T00:24:49.393</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8259"  UserId="6448" InstanceType= "badges">
+			<Title>
+			"Fanatic"
+			</Title>
+			<TimeStamp>
+				<Date>2017-12-14T00:13:23.113</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

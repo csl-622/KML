@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="5949"  UserId="5528" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2016-06-07T12:56:13.360</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6470"  UserId="5528" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2016-10-13T12:23:49.167</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6471"  UserId="5528" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2016-10-13T14:08:43.383</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7442"  UserId="5528" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2017-05-09T11:16:13.330</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7542"  UserId="5528" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2017-06-07T10:46:41.070</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7675"  UserId="5528" InstanceType= "badges">
+			<Title>
+			"Commentator"
+			</Title>
+			<TimeStamp>
+				<Date>2017-07-11T04:04:18.043</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8806"  UserId="5528" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2018-06-07T10:49:55.763</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

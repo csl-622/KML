@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>14</PostId>
+			<AcceptedAnswerId>27</AcceptedAnswerId>
+			<Title>
+			"What factors affect the carbonation level of beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>685</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:44:37.830</CreationDate>
+				<LastActivityDate>2017-03-19T14:24:13.047</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>26</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer varies widely, and one of the most noticeable differences when drinking is the carbonation level.  What factors in the composition, brewing process, storage, etc affect the final level of carbonation? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>435</PostId>
+			<AcceptedAnswerId>436</AcceptedAnswerId>
+			<Title>
+			"Can beer be recarbonated?"
+			</Title>
+			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>10847</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T21:58:40.043</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2018-07-18T07:22:54.810</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>286</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was perusing a question about uses for flat beer ("&lt;a href="https://alcohol.stackexchange.com/q/354/286"&gt;Are there any good uses for beer that has sat in my growler for too long?&lt;/a&gt;") when I came across an answer that mentioned "&lt;a href="https://alcohol.stackexchange.com/a/355/286"&gt;any use that doesn't require it to be carbonated would be fitting&lt;/a&gt;".&lt;/p&gt;
+
+					&lt;p&gt;If I have flat beer, and I have, say, a &lt;a href="http://www.sodastreamusa.com/" rel="nofollow noreferrer"&gt;sodastream&lt;/a&gt; (or some such), can I effectively re-carbonate my beer? What would be the disadvantage to doing so?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>654</PostId>
+			<Title>
+			"Is there anything I can do short of leaving a glass out on the counter to mitigate overcarbonation?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>141</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-08T18:42:21.577</CreationDate>
+				<LastActivityDate>2014-03-10T01:30:22.140</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently picked up a bunch of bottles of what seemed like interesting brews from &lt;a href="http://hitachinonest.com/"&gt;Hitachino&lt;/a&gt;, because I was interested in exploring some Japanese beers. Unfortunately, the first two bottles I've opened now seem to have both been &lt;em&gt;severely&lt;/em&gt; overcarbonated.&lt;/p&gt;
+
+					&lt;p&gt;We're talking foam overflowing out of the bottle once I open it. These bottles have &lt;em&gt;not&lt;/em&gt; been exposed to significant agitation recently. They've been sitting on a shelf, upright as is proper, for days. Worse still, they don't just explode and make a mess, but they also simply &lt;em&gt;taste&lt;/em&gt; severely overcarbonated. It's like drinking shaken seltzer water mixed with my beer, and it's decidedly unpleasant. At this point, the only thing I've been able to do is pour a glass, leave it out for an hour or three, and &lt;em&gt;then&lt;/em&gt; drink it.&lt;/p&gt;
+
+					&lt;p&gt;Which is... impractical at best, and is only going to become less so as the weather warms up. Is there anything else I can do to mitigate this?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>655</PostId>
+			<Title>
+			"Are Hitachino's beers characteristically really heavily carbonated?"
+			</Title>
+			<Tags>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>118</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-08T18:47:58.113</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-04-22T00:56:26.073</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently picked up a bunch of bottles of what seemed like interesting brews from &lt;a href="http://hitachinonest.com/" rel="nofollow noreferrer"&gt;Hitachino&lt;/a&gt;, because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be &lt;a href="https://alcohol.stackexchange.com/q/654/8"&gt;severely overcarbonated.&lt;/a&gt; To the point of both making a mess, and being unpleasant to drink.&lt;/p&gt;
+
+					&lt;p&gt;Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? Or just spoiled by sitting on the shelf too long? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>745</PostId>
+			<Title>
+			"Decreasing foam in over-carbonated beer"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>carbonation</tag>
+				<tag>foam</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>165</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-23T04:11:46.830</CreationDate>
+				<LastEditDate>2014-04-24T13:16:50.103</LastEditDate>
+				<LastActivityDate>2014-04-24T13:16:50.103</LastActivityDate>
+				<ClosedDate>2014-04-26T04:45:23.780</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>401</OwnerUserId>
+				<LastEditorUserId>401</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have some homebrew that is really over-carbonated (before i learned about &lt;a href="https://www.google.com/search?q=priming%20sugar%20calculators" rel="nofollow"&gt;priming sugar calculators&lt;/a&gt;). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.&lt;/p&gt;
+
+					&lt;p&gt;Is there something i can do when pouring it to &lt;em&gt;reduce&lt;/em&gt; the head? I know some amount of head is desirable, but this is over the top (literally). &lt;/p&gt;
+
+					&lt;p&gt;[Edit] I get this much foam despite pouring very slowly and carefully down the side of the glass.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>907</PostId>
+			<AcceptedAnswerId>909</AcceptedAnswerId>
+			<Title>
+			"Are some beers meant to be served flat?"
+			</Title>
+			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>611</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-06T05:07:27.067</CreationDate>
+				<LastActivityDate>2014-07-06T14:41:37.977</LastActivityDate>
+				<ClosedDate>2014-07-08T14:56:16.673</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;My friend ordered a Wells Banana Bread Beer and to all three of us the beer tasted flat (carbonation-wise). She brought the beer to the bartender, who replied that that's just how that beer is. Is it true that some beers are meant to be served flat? Why? (What does it do for the taste?)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>3367</PostId>
+			<AcceptedAnswerId>3368</AcceptedAnswerId>
+			<Title>
+			"What is the difference between carbonation drops and priming sugar?"
+			</Title>
+			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>196</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-06T18:29:21.537</CreationDate>
+				<LastActivityDate>2015-05-07T13:06:39.327</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4070</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I attempted brewing beer in my home the set and instructions called for the carbonation being done by adding &lt;a href="http://www.mrbeer.com/mrbeer-carbonation-drops"&gt;carbonation drops&lt;/a&gt; instead of priming sugar. &lt;/p&gt;
+
+					&lt;p&gt;How does the fundamental chemical makeup differ between the two and how does the actual chemical process differ in beers brewed with carbonation drops versus priming sugar (if at all)? Is taste affected?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>4648</PostId>
+			<Title>
+			"Changes of gasification of beer in a long draw series"
+			</Title>
+			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>103</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-22T12:38:18.250</CreationDate>
+				<LastEditDate>2016-04-19T22:56:28.630</LastEditDate>
+				<LastActivityDate>2016-04-19T22:56:28.630</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4650</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there any information on how the levels of co2 and n2 change over time in a keg series pressurized with a 30/70 mix (co2/n2 respectively)? Assuming the beer originally carbonated (not a nitro beer) and it takes a week to empty the series of kegs?
+					I would guess that one would get at least a 1/2 barrel of beer that is at the original carbonation level and no nitrogenation, but as the flow mixes the beer it would change and finally the last 1/2 barrel would have the greatest nitrogenation. &lt;/p&gt;
+
+					&lt;p&gt;Also, since it is not a nitro beer is there a limit of the amount of nitrogenation due to the originally present carbonation?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>6668</PostId>
+			<Title>
+			"Beers sold in the US with little or no carbonation"
+			</Title>
+			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>1850</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-15T16:28:43.573</CreationDate>
+				<LastEditDate>2017-03-17T09:19:03.143</LastEditDate>
+				<LastActivityDate>2017-03-17T11:27:09.393</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6557</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What types of beer have lower or no carbonation?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>7136</PostId>
+			<Title>
+			"How to recover a carboy of cider?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>carbonation</tag>
+				<tag>cider</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>70</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-26T16:09:50.190</CreationDate>
+				<LastActivityDate>2018-02-12T15:44:53.570</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>219</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm one of those people who puts nearly all my energy into things other than brewing.  And yet I still do it a little.  That's why I have a carboy of cider that is 18 months old in my basement.&lt;/p&gt;
+
+					&lt;p&gt;I don't know if the cider will be good or not when I try to bottle it, but I do know that all bubbling stopped long, long ago.  I'm not sure if all the yeast is dead at this point (does that happen?) or if all the sugar is gone.  Seems like one or the other must be true though.&lt;/p&gt;
+
+					&lt;p&gt;So on the off chance that I don't need to just pour this down the drain, what's my best bet for getting it carbonated in the growlers?  Yeast?  Sugar (though I actually used all honey initially)?  Both?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

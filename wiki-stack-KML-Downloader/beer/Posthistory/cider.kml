@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>3547</PostId>
+			<ParentPostId>954</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-24T20:04:07.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>960</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So I enjoy spicy beers from time to time (when they're done well). Chili porters, jalapeno/habanero IPAs, etc. I have a friend who loves spicy things but also has Celiac's and so can't drink beer. Anyone know of any spicy hard ciders out there or spicy gluten-free beers that might work for someone who's gluten-free? One available in Southern California is preferable.
+
+					A little internet searching turned up the following two, but at least one of the two isn't available in San Diego:
+
+					Finn River (Washington state based, might be here): http://www.finnriver.com/cidery/products/habanero-cider
+					Rate Beer page for Finn River: http://www.ratebeer.com/beer/finnriver-cider-habanero-cider/209974/
+
+					McClure's (Indiana based): http://www.mccluresorchard.com/hard-cider-list.html
+					Rate Beer for McClure's: http://www.ratebeer.com/beer/mcclures-jalapeno/185092/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>3548</PostId>
+			<ParentPostId>954</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-24T20:04:07.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>960</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Spicy Hard Cider
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>3549</PostId>
+			<ParentPostId>954</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-24T20:04:07.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>960</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>3550</PostId>
+			<ParentPostId>954</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-25T15:44:06.340</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/492696802618253313
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>8741</PostId>
+			<ParentPostId>4858</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-24T04:29:27.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4637</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I find most ciders to be a bit too sweet for my tastes.  Most of the lineup from [Woodchuck][1] is on the sweet side.  I like most of the [Crispin Cider][2] lineup.
+
+					Does anyone have any recommendations for dry cider that is available in the United States? 
+
+
+					  [1]: http://www.woodchuck.com
+					  [2]: http://www.crispincider.com/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>8742</PostId>
+			<ParentPostId>4858</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-24T04:29:27.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4637</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Dry Cider recommendations
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>8743</PostId>
+			<ParentPostId>4858</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-24T04:29:27.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4637</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Tags" >
+			<PostId>8744</PostId>
+			<ParentPostId>4858</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-24T04:39:54.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4637</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, cider, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Tags" >
+			<PostId>9278</PostId>
+			<ParentPostId>954</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:11:06.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				retagged qeueston
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					specialty-beers, cider, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Unknown" >
+			<PostId>9279</PostId>
+			<ParentPostId>954</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:11:06.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5078 approved by 43, 37 edit id of 190
+			</EditDetails>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Body" >
+			<PostId>9305</PostId>
+			<ParentPostId>954</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-31T16:54:32.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				Collapsed links
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					So I enjoy spicy beers from time to time (when they're done well). Chili porters, jalapeno/habanero IPAs, etc. I have a friend who loves spicy things but also has Celiac's and so can't drink beer. Anyone know of any spicy hard ciders out there or spicy gluten-free beers that might work for someone who's gluten-free? One available in Southern California is preferable.
+
+					A little internet searching turned up the following two, but at least one of the two isn't available in San Diego:
+
+					[Finn River](http://www.finnriver.com/cidery/products/habanero-cider) (Washington state based, might be here),
+					[Rate Beer page for Finn River](http://www.ratebeer.com/beer/finnriver-cider-habanero-cider/209974/)
+
+					[McClure's](http://www.mccluresorchard.com/hard-cider-list.html) (Indiana based), 
+					[Rate Beer for McClure's](http://www.ratebeer.com/beer/mcclures-jalapeno/185092/)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>9306</PostId>
+			<ParentPostId>954</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-31T16:54:32.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 172.249.47.98|0396c0b1-a373-4f8b-ad19-be19a149a062 approved by 960 edit id of 197
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>9724</PostId>
+			<ParentPostId>5178</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-29T17:11:15.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Mercifully, brewers label their beers with the style - lager, IPA, Hefeweisse, etc. But for whatever reason, the makers of hard ciders don't share the sentiment, and every single bottle will just call itself "cider" or if you're lucky "apple cider." 
+
+					This is something of an issue because I really like sweet ciders, and can't stand sour ones. But as far as I can tell, the bottle never reveals what type the cider is, and I have to open it and take a drink before I know if I will like it or not.
+
+					So what are the styles of cider, and how can I recognize them (and avoid the ones I don't like)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>9725</PostId>
+			<ParentPostId>5178</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-29T17:11:15.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there styles of cider? How to distinguish them before opening the bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>9726</PostId>
+			<ParentPostId>5178</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-29T17:11:15.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cider, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Tags" >
+			<PostId>9858</PostId>
+			<ParentPostId>954</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:47:19.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					cider, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>11366</PostId>
+			<ParentPostId>4858</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-19T10:43:03.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/799925953052950528
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>11819</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-19T13:45:23.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					OK, I want to create a romantic evening - everything is organized except for the perfect beverage!  For various reasons, champagne is out, so is any type of wine or beer or cider.  Thus the question, apart from all the above, what can I serve for my romantic evening?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>11820</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-19T13:45:23.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A romantic evening - what to drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>11821</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-19T13:45:23.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, cider, romanitc, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Tags" >
+			<PostId>11857</PostId>
+			<ParentPostId>6552</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-21T18:25:59.963</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					wine, cider, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Body" >
+			<PostId>13601</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-26T16:09:50.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm one of those people who puts nearly all my energy into things other than brewing.  And yet I still do it a little.  That's why I have a carboy of cider that is 18 months old in my basement.
+
+					I don't know if the cider will be good or not when I try to bottle it, but I do know that all bubbling stopped long, long ago.  I'm not sure if all the yeast is dead at this point (does that happen?) or if all the sugar is gone.  Seems like one or the other must be true though.
+
+					So on the off chance that I don't need to just pour this down the drain, what's my best bet for getting it carbonated in the growlers?  Yeast?  Sugar (though I actually used all honey initially)?  Both?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Title" >
+			<PostId>13602</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-26T16:09:50.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to recover a carboy of cider?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Tags" >
+			<PostId>13603</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-26T16:09:50.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, carbonation, cider, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Unknown" >
+			<PostId>13616</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-29T18:31:48.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/946811000375992322
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

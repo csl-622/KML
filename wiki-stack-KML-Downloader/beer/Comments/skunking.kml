@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="4">
+			<PostId>893</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-19T21:56:44.883</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd say experimenting with a bottle is the surest way to know. I've read that regardless of color, bottles are now coated with a UV-reflective layer on the inside to help protect against skunking. But obviously, seeing as how beers continue to skunk, they're not perfect. Leave a beer in the cupboard for several days and see what happens (and let us know).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>894</PostId>
+			<ParentPostId>244</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-21T12:14:43.830</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think you are trying to say that a short mash promotes higher body, and that is incorrect. The mash temperature does affect fermentability -- higher temperatures (156F-162F) causes the enzymes to produce more dextrins that are more difficult for the yeast to consume, and that results in a sweeter beer with more body. Cutting the mash short, is a recipe for disaster -- then the wort contains starch, which cannot be broken down by brewing yeast, but which does feed wild yeast and bacteria.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>895</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Contributors>
+				<UserId>793</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-21T13:20:15.600</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well, there are a few bottles on there now. Let's see how this goes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>900</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Contributors>
+				<UserId>662</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-22T14:36:16.460</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are the bottles empty or filled up then? I can't really understand the question completely since English is not my mother tongue. My sincerest apologies!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>901</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Contributors>
+				<UserId>793</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-22T14:46:48.263</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The bottles are full. I am worried about their contents.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>903</PostId>
+			<ParentPostId>750</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-24T13:00:42.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Radical temperature changes (if the beers get direct sunlight) are not ideal for the longevity of beer (or wine). This is why you traditionally hear of wine/beer-cellars. @Krugmeister65 is spot on, though.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

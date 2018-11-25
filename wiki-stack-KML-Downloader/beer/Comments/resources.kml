@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>615</PostId>
+			<ParentPostId>557</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-06T15:05:41.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Possibly too broad. There are many acceptable answers to this question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>617</PostId>
+			<ParentPostId>557</ParentPostId>
+			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-06T16:16:29.637</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Aside from being too broad, the answers would be primarily opinion based and the purpose of this site is to become an online source of high repute for beer. I suggest that when you come across an article, asking questions about it here.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>618</PostId>
+			<ParentPostId>182</ParentPostId>
+			<Contributors>
+				<UserId>23</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-06T16:43:38.143</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah  yes, I missed the date of your original answer - sorry about that.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

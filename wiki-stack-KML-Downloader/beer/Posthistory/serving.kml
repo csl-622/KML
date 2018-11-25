@@ -1,0 +1,2740 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>11</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:31:44.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In general, what's the best way to work out the temperature at which to serve a beer? Room temperature? Cold? Supercold? *Warm?*
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>12</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:31:44.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What temperature should I serve my beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>13</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:31:44.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>149</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:29.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				clarified per comments
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In general, what's the best way to work out the temperature at which to serve a particular beer? Room temperature? Cold? Supercold? *Warm?*
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>150</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:29.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 43 approved by 2 edit id of 6
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>190</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:33:38.903</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What do I need to be paying attention to when I pour beer and how do I tell if I got it right?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>191</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:33:38.903</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the characteristics of a good pour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>192</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:33:38.903</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Body" >
+			<PostId>242</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:02:12.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<EditDetails>
+				changed to be specific to stouts
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What do I need to be paying attention to when I pour a stout and how do I tell if I got it right? Usually this applies to either "regular" stouts or chocolate stouts.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Title" >
+			<PostId>243</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:02:12.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<EditDetails>
+				changed to be specific to stouts
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do I tell if I poured a stout correctly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Tags" >
+			<PostId>244</PostId>
+			<ParentPostId>76</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:02:12.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<EditDetails>
+				changed to be specific to stouts
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					stout, serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>304</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:57:28.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>84</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some beers have taste different on Nitro vs CO2. I'm sure there is science behind this. Why choose one over the other?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>305</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:57:28.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>84</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why would one choose to use Nitro vs CO2 as a beer gas?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>306</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:57:28.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>84</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>359</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:29:27.987</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<EditDetails>
+				from http://beer.stackexchange.com/questions/118/why-does-a-nitro-beer-taste-different
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Post Closed" >
+			<PostId>361</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:30:55.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":90,"DisplayName":"Jeffrey Lin"},{"Id":56,"DisplayName":"Steve D"},{"Id":60,"DisplayName":"Robert Cartaino"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Post Reopened" >
+			<PostId>362</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:30:58.473</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":60,"DisplayName":"Robert Cartaino"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Post Closed" >
+			<PostId>507</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:36:26.407</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":12,"DisplayName":"Niek"},{"Id":19,"DisplayName":"Steve Robbins"},{"Id":39,"DisplayName":"wax eagle"},{"Id":138,"DisplayName":"Lucas Kauffman"},{"Id":10,"DisplayName":"Christian Gärtner"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Body" >
+			<PostId>602</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:31:58.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was to a picnic, where someone brought us a keg of beer. They left the keg, the tap, bid us to have fun and left. And there we stood baffled how to get this to work, someone figured *something* out and we got our cups full of beer froth with a tiny bit of beer on the bottom.
+
+					I wouldn't want such a situation to repeat, so could someone give me a brief guide of how to assemble a beer stand (keg+tap) without getting it to explode into my face, get a proper stream going (instead of just a lot of froth) and pour it properly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Title" >
+			<PostId>603</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:31:58.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Crash course to serving keg beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Tags" >
+			<PostId>604</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:31:58.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Body" >
+			<PostId>605</PostId>
+			<ParentPostId>234</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:32:04.380</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently I've started seeing references to the term 'Cicerone' pop up around the internet; generally, they are described as a 'Beer Sommelier' and the subject is left at that.
+
+					I'd like to understand the role a little bit better. What exactly does a cicerone **do**? If I encounter one in a restaurant, what sort of knowledge can I expect her to have? Is there a certification or credential of some sort that they're expected to receive? What sort of training is required?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Title" >
+			<PostId>606</PostId>
+			<ParentPostId>234</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:32:04.380</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What exactly is a Cicerone? What do they do?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Tags" >
+			<PostId>607</PostId>
+			<ParentPostId>234</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:32:04.380</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, cicerone, restaurants, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>663</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:26:49.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've always been a fan of "the colder the better".  I enjoy using a glass that has been placed in the freezer.  
+
+					Obviously, in this scenario, there's frozen condensation on it, but is this enough to dilute the beer such that I'm destroying the flavor by doing so?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>664</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:26:49.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does a frosted glass cause any significant dilution of the beer it holds?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>665</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:26:49.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>672</PostId>
+			<ParentPostId>257</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:42.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know that there may be some debate raging over this today, depending on what side of the Atlantic one is on, but there seems to be a clear point in history when beer went from being enjoyed warm to warm beer being undesirable. 
+
+					I'm assuming some of this had to do with the advent of refrigeration, but in what era in America was the serving temperature more likely to be cold than warm?  Has a similar trend occurred in Europe and other parts of the world?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>673</PostId>
+			<ParentPostId>257</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:42.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When in the history of serving beer did it transition from a warm beverage to a cold one?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>674</PostId>
+			<ParentPostId>257</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:42.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, temperature, history, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>932</PostId>
+			<ParentPostId>361</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T18:25:04.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the point of the lid on the beer stein? 
+
+					![beer stein][1]
+
+
+
+					  [1]: http://i.stack.imgur.com/yy4mu.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>933</PostId>
+			<ParentPostId>361</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T18:25:04.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do steins have lids?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>934</PostId>
+			<ParentPostId>361</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T18:25:04.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Body" >
+			<PostId>1014</PostId>
+			<ParentPostId>399</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T06:54:31.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Cask ales seem popular outside of the US (especially in the UK).  What distinguishes that style of beer from  beer out of a normal keg?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Title" >
+			<PostId>1015</PostId>
+			<ParentPostId>399</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T06:54:31.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between a cask beer and a kegged beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Tags" >
+			<PostId>1016</PostId>
+			<ParentPostId>399</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T06:54:31.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Body" >
+			<PostId>1205</PostId>
+			<ParentPostId>480</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T23:14:27.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I bought a 6 pack of Shock Top last night and is suggests on the package to make a drink they are calling a "Choc-Top." The pack comes with 3 Belgian Wheat normal Shock Tops and 3 Chocolate Wheat beers.
+
+					I've looked around online and seen a bunch of pictures of nicely layered beverages. How do I acheive this layering when pouring my beer into a glass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Title" >
+			<PostId>1206</PostId>
+			<ParentPostId>480</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T23:14:27.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I get good layer seperation for a Shock Top Choc-top?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Tags" >
+			<PostId>1207</PostId>
+			<ParentPostId>480</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T23:14:27.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Body" >
+			<PostId>1218</PostId>
+			<ParentPostId>485</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T09:08:20.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've seen people complain when served a beer without foam. Equally, getting a glass full of foam is no use.
+
+					When serving a beer, how much is the right amount of foam and why is this important?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Title" >
+			<PostId>1219</PostId>
+			<ParentPostId>485</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T09:08:20.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is it important to have foam on a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Tags" >
+			<PostId>1220</PostId>
+			<ParentPostId>485</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T09:08:20.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, foam, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Unknown" >
+			<PostId>1223</PostId>
+			<ParentPostId>485</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T13:25:15.233</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429606371013976064
+			</EditDetails>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Unknown" >
+			<PostId>1266</PostId>
+			<ParentPostId>480</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T01:25:09.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430149929420750848
+			</EditDetails>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Body" >
+			<PostId>1308</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T14:18:43.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>368</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I saw a comment asking this question [here][1], and became curious. In the context of a tasting panel or competition, what is the appropriate serving size?
+
+
+					  [1]: http://beer.stackexchange.com/questions/153/if-you-are-having-a-beer-tasting-what-is-a-good-way-to-clear-the-palate?rq=1
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Title" >
+			<PostId>1309</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T14:18:43.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>368</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the best serving size for a beer tasting
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Tags" >
+			<PostId>1310</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T14:18:43.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>368</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, taste, competition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Unknown" >
+			<PostId>1354</PostId>
+			<ParentPostId>361</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T01:30:12.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430875974566424576
+			</EditDetails>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Body" >
+			<PostId>1412</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:34:37.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If you could go back in time and tell yourself to read a specific book about beer, which book would it be?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Title" >
+			<PostId>1413</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:34:37.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the single most influential book every beer enthusiast should read?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Tags" >
+			<PostId>1414</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:34:37.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, taste, storage, serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Post Closed" >
+			<PostId>1423</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T05:55:19.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>13</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":27,"DisplayName":"object88"},{"Id":80,"DisplayName":"Fishtoaster"},{"Id":13,"DisplayName":"Shog9"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Unknown" >
+			<PostId>1478</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T13:36:13.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432145845757427712
+			</EditDetails>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Unknown" >
+			<PostId>1482</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T19:36:13.007</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432236442270830592
+			</EditDetails>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Unknown" >
+			<PostId>1496</PostId>
+			<ParentPostId>399</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T01:36:42.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432689550184706049
+			</EditDetails>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Post Reopened" >
+			<PostId>1499</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T01:57:04.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":215,"DisplayName":"Hugo Dozois"},{"Id":27,"DisplayName":"object88"},{"Id":73,"DisplayName":"acheong87"},{"Id":130,"DisplayName":"SF."},{"Id":170,"DisplayName":"James Henstridge"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Unknown" >
+			<PostId>1507</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T10:36:42.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432825445684617216
+			</EditDetails>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Unknown" >
+			<PostId>1639</PostId>
+			<ParentPostId>257</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-17T10:38:02.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435362498519506944
+			</EditDetails>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Unknown" >
+			<PostId>1780</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-05T22:45:41.420</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/441343821725831168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Body" >
+			<PostId>1795</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. Unfortunately, the first two bottles I've opened now seem to have both been *severely* overcarbonated.
+
+					We're talking foam overflowing out of the bottle once I open it. These bottles have *not* been exposed to significant agitation recently. They've been sitting on a shelf, upright as is proper, for days. Worse still, they don't just explode and make a mess, but they also simply *taste* severely overcarbonated. It's like drinking shaken seltzer water mixed with my beer, and it's decidedly unpleasant. At this point, the only thing I've been able to do is pour a glass, leave it out for an hour or three, and *then* drink it.
+
+					Which is... impractical at best, and is only going to become less so as the weather warms up. Is there anything else I can do to mitigate this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Title" >
+			<PostId>1796</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there anything I can do short of leaving a glass out on the counter to mitigate overcarbonation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Initial Tags" >
+			<PostId>1797</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, freshness, bottles, carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Unknown" >
+			<PostId>1807</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-09T22:46:32.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/442793585474551809
+			</EditDetails>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Body" >
+			<PostId>2071</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T04:11:46.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have some homebrew that is really over-carbonated (before i learned about [priming sugar calculators][1]). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.
+
+					Is there something i can do when pouring it to *reduce* the head? I know some amount of head is desirable, but this is over the top (literally). 
+
+					  [1]: https://www.google.com/search?q=priming%20sugar%20calculators
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Title" >
+			<PostId>2072</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T04:11:46.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Decreasing foam in over-carbonated beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Tags" >
+			<PostId>2073</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T04:11:46.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, carbonation, foam, head, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Edit Body" >
+			<PostId>2089</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-24T13:16:50.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>401</UserId>
+			</Contributors>
+			<EditDetails>
+				added 101 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have some homebrew that is really over-carbonated (before i learned about [priming sugar calculators][1]). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.
+
+					Is there something i can do when pouring it to *reduce* the head? I know some amount of head is desirable, but this is over the top (literally). 
+
+					[Edit] I get this much foam despite pouring very slowly and carefully down the side of the glass.
+
+					  [1]: https://www.google.com/search?q=priming%20sugar%20calculators
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Unknown" >
+			<PostId>2090</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-25T00:37:46.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/459491424246194178
+			</EditDetails>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Post Closed" >
+			<PostId>2099</PostId>
+			<ParentPostId>745</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-26T04:45:23.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[654],"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Body" >
+			<PostId>3376</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-14T22:56:20.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1000</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently moved to Germany and took Rothaus Pils here at the party. I opened the cap after tearing the crown/neck paper (Gold colored paper as shown below) partially.
+
+					Reference Image :![enter image description here][1]
+
+					I was told that Germans really don't like to keep that crown/neck paper. I wanted to ask for reason, but felt it is too rude. Is there any specific reason behind removing the crown paper
+
+
+					  [1]: http://i.stack.imgur.com/bWfDO.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Title" >
+			<PostId>3377</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-14T22:56:20.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1000</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Removing the Crown / Neck paper
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Tags" >
+			<PostId>3378</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-14T22:56:20.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1000</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Unknown" >
+			<PostId>3383</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-17T16:37:14.367</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/478939435287863296
+			</EditDetails>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Body" >
+			<PostId>3642</PostId>
+			<ParentPostId>992</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-18T13:51:37.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1226</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					We are used to seeing bubbles float up in a glass of beer, but bubbles in Guinness appear to break the rules.
+
+					Do the bubbles really sink in Guinness, or is it just an illusion? 
+
+					If the bubbles go down, where do they go?  Why do they all end up at the head?
+
+					Links:
+
+					 - [Scientists confirm phenomenon of falling beer bubbles][1]
+					 - [Zare explains the mystery of descending beer bubbles][2]
+					 - [Do bubbles in Guinness go down?][3] at Stanford University
+
+
+					  [1]: http://news.stanford.edu/pr/2004/bubbles317.html
+					  [2]: http://news.stanford.edu/news/2004/march17/beer-video-317.html
+					  [3]: http://web.stanford.edu/group/Zarelab/guinness/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Title" >
+			<PostId>3643</PostId>
+			<ParentPostId>992</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-18T13:51:37.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1226</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do bubbles in Guinness go down?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Tags" >
+			<PostId>3644</PostId>
+			<ParentPostId>992</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-18T13:51:37.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1226</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Unknown" >
+			<PostId>3671</PostId>
+			<ParentPostId>992</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-28T20:13:34.370</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/505085803677372416
+			</EditDetails>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Initial Body" >
+			<PostId>3710</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-18T11:42:48.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1317</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I understand openings of a glass allow for aroma to add to the taste. However I recently had Kwak in its recommended glass, which is similar to a test tube. I have seen a number of other unique glasses. 
+					Are these really only for asthetics or are these meant to add to the flavour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Initial Title" >
+			<PostId>3711</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-18T11:42:48.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1317</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Unusal recepticles
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Tags" >
+			<PostId>3712</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-18T11:42:48.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1317</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, flavor, glassware, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Unknown" >
+			<PostId>3718</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-22T21:59:19.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/514172112815554560
+			</EditDetails>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Post Closed" >
+			<PostId>3719</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T08:46:52.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[22,788],"Voters":[{"Id":37,"DisplayName":"Xander"},{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Post Reopened" >
+			<PostId>3720</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T08:48:16.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Body" >
+			<PostId>6510</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I had acquired a couple of Samuel Adams "one-off" beers, specifically "The Vixen (stout)", "Merry Mischief (gingerbread stout)", "Griffin's Bow (barley wine)" and "Norse Legend (Sahti)". These bottles are either first, second or third batch, according to the label mind you. I had these beers for 2 years in a cellar, almost no light touches them and at room temperature.
+
+					I know that most of this types of beer gets better with time, except for the Sahti, hadn't explored much of that type, but I would like to know if it's safe for the beers to be kept and for how long, and at a given time, what's the best way to drink them (chill them, room temperature, etc.). Thanks.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Title" >
+			<PostId>6511</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When and how to drink cellared beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Initial Tags" >
+			<PostId>6512</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, serving, temperature, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Unknown" >
+			<PostId>6598</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-06T02:54:09.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/607017605057159168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Edit Tags" >
+			<PostId>6615</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-11T13:19:47.000</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, serving, keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Initial Body" >
+			<PostId>6845</PostId>
+			<ParentPostId>3507</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-31T20:12:21.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4374</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I’ve recently received a bottle of gira (i.e. kvass from Lithuania).
+
+					With it came a beer mug, so I guess the issue of the glassware is settled. At what temperature should I drink it? If I understand correctly (which I probably don’t, given that everything is written in Lithuanian), the kvass is unfiltered. Should I pour carefully to avoid mixing too much yeast in the glass or, on the contrary, should I ensure that some yeast do go into the glass? Or is it purely a matter of taste?
+
+					Finally, at which temperature should it be served?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Initial Title" >
+			<PostId>6846</PostId>
+			<ParentPostId>3507</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-31T20:12:21.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4374</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to drink kvass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Initial Tags" >
+			<PostId>6847</PostId>
+			<ParentPostId>3507</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-31T20:12:21.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4374</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, temperature, glassware, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Initial Body" >
+			<PostId>8191</PostId>
+			<ParentPostId>4654</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-24T17:14:12.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have an old bottle of Sahti, Samuel Adams, probably 3 years old, it's been kept properly, I noticed that it has a lot of sediment, don't know if it's normal or not, but regardless I want to try it. Is there a safe way to decant the beer, so the sediment or floaties don't make their way to the glass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Initial Title" >
+			<PostId>8192</PostId>
+			<ParentPostId>4654</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-24T17:14:12.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to decant beer from bottle
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Initial Tags" >
+			<PostId>8193</PostId>
+			<ParentPostId>4654</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-24T17:14:12.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Unknown" >
+			<PostId>8214</PostId>
+			<ParentPostId>4654</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-30T01:02:52.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/659898228675080192
+			</EditDetails>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Edit Tags" >
+			<PostId>8252</PostId>
+			<ParentPostId>480</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-06T18:51:25.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Add tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					serving, beer-cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Initial Body" >
+			<PostId>8323</PostId>
+			<ParentPostId>4706</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-30T23:58:22.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4785</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have a mini fridge and looking to convert it into a kegerator with a tower tap on top. I've researched a few kegerator conversion kits and see economy, standard, deluxe, etc, kits available. 
+
+					I'm not looking for a super fancy setup but a solid kegerator that will look good in my garage. Any recommendations for what conversion kit or how to best practices to convert a mini fridge to a kegerator? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Initial Title" >
+			<PostId>8324</PostId>
+			<ParentPostId>4706</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-30T23:58:22.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4785</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recommendations for Kegerator conversion kit?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Initial Tags" >
+			<PostId>8325</PostId>
+			<ParentPostId>4706</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-30T23:58:22.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4785</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Post Closed" >
+			<PostId>8328</PostId>
+			<ParentPostId>4706</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-01T04:49:57.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Edit Body" >
+			<PostId>8452</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T00:05:42.467</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<EditDetails>
+				language fixes
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I was at a picnic where someone brought us a keg of beer. They left the keg, the tap, and bid us to have fun and left. And there we stood, baffled how to get this to work. Someone figured *something* out and we got our cups full of beer froth with a tiny bit of beer on the bottom.
+
+					I wouldn't want such a situation to repeat, so could someone give me a brief guide of how to assemble a beer stand (keg+tap) without getting it to explode into my face, get a proper stream going (instead of just a lot of froth), and pour it properly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Unknown" >
+			<PostId>8453</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T00:05:42.467</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 1077 approved by 130 edit id of 150
+			</EditDetails>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Initial Body" >
+			<PostId>8471</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T16:40:35.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have recently begun to learn beer and I noticed that for a while now, that I have always been served similar type of beer on different different beer glasses which is confusing. It could be human error, but it has me wondering what beer glass should I really be sipping from?
+
+					So I decided to get some beer glasses, but what do I find? A plethora of beer all kinds of beer glasses, where not one glass is like the next. It feels very opinionated and I need to know how to choose.
+
+					Could anyone please instruct me on the general type of beers and how they pair with beer glasses, as well as why x glass goes with y beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Initial Title" >
+			<PostId>8472</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T16:40:35.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to pair a beer with a glass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Initial Tags" >
+			<PostId>8473</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T16:40:35.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, glassware, pairing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Edit Tags" >
+			<PostId>8474</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T16:46:16.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, style, serving, glassware, pairing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Edit Body" >
+			<PostId>8475</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T23:33:58.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<EditDetails>
+				added 113 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have recently begun to learn somethings about beer and I suddenly noticed that, for a while now, I have always been served similar types of beer on different looking beer glasses... which is confusing me. It could be human error, but it's got me wondering what beer glasses should I really be sipping from?
+
+					So I decided to get some beer glasses, and what do I find? A plethora of beer glasses, all kinds and funky shapes, where not one glass is like the next. It makes me feel like the beer glass industry is very opinionated, rather than factual, and I need to know how to choose correctly.
+
+					Could anyone please instruct me on the general type of beers and how they pair with beer glasses, as well as why x glass goes with y beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Unknown" >
+			<PostId>8476</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-06T04:02:34.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/684585825938599936
+			</EditDetails>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Post Closed" >
+			<PostId>8479</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-06T14:52:36.833</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[300],"Voters":[{"Id":4637,"DisplayName":"Rube"},{"Id":-1,"DisplayName":"Community","BindingReason":{"DuplicateApprovedByAsker":""}}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Question Protected" >
+			<PostId>9048</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-21T20:39:59.913</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Initial Body" >
+			<PostId>9171</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-19T08:38:33.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When ever i'm out in a bar I always see bottles of ale or ale on a pump but i have never seen a bar that serves ale from a regular tap why is this ?
+
+					Why serve Ale from a [Pull Pump][1]
+
+					Instead of a [Beer Tap][2]
+
+					Is there a reason for this?
+
+
+					  [1]: http://i.stack.imgur.com/OuG09.jpg
+					  [2]: http://i.stack.imgur.com/t73S8.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Initial Title" >
+			<PostId>9172</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-19T08:38:33.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Tap it or Pump it
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Initial Tags" >
+			<PostId>9173</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-19T08:38:33.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Edit Body" >
+			<PostId>9177</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T06:56:59.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Whenever I'm out in a bar I always see bottles of ale or ale on a pump but I have never seen a bar that serves ale from a regular tap why is this ?
+
+					Why serve ale from a [Pull Pump,][1] instead of a [Beer Tap?][2]
+
+					Is there a reason for this?
+
+
+					  [1]: http://i.stack.imgur.com/OuG09.jpg
+					  [2]: http://i.stack.imgur.com/t73S8.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Edit Title" >
+			<PostId>9178</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T06:56:59.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Tap it or Pump it!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Unknown" >
+			<PostId>9179</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T06:56:59.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5078 edit id of 178
+			</EditDetails>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Edit Tags" >
+			<PostId>9180</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T08:00:04.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					serving, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "118" InstanceType= "Unknown" >
+			<PostId>9181</PostId>
+			<ParentPostId>5013</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-20T22:36:03.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/733788402756292608
+			</EditDetails>
+		</Instance>
+		<Instance Id= "119" InstanceType= "Initial Body" >
+			<PostId>9241</PostId>
+			<ParentPostId>5031</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-26T08:01:01.330</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently purchased a new pewter Tankard it has a glass bottom and a silver shilling encased between the two bits of glass 
+
+					After a little bit of research I found that this was a way recruiters would trick people into joining the Army or Navy but there is also a lot of places that say this is just a legend
+
+					Does anybody know the true origins of the shilling in the bottom of the tankard and is that why they started to produce tankards with glass bottoms so people could see if they did have a shilling in them?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "120" InstanceType= "Initial Title" >
+			<PostId>9242</PostId>
+			<ParentPostId>5031</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-26T08:01:01.330</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The Kings Shilling
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "121" InstanceType= "Initial Tags" >
+			<PostId>9243</PostId>
+			<ParentPostId>5031</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-26T08:01:01.330</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "122" InstanceType= "Edit Body" >
+			<PostId>9244</PostId>
+			<ParentPostId>5031</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-26T09:25:56.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				added 8 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently purchased a new pewter Tankard it has a glass bottom and a silver shilling encased between the two bits of glass 
+
+					After a little bit of research I found that this was a way recruiters would trick people into joining the British Army or Navy but there is also a lot of places that say this is just a legend
+
+					Does anybody know the true origins of the shilling in the bottom of the tankard and is that why they started to produce tankards with glass bottoms so people could see if they did have a shilling in them?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "123" InstanceType= "Edit Body" >
+			<PostId>9251</PostId>
+			<ParentPostId>5031</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T06:59:25.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected grammar and added three words to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently purchased a new pewter Tankard with a glass bottom and a silver shilling encased between the two bits of glass. 
+
+					After a little bit of research, I discovered that this was one of the ways recruiters would trick people into joining the British Army or Navy, but there is also a lot of places that say this is just a legend!
+
+					Does anybody know the true origins of the shilling in the bottom of the tankard and is that why they started to produce tankards with glass bottoms so people could see if they did have a shilling in them?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "124" InstanceType= "Edit Title" >
+			<PostId>9252</PostId>
+			<ParentPostId>5031</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T06:59:25.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected grammar and added three words to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					The King's Shilling
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "125" InstanceType= "Unknown" >
+			<PostId>9253</PostId>
+			<ParentPostId>5031</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T06:59:25.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5078 edit id of 188
+			</EditDetails>
+		</Instance>
+		<Instance Id= "126" InstanceType= "Initial Body" >
+			<PostId>9420</PostId>
+			<ParentPostId>5089</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:32:14.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					While out at my local I always like to try new beers, and as I was going through a few different beers and I noticed that almost all of them all had varying temperatures. Some where ice cold whilst some were warmer I understand that this is on purpose but I'm not sure why?
+
+					So why is it that some beers are served Cold and why are some served Warm?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "127" InstanceType= "Initial Title" >
+			<PostId>9421</PostId>
+			<ParentPostId>5089</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:32:14.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are some beers warm and some cold?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "128" InstanceType= "Initial Tags" >
+			<PostId>9422</PostId>
+			<ParentPostId>5089</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:32:14.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "129" InstanceType= "Unknown" >
+			<PostId>9639</PostId>
+			<ParentPostId>5089</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-21T04:34:04.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/745112525247680518
+			</EditDetails>
+		</Instance>
+		<Instance Id= "130" InstanceType= "Initial Body" >
+			<PostId>11658</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-30T19:23:24.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've been to several bars recently that feature a "What's on cask?" section of the beer menu. The menu does not, however, suggest why that particular beer is being held in a firkin and served via the hand-pulled tap. 
+
+					I do not mean this as a repeat of [this question][1]. I am interested in the reasons bars, specifically, might wish to have and serve from firkins, and not just the general difference in beer varieties.
+
+					I understand there is a historical nature to this, which might be amusing for some purposes. But I want to know if there are specific effects on the beer itself: storage timing, retention of flavor, temperature needs, pouring effect (slower, no CO2, whatever), and so on. 
+
+					If the bar offered the exact same beer, one in a cask and one on a regular tap, should there be noticeable differences in the resulting served beer? 
+
+
+					  [1]: http://alcohol.stackexchange.com/questions/399/whats-the-difference-between-a-cask-beer-and-a-kegged-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "131" InstanceType= "Initial Title" >
+			<PostId>11659</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-30T19:23:24.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is some beer kept in/served from a firkin in a bar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "132" InstanceType= "Initial Tags" >
+			<PostId>11660</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-30T19:23:24.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, serving, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "133" InstanceType= "Unknown" >
+			<PostId>12281</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-21T09:44:49.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/844122617279864832
+			</EditDetails>
+		</Instance>
+		<Instance Id= "134" InstanceType= "Initial Body" >
+			<PostId>12290</PostId>
+			<ParentPostId>6696</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-22T23:10:16.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I want organize a meeting around Italian wine but i have multiple question in my brain.
+
+					I read a lot of page in this big web for prepare wine.
+
+					My wine is not into a fridge. I know my red wine may be openned 1h before the degustation but i dont know if i need to kept the wine 1h hour on fridge before open. Because i saw after 1h the wine temperature was between 19 or 20 degree.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "135" InstanceType= "Initial Title" >
+			<PostId>12291</PostId>
+			<ParentPostId>6696</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-22T23:10:16.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Red wine service
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "136" InstanceType= "Initial Tags" >
+			<PostId>12292</PostId>
+			<ParentPostId>6696</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-22T23:10:16.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, serving, red-wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "137" InstanceType= "Edit Body" >
+			<PostId>12293</PostId>
+			<ParentPostId>6696</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-22T23:26:02.467</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I want organize a meeting around Italian wine but I have multiple question in my brain.
+
+					I read a lot of page in this big web for prepare wine.
+
+					My wine is not into a fridge. I know my red wine may be openned 1h before the degustation but I do not know if I need to kept the wine 1h hour in  the fridge before opening it. Because I saw after 1h the wine temperature was between 19°C or 20°C.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "138" InstanceType= "Unknown" >
+			<PostId>12300</PostId>
+			<ParentPostId>6696</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-25T19:18:09.407</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/845716450547523584
+			</EditDetails>
+		</Instance>
+		<Instance Id= "139" InstanceType= "Edit Body" >
+			<PostId>12500</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I saw a comment asking this question [here][1], and became curious. In the context of a tasting panel or competition, what is the appropriate serving size?
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/153/if-you-are-having-a-beer-tasting-what-is-a-good-way-to-clear-the-palate?rq=1
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "140" InstanceType= "Edit Body" >
+			<PostId>12554</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T13:00:11.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://alcohol.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've been to several bars recently that feature a "What's on cask?" section of the beer menu. The menu does not, however, suggest why that particular beer is being held in a firkin and served via the hand-pulled tap. 
+
+					I do not mean this as a repeat of [this question][1]. I am interested in the reasons bars, specifically, might wish to have and serve from firkins, and not just the general difference in beer varieties.
+
+					I understand there is a historical nature to this, which might be amusing for some purposes. But I want to know if there are specific effects on the beer itself: storage timing, retention of flavor, temperature needs, pouring effect (slower, no CO2, whatever), and so on. 
+
+					If the bar offered the exact same beer, one in a cask and one on a regular tap, should there be noticeable differences in the resulting served beer? 
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/399/whats-the-difference-between-a-cask-beer-and-a-kegged-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "141" InstanceType= "Initial Body" >
+			<PostId>12589</PostId>
+			<ParentPostId>6774</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-15T00:04:39.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Especially when it comes to serving beer, such as Guinness, it is debatable that the pour is the most important aspect. This is something I understand due to the layering and carbonation...
+
+					When is it important to pay attention to the pour for other alcoholic beverages?
+
+					For example, I dated a waitress that was adamant about the proper way to pour wine - thumb in the bottom, on the forearm with a napkin, presenting the label during the pour, finally properly spinning the bottle at the end of the pour... Is this all due to presentation or does it have anything to do with consumption, as well?
+
+					Considering cocktails, I do not mean shaken vs stirred...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "142" InstanceType= "Initial Title" >
+			<PostId>12590</PostId>
+			<ParentPostId>6774</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-15T00:04:39.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When does the pour matter?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "143" InstanceType= "Initial Tags" >
+			<PostId>12591</PostId>
+			<ParentPostId>6774</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-15T00:04:39.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, pouring, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "144" InstanceType= "Unknown" >
+			<PostId>12603</PostId>
+			<ParentPostId>6774</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-16T21:22:33.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/853720288894308353
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

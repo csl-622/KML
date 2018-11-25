@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>6611</PostId>
+			<AcceptedAnswerId>6612</AcceptedAnswerId>
+			<Title>
+			"Zabaione - with Marsala or Whiskey?"
+			</Title>
+			<Tags>
+				<tag>whiskey</tag>
+				<tag>cooking</tag>
+				<tag>substitutions</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>296</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-28T04:15:04.530</CreationDate>
+				<LastEditDate>2017-02-28T13:33:10.660</LastEditDate>
+				<LastActivityDate>2017-02-28T13:35:56.893</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;At times it can be difficult to procure what I always considered the correct ingredient for &lt;a href="https://en.wikipedia.org/wiki/Zabaione" rel="nofollow noreferrer"&gt;Zabaione&lt;/a&gt; - &lt;a href="https://en.wikipedia.org/wiki/Marsala_wine" rel="nofollow noreferrer"&gt;Marsala&lt;/a&gt;.  However, I have discovered that I can use other fortified wines or spirits.  Wikipedia suggests Cognac - which got me thinking about a good smooth whiskey - such as - &lt;a href="http://www.whiskysuggest.com/whisky/redbreast-12-year-old/" rel="nofollow noreferrer"&gt;Redbreast&lt;/a&gt;.  I don't know enough about whiskey to make the right choice here - would a cheap brand do just as well?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>6996</PostId>
+			<AcceptedAnswerId>6997</AcceptedAnswerId>
+			<Title>
+			"Ordering a Drink in Non-Traditional Glassware"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>terminology</tag>
+				<tag>substitutions</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>107</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-27T20:23:34.080</CreationDate>
+				<LastEditDate>2017-08-28T11:47:44.763</LastEditDate>
+				<LastActivityDate>2017-08-28T13:56:41.340</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7053</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I find drinks that are traditionally served in stemmed glasses are difficult to carry (I'm a wheelchair user). What terminology would I use if I wanted to order a drink like a martini or Manhattan served in a rocks glass (but without the ice)? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>7232</PostId>
+			<AcceptedAnswerId>7235</AcceptedAnswerId>
+			<Title>
+			"Non-alcoholic substitutes for wine"
+			</Title>
+			<Tags>
+				<tag>recommendations</tag>
+				<tag>non-alcoholic</tag>
+				<tag>substitutions</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>95</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-04-07T20:59:52.860</CreationDate>
+				<LastEditDate>2018-04-09T12:59:57.397</LastEditDate>
+				<LastActivityDate>2018-04-10T01:27:48.837</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7707</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I like the taste of wine and the sensation the alcohol creates in the mouth, but I have no interest in the mental effects or the cancer risk. (I've never drunk enough at one time to become even so much as buzzed, so the "warm feeling" people describe is just academic for me.) My question is what non-alcoholic drinks, if any, come close to simulating wine as far as just the taste and the burn in the mouth? Is there anything better than sparkling juice?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

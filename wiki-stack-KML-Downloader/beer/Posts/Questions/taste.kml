@@ -1,0 +1,3020 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>22</PostId>
+			<AcceptedAnswerId>26</AcceptedAnswerId>
+			<Title>
+			"Do different beer glass shapes really make a difference in taste?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>taste</tag>
+				<tag>aroma</tag>
+			</Tags>
+			<Credit> 
+				<Score>65</Score>
+				<ViewCount>4610</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:50:01.620</CreationDate>
+				<LastActivityDate>2018-06-06T08:48:59.710</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>29</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I understand the basic distinction for wine glasses: red wine glasses are shaped to help keep some of the aroma inside the glass, whereas whites don't. But shapes for beer glasses, such as pilsner vs a standard pint glass, just seem to be an aesthetic difference. Yet I've had people insist that glasses make a big difference for things like Belgian beer. &lt;/p&gt;
+
+					&lt;p&gt;Is there a sound reason to use the "right" glass for each kind of beer? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>57</PostId>
+			<AcceptedAnswerId>72</AcceptedAnswerId>
+			<Title>
+			"How much of an impact does the water have on a beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>water</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>1613</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:17:49.747</CreationDate>
+				<LastEditDate>2014-02-22T10:01:19.697</LastEditDate>
+				<LastActivityDate>2014-03-14T01:20:09.540</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>52</OwnerUserId>
+				<LastEditorUserId>52</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;How much of an impact does the water (minerals/quality/distilled) have on a beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>58</PostId>
+			<Title>
+			"Impact of bottling in plastic on beer taste"
+			</Title>
+			<Tags>
+				<tag>bottling</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>134</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:17:52.263</CreationDate>
+				<LastEditDate>2018-04-20T15:03:58.590</LastEditDate>
+				<LastActivityDate>2018-04-20T15:03:58.590</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+				<LastEditorUserId>187</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer is commonly bottled in plastic bottles in Germany. Does drinking beer from plastic have some negative impact on beer taste? &lt;/p&gt;
+
+					&lt;p&gt;Or are the materials from which the bottles are made chosen so that they don't interact chemically with beer, or in any way change the taste?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>73</PostId>
+			<Title>
+			"How long does it take before the taste 'flies away'"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>82</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:32:12.413</CreationDate>
+				<LastEditDate>2014-01-21T21:34:15.437</LastEditDate>
+				<LastActivityDate>2014-01-21T22:37:55.943</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+				<LastEditorUserId>7</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It is said that the taste 'flies away' from an opened beer, and if the bottle is left open too long, it doesn't taste good next day.&lt;/p&gt;
+
+					&lt;p&gt;Has it actually been measured how long it takes before the taste 'flies away'?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>105</PostId>
+			<AcceptedAnswerId>128</AcceptedAnswerId>
+			<Title>
+			"How does serving temperature affect the taste of beers?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>961</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:26:32.303</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2014-01-22T01:23:17.063</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;For example, from the label of Uinta's Crooked Line Labyrinth Black Ale:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Flavors are enhanced when served cool, not frigid.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;How does serving temperature affect the taste of beers? By &lt;em&gt;"How?"&lt;/em&gt; I'm asking more about its effects on flavor, &lt;em&gt;e.g.&lt;/em&gt; hoppiness, crispness, the aftertaste, etc. more so than the chemical process.&lt;sup&gt;*&lt;/sup&gt; That is, what flavors become pronounced or dulled with the changing of temperature?&lt;/p&gt;
+
+					&lt;p&gt;There's a question, &lt;a href="https://alcohol.stackexchange.com/questions/5/what-temperature-should-i-serve-my-beer"&gt;What temperature should I serve my beer?&lt;/a&gt;, where an answerer states, for example, that letting darker beers warm up brings out new flavors—but what flavors? It doesn't seem to be the case that cooling kills all desirable flavors in general—for example for pilsners, lagers, and hefeweizens, "letting them get warm changes their flavor profile for the worse" (from the same answer).&lt;/p&gt;
+
+					&lt;p&gt;&lt;sup&gt;* Knowing the chemical process, &lt;em&gt;e.g.&lt;/em&gt; how certain elements or ingredients react or suspend differently according to temperature, would be very interesting indeed, but it seems difficult to find solid literature / knowledge on the subject.&lt;/sup&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>109</PostId>
+			<Title>
+			"The effect of freezing on beer taste"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>575</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:30:47.123</CreationDate>
+				<LastActivityDate>2014-02-01T22:32:24.890</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer (with the exception of mulled beer) tastes best when cooled. But sometimes there can be too much cooling, for example when you take beer with you on hiking to enjoy the taste at the camping. The beer can freeze (the glass bottle would explode, but the plastic ones are more resistant).&lt;/p&gt;
+
+					&lt;p&gt;How such freezing and melting impact the beer taste?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>122</PostId>
+			<Title>
+			"How long does it take for beer to become untasty?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>124</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:57:01.900</CreationDate>
+				<LastEditDate>2014-01-21T23:09:52.150</LastEditDate>
+				<LastActivityDate>2014-01-21T23:09:52.150</LastActivityDate>
+				<ClosedDate>2014-01-21T23:21:42.593</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>81</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I cannot drink beer fast. So when I opened a bottle or can or poured my beer into a glass, it starts to became warm and untasty with time. When I am out, or in a bar, I cannot really keep it cold.&lt;/p&gt;
+
+					&lt;p&gt;At room temperature, how long can I drink my beer before it starts to get warmer and the taste begins to change when it comes directly from fridge or a cooler?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>123</PostId>
+			<Title>
+			"Why would one choose to use Nitro vs CO2 as a beer gas?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>17206</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:57:28.603</CreationDate>
+				<LastEditDate>2015-06-11T13:19:47.000</LastEditDate>
+				<LastActivityDate>2016-04-20T11:52:21.797</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>84</OwnerUserId>
+				<LastEditorUserId>268</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some beers have taste different on Nitro vs CO2. I'm sure there is science behind this. Why choose one over the other?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>153</PostId>
+			<AcceptedAnswerId>166</AcceptedAnswerId>
+			<Title>
+			"If you are having a beer tasting, what is a good way to clear the palate?"
+			</Title>
+			<Tags>
+				<tag>aroma</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>1134</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T04:52:15.650</CreationDate>
+				<LastActivityDate>2014-01-22T07:03:32.067</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>116</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When you are having a wine tasting event, it's customary to clear the palate with water and possibly plain crackers or baguettes.&lt;/p&gt;
+
+					&lt;p&gt;Is it the same concept for a beer tasting where you are serving several types of brews, or is there a different preferred method for ensuring that the last taste doesn't influence the current one?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>173</PostId>
+			<AcceptedAnswerId>174</AcceptedAnswerId>
+			<Title>
+			"What is "gruit?" Why aren't there many beers on the market containing it?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>history</tag>
+				<tag>specialty-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>209</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T09:30:18.010</CreationDate>
+				<LastEditDate>2014-01-22T09:37:02.717</LastEditDate>
+				<LastActivityDate>2014-01-22T11:08:26.657</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>117</OwnerUserId>
+				<LastEditorUserId>117</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have heard of something called 'gruit' which seems to sometimes be used in brewing beer.  What is it?&lt;/p&gt;
+
+					&lt;p&gt;Why are there very few beers on the market containing gruit?  What are some of the more popular ones currently?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>185</PostId>
+			<Title>
+			"What are the major beer competitions and how do you enter?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>41</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T13:23:22.357</CreationDate>
+				<LastActivityDate>2014-01-22T13:23:22.357</LastActivityDate>
+				<ClosedDate>2014-01-22T21:21:52.780</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>116</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In the advertising, you see certain beers saying that they have been awarded gold medals at various competitions, or other accolades earned.&lt;/p&gt;
+
+					&lt;p&gt;Is there a list of what are considered to be the major beer competitions, and how would you go about entering? Is that even possible for a craft brewer, or would you need to be a major manufacturer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>198</PostId>
+			<AcceptedAnswerId>199</AcceptedAnswerId>
+			<Title>
+			"What steps in the brewing process affect alcohol levels?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>306</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T14:16:16.853</CreationDate>
+				<LastActivityDate>2014-01-22T14:21:21.743</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>143</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why do some beers have high alcohol levels and some have low ones? Is the alcohol content something that can be changed for any specific brew, and the brewer sets it at a specific level on purpose? Or is the alcohol level something that is achieved in combination with other factors in the brewing process (so for example, a particular taste will always coincide with a specific alcohol level)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>245</PostId>
+			<AcceptedAnswerId>248</AcceptedAnswerId>
+			<Title>
+			"What are the effects of draught beer pushing medium on beer's taste and quality?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>gas</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>81</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T02:44:18.310</CreationDate>
+				<LastActivityDate>2014-01-23T05:24:08.137</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;For pushing of beer out of a keg to the line and faucet various media could be used. Usually they are gases which come into a direct contact with the beer like: carbon dioxide, nitrogen, carbon dioxide + nitrogen, air etc.&lt;/p&gt;
+
+					&lt;p&gt;The beer could be also contained in a polypropylene sack to not come into contact with the pushing gas for example to avoid oxidization caused by the oxygen from air.&lt;/p&gt;
+
+					&lt;p&gt;What are the effects of various pushing media on the taste, durability and quality of the beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>246</PostId>
+			<Title>
+			"Is there any way that I can discern the IBU of a beer if the bewer doesn't provide that information?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>ibu</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>112</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T02:52:10.307</CreationDate>
+				<LastActivityDate>2014-01-23T07:22:30.863</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some brewers are awesome and kind enough to place information like the ABV, IBU, and even SRM right on the label of any beer they distribute. This is rad, because (in theory), it means I know exactly what I'm getting myself into, and how to expect a given beer should taste.&lt;/p&gt;
+
+					&lt;p&gt;However, I find that - especially with IBU, this information often &lt;em&gt;isn't&lt;/em&gt; available -  even though it is among the most reliable predictors of the overall flavor profile of a beer that I've never drank. As a consumer, it's a really helpful way to try to sort through different beers. I've been trying to educate my palate by paying attention to things like how different beers are rated along this scale, in order to better adjust my expectations, but unfortunately, without good information, this is hard to do.&lt;/p&gt;
+
+					&lt;p&gt;Is there any way that I can figure out how the beer I'm drinking rates on that scale without complicated equipment? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>269</PostId>
+			<AcceptedAnswerId>271</AcceptedAnswerId>
+			<Title>
+			"What do they judge on at beer competitions?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>competition</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>118</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T17:21:16.297</CreationDate>
+				<LastEditDate>2014-01-24T04:01:59.643</LastEditDate>
+				<LastActivityDate>2014-01-25T08:00:05.547</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>116</OwnerUserId>
+				<LastEditorUserId>116</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When you see advertising for beer, some of them advertise awards that they have won at various beer festivals and/or competitions.&lt;/p&gt;
+
+					&lt;p&gt;What are the judging standards at these competitions, and what are the most prestigious competitions?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>277</PostId>
+			<AcceptedAnswerId>287</AcceptedAnswerId>
+			<Title>
+			"Is there a widely agreed upon beer ranking or competition?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>63</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T21:26:09.000</CreationDate>
+				<LastActivityDate>2014-01-23T23:56:28.700</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>32</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there one beer competition (or ranking) that is widely recognized as the "Superbowl" of beer competitions?  In that being the winner or rankings to come out of that competition are the standard to measure beers against.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>329</PostId>
+			<AcceptedAnswerId>331</AcceptedAnswerId>
+			<Title>
+			"What's a good way to train your palate?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>169</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-25T21:01:31.223</CreationDate>
+				<LastActivityDate>2014-01-26T22:10:32.920</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Everyone knows how to drink beer, but it seems like it's an acquired skill to be able to differentiate (and articulate) different flavors.  Whereas someone just turning 21 might say "this beer tastes... dark", a more experienced drinker might describe it as "nutty and chocolatey, with mocha overtones and black currents in the aftertaste."&lt;/p&gt;
+
+					&lt;p&gt;What are some good strategies for moving from the first quote to the second?  That is to say, how does one train their palate for beer tasting?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>337</PostId>
+			<Title>
+			"How do you properly taste a beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>cicerone</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>185</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-26T19:20:22.630</CreationDate>
+				<LastEditDate>2014-01-26T21:43:30.797</LastEditDate>
+				<LastActivityDate>2014-01-27T16:31:00.187</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+				<LastEditorUserId>112</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If I want to fully appreciate what a beer is offering, how do I properly taste the beer to reveal all the nuances in the aroma, flavor and aftertaste?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>340</PostId>
+			<AcceptedAnswerId>344</AcceptedAnswerId>
+			<Title>
+			"What should I expect from a Belgian double (dubbel)?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>dubbel</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>1845</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-26T21:44:11.193</CreationDate>
+				<LastEditDate>2018-06-25T16:03:42.993</LastEditDate>
+				<LastActivityDate>2018-06-25T16:03:42.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>215</OwnerUserId>
+				<LastEditorUserId>4962</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know dubbels are considered as strong beers, but what should I expect in when I try one of them?&lt;/p&gt;
+
+					&lt;p&gt;What are their defining characteristic? What should I expect in term of taste, foam, color and mouthfeel? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>347</PostId>
+			<AcceptedAnswerId>349</AcceptedAnswerId>
+			<Title>
+			"Beer glass cleaning"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>889</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T05:16:18.610</CreationDate>
+				<LastActivityDate>2014-01-27T23:09:50.530</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've heard it said that you should never use a dish-washer on a proper beer-tasting glass, as it can negatively affect head retention.  Is this the case, and if so, what's the best way to keep a tasting glass clean without messing it up for future tasting?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType="question">
+			<PostId>382</PostId>
+			<AcceptedAnswerId>395</AcceptedAnswerId>
+			<Title>
+			"Can quick beer cooling have a negative effect on the beer's taste?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>279</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T18:04:27.527</CreationDate>
+				<LastActivityDate>2014-01-29T13:49:38.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a difference if we compare the &lt;strong&gt;classical cooling of the whole keg&lt;/strong&gt;:&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/YbVm0.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;and the &lt;strong&gt;quick flow cooling&lt;/strong&gt; where the keg is at the ambient temperature?&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/q0FEN.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;Can the quick cooling have negative effect on the beer's taste or head?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType="question">
+			<PostId>415</PostId>
+			<AcceptedAnswerId>417</AcceptedAnswerId>
+			<Title>
+			"Should English/English-style beers be served warmer, since that is how the taste was developed?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>temperature</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>994</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T16:07:56.303</CreationDate>
+				<LastActivityDate>2017-01-28T05:36:20.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>29</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Given that the British tend to drink their beer at a higher temperature than those of us in the US, should beer brewed in an English style be consumed that way? The justification I can think of is: the people developing the taste of the beer probably consumed it at a certain temperature, which might have not been the ice-cold levels that predominate in the Colonies. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType="question">
+			<PostId>506</PostId>
+			<AcceptedAnswerId>510</AcceptedAnswerId>
+			<Title>
+			"What do these "OG" and "RDF" numbers mean?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>6809</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-03T18:24:49.433</CreationDate>
+				<LastEditDate>2014-02-03T18:59:36.657</LastEditDate>
+				<LastActivityDate>2014-02-04T05:45:56.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>352</OwnerUserId>
+				<LastEditorUserId>352</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently got a "Gnarly Oak" craft brew package. Three 22 oz beers and a glass. However, on the beers are some abbreviations and numbers I don't understand. they all have a 5.5% ABV, and I get the IBU and color numbers but what are the rest? The numbers and abbr's are below:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;ul&gt;
+					  &lt;li&gt;Winter Bock - 15 OG, 62.5 RDF - light, tasty, ever so slightly bitter&lt;/li&gt;
+					  &lt;li&gt;Hazelnut Dark - 15 OG, 60.4 RDF - nice bitter red with slightly sweet aftertaste&lt;/li&gt;
+					  &lt;li&gt;Chocolate Stout - 14.8 OG, 66.8 RDF - very sweet with hints of chocolate and malt&lt;/li&gt;
+					  &lt;/ul&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;strong&gt;EDIT&lt;/strong&gt;
+					In light of the answers so far, I should say I have brewed my own, and if OG is original gravity, it doesn't fit with the scale I know of. if 15 OG ~= 1.015, it doesn't match what that would give in final ABV. Is this OG on a different scale I haven't seen&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType="question">
+			<PostId>515</PostId>
+			<AcceptedAnswerId>517</AcceptedAnswerId>
+			<Title>
+			"What is the best serving size for a beer tasting"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>taste</tag>
+				<tag>competition</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>8438</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-04T14:18:43.197</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-06-02T19:23:33.800</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>368</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I saw a comment asking this question &lt;a href="https://alcohol.stackexchange.com/questions/153/if-you-are-having-a-beer-tasting-what-is-a-good-way-to-clear-the-palate?rq=1"&gt;here&lt;/a&gt;, and became curious. In the context of a tasting panel or competition, what is the appropriate serving size?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType="question">
+			<PostId>522</PostId>
+			<AcceptedAnswerId>538</AcceptedAnswerId>
+			<Title>
+			"Are Spittoons Used in Beer Tastings?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>1206</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-04T18:56:02.367</CreationDate>
+				<LastActivityDate>2014-02-11T18:23:07.703</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>192</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When tasting wine, it is often suggested that tasters do not swallow the wine, but simply taste as necessary and then spit into a bucket/spittoon of some sort. This, of course, aids in the tasting of large amounts of wine without the effect of the alcohol (getting drunk).&lt;/p&gt;
+
+					&lt;p&gt;In casual tastings among friends, part of the fun is obviously getting drunk. However, I've been wondering if judges at competitions or more formal tasting venues (possibly breweries themselves) use spittoons.&lt;/p&gt;
+
+					&lt;p&gt;To put it in the form of a question: &lt;strong&gt;Are spittoons ever used for beer tasting?&lt;/strong&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType="question">
+			<PostId>543</PostId>
+			<Title>
+			"Should bottle conditioned beers be consumed quickly after purchase and do they carry on changing taste for a while?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>2338</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-05T09:03:16.807</CreationDate>
+				<LastEditDate>2014-02-06T19:43:30.683</LastEditDate>
+				<LastActivityDate>2014-02-06T19:43:30.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>48</OwnerUserId>
+				<LastEditorUserId>52</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Just wondering how a bottle conditioned beer will change over its life - if at all? And is there a perfect time to drink one? Also do different types change differently?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType="question">
+			<PostId>556</PostId>
+			<Title>
+			"What is the single most influential book every beer enthusiast should read?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>123</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-06T00:34:37.937</CreationDate>
+				<LastActivityDate>2014-02-06T00:44:29.473</LastActivityDate>
+				<ClosedDate>2014-02-06T05:55:19.877</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>303</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If you could go back in time and tell yourself to read a specific book about beer, which book would it be?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType="question">
+			<PostId>596</PostId>
+			<AcceptedAnswerId>599</AcceptedAnswerId>
+			<Title>
+			"What should I expect from a Belgian triple (tripel)?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>tripel</tag>
+			</Tags>
+			<Credit> 
+				<Score>18</Score>
+				<ViewCount>3872</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-13T02:26:43.410</CreationDate>
+				<LastEditDate>2018-06-25T16:03:39.450</LastEditDate>
+				<LastActivityDate>2018-06-25T16:03:39.450</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>215</OwnerUserId>
+				<LastEditorUserId>4962</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know from &lt;a href="https://alcohol.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock"&gt;this question&lt;/a&gt; that doubles and triples are stronger than the "single" version. And from what I've seen, Belgian triple are often closer to be blond and golden while doubles are often darker. &lt;/p&gt;
+
+					&lt;p&gt;My question though is what should I expect from a triple? What are it's defining characteristics (meaning that I can recognize one when I drink it, or recognize an off-style one)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType="question">
+			<PostId>597</PostId>
+			<AcceptedAnswerId>600</AcceptedAnswerId>
+			<Title>
+			"Are there any beer styles that are best enjoyed hot?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>1865</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-13T03:32:24.363</CreationDate>
+				<LastActivityDate>2014-04-03T14:17:49.407</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>31</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm well aware that beer is commonly enjoyed warm in Europe. However, mulled beer aside, are there any beer styles that fare well when enjoyed hot?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType="question">
+			<PostId>607</PostId>
+			<AcceptedAnswerId>610</AcceptedAnswerId>
+			<Title>
+			"Are there any beer styles that are served flat?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>gas</tag>
+			</Tags>
+			<Credit> 
+				<Score>20</Score>
+				<ViewCount>7526</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-15T03:18:09.793</CreationDate>
+				<LastEditDate>2017-04-13T12:46:00.997</LastEditDate>
+				<LastActivityDate>2018-01-31T14:44:38.887</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I thought of this question when I've read the one about &lt;a href="https://alcohol.stackexchange.com/questions/597/are-there-any-beer-styles-that-are-best-enjoyed-hot"&gt;mulled beer&lt;/a&gt;. I thought heating the beer would make it lose carbonation, but then I've read somewhere that you have to &lt;a href="https://homebrew.stackexchange.com/questions/2652/what-would-make-a-good-mulled-ale"&gt;carbonate&lt;/a&gt; the mulled beer as well.&lt;/p&gt;
+
+					&lt;p&gt;So are there any beer styles that are served without carbonation or nitrogenation? I myself think that there are probably none, but I'm no beer expert (yet :D).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType="question">
+			<PostId>643</PostId>
+			<Title>
+			"Why do most beers from ex-soviet countries have a honey note?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>553</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-27T21:03:21.777</CreationDate>
+				<LastEditDate>2014-03-11T12:19:29.957</LastEditDate>
+				<LastActivityDate>2016-10-07T23:01:37.447</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>566</OwnerUserId>
+				<LastEditorUserId>566</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Almost all beers, especially lager beers I've had in ex-soviet countries have a slight honey taste to them. I'm sure this is not intentional. It could be due to Pentanedione but why in this region?&lt;/p&gt;
+
+					&lt;p&gt;Let me specify that I do not think that honey is used in the brewing process. I see the sickly sweet honey taste as an off-taste and I wonder how this could be explained in the case of a whole region having it.&lt;/p&gt;
+
+					&lt;p&gt;It turns up in regular lager beers as well as darker things. It also turns up in former soviet EU countries that are not very russian and have their beer tradition rather from germany.&lt;/p&gt;
+
+					&lt;p&gt;Examples:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Almost all Saku beers (Estonia)&lt;/li&gt;
+					&lt;li&gt;Almost all A. Le Coq beers (Estonia)&lt;/li&gt;
+					&lt;li&gt;Švyturys Ekstra (Lithuania)&lt;/li&gt;
+					&lt;li&gt;Baltika (Russia)&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;And more...&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType="question">
+			<PostId>680</PostId>
+			<AcceptedAnswerId>682</AcceptedAnswerId>
+			<Title>
+			"What is the strongest beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>taste</tag>
+				<tag>history</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>25</Score>
+				<ViewCount>5218</ViewCount>
+				<AnswerCount>7</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-21T10:27:52.430</CreationDate>
+				<LastActivityDate>2016-10-05T18:53:37.933</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>669</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've always wondered what the strongest beer in the world is and how would taste.&lt;/p&gt;
+
+					&lt;p&gt;Are there reliable historical records of a very strong beer? What would be the highest % alcohol that's Brewable for a beer? And also of course it would be great to know where to get such a beer from. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType="question">
+			<PostId>784</PostId>
+			<AcceptedAnswerId>787</AcceptedAnswerId>
+			<Title>
+			"Sour Beers for the beginner"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>475</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-15T00:16:55.693</CreationDate>
+				<LastActivityDate>2014-05-22T23:20:50.413</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>529</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What sour beers would be a good starting point for someone that enjoys pale ales and too strong of a flavor profile may turn them off at first?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType="question">
+			<PostId>814</PostId>
+			<Title>
+			"How can I try a wide variety beers without buying them by the case/spending a lot of money?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>specialty-beers</tag>
+				<tag>flavor</tag>
+				<tag>united-states</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>687</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-29T08:35:34.430</CreationDate>
+				<LastActivityDate>2014-05-30T03:08:25.990</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>928</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Like most of you here, I thoroughly enjoy beer.
+					How can I try a wide variety beers without buying them by the case/spending a lot of money? &lt;/p&gt;
+
+					&lt;p&gt;Aspiring beer enthusiast that is grows tired of the usual, and wants to branch out.
+					Also on a broke, paying for school out of pocket, college kid budget.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType="question">
+			<PostId>839</PostId>
+			<AcceptedAnswerId>843</AcceptedAnswerId>
+			<Title>
+			"Why does Beck's taste more bitter than Heineken?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>6198</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-03T02:57:10.127</CreationDate>
+				<LastActivityDate>2016-08-17T10:23:56.823</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>953</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why does Beck's taste more bitter than Heineken? Is it due to the sugar content?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType="question">
+			<PostId>877</PostId>
+			<AcceptedAnswerId>881</AcceptedAnswerId>
+			<Title>
+			"Specialty Beers at Local Markets"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>specialty-beers</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>168</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-12T18:26:47.260</CreationDate>
+				<LastEditDate>2014-06-17T13:55:07.343</LastEditDate>
+				<LastActivityDate>2014-07-22T08:00:56.837</LastActivityDate>
+				<ClosedDate>2014-07-22T08:06:54.643</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>995</OwnerUserId>
+				<LastEditorUserId>995</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;so I am trying to find some pretty nice beers, beer like a Delirium Tremens, to try. Does anyone have any recommendations on some nice beer that isn't insanely hard to find. Money is not really the issue, it's just I do not want to go looking at several specialty alcohol stores for one type of beer. &lt;/p&gt;
+
+					&lt;p&gt;I live in North Carolina, near the triad area. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType="question">
+			<PostId>889</PostId>
+			<AcceptedAnswerId>890</AcceptedAnswerId>
+			<Title>
+			"What characteristics does Becks have, and what are similar beers?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>terminology</tag>
+				<tag>german-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>17472</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-27T03:18:40.390</CreationDate>
+				<LastActivityDate>2015-07-31T00:36:18.420</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1031</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I haven't been drinking for years. And over the last month, I've been trying a small variety of beers, but they all had a taste I can't put my finger on that I didn't like. I was starting to wonder if I had lost my taste for beer. However, I was lucky enough to have had a Becks the other day, because I remembered it was a beer I used to enjoy. Anyways, I really liked the Becks, so I'd like to know what I'm drinking and why I like it. Also what are other similar beers to Becks?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType="question">
+			<PostId>945</PostId>
+			<Title>
+			"Apps for recording variety of beers consumed"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>varieties</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>1343</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-22T15:13:54.770</CreationDate>
+				<LastEditDate>2014-07-23T03:04:23.643</LastEditDate>
+				<LastActivityDate>2014-07-24T13:57:18.693</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1126</OwnerUserId>
+				<LastEditorUserId>69</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm looking for apps, as a beer aficionado, to record the different beers that I try. Is there a &lt;a href="http://www.vivino.com/app/" rel="nofollow"&gt;vivino&lt;/a&gt; for beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType="question">
+			<PostId>962</PostId>
+			<Title>
+			"Drink from the can?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>669</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-01T01:40:07.460</CreationDate>
+				<LastEditDate>2014-08-24T15:59:59.347</LastEditDate>
+				<LastActivityDate>2014-08-24T15:59:59.347</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1167</OwnerUserId>
+				<LastEditorUserId>1210</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why is The Alchemist Heady Topper recommended to "Drink from the can"? Also, are there other beers that "should" also be drank from the can?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType="question">
+			<PostId>969</PostId>
+			<AcceptedAnswerId>973</AcceptedAnswerId>
+			<Title>
+			"Trying to Find a Good Beer for A Friend"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>980</ViewCount>
+				<AnswerCount>11</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-05T16:24:41.480</CreationDate>
+				<LastEditDate>2014-08-06T17:41:56.650</LastEditDate>
+				<LastActivityDate>2016-11-16T15:48:30.693</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1104</OwnerUserId>
+				<LastEditorUserId>1104</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have a friend who never really got into beer. Something about it just doesn't taste right to her, I guess; regardless, she is still open to trying beer and wants to find some that she actually enjoys. I have been trying to find beers for her to try for a while now, but haven't had much luck. I know that she would not be a fan of any sour or overly bitter beer, so something sweeter would be more suited for her. It might also be worth mentioning that she isn't a huge fan of chocolate, but absolutely loves vanilla. &lt;/p&gt;
+
+					&lt;p&gt;I have tried giving her some beers like &lt;a href="http://www.beeradvocate.com/beer/profile/29/26049/"&gt;Wild Blue&lt;/a&gt; and those seem to be a step in the right direction, but she still wants to find less fruit flavored beer that she would enjoy. I have been looking for either something with a decent vanilla flavor, like &lt;a href="http://www.beeradvocate.com/beer/profile/710/86776/"&gt;Leinie's Snowdrift Vanilla Porter&lt;/a&gt;. However, everything I have tried to introduce her too doesn't seem to cut it. I really want to find a beer she'll drink, so if you have any more suggestions let me know! &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType="question">
+			<PostId>976</PostId>
+			<Title>
+			"Is beer dangerous to drink past its "sell by" date?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>22</Score>
+				<ViewCount>175933</ViewCount>
+				<AnswerCount>13</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-10T17:04:34.340</CreationDate>
+				<LastEditDate>2014-08-11T10:05:52.973</LastEditDate>
+				<LastActivityDate>2017-01-06T13:07:00.840</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1197</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have a bud light in a friend's refrigerator that has a date of May 14 2007. I have heard of people drinking beer after the posted date, but does it turn harmful after all these years if I drink it?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType="question">
+			<PostId>995</PostId>
+			<Title>
+			"How can I learn to recognize the flavor and aroma of different varieties of hops?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>hops</tag>
+				<tag>drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>1317</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-19T03:53:45.563</CreationDate>
+				<LastEditDate>2016-10-25T16:57:33.977</LastEditDate>
+				<LastActivityDate>2016-10-25T16:57:33.977</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1228</OwnerUserId>
+				<LastEditorUserId>6042</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Background: I was drinking a New Belgium "Tour de Fall" last week and thinking about the hops that I was tasting in the finish. For me, hops in general were a pretty slowly acquired taste, and I didn't start truly appreciating the hoppy West Coast style until I encountered Sierra Nevada "Torpedo" and fell in love.&lt;/p&gt;
+
+					&lt;p&gt;Now I finally find myself wanting to get to know specific varieties of hops by flavor and scent. Amarillo, Cascade, and so on - I know there are dozens and dozens of varieties, but how do I start training myself to recognize their differences (and identify the most common varieties) in the drink itself? &lt;/p&gt;
+
+					&lt;p&gt;Should I buy some hops from a supply store, and huff 'em like a soccer mom in a fabric softener commercial? Or would that be totally different from what comes through in a beer? Would it be better to find a stool at a local brewery/brewpub and ask for a lesson in liquid form?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType="question">
+			<PostId>1051</PostId>
+			<AcceptedAnswerId>1052</AcceptedAnswerId>
+			<Title>
+			"Craft Beer vs Real Ale"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>taste</tag>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>824</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-10-17T09:19:30.727</CreationDate>
+				<LastEditDate>2014-10-21T14:48:52.450</LastEditDate>
+				<LastActivityDate>2014-10-22T04:34:11.037</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1398</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've been following the craft beer scene in the UK for some time now, and much prefer true craft beers to real ales (and beers labeled "craft" when they have no business being represented in such a way). Comparatively, real ales I've tried have a bland, waxy taste to them, unlike craft beers such as Brewdog's Punk IPA, Dead Pony Club, and 5AM Saint.&lt;/p&gt;
+
+					&lt;p&gt;A friend expressed to me his view that the terms “craft beer” and “real ale” are synonymous, stating: &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;“You realise that most of the industrialised breweries started out making “craft beer,” however demand and greed caused them to skimp on ingredients, adding less and less to make more and more profit? Most of these new breweries will probably go the same way.”&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Whilst I agree in principle regarding greed and industrialisation, I am skeptical of the claim that most industrialised breweries started out making “craft beer.” Nor do I believe that “real ale” breweries have changed their recipes to that degree over time.&lt;/p&gt;
+
+					&lt;p&gt;To put this into context, some beers I consider real ales are Youngs London Gold, Bombardier, Tribute, and Deuchars IPA, while some beers I consider craft beers are Brewdog IPA is Dead Citra, Kernel Black IPA, Lagunitas IPA, and Moor So’Hop.&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;What distinguishes a “craft beer” from a “real ale”?&lt;/li&gt;
+					&lt;li&gt;Do “craft beers” change as breweries scale up for profits?&lt;/li&gt;
+					&lt;li&gt;Did “real ales” use to taste nicer than it does today?&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType="question">
+			<PostId>2158</PostId>
+			<Title>
+			"Does re-refrigerating affect the taste of beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>temperature</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>10028</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>7</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-24T00:00:38.473</CreationDate>
+				<LastEditDate>2015-01-04T14:58:29.780</LastEditDate>
+				<LastActivityDate>2015-01-04T14:58:29.780</LastActivityDate>
+				<ClosedDate>2015-01-04T15:00:23.657</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2632</OwnerUserId>
+				<LastEditorUserId>2639</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some of my college friends like to tell me that refrigerating beer, then taking it out (allowing it to warm up), and re-refrigerating it causes the beer to lose its taste. I've even known some to throw out beer that has gone through this scenario.&lt;/p&gt;
+
+					&lt;p&gt;I've looked around on the internet a bit, and there doesn't seem to be any real evidence to the claim. I found an article on &lt;a href="http://www.beeradvocate.com/community/threads/letting-cold-beer-get-warm.14663/"&gt;Beer Advocate&lt;/a&gt;, where people seem to agree that:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;UV light exposure causes negative effects (only a real problem for bottled beer).&lt;/li&gt;
+					&lt;li&gt;&lt;em&gt;Extreme&lt;/em&gt; fluctuations in temperature are generally not good for the beer.&lt;/li&gt;
+					&lt;li&gt;Bottled beers can sometimes re-ferment at higher temperatures, causing over-carbonation.&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;Nothing conclusive.&lt;/p&gt;
+
+					&lt;p&gt;My question is: &lt;strong&gt;does refrigerating, unrefrigerating, and re-refrigerating beer negatively affect the taste of beer?&lt;/strong&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType="question">
+			<PostId>3257</PostId>
+			<Title>
+			"What beer is really bitter, but has a fantastic aftertaste?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>668</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-02-16T18:27:29.340</CreationDate>
+				<LastActivityDate>2015-05-12T11:48:08.830</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>765</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A beer where you take a sip, and you think, "Oh my, that is weird! But I'll have another sip because it tastes good now", kind of beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType="question">
+			<PostId>3261</PostId>
+			<AcceptedAnswerId>3263</AcceptedAnswerId>
+			<Title>
+			"Rising a cold beer to room temperature"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>143</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-02-19T05:58:56.523</CreationDate>
+				<LastActivityDate>2015-02-20T20:21:34.180</LastActivityDate>
+				<ClosedDate>2015-02-19T20:51:09.083</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3803</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have been told that once chilled, you should never let a beer come back to room temperature; what is the truth behind this?&lt;/p&gt;
+
+					&lt;p&gt;If again chilled, will the flavor be the same? Or how might it change?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType="question">
+			<PostId>3287</PostId>
+			<AcceptedAnswerId>3290</AcceptedAnswerId>
+			<Title>
+			"Red Lager Recomendations and what flavours make a beer a "Red Lager""
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>2202</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-10T20:54:25.763</CreationDate>
+				<LastEditDate>2015-03-10T21:56:50.063</LastEditDate>
+				<LastActivityDate>2015-03-22T04:39:46.130</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3874</OwnerUserId>
+				<LastEditorUserId>3874</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm looking for new beers to try and have a great liking for a variety of Red Ales. Some of my favourite "big" brews are Yuengling and Dos Equis. I also really like a local brew &lt;a href="http://walkervillebrewery.com/tag/honest-lager/" rel="noreferrer"&gt;Walkerville Honest Lager&lt;/a&gt;. Rickards Red is also decent, but not quite "perfect".&lt;/p&gt;
+
+					&lt;p&gt;Interested in any suggestions for other beers I could try with a similar taste!&lt;/p&gt;
+
+					&lt;p&gt;In addition, what is the characteristic taste, or, what are some words that describe the taste, that makes a lager a red lager?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType="question">
+			<PostId>3307</PostId>
+			<Title>
+			"What's responsible for the "metallic" taste in Belgian beers?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>1489</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-22T05:30:43.927</CreationDate>
+				<LastActivityDate>2015-03-23T15:12:53.143</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Whenever I've had Belgians, I've tasted something metallic, especially in the aftertaste. It was especially strong in Lost Abbey's Judgment Day, a quadrupel. I thought it was something unique to me because no one knew what I was talking about, but today a friend said the same thing ("metallic", without me suggesting anything). What in the brewing process causes this taste?&lt;/p&gt;
+
+					&lt;p&gt;In case it helps, I also taste it in Killian's Irish Red. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType="question">
+			<PostId>3309</PostId>
+			<Title>
+			"How can I add post-flavoring to beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>151</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-23T20:48:19.587</CreationDate>
+				<LastEditDate>2015-03-24T03:26:01.147</LastEditDate>
+				<LastActivityDate>2015-03-31T16:44:00.817</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3920</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm having a party and I want to add flavors to my already-brewed beer. How can I do that and have it mix?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType="question">
+			<PostId>3364</PostId>
+			<AcceptedAnswerId>3365</AcceptedAnswerId>
+			<Title>
+			"Other stouts to use in a 'Guinness cake'"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>stout</tag>
+				<tag>cooking</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>348</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-06T09:28:43.677</CreationDate>
+				<LastEditDate>2015-05-06T12:55:20.820</LastEditDate>
+				<LastActivityDate>2015-05-06T14:37:09.333</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4087</OwnerUserId>
+				<LastEditorUserId>268</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've previously had success making a guinness cake (&lt;a href="http://www.nigella.com/recipes/view/chocolate-guinness-cake-3086" rel="noreferrer"&gt;http://www.nigella.com/recipes/view/chocolate-guinness-cake-3086&lt;/a&gt;), and, whilst it was tasty, I figure there has to be a better stout to flavour it with. Any suggestions?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType="question">
+			<PostId>3370</PostId>
+			<AcceptedAnswerId>3382</AcceptedAnswerId>
+			<Title>
+			"When and how to drink cellared beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>176</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-08T21:07:27.047</CreationDate>
+				<LastActivityDate>2015-05-13T16:47:11.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4101</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I had acquired a couple of Samuel Adams "one-off" beers, specifically "The Vixen (stout)", "Merry Mischief (gingerbread stout)", "Griffin's Bow (barley wine)" and "Norse Legend (Sahti)". These bottles are either first, second or third batch, according to the label mind you. I had these beers for 2 years in a cellar, almost no light touches them and at room temperature.&lt;/p&gt;
+
+					&lt;p&gt;I know that most of this types of beer gets better with time, except for the Sahti, hadn't explored much of that type, but I would like to know if it's safe for the beers to be kept and for how long, and at a given time, what's the best way to drink them (chill them, room temperature, etc.). Thanks.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType="question">
+			<PostId>3391</PostId>
+			<AcceptedAnswerId>3392</AcceptedAnswerId>
+			<Title>
+			"Why cork a beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>2520</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-29T12:44:10.360</CreationDate>
+				<LastEditDate>2015-05-29T16:43:25.707</LastEditDate>
+				<LastActivityDate>2015-07-17T19:37:59.737</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1104</OwnerUserId>
+				<LastEditorUserId>268</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have seen a lot of beers that have been corked and I can't really understand what the significance is. When I tried to look it up, most of what I found just related to how to properly store corked beer and similar means, but nothing really answering my question. I am trying to figure out what corking a beer actually does to it and if there are any real benefits. Is it simply a style choice or is it there for a reason, like it is for wine bottles. Does it actually have an effect on the beer's taste, quality, etc?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType="question">
+			<PostId>3424</PostId>
+			<AcceptedAnswerId>3433</AcceptedAnswerId>
+			<Title>
+			"The taste of hops, malt"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>hops</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>109</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-25T19:07:17.137</CreationDate>
+				<LastEditDate>2015-06-25T20:31:44.763</LastEditDate>
+				<LastActivityDate>2015-06-28T12:46:39.027</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4238</OwnerUserId>
+				<LastEditorUserId>4238</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I drink beer I can taste a bitter, then slightly sweetness, then kind of a lingering flavor of something. I'm curious - is the lingering flavor the malt, or the hops? What contributes to the bitterness - the malt or the hops?&lt;/p&gt;
+
+					&lt;p&gt;I would like to know the taste differences between the two.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType="question">
+			<PostId>3465</PostId>
+			<AcceptedAnswerId>3469</AcceptedAnswerId>
+			<Title>
+			"Beer Rating Acronyms and their Origins"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>history</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>226</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-15T01:16:35.247</CreationDate>
+				<LastActivityDate>2015-07-15T14:58:38.737</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;We often see the following acronym on &lt;code&gt;beeradvocate&lt;/code&gt; or &lt;code&gt;ratebeer&lt;/code&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;ATMOS&lt;/strong&gt;: Appearance, Smell, Taste, Mouthfeel, Overall&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;LSTFO&lt;/strong&gt;: Look, Smell, Taste, Feel, Overall&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Where do these acronyms come from? What is the original source of these acronyms?&lt;/strong&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType="question">
+			<PostId>3499</PostId>
+			<AcceptedAnswerId>3500</AcceptedAnswerId>
+			<Title>
+			"Difference between glass, bottle and can?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>glassware</tag>
+				<tag>bottles</tag>
+				<tag>cans</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>3452</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-24T07:10:26.990</CreationDate>
+				<LastActivityDate>2015-08-14T11:59:40.297</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4353</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was wondering if there really is a difference in taste when you drink the same beer out of a glass, a bottle and a can.&lt;/p&gt;
+
+					&lt;p&gt;Can anybody please tell me if there is a difference or if this is just a prejudice in your mind that makes you think it's better in one way?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType="question">
+			<PostId>4533</PostId>
+			<Title>
+			"Techniques to add flavour and aroma to beer with hops"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>brewing</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>164</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-18T10:36:25.073</CreationDate>
+				<LastEditDate>2017-03-17T08:31:08.567</LastEditDate>
+				<LastActivityDate>2015-08-24T08:20:59.680</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4423</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm a hop lover, recently I found one of bests &lt;a href="http://naparbier.com/menu/hop-doom/" rel="nofollow noreferrer"&gt;&lt;code&gt;IIPA&lt;/code&gt;&lt;/a&gt; I ever tasted (&lt;a href="https://alcohol.meta.stackexchange.com/questions/100/can-i-link-a-beer-brand-or-specific-model-or-should-i-be-generic"&gt;I don't know if I can name beer / brand&lt;/a&gt;)&lt;/p&gt;
+
+					&lt;p&gt;I've found at the bottom of the bottle, there are no yeast rests, but yes hop leafs. &lt;strong&gt;&lt;code&gt;:)&lt;/code&gt;&lt;/strong&gt; sweet!&lt;/p&gt;
+
+					&lt;p&gt;One friend tell me this technike is called &lt;code&gt;bottle dry-hopping&lt;/code&gt;, consisting in introducing a little bud of hop in each bottle.&lt;/p&gt;
+
+					&lt;p&gt;I've heard about &lt;a href="https://alcohol.meta.stackexchange.com/questions/100/can-i-link-a-beer-brand-or-specific-model-or-should-i-be-generic"&gt;&lt;code&gt;dry-hopping&lt;/code&gt;&lt;/a&gt; but before botteling the beer, also i know  &lt;code&gt;Hop Spider&lt;/code&gt;, is a filter you fill with hop for the freezing step.&lt;/p&gt;
+
+					&lt;p&gt;Three techniques are great and give nice results at the end, so:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Anyone knows about other techniques using hops to add flavour and aroma &lt;strong&gt;AFTER&lt;/strong&gt; cooking the beer? &lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType="question">
+			<PostId>4537</PostId>
+			<Title>
+			"Looking for dark but not heavy"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>stout</tag>
+				<tag>lager</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>295</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-19T03:26:09.040</CreationDate>
+				<LastActivityDate>2015-08-19T20:40:34.643</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4439</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I tend to go for darker beers, typically stouts and porters. &lt;/p&gt;
+
+					&lt;p&gt;Guinness is my usual go to when I'm at a bar or restaurant, but as appealing as "a meal in a glass" is, on occasion I find these to be a little too filling/heavy.&lt;/p&gt;
+
+					&lt;p&gt;More recently I had the opportunity to try Köstritzer, which I guess would be classified as a black lager. It had the very familiar taste of a stout but without the filling quality. &lt;/p&gt;
+
+					&lt;p&gt;Black lager seems to be a rather generic category though, the title seems to cover a rather large variety of dark lagers and seems to be more about color than taste. &lt;/p&gt;
+
+					&lt;p&gt;Is there a more specific category I should be looking for?&lt;/p&gt;
+
+					&lt;p&gt;Or perhaps better, does any one know any other beers that taste like a stout but with the light weight of a lager?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType="question">
+			<PostId>4600</PostId>
+			<AcceptedAnswerId>4605</AcceptedAnswerId>
+			<Title>
+			"What ingredients leave beer with sugary taste?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>325</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-23T07:54:58.770</CreationDate>
+				<LastEditDate>2017-03-27T02:14:46.693</LastEditDate>
+				<LastActivityDate>2017-04-21T18:05:19.927</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4514</OwnerUserId>
+				<LastEditorUserId>4514</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know that exists those beers that uses fruits and then leaving beer with sugary taste, for example Belgian Hoergaaden with orange zest. But there are those without any fruit part and it's yet sweet.&lt;/p&gt;
+
+					&lt;p&gt;I don't like too much these kind of beer but I don't know what look for in orther to avoid them.&lt;/p&gt;
+
+					&lt;p&gt;What kind of ingredients should I look for? Or maybe, should I look for ingredients that leave beer less sweet? &lt;/p&gt;
+
+					&lt;p&gt;P.S. My favorite kind of beer are American Lager like Heineken, IPA and Stout from Ale family.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType="question">
+			<PostId>4606</PostId>
+			<AcceptedAnswerId>4609</AcceptedAnswerId>
+			<Title>
+			"What is the traditional vocabulary to describe the characteristics of beer?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>681</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-26T10:48:52.117</CreationDate>
+				<LastActivityDate>2015-10-14T06:42:36.783</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4337</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know there are certain words experts use when they talk about wine. Categories of taste, colour etc.&lt;/p&gt;
+
+					&lt;p&gt;This is of course a matter of creativity and subjectivity, like describing a beer as “chocolaty” or “nutty” despite there being no chocolate or nuts in it.&lt;/p&gt;
+
+					&lt;p&gt;But is there an established vocabulary in beer-tasting? Where could I find a list of words, and a description of these properties? For beer, what are the magic words so abundantly found in wine culture?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType="question">
+			<PostId>4620</PostId>
+			<AcceptedAnswerId>4621</AcceptedAnswerId>
+			<Title>
+			"Glassware for Beer"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>87</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-04T21:00:07.003</CreationDate>
+				<LastEditDate>2015-10-05T15:28:32.180</LastEditDate>
+				<LastActivityDate>2017-07-10T13:49:51.297</LastActivityDate>
+				<ClosedDate>2015-10-06T00:57:33.287</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4514</OwnerUserId>
+				<LastEditorUserId>4514</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's kind of simple question, I'd like to know why exists different kinds of glass for each beer. Could glass affect beer taste? How? Or is this just marketing?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType="question">
+			<PostId>4630</PostId>
+			<AcceptedAnswerId>4643</AcceptedAnswerId>
+			<Title>
+			"Was beer conceived to be a bitter drink?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>history</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>277</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-14T04:16:05.270</CreationDate>
+				<LastActivityDate>2015-10-19T15:59:56.640</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In all the years of my life (except when I was a minor), I've never tasted beer that's not bitter. So was beer conceived to be a bitter drink? What factors in the bitter taste of beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType="question">
+			<PostId>4755</PostId>
+			<Title>
+			"How to pair a beer with a glass?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>serving</tag>
+				<tag>glassware</tag>
+				<tag>pairing</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>118</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-05T16:40:35.020</CreationDate>
+				<LastEditDate>2016-01-05T23:33:58.777</LastEditDate>
+				<LastActivityDate>2016-01-08T17:16:06.170</LastActivityDate>
+				<ClosedDate>2016-01-06T14:52:36.833</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4917</OwnerUserId>
+				<LastEditorUserId>4917</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have recently begun to learn somethings about beer and I suddenly noticed that, for a while now, I have always been served similar types of beer on different looking beer glasses... which is confusing me. It could be human error, but it's got me wondering what beer glasses should I really be sipping from?&lt;/p&gt;
+
+					&lt;p&gt;So I decided to get some beer glasses, and what do I find? A plethora of beer glasses, all kinds and funky shapes, where not one glass is like the next. It makes me feel like the beer glass industry is very opinionated, rather than factual, and I need to know how to choose correctly.&lt;/p&gt;
+
+					&lt;p&gt;Could anyone please instruct me on the general type of beers and how they pair with beer glasses, as well as why x glass goes with y beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType="question">
+			<PostId>4778</PostId>
+			<Title>
+			"Why do Double IPAs (aka Imperial IPAs, IIPAs) tend to be sweeter than regular IPAs?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>672</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-16T05:10:11.163</CreationDate>
+				<LastActivityDate>2016-01-20T16:45:29.000</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Why do Double IPAs tend to be sweeter than regular IPAs? (I personally have in mind Ninkasi's Tricerahops and Saint Archer's Double IPA.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType="question">
+			<PostId>4785</PostId>
+			<Title>
+			"Beer that's slightly out of date"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>history</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>246</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-20T12:38:55.783</CreationDate>
+				<LastActivityDate>2016-01-20T13:33:31.540</LastActivityDate>
+				<ClosedDate>2016-01-20T18:55:12.870</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4976</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've got a case of beer, which is Rivet Beer. Each can is 330 mL, &amp;amp; 4.7%/1.2 standard drinks. They ran out of date on 13 November 2015, &amp;amp; it's been in a cupboard the entire time, room temperature. Are the cans safe to drink? I'm not concerned about bad taste or anything, I just don't want to get sick. Any help would be appreciated! &lt;/p&gt;
+
+					&lt;p&gt;Thanks! &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType="question">
+			<PostId>4850</PostId>
+			<Title>
+			"What is the closest tasting beer to Erdinger?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>1048</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-21T17:03:34.817</CreationDate>
+				<LastActivityDate>2016-03-01T02:25:43.253</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5113</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I love Erdinger and wheat beers in general, after trying some of Erdginers others types I wondered what other beer out there is close to Erdinger taste&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType="question">
+			<PostId>4894</PostId>
+			<AcceptedAnswerId>4895</AcceptedAnswerId>
+			<Title>
+			"Different Beer with Different food"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>pairing</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>229</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-03-03T15:02:42.197</CreationDate>
+				<LastEditDate>2016-06-14T07:32:44.977</LastEditDate>
+				<LastActivityDate>2016-06-14T07:32:44.977</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was wondering if there are certain combinations of beer and food go perfect together in my own experience I have found that &lt;strong&gt;Negra Modelo&lt;/strong&gt; goes really well with Mexican food &lt;/p&gt;
+
+					&lt;p&gt;do you guys know of any other really good combinations ? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType="question">
+			<PostId>4936</PostId>
+			<AcceptedAnswerId>5028</AcceptedAnswerId>
+			<Title>
+			"How to know which tequila should be for drinks and which one meant to be drank on its own"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>tequila</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>280</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-07T14:26:19.973</CreationDate>
+				<LastEditDate>2016-04-07T17:30:57.440</LastEditDate>
+				<LastActivityDate>2016-05-24T17:29:27.267</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5144</OwnerUserId>
+				<LastEditorUserId>971</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A while ago I was told that I should choose my tequilas carefully since ones are meant to be drank on their own(not chased, not mixed) and others (supposedly cause they're lower quality) can and should be mixed. So now that the scope of the site has been changed I feel like I can now ask this here.&lt;/p&gt;
+
+					&lt;p&gt;So what are the characteristics I should look for in a tequila(other than price) to learn how to differentiate a good-for-drinks tequila from a drink-it-on-its-own one? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType="question">
+			<PostId>4956</PostId>
+			<AcceptedAnswerId>4963</AcceptedAnswerId>
+			<Title>
+			"Is Guinness really different in Ireland, compared to what's sold in the US?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>924</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-16T01:47:05.063</CreationDate>
+				<LastActivityDate>2016-04-26T01:31:03.313</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5328</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've never liked the taste of Guinness, on tap or from the can. But I have heard that it's much better tasting in Ireland, and the export one is completely different. Is there any truth to this, and if so, what are the differences?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType="question">
+			<PostId>5213</PostId>
+			<Title>
+			"What is a comparable beer to Weihenstephaner Hefeweissbier?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>brewing</tag>
+				<tag>recommendations</tag>
+				<tag>german-beers</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>618</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-07-23T01:46:52.637</CreationDate>
+				<LastActivityDate>2016-08-24T12:38:59.863</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5691</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am trying to think of what US brewed beer tastes most similar to a Weihenstephaner Hefeweissbier...&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType="question">
+			<PostId>6306</PostId>
+			<Title>
+			"What makes sour beers sour?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>brewing</tag>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>238</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-09-23T23:21:11.977</CreationDate>
+				<LastEditDate>2016-09-26T07:25:54.180</LastEditDate>
+				<LastActivityDate>2016-09-27T07:36:10.510</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5948</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I like sour beers and am curious what makes them sour. What's the process that results in the range of sourness? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType="question">
+			<PostId>6315</PostId>
+			<AcceptedAnswerId>6316</AcceptedAnswerId>
+			<Title>
+			"What alcohol would go good with tea?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>recommendations</tag>
+				<tag>drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>7524</ViewCount>
+				<AnswerCount>10</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-01T14:44:05.923</CreationDate>
+				<LastEditDate>2016-10-01T15:46:22.653</LastEditDate>
+				<LastActivityDate>2018-05-24T22:53:22.210</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5889</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I drink tea.  I had a thought about putting something into it.  What good alcohol can I think about putting into the tea?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType="question">
+			<PostId>6321</PostId>
+			<AcceptedAnswerId>6322</AcceptedAnswerId>
+			<Title>
+			"What would cause the same beer to taste different"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>1479</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-03T16:26:24.387</CreationDate>
+				<LastActivityDate>2016-10-05T16:36:37.593</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5889</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I noticed that a beer in the bottle tastes one way and the same beer served to me in a cup elsewhere tastes different.  First, I thought the temperature difference would cause the taste difference, but no.  I also thought that the cup the beer was served in would change the taste, but no.  I tried this a couple of times and couldn't figure out what was causing the taste difference.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType="question">
+			<PostId>6327</PostId>
+			<AcceptedAnswerId>6328</AcceptedAnswerId>
+			<Title>
+			"How can I improve the flavor of a cheap bottle of sparkling wine?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>373</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-06T16:59:19.700</CreationDate>
+				<LastEditDate>2016-10-27T10:34:25.570</LastEditDate>
+				<LastActivityDate>2016-11-19T16:48:30.607</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5889</OwnerUserId>
+				<LastEditorUserId>6042</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;How can I improve on a cheap bottle of bubbly wine?  I thought of a few ideas myself but instead of wasting it I thought I'd ask.  BTW, by improving I mean make it taste better.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType="question">
+			<PostId>6330</PostId>
+			<AcceptedAnswerId>6332</AcceptedAnswerId>
+			<Title>
+			"Regarding light beers and dark beers: how would you make a light beer taste more like a dark beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>specialty-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>98</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-09T12:51:18.033</CreationDate>
+				<LastActivityDate>2016-10-09T15:13:29.537</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5889</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;How would you make a light beer taste more like a dark beer?  In other words, if you  like light beer better than dark beer but you think that light beer could use more taste, what could you add or is there such a beer out there?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType="question">
+			<PostId>6345</PostId>
+			<AcceptedAnswerId>6346</AcceptedAnswerId>
+			<Title>
+			"What alcohol beverage goes well with a certain type of smoking?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>1236</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-15T06:02:20.493</CreationDate>
+				<LastEditDate>2016-10-15T14:12:17.777</LastEditDate>
+				<LastActivityDate>2017-01-08T13:56:21.260</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5889</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some beverages go well with different foods.  White wine with fish, red wine with ... Is there such a thing as beverage and smokes combinations that suit the taste buds?  For example, beer with certain types of cigarettes or cigars; what kind of difference would there be and how would I aim to please?  The specific smokes I had in mind are the different cigarettes, cigars.  The most simple combination that came to my mind is coffee and a cigarette.  But I'm interested in alcoholic beverages and smokes.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType="question">
+			<PostId>6356</PostId>
+			<AcceptedAnswerId>6367</AcceptedAnswerId>
+			<Title>
+			"What alcohol products go well with a particular type of coffee?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>recommendations</tag>
+				<tag>drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>293</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-20T12:55:59.173</CreationDate>
+				<LastActivityDate>2016-11-06T22:14:20.837</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What alcohol products go well with a particular type of coffee?&lt;/p&gt;
+
+					&lt;p&gt;I enjoy the odd &lt;a href="https://en.wikipedia.org/wiki/Irish_coffee" rel="nofollow"&gt;Irish Coffee&lt;/a&gt; occasionally.&lt;/p&gt;
+
+					&lt;p&gt;Desiring to expand my coffee/alcohol combos, I would like to know what types of coffee goes well with what type of alcohol?&lt;/p&gt;
+
+					&lt;p&gt;Any recommendations would be greatly appreciated.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType="question">
+			<PostId>6524</PostId>
+			<AcceptedAnswerId>6938</AcceptedAnswerId>
+			<Title>
+			"Fashionable gins - are they what they claim to be?"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>taste</tag>
+				<tag>gin</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>134</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-13T05:33:52.640</CreationDate>
+				<LastActivityDate>2017-07-02T19:16:08.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have always enjoyed a G&amp;amp;T.  I have my favorite brands, not only of gin, but also of tonic.  But I have noticed that there is a whole slew of them now.  &lt;a href="https://i.stack.imgur.com/PxBfg.jpg" rel="noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/PxBfg.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;So, how do I know which ones are made properly, and which ones are just alcohol and flavor, without buying and tasting each one in turn?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType="question">
+			<PostId>6530</PostId>
+			<AcceptedAnswerId>6531</AcceptedAnswerId>
+			<Title>
+			"Spittoons - in a friendly wine tasting"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>114</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-14T06:00:40.053</CreationDate>
+				<LastActivityDate>2017-02-14T23:08:35.393</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;We sometimes do a friendly wine tasting. The idea is to discover good, well priced wines available locally - something that you might not have bought yourself.  Everyone brings a bottle, they are taken away by who ever is acting as sommelier for the evening, and then given a number. So, the whole thing is 'blind'.  Scores are given etc etc...  And eventual winners and losers announced (everyone also brings a small prize, so prizes are handed out as well).  The amount tasted is basically no more than a thimble or two,  there is no spittoon.  Would we get different results if we did, or is it OK to do this in our friendly tasting sessions.  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType="question">
+			<PostId>6538</PostId>
+			<AcceptedAnswerId>6577</AcceptedAnswerId>
+			<Title>
+			"What is so special about Guinness DRAUGHT?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>specialty-beers</tag>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>6306</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-15T15:45:01.317</CreationDate>
+				<LastActivityDate>2017-02-26T18:39:50.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6402</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I haven't heard a lot about the DRAUGHT (Guinness) in terms of its taste. But my brother insists to say that DRAUGHT is the queen of the Guinness. &lt;/p&gt;
+
+					&lt;p&gt;But I found nothing special, indeed, I find it rather too watered down.&lt;/p&gt;
+
+					&lt;p&gt;It is worth the hype or just a fad?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType="question">
+			<PostId>6628</PostId>
+			<AcceptedAnswerId>6637</AcceptedAnswerId>
+			<Title>
+			"Spirits over 50%. Taste v effect"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>whiskey</tag>
+				<tag>spirits</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>113</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-02T15:14:28.067</CreationDate>
+				<LastEditDate>2017-03-02T15:34:53.857</LastEditDate>
+				<LastActivityDate>2017-03-04T00:16:13.970</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+				<LastEditorUserId>6366</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I like a gin or 2, but tend to stick to the 37.5% stuff opposed to the stronger stuff.  I don't get any extra taste, just fall over quicker!  I understand that for some of the better whiskeys a little bit of water will bring out the taste.  At what point does the % become a problem for taste?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType="question">
+			<PostId>6641</PostId>
+			<AcceptedAnswerId>7083</AcceptedAnswerId>
+			<Title>
+			"Vaping Alcohol - fad or here to stay?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>health</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>229</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-05T05:52:47.120</CreationDate>
+				<LastEditDate>2017-03-05T10:32:41.307</LastEditDate>
+				<LastActivityDate>2017-11-22T15:48:45.807</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+				<LastEditorUserId>6366</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Just recently I discovered that not only can I vape in stead of smoking, but I can also vape instead of drinking.  What's vaping alcohol all about?  Well, you put a shot of spirits into an orb, which sits over a small candle (tea-light), and then through a glass or metal straw inhale the results.(&lt;a href="https://www.buzzfeed.com/nicolenguyen/we-tried-vaping-alcohol-and-it-was-definitely-something?utm_term=.cmNBppdOp#.ibzzeegYe" rel="nofollow noreferrer"&gt;check it out here with buzzfeed&lt;/a&gt;)&lt;/p&gt;
+
+					&lt;p&gt;This is what the Vaportini looks like - credit Vaportini&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/yPuQO.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/yPuQO.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;I understand that the alcohol bypasses the liver stage and just goes straight to your head and lungs.  So, none of that 'oops, I've drunk too much - excuse me whilst I visit the bathroom' nonsense, with this method you apparently don't get to expell what your body can't handle.&lt;/p&gt;
+
+					&lt;p&gt;With all this in mind, is there a limit (average) that can be vaped without doing myself some serious brain damage?  What also is the effect on the lungs?  Is this just another fad or is this the future?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType="question">
+			<PostId>6651</PostId>
+			<AcceptedAnswerId>6653</AcceptedAnswerId>
+			<Title>
+			"Do wines from grafted vine stock taste different from non-grafted?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>history</tag>
+				<tag>wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>225</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-09T07:30:30.577</CreationDate>
+				<LastEditDate>2017-03-09T08:11:43.067</LastEditDate>
+				<LastActivityDate>2017-03-09T13:24:08.933</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+				<LastEditorUserId>6366</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The &lt;a href="https://en.wikipedia.org/wiki/Phylloxera" rel="noreferrer"&gt;Phylloxera&lt;/a&gt; plague of the 19th century devastated the grape stocks of Europe.  However,  Charles Valentine Riley and J. E. Planchon grafted the vines (Vitis vinifera) onto rootstock of an American native species (Vitis aestivalis).  In a nutshell saving the European vineyards and it's production.  &lt;/p&gt;
+
+					&lt;p&gt;It is said that this 'hybrid' vine produced the same grape, as the rootstock does not interfere with the development of the wine grapes.  Is this true?&lt;/p&gt;
+
+					&lt;p&gt;With all this in mind, what proportion of wine (today) is made from grapes from hybrid vines, and is there really any taste/quality difference?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType="question">
+			<PostId>6880</PostId>
+			<AcceptedAnswerId>6888</AcceptedAnswerId>
+			<Title>
+			"What soft drinks mix well with alcohol to make a great drink?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>recommendations</tag>
+				<tag>drink</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>9374</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-06-03T11:58:38.607</CreationDate>
+				<LastActivityDate>2017-06-11T10:23:14.303</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What &lt;a href="https://en.wikipedia.org/wiki/Soft_drink" rel="noreferrer"&gt;soft drinks&lt;/a&gt; mix well with alcohol to make a great, yet unique tasting drink? &lt;/p&gt;
+
+					&lt;p&gt;We have all heard of &lt;strong&gt;&lt;em&gt;rum and coke&lt;/em&gt;&lt;/strong&gt; which is known as a &lt;a href="https://en.wikipedia.org/wiki/Cuba_Libre" rel="noreferrer"&gt;Cuba Libre&lt;/a&gt;. I would like to try some other &lt;a href="https://en.wikipedia.org/wiki/List_of_soft_drinks_by_country#Morocco" rel="noreferrer"&gt;soft drinks&lt;/a&gt; with alcohol mixes that could be in someway less commonly known to the average person, like rum and coke. I would appreciate any recommendation possible and the reasons why the recommendation makes a great yet unique tasting drink.&lt;/p&gt;
+
+					&lt;p&gt;Bottoms Up!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType="question">
+			<PostId>6985</PostId>
+			<AcceptedAnswerId>6986</AcceptedAnswerId>
+			<Title>
+			"Difference between "Ale's" beer"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>ale</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>141</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-17T13:18:19.240</CreationDate>
+				<LastEditDate>2018-05-02T11:24:15.810</LastEditDate>
+				<LastActivityDate>2018-05-02T11:24:15.810</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7030</OwnerUserId>
+				<LastEditorUserId>6566</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What is the difference between "The Ale", "The Brown Ale", and the "Mild Ale" beers? The colour seems more or less the same so, is it the taste that normally is different or is the level of alcohol present on the beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType="question">
+			<PostId>7053</PostId>
+			<AcceptedAnswerId>7054</AcceptedAnswerId>
+			<Title>
+			"Do lights and music enhance a cocktail?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>cocktails</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>74</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-01T15:05:10.857</CreationDate>
+				<LastEditDate>2017-11-01T15:42:20.043</LastEditDate>
+				<LastActivityDate>2017-11-01T17:26:42.680</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+				<LastEditorUserId>6366</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;OK, so here I sit, in a fantastic marina (yes I live on a boat), but every Saturday and Sunday night the local cocktail bar has a rather serious disco, or should I say Saturday morning/Sunday morning (as they finish at 6am!).  I have friends who state that the cocktails they drink in the bar taste better when they are there during disco night than when they are there on a normal night - how does this happen? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType="question">
+			<PostId>7180</PostId>
+			<AcceptedAnswerId>7181</AcceptedAnswerId>
+			<Title>
+			"What's a good (neutral) sample beer to spike with a sensory training kit?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>lager</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>143</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-01T19:44:37.167</CreationDate>
+				<LastActivityDate>2018-05-16T22:25:12.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently ordered a sensory training kit from Siebel Institute. In short, glass vials of liquid isolating flavors (including off-flavors and contamination) commonly found in beer.&lt;/p&gt;
+
+					&lt;p&gt;The instructions explain how to spike samples of beer, but say nothing about how to select a suitable beer:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/d8WFw.jpg" rel="noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/d8WFw.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;I'll be hosting a party of six, and our tastes vary wildly: from craft drinkers to macro drinkers, and an enologist (winemaker).&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;How should I select the base beer(s) to help us get the most out of this experience?&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;Should we all have the same beer? If so, a macro, even though some dislike them? Or should I pick something like a pilsner?&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Or should I have two tiers, a macro and something else? (What kind of ale would be appropriate?)&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType="question">
+			<PostId>7356</PostId>
+			<Title>
+			"Refrigerate Non-Alcoholic beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>flavor</tag>
+				<tag>temperature</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>22</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-27T13:51:31.633</CreationDate>
+				<LastActivityDate>2018-06-28T17:28:58.890</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7887</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Should non-alcoholic beer be refrigerated to preserve it? How long does non-alcoholic beer last when not refrigerated?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType="question">
+			<PostId>7365</PostId>
+			<Title>
+			"Why do some wines taste salty?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>wine</tag>
+				<tag>flavor</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>42</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-07-02T11:13:58.800</CreationDate>
+				<LastActivityDate>2018-07-02T11:52:23.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7898</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently moved to a new city in Austria and have noticed that many (but not all, so it’s definitely not a problem with my taste perception) of the local red wines taste salty. I’ve tried red wines both on the cheaper and expensive side and they all give off this salty taste. Almost all that I’m referring to are Blauer Zweigelt variety. 
+					Is this salty taste coming from the grape variety, or could it be something else like my glass or detergent (I make sure that I wash the glass very thoroughly)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType="question">
+			<PostId>7445</PostId>
+			<Title>
+			"How do I find a good wine for red meat, like beef?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>wine</tag>
+				<tag>red-wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>-1</Score>
+				<ViewCount>8</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-19T09:34:04.380</CreationDate>
+				<LastActivityDate>2018-08-19T09:34:04.380</LastActivityDate>
+				<ClosedDate>2018-08-20T07:44:24.347</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7954</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What should I look for on the label? Should it have a certain age?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,597 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>27</PostId>
+			<ParentPostId>14</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:57:40.213</CreationDate>
+				<LastActivityDate>2014-01-21T20:57:40.213</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are two main ways to carbonate beer. &lt;/p&gt;
+
+					&lt;p&gt;Force carbonation - This is where CO2 is forced into the fermented beer. Because of the pressure (and the temperature at which it is done) the CO2 will dissolve into the beer solution. The fizz that happens when you open a beer is the CO2 coming out of solution. (Technically you can re-carbonate flat beer!)&lt;/p&gt;
+
+					&lt;p&gt;Natural carbonation - All beer has SOME yeast present. Home-brewers that bottle will actually pour a little bit of sugar into the racked beer before bottling. The yeast that is present will re-activate and eat the sugar. One of the bi-products is CO2. Because the beer is bottled and the CO2 has nowhere to go, it will dissolve into solution. This is why you will often see little yeast cakes in the bottom of home-brewer's bottles.&lt;/p&gt;
+
+					&lt;p&gt;There are some beers that used forced-nitrogen to nitrogenate (if that is the appropriate word) their beers. &lt;/p&gt;
+
+					&lt;p&gt;TL;DR - Temperature, methods of carbonating, storing beer can all affect carbonation. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>436</PostId>
+			<ParentPostId>435</ParentPostId>			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T22:14:10.317</CreationDate>
+				<LastActivityDate>2014-01-29T22:14:10.317</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;h2&gt;Sodastream: maybe, but at your own risk.&lt;/h2&gt;
+
+					&lt;p&gt;According to &lt;a href="http://www.sodastreamusa.com/faq.aspx#c3"&gt;Sodastream's FAQ&lt;/a&gt;, "You risk damaging your soda maker, not to mention making a big fizzy mess!".  However, there are a few &lt;a href="http://www.foodrepublic.com/2012/07/05/how-go-rogue-your-sodastream-and-not-lose-eye"&gt;articles&lt;/a&gt; discussing how to carbonate non-water with one.&lt;/p&gt;
+
+					&lt;p&gt;Anecdotes vary:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;a href="http://www.homebrewtalk.com/f39/sodastream-256109/#post3074653"&gt;It overpressurized and sprayed beer everywhere&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.homebrewtalk.com/f39/sodastream-256109/#post3188563"&gt;It worked fine, but go slow&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.quora.com/What-happens-if-you-carbonate-something-other-than-water-with-a-Sodastream"&gt;Wild success!&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Some tips:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;It will definitely void your warranty&lt;/li&gt;
+					&lt;li&gt;Use plastic, not glass, bottles to avoid shrapnel if you make a mistake.&lt;/li&gt;
+					&lt;li&gt;Take your time; most reports indicate it's easy to over-carbonate your beer.&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>437</PostId>
+			<ParentPostId>435</ParentPostId>			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T22:26:58.483</CreationDate>
+				<LastActivityDate>2014-01-29T22:26:58.483</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;h1&gt;Add sugar to bottle-conditioned beer&lt;/h1&gt;
+
+					&lt;p&gt;&lt;em&gt;Warning&lt;/em&gt;: This method is error-prone, high-effort, and probably not worth your time.  Could be fun, though.  :)&lt;/p&gt;
+
+					&lt;p&gt;Most commercial beer is &lt;em&gt;force-carbonated&lt;/em&gt;.  That is to say, the beer is produced and ready to drink (minus the fizz) before they put it in the bottle and mechanically carbonate the beer.&lt;/p&gt;
+
+					&lt;p&gt;Beer that is &lt;em&gt;bottle-conditioned&lt;/em&gt; or &lt;em&gt;bottle-fermented&lt;/em&gt;, however, is put into a bottle with some extra sugar.  The beer is intentionally left with a little of the yeast from the fermentation process, and is sealed with the sugar.  The yeast then does it's normal thing: it eats the sugar and excretes alcohol plus carbon-dioxide.  Since the bottle is sealed, the CO2 has nowhere to go, so it goes into dissolution in the beer, giving you that fizz.  Most bottled homebrew will be like this.&lt;/p&gt;
+
+					&lt;p&gt;So, if you have a beer that is both flat and was bottle-conditioned (and therefore still has some yeast in it), you might be able to bottle-ferment it again:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;Add a very small amount of sugar to the bottle.  Table sugar works, although corn sugar (which you can find from a brew store) is ideal.  It'll be really hard to get the right amount (about 0.083 oz), so I recommend pre-measured tablets of the stuff: &lt;a href="http://www.northernbrewer.com/shop/munton-s-carb-tabs.html"&gt;http://www.northernbrewer.com/shop/munton-s-carb-tabs.html&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;Seal the bottle somehow.  If you have a &lt;a href="http://rads.stackoverflow.com/amzn/click/B000Q6ARMY"&gt;bottle-capper&lt;/a&gt; and some caps, that'd be ideal.  Otherwise, you might be able to get by with a soda bottle and cap.  If you're really lucky, your beer is in a &lt;a href="http://www.homebrewers.com/media/img/homebrewer/W1033-H1573-Bffffff/B/xbottle_swingtop_amber_16oz_.jpg"&gt;swing top&lt;/a&gt; bottle.&lt;/li&gt;
+					&lt;li&gt;Wait a week, maybe a couple to be sure.&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;If you're lucky, there's enough viable yeast in the bottle to start acting again (now that it has new sugar to eat), which will create more CO2 and recarbonate the bottle.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>657</PostId>
+			<ParentPostId>654</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-09T19:06:40.057</CreationDate>
+				<LastActivityDate>2014-03-09T19:06:40.057</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You can decant the beer between two large glasses or pitchers - the agitation will cause the CO&lt;sub&gt;2&lt;/sub&gt; to come out of solution quickly and also not raise the temperature too much. &lt;/p&gt;
+
+					&lt;p&gt;Sample after 4-5 decants to see how much the carbonation has dropped, and repeat as necessary. You will end up with quite a bit of foam, hence the need for larger glasses or a pitcher.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>659</PostId>
+			<ParentPostId>654</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-10T01:30:22.140</CreationDate>
+				<LastActivityDate>2014-03-10T01:30:22.140</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;How long do you leave them in the fridge before you open them?  Making sure they've had a good several hours to chill may mitigate the explosion.  You could also try a homebrewer's trick, which is to chill them really cold, pop the caps all off then put new caps on.  You would need a &lt;a href="http://www.northernbrewer.com/shop/brewing/brewing-equipment/bottling/bottle-cappers/red-baron-emily-capper.html"&gt;bottle capper&lt;/a&gt; to do this.  They're fairly cheap but you probably wouldn't have them unless you were or knew a homebrewer.&lt;/p&gt;
+
+					&lt;p&gt;That said, your best course of action may actually be to contact Hitachino.  Gushing bottles are often a sign of a wild yeast infection, so it's possible you may have just gotten some bad beer that got mishandled in shipping or something messed up on the bottling line and they missed it.  They may replace the pack or at least give you some other cool stuff to make up for the mistake.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>746</PostId>
+			<ParentPostId>745</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>carbonation</tag>
+				<tag>foam</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>-1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-23T12:09:35.870</CreationDate>
+				<LastActivityDate>2014-04-23T12:09:35.870</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>353</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This isn't the "best" answer but a dab of soap (think back to grade school science) with help break up the bubbles and bring that head down real fast&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>749</PostId>
+			<ParentPostId>745</ParentPostId>			<Tags>
+				<tag>serving</tag>
+				<tag>carbonation</tag>
+				<tag>foam</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-23T16:53:44.177</CreationDate>
+				<LastActivityDate>2014-04-23T16:53:44.177</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>662</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Soap is absolutely the worst thing you could do I guess :P.
+					Sometimes I notice that badly dried glasses (with soap rests) produce more foam...
+					In general, make sure your glass is spotlessly clean. You could then either leave it dry or make it a little wet, works sometimes...
+					Keep your glass diagonal to make sure the liquid touches the glass almost parallel to the glass' inner side.
+					Then when pouring, make sure you have a slow and fluent ray of beer that doesn't splash out of your bottle.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>754</PostId>
+			<ParentPostId>655</ParentPostId>			<Tags>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-28T19:01:00.530</CreationDate>
+				<LastActivityDate>2014-04-28T19:01:00.530</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>23</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Over-carbonation is typically a sign of infection, which is certainly a possibility.  It's not a problem I've had with Hitachino, but at their price point I don't drink them often&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>827</PostId>
+			<ParentPostId>655</ParentPostId>			<Tags>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-29T14:02:00.237</CreationDate>
+				<LastActivityDate>2014-05-29T14:02:00.237</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>931</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The chances of contamination at a Japanese brewery are very low.  &lt;/p&gt;
+
+					&lt;p&gt;The Japanese tend to drink their beer much colder than craft beer drinkers in the United States - Think Coors cold.  We suggest placing the beer in the freezer for 3-5 minutes before opening the bottle, leaving it undisturbed and pouring it into an over-sized nonic glass. &lt;/p&gt;
+
+					&lt;p&gt;Hitachino's beers when stored and poured correctly are quite good, but buying them in the United States after a trans-pacific journey is both expensive and less tasty than on tap.&lt;/p&gt;
+
+					&lt;p&gt;Answered by: The Gastrograph Team&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>908</PostId>
+			<ParentPostId>907</ParentPostId>			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-06T12:35:42.170</CreationDate>
+				<LastActivityDate>2014-07-06T12:35:42.170</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1066</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes, some beers have more carbonation than others. I've yet to drink one that is 100% flat but some are pretty close. I couldn't tell you exactly what it does for any beer - the brewer simply decided that it was a good fit for this beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>909</PostId>
+			<ParentPostId>907</ParentPostId>			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-06T14:41:37.977</CreationDate>
+				<LastActivityDate>2014-07-06T14:41:37.977</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1062</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Traditional ale styles of beer were only carbonated by using natural yeast and remaining sugars post fermentation. The ale house would "pull" pints from huge wood tanks, generally located below their taps by using traditional cask systems. CO2 was not available to breweries for most of the worlds brewing history. This led to a ale that was cellar temperature and with little to no carbonation. &lt;/p&gt;
+
+					&lt;p&gt;Today breweries try to replicate this process by "cask conditioning" carbonating naturally their beers. So, there is no forced carbonation with CO2 and generally they do not refrigerate cask ales either. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>3368</PostId>
+			<ParentPostId>3367</ParentPostId>			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-07T13:06:39.327</CreationDate>
+				<LastActivityDate>2015-05-07T13:06:39.327</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Carbonation drops are just premeasured doses of priming sugar.  Sometimes they'll be a mix of glucose and sucrose, or just a single sugar depending on the brand.  But otherwise they're exactly the same as priming sugar, so no chemical or taste difference.&lt;/p&gt;
+
+					&lt;p&gt;They're probably being recommended by the instructions since they're pretty much impossible to mess up, which is great for new brewers since it's one less thing to worry about.&lt;/p&gt;
+
+					&lt;p&gt;I had heard a rumor once that the drops that came with hopped extract kits like Coopers or Mr. Beer also had Maltodextrin, which increases body and head retention since extract kits often have deficiencies in those departments.  However, I've never found any actual sources to back this up so it's probably just be overhearing the guy at a home-brew shop talking out of his butt.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13" InstanceType="answer">
+			<PostId>4833</PostId>
+			<ParentPostId>4648</ParentPostId>			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-17T22:06:33.417</CreationDate>
+				<LastActivityDate>2016-02-17T22:06:33.417</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4637</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;While I can't point you to a calculator on beer gas mixture I can point you to this &lt;a href="http://www.draughtquality.org/wp-content/uploads/2012/01/One-Pager-The-Facts-About-25-75-Gas1.pdf" rel="nofollow"&gt;Fact sheet&lt;/a&gt; from the Brewers Association.&lt;/p&gt;
+
+					&lt;p&gt;The key to balance a tap system is figuring out the opposing pressures. The keg to tap resistance must be matched by the gas tank push pressure. The gas pressure puts in a little CO2, the liquid line squeezes a little out. However, in long draw setups where the draft line has a lot of resistance the push pressure would have be so high that a lot more CO2 would be dissolved into the beer.  The amount of CO2 squeezed out would cause very foamy beer. How to solve this?  Mix in some Nitrogen.&lt;/p&gt;
+
+					&lt;p&gt;Basically, the &lt;strong&gt;Nitrogen will never blend into the beer.&lt;/strong&gt;  It is used as an inert gas to maintain the pressure in long draw lines.  Any change in carbonation would come from the mix ratio.  If the mix is too low in CO2, as the keg empties the beer will go flat since not enough CO2 is being forced in.  If the mix is too high in CO2 then the beer would gain carbonation from the beer gas.&lt;/p&gt;
+
+					&lt;p&gt;Your ratio of 30% CO2 / 70% N is more suited to a Nitro tap setup.  Traditional nitro beers have an original carbonation level of around 1-1.5 volumes of CO2.  The amount of CO2 needed to maintain this carbonation level is minimal &lt;em&gt;PLUS&lt;/em&gt; the faucets that pour these beers have an extra plate that restricts the flow even more, forcing almost all gas out of the beer.  Without that specialized faucet, the beer coming out would just be flat with maybe a few sad bubbles of CO2 but no thick head of foam that you'd expect.  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14" InstanceType="answer">
+			<PostId>4971</PostId>
+			<ParentPostId>655</ParentPostId>			<Tags>
+				<tag>freshness</tag>
+				<tag>bottles</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-22T00:56:26.073</CreationDate>
+				<LastActivityDate>2016-04-22T00:56:26.073</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5328</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I just went through four Hitachinos, and I can say for sure - they are solidly carbonated, but nothing I would call undrinkable. I've definitely had - and enjoyed - more carbonated beers. I've also had them before (bottle and poured at a bar) and never had the overcarbonation problem you describe.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15" InstanceType="answer">
+			<PostId>6680</PostId>
+			<ParentPostId>6668</ParentPostId>			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-17T09:00:50.503</CreationDate>
+				<LastEditDate>2017-03-17T11:27:09.393</LastEditDate>
+				<LastActivityDate>2017-03-17T11:27:09.393</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What you will be looking for is a &lt;strong&gt;&lt;em&gt;Cask ale or cask-conditioned beer&lt;/em&gt;&lt;/strong&gt; these are all generally very low carbonation or non at all due to only being left in a cask &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;"Beer brewed from traditional ingredients, matured by secondary
+					  fermentation in the container from which it is dispensed, and served
+					  without the use of extraneous carbon dioxide"&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;If you go to an ale bar they will usually have at least one cask ale on I have not done a tour of America, so I cannot for sure tell you of places in America for low carbonated beer, but as for the what type of beer Cask Conditioned is definitely what you should be looking for. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16" InstanceType="answer">
+			<PostId>6690</PostId>
+			<ParentPostId>14</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-19T14:24:13.047</CreationDate>
+				<LastActivityDate>2017-03-19T14:24:13.047</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6573</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have a similar question, but interpret the original question differently - probably because I am a home brewer that lets the beer carbonate naturally. If you are forcing CO2 into the beer, I imagine you have greater control over levels of carbonation. However, I understand that the final gravity, alcohol content, amount of sugar, and temperature have the most significant impact on carbonation in the bottle. The primary factors would be Lower FG and ABV will increase carbonation, and secondarily a little more sugar and time (&gt;3weeks) will increase carbonation. This all assumes you are storing the beer in a temp range that makes for happy yeast.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17" InstanceType="answer">
+			<PostId>6722</PostId>
+			<ParentPostId>435</ParentPostId>			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-31T17:04:46.157</CreationDate>
+				<LastActivityDate>2017-03-31T17:04:46.157</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes and No. Yes you can re-carbonate beer either by injecting CO2 into it either with a Sodastream (are those things still around) or natural conditioning as mentioned in another answer. &lt;/p&gt;
+
+					&lt;p&gt;No, you really don't want to do this. If the beer has gone flat, it is likely that it has lost the protective layer from the CO2 and oxidation has occurred and the beer is likely &lt;strong&gt;stale&lt;/strong&gt;. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18" InstanceType="answer">
+			<PostId>7130</PostId>
+			<ParentPostId>435</ParentPostId>			<Tags>
+				<tag>carbonation</tag>
+			</Tags>
+			<Credit> 
+				<Score>-1</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-22T20:27:16.100</CreationDate>
+				<LastActivityDate>2017-12-22T20:27:16.100</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7450</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes, you can re-carbonate long flat beer. If the beer has been only gone flat.  Once re-carbonated I doubt that you would be able to tell the difference. I did this once with Corni Kegs and a CO2 pressure system over a couple days for 10 gallons. Tasted great. Beer doesn't go stale without contamination, but will go flat without a seal to keep pressurized. Next I am going to try to to rejuvenate a Growler from a microbrewery that I didn't screw the cap on tightly.  This time, however, I will be using 2 ltr bottles, baking soda and vinegar! &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19" InstanceType="answer">
+			<PostId>7137</PostId>
+			<ParentPostId>7136</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>carbonation</tag>
+				<tag>cider</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-26T19:56:50.350</CreationDate>
+				<LastActivityDate>2017-12-26T19:56:50.350</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;First, I would check to see if it's still drinkable. You might have a carboy of apple cider vinegar if you haven't put any sulfites into it or somehow prevented from oxidation. The way to test it is to get a siphon (that you have sanitized) and suck out a little to taste. If it tastes ok, then you need to prepare for bottling. &lt;/p&gt;
+
+					&lt;p&gt;I would follow these &lt;a href="http://www.greatfermentations.com/wp-content/themes/greatfermentations/images/blog/2012/04/Cider-Tech-Revised.pdf" rel="noreferrer"&gt;directions&lt;/a&gt; except when it says to prime with 1/2 cup of corn sugar, I would put in a little yeast (maybe a tablespoon?) and mix with some water before you bottle. Make sure the yeast has dissolved. I'm sure the yeast in your carboy is dead at this point.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20" InstanceType="answer">
+			<PostId>7138</PostId>
+			<ParentPostId>7136</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>carbonation</tag>
+				<tag>cider</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-29T11:19:01.213</CreationDate>
+				<LastActivityDate>2017-12-29T11:19:01.213</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6641</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I once did the same thing. I must have added water to the fermentation
+					 lock 4 or 5 times. The taste was fine so i just bottled it as usual. I always suck up the part of yeast when bottling. by the way, the yeast is dormant not dead.  Adding additional yeast would not hurt. Just don't add it before boiling the sugar and water or cider or it will be dead.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21" InstanceType="answer">
+			<PostId>7190</PostId>
+			<ParentPostId>7136</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>carbonation</tag>
+				<tag>cider</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-12T15:44:53.570</CreationDate>
+				<LastActivityDate>2018-02-12T15:44:53.570</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7580</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have used a soda stream to carbonate wine in the past. It works well with very little work. If you want to go with an old school method of carbonating in the bottle then you must be sure that your bottles are rated for 90PSI. Once the fermenting is done in the bottle, turn the bottle upside down so that the yeast sediment settles in the neck of the bottle. Once the yeast has settled and your wine or cider looks clear, you then place it in a freezer and watch for ice to form in the neck first. Once the yeast sediment freezes in the neck only, remove it from the freezer and open the bottle and the frozen yeast can be easily removed. Most of the time the pressure from the carbonation will push the frozen yeast wad out. You can then top it off with more wine or cider if you plan on storing it for later.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,890 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1154</PostId>
+			<ParentPostId>458</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T04:14:24.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					1. You're holding a bottle of beer, mostly full
+					2. A prankster comes up and hits your bottle from above with hers.
+					3. Yours immediately and violently overflows (while hers stays unaffected).
+
+					&lt;img src="http://www.npr.org/assets/img/2013/11/beer/beerresized.gif"&gt;
+
+					Of special note is the fact that this does not occur when a beer bottle is hit from below or on the sides.
+
+					What mechanism causes this?  Is it a property of beer, or of glass beer bottles, or something else?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>1155</PostId>
+			<ParentPostId>458</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T04:14:24.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do beer bottles overflow when hit from above?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>1156</PostId>
+			<ParentPostId>458</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T04:14:24.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottles, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>1167</PostId>
+			<ParentPostId>458</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T13:25:06.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429243947647766528
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>1183</PostId>
+			<ParentPostId>470</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T18:59:21.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In my experience, as well as accounts of others' experiences, it seems that clear and green bottles are inferior to brown bottles for storing beer. I know this is due to the amount of light allowed through the bottle.
+
+					But why do breweries continue to use green and (especially) clear bottles? Why bother with a bottle that is more likely to allow beer to spoil?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>1184</PostId>
+			<ParentPostId>470</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T18:59:21.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why use clear or green bottles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>1185</PostId>
+			<ParentPostId>470</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T18:59:21.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					skunking, bottles, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>1256</PostId>
+			<ParentPostId>470</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-02T07:25:09.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429878138462830592
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>1322</PostId>
+			<ParentPostId>521</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T18:23:03.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Typically I want to age 22oz bottles, but I'm curious if I could get away with aging a smaller bottle. Is there any difference based on bottle size?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>1323</PostId>
+			<ParentPostId>521</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T18:23:03.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does bottle size affect aging or storage?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>1324</PostId>
+			<ParentPostId>521</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T18:23:03.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, aging, bottles, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>1334</PostId>
+			<ParentPostId>521</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T19:30:12.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430785377784578048
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>1407</PostId>
+			<ParentPostId>554</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T23:30:12.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>418</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Different beer bottles and cans (with contents) from different places collected in the past 3 years.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>1408</PostId>
+			<ParentPostId>554</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T23:30:12.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>418</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Will a collection of 100 beers collectively be worth more 20 years from now than their value today?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>1409</PostId>
+			<ParentPostId>554</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T23:30:12.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>418</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottles, cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1471</PostId>
+			<ParentPostId>554</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T04:36:12.487</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432009948160339968
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>1795</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. Unfortunately, the first two bottles I've opened now seem to have both been *severely* overcarbonated.
+
+					We're talking foam overflowing out of the bottle once I open it. These bottles have *not* been exposed to significant agitation recently. They've been sitting on a shelf, upright as is proper, for days. Worse still, they don't just explode and make a mess, but they also simply *taste* severely overcarbonated. It's like drinking shaken seltzer water mixed with my beer, and it's decidedly unpleasant. At this point, the only thing I've been able to do is pour a glass, leave it out for an hour or three, and *then* drink it.
+
+					Which is... impractical at best, and is only going to become less so as the weather warms up. Is there anything else I can do to mitigate this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>1796</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there anything I can do short of leaving a glass out on the counter to mitigate overcarbonation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>1797</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, freshness, bottles, carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>1798</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:47:58.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be [severely overcarbonated.](http://beer.stackexchange.com/q/654/8) To the point of both making a mess, and being unpleasant to drink.
+
+					Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>1799</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:47:58.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are Hitachino's beers characteristically really heavily carbonated?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>1800</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:47:58.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					freshness, bottles, carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Body" >
+			<PostId>1801</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:55:27.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				added 50 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be [severely overcarbonated.](http://beer.stackexchange.com/q/654/8) To the point of both making a mess, and being unpleasant to drink.
+
+					Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? Or just spoiled by sitting on the shelf too long? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>1807</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-09T22:46:32.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/442793585474551809
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Unknown" >
+			<PostId>1822</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T19:46:32.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/443110674894708736
+			</EditDetails>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>2054</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-19T16:56:02.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>793</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have read that when stored in a clear container, sunlight can cause beer to skunk in a matter of seconds or minutes. I have also read that brown bottles are "better" when it comes to preventing this.
+
+					But how much better? Enough to "not worry about it" for short-term storage?
+
+					My specific situation is this: I have a (clear) glass cupboard in the living room. I also have a rotating (every few weeks or so) selection of beers, some of which are in rather nice bottles. I would like to store the bottles in said cupboard. 
+
+					The bottles are brown, and the cupboard is not exposed to *direct* sunlight, but the room is generally well-lit. Would I be risking (or just waiting for) spoilage?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>2055</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-19T16:56:02.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>793</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are brown bottles sufficient to protect beer from skunking?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>2056</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-19T16:56:02.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>793</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, bottles, skunking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Unknown" >
+			<PostId>2057</PostId>
+			<ParentPostId>740</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-20T00:15:25.157</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/457673856447442944
+			</EditDetails>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Body" >
+			<PostId>6630</PostId>
+			<ParentPostId>3417</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T19:00:38.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4241</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is draught (draft) beer known to cause more hangovers than bottled beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Title" >
+			<PostId>6631</PostId>
+			<ParentPostId>3417</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T19:00:38.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4241</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why does draught (draft) beer cause hangovers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Tags" >
+			<PostId>6632</PostId>
+			<ParentPostId>3417</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T19:00:38.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4241</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					draught, bottles, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Body" >
+			<PostId>6823</PostId>
+			<ParentPostId>3499</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-24T07:10:26.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4353</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was wondering if there really is a difference in taste when you drink the same beer out of a glass, a bottle and a can.
+
+					Can anybody please tell me if there is a difference or if this is just a prejudice in your mind that makes you think it's better in one way?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Title" >
+			<PostId>6824</PostId>
+			<ParentPostId>3499</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-24T07:10:26.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4353</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Difference between glass, bottle and can?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Tags" >
+			<PostId>6825</PostId>
+			<ParentPostId>3499</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-24T07:10:26.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4353</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, glassware, bottles, cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>7894</PostId>
+			<ParentPostId>3499</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-15T22:00:44.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/632673302042030080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Body" >
+			<PostId>8662</PostId>
+			<ParentPostId>4824</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-12T18:19:14.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5083</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I received a bottle of Delirium Tremens for my birthday and this will be the first time I have tasted that beer.  I see that it has what appears to be a cork which is surrounded by 4 wire posts at the corner.  The [following site][1] (of some random person I don't know) has an image of a bottle looking very much like my own.
+
+					So that I don't mutilate what is sure to be a wonderful beer, how should I get about opening it?
+
+
+					  [1]: https://www.instagram.com/p/6OODOXD7f2/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Title" >
+			<PostId>8663</PostId>
+			<ParentPostId>4824</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-12T18:19:14.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5083</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the proper way to open a bottle of Delirium Tremens?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Tags" >
+			<PostId>8664</PostId>
+			<ParentPostId>4824</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-12T18:19:14.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5083</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottles, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Unknown" >
+			<PostId>8847</PostId>
+			<ParentPostId>4824</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-08T20:32:23.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/707302966492078081
+			</EditDetails>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Edit Body" >
+			<PostId>12508</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be [severely overcarbonated.](https://alcohol.stackexchange.com/q/654/8) To the point of both making a mess, and being unpleasant to drink.
+
+					Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? Or just spoiled by sitting on the shelf too long? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Edit Body" >
+			<PostId>13136</PostId>
+			<ParentPostId>458</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-16T11:47:14.140</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					1. You're holding a bottle of beer, mostly full
+					2. A prankster comes up and hits your bottle from above with hers.
+					3. Yours immediately and violently overflows (while hers stays unaffected).
+
+					See this short [video](http://www.npr.org/assets/img/2013/11/beer/beerresized.gif).
+
+					Of special note is the fact that this does not occur when a beer bottle is hit from below or on the sides.
+
+					What mechanism causes this?  Is it a property of beer, or of glass beer bottles, or something else?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Body" >
+			<PostId>13695</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-28T21:09:52.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>174</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A long long time ago (.. I can still remember ♫) there were these old bottle caps. My parents still have 2 or 3 at home from soviet times. They look kinda like this:
+
+					[![enter image description here][1]][1]
+
+
+					What are those called? Ar there some keywords to find them? It took me at least 3- minutes to even find this image (and it was in  middle of completely unrelated images down on something like the third image-search page). Or, the best option, where can I buy a box of these?
+
+					  [1]: https://i.stack.imgur.com/kv6MK.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Title" >
+			<PostId>13696</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-28T21:09:52.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>174</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Trying to find a resealable bottle cap
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Tags" >
+			<PostId>13697</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-28T21:09:52.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>174</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottles, preservation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Edit Body" >
+			<PostId>13698</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-28T21:35:12.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>174</UserId>
+			</Contributors>
+			<EditDetails>
+				added 150 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					A long long time ago (.. I can still remember ♫) there were these old bottle caps. My parents still have 2 or 3 at home from soviet times. They look kinda like this:
+
+					[![enter image description here][1]][1]
+
+
+					What are those called? Ar there some keywords to find them? It took me at least 3- minutes to even find this image (and it was in  middle of completely unrelated images down on something like the third image-search page). Or, the best option, where can I buy a box of these?
+
+					**P.S.** I know that the image is from "flip-top" wikipedia page, but what I am looking for is a cap, that is independent from the bottle itself. 
+
+					  [1]: https://i.stack.imgur.com/kv6MK.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Unknown" >
+			<PostId>13744</PostId>
+			<ParentPostId>7168</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-10T20:48:56.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/962428191234232321
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

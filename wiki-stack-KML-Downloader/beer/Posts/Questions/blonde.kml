@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>7412</PostId>
+			<Title>
+			"Beer expired last year and this year"
+			</Title>
+			<Tags>
+				<tag>blonde</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>48</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-02T07:03:03.460</CreationDate>
+				<LastEditDate>2018-08-02T07:28:56.183</LastEditDate>
+				<LastActivityDate>2018-08-11T18:32:51.290</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7974</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;We have lots of Blonde beer which expired last year and some expired May this year.  &lt;/p&gt;
+
+					&lt;p&gt;Is it still safe to drink?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="2300"  UserId="1410" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-10-22T05:04:46.770</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4325"  UserId="1410" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2015-06-29T19:06:38.637</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8043"  UserId="1410" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2017-11-08T18:32:23.073</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

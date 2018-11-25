@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>680</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T16:59:18.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This doesn't really address your question, but I wanted to mention it anyway: dubels and tripels aren't just stronger versions.  The dubel, in particular, uses darker malts and candi sugar to achieve its dark color and rum / raisin sweetness.  The tripel instead uses lighter malts and white candi sugar for a very different character.  There is a progression in strength, but it's a little more complex than that.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>681</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T17:20:01.903</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@object88 Your point seems interesting! I created a new question http://beer.stackexchange.com/questions/602/what-are-the-difference-between-a-dubbel-and-a-tripel
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

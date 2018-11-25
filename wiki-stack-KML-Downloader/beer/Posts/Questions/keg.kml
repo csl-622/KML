@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>123</PostId>
+			<Title>
+			"Why would one choose to use Nitro vs CO2 as a beer gas?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>17206</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:57:28.603</CreationDate>
+				<LastEditDate>2015-06-11T13:19:47.000</LastEditDate>
+				<LastActivityDate>2016-04-20T11:52:21.797</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>84</OwnerUserId>
+				<LastEditorUserId>268</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some beers have taste different on Nitro vs CO2. I'm sure there is science behind this. Why choose one over the other?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>233</PostId>
+			<AcceptedAnswerId>253</AcceptedAnswerId>
+			<Title>
+			"Crash course to serving keg beer"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>1988</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:31:58.850</CreationDate>
+				<LastEditDate>2016-01-04T00:05:42.467</LastEditDate>
+				<LastActivityDate>2016-01-04T00:05:42.467</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>130</OwnerUserId>
+				<LastEditorUserId>1077</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was at a picnic where someone brought us a keg of beer. They left the keg, the tap, and bid us to have fun and left. And there we stood, baffled how to get this to work. Someone figured &lt;em&gt;something&lt;/em&gt; out and we got our cups full of beer froth with a tiny bit of beer on the bottom.&lt;/p&gt;
+
+					&lt;p&gt;I wouldn't want such a situation to repeat, so could someone give me a brief guide of how to assemble a beer stand (keg+tap) without getting it to explode into my face, get a proper stream going (instead of just a lot of froth), and pour it properly?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>353</PostId>
+			<AcceptedAnswerId>356</AcceptedAnswerId>
+			<Title>
+			"What can I do to prevent beer staling in a keg being pushed by air?"
+			</Title>
+			<Tags>
+				<tag>freshness</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>205</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T13:24:36.643</CreationDate>
+				<LastActivityDate>2014-09-15T08:58:28.957</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;On a private party or picnic when we use hand pump to push beer out of a keg the beer can relatively quickly get stale. What can be done to keep the beer in a good quality for as long as possible?&lt;/p&gt;
+
+					&lt;p&gt;I can imagine that a low temperature and not moving the keg can help. What about air pressure? Is it better to keep it low or higher? I guess that low pressure is better because lower amount of air should dissolve in the beer in such a case. What other factors could influence the beer durability in such a situation?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>744</PostId>
+			<Title>
+			"How do you tame a 'foamy' keg?"
+			</Title>
+			<Tags>
+				<tag>foam</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>84075</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-22T04:33:55.403</CreationDate>
+				<LastActivityDate>2015-11-04T08:58:02.763</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>801</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Have a kegerator home built system for 1/2 barrel beer in the garage. Recently had a keg of beer that was foamy no matter what we tried to do. Served it low temp, 37 degrews, and almost no CO2 pressure. Tried serving warmer, with more pressure, still tons of foam.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>2164</PostId>
+			<Title>
+			"How long does it take to cool a keg of beer?"
+			</Title>
+			<Tags>
+				<tag>keg</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>5495</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-31T23:17:53.783</CreationDate>
+				<LastEditDate>2015-01-01T02:48:02.473</LastEditDate>
+				<LastActivityDate>2015-03-08T16:42:34.160</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>224</OwnerUserId>
+				<LastEditorUserId>224</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have a corny (5 gal) keg of homebrew, already carbonated, that's been aging at room temperature.  I'd like to bottle it off soon, but in my experience that works best when the beer is in the 45-50 degree Fahrenheit range.&lt;/p&gt;
+
+					&lt;p&gt;Tonight the weather forecast for my area says it will get down to 29, and tomorrow it will be right around 45.  I'm inclined to just stick the keg on the fire escape tonight and leave it until the afternoon.  I'm not really worried about freezing, given the alcohol content I understand it should be able to go down to 28 or 29 without trouble (correct me if I'm wrong here).&lt;/p&gt;
+
+					&lt;p&gt;I can't seem to find any reliable resources about air cooling, just recommendations for folks trying to cool beer as fast as possible.  Will the keg be cool enough tomorrow to bottle?&lt;/p&gt;
+
+					&lt;p&gt;EDIT: The forecast now says it could get as low as 24, so the freezing question may also be an issue.  The keg is outside, so we'll see what happens.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>3463</PostId>
+			<AcceptedAnswerId>4615</AcceptedAnswerId>
+			<Title>
+			"New Regulator = Air in my Beer LInes?"
+			</Title>
+			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>427</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-14T15:24:56.103</CreationDate>
+				<LastEditDate>2015-07-14T17:26:04.277</LastEditDate>
+				<LastActivityDate>2015-10-07T09:44:56.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4322</OwnerUserId>
+				<LastEditorUserId>4322</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Had to replace a faulty regulator for my two tap system.  Hooked everything up, changed nothing else, not the temp in the fridge, not the kegs, etc.  Literally just the regulator.&lt;/p&gt;
+
+					&lt;p&gt;Now I have air bubbles forming in the beer line after an hour or so of no use.  Is it possible that the problem is from the CO2 regulator?&lt;/p&gt;
+
+					&lt;p&gt;Some additional background: current pressure is at 8 or so.  When I had my "faulty" regulator prior to this -- the gauge would read 0 no matter what the line pressure was. To that end, it is entirely possible I overcarbonated the keg itself by thinking the tank was empty and cranking it up.&lt;/p&gt;
+
+					&lt;p&gt;It is also worth noting the beer tastes metallic -- did I overcarbonate and this will resolve over time?  I am going to drop it down to 4 or 6 for now and bleed the kegs aggressively.&lt;/p&gt;
+
+					&lt;p&gt;I am running a commercial tap system (Sankey).  This is not relative to homebrew.&lt;/p&gt;
+
+					&lt;p&gt;Thanks.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>4590</PostId>
+			<Title>
+			"How to tap beer without CO2, like the germans do?"
+			</Title>
+			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>4462</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-18T04:24:44.807</CreationDate>
+				<LastActivityDate>2015-10-01T17:17:08.173</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4327</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know how to tap beer from a keg with CO2. The CO2 provides the pressure and you will get the beer.&lt;/p&gt;
+
+					&lt;p&gt;But how can germans tap their beer without using CO2?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>6364</PostId>
+			<AcceptedAnswerId>6366</AcceptedAnswerId>
+			<Title>
+			"Which gas will make a beer last longer in a keg, CO2 or nitrogen?"
+			</Title>
+			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>1037</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-24T01:33:26.547</CreationDate>
+				<LastEditDate>2017-06-06T21:47:05.920</LastEditDate>
+				<LastActivityDate>2017-06-06T21:47:05.920</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6039</OwnerUserId>
+				<LastEditorUserId>6111</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a difference in how long a beer is considered good when running through a nitrogen system vs a co2 system?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>7048</PostId>
+			<Title>
+			"Are ALL keg beer non-pasteurized?"
+			</Title>
+			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>319</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-10-23T15:41:49.603</CreationDate>
+				<LastActivityDate>2017-10-25T02:03:28.123</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7209</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I understand bottles or cans may or may not be pasteurized. How about Keg beer? I was under the impression that &lt;strong&gt;all&lt;/strong&gt; keg beers are not pasteurized because of the volume, is that true? Are there exceptions? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>7282</PostId>
+			<Title>
+			"Can I pour cans into a keg?"
+			</Title>
+			<Tags>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>91</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-14T20:23:36.220</CreationDate>
+				<LastEditDate>2018-05-14T20:34:58.907</LastEditDate>
+				<LastActivityDate>2018-06-12T16:18:21.383</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7785</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Can I pour cans of  Carling  in to a keg to use with a beer tap?&lt;/p&gt;
+
+					&lt;p&gt;It's a 9 liter keg, and all the beer will be drunk that day/night&lt;/p&gt;
+
+					&lt;p&gt;What gas pressure would I need? (If it's possible.) &lt;/p&gt;
+
+					&lt;p&gt;Can the same be done with dark fruit cider? Again, it will all be drunk on the same day/night. (It's just a show off thing for the beer garden.)&lt;/p&gt;
+
+					&lt;p&gt;I will pour the cans in slowly taking my time, I would just like to know if it will be possible. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

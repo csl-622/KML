@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>33</PostId>
+			<AcceptedAnswerId>42</AcceptedAnswerId>
+			<Title>
+			"What's the difference between a porter and a stout?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+				<tag>classification</tag>
+				<tag>porter</tag>
+			</Tags>
+			<Credit> 
+				<Score>35</Score>
+				<ViewCount>1923</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:00:23.103</CreationDate>
+				<LastEditDate>2015-11-12T09:56:01.547</LastEditDate>
+				<LastActivityDate>2016-02-15T14:01:01.503</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>36</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Porters and stouts seem very similar and sometimes stores and restaurants group them together as if they're two different names for the same thing.&lt;/p&gt;
+
+					&lt;p&gt;Is there a difference and what is it?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>53</PostId>
+			<AcceptedAnswerId>65</AcceptedAnswerId>
+			<Title>
+			"Does chocolate stout contain real chocolate?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>21</Score>
+				<ViewCount>2101</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:14:30.290</CreationDate>
+				<LastActivityDate>2014-12-09T13:43:48.883</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>53</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Various microbreweries make chocolate stout that does indeed, to varying degrees, taste of chocolate. Does it really contain chocolate, and how is chocolate used in the brewing process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>63</PostId>
+			<AcceptedAnswerId>75</AcceptedAnswerId>
+			<Title>
+			"Why does Guinness have a special pouring process / bottle, while other stouts do not?"
+			</Title>
+			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>1458</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:22:24.927</CreationDate>
+				<LastActivityDate>2015-01-20T15:34:34.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>56</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness is sold in bottles and cans with special nitrogen widgets; the taps are specially rigged to have a two-step pouring process; heck, there's even a certificate given to people who learn how to "pour the perfect pint" at the Guinness factory in Dublin.  My question is: what makes Guinness so special? Why aren't these tactics used by other stout (or similar variants) producers?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>69</PostId>
+			<AcceptedAnswerId>134</AcceptedAnswerId>
+			<Title>
+			"Does milk stout actually contain lactose?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>18</Score>
+				<ViewCount>15099</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:28:53.190</CreationDate>
+				<LastActivityDate>2016-12-24T12:13:11.367</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>63</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know that lactose is used in the brewing process for milk stout, but I don't know if it remains there by the end of the brewing process.  I'm very lactose intolerant, and want to know if I need to take a lactase pill if I drink a milk stout.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>76</PostId>
+			<AcceptedAnswerId>117</AcceptedAnswerId>
+			<Title>
+			"How do I tell if I poured a stout correctly?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>269</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:33:38.903</CreationDate>
+				<LastEditDate>2014-01-21T22:02:12.187</LastEditDate>
+				<LastActivityDate>2014-01-24T06:13:50.857</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>36</OwnerUserId>
+				<LastEditorUserId>36</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What do I need to be paying attention to when I pour a stout and how do I tell if I got it right? Usually this applies to either "regular" stouts or chocolate stouts.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>372</PostId>
+			<AcceptedAnswerId>394</AcceptedAnswerId>
+			<Title>
+			"Why do some beers seem to make people feel more full?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>2880</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T05:31:30.897</CreationDate>
+				<LastActivityDate>2017-01-10T19:03:11.640</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>212</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know several people who refuse to drink stouts, or will only have 2 as opposed to 4 if we were drinking something else (generally a bock or lighter beer). I feel like I drank less of them too, and it is always to the same end; feeling too full to drink another. &lt;/p&gt;
+
+					&lt;p&gt;I remember looking it up at some point and the Calories &amp;amp; ABV were negligibly different.&lt;/p&gt;
+
+					&lt;p&gt;There must be a reason, I know several people who feel the same way. Since then I've just assumed that it is psychosomatic and that the fuller taste makes you feel more full.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>637</PostId>
+			<AcceptedAnswerId>638</AcceptedAnswerId>
+			<Title>
+			"Is Oyster Stout really made using oysters?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>14165</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-25T12:15:47.883</CreationDate>
+				<LastActivityDate>2016-10-05T23:48:05.620</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>541</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;One of my favorite stouts is &lt;a href="http://www.scheldebrouwerij.nl/onze_bieren.aspx"&gt;Oesterstout by the Schelde Brewery&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;p&gt;The website states:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;During the brewing process, the &lt;a href="http://en.wikipedia.org/wiki/Wort"&gt;wort&lt;/a&gt; of the beer is pumped across the oyster shells.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Is this what gives it it's distinct taste? In Denmark, another more easily available Oyster stout is &lt;a href="http://www.beeradvocate.com/beer/profile/427/1274/"&gt;Marston's Oyster Stout&lt;/a&gt;. Do all Oyster Stouts follow this particular process, or is it more of a sales pitch?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>854</PostId>
+			<AcceptedAnswerId>857</AcceptedAnswerId>
+			<Title>
+			"In the United States, is a beer required to state ABV on the bottle/label?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>stout</tag>
+				<tag>abv</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>10616</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-05T21:22:58.623</CreationDate>
+				<LastActivityDate>2017-12-24T22:14:49.780</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>803</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently purchased a Dogfish Head World Wide Stout. I bought it on a whim because 1. I was looking for a stout, and 2. I typically enjoy Dogfish Head. Only after I got home and looked it up did I realize it has an ABV of roughly 18%. Then I checked the bottle and realized that no where on it does it state the ABV. I found that quite strange especially considering "liquor", by law, must state such information.&lt;/p&gt;
+
+					&lt;p&gt;So are fermented drinks simply exempt from having to state this info? I've never come across another beer that did not state ABV on it -- let alone one with 18%.&lt;/p&gt;
+
+					&lt;p&gt;(P.S. It was a delicious beer.)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>924</PostId>
+			<AcceptedAnswerId>926</AcceptedAnswerId>
+			<Title>
+			"What is the micronutritional value of stouts such as Guinness?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+				<tag>porter</tag>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>2290</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-14T16:42:58.703</CreationDate>
+				<LastActivityDate>2014-07-14T23:46:21.707</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1098</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I can only find (on their website, and on other nutrition websites) the macronutrients of Guinness.&lt;/p&gt;
+
+					&lt;p&gt;Can someone provide a specific breakdown of micronutrient information for Guinness, or another similar stout?&lt;/p&gt;
+
+					&lt;p&gt;By micronutrients I mean vitamins, minerals, amino acids, etc.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>1095</PostId>
+			<AcceptedAnswerId>1114</AcceptedAnswerId>
+			<Title>
+			"How to measure the caffeine content of a coffee beer at home?"
+			</Title>
+			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>2136</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-11-26T06:21:42.833</CreationDate>
+				<LastEditDate>2014-12-18T14:15:20.853</LastEditDate>
+				<LastActivityDate>2014-12-18T14:15:20.853</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>352</OwnerUserId>
+				<LastEditorUserId>1488</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently got a winter sampler pack by Sierra Nevada, which had 3 Coffee Stout beers. I've also brewed my own coffee stout for early next year. I was wondering, having tried both, they both have a decent coffee taste, but is there any home science way to find the caffeine content of a coffee beer.&lt;/p&gt;
+
+					&lt;p&gt;FWIW my homebrew was "dry hopped" with 6 ounces of coffee grounds for two weeks, in a 5gal batch. Not sure if that can help with any calculations.&lt;/p&gt;
+
+					&lt;p&gt;Let me know if this is off topic, and I can move it to the homebrew SE, or even maybe the chemistry or cooking stack.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>2161</PostId>
+			<AcceptedAnswerId>2170</AcceptedAnswerId>
+			<Title>
+			"What exactly is a golden stout?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>3967</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-31T19:19:57.697</CreationDate>
+				<LastEditDate>2015-01-05T15:36:18.843</LastEditDate>
+				<LastActivityDate>2015-01-22T00:29:09.657</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1547</OwnerUserId>
+				<LastEditorUserId>2648</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I just saw a golden stout, I thought that stouts had to be dark and use roasted malts. What does a golden stout taste like? The same as a stout minus the color?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>3364</PostId>
+			<AcceptedAnswerId>3365</AcceptedAnswerId>
+			<Title>
+			"Other stouts to use in a 'Guinness cake'"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>stout</tag>
+				<tag>cooking</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>348</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-06T09:28:43.677</CreationDate>
+				<LastEditDate>2015-05-06T12:55:20.820</LastEditDate>
+				<LastActivityDate>2015-05-06T14:37:09.333</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4087</OwnerUserId>
+				<LastEditorUserId>268</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've previously had success making a guinness cake (&lt;a href="http://www.nigella.com/recipes/view/chocolate-guinness-cake-3086" rel="noreferrer"&gt;http://www.nigella.com/recipes/view/chocolate-guinness-cake-3086&lt;/a&gt;), and, whilst it was tasty, I figure there has to be a better stout to flavour it with. Any suggestions?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>3457</PostId>
+			<AcceptedAnswerId>4688</AcceptedAnswerId>
+			<Title>
+			"Whats the nickname for gin and mild?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>140</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-10T19:47:09.970</CreationDate>
+				<LastActivityDate>2017-02-20T21:14:09.360</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4309</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Apparently gin and mild is an old man's drink - but I need to get it for a relatives birthday, anyone know a nick name for this drink ?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>3458</PostId>
+			<AcceptedAnswerId>3461</AcceptedAnswerId>
+			<Title>
+			"Are stout and mild the same thing?"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>542</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-10T19:58:21.227</CreationDate>
+				<LastActivityDate>2015-07-13T20:39:08.277</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4309</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are "stout" and "mild" the same thing - "mild" being popular in the UK in the post-war decades. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>4537</PostId>
+			<Title>
+			"Looking for dark but not heavy"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>stout</tag>
+				<tag>lager</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>295</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-19T03:26:09.040</CreationDate>
+				<LastActivityDate>2015-08-19T20:40:34.643</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4439</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I tend to go for darker beers, typically stouts and porters. &lt;/p&gt;
+
+					&lt;p&gt;Guinness is my usual go to when I'm at a bar or restaurant, but as appealing as "a meal in a glass" is, on occasion I find these to be a little too filling/heavy.&lt;/p&gt;
+
+					&lt;p&gt;More recently I had the opportunity to try Köstritzer, which I guess would be classified as a black lager. It had the very familiar taste of a stout but without the filling quality. &lt;/p&gt;
+
+					&lt;p&gt;Black lager seems to be a rather generic category though, the title seems to cover a rather large variety of dark lagers and seems to be more about color than taste. &lt;/p&gt;
+
+					&lt;p&gt;Is there a more specific category I should be looking for?&lt;/p&gt;
+
+					&lt;p&gt;Or perhaps better, does any one know any other beers that taste like a stout but with the light weight of a lager?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>4911</PostId>
+			<Title>
+			"Is it okay to store milk stout on the shelf?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>temperature</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>1236</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-03T00:11:00.517</CreationDate>
+				<LastEditDate>2016-04-06T16:21:42.223</LastEditDate>
+				<LastActivityDate>2016-04-06T16:21:42.223</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5278</OwnerUserId>
+				<LastEditorUserId>887</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I bought a 6 pack of milk stout by left hand off the shelf and it was warm. Upon looking on the bottle, it says "Please Keep Refrigerated." Is this beer okay to be stored on the shelf?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>6497</PostId>
+			<AcceptedAnswerId>6498</AcceptedAnswerId>
+			<Title>
+			"Dark Beer Classifications"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+				<tag>porter</tag>
+				<tag>schwarzbier</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>220</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-28T07:19:14.363</CreationDate>
+				<LastActivityDate>2017-01-30T15:53:06.937</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5847</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What, exactly, is the difference between stout, porter, schwarzbier, and other dark beers?&lt;/p&gt;
+
+					&lt;p&gt;Wiki descriptions:&lt;/p&gt;
+
+					&lt;p&gt;-&lt;a href="https://en.wikipedia.org/wiki/Stout"&gt;Stout&lt;/a&gt;: dark beer made using roasted malt or roasted barley, hops, water and yeast (fairly broad description, imho...)&lt;/p&gt;
+
+					&lt;p&gt;-&lt;a href="https://en.wikipedia.org/wiki/Porter_(beer)"&gt;Porter&lt;/a&gt;: dark style of beer developed in London from well-hopped beers made from brown malt&lt;/p&gt;
+
+					&lt;p&gt;-&lt;a href="https://en.wikipedia.org/wiki/Schwarzbier"&gt;Schwarzbier&lt;/a&gt;: or black beer, is a dark lager made in Germany&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Beer_style#Appearance"&gt;Dark Beer:&lt;/a&gt; opaque or near-opaque colour that exists with stouts, porters, schwarzbiers (black beer) and other deeply coloured styles&lt;/p&gt;
+
+					&lt;p&gt;Two overarching factors seem to be the color, most obviously, and geographical location.&lt;/p&gt;
+
+					&lt;p&gt;But, are all dark beers, 'stouts,' by definition? For example, schwarzbier is a 'dark lager' but, still made from roasted malt?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>7129</PostId>
+			<Title>
+			"Where to find the Leffe Brune (and other Belgian beers) in South London"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+				<tag>belgian-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>56</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-21T19:11:28.787</CreationDate>
+				<LastEditDate>2017-12-24T21:01:21.680</LastEditDate>
+				<LastActivityDate>2018-03-02T18:25:04.210</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7449</OwnerUserId>
+				<LastEditorUserId>7449</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;As per title... I don't know where to find the &lt;strong&gt;Leffe Brune&lt;/strong&gt; (my favourite) in London at "normal" price.
+					I live near Elephant &amp;amp; Castle... south London.&lt;/p&gt;
+
+					&lt;p&gt;By normal price I mean like 2 or 2.5£ (better around 1.59£).
+					It is common to find in little shops and on Tesco/Sainsbury's the Leffe Blonde (33cl) at 1.29£ or 1.59£.&lt;/p&gt;
+
+					&lt;p&gt;I have found sometime the Brune one (at same price) but probably it was really an old stock in some shops. I bought all of them and after months I never seen them again (but they have the Blonde every time).  &lt;/p&gt;
+
+					&lt;p&gt;I'm also interested in:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Westemalle Dubbel&lt;/li&gt;
+					&lt;li&gt;Chimay Red &lt;/li&gt;
+					&lt;li&gt;Chimay Blue&lt;/li&gt;
+					&lt;li&gt;Achel &lt;/li&gt;
+					&lt;li&gt;Kwack&lt;/li&gt;
+					&lt;li&gt;Delirium Tremens&lt;/li&gt;
+					&lt;li&gt;Rochefort&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Do you know some shops that have these ones?  &lt;/p&gt;
+
+					&lt;p&gt;When I lived in Reading the local M&amp;amp;S (near the train station and city center) had a lot of Belgian beers at reasonable price. Not the one in London (in my area).&lt;br&gt;
+					In Reading I can suggest "The Grumpy Goat", it is a tiny shop near the station (hidden in a gallery, you have to know were it is) specialized in beers and cheese. It's a gem in Reading. Vary good choice and prices.  &lt;/p&gt;
+
+					&lt;p&gt;The only option is online? Which shop/site do you suggest?  &lt;/p&gt;
+
+					&lt;p&gt;Thanks,&lt;/p&gt;
+
+					&lt;p&gt;Alex&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

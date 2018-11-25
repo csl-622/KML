@@ -1,0 +1,892 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>231</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It the beer Velkopopovický Kozel possible to buy somewhere in Bavaria? Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>232</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Velkopopovický Kozel sold somewhere in Bavaria?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>233</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					buying, foreing-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>257</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:08:56.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling (tag)
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Body" >
+			<PostId>781</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are the Czech beers like Velkopopovický Kozel possible to buy somewhere in Bavaria? 
+
+					Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?
+
+					Czech beers are of very good quality, and Bavaria neighbours with Czech, so they shouldn't be hard to find.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Edit Title" >
+			<PostId>782</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where can I buy Czech beers in Bavaria?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>783</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Tags" >
+			<PostId>843</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T09:14:33.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, retail-availiability, distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Post Closed" >
+			<PostId>846</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T11:05:40.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":7,"DisplayName":"Tom Medley"},{"Id":37,"DisplayName":"Xander"},{"Id":22,"DisplayName":"Grohlier"},{"Id":138,"DisplayName":"Lucas Kauffman"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>2131</PostId>
+			<ParentPostId>769</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-05T19:34:34.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So, I was in Toronto (Canada) a little while ago and absolutely fell in love with a couple of the beers from [Bellwoods Brewery][1]. Specifically:
+
+					 - Witchshark; and
+					 - Monogamy
+
+					I have been casually looking online to see if I could find their beers here in the London (England) or on the internet, but with no luck.
+
+					Anyone know if I can find these beers somewhere?
+
+					[1]: http://bellwoodsbrewery.com/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>2132</PostId>
+			<ParentPostId>769</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-05T19:34:34.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Bellwoods Brewery Beer in the UK
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>2133</PostId>
+			<ParentPostId>769</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-05T19:34:34.940</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ipa, local, buying, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>2143</PostId>
+			<ParentPostId>769</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-07T22:20:04.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/464167811733258240
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>3510</PostId>
+			<ParentPostId>935</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-17T11:33:58.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1108</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where can I order Puerto Rican brand "Medalla" (canned) from Germany/online ?
+
+					May there is better German beer available, but I liked drinking frozen Medalla when I was visiting PR last summer - and right now it's hot in Germany and I really miss it...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>3511</PostId>
+			<ParentPostId>935</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-17T11:33:58.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1108</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where to buy "Medalla"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>3512</PostId>
+			<ParentPostId>935</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-17T11:33:58.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1108</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					local, buying, cans, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>3559</PostId>
+			<ParentPostId>935</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-29T00:57:49.533</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/493923314545733633
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>3790</PostId>
+			<ParentPostId>1053</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T18:34:00.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1404</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a ranking of beers (maybe by country) you can actually find in a supermarket?
+
+					I know the beersadvocate one, but it seems I would need to sell my soul to get any beer in the top 250.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>3791</PostId>
+			<ParentPostId>1053</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T18:34:00.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1404</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer ranking for mortals
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>3792</PostId>
+			<ParentPostId>1053</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T18:34:00.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1404</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					buying, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Body" >
+			<PostId>3793</PostId>
+			<ParentPostId>1053</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:41:08.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Made title more relevant.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there a ranking of beers (maybe by country) you can actually find in a supermarket?
+
+					I know the BeerAdvocate one, but it seems I would need to sell my soul to get any beer in the top 250.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Edit Title" >
+			<PostId>3794</PostId>
+			<ParentPostId>1053</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:41:08.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Made title more relevant.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there a BeerAdvocate-like ranking of beers commonly found in supermarkets?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>3813</PostId>
+			<ParentPostId>1053</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-27T00:17:08.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/526527984916639744
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>4982</PostId>
+			<ParentPostId>2139</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-18T04:18:37.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer Advocate used to allow you to give an overall rating for a beer, rather than giving score breakdowns (appearance, smell, mouth feel, etc).  They have recently [changed this](http://www.beeradvocate.com/community/threads/beeradvocate-returns-to-its-roots-rating-system-revamped.238804/) and you can only supply a rating if you rate all the factors.  That makes sense if you're a site owner trying to gather better data, but it's not so great for the casual beer-drinker who just wants to keep track of what she's had and how she liked it.
+
+					The value of a site like Beer Advocate, rather than just keeping a file on disk, is having access to the descriptions (including categories like "winter warmer" and "amber ale" and suchlike), other items from those breweries (useful when looking at a menu, or shopping), and, out of curiosity, the variance between my rating and the average for people who rated that beer. Also, I want to be able to see and add ratings from multiple locations, so if I just used a file it would have to live in the cloud somewhere.  Alternatively, I'd be happy to use an app on my Android phone.
+
+					What's the easiest way for me to track what I've had, with information about the beers (and breweries) and my own ratings?  I don't care if my ratings are shared with the world; I'm happy to contribute them if that's helpful, but I'm looking for a way that *I* can track information about *my own* tastes.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>4983</PostId>
+			<ParentPostId>2139</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-18T04:18:37.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a site (or app) like Beer Advocate that lets me give just an overall rating?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>4984</PostId>
+			<ParentPostId>2139</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-18T04:18:37.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					buying, resources, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>4997</PostId>
+			<ParentPostId>2139</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-22T09:29:36.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/546960738989117440
+			</EditDetails>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>9402</PostId>
+			<ParentPostId>5084</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-12T14:08:49.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The other day, I was in a specialty wine store and noticed several bottles of wines priced between $500 and $5,000!
+
+					Is there any way of knowing (historically or otherwise) that a particular exorbitantly priced bottle of wine is a well flavored wine? Or is this simply a marketing strategy?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>9403</PostId>
+			<ParentPostId>5084</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-12T14:08:49.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there any proof that a $1,000 bottle of wine is a good wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>9404</PostId>
+			<ParentPostId>5084</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-12T14:08:49.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					buying, wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Edit Tags" >
+			<PostId>9500</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:58:42.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					distribution, buying, retail-availiability, germany, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>9640</PostId>
+			<ParentPostId>5084</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-21T10:34:04.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/745203121924767745
+			</EditDetails>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Body" >
+			<PostId>12358</PostId>
+			<ParentPostId>6718</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-31T05:36:10.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6448</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I had a bottle of &lt;a href="https://wikipedia.org/wiki/Brahma_beer"&gt;Brahma&lt;/a&gt; beer when I was in Brasíl some years ago, and I didn't save the label.  These are what I remember:
+
+					 - it was sweet and malty.
+					 - it had a white label.
+					 - it had 4% or thereabouts alcohol.
+					 - I purchased it at a decent and reputable restaurant circa 2008 — so it most probably wasn't an old or even a mislabeled bottle.
+
+					Reading their &lt;a href="http://www.brahma.com.br/"&gt;website&lt;/a&gt; is difficult for me, but I don't see anything which strikes me as a clear match — not even the Weiss (White) variety.  Possibly, I suppose, but I don't see anything in the description &lt;a href="http://www.brahma.com.br/cervejas/extra-weiss"&gt;here&lt;/a&gt; which would obviate this question.
+
+					---
+					Note
+					-
+					I would recommend that this question use the tag [tag:identification], but I lack the rep on this site to add it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Title" >
+			<PostId>12359</PostId>
+			<ParentPostId>6718</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-31T05:36:10.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6448</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Which Brahma beer is unhopped?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Tags" >
+			<PostId>12360</PostId>
+			<ParentPostId>6718</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-31T05:36:10.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6448</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, buying, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Edit Tags" >
+			<PostId>12375</PostId>
+			<ParentPostId>6718</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T03:59:28.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				added the tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					specialty-beers, buying, identification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Edit Body" >
+			<PostId>12376</PostId>
+			<ParentPostId>6718</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T03:59:28.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				added the tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I had a bottle of &lt;a href="https://wikipedia.org/wiki/Brahma_beer"&gt;Brahma&lt;/a&gt; beer when I was in Brasíl some years ago, and I didn't save the label.  These are what I remember:
+
+					 - it was sweet and malty.
+					 - it had a white label.
+					 - it had 4% or thereabouts alcohol.
+					 - I purchased it at a decent and reputable restaurant circa 2008 — so it most probably wasn't an old or even a mislabeled bottle.
+
+					Reading their &lt;a href="http://www.brahma.com.br/"&gt;website&lt;/a&gt; is difficult for me, but I don't see anything which strikes me as a clear match — not even the Weiss (White) variety.  Possibly, I suppose, but I don't see anything in the description &lt;a href="http://www.brahma.com.br/cervejas/extra-weiss"&gt;here&lt;/a&gt; which would obviate this question.
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>12439</PostId>
+			<ParentPostId>6718</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-07T14:25:12.760</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/850353771804807168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>14306</PostId>
+			<ParentPostId>7375</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T03:42:14.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7914</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What online Italian wine stores ship internationally? I know [Vino75][1] does not.
+
+
+					  [1]: https://www.vino75.com/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>14307</PostId>
+			<ParentPostId>7375</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T03:42:14.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7914</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What online Italian wine stores ship internationally?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>14308</PostId>
+			<ParentPostId>7375</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-07T03:42:14.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7914</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, buying, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Body" >
+			<PostId>14322</PostId>
+			<ParentPostId>7381</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-12T14:35:02.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7922</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm thinking of going to Belgium for a week's holiday in the autumn and this time take the car from the UK. This would be perfect for stopping by the monks at Westvleteren and buying a case of beer. How long in advance can you/do you need to call them? Given that we'll probably need to book the holiday at least a month before we go, I don't want to miss out by not getting an appointment!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Title" >
+			<PostId>14323</PostId>
+			<ParentPostId>7381</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-12T14:35:02.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7922</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long in advance do you need to order Westvleteren?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Tags" >
+			<PostId>14324</PostId>
+			<ParentPostId>7381</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-12T14:35:02.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7922</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, buying, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Unknown" >
+			<PostId>14331</PostId>
+			<ParentPostId>7381</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-13T06:59:48.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1017664876783816704
+			</EditDetails>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Unknown" >
+			<PostId>14403</PostId>
+			<ParentPostId>7375</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-28T00:04:16.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1022996121914957824
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

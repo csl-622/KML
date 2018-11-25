@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>204</PostId>
+			<ParentPostId>231</ParentPostId>
+			<Contributors>
+				<UserId>148</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:46:31.690</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					From what I understand, it is pressurized with nitrogen rather than CO2. Additionally, if the pores in the widget are small enough they will allow the nitrogen to be absorbed more readily than if they were coarse.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="3">
+			<PostId>205</PostId>
+			<ParentPostId>230</ParentPostId>
+			<Contributors>
+				<UserId>148</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:57:46.280</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Perhaps the negative voter was upset that you posted a question with an answer ready?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>3597</PostId>
+			<ParentPostId>4680</ParentPostId>
+			<Contributors>
+				<UserId>4767</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-27T17:46:01.057</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Put them in a cooler with ice and water.  Also, if your tap water is cold, run tapwater over them in a tall container, the moving cold water cools very quickly. You only need to have it on at a slow rate, and it doesn't take long - about 5 minutes). Occasionally rotate and invert the bottles (don't shake or you know what'll happen).  Can's cool off even faster.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>3598</PostId>
+			<ParentPostId>42</ParentPostId>
+			<Contributors>
+				<UserId>28</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-11-27T19:05:40.840</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					that's a great article Eric - I will add it to my answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>5368</PostId>
+			<ParentPostId>7155</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-21T10:37:14.847</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					[Drinking less is the obvious solution.](https://alcohol.stackexchange.com/a/6299/5064)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>5378</PostId>
+			<ParentPostId>7155</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-26T17:53:43.507</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Ken Graham. Um - that would involve a bit of moderation!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>5379</PostId>
+			<ParentPostId>7156</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-27T18:38:38.650</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Great to see someone working for the site.  I apologise for the question - just thought we needed a bit of uumph out there..... however, on this site, NOT DRINKING, give me a break..........  I'm off for a gin......by the way it's a bit windy here, so have to have to rescue a boat or two.......
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>5430</PostId>
+			<ParentPostId>7155</ParentPostId>
+			<Contributors>
+				<UserId>125</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-03-14T14:50:17.377</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					black bitter coffee, for me
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

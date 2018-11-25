@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>6475</PostId>
+			<AcceptedAnswerId>6503</AcceptedAnswerId>
+			<Title>
+			"Has Prohibition ever worked?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>drinking</tag>
+				<tag>prohibition</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>364</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-07T01:51:56.563</CreationDate>
+				<LastActivityDate>2018-05-07T16:02:23.307</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5847</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Historically, is there any case in which prohibition of alcohol has actually dissuaded its consumption?&lt;/p&gt;
+
+					&lt;p&gt;It failed miserably in the United States, for example...&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>6759</PostId>
+			<AcceptedAnswerId>6760</AcceptedAnswerId>
+			<Title>
+			"Other than the USA, do any other countries have dry counties?"
+			</Title>
+			<Tags>
+				<tag>prohibition</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>195</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-10T13:14:41.967</CreationDate>
+				<LastActivityDate>2017-04-10T14:29:43.237</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Other than the USA, do any other countries have dry counties?&lt;/p&gt;
+
+					&lt;p&gt;I understand that the term county may not exist in some counties, so one can adopt a different term that may be better suited for a particular countries.&lt;/p&gt;
+
+					&lt;p&gt;What is a dry county?&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;A &lt;a href="https://en.wikipedia.org/wiki/Dry_county" rel="noreferrer"&gt;dry county&lt;/a&gt; is a county in the United States whose government forbids the sale of any kind of alcoholic beverages. Some prohibit off-premises sale, some prohibit on-premises sale, and some prohibit both. Hundreds of dry counties exist across the United States, a majority of them in the South. A number of smaller jurisdictions also exist, such as cities, towns, and townships, which prohibit the sale of alcoholic beverages. These are known as dry cities, dry towns, or dry townships.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/HumA9.png" rel="noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/HumA9.png" alt="Map showing  dry (red), wet (blue), and mixed (yellow) counties in the United States as of March 2012."&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_dry_communities_by_U.S._state" rel="noreferrer"&gt;Map showing dry (red), wet (blue), and mixed (yellow) counties in the United States as of March 2012.&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

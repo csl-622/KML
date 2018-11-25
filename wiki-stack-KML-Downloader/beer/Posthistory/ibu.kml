@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>640</PostId>
+			<ParentPostId>246</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T02:52:10.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some brewers are awesome and kind enough to place information like the ABV, IBU, and even SRM right on the label of any beer they distribute. This is rad, because (in theory), it means I know exactly what I'm getting myself into, and how to expect a given beer should taste.
+
+					However, I find that - especially with IBU, this information often *isn't* available -  even though it is among the most reliable predictors of the overall flavor profile of a beer that I've never drank. As a consumer, it's a really helpful way to try to sort through different beers. I've been trying to educate my palate by paying attention to things like how different beers are rated along this scale, in order to better adjust my expectations, but unfortunately, without good information, this is hard to do.
+
+					Is there any way that I can figure out how the beer I'm drinking rates on that scale without complicated equipment? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>641</PostId>
+			<ParentPostId>246</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T02:52:10.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there any way that I can discern the IBU of a beer if the bewer doesn't provide that information?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>642</PostId>
+			<ParentPostId>246</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T02:52:10.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, ibu, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>1680</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-21T07:07:06.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When I've drunk high-IBU beers such as Mikkeller's Hop Burn High (labelled as 300 IBU) I've been able to taste and smell the hops, but I'd be hard pressed to say that it was e.g. 6 times as bitter as a 50 IBU beer.
+
+					So I was wondering if there is something about the beer that I'm missing that would indicate that it was a 300 IBU beer?  Or is this more of a marketing thing when breweries label beers with such high numbers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>1681</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-21T07:07:06.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What sort of flavours distinguish ultra-high IBU beers from others
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>1682</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-21T07:07:06.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, ibu, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1690</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-21T16:41:23.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436903489919541248
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Title" >
+			<PostId>1696</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T07:17:45.373</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What sort of flavours distinguish ultra-high IBU beers from other high IBU beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>6090</PostId>
+			<ParentPostId>3187</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-12T13:30:34.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3678</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are IBU-testing kits generally available or do you require labs and lots of equipment? Is anything available for testing my homebrew?  (I am thinking of something like litmus paper)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>6091</PostId>
+			<ParentPostId>3187</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-12T13:30:34.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3678</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How exactly is IBU measured?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>6092</PostId>
+			<ParentPostId>3187</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-12T13:30:34.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3678</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ibu, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>6215</PostId>
+			<ParentPostId>3187</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-06T05:52:48.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/563576019765166080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>6750</PostId>
+			<ParentPostId>3464</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T00:34:56.987</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					From beer advocate, it says that the XXX beer from De Ranke brewery is **no longer brewed**. (http://www.beeradvocate.com/beer/profile/739/97035/). It's no longer on their brewery page too: http://www.deranke.be/en/bieren_en.htm
+
+					It's not exactly the kind of belgium kind of belgium pale ale, famous for their bitterness, it's normally criticized for being too bitter in normal crowd-source reviews. 
+
+					Sometime ago I saw this tweet that says XXX scored an IBU 70 (https://twitter.com/beergusto/status/435908275863687168).
+
+					**Does anyone has any more information on the XXX?**
+
+					**And also how can I get hold of one now?** **Is there like a beer amazon or something?**
+
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>6751</PostId>
+			<ParentPostId>3464</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T00:34:56.987</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					De Ranke XXX Beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>6752</PostId>
+			<ParentPostId>3464</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T00:34:56.987</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ipa, ibu, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>9155</PostId>
+			<ParentPostId>5006</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-15T23:20:48.243</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm confused by the whole idea of IBUs. I see a lot of IPAs that are rated in the 40s or 50s for IBU, but in practice they are much *more* bitter than stouts in the 80+ range. Shouldn't the IPAs have a higher bitterness rating?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>9156</PostId>
+			<ParentPostId>5006</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-15T23:20:48.243</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the point of IBUs if hoppier beers have lower IBU than stouts?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>9157</PostId>
+			<ParentPostId>5006</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-15T23:20:48.243</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, ibu, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Edit Body" >
+			<PostId>9167</PostId>
+			<ParentPostId>5006</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-18T19:09:21.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<EditDetails>
+				added 32 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm confused by the whole idea of IBUs. I see a lot of IPAs that are rated in the 40s or 50s for IBU, but in practice they are much *more* bitter than stouts in the 80+ range. Shouldn't the IPAs have a higher bitterness rating? What's the point of the rating?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Unknown" >
+			<PostId>9693</PostId>
+			<ParentPostId>5006</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-25T14:01:49.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/746704957173301248
+			</EditDetails>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Tags" >
+			<PostId>9850</PostId>
+			<ParentPostId>5006</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:38:03.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					ibu, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

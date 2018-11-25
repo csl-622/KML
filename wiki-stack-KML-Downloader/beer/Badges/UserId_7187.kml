@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="7958"  UserId="7187" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-13T15:02:10.033</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7959"  UserId="7187" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-13T18:18:28.213</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7960"  UserId="7187" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-13T18:22:05.757</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7962"  UserId="7187" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-14T09:36:52.200</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7963"  UserId="7187" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-14T11:37:55.653</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7971"  UserId="7187" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-16T05:17:12.557</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7972"  UserId="7187" InstanceType= "badges">
+			<Title>
+			"Self-Learner"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-16T11:02:28.913</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7995"  UserId="7187" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2017-10-19T15:03:35.977</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

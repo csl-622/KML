@@ -1,0 +1,1598 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1</PostId>
+			<ParentPostId>1</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:26:05.383</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was offered a beer the other day that was reportedly made with citrate hops. What are citrate hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>2</PostId>
+			<ParentPostId>1</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:26:05.383</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is a citra hop, and how does it differ from other hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>3</PostId>
+			<ParentPostId>1</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:26:05.383</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>246</PostId>
+			<ParentPostId>1</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:04:34.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				There's no such thing as citrate hops. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I was offered a beer the other day that was reportedly made with citra hops. What are citra hops? Why should I care that my beer is made with them?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>247</PostId>
+			<ParentPostId>1</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:04:34.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 8 approved by 7 edit id of 12
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>313</PostId>
+			<ParentPostId>127</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:08:01.373</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between dry hopping and regular hopping, and both in terms of production process and taste? I think I'm starting to get an idea of what a dry-hopped beer tastes like, but I'm not always sure if it's actually dry hopping or just a hoppier beer, especially if I'm at a bar. What's the difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>314</PostId>
+			<ParentPostId>127</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:08:01.373</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Dry hopping versus regular hopping
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>315</PostId>
+			<ParentPostId>127</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:08:01.373</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>340</PostId>
+			<ParentPostId>138</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:27:29.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					You will often hear wine discussed in terms of the climate, soil, etc of the vineyard. The terms 'new world' and 'old world' wines are common.
+
+					Is there a similar concept for the hops used in beer? A quick web search seems to indicate that hops don't thrive in as many different climates as grapes do, so there might be less variation. Similarly, there are a few websites that seem to refer to new vs. old world hops, but it doesn't seem to be as popular a talking point. Is there more to it than a 2 minute google search can reveal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>341</PostId>
+			<ParentPostId>138</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:27:29.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does the climate and growing conditions of hops effect the taste of a beer, like with wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>342</PostId>
+			<ParentPostId>138</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:27:29.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, style, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>666</PostId>
+			<ParentPostId>255</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:01.367</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do hops have (or had in the past) any use outside of brewing beer?
+
+					I mean: In the question of [dating first modern beers][1] we have the first record of cultivating hops predating the first record of use of hops in beer by nearly a century. Could the hops have been cultivated for any other purpose than brewing, or can we safely assume if they were cultivated, there was beer made with them?
+
+
+					  [1]: http://beer.stackexchange.com/questions/2/when-was-the-first-beer-ever-brewed
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>667</PostId>
+			<ParentPostId>255</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:01.367</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What uses do hops have outside of brewing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>668</PostId>
+			<ParentPostId>255</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:01.367</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, history, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>1247</PostId>
+			<ParentPostId>1</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-02T01:25:09.260</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429787540519129089
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1757</PostId>
+			<ParentPostId>255</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-28T10:42:35.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/439349910119661568
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>2110</PostId>
+			<ParentPostId>757</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-30T01:08:37.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Hoppy beers appear to be fad at the moment. 
+
+					It seems that some brewers are aiming to produce beer with the sole aim to be as hoppy as possible, without consideration to other flavors or characteristics. 
+
+					Is it fair to say that some beers are simply 'too hoppy' by some objective measure? I would say the New Zealand's Boundry Road Mumbo Jumbo IPA fits this category. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>2111</PostId>
+			<ParentPostId>757</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-30T01:08:37.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are some beers 'too hoppy'?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>2112</PostId>
+			<ParentPostId>757</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-30T01:08:37.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>3344</PostId>
+			<ParentPostId>866</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-10T04:02:17.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've read that raw hops can be bad for dogs, somehow causing hyperthermia. But once it's brewed, is beer bad also? What about very hoppy beers? Answers might include reports on what it is in hops (alpha acids?) that make hops bad for dogs.
+
+					As an aside, it seems okay for cats. Mine decided to take a sip, seemed to like it, and came back for more.
+
+					Lastly, if this is off topic, feel free to migrate to the pets SE.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>3345</PostId>
+			<ParentPostId>866</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-10T04:02:17.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is beer bad for dogs
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>3346</PostId>
+			<ParentPostId>866</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-10T04:02:17.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>3393</PostId>
+			<ParentPostId>866</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-19T16:46:43.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/479666599780036608
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Edit Body" >
+			<PostId>3585</PostId>
+			<ParentPostId>866</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-01T05:33:36.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<EditDetails>
+				added 151 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've read that raw hops can be bad for dogs, somehow causing hyperthermia. But once it's brewed, is beer bad also? What about very hoppy beers? Answers might include reports on what it is in hops (alpha acids?) that make hops bad for dogs.
+
+					Please keep answers restricted to the effect of brewed hops. I already realize the fermented alcohol can be bad for smaller pets. I'm not looking for alcohol related answers, just answers on boiled and fermented hops.
+
+					As an aside, it seems okay for cats. Mine decided to take a sip, seemed to like it, and came back for more.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>3650</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-19T03:53:45.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1228</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Background: I was drinking a New Belgium "Tour de Fall" last week and thinking about the hops that I was tasting in the finish. For me, hops in general were a pretty slowly acquired taste, and I didn't start truly appreciating the hoppy West Coast style until I encountered Sierra Nevada "Torpedo" and fell in love.
+
+					Now I finally find myself wanting to get to know specific varieties of hops by flavor and scent. Amarillo, Cascade, and so on - I know there are dozens and dozens of varieties, but how do I start training myself to recognize their differences (and identify the most common varieties) in the drink itself? 
+
+					Should I buy some hops from a supply store, and huff 'em like a soccer mom in a fabric softener commercial? Or would that be totally different from what comes through in a beer? Would it be better to find a stool at a local brewery/brewpub and ask for a lesson in liquid form?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>3651</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-19T03:53:45.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1228</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I learn to recognize different varieties of hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>3652</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-19T03:53:45.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1228</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, hops, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Unknown" >
+			<PostId>3665</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-27T17:13:27.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/504678088543055872
+			</EditDetails>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>6653</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T19:07:17.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When I drink beer I can taste a bitter, then slightly sweetness, then kind of a lingering flavor of something. I'm curious - is the lingering flavor the malt, or the hops? What contributes to the bitterness - the malt or the hops?
+
+					I would like to know the taste differences between the two.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>6654</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T19:07:17.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The taste of hops, malt
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>6655</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T19:07:17.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Edit Tags" >
+			<PostId>6658</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T20:31:44.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, flavor, hops, malt, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Body" >
+			<PostId>6756</PostId>
+			<ParentPostId>3466</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T01:26:00.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a full list of hops all around the world?
+
+					Currently, I've been just collecting them as I drink and asking the brewers or the pub owners which hop the beer uses. 
+
+					Wikipedia has a list: https://en.wikipedia.org/wiki/List_of_hop_varieties but is there any other missing?
+
+					 - Admiral
+					 - Ahtanum
+					 - Amarillo
+					 - Apollo
+					 - Bramling Cross
+					 - Brewer's Gold
+					 - Bullion
+					 - Cascade
+					 - Centennial
+					 - Challenger
+					 - Chinook
+					 - Citra
+					 - Cluster
+					 - Columbus
+					 - Crystal
+					 - Eroica
+					 - First Gold
+					 - Feux-Coeur Francais
+					 - Fuggle
+					 - Galaxy
+					 - Galena
+					 - Glacier
+					 - Goldings
+					 - Green Bullet
+					 - Greenburg
+					 - Hallertau / Hallertauer Mittelfrüh
+					 - Herald
+					 - Herkules
+					 - Hersbrucker
+					 - Horizon
+					 - Liberty
+					 - Lublin
+					 - Magnum
+					 - Merkur
+					 - Millennium
+					 - Motueka
+					 - Mosaic
+					 - Mount Hood
+					 - Mount Rainier
+					 - Nelson Sauvin
+					 - Newport
+					 - Northdown
+					 - Northern Brewer
+					 - Nugget
+					 - Opal
+					 - Pacifica
+					 - Pacific Gem
+					 - Pacific Jade
+					 - Palisade
+					 - Perle
+					 - Phoenix
+					 - Pilgrim
+					 - Pilot
+					 - Pioneer
+					 - Polnischer Lublin
+					 - Pride of Ringwood
+					 - Progress
+					 - Riwaka
+					 - Saaz
+					 - Saaz Late
+					 - Bor
+					 - Premiant
+					 - Rubin
+					 - Agnus
+					 - Vital
+					 - Sladek
+					 - Kazbek
+					 - Bohemie
+					 - Harmonie
+					 - San Juan Ruby Red
+					 - Santiam
+					 - Saphir
+					 - Satus
+					 - Select
+					 - Simcoe
+					 - Smaragd
+					 - Sorachi Ace
+					 - Southern Cross
+					 - Spalt
+					 - Sterling
+					 - Strisselspalt
+					 - Styrian Aurora
+					 - Styrian Bobek
+					 - Styrian Goldings
+					 - Styrian Celeia
+					 - Summit
+					 - Tardif de Bourgogne
+					 - Target
+					 - Taurus
+					 - Tettnang
+					 - Tomahawk
+					 - Tomyski
+					 - Tradition
+					 - Ultra
+					 - Vanguard
+					 - Waimea
+					 - Warrior
+					 - Whitbread Golding Variety (WGV)
+					 - Willamette
+					 - Zeus
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Title" >
+			<PostId>6757</PostId>
+			<ParentPostId>3466</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T01:26:00.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a full list of hops all around the world?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Tags" >
+			<PostId>6758</PostId>
+			<ParentPostId>3466</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T01:26:00.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>6767</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T20:58:01.333</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/621423494258159620
+			</EditDetails>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Body" >
+			<PostId>7900</PostId>
+			<ParentPostId>4533</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-18T10:36:25.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4423</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm a hop lover, recently I found one of bests [`IIPA`][1] I ever tasted ([I don't know if I can name beer / brand][2])
+
+					I've found at the bottom of the bottle, there are no yeast rests, but yes hop leafs. **`:)`** sweet!
+
+					One friend tell me this technike is called `bottle dry-hopping`, consisting in introducing a little bud of hop in each bottle.
+
+					I've heard about [`dry-hopping`][2] but before botteling the beer, also i know  `Hop Spider`, is a filter you fill with hop for the freezing step.
+
+					Three techniques are great and give nice results at the end, so:
+
+					* Anyone knows about other techniques using hops to add flavour and aroma **AFTER** cooking the beer? 
+
+
+					  [1]: http://naparbier.com/menu/hop-doom/
+					  [2]: http://meta.beer.stackexchange.com/questions/100/can-i-link-a-beer-brand-or-specific-model-or-should-i-be-generic
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Title" >
+			<PostId>7901</PostId>
+			<ParentPostId>4533</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-18T10:36:25.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4423</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Techniques to add flavour and aroma to beer with hops
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Tags" >
+			<PostId>7902</PostId>
+			<ParentPostId>4533</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-18T10:36:25.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4423</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, brewing, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Body" >
+			<PostId>8122</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T13:08:37.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4605</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Since beer's are made from hops what really a hop gives to a human body if consumed??
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Title" >
+			<PostId>8123</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T13:08:37.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4605</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How hops are really helps to a human body?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Tags" >
+			<PostId>8124</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T13:08:37.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4605</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					3.2-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Edit Body" >
+			<PostId>8126</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T19:29:40.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fix tags, and went ahead and clarified the title and cleaned up the grammar while I was here. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Since beers are made with hops, what nutritional value do those hop give to a human body when beer is consumed?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Edit Title" >
+			<PostId>8127</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T19:29:40.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fix tags, and went ahead and clarified the title and cleaned up the grammar while I was here. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Nutritional value of hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Edit Tags" >
+			<PostId>8128</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T19:29:40.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fix tags, and went ahead and clarified the title and cleaned up the grammar while I was here. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Unknown" >
+			<PostId>8147</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-14T17:46:48.060</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/654352668123598848
+			</EditDetails>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Body" >
+			<PostId>8436</PostId>
+			<ParentPostId>4745</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-30T20:40:03.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently read Stephen Buhner's "Sacred and Herbal Healing Beers" wherein he claimed that hops were a fairly new way to bitter beer in the renaissance and that in England Henry VIII outlawed them. However, I have not been able to find substantiation of this in the historical record. It makes for a great story, but is it true?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Title" >
+			<PostId>8437</PostId>
+			<ParentPostId>4745</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-30T20:40:03.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Did Henry VIII really outlaw hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Tags" >
+			<PostId>8438</PostId>
+			<ParentPostId>4745</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-30T20:40:03.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Unknown" >
+			<PostId>8516</PostId>
+			<ParentPostId>4745</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-12T01:36:47.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/686723462900113413
+			</EditDetails>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Body" >
+			<PostId>8985</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-09T15:50:01.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5306</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My first batch of beer was very complicated with lots of different ingredients and to be honest i wasnt even knowing exactly what i was doing. In my second batch i decided to go 'neutral', made a smaller batch(5 liters) and used only pilsner , only saaz and single infusion (to see the impact of each ingredient and from there evolve). The beer is ready but now im kind of clueless to where to go. Is there any other way to see the impact of each ingredient without actually brewing a batch? I want to know how temperature, yeast, malt etc acts on the beer..
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Title" >
+			<PostId>8986</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-09T15:50:01.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5306</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Alternative ways to know the impact of ingredients
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Tags" >
+			<PostId>8987</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-09T15:50:01.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5306</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, yeast, malt, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Edit Body" >
+			<PostId>8990</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-10T22:59:30.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrcted grammar and added two words to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					My first batch of beer was very complicated with lots of different ingredients and to be honest I wasn't even sure exactly what I was doing. In my second batch I decided to go 'neutral, making a smaller batch (5 liters) and used only pilsner, only saaz and single infusion (to see the impact of each ingredient and from there evolve). The beer is ready but now I'm kind of clueless to where to go. Is there any other way to see the impact of each ingredient without actually brewing a batch? I want to know how temperature, yeast, malt etc acts on the beer..
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Unknown" >
+			<PostId>8991</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-10T22:59:30.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by -1 edit id of 170
+			</EditDetails>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Edit Body" >
+			<PostId>8992</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-10T22:59:30.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrcted grammar and added two words to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					My first batch of beer was very complicated with lots of different ingredients and to be honest I wasn't even sure exactly what I was doing. In my second batch I decided to go "neutral," making a smaller batch (5 liters) and used only Pilsner, only Saaz and single infusion (to see the impact of each ingredient, and from there evolve). The beer is ready but now I'm kind of clueless to where to go. Is there any other way to see the impact of each ingredient without actually brewing a batch? I want to know how temperature, yeast, malt, etc. act on the beer.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Unknown" >
+			<PostId>9794</PostId>
+			<ParentPostId>3466</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-16T13:07:29.597</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/754301428559208448
+			</EditDetails>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Edit Title" >
+			<PostId>11304</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-25T16:57:33.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6042</UserId>
+			</Contributors>
+			<EditDetails>
+				Upon first glance, I thought this was an agricultural question. As this references the flavor and aroma, I made a small edit suggestion to the title.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How can I learn to recognize the flavor and aroma of different varieties of hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Unknown" >
+			<PostId>11305</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-25T16:57:33.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6042 approved by 5064, 1228 edit id of 283
+			</EditDetails>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Body" >
+			<PostId>11390</PostId>
+			<ParentPostId>6403</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-28T18:34:31.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6146</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would be interested to know these two things: 
+
+					(1): What are the ratings in IBU of common lagers: e.g. Stella, Kronenbourg, Fosters, Becks, Heineken, San Miguel, Corona? Are there major differences? 
+
+					(2): Same question RE: Hoppyness/Hop content. 
+
+					E.g. I like Stella and not Becks. Then my friend told me that's because Stella is more bitter. However I have no way of knowing for sure... hence the question. 
+
+					I like IPAs and I hate stouts. However the differences between lagers is difficult to perceive for me. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Title" >
+			<PostId>11391</PostId>
+			<ParentPostId>6403</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-28T18:34:31.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6146</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the IBUs (bitterness units) of common lagers? Also, what are hop contents?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Initial Tags" >
+			<PostId>11392</PostId>
+			<ParentPostId>6403</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-28T18:34:31.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6146</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Unknown" >
+			<PostId>11636</PostId>
+			<ParentPostId>6403</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-22T06:50:59.687</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/823060374626926592
+			</EditDetails>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Edit Body" >
+			<PostId>12235</PostId>
+			<ParentPostId>4533</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T08:31:08.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://meta.beer.stackexchange.com/ with https://alcohol.meta.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm a hop lover, recently I found one of bests [`IIPA`][1] I ever tasted ([I don't know if I can name beer / brand][2])
+
+					I've found at the bottom of the bottle, there are no yeast rests, but yes hop leafs. **`:)`** sweet!
+
+					One friend tell me this technike is called `bottle dry-hopping`, consisting in introducing a little bud of hop in each bottle.
+
+					I've heard about [`dry-hopping`][2] but before botteling the beer, also i know  `Hop Spider`, is a filter you fill with hop for the freezing step.
+
+					Three techniques are great and give nice results at the end, so:
+
+					* Anyone knows about other techniques using hops to add flavour and aroma **AFTER** cooking the beer? 
+
+
+					  [1]: http://naparbier.com/menu/hop-doom/
+					  [2]: https://alcohol.meta.stackexchange.com/questions/100/can-i-link-a-beer-brand-or-specific-model-or-should-i-be-generic
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Body" >
+			<PostId>12307</PostId>
+			<ParentPostId>6702</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-26T13:35:47.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4638</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Instead of using a hop bag last brew, I just added a couple of hop pellets straight to the wort. This gave an altogether different taste. I really enjoyed the taste of the hops. It just tasted like good health to me. It was earthy and wholesome and I loved it, I just would like to know what this process is called?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Title" >
+			<PostId>12308</PostId>
+			<ParentPostId>6702</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-26T13:35:47.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4638</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What exactly is this process of adding hops called?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Initial Tags" >
+			<PostId>12309</PostId>
+			<ParentPostId>6702</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-26T13:35:47.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4638</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Unknown" >
+			<PostId>12446</PostId>
+			<ParentPostId>6702</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-08T08:26:30.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/850625886760161281
+			</EditDetails>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Edit Body" >
+			<PostId>12492</PostId>
+			<ParentPostId>255</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Do hops have (or had in the past) any use outside of brewing beer?
+
+					I mean: In the question of [dating first modern beers][1] we have the first record of cultivating hops predating the first record of use of hops in beer by nearly a century. Could the hops have been cultivated for any other purpose than brewing, or can we safely assume if they were cultivated, there was beer made with them?
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/2/when-was-the-first-beer-ever-brewed
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Body" >
+			<PostId>14486</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:57:15.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am wondering because I want to brew these styles of beer myself.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Title" >
+			<PostId>14487</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:57:15.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the differences between Pale Ale (PA), India Pale Ale (IPA) and American Pale Ale (APA)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Tags" >
+			<PostId>14488</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:57:15.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, craft-beers, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Initial Body" >
+			<PostId>14489</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T19:01:00.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have fresh hops and I wish to dry them for storage in vacuum packed bags. Which methods can I use for drying them, and what are the differences in quality?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Title" >
+			<PostId>14490</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T19:01:00.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer Brewing: How do I dry fresh hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Tags" >
+			<PostId>14491</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T19:01:00.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, craft-beers, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Post Locked" >
+			<PostId>14496</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Post Locked"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T21:26:13.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Unknown" >
+			<PostId>14497</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T21:26:13.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				to https://homebrew.stackexchange.com/questions/23245/beer-brewing-how-do-i-dry-fresh-hops
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Post Closed" >
+			<PostId>14498</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T21:26:13.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Unknown" >
+			<PostId>14501</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-13T21:01:34.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1029110738890182659
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

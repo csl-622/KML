@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>7322</PostId>
+			<ParentPostId>7321</ParentPostId>			<Tags>
+				<tag>spirits</tag>
+				<tag>mulled-wine</tag>
+				<tag>rum</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-01T16:21:22.397</CreationDate>
+				<LastActivityDate>2018-06-01T16:21:22.397</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What is happening is that you are burning off most of the alcohol before you consume it. I can't tell you the exact amount, but it's significant. I would say that it's probably less than 10% alcohol by the time you drink it. That's why you don't have a hangover.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>7346</PostId>
+			<ParentPostId>7321</ParentPostId>			<Tags>
+				<tag>spirits</tag>
+				<tag>mulled-wine</tag>
+				<tag>rum</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-19T09:36:17.297</CreationDate>
+				<LastActivityDate>2018-06-19T09:36:17.297</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5734</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Considering the many times I drank Feuerzangenbowle with my friends I can tell you that if the one pouring is disciplined enough to only pour the amount required over the Bowle farmersteve is right and you burn much alcohol in the process. &lt;/p&gt;
+
+					&lt;p&gt;The "not having a hangover" part of your question though, I can't confirm as it depends really much on the quality of the Rum that you pour over it and on the amount of it that just flows into the underlying jar (if you pour too much Rum on it like always on such an occasion in my experience).&lt;/p&gt;
+
+					&lt;p&gt;I can assure you that you can get a really heavy hangover from Feuerzangenbowle because the sugar and the Schnaps may most definitely cause the usual hangover effects like dehydration and such.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

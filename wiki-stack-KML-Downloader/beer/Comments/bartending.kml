@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>4343</PostId>
+			<ParentPostId>6440</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-03T13:24:28.840</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm not sure what you're asking.  Do you want to meet such a bartender or just get a new recipe?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>4718</PostId>
+			<ParentPostId>6656</ParentPostId>
+			<Contributors>
+				<UserId>5974</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-14T00:54:13.327</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Out of curiosity, why do you want specifically this bar spoon? Both smooth handles and muddlers are less common on barspoons. Both on a single spoon is, I think, interesting.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>4719</PostId>
+			<ParentPostId>6664</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-14T02:56:43.147</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The two-pronged opener (sometimes called a "dishonest butler") has saved me more than once -- sometimes because the cork was in poor shape, but also sometimes because I messed up the initial placement of a hand-held corkscrew and did the damage myself.  (Now I use a lever-style corkscrew -- much easier.)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>4720</PostId>
+			<ParentPostId>6664</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-14T03:54:56.473</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I have never seen this contraption before, but will look out for one - the amount of times I have had to poke the cork through and then strain makes for buying this a no brainer - thanks for the info.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>4721</PostId>
+			<ParentPostId>6661</ParentPostId>
+			<Contributors>
+				<UserId>6556</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-15T08:38:53.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I fully agree with your answer but there's one more thing - your 5€ wine may well be the same $20 wine mentioned in the question. I've seen wines being sold for 3-5€ in a French supermarket that go for 10-15€ where I live.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

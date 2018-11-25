@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1415</PostId>
+			<ParentPostId>557</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:38:02.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When looking for source material to quote, often I find articles from a wide variety of places when it comes to beer. When looking for technology information, I find it best to simply go to the most highly reputable sources (such as a source authored by Mozilla, Google, Microsoft, etc.).
+
+					Are there any readily available online sources of high repute for beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>1416</PostId>
+			<ParentPostId>557</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:38:02.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are some online sources for information on beer of high repute?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>1417</PostId>
+			<ParentPostId>557</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:38:02.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					resources, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Post Closed" >
+			<PostId>1459</PostId>
+			<ParentPostId>557</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T16:09:00.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":27,"DisplayName":"object88"},{"Id":36,"DisplayName":"crownjewel82"},{"Id":21,"DisplayName":"Łukasz L."},{"Id":73,"DisplayName":"acheong87"},{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>3517</PostId>
+			<ParentPostId>939</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-20T10:09:07.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1114</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do you recommend any specific Android app to keep track of the different beers (and of course different kind of beers) that you have tasted?
+
+					Someone recommended me Untappd but I may need something less social and more informative...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>3518</PostId>
+			<ParentPostId>939</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-20T10:09:07.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1114</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recommended Android app
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>3519</PostId>
+			<ParentPostId>939</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-20T10:09:07.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1114</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					classification, resources, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>3545</PostId>
+			<ParentPostId>939</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-24T15:43:09.310</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/492334175673139200
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>4982</PostId>
+			<ParentPostId>2139</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-18T04:18:37.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer Advocate used to allow you to give an overall rating for a beer, rather than giving score breakdowns (appearance, smell, mouth feel, etc).  They have recently [changed this](http://www.beeradvocate.com/community/threads/beeradvocate-returns-to-its-roots-rating-system-revamped.238804/) and you can only supply a rating if you rate all the factors.  That makes sense if you're a site owner trying to gather better data, but it's not so great for the casual beer-drinker who just wants to keep track of what she's had and how she liked it.
+
+					The value of a site like Beer Advocate, rather than just keeping a file on disk, is having access to the descriptions (including categories like "winter warmer" and "amber ale" and suchlike), other items from those breweries (useful when looking at a menu, or shopping), and, out of curiosity, the variance between my rating and the average for people who rated that beer. Also, I want to be able to see and add ratings from multiple locations, so if I just used a file it would have to live in the cloud somewhere.  Alternatively, I'd be happy to use an app on my Android phone.
+
+					What's the easiest way for me to track what I've had, with information about the beers (and breweries) and my own ratings?  I don't care if my ratings are shared with the world; I'm happy to contribute them if that's helpful, but I'm looking for a way that *I* can track information about *my own* tastes.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>4983</PostId>
+			<ParentPostId>2139</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-18T04:18:37.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a site (or app) like Beer Advocate that lets me give just an overall rating?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>4984</PostId>
+			<ParentPostId>2139</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-18T04:18:37.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					buying, resources, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>4997</PostId>
+			<ParentPostId>2139</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-22T09:29:36.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/546960738989117440
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

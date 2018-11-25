@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>7439</PostId>
+			<Title>
+			"Cheapest Gin in the UK?"
+			</Title>
+			<Tags>
+				<tag>spirits</tag>
+				<tag>gin</tag>
+				<tag>cheap</tag>
+				<tag>online</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>23</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-16T15:12:46.147</CreationDate>
+				<LastActivityDate>2018-08-16T15:12:46.147</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Just visiting the good old UK, and discover that gin is so expensive - what and where can I buy a cheap gin in the UK, are there any online stores? Yes I have looked but to no avail.  Thanks guys.....&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>385</PostId>
+			<AcceptedAnswerId>386</AcceptedAnswerId>
+			<Title>
+			"Which types of beer are commonly used for half-and-half beers?"
+			</Title>
+			<Tags>
+				<tag>colour</tag>
+				<tag>beer-cocktails</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>23627</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T18:45:44.170</CreationDate>
+				<LastEditDate>2015-11-06T18:50:30.607</LastEditDate>
+				<LastActivityDate>2016-10-06T13:26:25.727</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Which types of beer are commonly used to create half-and-half beers?&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/J5hZd.jpg" alt="half-and-half beer"&gt;&lt;/p&gt;
+
+					&lt;p&gt;In frequent recipes are only beers of contrasting colours being used (like pilsener vs porter or pale lager vs stout) or other combinations are being commonly used too? What are some of the most popular recipes?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>731</PostId>
+			<Title>
+			"What gives a porter or a stout its dark colour?"
+			</Title>
+			<Tags>
+				<tag>colour</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>2986</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-15T03:43:14.867</CreationDate>
+				<LastActivityDate>2014-04-15T14:41:10.597</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I imagine it's probably just that the barley has been roasted darker, and that comes out.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>868</PostId>
+			<Title>
+			""Green Schlitz" myth: Was the beer green, or the flakes?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>colour</tag>
+				<tag>filtering</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>242</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-10T13:37:59.283</CreationDate>
+				<LastEditDate>2015-12-24T16:16:58.020</LastEditDate>
+				<LastActivityDate>2016-03-28T12:37:38.773</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>985</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am editing an academic economics paper (I'm a grad student), and I ran across the following line:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Schlitz changed preservatives, which led to green flakes in the beer.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;The paper references an article --- amusingly titled &lt;em&gt;&lt;a href="http://books.google.com/books?id=xe7Ye5bw8wgC&amp;amp;pg=PA321&amp;amp;lpg=PA321&amp;amp;dq=schlitz%20hit%20the%20fan&amp;amp;source=bl&amp;amp;ots=P7scBc9ggZ&amp;amp;sig=hYi3R5FykZWjVvbwTmYbbBVlxoY&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ei=fZ2WU-OUNM3eoATA8ICwBA&amp;amp;ved=0CDQQ6AEwAw#v=onepage&amp;amp;q=schlitz%20hit%20the%20fan&amp;amp;f=false" rel="nofollow"&gt;Why the Schlitz Hit the Fan&lt;/a&gt;&lt;/em&gt; --- which makes the following claim:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;In 1976, new Food and Drug Administration regulations regarding which ingredients needed to be printed on the bottles prompted Schlitz to change the preservatives it used (it had been using silica gel). The company did not spend sufficient time testing the new process, and tiny green flakes appeared in the beer.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Internet sleuthing reveals &lt;a href="http://www.beerconnoisseur.com/the-fall-of-schlitz" rel="nofollow"&gt;this &lt;em&gt;Beer Connoisseur&lt;/em&gt; article&lt;/a&gt;, which gives more info and claims that the flakes were, in fact, white:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Schlitz decided to use another beer stabilizer instead, one that would be filtered out of the final product and thus would not have to be listed as among the ingredients. Unfortunately, what Schlitz's brewing technicians did not know was that the new anti-haze agent, called Chill-garde, would react in the bottles and cans with the foam stabiliser they also used, to cause protein to settle out. At its best this protein looked liked tiny white flakes floating in the beer and at its worst it looked like mucus, or "snot," as one observer bluntly called it.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;After more research, I can't find any other references to Schlitz being [literally] green. As a beer lover and homebrewer, this inconsistency is driving me nuts. Does anyone know &lt;em&gt;which&lt;/em&gt; color the flakes in Schlitz were in the mid-1970s? I have the following hypotheses:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;&lt;em&gt;Beer Connoisseur&lt;/em&gt; also mentions that Schlitz switched from whole to pellet hops; coupled with inadequate filtration, this could have led to green flakes.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Adults doing research thought of "snot" like kids, which meant that a "snotlike" substance in beer was probably green.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;This is a misunderstanding created by non-brewers reading that Schlitz was "green" (which does appear frequently in search results); combined with knowing that there were flakes, and that the liquid of beer is generally amber-ish, it must have been [to someone unfamiliar with "green beer" being beer which needs to be further aged] that the flakes were literally green.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;em&gt;Beer Connoisseur&lt;/em&gt; is wrong, and the flakes were in fact green.&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Does anyone have first-hand experience with this era of beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>4780</PostId>
+			<AcceptedAnswerId>4795</AcceptedAnswerId>
+			<Title>
+			"Why are dubbels generally dark while most tripels are not?"
+			</Title>
+			<Tags>
+				<tag>trappist</tag>
+				<tag>colour</tag>
+				<tag>dubbel</tag>
+				<tag>tripel</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>160</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-16T22:21:06.777</CreationDate>
+				<LastEditDate>2018-06-25T15:35:37.880</LastEditDate>
+				<LastActivityDate>2018-06-25T16:03:33.523</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4962</OwnerUserId>
+				<LastEditorUserId>4962</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In my experience, dubbels are often fairly dark, brown ales, while tripels are much clearer and lighter (of colour).&lt;/p&gt;
+
+					&lt;p&gt;Why is that?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>6402</PostId>
+			<AcceptedAnswerId>6410</AcceptedAnswerId>
+			<Title>
+			"How can absinthe be colored into a different colour other than green?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+				<tag>colour</tag>
+				<tag>absinthe</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>1935</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-27T12:05:41.410</CreationDate>
+				<LastEditDate>2017-04-12T12:22:37.897</LastEditDate>
+				<LastActivityDate>2017-04-12T12:22:37.897</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6142</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.&lt;/p&gt;
+
+					&lt;p&gt;There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a &lt;em&gt;primary&lt;/em&gt; color which is supposed to be impossible to create by mixing other colors.&lt;/p&gt;
+
+					&lt;p&gt;I have two theories: &lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;Absinthe is always green due to the presence of &lt;em&gt;Artemisia absinthium&lt;/em&gt;'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. &lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Absinthe is transparent until you add the &lt;em&gt;Artemisia absinthium&lt;/em&gt;'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;I'm attaching an image for you to know what I'm talking about:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg" rel="nofollow noreferrer"&gt;These are the ones I saw&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/XN8TE.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/XN8TE.jpg" alt="Colored Absinthe"&gt;&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

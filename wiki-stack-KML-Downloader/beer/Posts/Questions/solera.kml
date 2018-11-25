@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>7263</PostId>
+			<AcceptedAnswerId>7264</AcceptedAnswerId>
+			<Title>
+			"Are there other spirits and/or wines in the world that use the Sherry production method?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>spirits</tag>
+				<tag>distilleries</tag>
+				<tag>solera</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>53</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-03T09:35:11.830</CreationDate>
+				<LastEditDate>2018-05-04T11:09:29.060</LastEditDate>
+				<LastActivityDate>2018-05-04T11:09:29.060</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7702</OwnerUserId>
+				<LastEditorUserId>7702</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The &lt;a href="https://en.wikipedia.org/wiki/Sherry" rel="nofollow noreferrer"&gt;method to produce Sherry&lt;/a&gt; and the respective Brandies, called &lt;a href="https://en.wikipedia.org/wiki/Solera" rel="nofollow noreferrer"&gt;Solera&lt;/a&gt;, uses several layers of barrels (frequently four layers). From the lowest layer they take the annual amount they want to sell and refill from the respective layer above. The layer on top is refilled with the newest production. So every Sherry and Brandy produced in this way contains at least (four?) year old wine or spirits, but also much older components of the first year of production, which means that you may expect a drop of first production year in each bottle. ;)&lt;/p&gt;
+
+					&lt;p&gt;This is why you will not find a year of  grape harvest on the bottle labels.&lt;/p&gt;
+
+					&lt;p&gt;However, except those mentioned in &lt;a href="https://en.wikipedia.org/wiki/Solera" rel="nofollow noreferrer"&gt;Wikipedia&lt;/a&gt; I do not know any other winery or distillery working in that way. I know some that blend (mix) different products at the end of production, but that is not the same.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

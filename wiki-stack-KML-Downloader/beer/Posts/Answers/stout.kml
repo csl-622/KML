@@ -1,0 +1,1180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>42</PostId>
+			<ParentPostId>33</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>classification</tag>
+				<tag>porter</tag>
+			</Tags>
+			<Credit> 
+				<Score>24</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:06:34.833</CreationDate>
+				<LastEditDate>2015-12-26T18:57:02.757</LastEditDate>
+				<LastActivityDate>2015-12-26T18:57:02.757</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>28</OwnerUserId>
+				<LastEditorUserId>4880</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer Connoisseur Online answers this pretty thoroughly in &lt;a href="https://beerconnoisseur.com/articles/difference-between-porter-and-stout"&gt;an article&lt;/a&gt;.  &lt;/p&gt;
+
+					&lt;p&gt;The TLDR: is that "...originally a stout was a strong version of a porter.  Today, the difference is whatever you want it to be."&lt;/p&gt;
+
+					&lt;p&gt;For an interesting history on the term Stout and the style of beer, you can check out this &lt;a href="http://www.realbeer.com/library/authors/smith-g/stout.php"&gt;history of stout article&lt;/a&gt; provided by Eric Deloak.  Similarly you can read a &lt;a href="http://www.realbeer.com/library/authors/smith-g/porter.php"&gt;history of porter article&lt;/a&gt; written by the same author: Gregg Smith&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>56</PostId>
+			<ParentPostId>53</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:17:20.120</CreationDate>
+				<LastActivityDate>2014-01-21T21:17:20.120</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>28</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes.  Typically chocolate stout does contain chocolate.  I've typically added chocolate to my home-brew during the boil phase (since it adds more sugars and I want the chocolate to melt).  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>65</PostId>
+			<ParentPostId>53</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>19</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:23:03.670</CreationDate>
+				<LastEditDate>2014-01-21T22:14:11.983</LastEditDate>
+				<LastActivityDate>2014-01-21T22:14:11.983</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>31</OwnerUserId>
+				<LastEditorUserId>31</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It depends on the brew really; some do and others do not. More often than not, the chocolate flavor comes from the techniques used to roast the malts rather than chocolate itself. Some brewers will add additional chocolate to enhance the chocolate flavor a bit, but it generally doesn't get its flavor primarily from the chocolate. The same is true for coffee stouts.&lt;/p&gt;
+
+					&lt;p&gt;As a side note, I've recently tried a smoked imperial IPA (Runaway Smoked Ferry Imperial IPA) from the Port Jeff Brewing Company, a local microbrewery. I swear to God, it tasted like bacon! But there was not an ounce of bacon in it as confirmed by the brewmaster. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>75</PostId>
+			<ParentPostId>63</ParentPostId>			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:33:04.113</CreationDate>
+				<LastActivityDate>2014-01-21T21:33:04.113</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>50</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness is "carbonated" with nitrogen, where most beers use carbon dioxide. This requires different hardware, bottling equipment, etc.&lt;/p&gt;
+
+					&lt;p&gt;If you've ever witnessed the appearance of a perfectly poured Guinness, and paid more than $5 USD for it, you'll understand why. It's partly about presentation. As one of the oldest beers on the market, it requires us to jump through some hoops to ensure we are enjoying it correctly. In short: I think it's mostly marketing!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>117</PostId>
+			<ParentPostId>76</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>serving</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:50:26.943</CreationDate>
+				<LastEditDate>2014-01-24T06:13:50.857</LastEditDate>
+				<LastActivityDate>2014-01-24T06:13:50.857</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+				<LastEditorUserId>80</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Like most beers, the main thing is the height of the foam on top of the beer.  It's largely a matter of personal preference; the only considerations I'm aware of are:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Bottle-fermented beers should be poured slowly and all in one go to prevent yeast from going into the glass (and, to that end, leave half a finger of beer in the bottle).&lt;/li&gt;
+					&lt;li&gt;Unless it's an unfiltered wheat beer, in which case the yeast is meant to go in the glass.  Also, hefeweizens like this should go for a little larger head than normal (2-2.5 fingers).&lt;/li&gt;
+					&lt;li&gt;Or if it's a nitrogenated beer (Eg, Guinness with a widget), you should simply &lt;a href="http://www.youtube.com/watch?v=yNCaV3e9BEg&amp;amp;feature=youtu.be"&gt;upend the can or bottle into the glass&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;Otherwise, most people aim for about 1 finger-width of foam.  As long as you have at least some head and it doesn't overflow the glass, you're pouring fine.&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>134</PostId>
+			<ParentPostId>69</ParentPostId>			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>16</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T23:46:49.000</CreationDate>
+				<LastActivityDate>2014-01-21T23:46:49.000</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>92</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes, the lactose remains in the beer at the end of brewing.&lt;/p&gt;
+
+					&lt;p&gt;In normal beer, the only sugar which enters the brewing process is from the malted barley: maltose and glucose released by the breakdown of starch, and a little sucrose and fructose. This &lt;a href="http://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.1953.tb02720.x/abstract"&gt;1953 analysis by a chemist in the Carlsberg research laboratory&lt;/a&gt; has all the gory details.&lt;/p&gt;
+
+					&lt;p&gt;Normal brewing yeast has enzymes that break down glucose and fructose, &lt;a href="http://www.madsci.org/posts/archives/2005-11/1132509463.Cb.r.html"&gt;but not lactose&lt;/a&gt;. This kind of yeast evolved on rotting fruit, where there is plenty of sucrose, glucose, and fructose, but no lactose, so they never needed the enzymes. There are &lt;a href="http://homedistiller.org/sugar/wash-sugar/lactose"&gt;other yeasts which can ferment lactose&lt;/a&gt;, but they aren't used in brewing, except by zany vodka makers and Mongols.&lt;/p&gt;
+
+					&lt;p&gt;So, in a normal beer, potentially all of the sugar can be broken down during brewing. Whether it is or not is up to the brewer, who can stop the process while sugar remains, or let it run to completion. However, in a milk stout, there is no way for the lactose to be broken down, so it all remains at the end.&lt;/p&gt;
+
+					&lt;p&gt;The amount of lactose in a milk stout varies, but it seems that it is likely to be in the range of &lt;a href="https://byo.com/stories/item/1155-milk-stout-it-does-a-body-good"&gt;5 to 13%&lt;/a&gt;; that is, in a (568 millilitre) pint, there may be anywhere from 28 to 74 grams of lactose. The lactose concentration in milk is about &lt;a href="http://en.wikipedia.org/wiki/Lactose_content_of_foods"&gt;4%&lt;/a&gt;, so this is the equivalent of 700 - 1850 millilitres of milk. Rather a lot!&lt;/p&gt;
+
+					&lt;p&gt;Perhaps you might like a &lt;a href="http://www.stpetersbrewery.co.uk/products/porters-and-stouts/honey-porter/"&gt;honey porter&lt;/a&gt; instead?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>211</PostId>
+			<ParentPostId>63</ParentPostId>			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T17:43:33.070</CreationDate>
+				<LastActivityDate>2014-01-22T17:43:33.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness, and a few other beers out there, are carbonated in part with nitrogen, which has much smaller bubbles.  This creates a smoother mouthfeel; this is the "creaminess" that is often described.&lt;/p&gt;
+
+					&lt;p&gt;The use of nitrogen is probably uncommon for a few reasons.  Firstly, there's the added production cost in the bottled or canned product: the widget.  Secondly, I would wager that most breweries want the product to taste similar on draught as in a can or bottle, and it's very uncommon to have nitrogen available in a taproom.  (You can get special taps which "cream" the beer on the way out, but again, for consistency those would have to be installed where-ever you sell your beer.)  So it's something of an uphill battle.  Finally, not all beers may benefit from a different type of carbonation than what's prevalent... but of course, that's subjective.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>374</PostId>
+			<ParentPostId>372</ParentPostId>			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T07:14:38.660</CreationDate>
+				<LastActivityDate>2014-01-28T07:14:38.660</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>117</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;the beers you mention as filling are heavier beers, with much higher starch contents than the lighter beers that are less filling.&lt;/p&gt;
+
+					&lt;p&gt;Basically in brewing you have the following process:  before you add yeast you convert some (or all in theory) of the starches to sugar.  Then you add yeast.  Then that converts the sugars into alcohol.  Starches remain as starches.&lt;/p&gt;
+
+					&lt;p&gt;This is a property that older beers made use of to a large extent.  Remember that the darker, heavier beers evolved as a bread substitute for fasting monks.   They wouldn't be much of a bread substitute if they weren't filling.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>394</PostId>
+			<ParentPostId>372</ParentPostId>			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T22:59:31.760</CreationDate>
+				<LastEditDate>2014-01-29T07:06:01.987</LastEditDate>
+				<LastActivityDate>2014-01-29T07:06:01.987</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+				<LastEditorUserId>112</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I think a some of it is psychological - I too remember struggling to drink down a pint of Guinness. But now I can put away plenty!  The darker color and dense head give the perception of a bigger beer.&lt;/p&gt;
+
+					&lt;p&gt;But in reality most pub Stouts such as Guinness are quite light beers, in terms of their physical density (specific gravity) so it's not that they are physically harder to drink.&lt;/p&gt;
+
+					&lt;p&gt;Some reasons that Stouts can taste and feel heavier:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Stouts tends to be more bitter, so tougher to drink for those not used to it&lt;/li&gt;
+					&lt;li&gt;Serving on N&lt;sub&gt;2&lt;/sub&gt; ("Nitro") creates the illusion of a thicker mouthfeel (it's not fully understood at present quite why that is)&lt;/li&gt;
+					&lt;li&gt;The lower CO&lt;sub&gt;2&lt;/sub&gt; levels removes a certain "light" quality from the beer. Beers with more CO&lt;sub&gt;2&lt;/sub&gt; feel lighter, effervescent and easier to drink.&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Of course, there are some stouts that really are fuller bodied, but I focused on Guinness simply because that's the one most available throughout the world and yet is counter-intuitively lighter than typical pub beers.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>638</PostId>
+			<ParentPostId>637</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>17</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-25T13:16:29.207</CreationDate>
+				<LastEditDate>2014-02-25T14:29:38.243</LastEditDate>
+				<LastActivityDate>2014-02-25T14:29:38.243</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>170</OwnerUserId>
+				<LastEditorUserId>170</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Oyster stout traditionally uses oysters as part of the brewing process, and that is the flavour that differentiates them from other stouts.  While it is traditional to use oysters, some modern breweries use artifical flavours in their oyster stouts, or simply say that they are intended to be eaten with seafood.&lt;/p&gt;
+
+					&lt;p&gt;You mention Marston's Oyster Stout, which is one example of an oyster stout that doesn't use actual oysters in the brew.  From &lt;a href="https://www.classicales.co.uk/Products/Marstons_Oyster_Stout/48"&gt;their website&lt;/a&gt;:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Marston’s Oyster Stout is a dark, creamy, smooth, clean tasting English stout. It doesn’t contain oysters, just called Oyster Stout as this style of ale is a great complement to shell fish dishes.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>857</PostId>
+			<ParentPostId>854</ParentPostId>			<Tags>
+				<tag>laws</tag>
+				<tag>stout</tag>
+				<tag>abv</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-05T22:05:30.250</CreationDate>
+				<LastActivityDate>2014-06-05T22:05:30.250</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>37</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;No, federal malt beverage labeling laws make it optional (though they &lt;strong&gt;do&lt;/strong&gt; describe standards the label must meet if brewers &lt;em&gt;do&lt;/em&gt; choose to add the alcohol content label.)  &lt;/p&gt;
+
+					&lt;p&gt;State laws, however, may require a brewer to add alcohol content to the label.  Clearly Delaware law (where Dogfish Head is based) must not.  &lt;/p&gt;
+
+					&lt;p&gt;In my experience, this is not terribly uncommon.  It is true that most beers do have alcohol content disclosed on the label, but I've run across quite a number that do not. &lt;/p&gt;
+
+					&lt;p&gt;If you're interested in learning more about it straight from the source, it's available in the Electronic Code of Federal Regulations in &lt;a href="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&amp;amp;sid=d473aa9e89b3f7135e18c8da635f26aa&amp;amp;tpl=/ecfrbrowse/Title27/27cfr7_main_02.tpl"&gt;Title 27, Chapter I, Subchapter A, Part 7—LABELING AND ADVERTISING OF MALT BEVERAGES&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>926</PostId>
+			<ParentPostId>924</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>porter</tag>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-14T23:46:21.707</CreationDate>
+				<LastActivityDate>2014-07-14T23:46:21.707</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There is a table of amino acid composition in beers on page 105 of &lt;a href="http://img-srv.dtcbuilder.com/engine/builder/images/2/8/6/9/3/5/file/2.pdf" rel="nofollow noreferrer"&gt;Beer: Health and Nutrition (C. W. Bamforth, 2004)&lt;/a&gt; (page 119 of the overall PDF):&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/6qkdf.png" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;Other than that, I cannot find any nutritional breakdowns that include vitamins for stouts (and porters, in general). However, as far as micronutrients are concerned, there may not be as great a difference between stouts and other ales as one might think, since, despite the &lt;em&gt;perceptibly&lt;/em&gt; large differences in color and taste, the ingredients and processes in brewing are largely the same. Here are some findings on beer in general:&lt;/p&gt;
+
+					&lt;p&gt;Querying &lt;a href="http://ndb.nal.usda.gov/ndb/foods?max=100&amp;amp;qlookup=alcohol" rel="nofollow noreferrer"&gt;alcohol on USDA's National Nutrient Database&lt;/a&gt; yields breakdowns for&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Alcoholic beverage, beer, light&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, regular, all&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, regular, BUDWEISER&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, light, BUDWEISER SELECT&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, light, BUD LIGHT&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, light, MICHELOB ULTRA&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Here's a screenshot, because the host doesn't always resolve for me for some reason:&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/i5jan.png" alt="Screenshot of USDA query."&gt;&lt;/p&gt;
+
+					&lt;p&gt;I'm willing to bet that &lt;a href="http://www.ucc.ie/en/ifcdb/accessthedatabase/" rel="nofollow noreferrer"&gt;The Irish Food Composition Database&lt;/a&gt; has a similar report on Guinness, but the document must be &lt;a href="http://sites.fastspring.com/eurofir/product/eurofirebookcollection_ireland" rel="nofollow noreferrer"&gt;purchased for 15.00€&lt;/a&gt; from &lt;a href="http://www.eurofir.org/?page_id=257" rel="nofollow noreferrer"&gt;EuroFIR&lt;/a&gt;. According to a table of contents viewable in &lt;a href="http://www.eurofir.org/wp-content/uploads/EuroFIR%20AISBL/e-books/EuroFIR_AISBL_ebook_Ireland_Demo.pdf" rel="nofollow noreferrer"&gt;the demo link&lt;/a&gt;, the document should contain compositions of 57 manufactured beverages.&lt;/p&gt;
+
+					&lt;p&gt;Perhaps you can infer some properties of Guinness by knowing its ingredients and process and also knowing how these ingredients and processes affect micronutrient levels.&lt;/p&gt;
+
+					&lt;p&gt;According to &lt;a href="http://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.1946.tb01573.x/pdf" rel="nofollow noreferrer"&gt;this paper&lt;/a&gt;&lt;sup&gt;1&lt;/sup&gt;, as far as major B vitamins are concerned,&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;beer contains very little thiamine (B&lt;sub&gt;1&lt;/sub&gt;), of which malting the barley causes a slight loss, but otherwise stays intact through the rest of the brewing operations,&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;riboflavin (B&lt;sub&gt;2&lt;/sub&gt;) increases during the malting and brewing processes, resulting in nutritionally significant amounts (&lt;em&gt;e.g.&lt;/em&gt; seven pints supplying total daily requirements),&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;nicotinic acid (niacin, B&lt;sub&gt;3&lt;/sub&gt;) fluctuates throughout the malting and brewing process, but also results in nutritionally significant amounts (&lt;em&gt;e.g.&lt;/em&gt; three-and-a-half to four pints supplying total daily requirements).&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;This &lt;a href="http://journals.cambridge.org/download.php?file=%2FBJN%2FBJN83_04%2FS0007114500000490a.pdf&amp;amp;code=d1547300812aec1791f4e05f6aebbcf2" rel="nofollow noreferrer"&gt;study&lt;/a&gt;&lt;sup&gt;2&lt;/sup&gt; measured phylloquinone (K&lt;sub&gt;1&lt;/sub&gt;) composition of beers, specifically a "bitter," a lager, and Guinness, and concluded only trace amounts in each.&lt;/p&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;sup&gt;1&lt;/sup&gt; Stringer, W. J. Vitamins in Beer. Journal of the Institute of Brewing. 2013.&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;sup&gt;2&lt;/sup&gt; Bolton-Smith, C. et al. Compilation of a provisional UK database for the phylloquinone (vitamin K&lt;sub&gt;1&lt;/sub&gt;) content of foods. British Journal of Nutrition. 2000.&lt;/sup&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13" InstanceType="answer">
+			<PostId>1063</PostId>
+			<ParentPostId>637</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-10-28T00:48:36.980</CreationDate>
+				<LastActivityDate>2014-10-28T00:48:36.980</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1431</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Just had a bottle of Marston's Oyster Stout two days ago (10/25/14), the label states it is brewed with oyster shells.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14" InstanceType="answer">
+			<PostId>1107</PostId>
+			<ParentPostId>637</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-02T11:15:16.180</CreationDate>
+				<LastEditDate>2016-10-05T23:48:05.620</LastEditDate>
+				<LastActivityDate>2016-10-05T23:48:05.620</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1546</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If it is an Oyster stout then it probably should have contact with ACTUAL oysters. Using the shells is a cop out that is like &lt;a href="http://en.wikipedia.org/wiki/Stone_Soup" rel="nofollow"&gt;stone soup&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;p&gt;Checkout new brewery Hammertown in London who do it properly:
+					"In 1938 the original &lt;a href="http://www.hammertonbrewery.co.uk/our-beers/" rel="nofollow"&gt;Hammerton Brewery&lt;/a&gt; was famous for being the first in the world to use Oysters as part of the brewing process. In this new recipe we’ve used a variety of flavoursome malts, including a good dose of oats. Fresh wild Maldon oysters are then added to the boil to add a subtle extra complexity to the taste of this stout."&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15" InstanceType="answer">
+			<PostId>1114</PostId>
+			<ParentPostId>1095</ParentPostId>			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-03T20:59:51.070</CreationDate>
+				<LastEditDate>2017-04-13T12:33:38.297</LastEditDate>
+				<LastActivityDate>2014-12-03T20:59:51.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>887</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There was a &lt;a href="https://cooking.stackexchange.com/questions/1927/how-can-you-measure-the-caffeine-content-of-a-liquid-at-home"&gt;similar question&lt;/a&gt; on the Cooking SE site. Perhaps you can try the approach suggested by Adam Shiemke in the accepted answer. He recommended using ethyl acetate and performing a little home science experiment as detailed &lt;a href="http://www.scienceteacherprogram.org/chemistry/Paul00-2.html" rel="nofollow noreferrer"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16" InstanceType="answer">
+			<PostId>1123</PostId>
+			<ParentPostId>53</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-09T13:43:48.883</CreationDate>
+				<LastActivityDate>2014-12-09T13:43:48.883</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1569</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;That very much depends on the brewery. Some use cocoa nibs to add the chocolate flavor, but often they use what are called "chocolate malt", grain that is roasted until it's the color of chocolate. These happen to add a fair amount of chocolate and coffee characteristics to the final product.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17" InstanceType="answer">
+			<PostId>2170</PostId>
+			<ParentPostId>2161</ParentPostId>			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-02T19:51:09.653</CreationDate>
+				<LastEditDate>2015-01-02T20:05:01.747</LastEditDate>
+				<LastActivityDate>2015-01-02T20:05:01.747</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2648</OwnerUserId>
+				<LastEditorUserId>2648</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Sort of.&lt;/p&gt;
+
+					&lt;p&gt;These stouts my also be known as "Blonde" or "White" in additional "Golden". Supposedly the idea first came about in 2007, when it was joked that Stone should brew a Golden Stout, it being a sort of oxymoron. However, it appears that now it exists. &lt;a href="http://newschoolbeer.com/2014/11/stone-brewing-golden-stout-enjoy-12-26-14-release-week.html"&gt;Stone Brewmaster Mitch Steele decided to create it&lt;/a&gt;, a light colored beer which had the flavors of a stout,&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;“To achieve the qualities of a stout, we relied on our prior experience brewing with coffee to pull flavors from the beans without affecting the hue of the beer,” explains Steele. “As the beer warms and opens up, the chocolate adds another level of complexity and helps build the traditional flavors typically associated with dark beers. It’s been really fun to see a prank with questionable viability become a reality.”&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;While this isn't the only example, it's one of the more notorious ones that serves well to explain the idea as well as how the flavoring is achieved.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18" InstanceType="answer">
+			<PostId>2174</PostId>
+			<ParentPostId>2161</ParentPostId>			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-05T15:40:21.957</CreationDate>
+				<LastActivityDate>2015-01-05T15:40:21.957</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In addition to @john-m's answer about the modern white stouts which are paleish with coffee/chocolate flavors, there historically were pale stouts which predated our modern concept of stout as a dark beer with chocolate/coffee flavors.&lt;/p&gt;
+
+					&lt;p&gt;Check &lt;a href="http://zythophile.wordpress.com/2007/09/06/pale-stout/" rel="nofollow"&gt;Zytophile&lt;/a&gt; for some historical context.  He goes on for a bit but the main takeaway is that from the early 1700s to at least the 1850's there are ads, brewing records, mentions in manuals, etc of "Pale Stout".  Basically because:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;For 150 years or so after the word stout first began being applied to beer it was used simply as an adjective to mean “strong”. &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Also a little bit worth reading at &lt;a href="http://barclayperkins.blogspot.com/2010/09/pale-stout.html" rel="nofollow"&gt;Shut up about Barclay Perkins&lt;/a&gt;, though in this case the comments section is a bit more interesting than the body of the post, specifically this comment by Ron Pattinson:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;What makes it a Stout? The brewery called it one.&lt;/p&gt;
+  
+					  &lt;p&gt;What we think of today as Stout was originally called Brown Stout. A strong beer brewed from brown malt. Pale Stout is the same thing, just brewed from pale malt. It's a very 18th-century way of defining beers.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19" InstanceType="answer">
+			<PostId>3209</PostId>
+			<ParentPostId>63</ParentPostId>			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-20T15:34:34.440</CreationDate>
+				<LastActivityDate>2015-01-20T15:34:34.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3671</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;While, as object88 says, it is uncommon for draught beers to use nitrogen, it is becoming more prevalent, though certainly not dwarfing CO2 draught beers anytime soon! So, it is certainly possible to remain consistent from bottle to draught, though it is less common and more costly to do so.&lt;/p&gt;
+
+					&lt;p&gt;Both bottled and draught beers use nitrogen to add bubbles instead of CO2 on occasion. This is more common with malty beers, say stouts and porters, than it is for hoppy beers. The nitrogen makes smaller bubbles than CO2, and creates a thick head due to the lower solubility of nitrogen in water than CO2 at the same temperatures. This creates the thicker mouthfeel that Guinness (as well as other nitrogenated stouts) are known for. &lt;/p&gt;
+
+					&lt;p&gt;CO2 will likely continue to be used for most hop-forward beers, since it pushes more aroma out of the beer (including the delicious hop scent!) while nitro is more about the mouthfeel and well-rounded flavor.&lt;/p&gt;
+
+					&lt;p&gt;A few reasons why other beers don't use the small nitrogen ball devices ("nitrogen widgets"):&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Alcohol laws (or FDA or something?) doesn’t allow craft brewers to add
+					  widgets/foreign objects to alcohol (cans). Imports exempt?&lt;/p&gt;
+  
+					  &lt;p&gt;Not cost effective for small brewers, who are only just able to start
+					  affording canning systems.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;[&lt;a href="http://www.thebrewsite.com/canned-beer-week-why-beer-widgets/" rel="nofollow"&gt;Source&lt;/a&gt;]&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20" InstanceType="answer">
+			<PostId>3214</PostId>
+			<ParentPostId>2161</ParentPostId>			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-22T00:29:09.657</CreationDate>
+				<LastActivityDate>2015-01-22T00:29:09.657</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3707</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Like John M said, it's sort of an oxymoron. It is to stouts what a black IPA is to IPAs. It has similar flavor and mouthfeel to a stout, but it's the wrong color. Just like a pale ale can't &lt;em&gt;really&lt;/em&gt; be black, a Black IPA still has the same hoppiness and lighter body of an IPA.&lt;/p&gt;
+
+					&lt;p&gt;And like Sloloem mentioned, "stout" was originally a reference to the flavor, meaning a strong beer, but today is generally understood to mean a beer brewed with dark malts.&lt;/p&gt;
+
+					&lt;p&gt;If you are talking about the Stone Stochasticity Master of Disguise, I recommend you get it and try it for yourself. It's excellent. I've had a lot of coffee stouts, and a lot of chocolate stouts, and in my opinion that one is executed better than any of the ones I've had.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21" InstanceType="answer">
+			<PostId>3365</PostId>
+			<ParentPostId>3364</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>stout</tag>
+				<tag>cooking</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-06T12:54:35.987</CreationDate>
+				<LastActivityDate>2015-05-06T12:54:35.987</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness is in a style called &lt;a href="http://www.bjcp.org/2008styles/style13.php" rel="nofollow"&gt;"Dry Irish Stout"&lt;/a&gt;, so anything on &lt;a href="http://www.beeradvocate.com/beer/style/162/" rel="nofollow"&gt;this list&lt;/a&gt; would probably substitute well.&lt;/p&gt;
+
+					&lt;p&gt;It sort of depends on what you felt was missing from the cake.  We could work on narrowing it down to stouts that were stronger in those flavors.&lt;/p&gt;
+
+					&lt;p&gt;Oatmeal or milk stouts as styles would be sweeter than Guinness, some stouts might play up chocolate or coffee or roast/burnt.  Porter is a really similar style that takes well to interesting spice combinations like vanilla and anise.  Bourbon Barrel aged stouts will have a wood/vanilla/whiskey thing going on.  You could make some interesting cakes.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22" InstanceType="answer">
+			<PostId>3366</PostId>
+			<ParentPostId>3364</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>stout</tag>
+				<tag>cooking</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-06T14:37:09.333</CreationDate>
+				<LastActivityDate>2015-05-06T14:37:09.333</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4090</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are some stouts with cocoa in their recipes. Two that I like are &lt;a href="http://www.ratebeer.com/beer/youngs-double-chocolate-stout/139/" rel="nofollow"&gt;Young's Double Chocolate Stout&lt;/a&gt; and &lt;a href="http://www.ratebeer.com/beer/sadlers-mud-city-stout/96060/" rel="nofollow"&gt;Sadler's Mud City Stout&lt;/a&gt;, both available in bottles in the UK.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23" InstanceType="answer">
+			<PostId>3435</PostId>
+			<ParentPostId>637</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-29T12:32:25.190</CreationDate>
+				<LastActivityDate>2015-06-29T12:32:25.190</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4269</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Oysters used to be served as an accompaniment to beer in pubs in Victorian England, so the first beers called Oyster Stouts were probably beers intended to compliment oysters rather than containing them. Later someone discovered that you could use crushed Oyster shells as a fining agent in beer and later still someone actually added the oyster meat, probably as a marketing gimmick since oysters aren't going to add much to the flavour.&lt;/p&gt;
+
+					&lt;p&gt;So it's fine for oyster stout to not contain oysters.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24" InstanceType="answer">
+			<PostId>3461</PostId>
+			<ParentPostId>3458</ParentPostId>			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-13T20:39:08.277</CreationDate>
+				<LastActivityDate>2015-07-13T20:39:08.277</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The short answer is no.  While they're both styles of dark beer nowadays Mild is very low ABV with a lot of malty/nutty flavors and fruity sweetness.  Stouts are stronger than milds with no fruitiness and a lot of roasted and burnt flavors instead of malts.  Most will probably be more bitter and have less residual sweetness than milds.&lt;/p&gt;
+
+					&lt;hr&gt;
+
+					&lt;p&gt;&lt;strong&gt;The long answer is:&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;Historically stout and mild were completely unrelated terms that referred to completely different things than they wound up being known for.  Both started being used in the 18th century.  Stout originally just meant strong and Mild was used as the opposite of Keeping (or Stale), which basically just meant the beer was fresh rather than being aged in a barrel for any length of time.&lt;/p&gt;
+
+					&lt;p&gt;Mild turned into a strength descriptor in the early 19th century when brewers started using the X, XX, XXX system to classify their ales, which referred to both the ABV and pounds of hops per barrel.  But Mild was still a pale beer.  As the 20th century progressed Milds started becoming more amber colored and playing more as malty and sweet.&lt;/p&gt;
+
+					&lt;p&gt;All beers until this point were actually much stronger than we're used to today.  Barclay Perkins X Ale in 1839 was actually close to 8% ABV.&lt;/p&gt;
+
+					&lt;p&gt;Grain shortages and government restrictions towards the end of WWI dropped Mild to close to 2%, and brewers also added dark sugars and mixed in amber and brown malt to keep some measure of flavor.  After the war ended ABVs bounced back up but new taxes in the 30s pushed them back down, close to the modern range for Mild.  Dark mild being the standard and Pale mild being a variant didn't really happen until the 1950s.&lt;/p&gt;
+
+					&lt;p&gt;The history of stout is quite a bit muddier, though the general consensus seems to be that it evolved out of Stout Brown Porter and has been largely interchangeable with Porter for most of its history.  &lt;/p&gt;
+
+					&lt;p&gt;The differentiation probably started with in the invention of Black Patent Malt in 1817.  In the late 1700s new technology had been invented that allowed brewers to track their efficiency and they realized the roasty brown malt they used for porters was really expensive compared to how much fermentable sugar it produced. So they started making porters out of mostly pale malt with brown malt and burnt sugars among other ingredients for color and flavor.  &lt;/p&gt;
+
+					&lt;p&gt;Britain had banned the use of anything besides malted barley in brewing in 1816 which really kindof screwed porter brewers over.  With Black Patent they had something which was absurdly dark enough that they could finally make up the color difference using pale malt.  Though most brewers in England continued to use some portion of brown malt, brewers in Ireland switched completely to pale and black malts only.  Irish beer was also less hoppy than English beer in general since hops didn't grow as well in Ireland.&lt;/p&gt;
+
+					&lt;p&gt;Guinness renamed its XX Porter to Extra Stout Porter in ~1820 and the popularity and marketing gradually dropped "Porter" from the name, which is probably where Stout began to evolve as a style separate from Porter.  But it's in a bit of grey area, people in 2015 are still debating Porter vs Stout.&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Short version of the long story&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;Mild originally just meant Fresh and as a style evolved from the weakest pale beer a brewery made, and only really became what we think of it as today in the last 60 years.  Stout originally just meant Strong and was a synonym for Porter for a very long time until marketing tried to differentiate it maybe 150 years ago.&lt;/p&gt;
+
+					&lt;p&gt;Sorry about the wall, but I fell down a rabbit hole of interesting beer history.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25" InstanceType="answer">
+			<PostId>3488</PostId>
+			<ParentPostId>33</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>classification</tag>
+				<tag>porter</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-20T20:40:48.710</CreationDate>
+				<LastEditDate>2016-02-15T14:01:01.503</LastEditDate>
+				<LastActivityDate>2016-02-15T14:01:01.503</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4338</OwnerUserId>
+				<LastEditorUserId>4338</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Well, that style thing is complicated because in real world people just make beer, and don't make beer to satisfy styles guides (at least, not until very recentely when some people started to care more about style guidelines than the beer itself).&lt;/p&gt;
+
+					&lt;p&gt;Anyway, what I think is important to be aware is:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Many styles have a long and old history, often centuries, and what we have as one nowadays doesn't have much to do with what it was once ago.&lt;/li&gt;
+					&lt;li&gt;Styles change a lot over time as well. I'm not a specialist, but I think before the american craft beer revolution and revival in the early 80's, no one was gathering and classifying beer styles in a guide like BJCP. And that same revival brought back to life many dead styles in different fashion (well, look the case of IPAs), by the way.&lt;/li&gt;
+					&lt;li&gt;Generally, despite style guides, people have their own understanding of what is X or Y, and when naming their beers, they will do it based on their perception and references too, not strictly style guidelines.&lt;/li&gt;
+					&lt;li&gt;If you look closer, porter and stout are ancient reference styles for more specific and contemporaneous styles (sweet stout, dry stout, outmeal stout, brown porter, robust porter, russian imperial stout, etc).&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;So, I think it makes more sense telling the difference between a milk and an outmeal stout, or brown and baltic porter than stout X porter.&lt;/p&gt;
+
+					&lt;p&gt;For what's worth, for me, there's no difference between stout and porter. What I mean is, at least not so that we, as consumers, can trust and be 100% of what you are going to get if you choose one over the other, specially when the name is generic like that.&lt;/p&gt;
+
+					&lt;p&gt;What I think is enlightening is to understand the history of those related styles and how they came to be what they are today.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26" InstanceType="answer">
+			<PostId>3492</PostId>
+			<ParentPostId>33</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>classification</tag>
+				<tag>porter</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-22T17:37:29.760</CreationDate>
+				<LastActivityDate>2015-07-22T17:37:29.760</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1290</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;BJCP style guides aside, I generally love porters and don't care for stouts. The latter (in my experience) tend to have a much more pronounced roasted malt character.  (I do like most milk stouts though, now that that's a thing)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27" InstanceType="answer">
+			<PostId>4538</PostId>
+			<ParentPostId>4537</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>stout</tag>
+				<tag>lager</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-19T16:47:53.373</CreationDate>
+				<LastActivityDate>2015-08-19T16:47:53.373</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4394</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Two types of beers might suit you, both are similar but with slightly different flavour profiles.&lt;/p&gt;
+
+					&lt;p&gt;English mild ale has a lower alcoholic content than bitter or Guinness, generally dark coloured.  Theakstons make a particularly nice mild on an irregular basis.&lt;/p&gt;
+
+					&lt;p&gt;Scottish 60 shilling (60/-) or light beer is similar to mild but is generally slightly sweeter to suit the Scottish palate.  McEwan's 60/- is the one most commonly seen.&lt;/p&gt;
+
+					&lt;p&gt;It should be noted that this class of beer is generally out of favour in the UK despite efforts by the Campaign for Real Ale to revive interest.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28" InstanceType="answer">
+			<PostId>4540</PostId>
+			<ParentPostId>4537</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>stout</tag>
+				<tag>lager</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-19T20:40:34.643</CreationDate>
+				<LastActivityDate>2015-08-19T20:40:34.643</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4350</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Let's start off with beers that you're interested in, something akin to a black lager. I'm going to keep things focused on beer styles rather than particulars, since I do not know where you are nor what might be available for you.&lt;/p&gt;
+
+					&lt;h2&gt;Dunkelweizen&lt;/h2&gt;
+
+					&lt;p&gt;This is a dark wheat beer with characteristics of a traditional wheat with caramel type flavors joining the mix. Not exactly stout-like, but more like your black lager in lightness.&lt;/p&gt;
+
+					&lt;h2&gt;Schwarzbier&lt;/h2&gt;
+
+					&lt;p&gt;Schwarzbier means "black beer" in German. This is what you had with your  Köstritzer. It is a medium-bodied, malt-accented dark brew, very opaque and deep-sepia in color, with a chewy texture and a firm, creamy, long-lasting head. In spite of its dark color, it comes across as a soft and elegant brew that is rich, mild, and surprisingly balanced. It never tastes harsh, toasty or acrid.&lt;/p&gt;
+
+					&lt;h2&gt;Black IPA / Cascadian Dark Ale&lt;/h2&gt;
+
+					&lt;p&gt;The American fascination with hops has shown that the addition of toasted malts can give a hoppy, bitter, and coffee-like experience to these beers. &lt;/p&gt;
+
+					&lt;h2&gt;Black Saisons&lt;/h2&gt;
+
+					&lt;p&gt;Similar to the Black IPA, I've seen a few breweries start brewing their saisons with roasted malts. The usual light flavors of the saison are accented by this extra roasted character. It's never acrid, however. &lt;/p&gt;
+
+					&lt;h2&gt;Porters&lt;/h2&gt;
+
+					&lt;p&gt;A lot of English porters are not heavy at all, and are generally akin to milds that have roasted malts added in. Look for lower ABV porters in the 4-5% range, and you'll probably find something you like.&lt;/p&gt;
+
+					&lt;p&gt;Surprisingly to many, Guinness is actually &lt;a href="http://time.com/25145/3-surprising-facts-about-guinness/"&gt;on par with any other beer of similar alcohol strength&lt;/a&gt;, as beer gets a majority of its calories from alcohol, &lt;a href="https://www.uhs.uga.edu/documents/nutrition_alcohol.pdf"&gt;about 7 per gram&lt;/a&gt;. Perhaps much of the 'full' feeling is a product of the use of nitrogen in the mix which gives it that creamy texture. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29" InstanceType="answer">
+			<PostId>4569</PostId>
+			<ParentPostId>637</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-08T13:19:09.960</CreationDate>
+				<LastEditDate>2015-09-17T02:49:14.673</LastEditDate>
+				<LastActivityDate>2015-09-17T02:49:14.673</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4497</OwnerUserId>
+				<LastEditorUserId>4501</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Oyster stouts are indeed brewed with oysters. The occasional offering that we sell (Niagara College Teaching Brewery), uses oysters at the end of the mash regime (hot soaking of the grains). The idea here is that you are extracting calcium carbonate from the shells, which helps reduce the tannic astringency that can result from the roasted grains used in stouts. This is the same reason/benefit that stouts are traditionally brewed in areas with relatively hard water. It also happens to be the perfect temperature for cooking oysters. &lt;/p&gt;
+
+					&lt;p&gt;Oysters cooked or uncooked could be added at other parts of the process, but may not have the same impact on reducing astringency. There is a subtle undertone of the oyster that makes it into the finished product, but your palate may vary and may or may not detect it (depending on process and quantity used). &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30" InstanceType="answer">
+			<PostId>4687</PostId>
+			<ParentPostId>33</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>classification</tag>
+				<tag>porter</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-11-12T17:17:06.460</CreationDate>
+				<LastActivityDate>2015-11-12T17:17:06.460</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4725</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are a number of different types of porters and stouts, so it isn't necessarily a simple answer, but I would say the use of roasted grains in stouts, particularly roasted barley, is the biggest difference.  As such, you end up with more burnt toast and coffee type flavors in a stout, but the amount and type of roastiness depends upon the type of stout.  If you get the chance, try a side-by-side comparison between the regular Guinness and the Guinness Foreign Extra stouts where the regular Guinness comes off more roasty than the Foreign Extra.&lt;/p&gt;
+
+					&lt;p&gt;Most porters have little to no roastiness.  I think of them as having more smoother chocolate-type flavors, and to be lighter in color (deep red or ruby as opposed to black), but there is a lot of overlap in the Venn diagrams between the two.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31" InstanceType="answer">
+			<PostId>4688</PostId>
+			<ParentPostId>3457</ParentPostId>			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-11-12T23:31:25.360</CreationDate>
+				<LastActivityDate>2015-11-12T23:31:25.360</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4725</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There is a drink called the &lt;a href="https://en.wikipedia.org/wiki/Hangman%27s_Blood" rel="nofollow"&gt;Hangman's Blood&lt;/a&gt; that uses either porter or stout, which aren't too far off of a mild (well, the porter at least).  It also contains other things like rum and brandy so it might not be what you're thinking of, but it does have a history that goes back to around 1930 or so.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32" InstanceType="answer">
+			<PostId>4920</PostId>
+			<ParentPostId>4911</ParentPostId>			<Tags>
+				<tag>storage</tag>
+				<tag>temperature</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-06T08:43:30.897</CreationDate>
+				<LastActivityDate>2016-04-06T08:43:30.897</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It won't hurt you, lactose (the 'key' ingredient of milk stouts) doesn't need to be refrigerated the way actual milk does. However, it is advisable to keep milk stouts refrigerated for two reasons:&lt;/p&gt;
+
+					&lt;p&gt;1) They generally don't age particularly well, so keeping them in the fridge will best preserve the taste.&lt;/p&gt;
+
+					&lt;p&gt;2) If a milk stout isn't pasteurized the lactose can provide unfermented carbohydrates for infections to feast on if any bacteria is present. But keeping it in the fridge will drastically slow down any potential infection.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33" InstanceType="answer">
+			<PostId>5211</PostId>
+			<ParentPostId>637</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-07-21T21:50:36.743</CreationDate>
+				<LastActivityDate>2016-07-21T21:50:36.743</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5508</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This, "The idea here is that you are extracting calcium carbonate from the shells, which helps reduce the tannic astringency that can result from the roasted grains used in stouts." from John, was most helpful and logical. Understanding how chemistry functions in brewing becomes logical once you ponder the explanation. Thanks, John.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34" InstanceType="answer">
+			<PostId>6498</PostId>
+			<ParentPostId>6497</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>porter</tag>
+				<tag>schwarzbier</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-30T15:53:06.937</CreationDate>
+				<LastEditDate>2017-04-13T13:00:11.050</LastEditDate>
+				<LastActivityDate>2017-01-30T15:53:06.937</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Porters and Stouts were similar but different... in the beginning. I'm going to try my best to paraphrase &lt;a href="http://allaboutbeer.com/whats-the-difference-between-porter-and-stout/" rel="nofollow noreferrer"&gt;this wonderful article&lt;/a&gt;, some of the BJCP Guidelines, and &lt;a href="https://beerandbrewing.com/V4VFXSgAAFm6j1c8/article/what-exactly-is-the-difference-between-stout-and-porter" rel="nofollow noreferrer"&gt;this article&lt;/a&gt;.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;&lt;strong&gt;Porters (have #s) Stouts (have bullet points)&lt;/strong&gt;&lt;/p&gt;
+  
+					  &lt;p&gt;1) A substantial, malty dark ale with a complex and flavorful roasty character.  &lt;/p&gt;
+  
+					  &lt;ul&gt;
+					  &lt;li&gt;A very dark, roasty, bitter, creamy ale.&lt;/li&gt;
+					  &lt;/ul&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;These are the BJCP definitions - note... they're fairly similar&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;2) Originally, just your "common" brown beer.&lt;/p&gt;
+  
+					  &lt;ul&gt;
+					  &lt;li&gt;Originally, just a "stout" (or stronger) brown beer.&lt;/li&gt;
+					  &lt;/ul&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Already... you can probably see why people use them interchangeably&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;3) Origin for Porters are credited to London.&lt;/p&gt;
+  
+					  &lt;ul&gt;
+					  &lt;li&gt;Stouts are credited with originating in Ireland.&lt;/li&gt;
+					  &lt;/ul&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Apparently, water (which, as odd as it seems, is the most unique thing to beers!) and science played a large part in London's success in creating &lt;em&gt;Porters&lt;/em&gt; instead of porter being a generic brown beer. Science revealed that the efficiency of the brown grains was 2/3 of pale malt. Even though brown malt was cheaper than pale, the horrible grain efficiency made it more expensive. Therefore the Porter soon had a mixed grain bill using a brown malt base and substituted pale malt for profit. This was made even more apparent when the English Governement/Parliment/forgive my idiocy on the verbage here started taxing beer.  &lt;/p&gt;
+
+					&lt;p&gt;Later- London started using a method known as "parti-gyling"... per the first link:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Parti-gyling isn’t what you think it is. Almost all modern descriptions get it badly wrong. It isn’t—after 1800 at least—using the first runnings to make one beer and the second and third for others.  It’s much more sophisticated than that.&lt;/p&gt;
+  
+					  &lt;p&gt;Porter brewers mashed several times. The worts from each mash were hopped and boiled separately, then blended to produce whatever beers were required. Two, three or even four beers were assembled from blends of each of the worts.&lt;/p&gt;
+  
+					  &lt;p&gt;It’s a very efficient way of making not just huge volumes of a beer, but also relatively small amounts of stronger beers. Or any amount of any strength beer. With their brew lengths of hundreds of barrels, London’s porter brewers couldn’t brew the strongest Stouts single-gyle. The amount they could sell would barely have covered the false bottoms of their massive mash tuns.&lt;/p&gt;
+  
+					  &lt;p&gt;That’s why they often parti-gyled their stouts with porter. You can probably see where this is going. The recipes for porter and stout were, by definition, identical, as they were brewed together.
+					  (Sorry I couldn't paraphrase this part... it all seemed relevant.)&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;So... it seems that all Stouts are Porters; but, not all Porters are Stouts (think squares and rectangles).&lt;/p&gt;
+
+					&lt;p&gt;As far as Schwarzbier goes - this is a &lt;strong&gt;&lt;em&gt;LAGER&lt;/em&gt;&lt;/strong&gt; where Porters and Stouts are &lt;strong&gt;&lt;em&gt;ALES&lt;/em&gt;&lt;/strong&gt;.  &lt;a href="https://alcohol.stackexchange.com/questions/8/what-is-the-difference-between-an-ale-and-a-lager/18#18"&gt;I also differentiate between ales and lagers in this post.&lt;/a&gt; In the homebrewing world, there was a fad of black-lagers/ales a few years ago. The grain used in brewing was more or less burnt in order to give the pale ale a dark appearance but taste/feel like a pale ale/lager.&lt;/p&gt;
+
+					&lt;p&gt;Dark beer is just a classification of all of these types.&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://www.bjcp.org/stylecenter.php" rel="nofollow noreferrer"&gt;Here is a link&lt;/a&gt; to the Beer Judge Certification Program (BJCP) that has links to what each beer type should taste/look like.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35" InstanceType="answer">
+			<PostId>6558</PostId>
+			<ParentPostId>3457</ParentPostId>			<Tags>
+				<tag>stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-20T21:14:09.360</CreationDate>
+				<LastActivityDate>2017-02-20T21:14:09.360</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6429</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The name for a mixture of dark beer and gin (plus brown sugar) is a Dog's Nose. It was usually not mild but porter in the 19th century. It was heated with a little nutmeg on top. Dickens refers to it in Pickwick's Papers. By the 20th century it was still drunk in the East End but with Mild instead of porter and no sugar, nutmeg or warming. &lt;/p&gt;
+
+					&lt;p&gt;Cheers&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36" InstanceType="answer">
+			<PostId>7175</PostId>
+			<ParentPostId>7129</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>belgian-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-01-31T17:51:03.970</CreationDate>
+				<LastActivityDate>2018-01-31T17:51:03.970</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7546</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If I want to find a beer, I use the Untappd app. Link to the beer is here: &lt;a href="https://untappd.com/b/abbaye-de-leffe-leffe-brune-bruin/5941" rel="nofollow noreferrer"&gt;https://untappd.com/b/abbaye-de-leffe-leffe-brune-bruin/5941&lt;/a&gt; 
+					If you load it up in the App (certainly on Android), you can 'Find It'. This will search for recent check ins close to you. That should certainly point you in the right direction anyway. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

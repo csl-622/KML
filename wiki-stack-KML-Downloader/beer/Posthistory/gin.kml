@@ -1,0 +1,705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>9367</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-07T15:25:47.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5529</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am trying to make a gin martini and I would like to know what is the best type of gin to use for doing so.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>9368</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-07T15:25:47.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5529</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the best type of gin to use in a gin martini?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>9369</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-07T15:25:47.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5529</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>9384</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-09T16:51:57.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>9385</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-09T16:51:57.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by -1 edit id of 205
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Edit Tags" >
+			<PostId>9386</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-09T16:51:57.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				Added tags.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, preparation-for-drinking, gin, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Post Closed" >
+			<PostId>9727</PostId>
+			<ParentPostId>5072</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-30T09:04:43.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":187,"DisplayName":"Rory Alsop"},{"Id":5064,"DisplayName":"Ken Graham"},{"Id":27,"DisplayName":"object88"},{"Id":5078,"DisplayName":"Jamie Eltringham"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>11693</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-07T17:55:01.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					OK, so without sounding rather pathetic, I am allergic to a lot of things.  Without going into too much detail, wines and beers are out.  I tend to stick to the known - gin and rum.  I cannot drink anything fermented, but would like a nice tipple with my meal - any suggestions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>11694</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-07T17:55:01.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What can I drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>11695</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-07T17:55:01.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, gin, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Post Closed" >
+			<PostId>11697</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T03:21:07.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":5064,"DisplayName":"Ken Graham"},{"Id":43,"DisplayName":"Monica Cellio"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>11698</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T05:26:39.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added 16 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What could be a good alternative to either rum or gin to have with an evening meal (or lunch).  I do not drink wine or beer.  Vodka is well, to my thinking, just vodka, so I would like to find something that has its own taste without overpowering the food that it accompanies.  Any suggestions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Title" >
+			<PostId>11699</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T05:26:39.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added 16 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Alternatives to rum and gin to drink with meals
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Tags" >
+			<PostId>11700</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T05:26:39.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added 16 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					wine, vodka, gin, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Post Reopened" >
+			<PostId>11702</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-08T07:47:38.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":5078,"DisplayName":"Jamie Eltringham"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>11735</PostId>
+			<ParentPostId>6524</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-13T05:33:52.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have always enjoyed a G&amp;T.  I have my favorite brands, not only of gin, but also of tonic.  But I have noticed that there is a whole slew of them now.  [![enter image description here][1]][1]
+
+					So, how do I know which ones are made properly, and which ones are just alcohol and flavor, without buying and tasting each one in turn?
+
+					  [1]: https://i.stack.imgur.com/PxBfg.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>11736</PostId>
+			<ParentPostId>6524</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-13T05:33:52.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Fashionable gins - are they what they claim to be?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>11737</PostId>
+			<ParentPostId>6524</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-13T05:33:52.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, taste, gin, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>11753</PostId>
+			<ParentPostId>6524</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-14T02:43:50.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/831333096452677632
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>12053</PostId>
+			<ParentPostId>6625</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T13:46:25.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently i started paying attenction on the shelf of the "forbidden bottles" in pub's.
+					I saw lots of time a gin called Mare (reference [here][1]), which seems to be a very good bottle , with a particular "mediterranean" taste.
+
+					Except the classic gin tonic, is there some cocktail who enhance this particular gin?
+
+					  [1]: http://www.ginfoundry.com/gin/gin-mare-gin/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>12054</PostId>
+			<ParentPostId>6625</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T13:46:25.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What kind of cocktail can improve the taste of gin Mare?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>12055</PostId>
+			<ParentPostId>6625</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T13:46:25.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6453</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					gin, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Body" >
+			<PostId>12057</PostId>
+			<ParentPostId>6625</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T14:04:55.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<EditDetails>
+				"improve" implies it needs improving... also a small typo in the body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Recently i started paying attention on the shelf of the "forbidden bottles" in pub's.
+					I saw lots of time a gin called Mare (reference [here][1]), which seems to be a very good bottle , with a particular "mediterranean" taste.
+
+					Except the classic gin tonic, is there some cocktail who enhance this particular gin?
+
+					  [1]: http://www.ginfoundry.com/gin/gin-mare-gin/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Edit Title" >
+			<PostId>12058</PostId>
+			<ParentPostId>6625</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T14:04:55.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<EditDetails>
+				"improve" implies it needs improving... also a small typo in the body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What kind of cocktail would Gin Mare be best suited for?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Unknown" >
+			<PostId>12059</PostId>
+			<ParentPostId>6625</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T14:04:55.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6490 approved by 6453 edit id of 296
+			</EditDetails>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Edit Body" >
+			<PostId>12061</PostId>
+			<ParentPostId>6625</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T14:14:54.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Recently, I started paying more attention to the shelf of the "forbidden bottles" in pub's.
+					I saw lots of time, a gin called Mare (reference [here][1]), which seems to be a very good bottle, with a particular "mediterranean" taste.
+
+					Except the classic gin tonic, is there some cocktail who enhance this particular gin?
+
+					  [1]: http://www.ginfoundry.com/gin/gin-mare-gin/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>12250</PostId>
+			<ParentPostId>6514</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T18:13:23.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/842801050373513216
+			</EditDetails>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>13103</PostId>
+			<ParentPostId>6972</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-03T20:58:03.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6989</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I don't mean brands, we could be here all day figuring out that list... I literally mean how many types of gin are there? I know there's dry (London) gin, and sloe gin, but are there any more? Why's dry gin different to just plain gin? Can a gin be two types at the same time? What makes a gin liqueur? Could someone also explain why they are different - is it due to the distilling process, or is it to do with the ingredients added etc.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>13104</PostId>
+			<ParentPostId>6972</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-03T20:58:03.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6989</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How many types of gin are there?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>13105</PostId>
+			<ParentPostId>6972</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-03T20:58:03.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6989</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					gin, differences, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>14171</PostId>
+			<ParentPostId>6972</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-10T20:34:13.060</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1005911028746637312
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>14512</PostId>
+			<ParentPostId>7439</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-16T15:12:46.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Just visiting the good old UK, and discover that gin is so expensive - what and where can I buy a cheap gin in the UK, are there any online stores? Yes I have looked but to no avail.  Thanks guys.....
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>14513</PostId>
+			<ParentPostId>7439</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-16T15:12:46.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Cheapest Gin in the UK?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>14514</PostId>
+			<ParentPostId>7439</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-16T15:12:46.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					spirits, gin, cheap, online, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Body" >
+			<PostId>14565</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T15:09:26.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Winter is just around the corner, thus what should I be drinking?  My normal summer tipple of Gin and Tonic, or should I move over to darker more homely drinks, like perhaps rum and coke?  Is there a particular wine that is evocative of cold days and warm fireplaces?  Or perhaps I should just simply remove ice from gin and carry on - any suggestions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Title" >
+			<PostId>14566</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T15:09:26.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Dark winter days equal dark winter drinks!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Tags" >
+			<PostId>14567</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T15:09:26.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, gin, winter, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

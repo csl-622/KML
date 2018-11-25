@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>54</PostId>
+			<ParentPostId>47</ParentPostId>
+			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:10:32.203</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I closed this as a duplicate of a slightly more open-ended question.  From the answer you got, it sounds like ABV is just one factor that determines how well a beer ages.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="2">
+			<PostId>483</PostId>
+			<ParentPostId>446</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-30T18:25:50.980</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I tend to think of IPAs less along the lines of "how long can I age", but rather, "how soon should I drink".  :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>497</PostId>
+			<ParentPostId>446</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-31T01:00:20.707</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The thing to remember with IPA's is that the whole reason they're interesting - Hops -  are highly volatile and perishable. Once you've 'aged' an IPA, it's defining characteristic is no longer prominent, and you're often left with a fairly boring beer as a result.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>499</PostId>
+			<ParentPostId>167</ParentPostId>
+			<Contributors>
+				<UserId>189</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-31T12:16:58.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Awesome answer +1
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>587</PostId>
+			<ParentPostId>521</ParentPostId>
+			<Contributors>
+				<UserId>389</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-05T12:07:42.800</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In my experience, the difference is sometimes drinking. When you drink a bottle rather slowly, in a big bottle, it can lose more gas over the time you need to empty it, which can sometimes make the last bits taste not so well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="3">
+			<PostId>588</PostId>
+			<ParentPostId>487</ParentPostId>
+			<Contributors>
+				<UserId>389</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-05T12:10:20.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The lack could also mean that you got the glass that was poured an hour ago but accidentally left in a corner...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="2">
+			<PostId>589</PostId>
+			<ParentPostId>431</ParentPostId>
+			<Contributors>
+				<UserId>389</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-05T12:20:42.093</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					During german history there were also phases where only beer brewed obeying the Reinheitsgebot may actually be called Bier (beer). After 1983 this was somewhat softened, but until now there are rules and laws in effect that tell what may be called Bier, and what not, and their ancestor is basically the Reinheitsgebot.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="4">
+			<PostId>739</PostId>
+			<ParentPostId>639</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-26T15:54:36.057</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What kind of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>740</PostId>
+			<ParentPostId>639</ParentPostId>
+			<Contributors>
+				<UserId>554</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-26T19:11:33.900</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't know... Maybe I should have asked what kind of beers should age before being drunk?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="1">
+			<PostId>741</PostId>
+			<ParentPostId>639</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-26T19:14:40.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					[How can I tell whether a beer will improve with age?](http://beer.stackexchange.com/q/99)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>743</PostId>
+			<ParentPostId>639</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-26T19:37:58.717</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This would be better asked as focusing on aging in cans vs. bottles.  It's not a duplicate as such, but it's very poorly differentiated.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>3462</PostId>
+			<ParentPostId>3503</ParentPostId>
+			<Contributors>
+				<UserId>895</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-13T14:23:24.223</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How is it different from other barley wines?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>3464</PostId>
+			<ParentPostId>3503</ParentPostId>
+			<Contributors>
+				<UserId>4338</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-13T14:40:37.840</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's less caramelized compared to other classic english barleywines like J. W. Lees Harvest Ale and Thomas Hardy's Ale. Even if you compare them in color, Golden Pride is much more golden than ruby or dark. Well, what does that matter? The thing is that one of the key components for a beer to age well are melanoidins, created in large amounts in caramelization process. So, that is one of the main characteristics we look for in a beer when considering to age it, and Fuller's Golden Pride doesn't have it so that much. But, it doesn't necessarily mean it will not age well. That's why I'm asking.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="0">
+			<PostId>3465</PostId>
+			<ParentPostId>610</ParentPostId>
+			<Contributors>
+				<UserId>793</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-14T22:39:54.550</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					"Modern" straight lambics (not gueuze or kriek) are served still, and are [BJCP](http://www.bjcp.org/2008styles/style17.php#1d)-recognized.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>3468</PostId>
+			<ParentPostId>4532</ParentPostId>
+			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-18T07:49:59.923</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you very much for this detailed and well-document answer (it was a complex question)!
+					It’s interesting to see growth in a specific trade unproportionally connected to the baby boom: I’d never have guessed!
+					My guess was that one huge factor is the increase in “hipster culture”, but since that affects more or less the same age group, maybe this cultural development and the baby boom are connected as well.
+
+					I’ll accept your answer in a couple of days unless other users prove you wrong :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>3469</PostId>
+			<ParentPostId>4532</ParentPostId>
+			<Contributors>
+				<UserId>4350</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-18T14:52:26.823</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Of course. It's funny that Germany really had a sort-of 'craft' movement for centuries before this boom, what with all of the regional specific beers. As for price, you should see some of the crazy limited release craft beers in the US that go for almost $30 for 750ml.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>3470</PostId>
+			<ParentPostId>394</ParentPostId>
+			<Contributors>
+				<UserId>4439</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-19T04:02:45.637</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					+1 but I'm not entirely convinced that its purely psychological... Stouts and dark nitro lagers leave me with a distinctly different gut feel.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="3">
+			<PostId>3475</PostId>
+			<ParentPostId>4550</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-21T13:29:49.527</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Often called a randle
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="2">
+			<PostId>3822</PostId>
+			<ParentPostId>4930</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-07T02:24:26.633</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					And if you're wondering why there's a whisk[e]y question on beer.SE...[We've expanded our scope](http://meta.beer.stackexchange.com/questions/123/shaken-not-stirred-lets-expand-the-site)!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="0">
+			<PostId>4074</PostId>
+			<ParentPostId>5200</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-14T08:50:07.010</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is not a home brewing question because it a about characteristics of the mead?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="0">
+			<PostId>4075</PostId>
+			<ParentPostId>5200</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-14T13:02:38.177</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Paparazzi in the same way that a question asking what makes IPAs so bitter, yes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="0">
+			<PostId>4076</PostId>
+			<ParentPostId>5184</ParentPostId>
+			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-14T14:54:42.817</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This must be an American thing. In Europe most ciders tell you exactly what fruits it was made from, and in many cases they list the process as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>4077</PostId>
+			<ParentPostId>5204</ParentPostId>
+			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-14T18:06:50.143</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks for the answer. Do they generally have the sour taste of vinegar or does the vinegar's characterisitc taste rather vanish under sweetness? Or is it a case-by-case difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>4078</PostId>
+			<ParentPostId>5204</ParentPostId>
+			<Contributors>
+				<UserId>5539</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-14T18:18:24.387</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You get a a balance in my experience  but with all things cocktail it comes down to the recipe and proportions.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="1">
+			<PostId>4080</PostId>
+			<ParentPostId>5200</ParentPostId>
+			<Contributors>
+				<UserId>3744</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-15T14:54:27.497</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hard to say, but you probably introduced some contamination into the skunking bottles somehow. Were you reusing bottles from something else? Did an entire run go bad or just certain bottles out of the batch? Another thought, were the bad bottles clear so they would transmit light? How are they stored (temp changes in the room)? Corked bottle, grolsch, bottle cap? I've been pretty loosey goosey with my mead so far and not experienced any skunking (yet) though most of mine have been like yours, high alcohol content and sweetness, which might be masking some underlying flavors.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="1">
+			<PostId>4081</PostId>
+			<ParentPostId>5200</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-15T17:18:30.407</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@JasonK thanks for the comment; I've edited in some clarifications.  I also might have been using the word "skunking" incorrectly (changed now); I'm not talking about batches that went wrong from the start, but about different "decay times", so to speak.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="0">
+			<PostId>4082</PostId>
+			<ParentPostId>5037</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-16T12:24:30.073</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Nice find, even if late.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>4083</PostId>
+			<ParentPostId>5200</ParentPostId>
+			<Contributors>
+				<UserId>3744</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-19T19:48:01.563</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MonicaCellio Ah, I get you now. You are saying that with some batches you prefer the taste early on, but they seem to get less appealing as they age, while others do not? Are there dryer meads that you do like? Perhaps you just like the sweeter ones. Are they all still (non-carbonated)? Another thought is that you may be aerating some batches during bottling, or your bottle caps are not sealed properly, which can negatively affect the taste. But I think the sweeter meads are just covering up slight off-flavors that the dryer meads don't. Consistency takes lots of practice!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="0">
+			<PostId>4084</PostId>
+			<ParentPostId>5200</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-19T20:16:16.160</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@JasonK thanks, and please feel free to make an edit if different language would have made this clearer.  While I do like sweeter meads more than drier ones I don't *think* I'm just tasting a sweet-versus-dry thing; there's something about some batches that feels "off", as distinct from "too dry for my taste", and I'm trying to figure out how to know how quickly I should drink any given mead to avoid getting there.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="0">
+			<PostId>4085</PostId>
+			<ParentPostId>5200</ParentPostId>
+			<Contributors>
+				<UserId>3744</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-19T20:19:45.780</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MonicaCellio I've added the rest of my thoughts as an answer since it is long. May not help, but might help someone else down the road. Doesn't seem to be a very active mead community here (I think this is the only question with a [mead] tag) so you may have better luck with another forum.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>4272</PostId>
+			<ParentPostId>6395</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-26T13:59:12.447</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					maybe someone shook the can before you opened it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="1">
+			<PostId>4791</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Contributors>
+				<UserId>4857</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-25T10:01:13.830</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					you should re-ask this over on homebrew.stackexchange.com
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="1">
+			<PostId>5307</PostId>
+			<ParentPostId>7114</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-12T19:20:39.497</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It about 6 years ;-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="1">
+			<PostId>5340</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-10T20:29:06.287</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Here is everything you wanted to know about aging Sake (Koshu Sake) http://sake-world.com/about-sake/sake-faq/aging-sake/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35"  InstanceType= "comments" Score="0">
+			<PostId>5341</PostId>
+			<ParentPostId>7147</ParentPostId>
+			<Contributors>
+				<UserId>7486</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-12T17:54:23.207</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					thanks. short follow-up: How much is "plenty demand" does it make sense to try look into that? I just don't want to unknowingly drink a bottle of sake that somebody else would want to pay 3 figures for…
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36"  InstanceType= "comments" Score="1">
+			<PostId>5342</PostId>
+			<ParentPostId>7147</ParentPostId>
+			<Contributors>
+				<UserId>7430</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-12T22:45:01.657</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Niklas Hrm... Unfortunately I am not familiar with the vintage liquor market there to say with confidence that it'd be worth your effort to sell and ship over. I think it's like wine, where just one bottle isn't enough to get people interested. Like I mentioned in the answer, the expected flavor changes, so it's a gamble for anyone opening it. Personally, I would just enjoy it with a good meal, and if I didn't like it, reuse as cooking sake.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="37"  InstanceType= "comments" Score="1">
+			<PostId>5345</PostId>
+			<ParentPostId>7145</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-01-15T17:39:54.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Where is your data for pathogens and alcohol levels?  However, good answer.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

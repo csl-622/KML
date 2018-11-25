@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>14</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:33:12.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>10</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Currently I am storing my bottels in the crates at a (about) 20 degree angle (bottels are upwards!).
+
+					Does the way of storing the bottels affect something (and how)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>15</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:33:12.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>10</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the best angle to store pilsener beer bottels?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>16</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:33:12.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>10</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pilsener, storing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>49</PostId>
+			<ParentPostId>21</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:46.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I frequently hear stories about people drinking their favorite pilsener, and not liking the other brand because "they'll get a hangover when drinking that brand".
+
+					Is there a truth in this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>50</PostId>
+			<ParentPostId>21</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:46.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can one pilsener cause a hangover when another doesn't?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>51</PostId>
+			<ParentPostId>21</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:46.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hangover, drinking, pilsener, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Body" >
+			<PostId>52</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:54.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				Spelling and tag change.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Currently I am storing my bottles in the crates at a (about) 20 degree angle (bottles are upwards!).
+
+					Does the way of storing the bottles affect something (and how)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Title" >
+			<PostId>53</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:54.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				Spelling and tag change.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the best angle to store pilsener beer bottles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Tags" >
+			<PostId>54</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:54.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				Spelling and tag change.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					pilsener, storage, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Title" >
+			<PostId>504</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:32:47.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<EditDetails>
+				More generalized, we can't have seperate storing questions for lager, pilsner, ... 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the best angle to store beer bottles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>505</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:32:47.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 138 approved by 10 edit id of 20
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>1608</PostId>
+			<ParentPostId>6</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T16:38:03.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434728320195104768
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>6780</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:57:32.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there any commonly available beer, preferably in Germany, that is more bitter than Jever?
+
+					If not, which micro breweries are there that produce this type of beer?
+
+					Or, to re-phrase the question: What is the beer with the most hop that you know of, in Germany?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>6781</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:57:32.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Looking for a beer with a lot of hop
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>6782</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:57:32.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, pilsener, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Body" >
+			<PostId>6785</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T14:34:32.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<EditDetails>
+				simplified &amp; uncluttered
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Which beer, that is available in Germany, can you recommend that is more bitter than Jever?
+
+					Or, to re-phrase the question: What is the beer with the most hop that you know of, in Germany?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Title" >
+			<PostId>6786</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T14:34:32.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<EditDetails>
+				simplified &amp; uncluttered
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Looking for a very hoppy beer (in Germany)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Post Deleted" >
+			<PostId>6791</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Post Deleted"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T17:22:50.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<EditDetails>
+				via Vote
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":4337,"DisplayName":"Philipp"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Post Undeleted" >
+			<PostId>6792</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Post Undeleted"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T17:23:16.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":4337,"DisplayName":"Philipp"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Unknown" >
+			<PostId>6835</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-28T09:51:14.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/625966736567877632
+			</EditDetails>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>6857</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:11:12.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Czech is known for its Pilsen Pilsner but is there any special beer from the Prague capital? 
+
+					Are there any craft/microbrewery in Prague? 
+
+					Any suggestions to pub that serves good craft Czech brews?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>6858</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:11:12.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Microbrewery in Prague
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>6859</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:11:12.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, pilsener, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>11200</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-09T09:51:00.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/785054950564986881
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

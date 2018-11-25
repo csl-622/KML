@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="6945"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-13T17:02:08.227</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6946"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-13T17:22:19.420</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7096"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-23T00:09:43.767</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7268"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Enthusiast"
+			</Title>
+			<TimeStamp>
+				<Date>2017-03-20T23:11:08.880</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7738"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2017-07-30T20:50:44.883</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8262"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2017-12-14T02:05:48.077</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8286"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2017-12-19T15:07:48.543</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8304"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2017-12-25T16:53:07.730</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8360"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Revival"
+			</Title>
+			<TimeStamp>
+				<Date>2018-01-14T19:46:17.467</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8472"  UserId="6391" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2018-02-13T01:01:10.023</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

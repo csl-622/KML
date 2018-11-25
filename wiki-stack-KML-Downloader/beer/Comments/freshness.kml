@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>788</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-10T15:40:13.587</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					possible duplicate of [Is there anything I can do short of leaving a glass out on the counter to mitigate overcarbonation?](http://beer.stackexchange.com/questions/654/is-there-anything-i-can-do-short-of-leaving-a-glass-out-on-the-counter-to-mitiga)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="2">
+			<PostId>789</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-10T15:58:24.683</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@cdspace how so? The other question is about *mitigating* extreme carbonation. This question asks about whether that quality is common in the product of a particular brewery.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

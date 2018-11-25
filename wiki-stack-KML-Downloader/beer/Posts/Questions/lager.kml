@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>8</PostId>
+			<AcceptedAnswerId>18</AcceptedAnswerId>
+			<Title>
+			"What is the difference between an ale and a lager?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ale</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>37</Score>
+				<ViewCount>35469</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:37:12.143</CreationDate>
+				<LastActivityDate>2017-08-24T06:53:25.040</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Apart from coming out of different taps, some ales seem very similar to lagers (although there are clearly a much greater variety of ales). Is there a difference in the way they are made?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>59</PostId>
+			<AcceptedAnswerId>97</AcceptedAnswerId>
+			<Title>
+			"What's the difference between an "export" beer and a regular beer from the same brewer?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>10360</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:20:42.220</CreationDate>
+				<LastEditDate>2014-02-05T15:34:44.883</LastEditDate>
+				<LastActivityDate>2015-07-21T03:13:29.640</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+				<LastEditorUserId>407</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In the UK at least, a great many beers are marketed with a regular version and a fancier (more expensive) 'export' version. For example: Carlsberg and Carlsberg 'Export'. Is there any reason why the imported beer might be reasonably different (such as the legality of certain brewing methods outside of the UK) or is this just marketing fluff?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>272</PostId>
+			<Title>
+			"How can I brew a black lager?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>lager</tag>
+				<tag>schwarzbier</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>96</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:47:57.217</CreationDate>
+				<LastActivityDate>2014-01-23T19:32:12.913</LastActivityDate>
+				<ClosedDate>2014-01-23T20:30:02.307</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>181</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is a black lager really a lager (in terms of yeast and brewing time)? Can I just throw in whatever would make a good stout but use lager yeast? If not, then how much play is there to the recipe?&lt;/p&gt;
+
+					&lt;p&gt;I've got a little bit of experience brewing ales, mainly stout and brown ale. Just a few months ago I tried my first experiment, deviating a little from a recipe in my choice of malts and yeast, but still using a malt extract for my primary malt. I have zero experience with brewing lager.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>658</PostId>
+			<AcceptedAnswerId>660</AcceptedAnswerId>
+			<Title>
+			"Difference between Dark Lager and Black Lager"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>terminology</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>721</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-10T01:18:59.313</CreationDate>
+				<LastActivityDate>2014-03-10T01:51:23.220</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>443</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a difference between Black Lager and Dark Lager, or is it just the name?&lt;/p&gt;
+
+					&lt;p&gt;Since the recipes for Dark/Black Lagers seem to be quite varied, it is hard to tell if there are any majorly different components.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>788</PostId>
+			<AcceptedAnswerId>798</AcceptedAnswerId>
+			<Title>
+			"Glassware for lagers: why did my Stella Artois come in this kind of glass?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>13243</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-18T04:34:12.567</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-10-22T00:30:50.760</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've seen &lt;a href="https://alcohol.stackexchange.com/q/705/43"&gt;Why did my Big Bad Baptist come in a brandy snifter?&lt;/a&gt; and understand from the answer there that there are two basic reasons to use a glass with a wider bowl for beer: to concentrate armoas, or to reduce quantity for stronger beers.  (That question was about a stout.)&lt;/p&gt;
+
+					&lt;p&gt;I don't have a &lt;em&gt;lot&lt;/em&gt; of experience with this, but until now when I've ordered lagers they've generally come in a tall glass (not curved).  A few days ago I ordered a &lt;a href="http://www.beeradvocate.com/beer/profile/169/449/" rel="nofollow noreferrer"&gt;Stella Artois&lt;/a&gt; and it came in the following glass:&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/jyK4j.jpg" alt="glass"&gt;&lt;/p&gt;
+
+					&lt;p&gt;(The glass was full when delivered; I didn't think to take a picture for this question right away.)&lt;/p&gt;
+
+					&lt;p&gt;This glass does not concentrate aromas to the extent that a brandy snifter does; further, this beer did not seem to be particularly aromatic.  (I've never had this one before, which is why I ordered it.)  Nor is it a highly-alcoholic or expensive beer that they might want to serve in a smaller quantity.  I'd guess this glass to have been in the 10-12oz range.&lt;/p&gt;
+
+					&lt;p&gt;Is there a benefit to the mildly curved shape of this glass for this type of beer?  I note that it's a Stella Artois glass, so presumably it's not &lt;em&gt;just&lt;/em&gt; a bartender's arbitrary choice.&lt;/p&gt;
+
+					&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; I was traveling, so I can't just go visit them again to see how they serve other beers.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>983</PostId>
+			<Title>
+			"Does drinking mainstream, mass-produced lagers give you a worse hangover than real ale?"
+			</Title>
+			<Tags>
+				<tag>ale</tag>
+				<tag>lager</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>3478</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-13T10:40:56.017</CreationDate>
+				<LastActivityDate>2018-01-26T12:18:40.517</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1209</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have noticed that when I spend a night drinking the usual lagers found on bar taps in the UK (Heineken, Carlsberg, etc.), I have a much worse hangover than when I spend a night drinking locally brewed real ales (or mass-produced real ales such as Spitfire, Wainwright, etc.).&lt;/p&gt;
+
+					&lt;p&gt;Is there any reason for this? Do lagers contain any ingredients that can cause worse hangovers than real ales?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>3195</PostId>
+			<AcceptedAnswerId>3196</AcceptedAnswerId>
+			<Title>
+			"What style of lager is Corona? And what other beers are similar?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>9681</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-15T05:45:02.543</CreationDate>
+				<LastEditDate>2015-01-15T07:52:30.377</LastEditDate>
+				<LastActivityDate>2016-01-04T12:53:32.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3676</OwnerUserId>
+				<LastEditorUserId>3676</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Corona Extra is a Mexican beer that is very popular (in Australia anyway). Most people seem to like it for it's drinkability, and suitability for enjoyment in hot weather.&lt;/p&gt;
+
+					&lt;p&gt;Is there a name for this style of lager? Eg; I don't think it's a pilsener or dark lager.&lt;/p&gt;
+
+					&lt;p&gt;And what other beers are in the same style?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>3347</PostId>
+			<Title>
+			"Why were lagers invented?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>698</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-24T00:55:35.417</CreationDate>
+				<LastActivityDate>2015-04-24T03:10:41.987</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4045</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What made brewers in the 19th century decide to start using bottom-fermenting yeast and cooler fermenting temperatures? Were they trying to solve some specific problem, like making the best of available ingredients or dealing with cooler-than-ideal environments? Or were they just experimenting and trying to create something new?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>3350</PostId>
+			<AcceptedAnswerId>3351</AcceptedAnswerId>
+			<Title>
+			"Why do lagers get made in tropical climates?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>temperature</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>787</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-24T08:49:22.350</CreationDate>
+				<LastActivityDate>2015-04-27T05:49:29.810</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4024</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Lager" rel="nofollow"&gt;Lagers&lt;/a&gt; traditionally were made in the colder months and stored (lagered) in caves. As lager yeast prefers a &lt;a href="https://www.wyeastlab.com/he_b_fermentation.cfm" rel="nofollow"&gt;colder fermentation and conditioning temperature&lt;/a&gt; than ales, why is lager regularly made in hot, tropical climates around the world instead of more temperature tolerant ales, or just imported?&lt;/p&gt;
+
+					&lt;p&gt;On a tour around the Tiger Brewery in Singapore where the average temperature is 30 deg C, the guide mentioned the brewery started in 1932 and used a "tropical lagering process". The guide wasn't sure of details, and I haven't found details elsewhere on this process.&lt;/p&gt;
+
+					&lt;p&gt;Is it a simple matter of economics, that it's cheaper to brew lager locally even with climate control than to import, or is there a way to successfully brew lagers at high temperatures?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>4537</PostId>
+			<Title>
+			"Looking for dark but not heavy"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>stout</tag>
+				<tag>lager</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>295</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-19T03:26:09.040</CreationDate>
+				<LastActivityDate>2015-08-19T20:40:34.643</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4439</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I tend to go for darker beers, typically stouts and porters. &lt;/p&gt;
+
+					&lt;p&gt;Guinness is my usual go to when I'm at a bar or restaurant, but as appealing as "a meal in a glass" is, on occasion I find these to be a little too filling/heavy.&lt;/p&gt;
+
+					&lt;p&gt;More recently I had the opportunity to try Köstritzer, which I guess would be classified as a black lager. It had the very familiar taste of a stout but without the filling quality. &lt;/p&gt;
+
+					&lt;p&gt;Black lager seems to be a rather generic category though, the title seems to cover a rather large variety of dark lagers and seems to be more about color than taste. &lt;/p&gt;
+
+					&lt;p&gt;Is there a more specific category I should be looking for?&lt;/p&gt;
+
+					&lt;p&gt;Or perhaps better, does any one know any other beers that taste like a stout but with the light weight of a lager?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>5038</PostId>
+			<AcceptedAnswerId>5043</AcceptedAnswerId>
+			<Title>
+			"Are different mainstream Lagers really all that different?"
+			</Title>
+			<Tags>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>427</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-27T10:06:05.547</CreationDate>
+				<LastEditDate>2016-06-03T17:25:27.700</LastEditDate>
+				<LastActivityDate>2016-06-03T17:25:27.700</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+				<LastEditorUserId>5441</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there any differences in the mainstream company lagers?&lt;/p&gt;
+
+					&lt;p&gt;I often see people go into bars and just order a pint of lager, even though there are many different lagers available at the bar. This leads me to believe that most of the mainstream lagers don't actually taste that different from each other.&lt;/p&gt;
+
+					&lt;p&gt;As I don't drink lagers — I tend to stick to cask/real ales — lagers all taste similar to me anyways. &lt;/p&gt;
+
+					&lt;p&gt;So is there really any difference with these companies' lagers? &lt;/p&gt;
+
+					&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;br&gt;
+					By mainstream mean Fosters, Carling, Carlsberg, etc...  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>6403</PostId>
+			<AcceptedAnswerId>6430</AcceptedAnswerId>
+			<Title>
+			"What are the IBUs (bitterness units) of common lagers? Also, what are hop contents?"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>6026</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-28T18:34:31.360</CreationDate>
+				<LastActivityDate>2016-12-21T08:43:24.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6146</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would be interested to know these two things: &lt;/p&gt;
+
+					&lt;p&gt;(1): What are the ratings in IBU of common lagers: e.g. Stella, Kronenbourg, Fosters, Becks, Heineken, San Miguel, Corona? Are there major differences? &lt;/p&gt;
+
+					&lt;p&gt;(2): Same question RE: Hoppyness/Hop content. &lt;/p&gt;
+
+					&lt;p&gt;E.g. I like Stella and not Becks. Then my friend told me that's because Stella is more bitter. However I have no way of knowing for sure... hence the question. &lt;/p&gt;
+
+					&lt;p&gt;I like IPAs and I hate stouts. However the differences between lagers is difficult to perceive for me. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>6522</PostId>
+			<AcceptedAnswerId>6523</AcceptedAnswerId>
+			<Title>
+			"Do coffee lagers exist?"
+			</Title>
+			<Tags>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>86</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-12T21:51:18.967</CreationDate>
+				<LastEditDate>2018-07-19T09:44:58.730</LastEditDate>
+				<LastActivityDate>2018-07-19T09:44:58.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1077</OwnerUserId>
+				<LastEditorUserId>6255</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've had coffee stouts a number of different places. This seems to be a fairly common additive at American microbreweries. However, it seems like they are always adding coffee to stouts. I was wondering if any breweries are adding it to a lighter beer like a lager where the coffee flavor could more fully dominate.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>7055</PostId>
+			<AcceptedAnswerId>7056</AcceptedAnswerId>
+			<Title>
+			"Why is Lager/Pilsner the most common beer style for alcohol-free beer?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>84</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-02T10:39:05.377</CreationDate>
+				<LastEditDate>2017-12-14T02:16:35.043</LastEditDate>
+				<LastActivityDate>2017-12-14T02:16:35.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5021</OwnerUserId>
+				<LastEditorUserId>7272</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If one wants to buy alcohol-free beer in a supermarket, the most common beer style is Lager/Pilsner. I have never seen other styles such as alcohol-free Witbier, IPA, Stout etc. in a store, but from doing a quick online research I learned that such beer does exist.&lt;/p&gt;
+
+					&lt;p&gt;Is Lager/Pilsner the most common style for alcohol-free beers because it is the most popular style for normal beer as well, or are there some technical limitations during the brewing process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>7180</PostId>
+			<AcceptedAnswerId>7181</AcceptedAnswerId>
+			<Title>
+			"What's a good (neutral) sample beer to spike with a sensory training kit?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>lager</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>143</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-01T19:44:37.167</CreationDate>
+				<LastActivityDate>2018-05-16T22:25:12.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently ordered a sensory training kit from Siebel Institute. In short, glass vials of liquid isolating flavors (including off-flavors and contamination) commonly found in beer.&lt;/p&gt;
+
+					&lt;p&gt;The instructions explain how to spike samples of beer, but say nothing about how to select a suitable beer:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/d8WFw.jpg" rel="noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/d8WFw.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;I'll be hosting a party of six, and our tastes vary wildly: from craft drinkers to macro drinkers, and an enologist (winemaker).&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;How should I select the base beer(s) to help us get the most out of this experience?&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;Should we all have the same beer? If so, a macro, even though some dislike them? Or should I pick something like a pilsner?&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Or should I have two tiers, a macro and something else? (What kind of ale would be appropriate?)&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1071</PostId>
+			<ParentPostId>426</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T19:30:45.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If I'm looking for a beer to make shandy with, what should I be looking for, in terms of flavour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>1072</PostId>
+			<ParentPostId>426</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T19:30:45.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What beers are good for making shandy?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>1073</PostId>
+			<ParentPostId>426</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T19:30:45.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					shandy, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>1786</PostId>
+			<ParentPostId>426</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-06T16:45:40.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/441615611316420609
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>1915</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-26T03:03:24.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was recently at a local craft beer festival and I tried a few shandys (my favorite was [Time Traveler][1] and now I'm starting to get into them as well. But I've heard mixed things about their history. Some people say it goes back hundreds of years and others say it's a much more recent phenomena. With that said, why do they have such a bad reputation? They always seem to score low on beeradvocate and ratebeer. To me it seems as though people are rating them as beers rather than what they actually are, shandys.
+
+
+					  [1]: http://travelerbeer.com/beers/time-traveler/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>1916</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-26T03:03:24.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When and where did shandys first become popular and why do they get such a bad reputation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>1917</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-26T03:03:24.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, shandy, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Body" >
+			<PostId>1919</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-26T21:31:29.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed missing paren, pluralism, and added links.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I was recently at a local craft beer festival and I tried a few shandys (my favorite was [Time Traveler][1]) and now I'm starting to get into them as well. But I've heard mixed things about their history. Some people say it goes back hundreds of years and others say it's a much more recent phenomenon. With that said, why do they have such a bad reputation? They always seem to score low on [beeradvocate](http://www.beeradvocate.com/search/?q=shandy) and [ratebeer](http://www.ratebeer.com). To me it seems as though people are rating them as beers rather than what they actually are, shandys.
+
+
+					  [1]: http://travelerbeer.com/beers/time-traveler/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>1920</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-26T21:31:29.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 85 approved by 31 edit id of 88
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Unknown" >
+			<PostId>1921</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-26T23:01:04.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/448957836232753153
+			</EditDetails>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Body" >
+			<PostId>1922</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-26T23:42:29.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<EditDetails>
+				fixed plurals
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I was recently at a local craft beer festival and I tried a few shandies (my favorite was [Time Traveler][1]) and now I'm starting to get into them as well. But I've heard mixed things about their history. Some people say it goes back hundreds of years and others say it's a much more recent phenomenon. 
+
+					With that said, why do they have such a bad reputation? They always seem to score low on [beeradvocate](http://www.beeradvocate.com/search/?q=shandy) and [ratebeer](http://www.ratebeer.com). To me it seems as though people are rating them as beers rather than what they actually are, shandies.
+
+
+					  [1]: http://travelerbeer.com/beers/time-traveler/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Title" >
+			<PostId>1923</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-26T23:42:29.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<EditDetails>
+				fixed plurals
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					When and where did shandies first become popular and why do they get such a bad reputation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>1924</PostId>
+			<ParentPostId>694</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-26T23:42:29.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 187 approved by 31 edit id of 89
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

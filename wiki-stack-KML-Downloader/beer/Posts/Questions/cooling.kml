@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>2164</PostId>
+			<Title>
+			"How long does it take to cool a keg of beer?"
+			</Title>
+			<Tags>
+				<tag>keg</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>5495</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-31T23:17:53.783</CreationDate>
+				<LastEditDate>2015-01-01T02:48:02.473</LastEditDate>
+				<LastActivityDate>2015-03-08T16:42:34.160</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>224</OwnerUserId>
+				<LastEditorUserId>224</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have a corny (5 gal) keg of homebrew, already carbonated, that's been aging at room temperature.  I'd like to bottle it off soon, but in my experience that works best when the beer is in the 45-50 degree Fahrenheit range.&lt;/p&gt;
+
+					&lt;p&gt;Tonight the weather forecast for my area says it will get down to 29, and tomorrow it will be right around 45.  I'm inclined to just stick the keg on the fire escape tonight and leave it until the afternoon.  I'm not really worried about freezing, given the alcohol content I understand it should be able to go down to 28 or 29 without trouble (correct me if I'm wrong here).&lt;/p&gt;
+
+					&lt;p&gt;I can't seem to find any reliable resources about air cooling, just recommendations for folks trying to cool beer as fast as possible.  Will the keg be cool enough tomorrow to bottle?&lt;/p&gt;
+
+					&lt;p&gt;EDIT: The forecast now says it could get as low as 24, so the freezing question may also be an issue.  The keg is outside, so we'll see what happens.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>3261</PostId>
+			<AcceptedAnswerId>3263</AcceptedAnswerId>
+			<Title>
+			"Rising a cold beer to room temperature"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>143</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-02-19T05:58:56.523</CreationDate>
+				<LastActivityDate>2015-02-20T20:21:34.180</LastActivityDate>
+				<ClosedDate>2015-02-19T20:51:09.083</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3803</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have been told that once chilled, you should never let a beer come back to room temperature; what is the truth behind this?&lt;/p&gt;
+
+					&lt;p&gt;If again chilled, will the flavor be the same? Or how might it change?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>3395</PostId>
+			<AcceptedAnswerId>3398</AcceptedAnswerId>
+			<Title>
+			"How to chill a 30cl bottle to "cellar" temperature?"
+			</Title>
+			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>trappist</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>258</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-03T18:58:38.353</CreationDate>
+				<LastActivityDate>2015-06-04T13:40:41.950</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4167</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I got my hand on a few bottles of Trappist Westvleteren (yay!) and of course I want to drink it at the right temperature. The "right" temperature is "cellar", but alas, I do not have a cellar.&lt;/p&gt;
+
+					&lt;p&gt;What is the best way to chill a 30cl bottle to "celler" temperature, using a fridge? Drinking it too cool or warm would be quite a pity for a 8 euro bottle.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>186</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:32:39.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some states (in America) have ridiculous laws about what types of beer can be sold in various places.  Often times certain types of stores can only sell "3 2 beer," or beer with no more than 3.2% ABV.  
+
+					So various brewers make special, reduced-alcohol batches meeting this requirement.  
+
+					How do brewers achieve this reduction in alcohol, and does it affect the taste of the resulting beer? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>187</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:32:39.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does reduced-alcohol beer taste differently?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>188</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:32:39.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					abv, 3.2-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>3630</PostId>
+			<ParentPostId>986</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-15T21:20:31.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I live in Denver, Colorado and I have noticed many grocery stores will have full a liquor selection and normal alcohol content beer, but others will only sell 3.2% beer and no liquor.  This goes even for the same chain of stores.  For example, Safeway will carry a full liquor selection at one location but only 3.2% beer at another.  
+
+					This seems to apply to every chain in town including: King Soopers, Safeway, Walmart, Target, etc.  Therefore I am wondering if there is a law limiting this?  If so, what are the details?
+
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>3631</PostId>
+			<ParentPostId>986</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-15T21:20:31.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do some grocery stores in Colorado have regular beer and liquor but some only sell 3.2% beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>3632</PostId>
+			<ParentPostId>986</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-15T21:20:31.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, 3.2-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>3875</PostId>
+			<ParentPostId>986</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-22T22:52:56.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/536291265370128385
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

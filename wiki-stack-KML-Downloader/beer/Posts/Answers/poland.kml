@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>205</PostId>
+			<ParentPostId>172</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>poland</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T15:34:07.457</CreationDate>
+				<LastActivityDate>2014-01-22T15:34:07.457</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>26</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In my (somewhat minimal) experience, Piwo Jasne and Piwo Mocne are both most commonly pilsners or perhaps more generally pale lagers.  Piwo Mocne is higher in alcohol content and might be called a "strong pale lager", or perhaps tagged with the modifier "Imperial" to indicate the increased alcohol.&lt;/p&gt;
+
+					&lt;p&gt;That said, I don't think there is anything inherent in the term that precludes, for example, a strong ale being sold as Piwo Mocne.  The two terms in the question aren't prescriptive of specific style.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>228</PostId>
+			<ParentPostId>172</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>poland</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T20:32:08.800</CreationDate>
+				<LastActivityDate>2014-01-22T20:32:08.800</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;strong&gt;Piwo Jasne&lt;/strong&gt; is, translated, "light beer". It's the common market name for all 'light' beers, and they are mostly pilsners. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Piwo Ciemne&lt;/strong&gt; - this is "dark beer", so something like ale. They are dark, as the name suggests, and usually quite sweet. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Piwo Mocne&lt;/strong&gt; - this is simply the beer that is more condensed, so it has more alcohol. That can be light beers or dark beers (for example, very good dark strong beer "Warka Strong"). &lt;/p&gt;
+
+					&lt;p&gt;Those names are the most popular market classifications in Poland, but usually you'll find more details on label or producer's page. For example, many beers have information, that they are pilsner-type beers. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>3331</PostId>
+			<ParentPostId>172</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>poland</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-12T22:33:08.717</CreationDate>
+				<LastEditDate>2016-10-08T19:46:38.193</LastEditDate>
+				<LastActivityDate>2016-10-08T19:46:38.193</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3879</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Given how much modern Polish beer has in common with mass-market German and Czech beer- combined with a small handful that I've tried here in Germany- &lt;em&gt;they're what one would call "European pale lagers" or "International pilsners," depending on what book or site's style names you're going off of.&lt;/em&gt;&lt;/p&gt;
+
+					&lt;p&gt;In response to a previous answer, color has nothing to do with ale v. lager, nor alcohol concentration (Guinness is an ale and 4.2% where Aventinus Eisbock is a lager and 12%), it only tells you how it was fermented. There are tons of dark lagers around: Schwarzbier, Munich dunkel, Rauchbier, Doppelbock, the aforementioned Baltic porter, and the Czech 14* and 18* dark lagers.  &lt;/p&gt;
+
+					&lt;p&gt;I or someone will need to look more into this, but those terms might be bureaucratic in nature- up until the 90s, Germany had multiple beer categories based on the beer's original gravity that determined how it would be taxed and sold, sort of like how Texas used to label everything above a certain ABV% "ale".  &lt;a href="http://www.texastribune.org/2012/08/09/tabc-changes-what-it-means-to-be-a-beer/" rel="nofollow"&gt;TABC Changes What it Means to Be a Beer.&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

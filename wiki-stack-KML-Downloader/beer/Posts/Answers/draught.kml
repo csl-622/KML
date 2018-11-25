@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>75</PostId>
+			<ParentPostId>63</ParentPostId>			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:33:04.113</CreationDate>
+				<LastActivityDate>2014-01-21T21:33:04.113</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>50</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness is "carbonated" with nitrogen, where most beers use carbon dioxide. This requires different hardware, bottling equipment, etc.&lt;/p&gt;
+
+					&lt;p&gt;If you've ever witnessed the appearance of a perfectly poured Guinness, and paid more than $5 USD for it, you'll understand why. It's partly about presentation. As one of the oldest beers on the market, it requires us to jump through some hoops to ensure we are enjoying it correctly. In short: I think it's mostly marketing!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>197</PostId>
+			<ParentPostId>15</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>draught</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T14:13:29.950</CreationDate>
+				<LastActivityDate>2014-01-22T14:13:29.950</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>138</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There was a &lt;a href="http://www.trollekelder.be/getapte-bieren-versus-bieren-uit-fles/"&gt;study about this&lt;/a&gt; which concluded that tapped beer can actually be better for different reasons (although taste is rather subjective). The reasons are:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Beer on draught tends to have less air within the barrel compared to its bottled counterpart, meaning that the beer doesn't oxidise as quickly&lt;/li&gt;
+					&lt;li&gt;Beer within a barrel tends to remain cool for longer periods. A bottled beer cools and warms up a lot faster, which (when this occurs) has a nefast effect on the beer's taste&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>211</PostId>
+			<ParentPostId>63</ParentPostId>			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T17:43:33.070</CreationDate>
+				<LastActivityDate>2014-01-22T17:43:33.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness, and a few other beers out there, are carbonated in part with nitrogen, which has much smaller bubbles.  This creates a smoother mouthfeel; this is the "creaminess" that is often described.&lt;/p&gt;
+
+					&lt;p&gt;The use of nitrogen is probably uncommon for a few reasons.  Firstly, there's the added production cost in the bottled or canned product: the widget.  Secondly, I would wager that most breweries want the product to taste similar on draught as in a can or bottle, and it's very uncommon to have nitrogen available in a taproom.  (You can get special taps which "cream" the beer on the way out, but again, for consistency those would have to be installed where-ever you sell your beer.)  So it's something of an uphill battle.  Finally, not all beers may benefit from a different type of carbonation than what's prevalent... but of course, that's subjective.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>248</PostId>
+			<ParentPostId>245</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>gas</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T03:41:23.157</CreationDate>
+				<LastEditDate>2014-01-23T05:24:08.137</LastEditDate>
+				<LastActivityDate>2014-01-23T05:24:08.137</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+				<LastEditorUserId>13</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are &lt;a href="http://www.keykeg.com/en/" rel="nofollow"&gt;disposable kegs&lt;/a&gt;  that work the way you describe - with a inner pouch that is filled with beer and gas pressure is applied to the outside of that. &lt;/p&gt;
+
+					&lt;p&gt;For draught systems that directly push the beer, there are these gasses in common use:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;air - such as with a hand-pump&lt;/li&gt;
+					&lt;li&gt;CO&lt;sub&gt;2&lt;/sub&gt; - homebrewers and short runs&lt;/li&gt;
+					&lt;li&gt;N&lt;sub&gt;2&lt;/sub&gt; - for creamflow beers or where the beer line is longer than 50'.&lt;/li&gt;
+					&lt;li&gt;A mix of N&lt;sub&gt;2&lt;/sub&gt; and CO&lt;sub&gt;2&lt;/sub&gt;&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;Using air to push the beer doesn't have any immediate affect on taste. However, after a few hours the oxygen in the air will start to stale the beer, causing staling flavors, and a muted hop aroma. &lt;/p&gt;
+
+					&lt;p&gt;Using CO&lt;sub&gt;2&lt;/sub&gt; to push the beer can cause the beer to have more "fizz" and in extreme cases more carbonic bite.&lt;/p&gt;
+
+					&lt;p&gt;For long beer lines, N&lt;sub&gt;2&lt;/sub&gt; is used to overcome the carbonation problem with CO&lt;sub&gt;2&lt;/sub&gt;. &lt;/p&gt;
+
+					&lt;p&gt;A combination of N&lt;sub&gt;2&lt;/sub&gt; and CO&lt;sub&gt;2&lt;/sub&gt;, typically in the ratio 75%/25% is used for Guinness and creamflow beers. When used in conjunction with a stout or creamer faucet, this has a definite affect on the flavor and appearance of the beer - bitterness is rounded out and the beer has a thicker mouthfeel. When the beer is poured, the faucet and gas pressure cascades of bubbles to form when poured in the glass, which produce a lovely thick dense head of foam on top of the glass. With this type of serving, it's key to have a relatively low amount of dissolved CO&lt;sub&gt;2&lt;/sub&gt;, or the glass will be filled with foam only.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>389</PostId>
+			<ParentPostId>382</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T22:48:38.377</CreationDate>
+				<LastActivityDate>2014-01-28T22:48:38.377</LastActivityDate>
+				<CommunityOwnedDate>2014-01-28T22:48:38.377</CommunityOwnedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;As long the beer's sealed, there should be no difference in taste due to rapid or slow cooling. Lowering the temperature only increases the solubility of CO&lt;sub&gt;2&lt;/sub&gt;, which should dissolve later.&lt;/p&gt;
+
+					&lt;p&gt;Temperature itself does impact taste, supposedly due to our taste buds being number in cold, hiding certain flavors (which can be desirable or undesirable depending on the beer). But this isn't related to the rate of cooling of beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>395</PostId>
+			<ParentPostId>382</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T23:45:14.353</CreationDate>
+				<LastActivityDate>2014-01-28T23:45:14.353</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>224</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I can think of three possible impacts this scheme might have on a keg of beer.  &lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;Since the keg is kept at room temperature, if the beer is unpasteurized the flavor will evolve at a faster rate than refrigerated beer would.  This isn't a change due to the quick cooling, per se, but it is a possibly major difference.&lt;/li&gt;
+					&lt;li&gt;As mentioned by @acheong, the CO2 solubility of beer is significantly lower at room temperature, so keeping the beer properly carbonated becomes a more difficult task.  Specifically, you have to keep the pressure much higher, making the serving pressure higher, which makes the complex calculus of draft line measurements that much harder.&lt;/li&gt;
+					&lt;li&gt;Chill haze could be an issue.  If the brewer didn't take steps to prevent it, there'll be haze-inducing proteins in suspension.  If the beer is stored cool, these will quickly fall out, but if it's kept warm and only cooled at the time it's served, they'll end up in your glass.&lt;/li&gt;
+					&lt;/ol&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>409</PostId>
+			<ParentPostId>382</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-29T13:49:38.310</CreationDate>
+				<LastActivityDate>2014-01-29T13:49:38.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>263</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In short, no.  The time it takes to cool a beer will not have an impact on the flavor of a beer.  However there are certain temperatures that are preferred for serving certain beers.&lt;/p&gt;
+
+					&lt;p&gt;The most damaging thing to beer flavor is light pollution.  When in direct light, isohumulones from the bittering agents in hops can react with riboflavin (Vitamin B2) in beer and produce 3-methylbut-2-ene-1-thiol (MBT) which has a noticeable skunky flavor and aroma.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>498</PostId>
+			<ParentPostId>243</ParentPostId>			<Tags>
+				<tag>storage</tag>
+				<tag>draught</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-01T22:49:35.430</CreationDate>
+				<LastEditDate>2014-02-02T01:33:04.993</LastEditDate>
+				<LastActivityDate>2014-02-02T01:33:04.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Tank beer does seem to be mainly a Czech thing, although there are some pubs in England that use tanks too. In terms of why it might not be as popular in other countries, there seem to be some downsides: you would need to clean the tanks about once a week, also if you are dealing with unpasteurized beer it must be consumed in a shorter time period which may lead to possible waste of product.&lt;/p&gt;
+
+					&lt;p&gt;Link to a article of a pub in England with tank beer &lt;a href="http://www.independent.co.uk/life-style/food-and-drink/features/how-very-refreshing-tank-beer-is-so-fresh-its-like-drinking-straight-from-the-brewery-8560688.html" rel="nofollow"&gt;here&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>499</PostId>
+			<ParentPostId>243</ParentPostId>			<Tags>
+				<tag>storage</tag>
+				<tag>draught</tag>
+				<tag>restaurants</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-01T22:49:55.550</CreationDate>
+				<LastActivityDate>2014-02-01T22:49:55.550</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>37</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;According to the article you linked to, the specific draw of tank beer is that it's unpasteurized.  This does also exist (albeit not served from tanks) in the form of Real Ale, or Cask Ale in Britain.  Historically, this was not only popular, but the &lt;em&gt;primary&lt;/em&gt; distribution mechanism for beer in Britain a hundred years ago.  However, its popularity has diminished over time because it's harder to transport and doesn't last as long as pasteurized beer, making it more expensive which necessarily reduces the size of the market that can and will pay for it.   &lt;/p&gt;
+
+					&lt;p&gt;Tanked beer is something that you see in brewpubs in the United States, where transportation isn't an issue (since it's being brewed on-site) but real ale is definitely on the decline in the U.K. and possibly only survives due to CAMRA, the British Beer Preservation Society's Campaign for Real Ale. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>623</PostId>
+			<ParentPostId>621</ParentPostId>			<Tags>
+				<tag>terminology</tag>
+				<tag>draught</tag>
+				<tag>local</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-18T15:09:07.497</CreationDate>
+				<LastActivityDate>2014-02-18T15:09:07.497</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Draft isn't a very regulated term but most often draws its meaning from context.  At a bar, draft is usually placed opposite bottled, meaning like you said that the beer is pushed using gas from a keg or drawn via vacuum from a cask.  This is the actual meaning of draft.&lt;/p&gt;
+
+					&lt;p&gt;But..&lt;/p&gt;
+
+					&lt;p&gt;On bottles and cans it most often means "Like-Draft", or the marketing department's way of telling you this beer tastes more like the version of our beer that you get when you go to bar and get off the tap, but in the comfort of your own home.  &lt;/p&gt;
+
+					&lt;p&gt;For a beer like Guinness or Boddingtons, this means a widget to hold high pressure Nitrogen gas to simulate the effects of a "Beer Gas" pouring system which uses a high pressure mixture of Nitrogen and CO2.  Guinness has actually replaced the widget in some of their "draught" packages as well, I believe the draught bottles.&lt;/p&gt;
+
+					&lt;p&gt;But for a beer like Miller Genuine Draft, or the other Japanese beers you're mentioning, it just means the beer is unpasteurized which gives it a flavor more like what you get from a fresh, unpasteurized keg rather than a pasteurized and/or filtered bottled beer.  This is in line with the meaning of "nama" as you mentioned, as the beer is more "fresh" than traditional bottled beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>1000</PostId>
+			<ParentPostId>999</ParentPostId>			<Tags>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-24T18:27:14.653</CreationDate>
+				<LastActivityDate>2014-08-24T18:27:14.653</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>37</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Yes, tap lines that aren't cleaned regularly (every few weeks at least) are susceptible to infection, and you can detect these infections by taste or smell alone.  Common bacteria involved are &lt;em&gt;Pediococcus acidilactici&lt;/em&gt; and and &lt;em&gt;Lactobacillus&lt;/em&gt; which &lt;em&gt;Tasting Beer&lt;/em&gt; describes as having a buttery or "goaty, sweat socks" like aroma/flavor.  I think that probably aligns pretty closely with your "musty" description.  &lt;/p&gt;
+
+					&lt;p&gt;Is it serious?  In the sense that it can cause illness, no, at least not these organisms.  These are probiotic bacteria similar to what are advertised in some yogurt.  However, given that it does speak poorly to the maintenance routines of this establishment, I wouldn't blame you for not wanting to continue to opt for the draft beer, if for no other reason than that it doesn't taste very good.  &lt;/p&gt;
+
+					&lt;p&gt;Lastly, it might be worth a quick friendly word to management.  They may not realize that they need to clean their tap lines more frequently, or not realize that it isn't being done.  It's an easily fixable problem and if they do take steps to fix it, everyone will be better off.  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>3209</PostId>
+			<ParentPostId>63</ParentPostId>			<Tags>
+				<tag>bottling</tag>
+				<tag>stout</tag>
+				<tag>draught</tag>
+				<tag>pouring</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-20T15:34:34.440</CreationDate>
+				<LastActivityDate>2015-01-20T15:34:34.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3671</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;While, as object88 says, it is uncommon for draught beers to use nitrogen, it is becoming more prevalent, though certainly not dwarfing CO2 draught beers anytime soon! So, it is certainly possible to remain consistent from bottle to draught, though it is less common and more costly to do so.&lt;/p&gt;
+
+					&lt;p&gt;Both bottled and draught beers use nitrogen to add bubbles instead of CO2 on occasion. This is more common with malty beers, say stouts and porters, than it is for hoppy beers. The nitrogen makes smaller bubbles than CO2, and creates a thick head due to the lower solubility of nitrogen in water than CO2 at the same temperatures. This creates the thicker mouthfeel that Guinness (as well as other nitrogenated stouts) are known for. &lt;/p&gt;
+
+					&lt;p&gt;CO2 will likely continue to be used for most hop-forward beers, since it pushes more aroma out of the beer (including the delicious hop scent!) while nitro is more about the mouthfeel and well-rounded flavor.&lt;/p&gt;
+
+					&lt;p&gt;A few reasons why other beers don't use the small nitrogen ball devices ("nitrogen widgets"):&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Alcohol laws (or FDA or something?) doesn’t allow craft brewers to add
+					  widgets/foreign objects to alcohol (cans). Imports exempt?&lt;/p&gt;
+  
+					  &lt;p&gt;Not cost effective for small brewers, who are only just able to start
+					  affording canning systems.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;[&lt;a href="http://www.thebrewsite.com/canned-beer-week-why-beer-widgets/" rel="nofollow"&gt;Source&lt;/a&gt;]&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13" InstanceType="answer">
+			<PostId>3418</PostId>
+			<ParentPostId>3417</ParentPostId>			<Tags>
+				<tag>draught</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-23T19:49:57.943</CreationDate>
+				<LastActivityDate>2015-06-23T19:49:57.943</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4238</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Draft beer does not give you a hangover, headache, or any kind of sickness just because it is a draft beer. If you’ve ever felt sick after drinking draft beer, you either:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Had too much&lt;/li&gt;
+					&lt;li&gt;Drank from a dirty tap.&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14" InstanceType="answer">
+			<PostId>3423</PostId>
+			<ParentPostId>3417</ParentPostId>			<Tags>
+				<tag>draught</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-25T15:14:32.517</CreationDate>
+				<LastActivityDate>2015-06-25T15:14:32.517</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>608</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Because you end up drinking more of it ;-) &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15" InstanceType="answer">
+			<PostId>3448</PostId>
+			<ParentPostId>3417</ParentPostId>			<Tags>
+				<tag>draught</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-01T12:18:10.353</CreationDate>
+				<LastActivityDate>2015-07-01T12:18:10.353</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4281</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Any alcoholic drink will cause a hangouver if you drink too much. Bottled beer and draft beer are basically the same product, they should produce the same hangover.
+					But it's easier to drink too much of draft beer as they are typically served in larger volumes. &lt;/p&gt;
+
+					&lt;p&gt;The exception are darker beverages (like wine and cognac), they produce worse hangovers because part of their alcohol is in worser forms to your body then ethanol. I am not aware of any beer containing it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16" InstanceType="answer">
+			<PostId>4759</PostId>
+			<ParentPostId>15</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>draught</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-06T16:27:55.250</CreationDate>
+				<LastActivityDate>2016-01-06T16:27:55.250</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3879</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;strong&gt;Question one&lt;/strong&gt;: how does bottled beer differ from draught beer?
+					This varies from beer to beer, and should be handled on a beer-to-beer basis. Sometimes beer in the bottle is pasteurized, while the keg is not. Sometimes one or the other is filtered, while the other is not. The gas content can also differ, since this is adjustable in draught systems but not with bottles.&lt;/p&gt;
+
+					&lt;p&gt;In some cases, such as when yeast content is very important for the flavor profile of a beer, like German Hefeweizen, how much yeast you get in your glass has a big impact on the drinking experience. When drinking from the bottle, you can make sure that you get all of the yeast from the bottom of the bottle into your glass by agitating the last few ounces of beer, but this isn't possible with a keg. 
+					Kegged versions of these beers still have yeast in them, but you're not getting that perfect ratio in every glass. In my two years as a beer enthusiast living in Germany, these beers are almost always served from the bottle, and every bar or bartender has their preferred method for getting all the yeast out of a bottle.&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Question two&lt;/strong&gt;: What is done to bottled beer to prolong its shelf life?
+					This also differs from beer to beer. Some imports are pasteurized in the bottle, some others, namely MillerCoors products, use proprietary hop derivatives like Tetrahop to keep hop flavor while minimizing hop oils' susceptibility to producing off-flavors due to light exposure. This isn't a bad or unnatural thing, and I hope this becomes more widespread, because skunked, lightstruck beer is awful. (see &lt;a href="http://www.npr.org/2010/12/03/131785456/Searching-For-Science-In-A-Glass-of-Beer" rel="noreferrer"&gt;this interview&lt;/a&gt;) This, however, is also present in kegged beer, as it has other beneficial properties like increased head retention.
+					Sometimes, though, nothing is done beyond packaging, like Sierra Nevada's transition from twist-off to pry-off caps a few years ago to combat leaking, infection, and oxidation. &lt;a href="http://brookstonbeerbulletin.com/sierra-nevadas-new-pry-off-cap/" rel="noreferrer"&gt;Brookston Beer Blog 2007&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Question three&lt;/strong&gt;: Why is draught so much better?
+					Very, very subjective, and you may want to clarify or qualify this in the future. Is good draught beer better than old, skunked bottled beer? Yes. Is good bottled beer better than flat draught beer poured through dirty lines? Also yes. Each has its pros and cons when it comes to service and storage.&lt;/p&gt;
+
+					&lt;p&gt;I would venture to say that much of draught beer's appeal comes from it being special- you typically have to go somewhere else to get it in a way that's not usually available to the home user, like how the theater experience differs from the home movie experience. Yes, you can get bottled beer in bars, too, but it's still a more "normal" format. In terms of taste over experience, though, I don't know that you could say for sure without some sort of blind tasting with lots of variables (age, glass type, line cleanliness, CO2 pressure) controlled for. Even then, what does it for the tasters might not do it for you.&lt;/p&gt;
+
+					&lt;p&gt;For further reading on all that goes into draught beer, check out the &lt;a href="http://www.draughtquality.org/wp-content/uploads/2012/01/DQM_Full_Final.pdf" rel="noreferrer"&gt;Draught Beer Quality Manual&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17" InstanceType="answer">
+			<PostId>5007</PostId>
+			<ParentPostId>3417</ParentPostId>			<Tags>
+				<tag>draught</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-16T06:13:06.593</CreationDate>
+				<LastActivityDate>2016-05-16T06:13:06.593</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5433</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Headaches from draft beer could be caused by a sensitivity to tyramine. People with this food and beverage allergy should be aware of the consequences of what happens when consuming foods high in tyramine. HealthLine explains why you may have to say no to draft beer:
+					&lt;a href="http://www.healthline.com/health/tyramine-free-diets" rel="nofollow"&gt;http://www.healthline.com/health/tyramine-free-diets&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18" InstanceType="answer">
+			<PostId>6484</PostId>
+			<ParentPostId>15</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>draught</tag>
+				<tag>bottling</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-11T00:52:20.037</CreationDate>
+				<LastActivityDate>2017-01-11T00:52:20.037</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>25</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's been a long time since I originally asked this question. While my contributing answer here doesn't &lt;em&gt;really&lt;/em&gt; clear up why draught beer (maybe, maybe doesn't) taste better than bottled beer, two things are clear to me now after spending a lot of time reflecting on the difference:&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;One&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;As Tom pointed out in the very first comment, drinking beer (and coffee too, for that matter!) out of a small spout (bottle, travel mug, etc.) blocks your nose from inhaling the aromas of the beer. This limits the amount of flavour you can sense. Pouring the bottled beer into a glass dramatically improves its flavour because the open mouth of the glass allows you to taste &lt;em&gt;and&lt;/em&gt; smell.&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Two&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;There's an inverse relationship between perceived "better" taste and the volume of bottles a brewery produces (and how far they intend to distribute). &lt;/p&gt;
+
+					&lt;p&gt;Beer brewed at a local microbrew has a shelf-life of only a few weeks on the outside; preservatives are limited or omitted and their ingredients are typically fresh, with a comparably short self-life. &lt;/p&gt;
+
+					&lt;p&gt;Larger breweries distribute further distances, demand a longer shelf-life, and usually have a need to maintain a consistent taste across their entire production line and the resulting shelf-life. These breweries use high-volume equipment (an increase in the amount the beer is processed) and high-volume ingredients (preservatives in ingredients make them last longer, but may not be fresh). It also becomes increasingly difficult to quality-control when mass-producing —  these breweries are less likely to take risks, and they rely on machinery to achieve consistency, often sacrificing quality. &lt;/p&gt;
+
+					&lt;p&gt;&lt;em&gt;tl;dr:&lt;/em&gt; draught beer, like micro-brewed beer was never intended to last for months or years on the shelf, and thus preservatives don't need to be factored into the production, and the beer is liable to be fresher more flavourful.&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;One last bonus point&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p&gt;I've also noticed that at times, bottled microbrews, poured into a glass can actually taste &lt;em&gt;better&lt;/em&gt; than their draught counterparts. Go figure ¯\_(ツ)_/¯ &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19" InstanceType="answer">
+			<PostId>6539</PostId>
+			<ParentPostId>6538</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>specialty-beers</tag>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-15T16:20:41.667</CreationDate>
+				<LastActivityDate>2017-02-15T16:20:41.667</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>381</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Guinness Draft is an Irish Dry Stout, a session beer, with alcohol by volume at 4.2%. It is intended that you can sit and drink several pints without becoming overly intoxicated. Compare that with Bud Light, which is 4.3%. Guinness has much more flavor than Bud Light, or any other similar American Light Lager beers.&lt;/p&gt;
+
+					&lt;p&gt;If you compare it with Guinness Extra Stout (5.6% abv) or Guinness Foreign Extra Stout (7.5% abv) or any Russian Imperial Stout like Victory Storm King (9.1%) or Stone RIS (10.6% abv), then, yes, it will taste "watered down" by comparison. But you would be comparing apples with watermelons.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20" InstanceType="answer">
+			<PostId>6577</PostId>
+			<ParentPostId>6538</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>specialty-beers</tag>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-23T09:28:13.100</CreationDate>
+				<LastEditDate>2017-02-26T18:39:50.730</LastEditDate>
+				<LastActivityDate>2017-02-26T18:39:50.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6458</OwnerUserId>
+				<LastEditorUserId>6458</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The beer called Guinness draft in Ireland would be called Guinness On Tap in locations such as New York.  &lt;/p&gt;
+
+					&lt;p&gt;The reason for the emphasis on draft versus in bottle is quality and taste. 
+					In my experience over recent decades, people pay extra for the most popular bottled beers in the US and in my opinion this is because of the guaranteed quality of bottled. Depending on the bar, the draft (tap) beer can vary from OK to well, stale, or watery, or even unhealthy in some disreputable cases. 
+					The bottle is much more tamper-proof.  So for this reason people will pay a couple of dollars more per drink for the same volume, of the same brand.&lt;br&gt;
+					Having said that, your large volume commercial US (and European) beers are mostly lagers, pilsners and the like.  For these kinds of beer, the difference between bottled and high quality draft in a good bar, is small.&lt;/p&gt;
+
+					&lt;p&gt;But Guinness stout is a very specific kind of brew.  As a variant of porter, it provides a very different experience from the bottle versus on draft.
+					It is very rare to see anyone in Ireland drink bottled Guinness (or any other brand of stout) in their local pub. Compared to draft, the bottled tastes bitter, is gassy and does not keep the creamy head to anything like the same extent as well served draft. In contrast, a good pint of draft stout is creamy, the maltiness well balanced with hops.  Try a taste comparison and you will see for yourself. &lt;/p&gt;
+
+					&lt;p&gt;But have it in a reputable pub in Ireland.  There the supply chain is quality assured and the bartender is well drilled in the pour, which is also unique to draft stout.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21" InstanceType="answer">
+			<PostId>7103</PostId>
+			<ParentPostId>7102</ParentPostId>			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-06T16:05:33.843</CreationDate>
+				<LastEditDate>2017-12-10T11:07:39.657</LastEditDate>
+				<LastActivityDate>2017-12-10T11:07:39.657</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7272</OwnerUserId>
+				<LastEditorUserId>7272</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's all in the water. The water has a big role in the beverage's taste. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22" InstanceType="answer">
+			<PostId>7104</PostId>
+			<ParentPostId>7102</ParentPostId>			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>draught</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-07T04:01:07.717</CreationDate>
+				<LastActivityDate>2017-12-07T04:01:07.717</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7409</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's many smaller factors but the most likely if it's the same brand are the following:&lt;/p&gt;
+
+					&lt;p&gt;Storage temperature: in shipping and storage large temperature swings or storage above cellar temperature increase the ageing process of the beer dramatically. In extreme cases of hot temperatures spoilage bacteria, as well as chemical changes, are even more prone to happen.&lt;/p&gt;
+
+					&lt;p&gt;Draft line cleaning: every bar has different ages on their lines as well as different cleaning standards. In high end beer bars, line cleaning is encouraged every two weeks. This removes mineral buildup as well as destroys bacteria growth in plastic lines for a time. These buildups or bacterial produced off flavors will be different to each location and can easily ruin beer, or at least change its intended flavor.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

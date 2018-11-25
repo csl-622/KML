@@ -1,0 +1,673 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>1</PostId>
+			<AcceptedAnswerId>4</AcceptedAnswerId>
+			<Title>
+			"What is a citra hop, and how does it differ from other hops?"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>19</Score>
+				<ViewCount>1343</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:26:05.383</CreationDate>
+				<LastEditDate>2014-01-21T22:04:34.977</LastEditDate>
+				<LastActivityDate>2014-01-21T22:04:34.977</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+				<LastEditorUserId>8</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was offered a beer the other day that was reportedly made with citra hops. What are citra hops? Why should I care that my beer is made with them?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>127</PostId>
+			<AcceptedAnswerId>130</AcceptedAnswerId>
+			<Title>
+			"Dry hopping versus regular hopping"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>207</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T23:08:01.373</CreationDate>
+				<LastActivityDate>2014-01-21T23:17:41.690</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>68</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What's the difference between dry hopping and regular hopping, and both in terms of production process and taste? I think I'm starting to get an idea of what a dry-hopped beer tastes like, but I'm not always sure if it's actually dry hopping or just a hoppier beer, especially if I'm at a bar. What's the difference?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>138</PostId>
+			<Title>
+			"Does the climate and growing conditions of hops effect the taste of a beer, like with wine?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>style</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>471</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:27:29.303</CreationDate>
+				<LastActivityDate>2014-01-22T04:23:10.133</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>101</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You will often hear wine discussed in terms of the climate, soil, etc of the vineyard. The terms 'new world' and 'old world' wines are common.&lt;/p&gt;
+
+					&lt;p&gt;Is there a similar concept for the hops used in beer? A quick web search seems to indicate that hops don't thrive in as many different climates as grapes do, so there might be less variation. Similarly, there are a few websites that seem to refer to new vs. old world hops, but it doesn't seem to be as popular a talking point. Is there more to it than a 2 minute google search can reveal?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>255</PostId>
+			<AcceptedAnswerId>261</AcceptedAnswerId>
+			<Title>
+			"What uses do hops have outside of brewing?"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+				<tag>history</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>1727</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T08:31:01.367</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2014-01-23T09:51:55.270</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>130</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Do hops have (or had in the past) any use outside of brewing beer?&lt;/p&gt;
+
+					&lt;p&gt;I mean: In the question of &lt;a href="https://alcohol.stackexchange.com/questions/2/when-was-the-first-beer-ever-brewed"&gt;dating first modern beers&lt;/a&gt; we have the first record of cultivating hops predating the first record of use of hops in beer by nearly a century. Could the hops have been cultivated for any other purpose than brewing, or can we safely assume if they were cultivated, there was beer made with them?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>757</PostId>
+			<Title>
+			"Are some beers 'too hoppy'?"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>699</ViewCount>
+				<AnswerCount>9</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-30T01:08:37.720</CreationDate>
+				<LastActivityDate>2014-06-04T18:17:03.723</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Hoppy beers appear to be fad at the moment. &lt;/p&gt;
+
+					&lt;p&gt;It seems that some brewers are aiming to produce beer with the sole aim to be as hoppy as possible, without consideration to other flavors or characteristics. &lt;/p&gt;
+
+					&lt;p&gt;Is it fair to say that some beers are simply 'too hoppy' by some objective measure? I would say the New Zealand's Boundry Road Mumbo Jumbo IPA fits this category. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>866</PostId>
+			<Title>
+			"Is beer bad for dogs"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>942</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-10T04:02:17.410</CreationDate>
+				<LastEditDate>2014-08-01T05:33:36.040</LastEditDate>
+				<LastActivityDate>2014-08-01T05:33:36.040</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>352</OwnerUserId>
+				<LastEditorUserId>352</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've read that raw hops can be bad for dogs, somehow causing hyperthermia. But once it's brewed, is beer bad also? What about very hoppy beers? Answers might include reports on what it is in hops (alpha acids?) that make hops bad for dogs.&lt;/p&gt;
+
+					&lt;p&gt;Please keep answers restricted to the effect of brewed hops. I already realize the fermented alcohol can be bad for smaller pets. I'm not looking for alcohol related answers, just answers on boiled and fermented hops.&lt;/p&gt;
+
+					&lt;p&gt;As an aside, it seems okay for cats. Mine decided to take a sip, seemed to like it, and came back for more.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>995</PostId>
+			<Title>
+			"How can I learn to recognize the flavor and aroma of different varieties of hops?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>hops</tag>
+				<tag>drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>1317</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-19T03:53:45.563</CreationDate>
+				<LastEditDate>2016-10-25T16:57:33.977</LastEditDate>
+				<LastActivityDate>2016-10-25T16:57:33.977</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1228</OwnerUserId>
+				<LastEditorUserId>6042</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Background: I was drinking a New Belgium "Tour de Fall" last week and thinking about the hops that I was tasting in the finish. For me, hops in general were a pretty slowly acquired taste, and I didn't start truly appreciating the hoppy West Coast style until I encountered Sierra Nevada "Torpedo" and fell in love.&lt;/p&gt;
+
+					&lt;p&gt;Now I finally find myself wanting to get to know specific varieties of hops by flavor and scent. Amarillo, Cascade, and so on - I know there are dozens and dozens of varieties, but how do I start training myself to recognize their differences (and identify the most common varieties) in the drink itself? &lt;/p&gt;
+
+					&lt;p&gt;Should I buy some hops from a supply store, and huff 'em like a soccer mom in a fabric softener commercial? Or would that be totally different from what comes through in a beer? Would it be better to find a stool at a local brewery/brewpub and ask for a lesson in liquid form?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>3424</PostId>
+			<AcceptedAnswerId>3433</AcceptedAnswerId>
+			<Title>
+			"The taste of hops, malt"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>hops</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>109</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-25T19:07:17.137</CreationDate>
+				<LastEditDate>2015-06-25T20:31:44.763</LastEditDate>
+				<LastActivityDate>2015-06-28T12:46:39.027</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4238</OwnerUserId>
+				<LastEditorUserId>4238</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I drink beer I can taste a bitter, then slightly sweetness, then kind of a lingering flavor of something. I'm curious - is the lingering flavor the malt, or the hops? What contributes to the bitterness - the malt or the hops?&lt;/p&gt;
+
+					&lt;p&gt;I would like to know the taste differences between the two.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>3466</PostId>
+			<AcceptedAnswerId>3471</AcceptedAnswerId>
+			<Title>
+			"Is there a full list of hops all around the world?"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>221</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-15T01:26:00.167</CreationDate>
+				<LastActivityDate>2016-06-01T13:38:55.223</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a full list of hops all around the world?&lt;/p&gt;
+
+					&lt;p&gt;Currently, I've been just collecting them as I drink and asking the brewers or the pub owners which hop the beer uses. &lt;/p&gt;
+
+					&lt;p&gt;Wikipedia has a list: &lt;a href="https://en.wikipedia.org/wiki/List_of_hop_varieties" rel="nofollow"&gt;https://en.wikipedia.org/wiki/List_of_hop_varieties&lt;/a&gt; but is there any other missing?&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Admiral&lt;/li&gt;
+					&lt;li&gt;Ahtanum&lt;/li&gt;
+					&lt;li&gt;Amarillo&lt;/li&gt;
+					&lt;li&gt;Apollo&lt;/li&gt;
+					&lt;li&gt;Bramling Cross&lt;/li&gt;
+					&lt;li&gt;Brewer's Gold&lt;/li&gt;
+					&lt;li&gt;Bullion&lt;/li&gt;
+					&lt;li&gt;Cascade&lt;/li&gt;
+					&lt;li&gt;Centennial&lt;/li&gt;
+					&lt;li&gt;Challenger&lt;/li&gt;
+					&lt;li&gt;Chinook&lt;/li&gt;
+					&lt;li&gt;Citra&lt;/li&gt;
+					&lt;li&gt;Cluster&lt;/li&gt;
+					&lt;li&gt;Columbus&lt;/li&gt;
+					&lt;li&gt;Crystal&lt;/li&gt;
+					&lt;li&gt;Eroica&lt;/li&gt;
+					&lt;li&gt;First Gold&lt;/li&gt;
+					&lt;li&gt;Feux-Coeur Francais&lt;/li&gt;
+					&lt;li&gt;Fuggle&lt;/li&gt;
+					&lt;li&gt;Galaxy&lt;/li&gt;
+					&lt;li&gt;Galena&lt;/li&gt;
+					&lt;li&gt;Glacier&lt;/li&gt;
+					&lt;li&gt;Goldings&lt;/li&gt;
+					&lt;li&gt;Green Bullet&lt;/li&gt;
+					&lt;li&gt;Greenburg&lt;/li&gt;
+					&lt;li&gt;Hallertau / Hallertauer Mittelfrüh&lt;/li&gt;
+					&lt;li&gt;Herald&lt;/li&gt;
+					&lt;li&gt;Herkules&lt;/li&gt;
+					&lt;li&gt;Hersbrucker&lt;/li&gt;
+					&lt;li&gt;Horizon&lt;/li&gt;
+					&lt;li&gt;Liberty&lt;/li&gt;
+					&lt;li&gt;Lublin&lt;/li&gt;
+					&lt;li&gt;Magnum&lt;/li&gt;
+					&lt;li&gt;Merkur&lt;/li&gt;
+					&lt;li&gt;Millennium&lt;/li&gt;
+					&lt;li&gt;Motueka&lt;/li&gt;
+					&lt;li&gt;Mosaic&lt;/li&gt;
+					&lt;li&gt;Mount Hood&lt;/li&gt;
+					&lt;li&gt;Mount Rainier&lt;/li&gt;
+					&lt;li&gt;Nelson Sauvin&lt;/li&gt;
+					&lt;li&gt;Newport&lt;/li&gt;
+					&lt;li&gt;Northdown&lt;/li&gt;
+					&lt;li&gt;Northern Brewer&lt;/li&gt;
+					&lt;li&gt;Nugget&lt;/li&gt;
+					&lt;li&gt;Opal&lt;/li&gt;
+					&lt;li&gt;Pacifica&lt;/li&gt;
+					&lt;li&gt;Pacific Gem&lt;/li&gt;
+					&lt;li&gt;Pacific Jade&lt;/li&gt;
+					&lt;li&gt;Palisade&lt;/li&gt;
+					&lt;li&gt;Perle&lt;/li&gt;
+					&lt;li&gt;Phoenix&lt;/li&gt;
+					&lt;li&gt;Pilgrim&lt;/li&gt;
+					&lt;li&gt;Pilot&lt;/li&gt;
+					&lt;li&gt;Pioneer&lt;/li&gt;
+					&lt;li&gt;Polnischer Lublin&lt;/li&gt;
+					&lt;li&gt;Pride of Ringwood&lt;/li&gt;
+					&lt;li&gt;Progress&lt;/li&gt;
+					&lt;li&gt;Riwaka&lt;/li&gt;
+					&lt;li&gt;Saaz&lt;/li&gt;
+					&lt;li&gt;Saaz Late&lt;/li&gt;
+					&lt;li&gt;Bor&lt;/li&gt;
+					&lt;li&gt;Premiant&lt;/li&gt;
+					&lt;li&gt;Rubin&lt;/li&gt;
+					&lt;li&gt;Agnus&lt;/li&gt;
+					&lt;li&gt;Vital&lt;/li&gt;
+					&lt;li&gt;Sladek&lt;/li&gt;
+					&lt;li&gt;Kazbek&lt;/li&gt;
+					&lt;li&gt;Bohemie&lt;/li&gt;
+					&lt;li&gt;Harmonie&lt;/li&gt;
+					&lt;li&gt;San Juan Ruby Red&lt;/li&gt;
+					&lt;li&gt;Santiam&lt;/li&gt;
+					&lt;li&gt;Saphir&lt;/li&gt;
+					&lt;li&gt;Satus&lt;/li&gt;
+					&lt;li&gt;Select&lt;/li&gt;
+					&lt;li&gt;Simcoe&lt;/li&gt;
+					&lt;li&gt;Smaragd&lt;/li&gt;
+					&lt;li&gt;Sorachi Ace&lt;/li&gt;
+					&lt;li&gt;Southern Cross&lt;/li&gt;
+					&lt;li&gt;Spalt&lt;/li&gt;
+					&lt;li&gt;Sterling&lt;/li&gt;
+					&lt;li&gt;Strisselspalt&lt;/li&gt;
+					&lt;li&gt;Styrian Aurora&lt;/li&gt;
+					&lt;li&gt;Styrian Bobek&lt;/li&gt;
+					&lt;li&gt;Styrian Goldings&lt;/li&gt;
+					&lt;li&gt;Styrian Celeia&lt;/li&gt;
+					&lt;li&gt;Summit&lt;/li&gt;
+					&lt;li&gt;Tardif de Bourgogne&lt;/li&gt;
+					&lt;li&gt;Target&lt;/li&gt;
+					&lt;li&gt;Taurus&lt;/li&gt;
+					&lt;li&gt;Tettnang&lt;/li&gt;
+					&lt;li&gt;Tomahawk&lt;/li&gt;
+					&lt;li&gt;Tomyski&lt;/li&gt;
+					&lt;li&gt;Tradition&lt;/li&gt;
+					&lt;li&gt;Ultra&lt;/li&gt;
+					&lt;li&gt;Vanguard&lt;/li&gt;
+					&lt;li&gt;Waimea&lt;/li&gt;
+					&lt;li&gt;Warrior&lt;/li&gt;
+					&lt;li&gt;Whitbread Golding Variety (WGV)&lt;/li&gt;
+					&lt;li&gt;Willamette&lt;/li&gt;
+					&lt;li&gt;Zeus&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>4533</PostId>
+			<Title>
+			"Techniques to add flavour and aroma to beer with hops"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>brewing</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>164</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-18T10:36:25.073</CreationDate>
+				<LastEditDate>2017-03-17T08:31:08.567</LastEditDate>
+				<LastActivityDate>2015-08-24T08:20:59.680</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4423</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm a hop lover, recently I found one of bests &lt;a href="http://naparbier.com/menu/hop-doom/" rel="nofollow noreferrer"&gt;&lt;code&gt;IIPA&lt;/code&gt;&lt;/a&gt; I ever tasted (&lt;a href="https://alcohol.meta.stackexchange.com/questions/100/can-i-link-a-beer-brand-or-specific-model-or-should-i-be-generic"&gt;I don't know if I can name beer / brand&lt;/a&gt;)&lt;/p&gt;
+
+					&lt;p&gt;I've found at the bottom of the bottle, there are no yeast rests, but yes hop leafs. &lt;strong&gt;&lt;code&gt;:)&lt;/code&gt;&lt;/strong&gt; sweet!&lt;/p&gt;
+
+					&lt;p&gt;One friend tell me this technike is called &lt;code&gt;bottle dry-hopping&lt;/code&gt;, consisting in introducing a little bud of hop in each bottle.&lt;/p&gt;
+
+					&lt;p&gt;I've heard about &lt;a href="https://alcohol.meta.stackexchange.com/questions/100/can-i-link-a-beer-brand-or-specific-model-or-should-i-be-generic"&gt;&lt;code&gt;dry-hopping&lt;/code&gt;&lt;/a&gt; but before botteling the beer, also i know  &lt;code&gt;Hop Spider&lt;/code&gt;, is a filter you fill with hop for the freezing step.&lt;/p&gt;
+
+					&lt;p&gt;Three techniques are great and give nice results at the end, so:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Anyone knows about other techniques using hops to add flavour and aroma &lt;strong&gt;AFTER&lt;/strong&gt; cooking the beer? &lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>4625</PostId>
+			<AcceptedAnswerId>4627</AcceptedAnswerId>
+			<Title>
+			"Nutritional value of hops?"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>291</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-09T13:08:37.617</CreationDate>
+				<LastEditDate>2015-10-09T19:29:40.067</LastEditDate>
+				<LastActivityDate>2015-10-10T12:25:44.417</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4605</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Since beers are made with hops, what nutritional value do those hop give to a human body when beer is consumed?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>4745</PostId>
+			<Title>
+			"Did Henry VIII really outlaw hops?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>664</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-12-30T20:40:03.113</CreationDate>
+				<LastActivityDate>2016-04-07T00:16:42.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1077</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently read Stephen Buhner's "Sacred and Herbal Healing Beers" wherein he claimed that hops were a fairly new way to bitter beer in the renaissance and that in England Henry VIII outlawed them. However, I have not been able to find substantiation of this in the historical record. It makes for a great story, but is it true?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>4947</PostId>
+			<AcceptedAnswerId>4955</AcceptedAnswerId>
+			<Title>
+			"Alternative ways to know the impact of ingredients"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+				<tag>yeast</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>47</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-09T15:50:01.817</CreationDate>
+				<LastEditDate>2016-04-10T22:59:30.043</LastEditDate>
+				<LastActivityDate>2016-04-15T08:50:14.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5306</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;My first batch of beer was very complicated with lots of different ingredients and to be honest I wasn't even sure exactly what I was doing. In my second batch I decided to go "neutral," making a smaller batch (5 liters) and used only Pilsner, only Saaz and single infusion (to see the impact of each ingredient, and from there evolve). The beer is ready but now I'm kind of clueless to where to go. Is there any other way to see the impact of each ingredient without actually brewing a batch? I want to know how temperature, yeast, malt, etc. act on the beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>6403</PostId>
+			<AcceptedAnswerId>6430</AcceptedAnswerId>
+			<Title>
+			"What are the IBUs (bitterness units) of common lagers? Also, what are hop contents?"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>6026</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-28T18:34:31.360</CreationDate>
+				<LastActivityDate>2016-12-21T08:43:24.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6146</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would be interested to know these two things: &lt;/p&gt;
+
+					&lt;p&gt;(1): What are the ratings in IBU of common lagers: e.g. Stella, Kronenbourg, Fosters, Becks, Heineken, San Miguel, Corona? Are there major differences? &lt;/p&gt;
+
+					&lt;p&gt;(2): Same question RE: Hoppyness/Hop content. &lt;/p&gt;
+
+					&lt;p&gt;E.g. I like Stella and not Becks. Then my friend told me that's because Stella is more bitter. However I have no way of knowing for sure... hence the question. &lt;/p&gt;
+
+					&lt;p&gt;I like IPAs and I hate stouts. However the differences between lagers is difficult to perceive for me. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>6702</PostId>
+			<AcceptedAnswerId>6705</AcceptedAnswerId>
+			<Title>
+			"What exactly is this process of adding hops called?"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>93</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-26T13:35:47.847</CreationDate>
+				<LastActivityDate>2017-03-27T13:05:20.267</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4638</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Instead of using a hop bag last brew, I just added a couple of hop pellets straight to the wort. This gave an altogether different taste. I really enjoyed the taste of the hops. It just tasted like good health to me. It was earthy and wholesome and I loved it, I just would like to know what this process is called?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>7432</PostId>
+			<Title>
+			"What are the differences between Pale Ale (PA), India Pale Ale (IPA) and American Pale Ale (APA)?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>specialty-beers</tag>
+				<tag>craft-beers</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>55</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-11T18:57:15.147</CreationDate>
+				<LastActivityDate>2018-08-17T23:56:55.323</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7954</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am wondering because I want to brew these styles of beer myself.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>7433</PostId>
+			<Title>
+			"Beer Brewing: How do I dry fresh hops?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>craft-beers</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>10</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-11T19:01:00.043</CreationDate>
+				<LastActivityDate>2018-08-11T19:01:00.043</LastActivityDate>
+				<ClosedDate>2018-08-12T21:26:13.883</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7954</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have fresh hops and I wish to dry them for storage in vacuum packed bags. Which methods can I use for drying them, and what are the differences in quality?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

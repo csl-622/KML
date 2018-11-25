@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="1756"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2014-07-13T11:02:57.250</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1757"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-07-13T11:03:34.437</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1759"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2014-07-13T10:59:26.613</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1763"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-07-13T11:03:34.437</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5093"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Suffrage"
+			</Title>
+			<TimeStamp>
+				<Date>2015-12-19T01:52:40.280</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5094"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Vox Populi"
+			</Title>
+			<TimeStamp>
+				<Date>2015-12-19T01:57:40.247</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8431"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Enthusiast"
+			</Title>
+			<TimeStamp>
+				<Date>2018-02-02T01:11:07.333</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8637"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Fanatic"
+			</Title>
+			<TimeStamp>
+				<Date>2018-04-13T00:11:21.217</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8848"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Civic Duty"
+			</Title>
+			<TimeStamp>
+				<Date>2018-06-23T02:25:33.220</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8924"  UserId="1093" InstanceType= "badges">
+			<Title>
+			"Electorate"
+			</Title>
+			<TimeStamp>
+				<Date>2018-07-07T01:00:30.730</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

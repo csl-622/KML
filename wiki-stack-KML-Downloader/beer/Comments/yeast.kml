@@ -1,0 +1,665 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>144</PostId>
+			<ParentPostId>60</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T13:18:36.610</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well, there's always the infinitesimal chance of contracting [Auto-Brewery Syndrome.](http://www.npr.org/blogs/thesalt/2013/09/17/223345977/auto-brewery-syndrome-apparently-you-can-make-beer-in-your-gut) But personally, I'd hesitate to call that a *problem* strictly speaking.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>145</PostId>
+			<ParentPostId>101</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T13:36:15.150</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I actually disagree with you for the corked bottles, see my answer :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="1">
+			<PostId>146</PostId>
+			<ParentPostId>191</ParentPostId>
+			<Contributors>
+				<UserId>141</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T13:48:54.043</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					did you just answer your own question?^^
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="1">
+			<PostId>147</PostId>
+			<ParentPostId>191</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T13:50:58.560</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yea, it's to get some questions and answers going for the beta site :p
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>729</PostId>
+			<ParentPostId>401</ParentPostId>
+			<Contributors>
+				<UserId>500</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-25T01:01:27.700</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not enough for an answer, but it's interesting to note that the infamous ["Reinheitsgebot" German beer law](http://en.wikipedia.org/wiki/Reinheitsgebot) only explicitly permits water, barley, and hops. This is unsurprising since, as you note, yeast wasn't identified until the 1800s and the law dates to the 1400s.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>730</PostId>
+			<ParentPostId>636</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-25T04:37:19.030</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hi.  We're looking for complete answers as opposed to pointers to answers; could you summarize what you say about tripels on your blog?  Thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>731</PostId>
+			<ParentPostId>638</ParentPostId>
+			<Contributors>
+				<UserId>541</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-25T14:14:20.357</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks. What about the other part of the question? _"Is this what gives it it's distinct taste?"_
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="2">
+			<PostId>732</PostId>
+			<ParentPostId>638</ParentPostId>
+			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-25T14:30:22.167</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					As the name suggests, oysters are a signature ingredient for traditional oyster stouts.  Does the edit help make that clear?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="3">
+			<PostId>804</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-17T21:41:02.817</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think this should be on homebrew.SE - there are many similar questions there about using wine yeast or bakers' yeast to brew beer. If you want to know specifically how much of a beer's flavor/aroma profile comes from the yeast, then rephrasing the question to that affect will remove the emphasis on homebrewing.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="3">
+			<PostId>805</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-17T22:27:14.227</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					As phrased, it's more about homebrewing.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>806</PostId>
+			<ParentPostId>670</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-17T23:34:44.360</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This doesn't address *any* of the specific concerns raised by my question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>807</PostId>
+			<ParentPostId>670</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-18T00:50:16.440</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Read the links... Since you didn't I did and modified my answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="3">
+			<PostId>808</PostId>
+			<ParentPostId>670</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-18T11:00:15.747</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@WayneInYak - LessPop_MoreFizz's response could have been nicer, but to be fair, your answer in its original form was a link-only answer, with some pasted material; we prefer posts that answer questions without visitors having to leave the site. Also, the mentioned link leads to an unreasonably large amount of material; a link to a page with 78 sections of law (and apparently no way to load them on a single page to search) isn't very helpful. If you've found specific citations, please let us know exactly where. I for one can't find where it says one must purchase the growler from the brewery.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="0">
+			<PostId>809</PostId>
+			<ParentPostId>670</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-18T13:17:57.650</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You are talking law that is vague and unclear, the only real answer you can get is from a lawyer operating in that state.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>810</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-18T16:17:28.010</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@mdma - did not know the homebrew.SE was live: and actually cannot see why it shouldn't be part of this site, as "homebrew" is exclusively about "beer" :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>811</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-19T03:29:28.597</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Homebrewers also make wine and mead.  (Whether the ones on the SE site do, I don't know.  But in general...)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>812</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-19T15:04:47.840</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MonicaCellio - wine is not "brewed" .. though I suppose you could lump them together a bit :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="1">
+			<PostId>813</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-19T15:17:17.630</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Right; brewing vs vintning.  But they have a bunch of questions about wine, so it looks like both are in scope there.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="3">
+			<PostId>820</PostId>
+			<ParentPostId>690</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-21T13:37:27.040</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yeah, on paper Snake venom is stronger, but I've not seen a credible source that has verified it, and several that show it to be much lower abv. Also the brewery seems ill-equipped to produce it. I think the beers you mention have more credibility.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="0">
+			<PostId>821</PostId>
+			<ParentPostId>689</ParentPostId>
+			<Contributors>
+				<UserId>141</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-21T13:41:02.327</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you for your answer. I am _not_ looking for regular dishes where you just leave the meat. A vegetarian dish is no collection of side-dishes (imho). I'm also not a great fan of "meat substitutes" like tofu to make a vegan schnitzel. (but I like your link)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="4">
+			<PostId>822</PostId>
+			<ParentPostId>682</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-21T13:46:49.763</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In addition, Samuel Adams Utopias is brewed with proprietary yeast strains that they've developed that allow it to get it up to 28%-29% ABV using only fermentation.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="2">
+			<PostId>823</PostId>
+			<ParentPostId>690</ParentPostId>
+			<Contributors>
+				<UserId>679</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-21T13:46:51.707</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are those really created through pure brewing, without adding extra alcohol? I thought even the hardiest yeasts couldn't survive above 17% or so.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>824</PostId>
+			<ParentPostId>681</ParentPostId>
+			<Contributors>
+				<UserId>679</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-21T13:52:56.843</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Het Kanon was originally introduced in larger (0.45 liter) bottles, which combined with its light and sweet taste to knock out experienced beer drinkers. I've got a friend who can put away staggering amounts of alcohol, but when he drinks Het Kanon, weird stuff happens to him. It's the only beer in which I can outdrink anyone. And I like the taste. Dangerous stuff.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="1">
+			<PostId>3838</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-11T19:55:12.143</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					homebrew.stackexchange.com may be a better fit
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>3840</PostId>
+			<ParentPostId>4938</ParentPostId>
+			<Contributors>
+				<UserId>5297</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-11T20:51:32.310</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That is true but not always the case, for some red wines the flavor and body will actually be fuller after a day or so after opening (this is due to the oxidization balance, this is why you let wine breath). This obviously is wine specific, so it doesn't hurt to do some research on the type of wine you are consuming. Wine requires understanding and attention to detail if you want to leverage the most from your wine drinking/tasting experience.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="0">
+			<PostId>3841</PostId>
+			<ParentPostId>4938</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-11T21:30:13.537</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@puu1 More than 24 hrs is a bit of a breath.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="0">
+			<PostId>3842</PostId>
+			<ParentPostId>4938</ParentPostId>
+			<Contributors>
+				<UserId>5297</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-11T21:35:44.280</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Let me clarify @Paparazzi, you wouldn't want to let wine breath for much longer than a couple hours. But in the same way you let wine breath, there is a similar but much slower effect of oxidization that takes place when storing and sealing wine after opening (hence - a limit on the life of the wine after opening).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>3843</PostId>
+			<ParentPostId>4943</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-11T21:42:02.020</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Good answer but I disagree with advertising brands.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="2">
+			<PostId>3849</PostId>
+			<ParentPostId>4925</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-11T23:27:23.620</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					As a chemical engineer I can second that. Consider this. Would you rather stand in a freezer or jump in an ice water bath?  And as a chemical engineer homeostasis is not the proper word here.  +1
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="0">
+			<PostId>3850</PostId>
+			<ParentPostId>4921</ParentPostId>
+			<Contributors>
+				<UserId>5268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-14T17:08:39.927</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I meant to ask about both the name and the contents. Apologies if that wasn't clear. The Irish I chatted with plus many sources on the Internet agree almost universally that the name Black and Tan is offensive within Ireland and to the Irish people. This is because the English paramilitary force you mentioned, that wore black and tan colored uniforms, committed some quite brutal acts against the Irish population. Your first link has a paragraph about how "the name Black and Tan is controversial in Ireland" and "is unable to verify how popular the Half and Half actually is in Irish pubs."
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>3851</PostId>
+			<ParentPostId>4943</ParentPostId>
+			<Contributors>
+				<UserId>5320</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-15T13:02:34.213</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I agree with @Paparazz. But I think mentioning brands is ok in reference to awards, official rankings and reviews. Also in terms of taste, texture, ingredients etc. Not personal preference.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="0">
+			<PostId>3852</PostId>
+			<ParentPostId>4943</ParentPostId>
+			<Contributors>
+				<UserId>5282</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-15T14:21:27.170</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wait, I didn't get it at 1st when paparazzi said it but since you just backed it up, are you guys saying I should not mention any brand names unless it's a probable fact? Is so let me know so I can edit.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="0">
+			<PostId>3853</PostId>
+			<ParentPostId>4938</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-16T03:16:51.590</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Pouring your partial bottle into a clean smaller bottle will reduce the ratio of oxygen and wine and extend the drinking window by a few days.   http://www.torontosun.com/2014/05/14/how-long-will-an-open-bottle-of-wine-keep
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="0">
+			<PostId>3854</PostId>
+			<ParentPostId>4945</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-18T13:58:51.293</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					My general rule is if I won't drink it neat I won't mix it in a cocktail.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35"  InstanceType= "comments" Score="0">
+			<PostId>4137</PostId>
+			<ParentPostId>6241</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-27T13:41:14.143</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Can you add a link to the particular product you are interested in?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36"  InstanceType= "comments" Score="0">
+			<PostId>4138</PostId>
+			<ParentPostId>6241</ParentPostId>
+			<Contributors>
+				<UserId>5788</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-29T13:24:12.270</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@KenGraham: You mean mead? Or brewer's yeast? I'm interested in any sort of brewer's yeast. Or any yest that does the job.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="37"  InstanceType= "comments" Score="0">
+			<PostId>4139</PostId>
+			<ParentPostId>6263</ParentPostId>
+			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-30T16:15:11.110</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Do you recall what bitters this patron would request?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="38"  InstanceType= "comments" Score="0">
+			<PostId>4140</PostId>
+			<ParentPostId>6263</ParentPostId>
+			<Contributors>
+				<UserId>5817</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-30T16:15:47.237</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Super Query Lad She wasn't particular.  Pretty sure we just had Angostura.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="39"  InstanceType= "comments" Score="0">
+			<PostId>4271</PostId>
+			<ParentPostId>6400</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-11-25T13:57:53.950</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm curious about the inspiration for the question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="40"  InstanceType= "comments" Score="1">
+			<PostId>4791</PostId>
+			<ParentPostId>6683</ParentPostId>
+			<Contributors>
+				<UserId>4857</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-25T10:01:13.830</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					you should re-ask this over on homebrew.stackexchange.com
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="41"  InstanceType= "comments" Score="0">
+			<PostId>4792</PostId>
+			<ParentPostId>4947</ParentPostId>
+			<Contributors>
+				<UserId>4857</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-25T10:11:39.543</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					you should re-ask this over on http://homebrew.stackexchange.com
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="42"  InstanceType= "comments" Score="2">
+			<PostId>5306</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-12T13:21:17.993</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This would be better asked at https://homebrew.stackexchange.com/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="43"  InstanceType= "comments" Score="0">
+			<PostId>5308</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-13T10:31:07.597</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@farmersteve Hadn't realised there were two separate sites for this. Thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="44"  InstanceType= "comments" Score="0">
+			<PostId>5309</PostId>
+			<ParentPostId>7117</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-14T02:03:31.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					All extracts from McCormicks are about 35% alcohol. Most of alcohol will evaporate during cooking. I was shocked at how much alcohol is in Almond, vanilla, rum whatever. You can just buy it in the store at 35% (70 proof) anyone can in the USA...  weird...
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

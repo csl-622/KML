@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="102"  UserId="57" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:22:39.813</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="108"  UserId="57" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:22:39.813</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="144"  UserId="57" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:47:40.923</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="154"  UserId="57" InstanceType= "badges">
+			<Title>
+			"Precognitive"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:52:12.030</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="556"  UserId="57" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-25T18:58:03.663</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4490"  UserId="57" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-05T12:02:12.390</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6487"  UserId="57" InstanceType= "badges">
+			<Title>
+			"Notable Question"
+			</Title>
+			<TimeStamp>
+				<Date>2016-10-16T18:47:22.470</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

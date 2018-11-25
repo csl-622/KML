@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>314</PostId>
+			<ParentPostId>313</ParentPostId>			<Tags>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-25T01:29:12.943</CreationDate>
+				<LastActivityDate>2014-01-25T01:29:12.943</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It really comes down to the specific beer you are drinking. &lt;/p&gt;
+
+					&lt;p&gt;In addition to trace elements, and vitamins, the main dietary contribution of beer is from carbohydrates, proteins and alcohol.&lt;/p&gt;
+
+					&lt;p&gt;Protein and Carbohydrates provide 4 kcal/g energy, while alcohol provides 7 kcal/g. &lt;/p&gt;
+
+					&lt;p&gt;With dietary planing, you need to look at the specific foods you plan to consume, and no different with beer and diet - here you'll need to look at specific beers to determine nutritional and energy value. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>326</PostId>
+			<ParentPostId>324</ParentPostId>			<Tags>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-25T09:42:43.840</CreationDate>
+				<LastActivityDate>2014-01-25T09:42:43.840</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;No. Color has little to do with calories, and possibly surprisingly, mouthfeel can have little influence also.&lt;/p&gt;
+
+					&lt;p&gt;You can have a Belgian Tripel that is medium light bodied, that has many more calories than a pint of Guinness, simply because the alcohol level in the Tripel contributes more calories than the sugars from Guinness. Also Guinness is served on Nitrogen which creates the sensation of a thicker beer, as if there were more carbs and protein giving a fuller body.&lt;/p&gt;
+
+					&lt;p&gt;The calorific load from a beer comes from both carbohydrates and alcohol, which are present in both dark and light beers regardless of beer color.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>327</PostId>
+			<ParentPostId>324</ParentPostId>			<Tags>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-25T10:29:29.767</CreationDate>
+				<LastEditDate>2014-01-26T02:54:09.770</LastEditDate>
+				<LastActivityDate>2014-01-26T02:54:09.770</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>81</OwnerUserId>
+				<LastEditorUserId>39</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Color does not effect calories it has. There is a guide at &lt;a href="http://hbd.org/ensmingr/" rel="nofollow"&gt;Beer Data&lt;/a&gt; for calculating home-brewed beer, but I'd guess it might help you too.&lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;cal per 12 oz beer = [(6.9 × ABW) + 4.0 × (RE - 0.1)] × FG × 3.55
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The first item in brackets gives the caloric contribution of ethanol, which is determined from the ABW and the known value of 6.9 cal/g of ethanol. The second item in brackets gives the caloric contribution of carbohydrates, which is determined from the RE (Real Extract) and the known value of 4.0 cal/g for carbohydrates. An empirically-derived constant (0.1) accounts for the ash portion of the extract. Together, these terms give the calories per 100 g beer. This is easily converted to calories per 100 ml beer by accounting for the final gravity (FG, in (g beer)/(ml beer)). In turn, 100 ml is converted to 12 oz by a scalar (3.55, in (100ml/12 oz))&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Also, there is a list of &lt;a href="http://www.efficientdrinker.com/beer/complete-calories-abv.html" rel="nofollow"&gt;Complete Beer Calories&lt;/a&gt; which lists the calorie content of 250+ beers with calorie and ABV values.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>350</PostId>
+			<ParentPostId>324</ParentPostId>			<Tags>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T08:35:32.003</CreationDate>
+				<LastActivityDate>2014-01-27T08:35:32.003</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>130</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Considering that ethanol is the highest contributor to calorie count of a beer, and that the amount of remaining ingredients only vary to a degree, while variance in ethanol is very high, the odd modern beers with extreme extreme alcohol content will be the most calorical.&lt;/p&gt;
+
+					&lt;p&gt;It appears currently &lt;strong&gt;&lt;a href="http://www.ratebeer.com/beer/brewmeister-snake-venom/234626/" rel="nofollow"&gt;Brewmeister Snake Venom&lt;/a&gt;&lt;/strong&gt; is the top alcohol content beer, at 67,5%, with &lt;strong&gt;2025kcal&lt;/strong&gt; in 12 fl.oz serving. The alcohol content runners-up don't top that by means of excessive sugar levels, therefore we can safely assume this is the most calorical beer.&lt;/p&gt;
+
+					&lt;p&gt;Of course the competition in topping that is sharp, and we're soon to expect other beers with even more alcohol - and more calories as result.&lt;/p&gt;
+
+					&lt;p&gt;There is no plain visual criterion to what beer has most calories, but you can safely correlate stated alcohol content with that.&lt;/p&gt;
+
+					&lt;p&gt;...also note: Alcohol is empty calories - calories that are not absorbable - storable by human organism. A good mild caramel beer of 1.5% alc. content might be more fattening than the top alcohol content beers, simply because it contains more sugar.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>926</PostId>
+			<ParentPostId>924</ParentPostId>			<Tags>
+				<tag>stout</tag>
+				<tag>porter</tag>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-14T23:46:21.707</CreationDate>
+				<LastActivityDate>2014-07-14T23:46:21.707</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There is a table of amino acid composition in beers on page 105 of &lt;a href="http://img-srv.dtcbuilder.com/engine/builder/images/2/8/6/9/3/5/file/2.pdf" rel="nofollow noreferrer"&gt;Beer: Health and Nutrition (C. W. Bamforth, 2004)&lt;/a&gt; (page 119 of the overall PDF):&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/6qkdf.png" alt="enter image description here"&gt;&lt;/p&gt;
+
+					&lt;p&gt;Other than that, I cannot find any nutritional breakdowns that include vitamins for stouts (and porters, in general). However, as far as micronutrients are concerned, there may not be as great a difference between stouts and other ales as one might think, since, despite the &lt;em&gt;perceptibly&lt;/em&gt; large differences in color and taste, the ingredients and processes in brewing are largely the same. Here are some findings on beer in general:&lt;/p&gt;
+
+					&lt;p&gt;Querying &lt;a href="http://ndb.nal.usda.gov/ndb/foods?max=100&amp;amp;qlookup=alcohol" rel="nofollow noreferrer"&gt;alcohol on USDA's National Nutrient Database&lt;/a&gt; yields breakdowns for&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Alcoholic beverage, beer, light&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, regular, all&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, regular, BUDWEISER&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, light, BUDWEISER SELECT&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, light, BUD LIGHT&lt;/li&gt;
+					&lt;li&gt;Alcoholic beverage, beer, light, MICHELOB ULTRA&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Here's a screenshot, because the host doesn't always resolve for me for some reason:&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/i5jan.png" alt="Screenshot of USDA query."&gt;&lt;/p&gt;
+
+					&lt;p&gt;I'm willing to bet that &lt;a href="http://www.ucc.ie/en/ifcdb/accessthedatabase/" rel="nofollow noreferrer"&gt;The Irish Food Composition Database&lt;/a&gt; has a similar report on Guinness, but the document must be &lt;a href="http://sites.fastspring.com/eurofir/product/eurofirebookcollection_ireland" rel="nofollow noreferrer"&gt;purchased for 15.00€&lt;/a&gt; from &lt;a href="http://www.eurofir.org/?page_id=257" rel="nofollow noreferrer"&gt;EuroFIR&lt;/a&gt;. According to a table of contents viewable in &lt;a href="http://www.eurofir.org/wp-content/uploads/EuroFIR%20AISBL/e-books/EuroFIR_AISBL_ebook_Ireland_Demo.pdf" rel="nofollow noreferrer"&gt;the demo link&lt;/a&gt;, the document should contain compositions of 57 manufactured beverages.&lt;/p&gt;
+
+					&lt;p&gt;Perhaps you can infer some properties of Guinness by knowing its ingredients and process and also knowing how these ingredients and processes affect micronutrient levels.&lt;/p&gt;
+
+					&lt;p&gt;According to &lt;a href="http://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.1946.tb01573.x/pdf" rel="nofollow noreferrer"&gt;this paper&lt;/a&gt;&lt;sup&gt;1&lt;/sup&gt;, as far as major B vitamins are concerned,&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;beer contains very little thiamine (B&lt;sub&gt;1&lt;/sub&gt;), of which malting the barley causes a slight loss, but otherwise stays intact through the rest of the brewing operations,&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;riboflavin (B&lt;sub&gt;2&lt;/sub&gt;) increases during the malting and brewing processes, resulting in nutritionally significant amounts (&lt;em&gt;e.g.&lt;/em&gt; seven pints supplying total daily requirements),&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;nicotinic acid (niacin, B&lt;sub&gt;3&lt;/sub&gt;) fluctuates throughout the malting and brewing process, but also results in nutritionally significant amounts (&lt;em&gt;e.g.&lt;/em&gt; three-and-a-half to four pints supplying total daily requirements).&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;This &lt;a href="http://journals.cambridge.org/download.php?file=%2FBJN%2FBJN83_04%2FS0007114500000490a.pdf&amp;amp;code=d1547300812aec1791f4e05f6aebbcf2" rel="nofollow noreferrer"&gt;study&lt;/a&gt;&lt;sup&gt;2&lt;/sup&gt; measured phylloquinone (K&lt;sub&gt;1&lt;/sub&gt;) composition of beers, specifically a "bitter," a lager, and Guinness, and concluded only trace amounts in each.&lt;/p&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;sup&gt;1&lt;/sup&gt; Stringer, W. J. Vitamins in Beer. Journal of the Institute of Brewing. 2013.&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;sup&gt;2&lt;/sup&gt; Bolton-Smith, C. et al. Compilation of a provisional UK database for the phylloquinone (vitamin K&lt;sub&gt;1&lt;/sub&gt;) content of foods. British Journal of Nutrition. 2000.&lt;/sup&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>6797</PostId>
+			<ParentPostId>6794</ParentPostId>			<Tags>
+				<tag>craft-beers</tag>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-24T19:45:23.423</CreationDate>
+				<LastActivityDate>2017-04-24T19:45:23.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4903</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It would depend on the craft beer. Regular cheap beer is not a good comparison as you don't typically get the same style of beer. Craft rules are not the same everywhere.  Typical rules is water, hop, barley, and yeast.  A non craft can use other ingredients but that same 4 is going to be the bulk.  A craft tends to be denser so in the case it would have more nutrients.  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>6798</PostId>
+			<ParentPostId>6794</ParentPostId>			<Tags>
+				<tag>craft-beers</tag>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-24T20:41:57.563</CreationDate>
+				<LastActivityDate>2017-04-24T20:41:57.563</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;So... I guess it depends on what you're deeming nutritional &lt;strong&gt;&lt;em&gt;value&lt;/em&gt;&lt;/strong&gt;. Beer has 4 main ingredients:  &lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;Water&lt;/li&gt;
+					&lt;li&gt;Grain&lt;/li&gt;
+					&lt;li&gt;Yeast&lt;/li&gt;
+					&lt;li&gt;Hops&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;The biggest mineral difference is going to come from the water source of the brewery. Following the exact same formula recipe/mashing instructions/yeast used/fermentation conditions (temperature, altitude, fermentation vessel)/time/etcetera... you can get very different flavor beers if the water source is different. &lt;/p&gt;
+
+					&lt;p&gt;The next varying source of minerals would probably be in yeast. Unfortunately, I can only find &lt;a href="http://nutritiondata.self.com/facts/custom/1323569/2" rel="nofollow noreferrer"&gt;evidence of all brewing yeast lumped together&lt;/a&gt; at the moment. &lt;/p&gt;
+
+					&lt;p&gt;The interesting part in craft brewing, especially at the homebrew-mad-science level, becomes all of the additives that can be placed into beer. I once met a brewer that &lt;a href="https://byo.com/hops/item/569-dry-hopping-techniques" rel="nofollow noreferrer"&gt;dry-hopped&lt;/a&gt; smoked salmon bones (right they aren't hops but the same technique) in their secondary fermentation (or clarifying stage) chamber!&lt;/p&gt;
+
+					&lt;p&gt;These examples would be more "here is a random thing" that I found rather than being able to give you a definite answer as to "more nutrition" being provided than big-beer manufacturers. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

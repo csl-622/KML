@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>841</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Contributors>
+				<UserId>609</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-29T20:01:30.520</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I ran a search over on [RateBeer.com](http://www.ratebeer.com/search.php) for 'coriander' and got quite a few results. Unfortunately, hefeweizen doesn't show up as a searchable style on their advanced search, but you can probably scan the list of coriander beers quickly.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>842</PostId>
+			<ParentPostId>696</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-30T00:59:08.540</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes, shandy is great. I've never tried it fresh yet; I don't have any juice nor wheat beer at the moment, but when I get some I will give it a shot. I have a few bottles of Schofferhoffer Grapefruit Shandy left though. I tried it in Epcot while I was in Disney World a few months ago and I just had to get more
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>853</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Contributors>
+				<UserId>412</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-30T08:32:45.813</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@AvnerShahar-Kashtan Hey, that's interesting. I can search for "German Hefeweizen" as a type (the "Beer Style" dropdown), but do not see where I can enter the term "coriander"? Is there any textbox where I can enter a term/tag?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>854</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Contributors>
+				<UserId>609</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-30T08:34:21.950</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I just put it in as part of the name.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

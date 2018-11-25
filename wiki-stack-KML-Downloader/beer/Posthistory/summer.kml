@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>14561</PostId>
+			<ParentPostId>7456</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T14:29:07.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					With the weather deteriorating and temperatures dropping my thoughts drifted to mulled wine.  Traditionally a Christmas treat, but is it 'fashionable or OK' to drink it even in the summer, or will my dinner guests be appalled?
+
+					MULLED WINE BASIC RECIPE:
+					1 (750 ml) bottle of dry red wine.
+					1 orange, sliced into rounds.
+					8 whole cloves.
+					2 cinnamon sticks.
+					2 star anise.
+					2-4 tablespoons sugar
+					optional add-in: 1/4 cup brandy (or your favorite liqueur)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>14562</PostId>
+			<ParentPostId>7456</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T14:29:07.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is mulled wine just for Christmas?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>14563</PostId>
+			<ParentPostId>7456</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T14:29:07.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, summer, christmas, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>14564</PostId>
+			<ParentPostId>7456</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-26T14:36:07.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added 100 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					With the weather deteriorating and temperatures dropping my thoughts drifted to mulled wine.  Traditionally a Christmas treat, but is it 'fashionable or OK' to drink it even in the summer, or will my dinner guests be appalled?  Are there any Summer Mulled wine recipes, and if so do they use drastically different ingredients?
+
+					MULLED WINE BASIC RECIPE:
+					1 (750 ml) bottle of dry red wine.
+					1 orange, sliced into rounds.
+					8 whole cloves.
+					2 cinnamon sticks.
+					2 star anise.
+					2-4 tablespoons sugar
+					optional add-in: 1/4 cup brandy (or your favorite liqueur)
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

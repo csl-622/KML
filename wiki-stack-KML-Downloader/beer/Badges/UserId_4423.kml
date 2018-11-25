@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="4531"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-13T15:38:52.683</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4532"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-13T15:38:52.683</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4534"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-13T21:52:47.787</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4539"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-14T09:32:14.223</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4562"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-20T10:36:56.040</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4564"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-20T12:23:13.577</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4574"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-20T22:38:28.217</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4593"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Quorum"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-23T00:52:18.533</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4648"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2015-09-04T06:46:36.770</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6204"  UserId="4423" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-08-13T15:36:38.663</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

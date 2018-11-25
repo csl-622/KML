@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>5696</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-26T23:01:35.867</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question in it's current format isn't really a good fit for the Stack Exchange format. Broad suggestions are primarily opinion based, but the question could be re-worded to look for drinks that are most commonly drunk in the winter
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>5697</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-27T13:29:22.700</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Have you done a Google search. Lots of stuff comes up for “winter cocktail” like https://www.esquire.com/food-drink/drinks/gmp385/winter-cocktails/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5702</PostId>
+			<ParentPostId>7457</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-09-01T06:44:30.307</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I get where you are coming from, however simply googling it would mean that no one ever came to this site.  I will however try to re-word it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>5703</PostId>
+			<ParentPostId>7458</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-09-01T06:46:25.853</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I should have known that you would have come up with a brilliant answer!  Thank you, a very interesting read.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

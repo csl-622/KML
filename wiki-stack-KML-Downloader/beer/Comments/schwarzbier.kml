@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="8">
+			<PostId>251</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:51:07.967</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question appears to be off-topic because it is about Homebrewing, and should be moved to homebrew.stackexchange.com.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>252</PostId>
+			<ParentPostId>265</ParentPostId>
+			<Contributors>
+				<UserId>55</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:51:59.357</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@LessPop_MoreFizz I'm not aware of any legal designation or requirement, by those standards I'm sure it is all still seen as beer and I think what you said is right, adherence to the Reinheitsebot is purely a point of pride, but I do believe that is why they label their Blue label as they do (I'm citing the employee that gave the tour) I've edited my post to reflect that this is controversial and not in any way enforced.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>305</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T02:35:26.817</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					So, how can I get it moved? Still curious about this one.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>306</PostId>
+			<ParentPostId>317</ParentPostId>
+			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T04:03:15.810</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Perhaps there is someone privy to the information or it was featured on a "Behind the Brews" Discovery Channel show or the like.  I wouldn't be so quick to want to close it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>307</PostId>
+			<ParentPostId>317</ParentPostId>
+			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T04:08:21.153</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					(also, academic journals have case studies on such marketing strategies, so I'm assuming not every company keeps it so tightly under wraps)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>308</PostId>
+			<ParentPostId>311</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T04:10:25.927</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Solid post. Thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="1">
+			<PostId>309</PostId>
+			<ParentPostId>267</ParentPostId>
+			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T04:39:11.230</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks for the detailed take on the Maple Bacon beer! I am quite curious more on it than the fruit-flavored ones.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="2">
+			<PostId>310</PostId>
+			<ParentPostId>271</ParentPostId>
+			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T05:04:07.283</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is a nice list of categories, but it doesn't answer the "judging standards" part of the question. What, for example, makes porter A better than porter B?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>311</PostId>
+			<ParentPostId>267</ParentPostId>
+			<Contributors>
+				<UserId>117</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T05:21:56.170</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					BTW, Fenugreek is used as seed rather than herb form, which is why it is added during the boil phase.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>376</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T19:27:48.023</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think a moderator has to do it, since Homebrewing did not appear as a potential target site when I flagged this for moving. See [here](http://meta.stackexchange.com/questions/85017/moving-my-own-question-to-another-stackexchange-site). That said, I think it's fine if you just copy the question and post it as a new question on Homebrewing. You'll want to make sure your question hasn't already been answered on that site, but I did a quick check and didn't find anything.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>377</PostId>
+			<ParentPostId>356</ParentPostId>
+			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T21:35:10.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I know that small cartridges with CO2 exist but does not using of pure CO2 make the beer too fizzy? Maybe the beer becomes too fizzy only after some time (several days)? --- Are there similar cartridges with N2+CO2 mixture? In Czech Republic I have found only small CO2 cartridges and the smallest containers with a mixture like [Biogon NC 20](http://www.linde-gas.ru/en/applications/gases_for_food_industry/biogon_gas_mixtures/index.html) from Linde are 20 litre [gas cylinders](https://en.wikipedia.org/wiki/Gas_cylinder).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>378</PostId>
+			<ParentPostId>356</ParentPostId>
+			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T21:51:49.040</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I have found also [DrinkGAS](http://www.drinkgas.cz/lahvovane-plyny) in 10 litre gas cylinders. It is 99% N2 without declared CO2 but it is certainly better than air :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="1">
+			<PostId>379</PostId>
+			<ParentPostId>356</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T22:24:29.093</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The CO2 only makes the beer too fizzy if you use too much. Apart from stouts/IRAs that use beer gas (n2/co2 mix), almost all beers are carbonated with only CO2. Given you only need enough pressure to push the beer out of the keg rather than carbonate, you will never use so much to make the beer too fizzy.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="1">
+			<PostId>380</PostId>
+			<ParentPostId>332</ParentPostId>
+			<Contributors>
+				<UserId>224</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-27T23:24:29.847</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In addition to honest pints sold as 16oz in a 20oz glass, you'll frequently find beer sold as a "pint" that's actually more like 12oz served in a 14 or 16oz glass, often known as a "cheater pint".  See http://honestpintproject.info
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>381</PostId>
+			<ParentPostId>295</ParentPostId>
+			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-28T02:29:17.750</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I tried the stones the other night with little success.  6 rocks in a pint glass with a room-temperature stout.  It ended up barely cool, and nowhere near cold.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>4383</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-30T15:27:41.363</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Read a bit further than the first sentence and you'll find the difference (or its absence) between stouts, porters and schwarzbier.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>4384</PostId>
+			<ParentPostId>6491</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-30T16:03:32.160</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					[This guy][1] has a LOT of reviews on his YouTube channel. In America - I have found that top tier doesn't always mean "better." Price normally denotes a rarity (think limited release, 1500 bottles ever) time/effort in releasing. Pappy Van Winkle 23yr takes 23 years of care to make and they have to make ~50 gallons to yield 3... Oddly, it retails for ~$120 but you'll normally see it priced closer to $2000.
+
+					[1]: https://www.youtube.com/channel/UCp0k3OKqfkPW0HdRLA8JWZg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>4388</PostId>
+			<ParentPostId>6497</ParentPostId>
+			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-01-31T15:53:19.747</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Altbier - I read the wikis and other articles - I only *posted* the first sentences from each. Was looking for further substantial (and helpful, mind you) input... Also, while I already know the differences, I felt it'd be a good question to have up on the board for anyone who might be curious... At least 6 community members so far (possibly including yourself?) would agree with me.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

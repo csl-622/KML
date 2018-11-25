@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>57</PostId>
+			<ParentPostId>7</ParentPostId>
+			<Contributors>
+				<UserId>13</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:22:38.547</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					[The topicality of this question is being discussed on meta](http://meta.beer.stackexchange.com/questions/3/how-much-do-we-want-to-get-into-biology).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>58</PostId>
+			<ParentPostId>103</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:23:48.497</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This doesn't really answer the question at all.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="2">
+			<PostId>59</PostId>
+			<ParentPostId>27</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:25:50.977</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes, the word is nitrogenate.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>60</PostId>
+			<ParentPostId>103</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:38:22.943</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I edited my answer to try to respond to the question a bit more. But I think I am answering the question, just perhaps more pragmatically than you would like. The long and short is I don't know what qualities make a beer suitable for cellaring, so I don't cellar any beers unless the brewer has specifically told me to. And if they want you to, they will. And if they don't, it's probably because their beer will not improve with age. I think only some very special beers do.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>3868</PostId>
+			<ParentPostId>38</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-30T23:16:41.167</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Beer before liquor never been sicker.. liquor before beer your in the clear
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="5">
+			<PostId>5009</PostId>
+			<ParentPostId>6841</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-15T19:05:57.513</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't think anyone has done research on the type of inebriation but I have seen research on hangover types. Mythbusters did a comparison of beer vs. vodka hangovers years back. You should be able to find the video somewhere and it was night and day on the level of hangover. Vodka was much better. Alcohol is alcohol and while people may claim things like tequila makes you hallucinate or whatever, there is no scientific studies I've seen on the actual inebriation. It's pretty well known that the more "stuff" in your drink, the worse your hangover will be. Red wine has notoriously bad hangovers
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>5010</PostId>
+			<ParentPostId>6828</ParentPostId>
+			<Contributors>
+				<UserId>5816</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-16T00:42:16.727</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I wonder if mead, an alcholic beverage made from honey, was the strongest in antiquity. I believe it pre-dates beer and wine.  Alcoholic content is 8% - 20%.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>5015</PostId>
+			<ParentPostId>6841</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-05-20T23:39:58.507</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've been doing some searching myself and haven't turned much up either. I wonder if the beer/vodka comparison would hold up with whisky, and if there is a difference between quality of whiskies. Anecdotally, this would appear to be the case, but it'd be nice to see it quantified
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>5055</PostId>
+			<ParentPostId>6841</ParentPostId>
+			<Contributors>
+				<UserId>5160</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-06-06T20:52:17.130</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Interesting question.  I've heard that drinking rum (dark rum) can make certain people physically aggressive - what we'd call "punchy".  I suspect it's just the higher alcohol by volume amount though.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

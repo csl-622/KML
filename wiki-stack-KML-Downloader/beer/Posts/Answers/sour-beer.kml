@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>334</PostId>
+			<ParentPostId>333</ParentPostId>			<Tags>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-26T03:27:35.467</CreationDate>
+				<LastActivityDate>2014-01-26T03:27:35.467</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Sour malt (aka. acidulated malt, saurmalt) is a base malt that has been processed so that it contains lactic acid.&lt;/p&gt;
+
+					&lt;p&gt;The acid is useful in adjusting the pH of the &lt;a href="http://en.wikipedia.org/wiki/Mashing"&gt;mash&lt;/a&gt; during brewing. Typically brewers use a 1-10% with 2-5% being typical. &lt;/p&gt;
+
+					&lt;p&gt;The malt's existence is due to the &lt;a href="http://en.wikipedia.org/wiki/Reinheitsgebot"&gt;Reinheitsgebot&lt;/a&gt; - the German Beer Purity law. This forbids the use of any ingredients other than malt, hops, water and yeast - making the use of other additives to adjust mash pH illegal. Hence, saurmalt was developed as a way to allow brewers to adjust the mash pH while staying within the restrictions of the purity law.&lt;/p&gt;
+
+					&lt;p&gt;Nowadays, using a &lt;a href="http://byo.com/all-grain-brewing/item/1691-sour-mashing-techniques"&gt;sour mash&lt;/a&gt; goes way further than just correcting pH. It's used to define the sourness in some beers, such as Berliner Weisse, Lambics, Flemish Reds and Browns and Stouts. &lt;/p&gt;
+
+					&lt;p&gt;So, while you can't buy a beer made only with sour malt, there are plenty that have used it, or an equivalent souring technique to produce the sour notes in the beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>3493</PostId>
+			<ParentPostId>3491</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+				<tag>recommendations</tag>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-22T18:59:48.807</CreationDate>
+				<LastActivityDate>2015-07-22T18:59:48.807</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Effectively, yes.  A sour beer is what we'd consider to be a spoiled beer.  &lt;/p&gt;
+
+					&lt;p&gt;As a quick primer, "wort" is turned into "beer" when microbes convert the sugars in the liquid into alcohol, CO2, and ...other stuff.  Generally speaking, we use brewer's yeast (Saccharomyces Cerevisiae for ale or Sacc. Pastorianus for lager) because the other stuff tastes pretty nice, or at least doesn't taste bad.  Various strains of the same organism produce different byproducts, an example would be an English ale yeast which is well known for compounds that are kindof sweet or fruity vs Belgian ale yeasts which are well known for being peppery, clovy, or banana-y.  Those flavors all come from the yeast used for fermentation, but it's only ever a single strain of yeast, which was isolated in a lab.&lt;/p&gt;
+
+					&lt;p&gt;Sour beers are basically defined by not using a single isolated, clean-tasting strain of Saccharomyces.  The most common sour yeast used is in a genus called Brettanomyces, which depending on the specific species can produce flavors like...horse saddle, bandaid, cheese, cloves, and vinegar.  But most sour beers are not strictly brewed with yeasts like Sacc. or Brett. but also have bacteria in them.  Most commonly lactobacillus and pediococcus which are known for producing large amounts of lactic acid, which is where the sour really comes from.&lt;/p&gt;
+
+					&lt;p&gt;That's not to say sour beer brewers are being sloppy, because their "infections" aren't accidents.  They're deliberately trying to use less predictable and slow-acting organisms to create consistent beer.  That's tough.&lt;/p&gt;
+
+					&lt;p&gt;As to a suggestion?  I like Tart of Darkness by The Bruery.  Petrus is good stuff and Duchesse de Bourgogne is nice.  Occasionally it's nice to find a really tart Berlinerweisse and mix it with a fruit syrup and Gose can be incredible paired with cheese.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>3495</PostId>
+			<ParentPostId>3491</ParentPostId>			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+				<tag>recommendations</tag>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-22T20:21:50.240</CreationDate>
+				<LastEditDate>2015-07-25T15:12:17.017</LastEditDate>
+				<LastActivityDate>2015-07-25T15:12:17.017</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4338</OwnerUserId>
+				<LastEditorUserId>4338</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Sourness may have been, in a higher or lower level, a common characteristic of beers centuries ago, specially after some time of storage, once the common vessel to keep it was wooden barrels, and wood often harbor a lot of microorganisms, including bacteria and wild yeast, the former being responsible for souring the beer. After the Industrial Revolution, with more hygiene and sterile tools, that characteristic became more and more uncommon, and at some point, undesirable. So, meanwhile, yeast was "discovered", isolated, and fermentation controlled so that we had a clean taste profile, free from acids at all, which is what you know as beer nowadays.&lt;/p&gt;
+
+					&lt;p&gt;Don't be fooled: &lt;strong&gt;what really sours a beer are bacteria, not &lt;em&gt;Brettanomyces&lt;/em&gt;&lt;/strong&gt;. The later, also known as 'wild yeast', are usually found in sour beers as well, but are responsible for other aromas and flavors (barnyard and horse saddle being the most recognizable). (&lt;em&gt;Brett&lt;/em&gt; actually produces a tiny amount of acid, no more than that).&lt;/p&gt;
+
+					&lt;p&gt;Some Belgians have been intentionally making sour beers for centuries, through spontaneous fermentation process (in the case of &lt;em&gt;lambics&lt;/em&gt;) and wood-aging (in large oak vats) after "clean" fermentation (in the case of &lt;em&gt;flanders reds&lt;/em&gt;). Germans did it too, but their two traditional sour styles (&lt;em&gt;gose&lt;/em&gt; and &lt;em&gt;berliner weisse&lt;/em&gt;) are almost dead there, and differ from the belgians ones on the absence of &lt;em&gt;brett&lt;/em&gt; character.&lt;/p&gt;
+
+					&lt;p&gt;Nonetheless, nowadays people comprehend a lot better how those processes occur, and are doing sours again on purpose and manipulating those organisms in many ways. Basically, souring bacteria used are &lt;em&gt;pediococcus&lt;/em&gt; and &lt;em&gt;lactobacillus&lt;/em&gt; (not very different from &lt;em&gt;lambics&lt;/em&gt;, actually). Most of the time, barrels are still used in the process, because of the micro-aeration those microorganisms need. And, off course, for keeping the microflora inside it, etc, etc, not to mention the flavor complexity that comes from wood compounds itself.&lt;/p&gt;
+
+					&lt;p&gt;A contaminated beer may end up being a sour. Well, so what distinguish a spoiled beer from a sour? Nothing actually, except that when people intentionally want to produce a sour, they do that with some more control in order to get the outcome they want and not some weird aleatory taste at the end. But, at some level, producing a sour beer, specially when using barrels, is always unpredictable too.&lt;/p&gt;
+
+					&lt;p&gt;As you can see, it's a rich and complex topic, probably the most exciting one about brewing.&lt;/p&gt;
+
+					&lt;p&gt;As suggestions, I definitely encourage you to taste the classic ones, belgian lambics (any &lt;em&gt;Gueuze&lt;/em&gt; you find) and flanders reds (have you ever heard about &lt;em&gt;Rodenbach&lt;/em&gt; and &lt;em&gt;Duchesse de Bourgogne&lt;/em&gt;? they're amazing). I love &lt;em&gt;Petrus Aged Pale&lt;/em&gt; too.&lt;/p&gt;
+
+					&lt;p&gt;And, if you are from US, then you are bloody blessed, because american craft brewers are doing sour/wild beers like there were no tomorrow. =P Look for &lt;em&gt;Allagash&lt;/em&gt;, &lt;em&gt;Russian River&lt;/em&gt;, &lt;em&gt;Lost Abbey&lt;/em&gt;, &lt;em&gt;The Bruery&lt;/em&gt;, &lt;em&gt;Avery&lt;/em&gt;, &lt;em&gt;Boulevard&lt;/em&gt;, &lt;em&gt;Almanac&lt;/em&gt;, &lt;em&gt;Deschutes&lt;/em&gt;. The list is infinite. The thing is getting so serious that in the last years, all-sour breweries are popping up, like &lt;em&gt;Rare Barrel&lt;/em&gt; from Berkeley.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>6310</PostId>
+			<ParentPostId>6306</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>brewing</tag>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-09-25T16:07:12.730</CreationDate>
+				<LastActivityDate>2016-09-25T16:07:12.730</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5847</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;From the &lt;a href="https://en.wikipedia.org/wiki/Sour_beer" rel="nofollow"&gt;Wiki page on Sour Beer&lt;/a&gt;:&lt;/p&gt;
+
+					&lt;p&gt;"[S]our beers are made by intentionally allowing wild yeast strains or bacteria into the brew. Traditionally, Belgian brewers allowed wild yeast to enter the brew naturally through the barrels or during the cooling of the wort in a coolship open to the outside air – an unpredictable process that many modern brewers avoid.&lt;/p&gt;
+
+					&lt;p&gt;The most common agents used to intentionally sour beer are Lactobacillus, Brettanomyces, and Pediococcus. Another method for achieving a tart flavor is adding fruit during the aging process to spur a secondary fermentation or contribute microbes present on the fruit's skin."&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>6312</PostId>
+			<ParentPostId>6306</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>brewing</tag>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-09-27T07:36:10.510</CreationDate>
+				<LastActivityDate>2016-09-27T07:36:10.510</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5958</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Try to see if this site you can find all the info you need
+					&lt;a href="https://www.homebrewersassociation.org/how-to-brew/6-tips-brew-sour-beers-mad-fermentationist/" rel="nofollow"&gt;6 Tips on How to Brew Sour Beers&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

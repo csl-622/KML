@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>485</PostId>
+			<Title>
+			"Why is it important to have foam on a beer?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>24</Score>
+				<ViewCount>28362</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-01T09:08:20.187</CreationDate>
+				<LastActivityDate>2017-02-23T13:00:36.153</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've seen people complain when served a beer without foam. Equally, getting a glass full of foam is no use.&lt;/p&gt;
+
+					&lt;p&gt;When serving a beer, how much is the right amount of foam and why is this important?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>488</PostId>
+			<AcceptedAnswerId>491</AcceptedAnswerId>
+			<Title>
+			"What determines how much foam a beer produces when it is poured?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>ingredients</tag>
+				<tag>pouring</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>513</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-01T19:06:17.957</CreationDate>
+				<LastActivityDate>2014-02-01T20:38:45.047</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>53</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Different beers and different types of storage result in different amounts of foam being produced when the beer is poured, from almost none at all to a glass full of foam.&lt;/p&gt;
+
+					&lt;p&gt;What factors, both in terms of ingredients/type of beer and storage, affect how much foam will be produced? And, as a bonus question, how do I avoid excessive amounts of foam when pouring?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>728</PostId>
+			<AcceptedAnswerId>729</AcceptedAnswerId>
+			<Title>
+			"Giving beer a decent head and why people like it?"
+			</Title>
+			<Tags>
+				<tag>head</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>2110</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-12T11:37:50.580</CreationDate>
+				<LastActivityDate>2018-05-22T22:49:31.960</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>765</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I love beer, but when I pour myself one, I try not to make it foam too much, I personally don't like the 'head' of a beer (Don't really know how to say it). My dad drinks beer religiously and demands a head when ever I pour one for him. A few (Most of my friends) aren't keen on having a head, but some love it.&lt;/p&gt;
+
+					&lt;p&gt;Obviously this is personal preference, but is beer normally supposed to have a head? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>744</PostId>
+			<Title>
+			"How do you tame a 'foamy' keg?"
+			</Title>
+			<Tags>
+				<tag>foam</tag>
+				<tag>keg</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>84075</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-22T04:33:55.403</CreationDate>
+				<LastActivityDate>2015-11-04T08:58:02.763</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>801</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Have a kegerator home built system for 1/2 barrel beer in the garage. Recently had a keg of beer that was foamy no matter what we tried to do. Served it low temp, 37 degrews, and almost no CO2 pressure. Tried serving warmer, with more pressure, still tons of foam.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>745</PostId>
+			<Title>
+			"Decreasing foam in over-carbonated beer"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>carbonation</tag>
+				<tag>foam</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>165</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-23T04:11:46.830</CreationDate>
+				<LastEditDate>2014-04-24T13:16:50.103</LastEditDate>
+				<LastActivityDate>2014-04-24T13:16:50.103</LastActivityDate>
+				<ClosedDate>2014-04-26T04:45:23.780</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>401</OwnerUserId>
+				<LastEditorUserId>401</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have some homebrew that is really over-carbonated (before i learned about &lt;a href="https://www.google.com/search?q=priming%20sugar%20calculators" rel="nofollow"&gt;priming sugar calculators&lt;/a&gt;). Consequently, i have to pour it into two pint glasses to contain all the foam, and wait 5-10 minutes for the foam to settle out enough to actually drink it. The bottles are well-chilled first.&lt;/p&gt;
+
+					&lt;p&gt;Is there something i can do when pouring it to &lt;em&gt;reduce&lt;/em&gt; the head? I know some amount of head is desirable, but this is over the top (literally). &lt;/p&gt;
+
+					&lt;p&gt;[Edit] I get this much foam despite pouring very slowly and carefully down the side of the glass.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>2160</PostId>
+			<Title>
+			"was working great, now all foam"
+			</Title>
+			<Tags>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>336</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-31T00:17:05.770</CreationDate>
+				<LastActivityDate>2014-12-31T21:14:11.187</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2633</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm a beer keg newbie. I'm on my third keg and i am still having problems. I tapped the keg on Christmas Day after leaving it for 24 hours. Temp is 39, pressure is 12 running a 5ft line. It poured great for the first day, with the occasional foamy pull. The next day we noticed the keg was leaking from the coupler. I cleaned it up reconnected the coupler and had little pressure. I added an o ring and let it sit. The pressure came back and it doesn't leak, but every pull is 90% foam. I let it sit for another day, dropping the pressure to 10 and releasing the pressure value on the coupler. Still foam...what gives...it was working well.
+					Can anyone give me some suggestions. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>5213</PostId>
+			<Title>
+			"What is a comparable beer to Weihenstephaner Hefeweissbier?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>brewing</tag>
+				<tag>recommendations</tag>
+				<tag>german-beers</tag>
+				<tag>foam</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>618</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-07-23T01:46:52.637</CreationDate>
+				<LastActivityDate>2016-08-24T12:38:59.863</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5691</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am trying to think of what US brewed beer tastes most similar to a Weihenstephaner Hefeweissbier...&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

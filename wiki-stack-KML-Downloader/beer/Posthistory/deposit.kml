@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>8598</PostId>
+			<ParentPostId>4799</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-02T16:10:39.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the residue some in bottled (special) beers. Is it true that it can cause flatulence?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>8599</PostId>
+			<ParentPostId>4799</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-02T16:10:39.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Deposit on bottom bottle
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>8600</PostId>
+			<ParentPostId>4799</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-02T16:10:39.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					deposit, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Title" >
+			<PostId>8607</PostId>
+			<ParentPostId>4799</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-02T23:18:03.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Deposit on bottom beer bottle
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

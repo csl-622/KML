@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>536</PostId>
+			<Title>
+			"Beer containing electrolytes"
+			</Title>
+			<Tags>
+				<tag>additives</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>790</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-05T01:26:01.023</CreationDate>
+				<LastActivityDate>2014-02-05T05:40:25.300</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I love drinking beer after a run. It's also good to drink electrolytes after a run. &lt;/p&gt;
+
+					&lt;p&gt;Is it possible to add electrolytes to beer? How would you do it?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>702</PostId>
+			<AcceptedAnswerId>893</AcceptedAnswerId>
+			<Title>
+			"Why is it a Ginger "Beer" and not a Ginger "Cider"?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>flavor</tag>
+				<tag>terminology</tag>
+				<tag>additives</tag>
+			</Tags>
+			<Credit> 
+				<Score>18</Score>
+				<ViewCount>6878</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-01T09:51:29.510</CreationDate>
+				<LastEditDate>2016-07-28T14:48:24.563</LastEditDate>
+				<LastActivityDate>2016-07-28T14:48:24.563</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>723</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It seems that &lt;em&gt;Ginger Beer&lt;/em&gt; has no barley, no hops, no wort, no malted anything; so why is it a "beer"?  Seems like it is closer to a cider.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>5042</PostId>
+			<Title>
+			"How can I determine whether infused spirits contain sugar (before buying)?"
+			</Title>
+			<Tags>
+				<tag>additives</tag>
+				<tag>liquor</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>326</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-05-27T15:00:04.323</CreationDate>
+				<LastEditDate>2016-05-29T02:29:12.323</LastEditDate>
+				<LastActivityDate>2016-05-29T02:29:12.323</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5486</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm sick of buying infused spirits (usually advertised in the U.S. as flavored vodkas) and discovering that they have added sugar (and often, apparently, glycerin).&lt;/p&gt;
+
+					&lt;p&gt;I have scoured labels and asked in stores and never found any way of determining whether a liquor is a pure distillate or whether it has substantial additives (other than water and flavor).&lt;/p&gt;
+
+					&lt;p&gt;In the U.S. is there any way to determine this before acquiring a particular bottle?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

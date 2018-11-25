@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>143</PostId>
+			<ParentPostId>141</ParentPostId>			<Tags>
+				<tag>garnish</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T04:00:55.570</CreationDate>
+				<LastActivityDate>2014-01-22T04:00:55.570</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I would say it's the light body, low maltiness and low bitterness that make it amenable to citrus additions (and perhaps other additions.)&lt;/p&gt;
+
+					&lt;p&gt;The low flavor and bitterness means:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;if you choose to add something, you need only a little of it before you can taste/smell the addition&lt;/li&gt;
+					&lt;li&gt;there's less "interference" from the flavors of the beer so the addition tastes cleaner&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Contrast with adding citrus to a Czech Pils for example. You'd have to add much more juice - the bitterness and malt backbone of the beer would compete with the citrus additions. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>961</PostId>
+			<ParentPostId>960</ParentPostId>			<Tags>
+				<tag>garnish</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-31T15:31:54.137</CreationDate>
+				<LastActivityDate>2014-07-31T15:31:54.137</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1104</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;For me, I usually just ask for "no fruit" or "no orange/lime/garnish" and it has always seemed to work. Sometimes I will say "straight up" though I do still get the garnish on occasion I've come to find. I am not sure if this was because the bartender was busy and forgot or if there was some other reason, but I just tend to not say this as much anymore. I've never felt pretentious when I ask, I feel like I am just asking for a beer as is because I just happen to not want the garnish in it. Just be polite about ordering it and I am sure you won't come across as pretentious.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>7288</PostId>
+			<ParentPostId>141</ParentPostId>			<Tags>
+				<tag>garnish</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-15T12:29:19.973</CreationDate>
+				<LastActivityDate>2018-05-15T12:29:19.973</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7702</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Don't think it's a marketing trick. Imagine all the costs to get the lemon slices out of the bottles.&lt;/p&gt;
+
+					&lt;p&gt;Lemon in general goes very good with beer. In Germany (not only there) a mixture of beer and lemonade is very common and famous (called Radler or Alsterwasser).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

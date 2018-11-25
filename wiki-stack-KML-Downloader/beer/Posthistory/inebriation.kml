@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>17</PostId>
+			<ParentPostId>7</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:34:59.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Assuming we're comparing equivalent amounts of alcohol, do certain beers get you inebriated quicker or slower? Does the amount of fizz make a difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>18</PostId>
+			<ParentPostId>7</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:34:59.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Will certain types of beer get me drunker quicker?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>19</PostId>
+			<ParentPostId>7</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:34:59.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					inebriation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>61</PostId>
+			<ParentPostId>7</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:52:27.393</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<EditDetails>
+				Grammar tweaks
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Assuming we're comparing equivalent amounts of alcohol, do certain beers get you inebriated more quickly or slowly? Does the amount of fizz make a difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Title" >
+			<PostId>62</PostId>
+			<ParentPostId>7</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:52:27.393</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<EditDetails>
+				Grammar tweaks
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Will certain types of beer get me drunker more quickly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>63</PostId>
+			<ParentPostId>7</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:52:27.393</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 20 approved by 2 edit id of 1
+			</EditDetails>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Title" >
+			<PostId>88</PostId>
+			<ParentPostId>7</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:00:05.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>34</UserId>
+			</Contributors>
+			<EditDetails>
+				Title Grammer
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Will certain types of beer get me more drunk more quickly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>89</PostId>
+			<ParentPostId>7</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:00:05.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 34 approved by 7 edit id of 3
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>105</PostId>
+			<ParentPostId>38</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:04:44.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					As the well known rhyme reminds us, drinking beer after wine is a bad idea. Having made the mistake during my student years more than once and regretting it, why is it that consuming these two beverages in the wrong order causes such effects?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>106</PostId>
+			<ParentPostId>38</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:04:44.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is drinking beer after wine a bad idea?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>107</PostId>
+			<ParentPostId>38</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:04:44.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					inebriation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>399</PostId>
+			<ParentPostId>155</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T04:56:25.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Often with spirits people say that different spirits have different effects, eg bourbon makes people angry or trouble making, gin makes people emotional, tequilla makes people crazy, etc. 
+
+					Though this might be just psychological. 
+
+					Is there anything similar with beer? 
+
+					Do some beers suit socialising more while others suit a quiet drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>400</PostId>
+			<ParentPostId>155</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T04:56:25.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do different beers have a different 'buzz'?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>401</PostId>
+			<ParentPostId>155</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T04:56:25.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					inebriation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>9094</PostId>
+			<ParentPostId>38</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-01T01:27:56.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/726583901917962240
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>12759</PostId>
+			<ParentPostId>6841</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-15T15:39:39.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The question is:
+
+					 - What are the qualitative and quantitative differences between inebriation caused by liquor wine and beer?
+
+					Anecdotal evidence suggests to me that the core difference between the three is that beer contains hops, while liquor/wine doesn't, and so beer tends to have a depressive + dis-inhibition effect, while liquor and wine provide the dis-inhibition effect without being an explicit depressant.
+
+					I wonder, though, has this ever been studied and concluded on? Are the differences that I mentioned above accurate? Are there any other differences?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>12760</PostId>
+			<ParentPostId>6841</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-15T15:39:39.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a difference between the inebriation caused by liquor/wine/beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>12761</PostId>
+			<ParentPostId>6841</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-15T15:39:39.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					inebriation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>13092</PostId>
+			<ParentPostId>6841</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-28T11:17:06.473</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/890893874075455488
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Unknown" >
+			<PostId>14570</PostId>
+			<ParentPostId>155</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-27T12:01:57.250</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1034048367142289409
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

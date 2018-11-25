@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Votes">
+		<Instance Id="1"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2017-08-04T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2017-08-11T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2017-09-04T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4"  InstanceType= "Favorite">
+			<TimeStamp>
+				<CreationDate>2017-09-04T00:00:00.000</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<UserId>7076</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id="5"  InstanceType= "BountyStart">
+			<TimeStamp>
+				<CreationDate>2017-09-04T00:00:00.000</CreationDate>
+			</TimeStamp>
+			<Credit>
+				<BountyAmount>100</BountyAmount>
+			</Credit>
+			<Contributors>
+				<UserId>7076</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id="6"  InstanceType= "DownMod">
+			<TimeStamp>
+				<CreationDate>2017-09-05T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7"  InstanceType= "BountyClose">
+			<TimeStamp>
+				<CreationDate>2017-09-13T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8"  InstanceType= "Favorite">
+			<TimeStamp>
+				<CreationDate>2018-01-31T00:00:00.000</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<UserId>7548</UserId>
+			</Contributors>
+		</Instance>
+	</KnowledgeData>
+</KML>

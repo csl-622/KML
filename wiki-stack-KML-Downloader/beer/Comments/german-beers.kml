@@ -1,0 +1,768 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>446</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-29T21:33:03.600</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Shouldn't the appropriate tag be GERMANY rather than GERMAN?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>447</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-29T21:36:14.190</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Err, maybe.  Good question.  "Germany" seems weird, since it's a question about german beer.  How about german-beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>448</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-29T21:36:36.397</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Once someone gets mod permissions, we can probably set up a tag synonym.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>449</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-29T21:37:29.760</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Well I asked because there is already a POLAND tag, rather than a POLISH tag.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>450</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-29T21:38:22.753</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					And as you can see, I have added BREWING and LAWS. I think they are relevant too.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>452</PostId>
+			<ParentPostId>434</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-29T21:46:12.427</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A Pilsner style or other light blond beer makes an excellent aperitif. I really stimulates the appetite. And it does not spoil your taste as other sweeter aperitifs do.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>453</PostId>
+			<ParentPostId>425</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-29T22:14:37.770</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Joggers usually drink when they have finished jogging. Not before! And those drinkers who jog do it usually before drinking.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="1">
+			<PostId>454</PostId>
+			<ParentPostId>437</ParentPostId>
+			<Contributors>
+				<UserId>288</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-30T00:41:53.780</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I would add that you *must* use bottles that are designed to take the pressure (which can be more than exists in the finished product) if you do this. Growlers are not designed to do so and may explode.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="2">
+			<PostId>455</PostId>
+			<ParentPostId>419</ParentPostId>
+			<Contributors>
+				<UserId>288</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-30T00:44:28.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					http://skeptics.stackexchange.com/questions/10853/is-a-beer-belly-caused-by-drinking-beer has another perspective.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>874</PostId>
+			<ParentPostId>716</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-09T18:00:45.330</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There may be 2 separate questions here, one about Frankfurt and the other about the nature of cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="1">
+			<PostId>875</PostId>
+			<ParentPostId>722</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-10T17:04:24.253</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not necessarily. There are many styles of beer brewed by the Trappists. The tripels would have candi sugar, but lower gravity ones may not. The various styles use several kinds of malt, but so do most British ales, American micro-brews, etc.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="3">
+			<PostId>876</PostId>
+			<ParentPostId>721</ParentPostId>
+			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-10T19:08:17.353</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think you're right about cider requiring some apple product.  Aren't ales, versus other beer styles, classified by the [type of yeast](http://beer.stackexchange.com/questions/8/what-is-the-difference-between-an-ale-and-a-lager) used?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>878</PostId>
+			<ParentPostId>711</ParentPostId>
+			<Contributors>
+				<UserId>662</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-10T20:46:49.810</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I wouldn't say Rochefort is similar to Westvleteren. In my opinion it tastes completely different. Good beer though!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="1">
+			<PostId>879</PostId>
+			<ParentPostId>721</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-11T03:00:59.923</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@rickhg12hs Cider does not actually require apples.  Take, for instance, pear cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>881</PostId>
+			<ParentPostId>721</ParentPostId>
+			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-11T05:50:02.303</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Xander  Good point ... There are some quite tasty ones as well.  There does seem to be a fair amount of controversy about the name ["pear cider"](http://en.m.wikipedia.org/wiki/Perry) though.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="1">
+			<PostId>882</PostId>
+			<ParentPostId>721</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-11T12:51:50.657</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@rickhg12hs Interesting!  I hadn't realized there was a controversy over the name.  Thanks for the link.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="2">
+			<PostId>2144</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-10-16T05:31:23.173</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Just my two pennies worth, but becks is my fav beer and since moving to usa I have struggled to find something like it coz its hard to find here, but I did try sam adams boston lager and hated it! I'm still hunting lol.....
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>2159</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Contributors>
+				<UserId>1454</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-11-05T09:09:17.907</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Löwenbräu is very similar, you can call to see if it's available in your area (united states) 1-800-DIAL BUD according to wikipedia, they use the same recipe as beck's and unlike beck's it's still imported from Germany.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="0">
+			<PostId>2160</PostId>
+			<ParentPostId>638</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-11-05T14:59:21.140</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Intended to be eaten with seafood? Stout is, generally, not a style that I'd eat with seafood.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="1">
+			<PostId>2161</PostId>
+			<ParentPostId>890</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-11-05T17:33:51.533</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@mchid Don't confuse skunky with sulfur-y.  It's been pretty well proven that UV light will cause alpha acids from hops in beer to break down and smell like a skunk: http://www.popsci.com/science/article/2013-01/beersci-why-you-should-never-drink-beer-clear-glass-bottle
+					Some lager beer will have a sulphur-y smell.  The aging process is supposed to clear this up, but if it's cut short intentionally or otherwise the smell will linger.  Some styles or brewers prefer this.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="1">
+			<PostId>2162</PostId>
+			<ParentPostId>890</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-11-05T17:39:58.823</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@mchid additionally, there's an odd amount of effort gone into some of these imports to make them taste "off", like they did when originally imported pre-prohibition.  While preservation techniques have improved, the desire for traditional taste came along with it, causing brewers to specifically introduce what they originally considered flaws.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="5">
+			<PostId>2163</PostId>
+			<ParentPostId>1068</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-11-05T17:44:30.350</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Additionally:  Lots of dry (rather than sweet) beers are fairly low calorie.  Guinness as an example only has 125 calories per 12 ounce serving, which is barely more than Bud Light.
+
+					Also session beers which are low in alcohol will also have fewer calories than their more boozy compatriots.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>3265</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-26T13:48:52.077</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@ApexAssassin Totally uncalled for.  Lager is great.  Ale is great.  IPA is great.  Stout is great.  Beer is great.  Drink beer, be great, don't hate.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>3270</PostId>
+			<ParentPostId>1105</ParentPostId>
+			<Contributors>
+				<UserId>1454</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-27T03:06:41.190</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					They do share some of the same flavor. I remember doing the same thing going from Heineken to Lowenbrau years ago but they no longer make that brew.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>3271</PostId>
+			<ParentPostId>1088</ParentPostId>
+			<Contributors>
+				<UserId>3721</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-27T04:34:48.500</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Perhaps another question, but "why" the state made such a restrictive regulation is perplexing to me. Especially considering there is a liquor store on every corner in Denver and throughout Colorado as a whole.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="0">
+			<PostId>3272</PostId>
+			<ParentPostId>3217</ParentPostId>
+			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-27T06:30:53.480</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you for replying!  For $1 a pint it's hard to not like Beck's, but I swear there is a taste in it that reminds me of the new Miller High Life, PBR, etc... a taste I attribute to inferior/cheaper grains like rice or millet.  I could be completely wrong, I'm just an amateur beer brewer and pro drinker... but i admit freely that strong hops have wrecked my palate for mild beers.
+
+					Thanks again!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="0">
+			<PostId>3273</PostId>
+			<ParentPostId>3234</ParentPostId>
+			<Contributors>
+				<UserId>3722</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-29T05:13:21.113</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					sounds tasty,, too bad i don't eat pork..
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>3274</PostId>
+			<ParentPostId>3233</ParentPostId>
+			<Contributors>
+				<UserId>3722</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-29T05:44:44.630</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					i heard pivovar podkováň cLosed down,,
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="0">
+			<PostId>3275</PostId>
+			<ParentPostId>1035</ParentPostId>
+			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-29T07:58:33.583</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is nice. I know it's quite obvious, but I just want to confirm if the temperature indicated is in Fahrenheit.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="1">
+			<PostId>3276</PostId>
+			<ParentPostId>1035</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-29T14:58:03.523</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes, the temperatures are in Fahrenheit
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>3277</PostId>
+			<ParentPostId>3234</ParentPostId>
+			<Contributors>
+				<UserId>2608</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-29T15:48:50.390</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think a barbecue beef brisket and a pale ale would also be a very nice pairing :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="1">
+			<PostId>3300</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-02-17T01:23:44.213</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Check out grepbeer.com - This site was put together to answer questions just like this. "If I like beer X, what other beers might I like?" Put "Becks" into the beer search dialog and see what it comes up with - you'll find answers very similar to what's already been posted here... The site is free and has no registration, just like Beer Stack Exchange. (The site works better with a laptop/desktop. Click the "About" button to learn how to use the site.)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="0">
+			<PostId>3301</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-02-17T18:15:09.953</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Steve - Interesting, thanks!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="0">
+			<PostId>3674</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-13T09:36:52.767</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Where did you get that information? On their website (http://www.warsteiner.de/reinheitsgebot/), it says: „Die Warsteiner Brauerei legt seit ihrem Bestehen, mittlerweile also über 260 Jahre, größten Wert auf die Einhaltung des deutschen Reinheitsgebots, dessen Ursprungsversion als bayrisches Reinheitsgebot seit 1516 Bestand hat.“ Short version: They have always been adhering to the reinheitsgebot.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35"  InstanceType= "comments" Score="0">
+			<PostId>3675</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-13T09:41:20.347</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Philipp I was wondering why it is called "Premium Verum" and a friend told me, that they are not allowed to call it a *Pilsner* and therefore called it a "Premium Verum"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36"  InstanceType= "comments" Score="0">
+			<PostId>3676</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-13T09:46:38.243</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I’m not sure about what has to be fulfilled to be allowed to call a beer a pilsner.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="37"  InstanceType= "comments" Score="0">
+			<PostId>3678</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-13T11:52:40.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					They called it "Premium Pilsner" earlier.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="38"  InstanceType= "comments" Score="0">
+			<PostId>3682</PostId>
+			<ParentPostId>4772</ParentPostId>
+			<Contributors>
+				<UserId>4691</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-14T21:57:47.823</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					BadWolf brewing in Manassas Virginia has a jalapeño IPA.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="39"  InstanceType= "comments" Score="0">
+			<PostId>3684</PostId>
+			<ParentPostId>4772</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-14T22:13:52.497</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If you can find a label online, by all means feel free to post a separate answer :-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="40"  InstanceType= "comments" Score="2">
+			<PostId>3685</PostId>
+			<ParentPostId>4775</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-15T08:40:57.360</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If the beer is fresh it is bitter and refreshing. Considering that it is a classic example of style (BJCP 2008) I doubt that they use less hops. http://www.bjcp.org/2008styles/style02.php#1a
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="41"  InstanceType= "comments" Score="0">
+			<PostId>3688</PostId>
+			<ParentPostId>433</ParentPostId>
+			<Contributors>
+				<UserId>984</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-15T09:24:29.003</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I personally find that beer lasts a LOT longer if a lot of toxic ingredients are added. :p
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="42"  InstanceType= "comments" Score="0">
+			<PostId>3689</PostId>
+			<ParentPostId>4772</ParentPostId>
+			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-15T20:24:28.100</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Country Boy has a jalapeño porter
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="43"  InstanceType= "comments" Score="0">
+			<PostId>3997</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Contributors>
+				<UserId>5457</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-14T18:33:21.137</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are you mixing the vodka with anything?  Beer brewed per the purity law is all malt and the remaining sugars are maltose.  Maltose contains no fructose but sugar and corn syrup do.  Fructose has to be processed by the liver and maltose doesn't.  It's a bit of a one-two punch on the liver when you drink sugary mixed drinks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="44"  InstanceType= "comments" Score="1">
+			<PostId>3998</PostId>
+			<ParentPostId>5090</ParentPostId>
+			<Contributors>
+				<UserId>5483</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-14T20:15:28.427</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Good thing they didn't put Octomore on that chart, they'd run out of space.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="45"  InstanceType= "comments" Score="0">
+			<PostId>3999</PostId>
+			<ParentPostId>531</ParentPostId>
+			<Contributors>
+				<UserId>5559</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-14T20:21:31.077</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					this. "the feeling of the container you drink from, your taste is altered" - pour it into a glass, and it all makes no difference any more.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="46"  InstanceType= "comments" Score="0">
+			<PostId>4000</PostId>
+			<ParentPostId>5100</ParentPostId>
+			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-15T07:07:14.230</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you this really explains it nicely an i now have a handy list to go against so i know if my beer should be cold or warm
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="47"  InstanceType= "comments" Score="0">
+			<PostId>4001</PostId>
+			<ParentPostId>5098</ParentPostId>
+			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-15T07:09:44.240</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I was focusing on beer in this question but thanks for the information
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="48"  InstanceType= "comments" Score="0">
+			<PostId>4008</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-06-17T06:14:52.633</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I mix the vodka often with sprite but the volume remains the same. I wrote the ml there without sprite. I watched this phenomenon about 5 times now.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="49"  InstanceType= "comments" Score="0">
+			<PostId>4141</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-30T16:54:04.643</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hardship, I know, having to "settle" for other German beers. :-)  But I'm wondering if I still have a chance to sample something new.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="50"  InstanceType= "comments" Score="0">
+			<PostId>4142</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-30T19:53:36.503</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					1. What do you mean saying "Oktoberfest beers"? 2. There is more than one Oktoberfest in Germany (surely the one in Munich in THE Oktoberfest).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="51"  InstanceType= "comments" Score="0">
+			<PostId>4143</PostId>
+			<ParentPostId>6265</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-30T19:56:15.953</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Here in the US in the fall, beers labelled "Oktoberfest" become available.  I'm assuming that they are tied to the event in Germany.  I asked specifically about Munich because that's where I'm going to be.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,779 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>22</PostId>
+			<AcceptedAnswerId>26</AcceptedAnswerId>
+			<Title>
+			"Do different beer glass shapes really make a difference in taste?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>taste</tag>
+				<tag>aroma</tag>
+			</Tags>
+			<Credit> 
+				<Score>65</Score>
+				<ViewCount>4610</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:50:01.620</CreationDate>
+				<LastActivityDate>2018-06-06T08:48:59.710</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>29</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I understand the basic distinction for wine glasses: red wine glasses are shaped to help keep some of the aroma inside the glass, whereas whites don't. But shapes for beer glasses, such as pilsner vs a standard pint glass, just seem to be an aesthetic difference. Yet I've had people insist that glasses make a big difference for things like Belgian beer. &lt;/p&gt;
+
+					&lt;p&gt;Is there a sound reason to use the "right" glass for each kind of beer? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>36</PostId>
+			<AcceptedAnswerId>218</AcceptedAnswerId>
+			<Title>
+			"What glass shape is most commonly used for Saison's?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>saison</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>1156</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:03:10.783</CreationDate>
+				<LastActivityDate>2014-01-22T18:55:41.557</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>42</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a widely accepted glass shape/type for Saison's (and if so, what is it)? Is a different glass used for French Saison's vs. Belgian Saison's vs. other common Saison styles?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>300</PostId>
+			<AcceptedAnswerId>311</AcceptedAnswerId>
+			<Title>
+			"What glasses are meant for which beers and why?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>19</Score>
+				<ViewCount>804</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-24T16:29:23.663</CreationDate>
+				<LastActivityDate>2016-10-05T19:48:43.827</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know there are already one or two questions that touch on specific beers. However, I would like more of a comprehensive list. I would also like to understand why those types of glasses are chosen. Is it for head retention? Breathability? Appearances? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>347</PostId>
+			<AcceptedAnswerId>349</AcceptedAnswerId>
+			<Title>
+			"Beer glass cleaning"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>889</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T05:16:18.610</CreationDate>
+				<LastActivityDate>2014-01-27T23:09:50.530</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've heard it said that you should never use a dish-washer on a proper beer-tasting glass, as it can negatively affect head retention.  Is this the case, and if so, what's the best way to keep a tasting glass clean without messing it up for future tasting?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>351</PostId>
+			<AcceptedAnswerId>375</AcceptedAnswerId>
+			<Title>
+			"Drinking from a pewter mug?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>21</Score>
+				<ViewCount>32737</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T12:04:07.693</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2015-09-16T20:18:47.823</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>85</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Modern beer is typically served in glassware, and the reasons for the various styles are addressed in &lt;a href="https://alcohol.stackexchange.com/questions/300/what-glasses-are-meant-for-which-beers-and-why"&gt;What glasses are meant for which beers and why?&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;I have some alternative vessels at home, including a pewter tankard. The problem I have with drinking from it is that the pewter has a slight tang which you notice on your lips and the tip of your tongue. Depending on the the style of beer, this can either enhance or detract from the taste. (Personally, I've noticed that hefeweizen benefits from the slight acidic tinge, while some Lagers are really undrinkable from it.)&lt;/p&gt;
+
+					&lt;p&gt;Are there any styles of beer for which it's actually advantageous to drink from something other than glassware, like pewter? Say, for example, they've been brewed specifically to pair well with the  material of the vessel.&lt;/p&gt;
+
+					&lt;p&gt;Alternatively, should I even be drinking from this kind of vessel at all? While it's &lt;a href="http://en.wikipedia.org/wiki/Tankard" rel="nofollow noreferrer"&gt;documented&lt;/a&gt; that pewter and other materials were used historically to make tankards, should I even be bothering today or is it just a gimmick?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>589</PostId>
+			<AcceptedAnswerId>6439</AcceptedAnswerId>
+			<Title>
+			"How did South Australia come to have smaller measures of beer?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>glassware</tag>
+				<tag>australia</tag>
+			</Tags>
+			<Credit> 
+				<Score>20</Score>
+				<ViewCount>739</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-11T03:05:31.123</CreationDate>
+				<LastEditDate>2018-06-22T12:24:11.203</LastEditDate>
+				<LastActivityDate>2018-06-22T12:24:11.203</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>170</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The "Beer in Australia" article on Wikipedia, includes a &lt;a href="https://en.wikipedia.org/wiki/Beer_in_Australia#Beer_glasses"&gt;table listing the names for various size glasses&lt;/a&gt; in the different states.  One peculiarity is that some South Australian glasses are one size down compared to the equivalents in other states.&lt;/p&gt;
+
+					&lt;p&gt;For example, it lists their pint glass as three quarters of an imperial pint (which would be called a schooner in other states that use that size), and their schooner glass as half a pint (which would be called a middy in a number of other states).&lt;/p&gt;
+
+					&lt;p&gt;So my question is how did this discrepancy occur?  The Wikipedia page includes a number of references that indicate that these names have been used in SA, but doesn't indicate why.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>633</PostId>
+			<AcceptedAnswerId>644</AcceptedAnswerId>
+			<Title>
+			"What are the true origins of the yard of ale?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>4208</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-24T19:49:24.950</CreationDate>
+				<LastActivityDate>2017-01-06T14:21:42.337</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;From &lt;a href="http://www.theyardofale.com/index.php/history/"&gt;here&lt;/a&gt;, though they do not cite their source:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The origins of the yard of ale date back to the early 17th century, during the reign of King James I (1603-1625). Glass-making in England was then in its infancy; the first glass-making factory had only recently been established. Many of the first yard glasses have not survived due to their brittle nature, until George Ravenscroft (1674) introduced a new glass process known as the flint glass.&lt;/p&gt;
+  
+					  &lt;p&gt;The yard of ale was made and used not for normal drinking purposes, but for feast and manly displays of prowess. During Anglo-Saxon times through the Middle Ages, the English nation has always engaged in the traditions of heavy drinking. As put in Young’s quote “England’s Bane” written in 1617, “He is a man of no fashion that can not drink by the dozen, by the yard, so by measure we drink out of measure.”&lt;/p&gt;
+  
+					  &lt;p&gt;Legend suggests that the yard was also used in old England to serve the driver of a coach. Upon arriving at their destination and relieving its passengers, the coachman would stay and the length of the yard glass would allow him some refreshment.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Some of the same information is repeated in &lt;a href="http://en.wikipedia.org/wiki/Yard_of_ale"&gt;Wikipedia&lt;/a&gt;.  &lt;/p&gt;
+
+					&lt;p&gt;I'm certain that most of the history of using this style of vessel comes from fellow drinkers trying to show each other up at parties, but aside from the sheer volume (and perhaps limitations of glass-making artisans), how did this length and volume of the glass first come about?  Is there more definitive evidence for the year of birth of the yard, besides the milestone in their history of the introduction of flint glass? &lt;/p&gt;
+
+					&lt;p&gt;I'm also curious about whether the volume of the glass was satisfying to stagecoach drivers because of their need to wait long periods for their passenger, or whether it was just easier to hand them a tall glass as they remained in the seat. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>705</PostId>
+			<AcceptedAnswerId>706</AcceptedAnswerId>
+			<Title>
+			"Why did my Big Bad Baptist come in a brandy snifter?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>imperal-stout</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>561</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-03T21:49:40.017</CreationDate>
+				<LastActivityDate>2014-04-03T22:09:07.270</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>17</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Over the weekend, I decided to order something new from the menu: a &lt;a href="http://www.beeradvocate.com/beer/profile/22893/73618/"&gt;Big Bad Baptist&lt;/a&gt;. I thoroughly enjoyed it (lots of coffee flavor and not nearly as much alcohol taste as I feared). But it came in what looked to be a brandy snifter.&lt;/p&gt;
+
+					&lt;p&gt;Is this the typical way to serve that type of beer? I assume the purpose has something to do with the aroma, but is there any other reason (either traditional or practical)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>788</PostId>
+			<AcceptedAnswerId>798</AcceptedAnswerId>
+			<Title>
+			"Glassware for lagers: why did my Stella Artois come in this kind of glass?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>13243</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-18T04:34:12.567</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-10-22T00:30:50.760</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've seen &lt;a href="https://alcohol.stackexchange.com/q/705/43"&gt;Why did my Big Bad Baptist come in a brandy snifter?&lt;/a&gt; and understand from the answer there that there are two basic reasons to use a glass with a wider bowl for beer: to concentrate armoas, or to reduce quantity for stronger beers.  (That question was about a stout.)&lt;/p&gt;
+
+					&lt;p&gt;I don't have a &lt;em&gt;lot&lt;/em&gt; of experience with this, but until now when I've ordered lagers they've generally come in a tall glass (not curved).  A few days ago I ordered a &lt;a href="http://www.beeradvocate.com/beer/profile/169/449/" rel="nofollow noreferrer"&gt;Stella Artois&lt;/a&gt; and it came in the following glass:&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/jyK4j.jpg" alt="glass"&gt;&lt;/p&gt;
+
+					&lt;p&gt;(The glass was full when delivered; I didn't think to take a picture for this question right away.)&lt;/p&gt;
+
+					&lt;p&gt;This glass does not concentrate aromas to the extent that a brandy snifter does; further, this beer did not seem to be particularly aromatic.  (I've never had this one before, which is why I ordered it.)  Nor is it a highly-alcoholic or expensive beer that they might want to serve in a smaller quantity.  I'd guess this glass to have been in the 10-12oz range.&lt;/p&gt;
+
+					&lt;p&gt;Is there a benefit to the mildly curved shape of this glass for this type of beer?  I note that it's a Stella Artois glass, so presumably it's not &lt;em&gt;just&lt;/em&gt; a bartender's arbitrary choice.&lt;/p&gt;
+
+					&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; I was traveling, so I can't just go visit them again to see how they serve other beers.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>1024</PostId>
+			<Title>
+			"Unusal recepticles"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>flavor</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>176</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-18T11:42:48.517</CreationDate>
+				<LastActivityDate>2015-09-17T23:12:01.467</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1317</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I understand openings of a glass allow for aroma to add to the taste. However I recently had Kwak in its recommended glass, which is similar to a test tube. I have seen a number of other unique glasses. 
+					Are these really only for asthetics or are these meant to add to the flavour?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>1033</PostId>
+			<Title>
+			"Why are breweries against freezing pint glasses?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>-7</Score>
+				<ViewCount>1160</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-27T01:18:49.873</CreationDate>
+				<LastEditDate>2014-10-30T18:02:04.910</LastEditDate>
+				<LastActivityDate>2018-07-22T23:13:20.353</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1338</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It makes no sense to me why breweries are against freezing pint glasses. I think that there's nothing better than ice cold beer, and it seems in most ways the breweries agree. They try and cool beer lines, beer in bottles is always served cold, and some beer is bottled with labels that let you know when the beer is cold. So why are they so against freezing pint glasses, particularly when there are some great inventions out there that can freeze pint glasses in seconds? I think they should promote instead of being against it, so why don't they?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>3427</PostId>
+			<AcceptedAnswerId>3430</AcceptedAnswerId>
+			<Title>
+			"What is the purpose of an etched glass?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>3585</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-25T21:22:14.537</CreationDate>
+				<LastActivityDate>2017-11-07T18:21:29.613</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4238</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What does etching on the bottom of a beer glass do? What purpose does an etched glass serve?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>3468</PostId>
+			<AcceptedAnswerId>4527</AcceptedAnswerId>
+			<Title>
+			"Beer Sizes in Spain and Portugal"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>1210</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-15T01:40:55.953</CreationDate>
+				<LastActivityDate>2015-08-14T20:21:14.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer sizes in spain are aptly explained in &lt;a href="http://matadornetwork.com/nights/order-beer-spain/" rel="nofollow"&gt;http://matadornetwork.com/nights/order-beer-spain/&lt;/a&gt; (copa, cana, tanque, jarra, etc.)&lt;/p&gt;
+
+					&lt;p&gt;In portugal, similar sizes appear but I've only heard of &lt;code&gt;imperial&lt;/code&gt; and &lt;code&gt;caneca&lt;/code&gt;. &lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;Are there other sizes of beer in Portugal/Spain?&lt;/strong&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>3499</PostId>
+			<AcceptedAnswerId>3500</AcceptedAnswerId>
+			<Title>
+			"Difference between glass, bottle and can?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>glassware</tag>
+				<tag>bottles</tag>
+				<tag>cans</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>3452</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-24T07:10:26.990</CreationDate>
+				<LastActivityDate>2015-08-14T11:59:40.297</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4353</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was wondering if there really is a difference in taste when you drink the same beer out of a glass, a bottle and a can.&lt;/p&gt;
+
+					&lt;p&gt;Can anybody please tell me if there is a difference or if this is just a prejudice in your mind that makes you think it's better in one way?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>3507</PostId>
+			<AcceptedAnswerId>3509</AcceptedAnswerId>
+			<Title>
+			"How to drink kvass?"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>858</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-31T20:12:21.117</CreationDate>
+				<LastActivityDate>2015-08-25T07:17:54.660</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4374</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I’ve recently received a bottle of gira (i.e. kvass from Lithuania).&lt;/p&gt;
+
+					&lt;p&gt;With it came a beer mug, so I guess the issue of the glassware is settled. At what temperature should I drink it? If I understand correctly (which I probably don’t, given that everything is written in Lithuanian), the kvass is unfiltered. Should I pour carefully to avoid mixing too much yeast in the glass or, on the contrary, should I ensure that some yeast do go into the glass? Or is it purely a matter of taste?&lt;/p&gt;
+
+					&lt;p&gt;Finally, at which temperature should it be served?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>4620</PostId>
+			<AcceptedAnswerId>4621</AcceptedAnswerId>
+			<Title>
+			"Glassware for Beer"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>87</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-04T21:00:07.003</CreationDate>
+				<LastEditDate>2015-10-05T15:28:32.180</LastEditDate>
+				<LastActivityDate>2017-07-10T13:49:51.297</LastActivityDate>
+				<ClosedDate>2015-10-06T00:57:33.287</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4514</OwnerUserId>
+				<LastEditorUserId>4514</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's kind of simple question, I'd like to know why exists different kinds of glass for each beer. Could glass affect beer taste? How? Or is this just marketing?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>4755</PostId>
+			<Title>
+			"How to pair a beer with a glass?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>serving</tag>
+				<tag>glassware</tag>
+				<tag>pairing</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>118</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-05T16:40:35.020</CreationDate>
+				<LastEditDate>2016-01-05T23:33:58.777</LastEditDate>
+				<LastActivityDate>2016-01-08T17:16:06.170</LastActivityDate>
+				<ClosedDate>2016-01-06T14:52:36.833</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4917</OwnerUserId>
+				<LastEditorUserId>4917</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have recently begun to learn somethings about beer and I suddenly noticed that, for a while now, I have always been served similar types of beer on different looking beer glasses... which is confusing me. It could be human error, but it's got me wondering what beer glasses should I really be sipping from?&lt;/p&gt;
+
+					&lt;p&gt;So I decided to get some beer glasses, and what do I find? A plethora of beer glasses, all kinds and funky shapes, where not one glass is like the next. It makes me feel like the beer glass industry is very opinionated, rather than factual, and I need to know how to choose correctly.&lt;/p&gt;
+
+					&lt;p&gt;Could anyone please instruct me on the general type of beers and how they pair with beer glasses, as well as why x glass goes with y beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>5176</PostId>
+			<AcceptedAnswerId>5177</AcceptedAnswerId>
+			<Title>
+			"Removing detergent residue from glassware"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>head</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>87</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-28T14:06:17.837</CreationDate>
+				<LastActivityDate>2016-06-28T16:30:51.497</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5457</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Last night, after moving some heavy stones around, I poured myself a nice Berliner Weisse (style) into a glass I don't use regularly.  Initially there was a nice head on it but to my disappointment it broke down in a matter of seconds.  I'm pretty certain this was a result of detergent residue in the glass.&lt;/p&gt;
+
+					&lt;p&gt;I take pains to hand wash my beer glasses without detergent but some members of my household are not always cognizant of the damage this causes.  Once the detergent residue is on the glass, is there any method that can remove it?  I think that in the past I've found that wiping firmly and rinsing will eventually remove it but that means many flat beers along the way.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>6715</PostId>
+			<AcceptedAnswerId>6716</AcceptedAnswerId>
+			<Title>
+			"Why does my slice/wedge of lime go up and down in my glass of Gin and Tonic?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>spirits</tag>
+				<tag>mixers</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>316</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-30T14:18:11.927</CreationDate>
+				<LastActivityDate>2017-03-30T16:43:36.647</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was sitting watching my G&amp;amp;T which had a slice of lime in it, when I noticed that the lime sank to the bottom of the glass, and then rose to the top again, it then continued to repeat this cycle for some time.  What is causing this behavior?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>6996</PostId>
+			<AcceptedAnswerId>6997</AcceptedAnswerId>
+			<Title>
+			"Ordering a Drink in Non-Traditional Glassware"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>terminology</tag>
+				<tag>substitutions</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>107</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-27T20:23:34.080</CreationDate>
+				<LastEditDate>2017-08-28T11:47:44.763</LastEditDate>
+				<LastActivityDate>2017-08-28T13:56:41.340</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7053</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I find drinks that are traditionally served in stemmed glasses are difficult to carry (I'm a wheelchair user). What terminology would I use if I wanted to order a drink like a martini or Manhattan served in a rocks glass (but without the ice)? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType="question">
+			<PostId>7081</PostId>
+			<AcceptedAnswerId>7082</AcceptedAnswerId>
+			<Title>
+			"What's the growler?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>82</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-21T07:46:07.463</CreationDate>
+				<LastEditDate>2017-11-21T08:49:20.857</LastEditDate>
+				<LastActivityDate>2017-11-22T17:26:32.350</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7281</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Browsing ALiBaBa International platform I found there are many growlers in the shop. I want to know what a Growler is.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType="question">
+			<PostId>7093</PostId>
+			<Title>
+			"Disposable glass for flaming shots?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>98</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-28T23:36:48.073</CreationDate>
+				<LastEditDate>2017-12-23T14:32:35.857</LastEditDate>
+				<LastActivityDate>2017-12-23T14:32:35.857</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7311</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm throwing a party with themed drinks, and one is a shot topped with 151, and set on fire.&lt;/p&gt;
+
+					&lt;p&gt;I'll need to serve about 15 at a time, and don't own that many shot glasses.  Is there any disposable shot glass that can be safely held at about 130 °F or 66 °C (the only actual number I found online, but probably not too precise) for less than a minute?  What plastic number (the recycling number) should I look for?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType="question">
+			<PostId>7132</PostId>
+			<Title>
+			"When, where and why did the tradition of clinking glasses and saying "cheers" or "to your health" first start?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>drinking</tag>
+				<tag>glassware</tag>
+				<tag>tradition</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>179</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-23T14:18:59.797</CreationDate>
+				<LastActivityDate>2018-03-20T16:36:27.897</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is it possible to know where, when  and how the custom of clinking glasses (usually filled with beer or wine) originated, while saying "cheers" or "to your health"? Do any historical documents support a possible origin?&lt;/p&gt;
+
+					&lt;p&gt;Many of us here will follow this tradition at times like New Year's Day, Christmas, weddings and so on.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

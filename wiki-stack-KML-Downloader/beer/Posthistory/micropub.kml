@@ -1,0 +1,719 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>6710</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-06T12:27:20.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So my question is what are the requirements for micropubs?
+					Are there any specifications on room size, interior, beers, staff?
+					Has anyone got experience in setting up and running a micropub and can give more insights about what are key factors?
+					(pub and micropub are not existing tags, can anyone with 150 rep add the tags pub and micropub please?)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>6711</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-06T12:27:20.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the requirements for a micropub?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>6712</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-06T12:27:20.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Title" >
+			<PostId>6713</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-06T14:03:19.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What are requirements for a micropub?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Body" >
+			<PostId>6715</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-07T18:07:29.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 105 characters in body; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					So my question is what are the requirements for micropubs?
+					Are there any specifications on room size, interior, beers, staff?
+					Has anyone got experience in setting up and running a micropub and can give more insights about what are key factors?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Edit Tags" >
+			<PostId>6716</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-07T18:07:29.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 105 characters in body; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					terminology, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>6851</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:05:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I found this for Saarland, http://www.ratebeer.com/state/saarland/122/ but it looks more like commercial brews.
+
+
+					Are there any craft/microbrewery in the tri-country greater region of Saarland (Germany), Luxembourg and Lorraine (France)?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>6852</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:05:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft/micro brewery in Saarland, Luxembourg and Lorraine region?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>6853</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:05:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, german-beers, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>6854</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:09:02.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Other than the popular Porterhouse (http://www.porterhousebrewco.com/bars-dublin-temple.php), are there other pub that serves craft/microbrewery beer in Dublin, Ireland?
+
+					Other than the famous Guinness brewhouse, are there other microbrewery around Dublin?
+
+					Other than Guinness Stout, what other Guinness beer is a must-have? Are there any Dublin exclusive beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>6855</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:09:02.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft brew in Dublin
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>6856</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:09:02.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>6857</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:11:12.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Czech is known for its Pilsen Pilsner but is there any special beer from the Prague capital? 
+
+					Are there any craft/microbrewery in Prague? 
+
+					Any suggestions to pub that serves good craft Czech brews?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>6858</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:11:12.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Microbrewery in Prague
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>6859</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:11:12.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, pilsener, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>6860</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:16:54.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently, CNN listed the `Smith Street Tap` from the **Good Beer Company** in Singapore as one of the world's greatest bar (http://www.cntraveler.com/galleries/2015-07-21/the-greatest-bars-in-the-world/23).
+
+					Also, locally known, **Brewerkz** http://www.brewerkz.com/ serves some good craft beer.
+
+					After some internet searches, I found **Jungle Beer** that is a mircobrew: http://www.junglebeer.com/
+
+					Other than the 3 sources listed above, where else can one get craft/microbrewery beer in Singapore?
+
+					Are there other microbreweries in Singapore? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>6861</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:16:54.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft beers and Microbreweries in Singapore?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>6862</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:16:54.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>7884</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-13T21:56:05.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				7
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Unknown" >
+			<PostId>7927</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-20T01:49:28.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				7
+			</EditDetails>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>8171</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-20T07:12:01.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				8
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>8172</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-20T09:25:44.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/656400901444366336
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>8206</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-28T08:37:37.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				8
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>8311</PostId>
+			<ParentPostId>4700</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-25T15:04:10.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4144</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When I lived in Hong Kong a few years back I enjoyed several interesting microbrewed beers and a small but enthusiastic beer scene. I still think about the much-missed [Belgos East](http://www.openrice.com/en/hongkong/restaurant/quarry-bay-belgos-east-mussels-more/7578), which had a whole suite of Belgian ales on tap. What's available these days?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>8312</PostId>
+			<ParentPostId>4700</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-25T15:04:10.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4144</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the Hong Kong craft beer scene these days?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>8313</PostId>
+			<ParentPostId>4700</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-25T15:04:10.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4144</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>8319</PostId>
+			<ParentPostId>4700</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-28T03:01:19.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/670437284613922816
+			</EditDetails>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Unknown" >
+			<PostId>8394</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-19T01:39:06.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/678026738404864002
+			</EditDetails>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Unknown" >
+			<PostId>11200</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-09T09:51:00.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/785054950564986881
+			</EditDetails>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Edit Body" >
+			<PostId>11224</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-13T00:00:40.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I found these [Beer from Saarland](http://www.ratebeer.com/state/saarland/122/) but it looks more like commercial brews.
+
+
+					Are there any craft/microbrewery in the tri-country greater region of Saarland (Germany), Luxembourg and Lorraine (France)?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>14197</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					There are several lists online for craft brews in Melbourne, Australia:
+
+					 - https://foursquare.com/top-places/melbourne/best-places-craft-beer
+					 - https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries
+					 - https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/
+
+					Are there others that are not on any of these lists? 
+
+					Are there any nearby the Melbourne Convention and Exhibition Centre ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>14198</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft beers and Microbreweries in Melbourne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>14199</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, micropub, melbourne, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Edit Tags" >
+			<PostId>14200</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:19.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, singapore, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>14208</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-22T05:26:28.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				42
+			</EditDetails>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Edit Tags" >
+			<PostId>14209</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-22T12:09:45.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, micropub, melbourne, australia, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Unknown" >
+			<PostId>14217</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-23T03:48:47.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1010369047945515008
+			</EditDetails>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>14266</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-30T06:33:37.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				42
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

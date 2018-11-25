@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="100"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:17:19.443</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="115"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:27:38.570</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="158"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Precognitive"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:52:12.030</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="260"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T00:24:40.273</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="273"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T01:14:45.377</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="715"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-29T20:11:43.567</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="716"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-29T20:15:30.057</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="739"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-30T04:50:24.273</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="993"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Organizer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-06T19:47:51.717</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1169"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Nice Question"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-23T01:51:21.007</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3658"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-21T21:12:52.617</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6097"  UserId="52" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2016-07-12T23:03:31.397</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

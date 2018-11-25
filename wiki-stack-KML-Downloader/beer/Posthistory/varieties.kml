@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>109</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:05:17.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Stouts are stout, Pale Ales use pale malt, but where did the name porter come from?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>110</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:05:17.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is it called "porter"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>111</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:05:17.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, porter, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>821</PostId>
+			<ParentPostId>315</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T03:26:55.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I enjoy the Sam Adams seasonal varieties, as they usually put people in the holiday spirit(s), etc., and they evoke the feeling of "only for a limited time" like a Shamrock shake at McDonalds.  
+
+					In that vein, were the beers originally designated "seasonal" due to the availability of certain ingredients during different times of the year (Harvest Pumpkin Ale springs to mind) or is this notion of a seasonal beer chiefly a marketing construct?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>822</PostId>
+			<ParentPostId>315</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T03:26:55.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Were the Sam Adams seasonal beers actually developed to accommodate seasonal availability of ingredients or are they just a marketing construct?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>823</PostId>
+			<ParentPostId>315</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T03:26:55.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, ingredients, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>1384</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:48.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<EditDetails>
+				terminology tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, terminology, porter, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>1385</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:48.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 407 approved by 73, 60 edit id of 70
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>3528</PostId>
+			<ParentPostId>945</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-22T15:13:54.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1126</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					what is the best app, as a beer aficionado, to record the different beers that I try? Is there a vivino for beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>3529</PostId>
+			<ParentPostId>945</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-22T15:13:54.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1126</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Best app for recording variety of beers consumed
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>3530</PostId>
+			<ParentPostId>945</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-22T15:13:54.770</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1126</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>3532</PostId>
+			<ParentPostId>945</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-23T03:04:23.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling, formatting, added link
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm looking for apps, as a beer aficionado, to record the different beers that I try. Is there a [vivino][1] for beer?
+
+
+					  [1]: http://www.vivino.com/app/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Title" >
+			<PostId>3533</PostId>
+			<ParentPostId>945</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-23T03:04:23.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling, formatting, added link
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Apps for recording variety of beers consumed
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Unknown" >
+			<PostId>3534</PostId>
+			<ParentPostId>945</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-23T03:04:23.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 69 approved by 73 edit id of 106
+			</EditDetails>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>3688</PostId>
+			<ParentPostId>945</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-05T23:46:42.367</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/508038543307182082
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>7969</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-03T17:20:41.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4488</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					As in title, I'm going camping with some buddies soon and we're planning on bringing far more beer than we have space for in a cooler. What kinds of beer are palatable to drink (or good even) when at room temperature or even slightly warm?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>7970</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-03T17:20:41.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4488</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What beer is ok to drink not-cold or room temperature (for camping)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>7971</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-03T17:20:41.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4488</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>8067</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-23T03:52:11.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/646532486563033092
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

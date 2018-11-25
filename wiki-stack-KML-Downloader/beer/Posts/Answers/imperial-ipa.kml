@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>4877</PostId>
+			<ParentPostId>4869</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>ipa</tag>
+				<tag>imperial-ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-26T17:47:54.313</CreationDate>
+				<LastActivityDate>2016-02-26T17:47:54.313</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5145</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The beer judge certification program style guides seem to imply they are the same.  You can get more details at bjcp.org.  The text below is from the 2015 guidelines double IPA category, 22A.&lt;/p&gt;
+
+					&lt;p&gt;Comments: A showcase for hops, yet remaining quite 
+					drinkable. The adjective “double" is arbitrary and simply 
+					implies a stronger version of an IPA; “imperial,” “extra,” 
+					“extreme,” or any other variety of adjectives would be equally 
+					valid, although the modern American market seems to have 
+					now coalesced around the “double” term.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>4883</PostId>
+			<ParentPostId>4869</ParentPostId>			<Tags>
+				<tag>style</tag>
+				<tag>ipa</tag>
+				<tag>imperial-ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-28T18:59:46.423</CreationDate>
+				<LastActivityDate>2016-02-28T18:59:46.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4338</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A bit obvious, but it's just about more malt and hops (which results in higher ABV and IBU levels, off course).&lt;/p&gt;
+
+					&lt;p&gt;Particularly, I don't see it becoming a new style, as our palate has a limit when it comes to tasting bitterness and even smelling hop oils. I think we have already reached this limit sometime ago when Imperial IPAs were conceived. So, anything beyond that seems like a silly obsession to me, and probably the best that one can get from a "triple IPA" is to come up with a good Imperial/Double IPA with (maybe) more alcohol, nothing more.&lt;/p&gt;
+
+					&lt;p&gt;PS: Dogfish's 120 Minute IPA would be a quadruple IPA, then?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>4909</PostId>
+			<ParentPostId>4907</ParentPostId>			<Tags>
+				<tag>ipa</tag>
+				<tag>imperial-ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-02T04:03:13.163</CreationDate>
+				<LastActivityDate>2016-04-02T04:03:13.163</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Most often, if you see IPA, it's an "India pale ale".&lt;/p&gt;
+
+					&lt;p&gt;"Imperial pale ale" is an informal, descriptive style (i.e., a strong pale ale), whereas "india pale ale" is a &lt;a href="http://www.bjcp.org/2008styles/style14.php" rel="noreferrer"&gt;BJCP recognized style&lt;/a&gt;.  India pale ales are primarily understood as a hopped-up version of a pale ale, made to withstand long travels.  Beers with an "imperial" nomenclature (typically synonymous with "double") are brewed to be a stronger, higher ABV -- think double IPAs, imperial stouts, etc.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>4928</PostId>
+			<ParentPostId>4907</ParentPostId>			<Tags>
+				<tag>ipa</tag>
+				<tag>imperial-ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-07T01:06:13.237</CreationDate>
+				<LastActivityDate>2016-04-07T01:06:13.237</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5160</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;[English] India Pale Ales (BJCP Style 14A) were shipped to India (and elsewhere) during the late 18th Century.  &lt;/p&gt;
+
+					&lt;p&gt;[American] India Pale Ales (BJCP Style 14C) are significantly different.&lt;/p&gt;
+
+					&lt;p&gt;Imperial Pale Ales (BJCP Style 14C) refer to a relatively stronger (in alcohol) beer.  They are a modern invention by American Craft Brewers.&lt;/p&gt;
+
+					&lt;p&gt;The "Imperial" part of the name though, has some interesting history.&lt;/p&gt;
+
+					&lt;p&gt;During the 1698-1700's "Porter" beer was exported from England to the court of Russia.  However during initial shipment, the long journey ruined the beer.  Barklay's Brewery in London significantly increased both the alcohol and hops in the beer to help it prevent spoilage during the trip.  This beer became known as "Russian &lt;strong&gt;Imperial&lt;/strong&gt; Stout".  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>3763</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T00:14:52.603</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Possible duplicate of [What are the difference between a dubbel and a tripel?](http://beer.stackexchange.com/questions/602/what-are-the-difference-between-a-dubbel-and-a-tripel)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="4">
+			<PostId>3764</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T00:36:17.643</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@ArthurD Not a duplicate of that one. Those are Abbey-style Belgian ales, and are quite different from anything in the IPA family.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="2">
+			<PostId>3765</PostId>
+			<ParentPostId>4870</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T01:07:28.660</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That is REALLY not the answer I wanted, but I think you're right. Darn it. Thanks for the info!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>3767</PostId>
+			<ParentPostId>4877</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T22:01:20.917</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I can understand that, thanks. But with brewers marketing a "triple IPA", it seems to imply that they are trying to make a distinction from a double IPA. I know that both double and triple IPAs would be judged together and are usually categorized together (like they are on Ratebeer, for example). But would would the distinction be for a brewer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>3769</PostId>
+			<ParentPostId>4877</ParentPostId>
+			<Contributors>
+				<UserId>5145</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T23:03:17.590</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I assume just more alcohol than a double if the same brewery made a double and a triple.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>3770</PostId>
+			<ParentPostId>4877</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T23:05:13.247</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That was my thought, too. I just haven't seen someone come out and say that explicitly.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="2">
+			<PostId>3771</PostId>
+			<ParentPostId>4853</ParentPostId>
+			<Contributors>
+				<UserId>4394</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-28T09:07:26.587</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Drink the Guinness, drink the Harp; jump up and down; next time you see it will be mixed.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="1">
+			<PostId>3772</PostId>
+			<ParentPostId>4694</ParentPostId>
+			<Contributors>
+				<UserId>5157</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-28T21:46:19.213</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Frisbee I would argue that once you start getting into distillation, you're no longer working with beer. In my mind, distillation equals liquor.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="1">
+			<PostId>3774</PostId>
+			<ParentPostId>4694</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-28T22:29:09.703</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MattDMo Agree but it would more be call fortified like a MD 20 20.  They have iced bear that is kind of like fortified and still called beer.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

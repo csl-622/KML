@@ -1,0 +1,5846 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>7</PostId>
+			<ParentPostId>3</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:30:17.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How is low/no alcohol beer made? I'm assuming that the beer is made normally and the alcohol is then removed, is it any more than just boiling it off? I've noticed that no/low alcohol beers' taste improved hugely a few years ago, is this due to a new technique?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>8</PostId>
+			<ParentPostId>3</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:30:17.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How is reduced alcoholic beer made?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>9</PostId>
+			<ParentPostId>3</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:30:17.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>20</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:37:12.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Apart from coming out of different taps, some ales seem very similar to lagers (although there are clearly a much greater variety of ales). Is there a difference in the way they are made?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>21</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:37:12.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between an ale and a lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>22</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:37:12.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ale, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>32</PostId>
+			<ParentPostId>12</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:41:41.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Given craft beers, which are typically brewed without many preservatives, what is the average duration a beer must sit inside a barrel before it is ready for serving?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>33</PostId>
+			<ParentPostId>12</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:41:41.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the average brewing time for craft beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>34</PostId>
+			<ParentPostId>12</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:41:41.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>36</PostId>
+			<ParentPostId>14</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:44:37.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer varies widely, and one of the most noticeable differences when drinking is the carbonation level.  What factors in the composition, brewing process, storage, etc affect the final level of carbonation? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>37</PostId>
+			<ParentPostId>14</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:44:37.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What factors affect the carbonation level of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>38</PostId>
+			<ParentPostId>14</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:44:37.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>39</PostId>
+			<ParentPostId>15</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:45:28.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Bottled beer is significantly different than the same label beer available on tap.
+
+					How does bottled beer differ from draught beer? What is done to the bottled beer in order to prolong its shelf life in the bottle?
+
+					And finally, why does draught beer taste so much better than bottled beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>40</PostId>
+			<ParentPostId>15</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:45:28.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why doesn't bottled beer taste as good as draught beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>41</PostId>
+			<ParentPostId>15</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:45:28.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, draught, bottling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Body" >
+			<PostId>55</PostId>
+			<ParentPostId>12</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:49:10.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<EditDetails>
+				added 109 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Given craft beers, which are typically brewed without many preservatives, what is the average duration a beer must sit inside a barrel before it is ready for serving?
+
+					If there are different times for different types of beer, can you give a list of the different durations?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Body" >
+			<PostId>72</PostId>
+			<ParentPostId>12</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:57:03.347</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 22 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Given craft beers, which are typically brewed without many preservatives, what is the average duration a beer must sit inside a barrel before it is ready for serving?
+
+					If different types of beer require different brewing times, can you provide a list?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>95</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:02:59.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some beers are marked as 'not suitable for vegans'. What is in the beer such that this is the case?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>96</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:02:59.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are some beers non-vegan?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>97</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:02:59.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>139</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:17:49.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How much of an impact does the water (minerals/quality/distilled) have on a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>140</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:17:49.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How much of an impact does the water have on a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>141</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:17:49.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, water, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Edit Body" >
+			<PostId>158</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:24.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				per comments
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some beers (for example, Guinness) are marked as 'not suitable for vegans'. What is in the beer such that this is the case?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Unknown" >
+			<PostId>159</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:24.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 43 approved by 7 edit id of 7
+			</EditDetails>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>210</PostId>
+			<ParentPostId>82</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:41:30.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have a friend who is Celiac and can only drink gluten-free beer. How on earth is it made?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>211</PostId>
+			<ParentPostId>82</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:41:30.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How is gluten-free beer made?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>212</PostId>
+			<ParentPostId>82</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:41:30.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>276</PostId>
+			<ParentPostId>110</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:35:06.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the highest level of alcohol you can achieve when brewing beer natural way, without adding alcohol?
+
+					I know that many really strong popular beers (~10% alcohol) are simply mixed with alcohol, but what level of alcohol can be achieved in natural brewing process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>277</PostId>
+			<ParentPostId>110</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:35:06.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How strong the beer can become naturally?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>278</PostId>
+			<ParentPostId>110</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:35:06.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>294</PostId>
+			<ParentPostId>119</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:53:29.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>77</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Pasteurizing is a common task at industrial brewers. But in a home brewing context following questions arrises:
+
+					- Is it feasible to pasteurize in the kitchen?
+					- Which equipment is necessary?
+					- What are the best-practices of such process?
+					- Is there a risk of degrading the overall taste of the beer?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>295</PostId>
+			<ParentPostId>119</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:53:29.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>77</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can one pasteurize beer at home?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>296</PostId>
+			<ParentPostId>119</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:53:29.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>77</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Post Closed" >
+			<PostId>343</PostId>
+			<ParentPostId>119</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:32:16.963</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":17,"DisplayName":"Jon Ericson"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Edit Body" >
+			<PostId>350</PostId>
+			<ParentPostId>110</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:23:09.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				fixed grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the highest level of alcohol you can achieve when brewing beer naturally, without adding alcohol?
+
+					I know that many strong, popular beers (~10% alcohol) are simply mixed with alcohol, but what level of alcohol can be achieved in natural brewing process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Edit Title" >
+			<PostId>351</PostId>
+			<ParentPostId>110</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:23:09.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				fixed grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How strong can beer become naturally?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>352</PostId>
+			<ParentPostId>110</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:23:09.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 90 approved by 60 edit id of 14
+			</EditDetails>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Edit Title" >
+			<PostId>355</PostId>
+			<ParentPostId>110</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:25:50.963</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the highest alcohol content achievable through brewing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Body" >
+			<PostId>460</PostId>
+			<ParentPostId>185</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:23:22.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In the advertising, you see certain beers saying that they have been awarded gold medals at various competitions, or other accolades earned.
+
+					Is there a list of what are considered to be the major beer competitions, and how would you go about entering? Is that even possible for a craft brewer, or would you need to be a major manufacturer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Title" >
+			<PostId>461</PostId>
+			<ParentPostId>185</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:23:22.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the major beer competitions and how do you enter?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Tags" >
+			<PostId>462</PostId>
+			<ParentPostId>185</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:23:22.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, taste, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Body" >
+			<PostId>492</PostId>
+			<ParentPostId>198</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:16:16.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>143</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do some beers have high alcohol levels and some have low ones? Is the alcohol content something that can be changed for any specific brew, and the brewer sets it at a specific level on purpose? Or is the alcohol level something that is achieved in combination with other factors in the brewing process (so for example, a particular taste will always coincide with a specific alcohol level)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Title" >
+			<PostId>493</PostId>
+			<ParentPostId>198</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:16:16.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>143</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What steps in the brewing process affect alcohol levels?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Tags" >
+			<PostId>494</PostId>
+			<ParentPostId>198</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:16:16.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>143</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, taste, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Body" >
+			<PostId>546</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T17:46:39.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some beers are classed as "doublebock" and some as "triple bock".  Doubles seem to be a little stronger (higher APV) than average and triples seem to be stronger than that, but is that they *definition* or an *effect*?  What exactly is being doubled or tripled in the production of these beers, and is the primary goal strength or some aspect of flavor or something else?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Title" >
+			<PostId>547</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T17:46:39.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is being doubled or tripled in a doublebock/triple bock?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Tags" >
+			<PostId>548</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T17:46:39.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Post Closed" >
+			<PostId>597</PostId>
+			<ParentPostId>185</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:21:52.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":10,"DisplayName":"Christian Gärtner"},{"Id":37,"DisplayName":"Xander"},{"Id":43,"DisplayName":"Monica Cellio"},{"Id":8,"DisplayName":"LessPop_MoreFizz"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Body" >
+			<PostId>608</PostId>
+			<ParentPostId>235</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:42:38.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>162</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Dogfish Head makes IPAs called "60 Minute", "90 Minute", and "120 Minute". According to [Wikipedia](https://en.wikipedia.org/wiki/Dogfish_Head_Brewery#IPAs):
+
+					&gt; Their names refer to the length of the boil time of the wort in which the hops are continuously added.
+
+					There is also a limited edition "75 Minute" which is really a blend of the 60 &amp; 90 varieties.
+
+					What I find odd however, is that these numbers also roughly correspond to the beers' ABV% &amp; IBU.
+
+					Again, from [Wikipedia](https://en.wikipedia.org/wiki/Dogfish_Head_Brewery#List_of_beers_brewed):
+
+					- 60 Minute: 6.0% ABV, 60 IBU
+					- 90 Minute: 9.0% ABV, 90 IBU
+					- 120 Minute: 18% ABV, 120 IBU
+					- 75 Minute: 7.5% ABV, (no IBU listed)
+
+					Generally, the ABV% is about one-tenth the boil time in minutes, while the IBU is directly equivalent. Is this naturally due to the chemical reactions which occur during this part of the brewing process, or must Dogfish Head be doing something in particular which leads to an abnormally tight correlation here?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Title" >
+			<PostId>609</PostId>
+			<ParentPostId>235</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:42:38.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>162</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How does boil time directly affect ABV% &amp; IBU?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Tags" >
+			<PostId>610</PostId>
+			<ParentPostId>235</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:42:38.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>162</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Body" >
+			<PostId>654</PostId>
+			<ParentPostId>250</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T06:15:05.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was talking to an American friend the other day and he told me they had something called "light" beer. This was to be a light product just as you would find for instance for Coca-Cola or other soda pop, which contains less calories than a normal beer. 
+
+					How are they produced to contain less calories than a normal beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Title" >
+			<PostId>655</PostId>
+			<ParentPostId>250</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T06:15:05.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How is Light Beer produced?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Tags" >
+			<PostId>656</PostId>
+			<ParentPostId>250</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T06:15:05.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Body" >
+			<PostId>669</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:31.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard of beers such as our local [brand][1] in the Philippines and [this][2] one, and though I haven't sampled them yet, I am quite curious: how do you add flavor to beer? I've drank a few style of beers but I haven't dealt with any "flavored". As I'm not familiar with the brewing process yet, I want to know how as I don't think it's as simple as adding a syrup on the beer after brewing. 
+
+
+					  [1]: http://sanmiguelflavoredbeer.com/home/
+					  [2]: http://rogue.com/beers/voodoo-bacon-maple.php
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Title" >
+			<PostId>670</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:31.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can a beer be flavored?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Tags" >
+			<PostId>671</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:31.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Body" >
+			<PostId>676</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:43:22.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Microbreweries make less than 15,000 barrels per year, and craft breweries make less than 6,000,000 barrels per year.  
+
+					Aside from this distinction, are there any differences in the styles of production by the two entities?  If there's no difference in production technique, why make this distinction at all?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Title" >
+			<PostId>677</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:43:22.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Aside from the number of barrels they produce, what is the main difference between a craft brewery and a microbrewery?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Tags" >
+			<PostId>678</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:43:22.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Initial Body" >
+			<PostId>697</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T17:21:16.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When you see advertising for beer, some of them advertise awards that they have won at various beer festivals and/or competitions.
+
+					What are the judging standards at these competitions, and what are the most prestigious competitions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Initial Title" >
+			<PostId>698</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T17:21:16.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What do they judge on at beer competitions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Tags" >
+			<PostId>699</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T17:21:16.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, taste, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Body" >
+			<PostId>705</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T18:47:57.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is a black lager really a lager (in terms of yeast and brewing time)? Can I just throw in whatever would make a good stout but use lager yeast? If not, then how much play is there to the recipe?
+
+					I've got a little bit of experience brewing ales, mainly stout and brown ale. Just a few months ago I tried my first experiment, deviating a little from a recipe in my choice of malts and yeast, but still using a malt extract for my primary malt. I have zero experience with brewing lager.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Title" >
+			<PostId>706</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T18:47:57.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I brew a black lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Initial Tags" >
+			<PostId>707</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T18:47:57.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, lager, schwarzbier, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Initial Body" >
+			<PostId>710</PostId>
+			<ParentPostId>273</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T19:28:38.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>182</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The first time I made a batch of beer, the guy said that you could use wine sanitize to clean the bottles (you can't - beer sanitizer kills more stuff than wine sanitizer). My resulting beer was soapy-tasting and cloudy. After that, I used a bleach solution and the next batch came out way better.
+
+					At the local homebrewer's club, I've heard people talk about using hard liquor (e.g. cheap whiskey or vodka) to sanitize equipment, because they seem to think that other sanitizers affect the end taste. 
+
+					Has anyone used hard liquor to sanitize? Does it make a difference to the taste? Does it work well?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Initial Title" >
+			<PostId>711</PostId>
+			<ParentPostId>273</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T19:28:38.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>182</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Sanitation Options (Hard Liquor)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Tags" >
+			<PostId>712</PostId>
+			<ParentPostId>273</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T19:28:38.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>182</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Post Closed" >
+			<PostId>715</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T20:30:02.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":68,"DisplayName":"hunse"},{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":73,"DisplayName":"acheong87"},{"Id":37,"DisplayName":"Xander"},{"Id":22,"DisplayName":"Grohlier"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Post Closed" >
+			<PostId>717</PostId>
+			<ParentPostId>273</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T21:13:32.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":27,"DisplayName":"object88"},{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":37,"DisplayName":"Xander"},{"Id":22,"DisplayName":"Grohlier"},{"Id":52,"DisplayName":"Daniel Hedberg"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Edit Tags" >
+			<PostId>746</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T04:01:59.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, taste, competition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Body" >
+			<PostId>759</PostId>
+			<ParentPostId>297</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T10:45:39.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Most of lighter alcohols can be distilled or concentrated to obtain strong liquors. Wine can be distilled into cognac or brandy, apple cider is concentrated into applejack, Sake distilled into Imo—sake etc.
+
+					Is there any liquor produced by concentrating or distilled from beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Title" >
+			<PostId>760</PostId>
+			<ParentPostId>297</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T10:45:39.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What do you obtain by concentrating beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Tags" >
+			<PostId>761</PostId>
+			<ParentPostId>297</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T10:45:39.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Edit Title" >
+			<PostId>763</PostId>
+			<ParentPostId>297</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T11:30:26.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<EditDetails>
+				Distilling is a better word for the title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What do you obtain by distilling beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Unknown" >
+			<PostId>764</PostId>
+			<ParentPostId>297</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T11:30:26.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7 approved by -1 edit id of 42
+			</EditDetails>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Edit Title" >
+			<PostId>765</PostId>
+			<ParentPostId>297</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T11:30:26.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<EditDetails>
+				Distilling is a better word for the title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What do you obtain by concentrating/distilling beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Body" >
+			<PostId>1030</PostId>
+			<ParentPostId>405</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:33:57.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Of all types of beer, what type of beer require the most time to produce?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Initial Title" >
+			<PostId>1031</PostId>
+			<ParentPostId>405</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:33:57.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What type of beer require the most time to produce?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Initial Tags" >
+			<PostId>1032</PostId>
+			<ParentPostId>405</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:33:57.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Initial Body" >
+			<PostId>1048</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T16:07:56.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Given that the British tend to drink their beer at a higher temperature than those of us in the US, should beer brewed in an English style be consumed that way? The justification I can think of is: the people developing the taste of the beer probably consumed it at a certain temperature, which might have not been the ice-cold levels that predominate in the Colonies. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Title" >
+			<PostId>1049</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T16:07:56.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Should English/English-style beers be served warmer, since that is how the taste was developed?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Tags" >
+			<PostId>1050</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T16:07:56.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, temperature, taste, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Unknown" >
+			<PostId>1052</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T16:15:03.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/428561938965344256
+			</EditDetails>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Initial Body" >
+			<PostId>1079</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T20:49:01.653</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I see some US beers advertising that they brew according to the "German Beer Purity Law."  What is that, and is it still relevant today?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Initial Title" >
+			<PostId>1080</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T20:49:01.653</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the German Beer Purity Law?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Initial Tags" >
+			<PostId>1081</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T20:49:01.653</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Edit Tags" >
+			<PostId>1085</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T21:36:58.333</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				added tags 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, laws, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Unknown" >
+			<PostId>1086</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T21:36:58.333</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 150 approved by 80 edit id of 62
+			</EditDetails>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Unknown" >
+			<PostId>1216</PostId>
+			<ParentPostId>430</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T04:25:06.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429470439845691392
+			</EditDetails>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Initial Body" >
+			<PostId>1412</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:34:37.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If you could go back in time and tell yourself to read a specific book about beer, which book would it be?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Initial Title" >
+			<PostId>1413</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:34:37.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the single most influential book every beer enthusiast should read?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Initial Tags" >
+			<PostId>1414</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T00:34:37.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, taste, storage, serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Unknown" >
+			<PostId>1422</PostId>
+			<ParentPostId>35</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T04:36:06.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431285148597116928
+			</EditDetails>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Post Closed" >
+			<PostId>1423</PostId>
+			<ParentPostId>556</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T05:55:19.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>13</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":27,"DisplayName":"object88"},{"Id":80,"DisplayName":"Fishtoaster"},{"Id":13,"DisplayName":"Shog9"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Unknown" >
+			<PostId>1477</PostId>
+			<ParentPostId>250</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T10:36:13.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432100546611539968
+			</EditDetails>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Initial Body" >
+			<PostId>1487</PostId>
+			<ParentPostId>574</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-09T17:14:51.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard this urban legend that when Guinness changed their brewing equipment at some point, people started to complain that the beer tasted worse. According to the legend, it turned out that before rats were getting into the barrels, drowned in them and thus gave Guinness its "unique flavour".
+
+					That legend aside (although I would also be interested to hear opinions on that), are there any beers that are deliberately brewed with meat or meat products? What does adding meat to the brewing process achieve?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Initial Title" >
+			<PostId>1488</PostId>
+			<ParentPostId>574</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-09T17:14:51.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are some beers brewed with meat?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Initial Tags" >
+			<PostId>1489</PostId>
+			<ParentPostId>574</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-09T17:14:51.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Unknown" >
+			<PostId>1492</PostId>
+			<ParentPostId>574</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-09T22:36:42.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432644252552921088
+			</EditDetails>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Unknown" >
+			<PostId>1556</PostId>
+			<ParentPostId>405</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T19:36:42.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433323729830301696
+			</EditDetails>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Unknown" >
+			<PostId>1557</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T22:36:42.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433369028787048448
+			</EditDetails>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Unknown" >
+			<PostId>1562</PostId>
+			<ParentPostId>82</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-12T16:37:32.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433641030001627136
+			</EditDetails>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Unknown" >
+			<PostId>1649</PostId>
+			<ParentPostId>3</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-17T22:40:30.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435544312114606080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Unknown" >
+			<PostId>1651</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-18T01:40:31.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435589612497821696
+			</EditDetails>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Unknown" >
+			<PostId>1656</PostId>
+			<ParentPostId>235</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-18T19:40:31.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435861405104078848
+			</EditDetails>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Unknown" >
+			<PostId>1657</PostId>
+			<ParentPostId>110</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-18T22:40:31.697</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435906705126612992
+			</EditDetails>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Unknown" >
+			<PostId>1661</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-19T04:40:31.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435997302533414912
+			</EditDetails>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Unknown" >
+			<PostId>1673</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-20T07:40:36.670</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436405008960348161
+			</EditDetails>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Edit Tags" >
+			<PostId>1697</PostId>
+			<ParentPostId>57</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T10:01:19.697</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<EditDetails>
+				Added tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, taste, water, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Unknown" >
+			<PostId>1700</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T22:41:25.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/437356479746957312
+			</EditDetails>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Initial Body" >
+			<PostId>1714</PostId>
+			<ParentPostId>637</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-25T12:15:47.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>541</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					One of my favorite stouts is [Oesterstout by the Schelde Brewery][1].
+
+					The website states:
+
+					&gt;  During the brewing process, the [wort][2] of the beer is pumped across the oyster shells.
+
+					Is this what gives it it's distinct taste? In Denmark, another more easily available Oyster stout is [Marston's Oyster Stout][3]. Do all Oyster Stouts follow this particular process, or is it more of a sales pitch?
+
+
+					  [1]: http://www.scheldebrouwerij.nl/onze_bieren.aspx
+					  [2]: http://en.wikipedia.org/wiki/Wort
+					  [3]: http://www.beeradvocate.com/beer/profile/427/1274/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Initial Title" >
+			<PostId>1715</PostId>
+			<ParentPostId>637</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-25T12:15:47.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>541</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Oyster Stout really made using oysters?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Initial Tags" >
+			<PostId>1716</PostId>
+			<ParentPostId>637</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-25T12:15:47.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>541</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Unknown" >
+			<PostId>1721</PostId>
+			<ParentPostId>637</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-26T01:42:12.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/438489139139584001
+			</EditDetails>
+		</Instance>
+		<Instance Id= "118" InstanceType= "Unknown" >
+			<PostId>1725</PostId>
+			<ParentPostId>15</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-26T10:42:11.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/438625033582563328
+			</EditDetails>
+		</Instance>
+		<Instance Id= "119" InstanceType= "Initial Body" >
+			<PostId>1850</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-17T21:26:22.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When walking through a brewery supply store, you will see a variety of yeasts. 
+
+					Likewise, you can find a variety of yeasts when walking through a grocery store.
+
+					What "happens" if you use the 'wrong kind' of yeast when brewing? How much of a beer's flavor / texture / body / etc is derived from the yeast vs all other ingredients?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "120" InstanceType= "Initial Title" >
+			<PostId>1851</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-17T21:26:22.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the drawback of not using "brewer's yeast" when brewing beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "121" InstanceType= "Initial Tags" >
+			<PostId>1852</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-17T21:26:22.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "122" InstanceType= "Post Closed" >
+			<PostId>1856</PostId>
+			<ParentPostId>668</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-18T08:42:38.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":112,"DisplayName":"mdma"},{"Id":37,"DisplayName":"Xander"},{"Id":170,"DisplayName":"James Henstridge"},{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "123" InstanceType= "Initial Body" >
+			<PostId>1859</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-18T15:06:14.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is this practiced commercially? I'm not sure if it would scale very well, because I understand that the technique [takes a long time](http://homebrew.stackexchange.com/questions/146/whats-the-best-method-to-catch-a-strain-of-wild-yeast-for-homebrewing) even for a home brew batch. 
+
+					If so, what beers are brewed using this technique and why? Is it specific types of beer, or specific brewers, perhaps going for the "organic" angle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "124" InstanceType= "Initial Title" >
+			<PostId>1860</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-18T15:06:14.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What Beers are Brewed with Wild Yeast?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "125" InstanceType= "Initial Tags" >
+			<PostId>1861</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-18T15:06:14.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "126" InstanceType= "Initial Body" >
+			<PostId>1883</PostId>
+			<ParentPostId>680</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-21T10:27:52.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>669</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've always wondered what the strongest beer in the world is and how would taste.
+
+					 Are there reliable historical records of a very strong beer? What would be the highest % alcohol that's Brewable for a beer? And also of course it would be great to know where to get such a beer from. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "127" InstanceType= "Initial Title" >
+			<PostId>1884</PostId>
+			<ParentPostId>680</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-21T10:27:52.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>669</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the strongest beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "128" InstanceType= "Initial Tags" >
+			<PostId>1885</PostId>
+			<ParentPostId>680</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-21T10:27:52.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>669</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, taste, history, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "129" InstanceType= "Initial Body" >
+			<PostId>1893</PostId>
+			<ParentPostId>685</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-21T12:22:27.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm pleasantly surprised to find a small selection of Trappist beers for sale at a venue in Inner City Brisbane, Australia. 
+
+					A quick look at the Chimay website (one of the beers available) shows a map explaining that you can get a Chimay pretty much anywhere. This map doesn't even include Australia, so I assume it's more widely available than they claim.
+
+					Now, all the branding explains how the beer is brewed in a traditional Trappist abbey, under the supervision of the monks, which is congruent to my understanding of how Trappist brewers operate.
+
+					So how does one Abbey produce enough beer to be able to sell it not only all over Europe, but on the other side of the world in seemingly mainstream quantities?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "130" InstanceType= "Initial Title" >
+			<PostId>1894</PostId>
+			<ParentPostId>685</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-21T12:22:27.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do Trappists Brew so much?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "131" InstanceType= "Initial Tags" >
+			<PostId>1895</PostId>
+			<ParentPostId>685</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-21T12:22:27.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "132" InstanceType= "Unknown" >
+			<PostId>1912</PostId>
+			<ParentPostId>680</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-25T08:00:30.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/448368815735578624
+			</EditDetails>
+		</Instance>
+		<Instance Id= "133" InstanceType= "Unknown" >
+			<PostId>1976</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T05:37:01.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				2
+			</EditDetails>
+		</Instance>
+		<Instance Id= "134" InstanceType= "Unknown" >
+			<PostId>1999</PostId>
+			<ParentPostId>685</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-10T14:27:47.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/454264484497207296
+			</EditDetails>
+		</Instance>
+		<Instance Id= "135" InstanceType= "Edit Tags" >
+			<PostId>2017</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:19:20.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>754</UserId>
+			</Contributors>
+			<EditDetails>
+				Tag has been added
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, flavour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "136" InstanceType= "Unknown" >
+			<PostId>2018</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:19:20.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 754 approved by 80 edit id of 94
+			</EditDetails>
+		</Instance>
+		<Instance Id= "137" InstanceType= "Edit Tags" >
+			<PostId>2022</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:26:37.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<EditDetails>
+				Tag name: flavour -&gt; flavor
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "138" InstanceType= "Unknown" >
+			<PostId>2038</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-16T05:42:12.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				2
+			</EditDetails>
+		</Instance>
+		<Instance Id= "139" InstanceType= "Initial Body" >
+			<PostId>2151</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-10T17:06:45.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>842</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently started getting interested in smoked beers. Quite a few years back, Shiner had a seasonal called Smokehouse. I didn't care for it. However, I've recently been intrigued by varieties of smoked saisons, ipas and marzenbiers. What makes a beer smoky? Is the flavor created by casking, adding flavor or part of the brewing process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "140" InstanceType= "Initial Title" >
+			<PostId>2152</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-10T17:06:45.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>842</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What gives a "smoky" beer a smoked flavor?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "141" InstanceType= "Initial Tags" >
+			<PostId>2153</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-10T17:06:45.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>842</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, flavor, saison, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "142" InstanceType= "Unknown" >
+			<PostId>2156</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-12T01:30:12.627</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/465665211610173441
+			</EditDetails>
+		</Instance>
+		<Instance Id= "143" InstanceType= "Initial Body" >
+			<PostId>3495</PostId>
+			<ParentPostId>927</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-15T12:40:01.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					From my understanding, mead is primarily made from honey and may or may not have hops added.
+					Is mead considered a style of beer, or more of a wine, or a completely separate kind of beverage?
+
+					Are they brewed similarly? More specifically, would it be reasonable to think a brewery I like may make, or consider making mead as well?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "144" InstanceType= "Initial Title" >
+			<PostId>3496</PostId>
+			<ParentPostId>927</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-15T12:40:01.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the differences between mead and beer? Where can I try one in the US?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "145" InstanceType= "Initial Tags" >
+			<PostId>3497</PostId>
+			<ParentPostId>927</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-15T12:40:01.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, united-states, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "146" InstanceType= "Unknown" >
+			<PostId>3500</PostId>
+			<ParentPostId>927</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-16T08:54:02.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/489332117479124992
+			</EditDetails>
+		</Instance>
+		<Instance Id= "147" InstanceType= "Initial Body" >
+			<PostId>3682</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-03T01:33:38.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It's about that time of year again, when pumpkin flavored beer (and everything else) starts making its way onto store shelves.
+
+					I was wondering, what pumpkin flavored beers are out there, if any, are made with actual pumpkin and not just pumpkin pie spices?
+
+					My personal favorite is Pumpkin Head by Shipyard, but I've been unable to find any evidence that would suggest it is made with real pumpkin. Are there readily available beers made with real pumpkin? I live in western PA, but any brand not specifically available here would be good to know.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "148" InstanceType= "Initial Title" >
+			<PostId>3683</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-03T01:33:38.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					"Pumpkin" beers made with actual pumpkin?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "149" InstanceType= "Initial Tags" >
+			<PostId>3684</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-03T01:33:38.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, flavor, pennsylvania, retail-availiability, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "150" InstanceType= "Unknown" >
+			<PostId>3687</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-04T20:35:04.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/507627931405795328
+			</EditDetails>
+		</Instance>
+		<Instance Id= "151" InstanceType= "Initial Body" >
+			<PostId>3947</PostId>
+			<ParentPostId>1124</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-09T16:34:54.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>840</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I bought a kit over the summer from Northern Brewer. This kit comes with the malt extract and the grains (for color mainly). I assume the grains would be stale, so I could probably buy some new grain, but I guess the extract would stay good for a long time, right. Should I just throw it out, or is it still good? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "152" InstanceType= "Initial Title" >
+			<PostId>3948</PostId>
+			<ParentPostId>1124</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-09T16:34:54.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>840</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beek Kit - How long is it good for
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "153" InstanceType= "Initial Tags" >
+			<PostId>3949</PostId>
+			<ParentPostId>1124</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-09T16:34:54.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>840</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "154" InstanceType= "Edit Title" >
+			<PostId>4955</PostId>
+			<ParentPostId>1124</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-11T13:15:09.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<EditDetails>
+				fix typo of beek to beer
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Beer Kit - How long is it good for
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "155" InstanceType= "Unknown" >
+			<PostId>5011</PostId>
+			<ParentPostId>1124</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-26T00:42:42.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/548277690181373952
+			</EditDetails>
+		</Instance>
+		<Instance Id= "156" InstanceType= "Initial Body" >
+			<PostId>5055</PostId>
+			<ParentPostId>2172</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-03T21:24:09.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am brewing a batch of Amber Ale right now and I was wondering if it would be possible to put something in with the wort while it is fermenting in order to change it's flavor. Could I add in like orange extract or something along those lines in order to get a citrus flavor in the beer? Is there anything I can do or should that have happened when I was boiling the wort in the first place? On a different note, would it be possible to raise the alcohol percentage of the beer/ make it stronger in this stage?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "157" InstanceType= "Initial Title" >
+			<PostId>5056</PostId>
+			<ParentPostId>2172</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-03T21:24:09.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it possible to change the outcome of a beer in the fermentation stages?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "158" InstanceType= "Initial Tags" >
+			<PostId>5057</PostId>
+			<ParentPostId>2172</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-03T21:24:09.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "159" InstanceType= "Initial Body" >
+			<PostId>6150</PostId>
+			<ParentPostId>3216</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-23T06:54:47.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can anyone tell me if the USA market Becks adheres to the current definition of the Reinheitsgebot (aka German Purity Law) and what grains are used?  
+
+					I ask because I swear it tastes "ricey" like all the other American InBev beers, like Miller etc but friends swear "Oh no, it's made to German spec" and I note it's made in St. Louis where the devil makes gross Anheuser Busch products.
+
+					Thanks in advance!
+
+					- Sincerely, 
+					Someone Get Me a Growler of Dirt Wolf
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "160" InstanceType= "Initial Title" >
+			<PostId>6151</PostId>
+			<ParentPostId>3216</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-23T06:54:47.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Becks USA AB InBev
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "161" InstanceType= "Initial Tags" >
+			<PostId>6152</PostId>
+			<ParentPostId>3216</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-23T06:54:47.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "162" InstanceType= "Initial Body" >
+			<PostId>6176</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T14:06:57.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Was just curious about how the manufacturing of beer is done .
+					Can it be made at home also ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "163" InstanceType= "Initial Title" >
+			<PostId>6177</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T14:06:57.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can a beer branded like Tuborg , Budwizer be made at home locally?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "164" InstanceType= "Initial Tags" >
+			<PostId>6178</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T14:06:57.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "165" InstanceType= "Edit Body" >
+			<PostId>6182</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T21:05:59.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Clarify title to make it better match the question.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Was just curious about how the manufacturing of beer is done.
+					Can it be made at home also?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "166" InstanceType= "Edit Title" >
+			<PostId>6183</PostId>
+			<ParentPostId>3226</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-27T21:05:59.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Clarify title to make it better match the question.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Can a beer like Tuborg or Budweiser be made at home?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "167" InstanceType= "Initial Body" >
+			<PostId>6405</PostId>
+			<ParentPostId>3322</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-03T17:03:17.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3972</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently made my second batch of beer.  It's a pumpkin ale.  I am finding that the bottles contain a large amount of sediment, almost like slush at the bottom the bottle.  The beer is delicious, but I'm wondering how I can prevent this in the future.  My first batch of beer was the White House Honey Ale and those were pretty much sediment free.
+
+					What influences the amount of sediment?  Should I be "filtering" at some point in the process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "168" InstanceType= "Initial Title" >
+			<PostId>6406</PostId>
+			<ParentPostId>3322</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-03T17:03:17.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3972</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I limit the amount of sediment in bottles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "169" InstanceType= "Initial Tags" >
+			<PostId>6407</PostId>
+			<ParentPostId>3322</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-03T17:03:17.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3972</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, bottle-conditioning, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "170" InstanceType= "Initial Body" >
+			<PostId>6459</PostId>
+			<ParentPostId>3350</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T08:49:22.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4024</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Lagers][1] traditionally were made in the colder months and stored (lagered) in caves. As lager yeast prefers a [colder fermentation and conditioning temperature][2] than ales, why is lager regularly made in hot, tropical climates around the world instead of more temperature tolerant ales, or just imported?
+
+					On a tour around the Tiger Brewery in Singapore where the average temperature is 30 deg C, the guide mentioned the brewery started in 1932 and used a "tropical lagering process". The guide wasn't sure of details, and I haven't found details elsewhere on this process.
+
+					Is it a simple matter of economics, that it's cheaper to brew lager locally even with climate control than to import, or is there a way to successfully brew lagers at high temperatures?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Lager
+					  [2]: https://www.wyeastlab.com/he_b_fermentation.cfm
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "171" InstanceType= "Initial Title" >
+			<PostId>6460</PostId>
+			<ParentPostId>3350</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T08:49:22.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4024</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do lagers get made in tropical climates?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "172" InstanceType= "Initial Tags" >
+			<PostId>6461</PostId>
+			<ParentPostId>3350</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T08:49:22.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4024</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, temperature, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "173" InstanceType= "Initial Body" >
+			<PostId>6474</PostId>
+			<ParentPostId>3356</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-01T18:20:43.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4070</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I received a true beginner's homebrew kit from a relative as a Christmas gift, decided to attempt a brew and followed the directions as close to perfect as I could.
+
+					After the entire process was completed I wound up with something that did not really pour, smell or look like beer. Obviously I have done something wrong and need to try again, but my question is: 
+
+					Assuming an enthusiast observes a respectable level of sanitation in the process of the brew, but perhaps severely deviates from the instructions at some point in the process, how can they tell if their brew is actually fit (or unfit) to drink? Are there tell-tale smells/colours/heads that indicate a "spoiled" beverage?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "174" InstanceType= "Initial Title" >
+			<PostId>6475</PostId>
+			<ParentPostId>3356</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-01T18:20:43.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4070</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I know if home brews are safe to drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "175" InstanceType= "Initial Tags" >
+			<PostId>6476</PostId>
+			<ParentPostId>3356</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-01T18:20:43.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4070</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "176" InstanceType= "Post Locked" >
+			<PostId>6501</PostId>
+			<ParentPostId>3322</ParentPostId>
+			<Title>
+			"Post Locked"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-07T06:00:47.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "177" InstanceType= "Unknown" >
+			<PostId>6502</PostId>
+			<ParentPostId>3322</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-07T06:00:47.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				to http://homebrew.stackexchange.com/questions/15280/how-do-i-limit-the-amount-of-sediment-in-bottles
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "178" InstanceType= "Post Closed" >
+			<PostId>6504</PostId>
+			<ParentPostId>3322</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-07T06:00:47.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "179" InstanceType= "Post Reopened" >
+			<PostId>6505</PostId>
+			<ParentPostId>3322</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-07T06:01:13.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "180" InstanceType= "Initial Body" >
+			<PostId>6507</PostId>
+			<ParentPostId>3369</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T18:22:31.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4070</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have long entertained gossip from self-proclaimed "beer connoisseurs" that the Guiness I am drinking is not really brewed in Ireland, nor the Beck's from Germany. 
+
+					I would imagine that where you are in the world really does determine where your particular bottle of macro brand X was bottled, so my question is how can you determine the true origin of the bottle -- can you trust the location on the bottle next to "brewed and bottled by..."?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "181" InstanceType= "Initial Title" >
+			<PostId>6508</PostId>
+			<ParentPostId>3369</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T18:22:31.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4070</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to determine where your beer was really bottled?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "182" InstanceType= "Initial Tags" >
+			<PostId>6509</PostId>
+			<ParentPostId>3369</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T18:22:31.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4070</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, bottling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "183" InstanceType= "Unknown" >
+			<PostId>6542</PostId>
+			<ParentPostId>3356</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-15T16:24:05.827</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/599248898641809409
+			</EditDetails>
+		</Instance>
+		<Instance Id= "184" InstanceType= "Unknown" >
+			<PostId>6803</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-21T00:30:05.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/623288802237358080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "185" InstanceType= "Initial Body" >
+			<PostId>6808</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-22T02:24:23.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What exactly is involved in the brewing process that turns a beer 'sour'?  Is it the addition of certain lactic acids or yeasts? I've been told before that, technically, a sour beer is a the result of the brewing process gone wrong (obviously this is controlled when that outcome is intentional). How true is this? 
+
+					The opinion part of my question: what are some excellent sour beers that you guys recommend? I have a few favorites, but am always looking for great suggestions. 
+
+					Some of my current favorites are Westbrook Gose (salty and sour), 4 Hands Prussia Berliner (passionfruit sour), New Belgian Hop Tart, Omer Vander's Cuvees Des Jacobins Rouge, and Brouwerij's Petrus Aged Ale 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "186" InstanceType= "Initial Title" >
+			<PostId>6809</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-22T02:24:23.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Sour Beer (Gose, Wild Ales, Lambics)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "187" InstanceType= "Initial Tags" >
+			<PostId>6810</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-22T02:24:23.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, ingredients, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "188" InstanceType= "Unknown" >
+			<PostId>6818</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-23T15:31:45.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/624240490695794688
+			</EditDetails>
+		</Instance>
+		<Instance Id= "189" InstanceType= "Unknown" >
+			<PostId>6820</PostId>
+			<ParentPostId>297</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-23T21:31:46.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/624331090644336640
+			</EditDetails>
+		</Instance>
+		<Instance Id= "190" InstanceType= "Unknown" >
+			<PostId>6837</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-29T23:17:19.467</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				6
+			</EditDetails>
+		</Instance>
+		<Instance Id= "191" InstanceType= "Unknown" >
+			<PostId>6849</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-02T06:06:21.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				6
+			</EditDetails>
+		</Instance>
+		<Instance Id= "192" InstanceType= "Initial Body" >
+			<PostId>7900</PostId>
+			<ParentPostId>4533</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-18T10:36:25.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4423</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm a hop lover, recently I found one of bests [`IIPA`][1] I ever tasted ([I don't know if I can name beer / brand][2])
+
+					I've found at the bottom of the bottle, there are no yeast rests, but yes hop leafs. **`:)`** sweet!
+
+					One friend tell me this technike is called `bottle dry-hopping`, consisting in introducing a little bud of hop in each bottle.
+
+					I've heard about [`dry-hopping`][2] but before botteling the beer, also i know  `Hop Spider`, is a filter you fill with hop for the freezing step.
+
+					Three techniques are great and give nice results at the end, so:
+
+					* Anyone knows about other techniques using hops to add flavour and aroma **AFTER** cooking the beer? 
+
+
+					  [1]: http://naparbier.com/menu/hop-doom/
+					  [2]: http://meta.beer.stackexchange.com/questions/100/can-i-link-a-beer-brand-or-specific-model-or-should-i-be-generic
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "193" InstanceType= "Initial Title" >
+			<PostId>7901</PostId>
+			<ParentPostId>4533</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-18T10:36:25.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4423</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Techniques to add flavour and aroma to beer with hops
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "194" InstanceType= "Initial Tags" >
+			<PostId>7902</PostId>
+			<ParentPostId>4533</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-18T10:36:25.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4423</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, brewing, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "195" InstanceType= "Initial Body" >
+			<PostId>8039</PostId>
+			<ParentPostId>4588</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-17T10:31:49.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4538</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I enjoy brewing and the challenges involved. I am self thought and rather good with my sweet beers.
+
+					I am South-African and want to know how to Go legal, If it is worth the costs involved and Challenges ahead.
+
+					Thanx
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "196" InstanceType= "Initial Title" >
+			<PostId>8040</PostId>
+			<ParentPostId>4588</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-17T10:31:49.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4538</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I go legal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "197" InstanceType= "Initial Tags" >
+			<PostId>8041</PostId>
+			<ParentPostId>4588</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-17T10:31:49.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4538</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "198" InstanceType= "Edit Body" >
+			<PostId>8049</PostId>
+			<ParentPostId>4588</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-19T15:30:07.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Removed inappropriate tag, updated subject to be more specific, removed salutation, improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I enjoy brewing and the challenges involved. I am self taught and rather good with my sweet beers.
+
+					I am South-African and want to know how to go legal and if it is worth the costs  and challenges invloved.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "199" InstanceType= "Edit Title" >
+			<PostId>8050</PostId>
+			<ParentPostId>4588</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-19T15:30:07.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Removed inappropriate tag, updated subject to be more specific, removed salutation, improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How to homebrew legally in South Africa?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "200" InstanceType= "Edit Tags" >
+			<PostId>8051</PostId>
+			<ParentPostId>4588</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-19T15:30:07.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Removed inappropriate tag, updated subject to be more specific, removed salutation, improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "201" InstanceType= "Unknown" >
+			<PostId>8106</PostId>
+			<ParentPostId>4588</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-05T17:10:09.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/651081955950370816
+			</EditDetails>
+		</Instance>
+		<Instance Id= "202" InstanceType= "Initial Body" >
+			<PostId>8522</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T09:24:31.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard lately, that the german beer [*Warsteiner*][1] does not fullfill the german [**Reinheitsgebot**][2] and therefore is not a [*Pilsner*][3].
+
+					Is that true and if yes, what is being done differently?
+
+
+					  [1]: http://www.warsteiner.com/
+					  [2]: http://beer.stackexchange.com/a/431/4947
+					  [3]: https://en.wikipedia.org/wiki/Pilsner
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "203" InstanceType= "Initial Title" >
+			<PostId>8523</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T09:24:31.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is the german "Warsteiner" a Pilsner?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "204" InstanceType= "Initial Tags" >
+			<PostId>8524</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T09:24:31.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "205" InstanceType= "Edit Body" >
+			<PostId>8532</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-14T09:17:13.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<EditDetails>
+				rephrased question according to comments
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've heard lately, that the german beer [*Warsteiner*][1] &lt;strike&gt;does not fullfill the german [**Reinheitsgebot**][2] and therefore is&lt;/strike&gt; is not allowed to be called [*Pilsner*][3], that is why they call it a *Premium Verum*.
+
+					Is that true and if yes, why?
+
+
+					  [1]: http://www.warsteiner.com/
+					  [2]: http://beer.stackexchange.com/a/431/4947
+					  [3]: https://en.wikipedia.org/wiki/Pilsner
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "206" InstanceType= "Unknown" >
+			<PostId>8592</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-31T08:38:39.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/693715001421471745
+			</EditDetails>
+		</Instance>
+		<Instance Id= "207" InstanceType= "Initial Body" >
+			<PostId>8699</PostId>
+			<ParentPostId>4839</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-19T01:37:52.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					This question might be a bit broad, but what I'm trying to understand is generally how the brewing process and the subsequent end result differed before the early-modern to modern era. 
+
+					I had asked a question here some months back on where I could find some historical styles of beer, but without having much luck I thought I'd try to get at least an understanding of what's known about the evolution of beer from ancient to medieval to modern times. 
+
+					**So the question is**: if I was a European medieval man drinking beer circa 6th-15th centuries what would that beer have been like? How did it differ from what we've been brewing for the last few centuries? And is that product distinct from what existed in ancient times?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "208" InstanceType= "Initial Title" >
+			<PostId>8700</PostId>
+			<ParentPostId>4839</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-19T01:37:52.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between historical beer and 'modern' beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "209" InstanceType= "Initial Tags" >
+			<PostId>8701</PostId>
+			<ParentPostId>4839</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-19T01:37:52.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, history, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "210" InstanceType= "Unknown" >
+			<PostId>8732</PostId>
+			<ParentPostId>4839</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-23T07:21:06.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/702030407928254465
+			</EditDetails>
+		</Instance>
+		<Instance Id= "211" InstanceType= "Initial Body" >
+			<PostId>8926</PostId>
+			<ParentPostId>4922</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T20:27:29.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5294</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would like to start this hobby however I don't know how hard is to do it in a semi desert climate. Should I have a place with cool temperature to avoid spoiling the brew?
+
+					Thanks in advance.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "212" InstanceType= "Initial Title" >
+			<PostId>8927</PostId>
+			<ParentPostId>4922</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T20:27:29.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5294</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How hard is to brew beer in a hot climate?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "213" InstanceType= "Initial Tags" >
+			<PostId>8928</PostId>
+			<ParentPostId>4922</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T20:27:29.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5294</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "214" InstanceType= "Edit Body" >
+			<PostId>9234</PostId>
+			<ParentPostId>119</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-24T22:56:53.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>122</UserId>
+			</Contributors>
+			<EditDetails>
+				added missing tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Pasteurizing is a common task at industrial brewers. But in a home brewing context following questions arises:
+
+					- Is it feasible to pasteurize in the kitchen?
+					- Which equipment is necessary to do it?
+					- What are the best-practices of such process?
+					- Is there a risk of degrading the overall taste of the beer?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "215" InstanceType= "Edit Tags" >
+			<PostId>9235</PostId>
+			<ParentPostId>119</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-24T22:56:53.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>122</UserId>
+			</Contributors>
+			<EditDetails>
+				added missing tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "216" InstanceType= "Unknown" >
+			<PostId>9236</PostId>
+			<ParentPostId>119</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-24T22:56:53.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 122 approved by 43, 73 edit id of 181
+			</EditDetails>
+		</Instance>
+		<Instance Id= "217" InstanceType= "Initial Body" >
+			<PostId>9247</PostId>
+			<ParentPostId>5034</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-26T13:39:10.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					During a conversation a friend of mine mentioned something about 
+					*Bottom fermentation* and I did not fully understand what this was. I understand when something is fermented, but what is the difference when talking about bottom fermentation?
+
+					Does this process have a effect of the type of drink produced or taste it has ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "218" InstanceType= "Initial Title" >
+			<PostId>9248</PostId>
+			<ParentPostId>5034</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-26T13:39:10.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does “bottom fermented” mean?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "219" InstanceType= "Initial Tags" >
+			<PostId>9249</PostId>
+			<ParentPostId>5034</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-26T13:39:10.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "220" InstanceType= "Edit Tags" >
+			<PostId>9266</PostId>
+			<ParentPostId>273</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T14:47:53.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "221" InstanceType= "Edit Tags" >
+			<PostId>9272</PostId>
+			<ParentPostId>297</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:05:49.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				retagged qeueston
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "222" InstanceType= "Unknown" >
+			<PostId>9273</PostId>
+			<ParentPostId>297</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:05:49.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5078 approved by 43, 37 edit id of 191
+			</EditDetails>
+		</Instance>
+		<Instance Id= "223" InstanceType= "Unknown" >
+			<PostId>9383</PostId>
+			<ParentPostId>5034</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-09T06:18:13.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/740790081666043904
+			</EditDetails>
+		</Instance>
+		<Instance Id= "224" InstanceType= "Initial Body" >
+			<PostId>9828</PostId>
+			<ParentPostId>5213</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-23T01:46:52.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5691</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am trying to think of what US brewed beer tastes most similar to a Weihenstephaner Hefeweissbier...
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "225" InstanceType= "Initial Title" >
+			<PostId>9829</PostId>
+			<ParentPostId>5213</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-23T01:46:52.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5691</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is a comparable beer to Weihenstephaner Hefeweissbier?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "226" InstanceType= "Initial Tags" >
+			<PostId>9830</PostId>
+			<ParentPostId>5213</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-23T01:46:52.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5691</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, brewing, recommendations, german-beers, foam, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "227" InstanceType= "Edit Tags" >
+			<PostId>9847</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:35:52.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, recommendations, sour-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "228" InstanceType= "Initial Body" >
+			<PostId>11050</PostId>
+			<ParentPostId>6288</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-16T14:29:42.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4109</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am living in Germany and know at least 2 people how did it. But why would you take the risk if you could just buy very good beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "229" InstanceType= "Initial Title" >
+			<PostId>11051</PostId>
+			<ParentPostId>6288</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-16T14:29:42.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4109</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why want people brew their own beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "230" InstanceType= "Initial Tags" >
+			<PostId>11052</PostId>
+			<ParentPostId>6288</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-16T14:29:42.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4109</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "231" InstanceType= "Edit Body" >
+			<PostId>11059</PostId>
+			<ParentPostId>6288</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-17T13:06:58.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I am living in Germany and know at least 2 people that do it. But why would you take the risk if you could just buy very good beer at your local stores?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "232" InstanceType= "Edit Title" >
+			<PostId>11060</PostId>
+			<ParentPostId>6288</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-17T13:06:58.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why do people brew their own beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "233" InstanceType= "Initial Body" >
+			<PostId>11085</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-23T23:21:11.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5948</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I like sour beers and am curious what makes them sour. What's the process that results in the range of sourness? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "234" InstanceType= "Initial Title" >
+			<PostId>11086</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-23T23:21:11.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5948</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What makes sour beers sour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "235" InstanceType= "Initial Tags" >
+			<PostId>11087</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-23T23:21:11.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5948</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, brewing, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "236" InstanceType= "Edit Tags" >
+			<PostId>11098</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-26T07:25:54.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, brewing, sour-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "237" InstanceType= "Unknown" >
+			<PostId>11189</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-08T18:44:36.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/784826844776398848
+			</EditDetails>
+		</Instance>
+		<Instance Id= "238" InstanceType= "Unknown" >
+			<PostId>11340</PostId>
+			<ParentPostId>6288</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-13T13:15:38.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/797790023231934464
+			</EditDetails>
+		</Instance>
+		<Instance Id= "239" InstanceType= "Initial Body" >
+			<PostId>11386</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "240" InstanceType= "Initial Title" >
+			<PostId>11387</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can absinthe be colored into a different colour other than green?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "241" InstanceType= "Initial Tags" >
+			<PostId>11388</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, colour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "242" InstanceType= "Unknown" >
+			<PostId>11389</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T20:09:29.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/802967600967929857
+			</EditDetails>
+		</Instance>
+		<Instance Id= "243" InstanceType= "Edit Body" >
+			<PostId>11406</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-30T13:23:32.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<EditDetails>
+				Added image
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+
+					I'm attaching an image for you to know what I'm talking about:
+
+					[These are the ones I saw][1]
+
+
+					  [1]: https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "244" InstanceType= "Initial Body" >
+			<PostId>11590</PostId>
+			<ParentPostId>6477</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-08T21:45:08.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6275</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					As a beer lover I've enjoyed thousands of great beers over the years. In doing so I've learned a fair amount about the differences in types of beer and how they're brewed, but I'd like to take the next step and brew my own. 
+
+					There's a ton of information online regarding home-brewing, and it's hard to tell what's correct, what's good and what's nonsense. I'd prefer to attend a hands-on course to learn, taste and ask questions about the beer brewing process. 
+
+					Here is a (in-complete, unordered) list of the places I've come across:
+
+					 - [Brew Club](https://www.brewclub.uk.com/)
+					 - [UBrew](https://ubrew.cc/)
+					 - [London Fields Brewery](https://londonfieldsbrewery.co.uk/homebrewing-classes/)
+					 - [London Beer Lab](http://www.londonbeerlab.com/)
+					 - [Brewlab](http://www.brewlab.co.uk/)
+
+					Has you attended the beer brewing classes available around London? If so, which do you recommend? Why? 
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "245" InstanceType= "Initial Title" >
+			<PostId>11591</PostId>
+			<ParentPostId>6477</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-08T21:45:08.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6275</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recommendations for learning how to brew beer in London?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "246" InstanceType= "Initial Tags" >
+			<PostId>11592</PostId>
+			<ParentPostId>6477</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-08T21:45:08.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6275</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "247" InstanceType= "Initial Body" >
+			<PostId>11593</PostId>
+			<ParentPostId>6478</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-09T01:04:53.513</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6275</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Thinking of brewing my own beer and am interested in making some reusable labels using cling stickers - the kind you see for auto window stickers.
+
+					Has anyone used cling labels and do they stay adhered when chilled and when the bottle has condensation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "248" InstanceType= "Initial Title" >
+			<PostId>11594</PostId>
+			<ParentPostId>6478</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-09T01:04:53.513</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6275</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Cling labels for beer bottles
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "249" InstanceType= "Initial Tags" >
+			<PostId>11595</PostId>
+			<ParentPostId>6478</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-09T01:04:53.513</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6275</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, bottling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "250" InstanceType= "Unknown" >
+			<PostId>11710</PostId>
+			<ParentPostId>6477</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-09T20:22:20.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "251" InstanceType= "Unknown" >
+			<PostId>11730</PostId>
+			<ParentPostId>6477</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-12T17:39:13.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/830833650333782017
+			</EditDetails>
+		</Instance>
+		<Instance Id= "252" InstanceType= "Initial Body" >
+			<PostId>11775</PostId>
+			<ParentPostId>6540</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T17:09:44.893</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6402</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I read yet [this](https://en.wikipedia.org/wiki/Beer_in_Japan) on Wikipedia and some small articles.
+
+					The left me unsatisfied.
+
+					My question is quite thin:
+
+					&gt; **What is the history of brewing in Japan?**
+
+					Please, take in mind following sub-related-questions:
+
+					&gt; • Since the brewing techniques were imported, how did brewing techniques changed until today?
+
+					&gt; • Does Japaneses maintained traditional techniques or invented some new
+					&gt; ones?
+					&gt;
+
+					&gt;• There have been cases where they have combined European
+					&gt; techniques with ancient japan fermentation techniques (before the
+					&gt; arrival of Europeans)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "253" InstanceType= "Initial Title" >
+			<PostId>11776</PostId>
+			<ParentPostId>6540</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T17:09:44.893</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6402</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Japanese beers historic evolution
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "254" InstanceType= "Initial Tags" >
+			<PostId>11777</PostId>
+			<ParentPostId>6540</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-15T17:09:44.893</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6402</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, history, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "255" InstanceType= "Edit Body" >
+			<PostId>11780</PostId>
+			<ParentPostId>6540</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-16T07:35:24.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed a few spelling / capitalization issues and a bit of grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I read yet [this](https://en.wikipedia.org/wiki/Beer_in_Japan) on Wikipedia and some small articles.
+
+					The articles didn't satisfy my curiosity.
+
+					My question is:
+
+					&gt; **What is the history of brewing in Japan?**
+
+					Please, take in mind following sub-related-questions:
+
+					&gt; • Since the brewing techniques were imported, how did the brewing techniques evolve?
+
+					&gt; • Have the Japanese maintained traditional techniques or invented some new
+					&gt; ones?
+					&gt;
+
+					&gt;• There have been cases where they have combined European
+					&gt; techniques with ancient Japanese fermentation techniques - was this before the arrival of Europeans?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "256" InstanceType= "Unknown" >
+			<PostId>11781</PostId>
+			<ParentPostId>6540</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-16T07:35:24.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6366 approved by 5078 edit id of 291
+			</EditDetails>
+		</Instance>
+		<Instance Id= "257" InstanceType= "Unknown" >
+			<PostId>11789</PostId>
+			<ParentPostId>6540</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-17T12:14:52.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/832563967058907137
+			</EditDetails>
+		</Instance>
+		<Instance Id= "258" InstanceType= "Edit Body" >
+			<PostId>12127</PostId>
+			<ParentPostId>4922</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-06T07:55:58.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6509</UserId>
+			</Contributors>
+			<EditDetails>
+				Removed thank you 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I would like to start this hobby however I don't know how hard is to do it in a semi desert climate. Should I have a place with cool temperature to avoid spoiling the brew?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "259" InstanceType= "Unknown" >
+			<PostId>12128</PostId>
+			<ParentPostId>4922</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-06T07:55:58.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6509 approved by 5064, 5078 edit id of 297
+			</EditDetails>
+		</Instance>
+		<Instance Id= "260" InstanceType= "Edit Body" >
+			<PostId>12235</PostId>
+			<ParentPostId>4533</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T08:31:08.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://meta.beer.stackexchange.com/ with https://alcohol.meta.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm a hop lover, recently I found one of bests [`IIPA`][1] I ever tasted ([I don't know if I can name beer / brand][2])
+
+					I've found at the bottom of the bottle, there are no yeast rests, but yes hop leafs. **`:)`** sweet!
+
+					One friend tell me this technike is called `bottle dry-hopping`, consisting in introducing a little bud of hop in each bottle.
+
+					I've heard about [`dry-hopping`][2] but before botteling the beer, also i know  `Hop Spider`, is a filter you fill with hop for the freezing step.
+
+					Three techniques are great and give nice results at the end, so:
+
+					* Anyone knows about other techniques using hops to add flavour and aroma **AFTER** cooking the beer? 
+
+
+					  [1]: http://naparbier.com/menu/hop-doom/
+					  [2]: https://alcohol.meta.stackexchange.com/questions/100/can-i-link-a-beer-brand-or-specific-model-or-should-i-be-generic
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "261" InstanceType= "Unknown" >
+			<PostId>12287</PostId>
+			<ParentPostId>4922</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-22T10:01:43.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/844489256022224897
+			</EditDetails>
+		</Instance>
+		<Instance Id= "262" InstanceType= "Unknown" >
+			<PostId>12321</PostId>
+			<ParentPostId>14</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-27T13:26:13.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/846352662610227200
+			</EditDetails>
+		</Instance>
+		<Instance Id= "263" InstanceType= "Edit Body" >
+			<PostId>12486</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T04:10:48.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added Linked Image for clarity.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+
+					I'm attaching an image for you to know what I'm talking about:
+
+					[These are the ones I saw][1]
+
+					[![Colored Absinthe][2]][2]
+
+
+					  [1]: https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg
+					  [2]: https://i.stack.imgur.com/XN8TE.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "264" InstanceType= "Edit Body" >
+			<PostId>12519</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've heard lately, that the german beer [*Warsteiner*][1] &lt;strike&gt;does not fullfill the german [**Reinheitsgebot**][2] and therefore is&lt;/strike&gt; is not allowed to be called [*Pilsner*][3], that is why they call it a *Premium Verum*.
+
+					Is that true and if yes, why?
+
+
+					  [1]: http://www.warsteiner.com/
+					  [2]: https://alcohol.stackexchange.com/a/431/4947
+					  [3]: https://en.wikipedia.org/wiki/Pilsner
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "265" InstanceType= "Edit Tags" >
+			<PostId>12524</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T12:22:37.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, colour, absinthe, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "266" InstanceType= "Edit Body" >
+			<PostId>12541</PostId>
+			<ParentPostId>672</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T12:46:00.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://homebrew.stackexchange.com/ with https://homebrew.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is this practiced commercially? I'm not sure if it would scale very well, because I understand that the technique [takes a long time](https://homebrew.stackexchange.com/questions/146/whats-the-best-method-to-catch-a-strain-of-wild-yeast-for-homebrewing) even for a home brew batch. 
+
+					If so, what beers are brewed using this technique and why? Is it specific types of beer, or specific brewers, perhaps going for the "organic" angle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "267" InstanceType= "Initial Body" >
+			<PostId>13426</PostId>
+			<ParentPostId>7071</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-14T06:43:42.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					These canned, additive-free cherries are packed in their own juice, watered down.  I previously left this juice in a plastic water bottle while drinking it, for only three days, and it became pleasantly bubbly - carbonated juice.  A honey and water mix used for eye medicine turned into a strong alcohol over just 1-2 weeks (it was only one ounce of mixture).  This time, I used the extra, way-too-high amount of yeast to put in the juice, but after two months, it is still just sour juice, and no tasteable bubbles.  So I added a very small piece of kombucha SCOBY - maybe it will become kombhcha-like or become fuzzy juice.  One week later, it taste exactly the same.  Two weeks after that, it is vinegar.  It was never wine and it was never kombucha.  Why?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "268" InstanceType= "Initial Title" >
+			<PostId>13427</PostId>
+			<ParentPostId>7071</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-14T06:43:42.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why did my cherry juice turn directly into vinegar while never being wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "269" InstanceType= "Initial Tags" >
+			<PostId>13428</PostId>
+			<ParentPostId>7071</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-14T06:43:42.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, wine, yeast, fermentation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "270" InstanceType= "Initial Body" >
+			<PostId>13519</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-09T18:42:12.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					While we generally focus on glucose, sucrose, and fructose for brewing, there are [a lot of sugars](https://en.wikipedia.org/wiki/List_of_sugars) out there. Can all of these be used in the brewing process, particularly for beer? What are the effects of using more esoteric sugars such as dextrose, xylose, mycose, or mannose alongside normal brewing grains? What about amino sugars such as glucosamine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "271" InstanceType= "Initial Title" >
+			<PostId>13520</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-09T18:42:12.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can all sugars be used for brewing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "272" InstanceType= "Initial Tags" >
+			<PostId>13521</PostId>
+			<ParentPostId>7111</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-09T18:42:12.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7415</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, yeast, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "273" InstanceType= "Initial Body" >
+			<PostId>13601</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-26T16:09:50.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm one of those people who puts nearly all my energy into things other than brewing.  And yet I still do it a little.  That's why I have a carboy of cider that is 18 months old in my basement.
+
+					I don't know if the cider will be good or not when I try to bottle it, but I do know that all bubbling stopped long, long ago.  I'm not sure if all the yeast is dead at this point (does that happen?) or if all the sugar is gone.  Seems like one or the other must be true though.
+
+					So on the off chance that I don't need to just pour this down the drain, what's my best bet for getting it carbonated in the growlers?  Yeast?  Sugar (though I actually used all honey initially)?  Both?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "274" InstanceType= "Initial Title" >
+			<PostId>13602</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-26T16:09:50.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to recover a carboy of cider?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "275" InstanceType= "Initial Tags" >
+			<PostId>13603</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-26T16:09:50.190</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, carbonation, cider, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "276" InstanceType= "Unknown" >
+			<PostId>13616</PostId>
+			<ParentPostId>7136</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-29T18:31:48.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/946811000375992322
+			</EditDetails>
+		</Instance>
+		<Instance Id= "277" InstanceType= "Edit Body" >
+			<PostId>13625</PostId>
+			<ParentPostId>7071</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-01T14:27:40.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7266</UserId>
+			</Contributors>
+			<EditDetails>
+				added 1 character in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					These canned, additive-free cherries are packed in their own juice, watered down.  I previously left this juice in a plastic water bottle while drinking it, for only three days, and it became pleasantly bubbly - carbonated juice.  A honey and water mix used for eye medicine turned into a strong alcohol over just 1-2 weeks (it was only one ounce of mixture).  This time, I used the extra, way-too-high amount of yeast to put in the juice, but after two months, it is still just sour juice, and no tasteable bubbles.  So I added a very small piece of kombucha SCOBY - maybe it will become kombucha-like or become fuzzy juice.  One week later, it tastes exactly the same.  Two weeks after that, it is vinegar.  It was never wine and it was never kombucha.  Why?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "278" InstanceType= "Initial Body" >
+			<PostId>13732</PostId>
+			<ParentPostId>7183</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-07T23:43:32.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm becoming more interested in brewing my own beer and due to space considerations am thinking a 1-gallon size may be my ideal choice of kit.
+
+					The question is:
+
+					**In what ways does brewing from a 1 gallon kit affect the quality of beer that's produced, as opposed to brewing from more robust kits?**
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "279" InstanceType= "Initial Title" >
+			<PostId>13733</PostId>
+			<ParentPostId>7183</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-07T23:43:32.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The quality of beer from one gallon brewing kits versus more robust kits
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "280" InstanceType= "Initial Tags" >
+			<PostId>13734</PostId>
+			<ParentPostId>7183</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-07T23:43:32.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "281" InstanceType= "Edit Body" >
+			<PostId>13736</PostId>
+			<ParentPostId>7183</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-08T12:39:39.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<EditDetails>
+				added 220 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm becoming more interested in brewing my own beer and due to space considerations am thinking a 1-gallon size may be my ideal choice of setup.
+
+					The question is:
+
+					**In what ways does brewing with 1 gallon equipment effect the quality of beer that's produced, as opposed to brewing from more robust and expensive setups?**
+
+					edit: May have used the 'kit' terminology in a way I didn't intend. Basically what I'm asking is if 1 gallon equipment will produce a lesser quality beer than a more expensive, and bigger setup.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "282" InstanceType= "Edit Title" >
+			<PostId>13737</PostId>
+			<ParentPostId>7183</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-08T12:39:39.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<EditDetails>
+				added 220 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					The quality of beer from one gallon brewing equipment versus more robust equipment
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "283" InstanceType= "Initial Body" >
+			<PostId>14392</PostId>
+			<ParentPostId>7400</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-26T11:21:47.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any historical cases where actual [POWs][1] made some form of alcohol while being held prisoner by [belligerent][2] forces in a POW camp?
+
+					While watching the classic movie [The Great Escape (1963)][3], I noticed that there is a scene in which three POWs made some moonshine out of potatoes. You can watch this scene on YouTube [here][4].
+
+					Are there any documented cases of POWs making some form of alcohol under the noses of their enemy while being held in a POW encampment?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Prisoner_of_war
+					  [2]: https://en.wikipedia.org/wiki/Belligerent
+					  [3]: https://www.imdb.com/title/tt0057115/
+					  [4]: https://www.youtube.com/watch?v=Md2GFtBCIh8
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "284" InstanceType= "Initial Title" >
+			<PostId>14393</PostId>
+			<ParentPostId>7400</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-26T11:21:47.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any historical cases where actual POWs made some form of alcohol while being held in a POW camp?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "285" InstanceType= "Initial Tags" >
+			<PostId>14394</PostId>
+			<ParentPostId>7400</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-26T11:21:47.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "286" InstanceType= "Initial Body" >
+			<PostId>14461</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T18:54:00.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7991</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was going through a brochure in brewing and it mentioned Single Turn, Double Turn and Triple turn brewing. However, it did not mention what those mean. I would really appreciate if anyone with knowledge of this enlighten me on this. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "287" InstanceType= "Initial Title" >
+			<PostId>14462</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T18:54:00.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7991</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does Single Turn, Double Turn and Triple Turn mean in brewing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "288" InstanceType= "Initial Tags" >
+			<PostId>14463</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T18:54:00.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7991</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "289" InstanceType= "Unknown" >
+			<PostId>14477</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-10T21:00:42.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1028023356371738625
+			</EditDetails>
+		</Instance>
+		<Instance Id= "290" InstanceType= "Initial Body" >
+			<PostId>14480</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I want to brew beer and I wonder which temperature I should ferment it at?
+					I want to brew ales like IPA and Pale Ale.
+
+					What difference does different fermentation temperatures have on the beer? Are there different temperatures needed when brewing different kinds of beers with different yeasts?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "291" InstanceType= "Initial Title" >
+			<PostId>14481</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Brewing: Which temperature should I ferment ale beer at?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "292" InstanceType= "Initial Tags" >
+			<PostId>14482</PostId>
+			<ParentPostId>7430</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:48:21.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, german-beers, craft-beers, home-brew, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "293" InstanceType= "Initial Body" >
+			<PostId>14483</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:51:25.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I live close to a farm and I have access to fresh barley. How would I go forward to create barley malt, so I can brew for example a Pale Ale beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "294" InstanceType= "Initial Title" >
+			<PostId>14484</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:51:25.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I create, dry or roast my own barley malt for beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "295" InstanceType= "Initial Tags" >
+			<PostId>14485</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:51:25.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, home-brew, malt, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "296" InstanceType= "Initial Body" >
+			<PostId>14486</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:57:15.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am wondering because I want to brew these styles of beer myself.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "297" InstanceType= "Initial Title" >
+			<PostId>14487</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:57:15.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the differences between Pale Ale (PA), India Pale Ale (IPA) and American Pale Ale (APA)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "298" InstanceType= "Initial Tags" >
+			<PostId>14488</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T18:57:15.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, craft-beers, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "299" InstanceType= "Initial Body" >
+			<PostId>14489</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T19:01:00.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have fresh hops and I wish to dry them for storage in vacuum packed bags. Which methods can I use for drying them, and what are the differences in quality?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "300" InstanceType= "Initial Title" >
+			<PostId>14490</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T19:01:00.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer Brewing: How do I dry fresh hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "301" InstanceType= "Initial Tags" >
+			<PostId>14491</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-11T19:01:00.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, craft-beers, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "302" InstanceType= "Post Locked" >
+			<PostId>14496</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Post Locked"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T21:26:13.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "303" InstanceType= "Unknown" >
+			<PostId>14497</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T21:26:13.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				to https://homebrew.stackexchange.com/questions/23245/beer-brewing-how-do-i-dry-fresh-hops
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "304" InstanceType= "Post Closed" >
+			<PostId>14498</PostId>
+			<ParentPostId>7433</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T21:26:13.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "305" InstanceType= "Unknown" >
+			<PostId>14501</PostId>
+			<ParentPostId>7432</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-13T21:01:34.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1029110738890182659
+			</EditDetails>
+		</Instance>
+		<Instance Id= "306" InstanceType= "Post Locked" >
+			<PostId>14502</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Post Locked"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-14T02:12:37.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "307" InstanceType= "Unknown" >
+			<PostId>14503</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-14T02:12:37.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				to https://homebrew.stackexchange.com/questions/23253/how-do-i-create-dry-or-roast-my-own-barley-malt-for-beer
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "308" InstanceType= "Post Closed" >
+			<PostId>14505</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-14T02:12:37.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

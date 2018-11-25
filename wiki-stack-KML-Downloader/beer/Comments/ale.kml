@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>883</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-11T16:53:31.147</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					+1 one for having the guts to ask this, no pun intended
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>884</PostId>
+			<ParentPostId>720</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-11T22:34:28.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					AFAIK: grain &gt; malt &gt; beer, but fruit &gt; fruit juice &gt; wine, so fuit is **pressed** while grain is **germinated** to produce what is then fermented.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="2">
+			<PostId>2143</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-10-17T13:20:27.333</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I would suggest you trim down your question pretty seriously.  I'm going to try to answer some of the more cogent points, but there's a lot to this post that's unnecessary to the question and gives the sense of "drinking craft beer makes me cool".  I apologize if that's phrased offensively, but I think you'll spur a lot better discussion if you rephrase your post with less editorializing.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>2145</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-10-19T21:47:08.003</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Agreed w/ @Sloloem. The narrative doesn't clarify or add substance to your question. Please trim your question soon. I'm willing but prefer not to have to make such large edits and speak for someone who isn't me.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>2146</PostId>
+			<ParentPostId>1052</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-10-19T21:48:50.517</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					An excellent answer and worthy of a model for this site, IMO. Thank you.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="1">
+			<PostId>3370</PostId>
+			<ParentPostId>3341</ParentPostId>
+			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-04-23T03:03:55.607</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm voting to close this question as off-topic because it's about home brewing and not really appropriate for this site.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>3371</PostId>
+			<ParentPostId>3341</ParentPostId>
+			<Contributors>
+				<UserId>4034</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-04-23T05:12:23.810</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					and this one wasn't? http://beer.stackexchange.com/questions/3322/how-do-i-limit-the-amount-of-sediment-in-bottles
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="1">
+			<PostId>3372</PostId>
+			<ParentPostId>3341</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-04-23T12:58:48.657</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					We've discussed this a bit on Meta since the beta started and the consensus has been that home-brew questions are allowed if also seem like they might be generally interesting to beer folks...The more technical and home-brew process specific a question is, the more likely it is to be seen off as off-topic.  For now I'm not going to vote to close, and will contribute an answer but for the future making and preparing the beer should be in homebrew.SE but handling and serving the beer will go over just fine here.  (homebrew.SE also gets way more traffic that we do)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>3373</PostId>
+			<ParentPostId>3341</ParentPostId>
+			<Contributors>
+				<UserId>4034</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-04-23T13:13:44.797</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					ah i see. Sorry guys i didn't realise there was a homebrewing forum. I'll put this question on there.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>3385</PostId>
+			<ParentPostId>3341</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-05-07T05:50:58.440</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm with @Sloloem, but closing because OP posted the question here: http://homebrew.stackexchange.com/questions/15193/using-caster-sugar-as-a-barrel-primer-bad-idea.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="1">
+			<PostId>3428</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T18:00:42.307</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Go with a Saison. That yeast likes temperatures in that range, even up to 35.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>3429</PostId>
+			<ParentPostId>3444</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T18:02:36.947</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think you mean fusel alcohols. It depends on the yeast whether you will or not. Some strains are very tolerant of higher temperatures.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="1">
+			<PostId>3430</PostId>
+			<ParentPostId>3423</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T18:08:01.593</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					yes, there is some truth to that. Draft beer usually comes in pints or larger, as apposed to 12 oz. bottles. So 3 drafts = 4 bottles, but most people count them both as "beers"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="1">
+			<PostId>3432</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-09T14:02:41.960</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I would add exactly where you are since this is tagged local.  The breweries seem to be Southern England.  Nearby cities might help folks point you to nearby brewers who might not be well known outside those areas.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="1">
+			<PostId>3433</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-09T14:04:25.767</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Apologies Sloloem. Done.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="1">
+			<PostId>3434</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-09T14:18:01.223</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Cool.  I wish I could help you more but I'm not familiar at all with UK breweries.  In an amusing coincidence, I'm visiting London for this week but the most "local" thing I've had is Nightwatchman by East London Brewery which I enjoyed as a pretty fruity dark bitter that worked well with dinner.  Not very interesting on its own, though.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>3435</PostId>
+			<ParentPostId>3454</ParentPostId>
+			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-09T14:27:13.817</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you for taking the time to suggest some extra avenues; appreciate it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>3436</PostId>
+			<ParentPostId>3456</ParentPostId>
+			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-10T14:04:04.260</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks, I will certainly give those a try. I really appreciate the multiple suggestions!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="0">
+			<PostId>4116</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Contributors>
+				<UserId>4857</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-16T11:14:51.133</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question would be more appropriate in http://homebrew.stackexchange.com/.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="0">
+			<PostId>4117</PostId>
+			<ParentPostId>6240</ParentPostId>
+			<Contributors>
+				<UserId>5144</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-18T18:49:28.137</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've bought coronas in the us and in mexico, and the one sold in mexico is stronger and not as light.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="1">
+			<PostId>4118</PostId>
+			<ParentPostId>6234</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T12:49:30.007</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Welcome to Alcohol SE, Sam. Your answer would be better if you added more details and a linked reference if possible. Great to see your input and hope you stay around.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="0">
+			<PostId>4119</PostId>
+			<ParentPostId>6242</ParentPostId>
+			<Contributors>
+				<UserId>5771</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T15:16:51.430</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I recognize the above passages from my research on Google on this topic, I wold just cite the sources for credit and completion
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>4120</PostId>
+			<ParentPostId>6243</ParentPostId>
+			<Contributors>
+				<UserId>5778</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T18:03:36.943</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ya what is with the lime actually ??? I have seen people having it with lime .
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>4121</PostId>
+			<ParentPostId>6243</ParentPostId>
+			<Contributors>
+				<UserId>5796</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T19:00:23.597</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Makes it more refreshing. You don't have to do it, but it really adds to the taste. Where I live, every bar/restaurant that you go to will sell it with lime.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>4122</PostId>
+			<ParentPostId>6246</ParentPostId>
+			<Contributors>
+				<UserId>3905</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T00:17:34.133</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Goldschläger, I think.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="1">
+			<PostId>4123</PostId>
+			<ParentPostId>6247</ParentPostId>
+			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T09:54:26.613</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How much is a "drink"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="2">
+			<PostId>4124</PostId>
+			<ParentPostId>6244</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T13:19:39.660</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd add that objectively as an actual drink there isn't actually anything special about it besides the ambiance, marketing, and image.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>4126</PostId>
+			<ParentPostId>901</ParentPostId>
+			<Contributors>
+				<UserId>5818</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T20:55:44.633</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not sure about "UK fully adopted the metric system" but in practice all containers have ml listed. Beer tends to have fl. oz. as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="0">
+			<PostId>5148</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-08-17T14:09:27.763</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A mild should be *significantly* darker than a brown ale bordering on black
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="0">
+			<PostId>5149</PostId>
+			<ParentPostId>6989</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-08-20T14:22:16.060</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I like the idea, keep it coming.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="1">
+			<PostId>5150</PostId>
+			<ParentPostId>6989</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-08-20T14:47:44.083</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How to make eight fake science fiction drinks. http://www.thegeektwins.com/2012/08/how-to-make-eight-fake-sci-fi-drinks.html My favorite is the Pan Galactic Gargleblaster from Hitchhiker's Guide to the Galaxy.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="0">
+			<PostId>5155</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Contributors>
+				<UserId>7045</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-08-24T06:53:25.040</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Was wondering cause the Samuel Adams Octoberfest tastes like Samuel Adams Boston Lager this year?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="1">
+			<PostId>5158</PostId>
+			<ParentPostId>6993</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-08-24T11:32:30.867</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Your answer would be better supported with a link that helps your statement.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="1">
+			<PostId>5159</PostId>
+			<ParentPostId>6992</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-08-24T18:46:31.203</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Most of this is about alcohol in general not about to high concentration.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

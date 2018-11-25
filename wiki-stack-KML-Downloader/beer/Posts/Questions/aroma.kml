@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>22</PostId>
+			<AcceptedAnswerId>26</AcceptedAnswerId>
+			<Title>
+			"Do different beer glass shapes really make a difference in taste?"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>taste</tag>
+				<tag>aroma</tag>
+			</Tags>
+			<Credit> 
+				<Score>65</Score>
+				<ViewCount>4610</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:50:01.620</CreationDate>
+				<LastActivityDate>2018-06-06T08:48:59.710</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>29</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I understand the basic distinction for wine glasses: red wine glasses are shaped to help keep some of the aroma inside the glass, whereas whites don't. But shapes for beer glasses, such as pilsner vs a standard pint glass, just seem to be an aesthetic difference. Yet I've had people insist that glasses make a big difference for things like Belgian beer. &lt;/p&gt;
+
+					&lt;p&gt;Is there a sound reason to use the "right" glass for each kind of beer? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>149</PostId>
+			<Title>
+			"Why do some beers smell like cannabis?"
+			</Title>
+			<Tags>
+				<tag>aroma</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>26111</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T04:39:25.410</CreationDate>
+				<LastActivityDate>2014-01-22T04:57:58.997</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In my experience, some beers smell like cannabis. Stella Artios is a distinctive example. &lt;/p&gt;
+
+					&lt;p&gt;What causes this? - Is it due to a type of hop, or a style? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>153</PostId>
+			<AcceptedAnswerId>166</AcceptedAnswerId>
+			<Title>
+			"If you are having a beer tasting, what is a good way to clear the palate?"
+			</Title>
+			<Tags>
+				<tag>aroma</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>1134</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T04:52:15.650</CreationDate>
+				<LastActivityDate>2014-01-22T07:03:32.067</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>116</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When you are having a wine tasting event, it's customary to clear the palate with water and possibly plain crackers or baguettes.&lt;/p&gt;
+
+					&lt;p&gt;Is it the same concept for a beer tasting where you are serving several types of brews, or is there a different preferred method for ensuring that the last taste doesn't influence the current one?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

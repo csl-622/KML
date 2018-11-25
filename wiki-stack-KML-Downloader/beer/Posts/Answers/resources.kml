@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>559</PostId>
+			<ParentPostId>557</ParentPostId>			<Tags>
+				<tag>resources</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-06T02:00:40.923</CreationDate>
+				<LastActivityDate>2014-02-06T02:00:40.923</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are quire a few poorly-sourced beer blogs out there, many of whom get their information from other beer blogs.  If you want high-quality information, I'd suggest:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Well-known authors.  Anything by &lt;a href="http://www.beerhunter.com/toc.html"&gt;Michael Jackson&lt;/a&gt; is usually pretty well-regarded.  &lt;a href="http://www.radicalbrewing.com/rbauthr.html"&gt;Randy Mosher&lt;/a&gt; is also reasonably trustworthy.  Honestly, any published author is likely to be considerably more authoritative than random blogs.&lt;/li&gt;
+					&lt;li&gt;Beer-related Organizations like &lt;a href="http://www.bjcp.org/index.php"&gt;the bjcp&lt;/a&gt; or &lt;a href="http://www.homebrewersassociation.org/"&gt;the aha&lt;/a&gt; and their magazine "Zymurgy"&lt;/li&gt;
+					&lt;li&gt;Industry publications like &lt;a href="http://www.brewersassociation.org/"&gt;the brewers association&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;Brewing literature.  There's a very active homebrewing community out there, and you can find answers to some questions on beer production there.  &lt;a href="http://www.howtobrew.com/intro.html"&gt;How to Brew&lt;/a&gt; is one of the better ones available for free online.&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>940</PostId>
+			<ParentPostId>939</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-21T14:05:56.267</CreationDate>
+				<LastActivityDate>2014-07-21T14:05:56.267</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>467</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="http://www.beeradvocate.com/app/" rel="nofollow"&gt;Beeradvocate.com &lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://www.thebeerexpert.com/beer-expert-app.shtml" rel="nofollow"&gt;Beer Expert - from "Rate Beer" data&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;Both of these are the largest rating/tasting databases for beer, I haven't used them but they would be the place to look for the information that untapped is lacking.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>941</PostId>
+			<ParentPostId>939</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-21T19:41:00.357</CreationDate>
+				<LastActivityDate>2014-07-21T19:41:00.357</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1104</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In terms of an Android app, I personally use &lt;a href="https://play.google.com/store/apps/details?id=com.definitionstudio.beercitizen&amp;amp;hl=en" rel="nofollow"&gt;Beer Citizen&lt;/a&gt;. It does not have every beer imaginable in its listing, but it has quite a large amount. I find the community to be pretty helpful. They helped me find a lot of different beers whenever and wherever I might travel.&lt;/p&gt;
+
+					&lt;p&gt;Jeff Wurz is also right to suggest Beer Advocate, which recently came out with a new app back in June of this year. I do frequently use Beer Advocate's website and am eager to try out their new app. If you end up not liking Beer Citizen I would recommend trying this app out; though I base this off the usefulness of the website, since I have no experience with the application.&lt;/p&gt;
+
+					&lt;p&gt;Hope I was able to help you out!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>970</PostId>
+			<ParentPostId>939</ParentPostId>			<Tags>
+				<tag>classification</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-05T17:23:13.847</CreationDate>
+				<LastActivityDate>2014-08-05T17:23:13.847</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1183</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I like &lt;a href="https://untappd.com/" rel="nofollow"&gt;Untappd&lt;/a&gt;. It would be better if it automatically recognized the beer labels, but it is fine. You must type the beer name. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>2140</PostId>
+			<ParentPostId>2139</ParentPostId>			<Tags>
+				<tag>buying</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-18T14:49:32.950</CreationDate>
+				<LastActivityDate>2014-12-18T14:49:32.950</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;RateBeer is the other big rating site.  It also has a 5 point rating system but you can also just "tick" beers 1-5 stars, which may be helpful for you.&lt;/p&gt;
+
+					&lt;p&gt;There's also Untappd which is pretty popular.  It operates more on a 4square-style check-in system and has a lot of social features as well as badges for various types of beer, origins, location, timing, etc.  But their rating system is a simple 1-5 stars with an optional notes field and location tagging.  They also include a recommendation system but it doesn't take locality into account making it largely useless since the majority of the beers they'll recommend are impossible to find in your area.&lt;/p&gt;
+
+					&lt;p&gt;There are a few smaller ones kicking around as well.  A buddy of mine did &lt;a href="http://littlebeerbook.com"&gt;littlebeerbook.com&lt;/a&gt;, which is fairly up your alley based on the description.  However it's pretty rough on mobile, and even outside of that the User Experience isn't the best.  Work is being done, but it's slow going with day jobs and families and all that.  So if you don't mind the interface, it'll track what you want pretty well.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>2165</PostId>
+			<ParentPostId>2139</ParentPostId>			<Tags>
+				<tag>buying</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-01T00:45:35.080</CreationDate>
+				<LastActivityDate>2015-01-01T00:45:35.080</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>2633</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer Citizen allows you to rate Appearance, scent, taste and mouthfeel. You can look at individual reviews or get an average rating from everyone who has reviewed the beer. Each beer has brew facts and show you similar beers to the one you are reviewing. 
+					Great app&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>3486</PostId>
+			<ParentPostId>2139</ParentPostId>			<Tags>
+				<tag>buying</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-20T13:39:47.717</CreationDate>
+				<LastEditDate>2015-07-20T17:12:55.070</LastEditDate>
+				<LastActivityDate>2015-07-20T17:12:55.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4338</OwnerUserId>
+				<LastEditorUserId>4338</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There is &lt;a href="https://untappd.com/home" rel="nofollow"&gt;Untappd&lt;/a&gt;, which is a social network for beer drinkers (web and app). Quite straightforward, actually. You check you beer in, rate it and leave a short comment (like Twitter). And you see a timeline with your check-ins and your friend's ones.&lt;/p&gt;
+
+					&lt;p&gt;The rate is what you're looking for, an overall score from 0 to 5 (multiples of 0.25).&lt;/p&gt;
+
+					&lt;p&gt;It's nice for keeping a log of what you have had and see what you friends are having, too. But, it's very simple when it comes to features, don't expect much of it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

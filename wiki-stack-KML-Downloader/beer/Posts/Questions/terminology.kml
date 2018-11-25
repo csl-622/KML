@@ -1,0 +1,587 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>29</PostId>
+			<Title>
+			"What does the term "imperial" represent in beer styles or names?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>36</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T20:58:46.433</CreationDate>
+				<LastActivityDate>2014-01-21T20:58:46.433</LastActivityDate>
+				<ClosedDate>2014-01-21T21:04:25.230</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>38</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm trying to understand what I can assume about an "Imperial Stout" relative to a "Stout," etc.&lt;/p&gt;
+
+					&lt;p&gt;I know anecdotally that they are "heavier," but online sources seem to lack agreement on a specific meaning, with some suggesting that they're hoppier, others saying they're higher alcohol content, and some using vague terms like "full-bodied".&lt;/p&gt;
+
+					&lt;p&gt;Does "imperial" have a real, agreed-upon meaning, or is it just a marketing/description modifier that everyone uses differently?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>40</PostId>
+			<AcceptedAnswerId>41</AcceptedAnswerId>
+			<Title>
+			"Why is it called "porter"?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>terminology</tag>
+				<tag>porter</tag>
+				<tag>varieties</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>420</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:05:17.293</CreationDate>
+				<LastEditDate>2014-02-05T15:34:48.397</LastEditDate>
+				<LastActivityDate>2014-02-05T15:34:48.397</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>26</OwnerUserId>
+				<LastEditorUserId>407</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Stouts are stout, Pale Ales use pale malt, but where did the name porter come from?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>55</PostId>
+			<Title>
+			"What does "all malt" mean?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>7261</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:16:34.620</CreationDate>
+				<LastActivityDate>2018-04-20T15:06:40.633</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>38</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Pork Slap beer indicates that it's "all malt" in the way that implies an official distinction.  What does "all malt" indicate, assuming there's a standard requirement to use the term accurately.&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/BnjYJ.jpg" alt="enter image description here"&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>59</PostId>
+			<AcceptedAnswerId>97</AcceptedAnswerId>
+			<Title>
+			"What's the difference between an "export" beer and a regular beer from the same brewer?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>10360</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:20:42.220</CreationDate>
+				<LastEditDate>2014-02-05T15:34:44.883</LastEditDate>
+				<LastActivityDate>2015-07-21T03:13:29.640</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+				<LastEditorUserId>407</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In the UK at least, a great many beers are marketed with a regular version and a fancier (more expensive) 'export' version. For example: Carlsberg and Carlsberg 'Export'. Is there any reason why the imported beer might be reasonably different (such as the legality of certain brewing methods outside of the UK) or is this just marketing fluff?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>70</PostId>
+			<AcceptedAnswerId>88</AcceptedAnswerId>
+			<Title>
+			"What is 'skunking'?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>skunking</tag>
+			</Tags>
+			<Credit> 
+				<Score>19</Score>
+				<ViewCount>903</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:29:01.690</CreationDate>
+				<LastActivityDate>2014-01-21T21:47:11.200</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In some of the questions on this site, I've seen the word 'skunking' thrown around. What does it mean? I'm assuming it's a process that causes beer to go bad, and if so, what causes this process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>169</PostId>
+			<AcceptedAnswerId>170</AcceptedAnswerId>
+			<Title>
+			"What is a draft beer?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>6326</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T08:35:32.137</CreationDate>
+				<LastEditDate>2014-01-22T14:30:13.090</LastEditDate>
+				<LastActivityDate>2014-01-23T02:28:03.023</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+				<LastEditorUserId>7</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What constitutes a draft beer, and how different is it? I see this term plastered on beer cans, but I have no idea what it means, or how it affects the beer's taste.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>181</PostId>
+			<AcceptedAnswerId>182</AcceptedAnswerId>
+			<Title>
+			"What's the difference between normal beer and trappist?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>trappist</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>575</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T13:12:29.223</CreationDate>
+				<LastEditDate>2014-02-05T15:34:42.350</LastEditDate>
+				<LastActivityDate>2015-10-17T04:34:54.160</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>138</OwnerUserId>
+				<LastEditorUserId>407</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What's the difference between normal beer and trappist? Is there any difference in flavour or brewing style?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>621</PostId>
+			<AcceptedAnswerId>623</AcceptedAnswerId>
+			<Title>
+			"How can canned beer be draft without the widget? (Japan-specific)"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>draught</tag>
+				<tag>local</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>922</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-16T07:10:43.110</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2014-02-18T15:09:07.497</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Here in Japan, draft beer is called nama (生) beer, or so my boss said. Referencing my &lt;a href="https://alcohol.stackexchange.com/questions/169/what-is-a-draft-beer"&gt;previous question&lt;/a&gt;, one answer said that draft beer is "pushed using gas, or drawn via a partial vacuum". I get the concept of the widget being used to facilitate that. However, canned draft beers in Japan have no widget at all! They come in different can sizes from very small to a liter size, and all have no widget whatsoever. So I wonder how it is classified as draft without having the characteristic of draft beer. Or am I missing something? Is it possible the term draft means something different around here? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>658</PostId>
+			<AcceptedAnswerId>660</AcceptedAnswerId>
+			<Title>
+			"Difference between Dark Lager and Black Lager"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>terminology</tag>
+				<tag>lager</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>721</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-10T01:18:59.313</CreationDate>
+				<LastActivityDate>2014-03-10T01:51:23.220</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>443</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a difference between Black Lager and Dark Lager, or is it just the name?&lt;/p&gt;
+
+					&lt;p&gt;Since the recipes for Dark/Black Lagers seem to be quite varied, it is hard to tell if there are any majorly different components.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>702</PostId>
+			<AcceptedAnswerId>893</AcceptedAnswerId>
+			<Title>
+			"Why is it a Ginger "Beer" and not a Ginger "Cider"?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>flavor</tag>
+				<tag>terminology</tag>
+				<tag>additives</tag>
+			</Tags>
+			<Credit> 
+				<Score>18</Score>
+				<ViewCount>6878</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-01T09:51:29.510</CreationDate>
+				<LastEditDate>2016-07-28T14:48:24.563</LastEditDate>
+				<LastActivityDate>2016-07-28T14:48:24.563</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>723</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It seems that &lt;em&gt;Ginger Beer&lt;/em&gt; has no barley, no hops, no wort, no malted anything; so why is it a "beer"?  Seems like it is closer to a cider.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>796</PostId>
+			<AcceptedAnswerId>797</AcceptedAnswerId>
+			<Title>
+			"What is the definition of Beer or the Beer "family" of drinks"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>terminology</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>349</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-20T13:54:05.953</CreationDate>
+				<LastActivityDate>2014-06-04T18:25:44.907</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>902</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was picked up by someone on another SE site (unrelated) when I used the phrase "Some beers, like mead...(blah blah)" - Apparently a mead isn't a beer.  I'm good with that in the pedantic sense that it's &lt;em&gt;correct&lt;/em&gt;, but I wasn't intending to be quite so specific, and was merely suggesting that I was not talking about spirits etc.  It got me thinking about the definition of what could, or could not be called a beer, and whether a beer is an actual drink at all, or just the name of the group of drinks that we call beers, but which really have more specific names and definitions.&lt;/p&gt;
+
+					&lt;p&gt;The key phrase for me, in understanding it from a simple taxonomy point of view is that alcoholic drinks are essentially either &lt;em&gt;Beers Wines or Spirits&lt;/em&gt;.  That's my starting point, which may well be rudimentary at best and wrong at worst&lt;/p&gt;
+
+					&lt;p&gt;Using this definition, a Mead must clearly be a beer in the most basic definition; it's certainly not a win or spirit?  Obviously under beer you then have ales, lagers, ciders, perrys, meads, stouts, bitters and probably a million others, and probably further sublevels (dry cider, sweet cider, sparkling cider....), but is there a second level "beer" also at this level?&lt;/p&gt;
+
+					&lt;p&gt;Really, is there actually a single specific drink that is a &lt;em&gt;beer&lt;/em&gt; that is not further defined as, for example, an IPA, or a Stout?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>889</PostId>
+			<AcceptedAnswerId>890</AcceptedAnswerId>
+			<Title>
+			"What characteristics does Becks have, and what are similar beers?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>terminology</tag>
+				<tag>german-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>17472</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-27T03:18:40.390</CreationDate>
+				<LastActivityDate>2015-07-31T00:36:18.420</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1031</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I haven't been drinking for years. And over the last month, I've been trying a small variety of beers, but they all had a taste I can't put my finger on that I didn't like. I was starting to wonder if I had lost my taste for beer. However, I was lucky enough to have had a Becks the other day, because I remembered it was a beer I used to enjoy. Anyways, I really liked the Becks, so I'd like to know what I'm drinking and why I like it. Also what are other similar beers to Becks?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>898</PostId>
+			<Title>
+			"Would Japanese happoshu or third-category beer be considered beer in other countries?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>242</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-01T03:09:04.450</CreationDate>
+				<LastActivityDate>2014-07-08T18:56:01.057</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1047</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In Japan, beer is classified in three types for taxation purposes: beer (66.6% of more of malt), happoshu ( under 66.6% malt and no added liqueur), third-type beer (contain some added liquerur)&lt;/p&gt;
+
+					&lt;p&gt;Would happoshu be considered beer in other countries?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>899</PostId>
+			<AcceptedAnswerId>901</AcceptedAnswerId>
+			<Title>
+			"What does "fl. oz" mean?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>25845</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-01T11:08:55.620</CreationDate>
+				<LastActivityDate>2017-07-16T17:36:00.057</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1043</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have seen the expression "fl. oz" accompanied by a number in a lot of labels of beers. For instance, I have seen "9.4 fl. oz", "12 fl. oz", "11.2 fl. oz"... What do these numbers mean?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>3451</PostId>
+			<AcceptedAnswerId>5189</AcceptedAnswerId>
+			<Title>
+			"What are requirements for a micropub?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>micropub</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>202</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-06T12:27:20.387</CreationDate>
+				<LastEditDate>2015-07-07T18:07:29.907</LastEditDate>
+				<LastActivityDate>2016-07-05T20:43:16.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4175</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;So my question is what are the requirements for micropubs?
+					Are there any specifications on room size, interior, beers, staff?
+					Has anyone got experience in setting up and running a micropub and can give more insights about what are key factors?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>4606</PostId>
+			<AcceptedAnswerId>4609</AcceptedAnswerId>
+			<Title>
+			"What is the traditional vocabulary to describe the characteristics of beer?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>taste</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>681</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-26T10:48:52.117</CreationDate>
+				<LastActivityDate>2015-10-14T06:42:36.783</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4337</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know there are certain words experts use when they talk about wine. Categories of taste, colour etc.&lt;/p&gt;
+
+					&lt;p&gt;This is of course a matter of creativity and subjectivity, like describing a beer as “chocolaty” or “nutty” despite there being no chocolate or nuts in it.&lt;/p&gt;
+
+					&lt;p&gt;But is there an established vocabulary in beer-tasting? Where could I find a list of words, and a description of these properties? For beer, what are the magic words so abundantly found in wine culture?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>4635</PostId>
+			<AcceptedAnswerId>4638</AcceptedAnswerId>
+			<Title>
+			"Is there a common name for a "craft" beer brewed by a major brewery?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>102</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-15T17:40:05.437</CreationDate>
+				<LastActivityDate>2015-10-17T22:32:54.927</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4626</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A fake grassroots organization (one sponsored by an industry but made to look as though it was set up by regular people) is called an "astroturf" group. Is there a similar name for a "craft beer" that's actually produced by one of the big brewers (AB InBev, SABMiller, etc.)?&lt;/p&gt;
+
+					&lt;p&gt;Said another way, what do you call a beer that is made to look as though it was brewed by a small, independent brewery but was really produced by a major brewer?&lt;/p&gt;
+
+					&lt;p&gt;Examples might be Blue Moon (SABMiller) or ShockTop (AB InBev).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>6996</PostId>
+			<AcceptedAnswerId>6997</AcceptedAnswerId>
+			<Title>
+			"Ordering a Drink in Non-Traditional Glassware"
+			</Title>
+			<Tags>
+				<tag>glassware</tag>
+				<tag>terminology</tag>
+				<tag>substitutions</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>107</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-27T20:23:34.080</CreationDate>
+				<LastEditDate>2017-08-28T11:47:44.763</LastEditDate>
+				<LastActivityDate>2017-08-28T13:56:41.340</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7053</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I find drinks that are traditionally served in stemmed glasses are difficult to carry (I'm a wheelchair user). What terminology would I use if I wanted to order a drink like a martini or Manhattan served in a rocks glass (but without the ice)? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

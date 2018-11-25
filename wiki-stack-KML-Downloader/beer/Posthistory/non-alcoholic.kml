@@ -1,0 +1,990 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>946</PostId>
+			<ParentPostId>369</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T02:25:22.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it made brewed in such a way as to have no alcohol, or is it just normal beer with the alcohol removed, or some other process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>947</PostId>
+			<ParentPostId>369</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T02:25:22.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How is non-alcoholic beer produced?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>948</PostId>
+			<ParentPostId>369</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T02:25:22.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>973</PostId>
+			<ParentPostId>381</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T15:39:56.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do [open container laws in the U.S.](http://en.wikipedia.org/wiki/United_States_open_container_laws) apply to non-alcoholic beers? (Open container laws do [vary from state to state](http://en.wikipedia.org/wiki/File:USA-open-container-law-path2006-2.svg) but there may be a general consensus on definitions, _e.g._ the definition of "an alcoholic beverage." Focusing on the most populous states, California, Texas, New York, and Florida may be a good estimator of widely-applicable laws.)
+
+					I'm not looking for speculation (however logical) _e.g._ &lt;i&gt;"Non-alcoholic beers still have alcohol and are therefore subject to the same laws,"&lt;/i&gt; or _"Non-alcoholic beers can't be purchased by minors, therefore [...],"_ only citations of state laws or on-the-record statements by law enforcement officials.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>974</PostId>
+			<ParentPostId>381</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T15:39:56.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do open container laws in the U.S. apply to non-alcoholic beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>975</PostId>
+			<ParentPostId>381</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T15:39:56.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Post Closed" >
+			<PostId>1009</PostId>
+			<ParentPostId>381</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T01:35:41.087</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":27,"DisplayName":"object88"},{"Id":226,"DisplayName":"freiheit"},{"Id":37,"DisplayName":"Xander"},{"Id":112,"DisplayName":"mdma"},{"Id":73,"DisplayName":"acheong87"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Post Closed" >
+			<PostId>1209</PostId>
+			<ParentPostId>369</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T23:45:12.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[3],"Voters":[{"Id":7,"DisplayName":"Tom Medley"},{"Id":39,"DisplayName":"wax eagle"},{"Id":37,"DisplayName":"Xander"},{"Id":27,"DisplayName":"object88"},{"Id":73,"DisplayName":"acheong87"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>6339</PostId>
+			<ParentPostId>3292</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-16T07:46:28.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1005</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Occasionally I drinks beer. So far I have drunk alcoholic ones. Now I need to know whether alcohol free beers are exist or not. If so what are their brand names ? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>6340</PostId>
+			<ParentPostId>3292</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-16T07:46:28.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1005</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the alcohol free beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>6341</PostId>
+			<ParentPostId>3292</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-16T07:46:28.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1005</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Body" >
+			<PostId>6343</PostId>
+			<ParentPostId>3292</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-16T12:24:41.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<EditDetails>
+				Some spelling and grammar tweaks to make it seem more natural.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I drink beer occasionally. So far I have only drank alcoholic ones. Now I need to know whether alcohol-free beers exist or not. If so, what are their brand names? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>8055</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My friends says if you eat some bread it will absorb the alcohol and make you high less. is it true?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>8056</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Eat bread before drink beer make you drunk less?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>8057</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Post Closed" >
+			<PostId>8434</PostId>
+			<ParentPostId>3292</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-30T16:58:25.760</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>8858</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-24T09:28:38.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In my home country, the law also prevents selling alcohol free beer to minors.
+
+					What can be reasons for this? Is alcohol free beer also addictive, and does it therefore attract minors to much to alcoholic beer? Or does alcohol free beer contain a substance that is also harmful to the (young) brain?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>8859</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-24T09:28:38.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are reasons to not sell alcohol free beer to minors?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>8860</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-24T09:28:38.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, laws, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Body" >
+			<PostId>8862</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-25T16:31:43.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one word for clarity.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In my home country (Holland), the law also prevents selling alcohol free beer to minors.
+
+					What can be reasons for this? Is alcohol free beer also addictive, and does it therefore attract minors to much to alcoholic beer? Or does alcohol free beer contain a substance that is also harmful to the (young) brain?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>8863</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-25T16:31:43.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by -1 edit id of 166
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Edit Body" >
+			<PostId>8864</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-25T16:31:43.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Without making it too specific
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In The Netherlands, the law also prevents selling alcohol free beer to minors.
+
+					What can be reasons for this? Is alcohol free beer also addictive, and does it therefore attract minors to much to alcoholic beer? Or does alcohol free beer contain a substance that is also harmful to the (young) brain?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>8868</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-28T01:17:14.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/714260024529391616
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Edit Tags" >
+			<PostId>9846</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:34:54.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>9871</PostId>
+			<ParentPostId>5222</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-01T00:58:55.700</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5718</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Ultimately, I would love to know how the folks over at
+					&lt;a href="https://www.seedlipdrinks.com/"&gt;Seedlip&lt;/a&gt; have managed to make a distilled beverage with no alcohol. What would the process roughly consist of if sugar isn't used?
+
+					Any insight would be greatly appreciated.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>9872</PostId>
+			<ParentPostId>5222</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-01T00:58:55.700</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5718</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Non-Alcoholic Distillation
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>9873</PostId>
+			<ParentPostId>5222</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-01T00:58:55.700</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5718</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Edit Tags" >
+			<PostId>11922</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T08:11:41.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					drinking, alcohol-level, non-alcoholic, preparation-for-drinking, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>12638</PostId>
+			<ParentPostId>6788</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-22T00:17:36.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					As active as I am on this Stack and enjoy the occasional drink I'm realizing more and more that, regardless of how little I drink from day to day, for the most part booze just tends to bring me down a bit, and if I avoid it I usually feel better than if I had had something to drink.
+
+					So I'd like to put this question out there to get some ideas for drinks that act as sedatives, but which are non-alcoholic.
+
+					So far I've primarily been using **lavender and chamomile teas, and straight water.** Water specifically isn't sedating but does tend to balance out overloads of caffeine or sugar. 
+
+					Is there anything else that's commonly used for this purpose?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>12639</PostId>
+			<ParentPostId>6788</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-22T00:17:36.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Good non-alcoholic, sedative drinks to replace alcoholic drinks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>12640</PostId>
+			<ParentPostId>6788</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-22T00:17:36.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>12651</PostId>
+			<ParentPostId>6788</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-23T13:18:33.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/856135205253509120
+			</EditDetails>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Unknown" >
+			<PostId>12780</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-19T08:09:08.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/865479422039670784
+			</EditDetails>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Body" >
+			<PostId>13376</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-02T10:39:05.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5021</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If one wants to buy alcohol-free beer in a supermarket, the most common beer style is Lager/Pilsner. I have never seen other styles such as alcohol-free Witbier, IPA, Stout etc. in a store, but from doing a quick online research I learned that such beer does exist.
+
+					Is Lager/Pilsner the most common style for alcohol-free beers because it is the most popular style for normal beer as well, or are there some technical limitations during the brewing process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Title" >
+			<PostId>13377</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-02T10:39:05.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5021</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is Lager/Pilsner the most common beer style for alcohol-free beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Tags" >
+			<PostId>13378</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-02T10:39:05.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5021</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Unknown" >
+			<PostId>13380</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-03T09:59:57.820</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/926388470959964161
+			</EditDetails>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Edit Tags" >
+			<PostId>13548</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T02:16:35.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7272</UserId>
+			</Contributors>
+			<EditDetails>
+				adding tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, lager, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Unknown" >
+			<PostId>13549</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T02:16:35.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7272 approved by 938, 43 edit id of 317
+			</EditDetails>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Body" >
+			<PostId>13875</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-07T20:59:52.860</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7707</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I like the taste of wine and the sensation the alcohol creates in the mouth, but I have no interest in the mental effects or the cancer risk. (I've never drunk enough at one time to become even so much as buzzed, so the "warm feeling" people describe is just academic for me.) My question is what non-alcoholic drinks, if any, come close to simulating wine as far as just the taste and the burn in the mouth? Is there anything better than sparkling juice?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Title" >
+			<PostId>13876</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-07T20:59:52.860</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7707</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					non-alcoholic substitutes for wine
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Tags" >
+			<PostId>13877</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-07T20:59:52.860</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7707</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Edit Tags" >
+			<PostId>13878</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-08T00:05:29.090</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Edit Title" >
+			<PostId>13881</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-09T12:59:57.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Non-alcoholic substitutes for wine
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Edit Tags" >
+			<PostId>13882</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-09T12:59:57.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, non-alcoholic, substitutions, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Unknown" >
+			<PostId>13963</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-26T22:21:04.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/989630465295441922
+			</EditDetails>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Body" >
+			<PostId>14139</PostId>
+			<ParentPostId>7318</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-29T07:17:25.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Kvass][1] is a low alcoholic drink made of (usually rye) bread. Is there something similar in Italy (like [malt beer][2] in Germany)? Or maybe is it possible to buy kvass in big supermarkets? 
+
+
+					  [1]: https://en.wikipedia.org/wiki/Kvass
+					  [2]: https://en.wikipedia.org/wiki/Malt_beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Title" >
+			<PostId>14140</PostId>
+			<ParentPostId>7318</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-29T07:17:25.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a drink in Italy similar to kvass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Tags" >
+			<PostId>14141</PostId>
+			<ParentPostId>7318</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-29T07:17:25.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Body" >
+			<PostId>14253</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Should non-alcoholic beer be refrigerated to preserve it? How long does non-alcoholic beer last when not refrigerated?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Title" >
+			<PostId>14254</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Refrigerate Non-Alcoholic beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Tags" >
+			<PostId>14255</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, flavor, temperature, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Unknown" >
+			<PostId>14458</PostId>
+			<ParentPostId>7318</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-06T09:01:32.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1026392819622182913
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

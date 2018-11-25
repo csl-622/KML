@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="6028"  UserId="5575" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2016-06-19T23:36:57.097</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6076"  UserId="5575" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2016-07-01T00:13:35.167</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6077"  UserId="5575" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2016-07-01T00:13:35.167</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6078"  UserId="5575" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2016-07-01T00:26:21.900</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6079"  UserId="5575" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2016-07-01T00:44:06.187</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6315"  UserId="5575" InstanceType= "badges">
+			<Title>
+			"Excavator"
+			</Title>
+			<TimeStamp>
+				<Date>2016-09-07T11:13:47.110</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6743"  UserId="5575" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2016-12-28T22:54:22.940</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8986"  UserId="5575" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2018-07-29T23:45:06.970</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

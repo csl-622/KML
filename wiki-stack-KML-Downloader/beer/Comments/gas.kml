@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>883</PostId>
+			<ParentPostId>718</ParentPostId>
+			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-11T16:53:31.147</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					+1 one for having the guts to ask this, no pun intended
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>884</PostId>
+			<ParentPostId>720</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-04-11T22:34:28.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					AFAIK: grain &gt; malt &gt; beer, but fruit &gt; fruit juice &gt; wine, so fuit is **pressed** while grain is **germinated** to produce what is then fermented.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>954</PostId>
+			<ParentPostId>607</ParentPostId>
+			<Contributors>
+				<UserId>917</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-26T15:24:24.270</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Porter and stout are usually very close to being flat (at least they are in Britain)
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

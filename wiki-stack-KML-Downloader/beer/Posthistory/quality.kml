@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>12145</PostId>
+			<ParentPostId>6649</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-08T21:36:00.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Over the last year I've been getting more into wine, but not too extensively, only having bought bottles in the range of about 10 - 20 cdn. I've also sampled a good number of wines while dining out.
+
+					The thing I'm noticing is that while different wines most certainly have unique characters depending on sweetness, grape, and aging, *the variation in overall quality doesn't seem to be too high.*
+
+					As far as I can tell wine, broadly speaking, can be broken down into two categories: good or cheap. A wine is either pleasant, or noticeably low quality, without much room to really go above and beyond.
+
+					So if my assumption is correct then 'fine wine' is a bit of a scam, as the diminishing returns price point seems fairly low.
+
+					I wonder, though, am I correct in my assumption about wine's diminishing return threshold?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>12146</PostId>
+			<ParentPostId>6649</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-08T21:36:00.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does wine have a low 'diminishing return' threshold?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>12147</PostId>
+			<ParentPostId>6649</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-08T21:36:00.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, quality, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>12148</PostId>
+			<ParentPostId>6649</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-08T23:22:27.833</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Over the last year I've been getting more into wine, but not too extensively, only having bought bottles in the range of about $10 - $20 cdn. I've also sampled a good number of wines while dining out.
+
+					The thing I'm noticing is that while different wines most certainly have unique characters depending on sweetness, grape, and aging, *the variation in overall quality doesn't seem to be too high.*
+
+					As far as I can tell wine, broadly speaking, can be broken down into two categories: good or cheap. A wine is either pleasant, or noticeably low quality, without much room to really go above and beyond.
+
+					So if my assumption is correct then 'fine wine' is a bit of a scam, as the diminishing returns price point seems fairly low.
+
+					I wonder, though, am I correct in my assumption about wine's diminishing return threshold?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>12156</PostId>
+			<ParentPostId>6649</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-09T08:25:18.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/839753950127656960
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>12242</PostId>
+			<ParentPostId>6681</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T15:21:57.487</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently, I started a question on the diminishing returns of wine, which resulted in an answer that brought to light that any given wine is a 'work' dependent on a number of variables, such as, but not limited to:
+
+					 - Producer Choices
+					 - Weather
+					 - Soil
+					 - Breeding
+					 - Harvesting
+					 - Legal Obligations
+
+					The gist of the answer being that the production that has gone into the wine has a significant impact on the final product, with some production methods resulting in a high quality wine, and others resulting in a lower quality wine.
+
+					So my essential problem here is that if I go into a wine shop and am **choosing from vintage wines where, grape variety, and sugar content are similar**, how can I choose between two bottles in a non-arbitrary, and objective way?
+
+					 - Should I be researching specific aspects of their production methods?
+					 - Should I focus on who produced the wine?
+					 - Should I focus on region?
+					 - Should I rely on ratings of the wine?
+
+					Or is the process of selecting a wine a bit of a dark art? 
+
+					Forgive me if my ignorance is showing here, I'd like to better understand the wine world and am starting from the bottom. I generally know which grapes I like and the differences between them, as well as sugar content I prefer, but in a nutshell I'm curious how one would choose between a set of different Cab Sauvs, or similar.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>12243</PostId>
+			<ParentPostId>6681</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T15:21:57.487</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to select a wine based on production quality?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>12244</PostId>
+			<ParentPostId>6681</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T15:21:57.487</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, quality, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>12264</PostId>
+			<ParentPostId>6681</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-18T18:25:21.013</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/843166447161556998
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>12381</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T12:39:12.970</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have noticed the proliferation in recent years of what most people refer to as 'plastic' corks in wine bottles.  It turns out not to be plastic, but nomex.  My question(s) is(are):  What exactly is nomex?  Is it a case of the fact that it doesn't leech into the wine?  Is there a standard/quality/bottle price issue regarding the usage of one type of cork over the other?  What other reasons are there for using a nomex opposed to cork 'cork'?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>12382</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T12:39:12.970</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Nomex v Cork. What is the difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>12383</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T12:39:12.970</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, price, quality, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Body" >
+			<PostId>12389</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T14:35:35.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved title and body for clarity and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have noticed the proliferation in recent years of what most people refer to as 'plastic' corks in wine bottles.  It turns out not to be plastic, but Nomex.  My question(s) is (are):  What exactly is Nomex?  Is it a case of the fact that it doesn't leech into the wine?  Is there a standard/quality/bottle price issue regarding the usage of one type of cork over the other?  What other reasons are there for using a nomex opposed to cork 'cork'?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Title" >
+			<PostId>12390</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T14:35:35.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved title and body for clarity and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Alternative corks vs natural corks. What is the difference?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Tags" >
+			<PostId>12391</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T14:35:35.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved title and body for clarity and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					wine, bottling, price, quality, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Body" >
+			<PostId>12392</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T15:31:50.163</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added 340 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have noticed the proliferation in recent years of what most people refer to as 'plastic' corks in wine bottles.  It turns out not to be plastic, but Nomex.  My question(s) is (are):  What exactly is Nomex?  Is it a case of the fact that it doesn't leech into the wine?  Is there a standard/quality/bottle price issue regarding the usage of one type of cork over the other?  What other reasons are there for using a nomex opposed to cork 'cork'?
+
+					EDIT TO QUESTION (visual of nomex corks):  The interior of the cork is sponge like, the out is hard.  I have tried googling this and cannot find what I am looking for.  It is not what passes for a synthetic cork.  Apogies for the quality of photo:
+					[![enter image description here][1]][1]
+
+
+					  [1]: https://i.stack.imgur.com/mTbwH.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>12406</PostId>
+			<ParentPostId>6737</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T12:14:28.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Previously I asked a question regarding nomacorc.  This has lead me to look more carefully at the corks that make their way into the boat.  Now assuming that we are prolific wine consumers (only for research purposes I assure you!), is there a way of knowing before opening/purchasing a bottle of wine if it is drinkable/good quality, or just plonk, from the cork?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>12407</PostId>
+			<ParentPostId>6737</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T12:14:28.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can I tell the wine from the cork?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>12408</PostId>
+			<ParentPostId>6737</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T12:14:28.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, quality, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Unknown" >
+			<PostId>12413</PostId>
+			<ParentPostId>6728</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-04T14:20:24.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/849265397786456064
+			</EditDetails>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>12656</PostId>
+			<ParentPostId>6737</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-24T04:29:30.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/856364450240245760
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

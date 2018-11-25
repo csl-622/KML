@@ -1,0 +1,629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>47</PostId>
+			<Title>
+			"At what point/percentage can beer properly "age"?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+				<tag>abv</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>249</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:12:49.763</CreationDate>
+				<LastEditDate>2014-01-21T21:18:34.267</LastEditDate>
+				<LastActivityDate>2014-01-21T21:22:15.623</LastActivityDate>
+				<ClosedDate>2014-01-21T22:07:35.783</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>25</OwnerUserId>
+				<LastEditorUserId>25</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently encountered a beer that was utterly rank and had an awful aroma. I tasted a small sip, but had to toss the rest. Investigating the label on this beer, I discovered it had an expiry date of Dec. 2012, making it just over one year old. &lt;/p&gt;
+
+					&lt;p&gt;This beer's alcohol content was 5.6% ABV, and it clearly did not have a lengthy self life.&lt;/p&gt;
+
+					&lt;p&gt;Contrastingly, a local brewer annually brews an ice bock with an alcohol content of 9.5% ABV, and they state that because of this high alcohol content, it's suitable for aging (and it ages well, to boot).&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;What is the minimum alcohol content/ABV percentage required in order to consider a beer safe/suitable for aging? If pasteurization plays a role, please advise.&lt;/strong&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>99</PostId>
+			<Title>
+			"How can I tell whether a beer will improve with age?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>40</Score>
+				<ViewCount>8063</ViewCount>
+				<AnswerCount>8</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:05:29.813</CreationDate>
+				<LastActivityDate>2016-06-27T01:35:57.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>66</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Most mass-market beers come with expiration dates, and cease to be good for drinking if too much time has passed since they were brewed, even if they've been stored in unopened containers and good conditions. Some major breweries even have long-running advertising campaigns about the freshness of their products.&lt;/p&gt;
+
+					&lt;p&gt;Other beers improve with age. What qualities make a beer suitable for cellaring or bottle-conditioning? How can I know whether a given bottle of beer can be aged, short of looking it up online?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>348</PostId>
+			<AcceptedAnswerId>360</AcceptedAnswerId>
+			<Title>
+			"Does aging in oak barrels add the same compounds to beer as it does to wine?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>174</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-27T06:13:47.420</CreationDate>
+				<LastActivityDate>2015-07-19T16:43:53.813</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>121</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If I remember correctly, aging wine in barrels is known to promote aeration and add phenols from the wood into the mix.&lt;/p&gt;
+
+					&lt;p&gt;Does the wood react any differently to produce any flavors unique to beer?  Is the aeration beneficial for flavor?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>446</PostId>
+			<Title>
+			"How long can you age an ipa?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>aging</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>6600</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-30T17:30:49.767</CreationDate>
+				<LastActivityDate>2015-03-26T07:27:42.003</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I understand IPAs are less amenable to aging than, say, a barely wine.  But how long, specifically, can you age an IPA - days, months, a year or two?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>501</PostId>
+			<Title>
+			"What is happening during aging?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+			</Tags>
+			<Credit> 
+				<Score>11</Score>
+				<ViewCount>243</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-02T06:36:38.503</CreationDate>
+				<LastEditDate>2014-02-04T17:21:59.440</LastEditDate>
+				<LastActivityDate>2015-07-19T15:52:31.117</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+				<LastEditorUserId>80</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;IPAs go bad, barley wines improve, and stouts mellow over time.  I'm curious though: what's actually happening?  What compounds are building up or breaking down?  What chemical processes actually happen to constitute "aging" in beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>521</PostId>
+			<AcceptedAnswerId>527</AcceptedAnswerId>
+			<Title>
+			"Does bottle size affect aging or storage?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>aging</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>425</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-04T18:23:03.580</CreationDate>
+				<LastActivityDate>2014-02-04T20:11:31.223</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>83</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Typically I want to age 22oz bottles, but I'm curious if I could get away with aging a smaller bottle. Is there any difference based on bottle size?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>543</PostId>
+			<Title>
+			"Should bottle conditioned beers be consumed quickly after purchase and do they carry on changing taste for a while?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>2338</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-05T09:03:16.807</CreationDate>
+				<LastEditDate>2014-02-06T19:43:30.683</LastEditDate>
+				<LastActivityDate>2014-02-06T19:43:30.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>48</OwnerUserId>
+				<LastEditorUserId>52</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Just wondering how a bottle conditioned beer will change over its life - if at all? And is there a perfect time to drink one? Also do different types change differently?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>639</PostId>
+			<Title>
+			"Should I leave a beer age before drinking it?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>62</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-26T15:41:45.833</CreationDate>
+				<LastActivityDate>2014-02-26T15:41:45.833</LastActivityDate>
+				<ClosedDate>2014-02-26T20:26:07.263</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>554</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I think the title is self explanatory, but I would like to add: does it make any difference letting it aging in a can or in a bottle?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>845</PostId>
+			<Title>
+			"I'm aging a few bottles. They've been in the fridge for a while. Should I take them out now?"
+			</Title>
+			<Tags>
+				<tag>temperature</tag>
+				<tag>aging</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>806</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-04T00:25:40.840</CreationDate>
+				<LastEditDate>2016-10-08T14:41:21.000</LastEditDate>
+				<LastActivityDate>2016-10-08T14:41:21.000</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>961</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Pretty much this. I'm storing/aging bottles. They've been in my fridge for 6+ months now. I want to leave them there at least another 6+ months and on. But I've read aging beers in fridge is a "bad" idea because the cork will dry up. (All my bottles have corks). Temperature in the fridge is just above 32F (0 celsius)&lt;/p&gt;
+
+					&lt;p&gt;I've talked to my father recently who's more into wine and told me I should get them out of the fridge and leave them somewhere else. That somewhere else is pitch black, pretty much on a cool floor and ambient temperature is about &lt;a href="https://i.imgur.com/rJNglxK.jpg" rel="nofollow noreferrer"&gt;65F(18 celsius), 85% humidity&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/jPLFA.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/jPLFA.jpg" alt="Temperature and Humidity"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;Is there a risk to change the ambient temperature while it is aging, am I better getting them out of the fridge or does it matter little. I have a few bottles I've left out of the fridge in that place already. Should they go into the fridge? I'm also a bit curious as to why as well how it would affect the beers.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>3503</PostId>
+			<AcceptedAnswerId>5075</AcceptedAnswerId>
+			<Title>
+			"Does Fuller's Golden Pride age well?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>89</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-26T15:52:29.847</CreationDate>
+				<LastActivityDate>2016-06-09T01:00:54.613</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4338</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Has any of you guys ever aged Fuller's Golden Pride? Does it age well? How was your experience with it?&lt;/p&gt;
+
+					&lt;p&gt;To be honest I don't remember the beer so that well, and whether it has a good level of melanoidins and residual sugar worth to age. This beer is quite different from other english barley wines, known to age well, so if someone has ever done it, I would appreciate some advice.&lt;/p&gt;
+
+					&lt;p&gt;Thanks.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>4929</PostId>
+			<Title>
+			"Guidelines for aging Cabernet Sauvignon"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+				<tag>red-wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>666</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-07T01:48:01.740</CreationDate>
+				<LastEditDate>2016-06-03T14:35:30.367</LastEditDate>
+				<LastActivityDate>2016-11-17T17:10:06.770</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>37</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Cabernet Sauvignon is a varietal more suitable for aging, but are the any general guidelines for the ideal age, or is it highly variable?   &lt;/p&gt;
+
+					&lt;p&gt;Specifically I'm interested in finding out if there are general rules around how long after bottling &lt;em&gt;before&lt;/em&gt; you should drink it, and how long it can stay in the bottle before you &lt;em&gt;should&lt;/em&gt; drink it.  And if the guidelines are variable, what are some of the factors that come into play?  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>4930</PostId>
+			<Title>
+			"What are the factors that determine how long whisky is aged?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+				<tag>whiskey</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>803</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-07T02:24:12.177</CreationDate>
+				<LastActivityDate>2016-04-10T23:10:32.580</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>37</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Whisk[e]y varieties often have significant differences in how long they are aged.  While there are always exceptions, Bourbon is often aged for 5-10 years. Scotch, on the other hand, is more commonly aged for 10-20 years.  Why is this?  &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>5200</PostId>
+			<AcceptedAnswerId>6231</AcceptedAnswerId>
+			<Title>
+			"What properties help mead to age without skunking?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+				<tag>mead</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>1363</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>7</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-07-14T02:18:05.760</CreationDate>
+				<LastEditDate>2016-07-15T17:17:35.953</LastEditDate>
+				<LastActivityDate>2016-08-12T17:10:19.343</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have done a little home-brewing (with friends) and have made or helped make several meads over the years -- enough to prompt this question but not enough to provide sufficient data to answer it.&lt;/p&gt;
+
+					&lt;p&gt;Some of our meads have kept well for several years.  Others have started to go off after six months or a year (but were fine before that).  The meads are bottled in capped (usually) 12oz brown bottles stored in a dark basement, and it doesn't seem to be about individual bottles.  This seems to be a case of "some recipes keep longer than others".  I'd like to know what properties contribute to this.&lt;/p&gt;
+
+					&lt;p&gt;So far, the batch that has kept well for the longest (over 10 years now! I've been saving the last few bottles...) was &lt;em&gt;very&lt;/em&gt; high-gravity for a mead; it's strong, sweet, and very smooth.  But another moderately-high-gravity mead degraded after a year or so, and lower-gravity ones have sometimes lasted longer.  So it seems like there must be other factors at play; it doesn't seem to be as simple as "stronger (or sweeter) meads keep longer".&lt;/p&gt;
+
+					&lt;p&gt;Our production techniques have been about as consistent as home-brewing can be -- same equipment, same general process, same cellars, same fastidiousness about sanitation.  Varieties of honey and yeast have varied, and of course recipes have too.&lt;/p&gt;
+
+					&lt;p&gt;This is not a home-brewing question; I'm not asking specifically how to &lt;em&gt;make&lt;/em&gt; long-lived mead.  Rather, I'm asking what characteristics allow a mead to age longer without going off, which also helps me decide what to drink.&lt;/p&gt;
+
+					&lt;p&gt;I know that commercial meads exist, by the way, but I have never encountered one.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>6395</PostId>
+			<Title>
+			"Why would an aged beer explode?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+				<tag>belgian-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>202</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-11-20T23:17:59.967</CreationDate>
+				<LastEditDate>2016-11-21T17:35:42.190</LastEditDate>
+				<LastActivityDate>2016-12-08T21:07:04.907</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5328</OwnerUserId>
+				<LastEditorUserId>5889</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I had a bottle of Westvleteren XII aging in my fridge. As I was putting some other bottles next to it, I nudged it slightly and the bottle shattered violently. I'm certain that I didn't hit it with enough force to do that kind of damage, so I'm thinking that there was pressure that had built up inside the bottle.&lt;/p&gt;
+
+					&lt;p&gt;Is this something that's plausible? Could it mean that the beer had gone "off" and so I should not feel bad that my prized beer ended up as a sticky puddle?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>6683</PostId>
+			<AcceptedAnswerId>6700</AcceptedAnswerId>
+			<Title>
+			"Does beer expiration change based on yeasts?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>aging</tag>
+				<tag>yeast</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>92</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-17T17:54:58.957</CreationDate>
+				<LastActivityDate>2017-03-25T10:09:56.030</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6564</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've been enjoying lurking around here, I'm learning a lot! &lt;/p&gt;
+
+					&lt;p&gt;Part of my job involves selling beer. I was told by a coworker that visible yeast particulates at the top of a beer bottle indicate that it's not fit for consumption, whereas yeast at the bottom is fine. &lt;/p&gt;
+
+					&lt;p&gt;Is this true? And if so, does it change depending on whether it's a top-fermenting or bottom-fermenting beer? Does this affect meads and ciders as well? &lt;/p&gt;
+
+					&lt;p&gt;Thank you! &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>6928</PostId>
+			<Title>
+			"Vintage port stored on the side"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>aging</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>61</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-06-25T11:32:54.677</CreationDate>
+				<LastActivityDate>2017-06-25T22:20:06.073</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6778</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Many sites state that bottles of vintage port should be stored on their side, like wine, in order to prevent the cork from drying out. However, at the bottle shop, bottles are standing upright on the shelves to display themselves more attractively.&lt;/p&gt;
+
+					&lt;p&gt;We don't know how long the bottle has been standing upright, and it could have dried out the cork, and then do bad things to the port once layed on its side again. Once a bottle comes out of the cellars and is put upright on a shelf for let's say a couple of months or a year, is it advisable to lay the bottle down in storage again?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>7114</PostId>
+			<AcceptedAnswerId>7115</AcceptedAnswerId>
+			<Title>
+			"What are the main qualitative and quantitative differences between 18 and 12 year old Scotches?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+				<tag>scotch</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>151</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-12T17:47:39.597</CreationDate>
+				<LastActivityDate>2017-12-13T12:29:43.663</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's established in the Scotch world that the age of a whisky pushes it's price up. A MacAllan or Glenmorangie 18 will fetch a much higher price than their respective 12 year old versions.&lt;/p&gt;
+
+					&lt;p&gt;Having tried a small number of 18 year olds, I've found them highly variable in quality, just as you would with those in the 12 category, but those which were of higher quality seemed to be more &lt;em&gt;mellow and subtle&lt;/em&gt; than their twelve year old counter-parts. But that's only my understanding from a very small sample size.&lt;/p&gt;
+
+					&lt;p&gt;So the questions are:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;What does aging a Scotch do to the whisky chemically?&lt;/li&gt;
+					&lt;li&gt;What properties do 18 year old Scotches tend to share for tasters?&lt;/li&gt;
+					&lt;li&gt;Are 18 year old Scotches ever crafted with special care, to make them superior aside from the aging process?&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>7146</PostId>
+			<AcceptedAnswerId>7147</AcceptedAnswerId>
+			<Title>
+			"What to do with 50 (?) years old sake?"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>aging</tag>
+				<tag>sake</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>125</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-01-09T16:32:56.480</CreationDate>
+				<LastEditDate>2018-01-10T07:55:03.743</LastEditDate>
+				<LastActivityDate>2018-01-10T07:55:03.743</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7486</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I found a bottle of sake in my grandfathers basement.&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/z5Dd5.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/z5Dd5.jpg" alt="Picture of the sake box I found"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;As there are no Latin characters indicating the age of the bottle (and I don't speak Japanese), I used google Translator and found the following on a card which I assume can be sent back to the manufacturer to give feedback.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;差出有効期間昭和45年12月14日迄（切手はいりません）&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;which is translated to:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Sent validity period Until December 14, 1970 (stamps are not required)&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;So I guess it must be produced somewhere around 1970&lt;/p&gt;
+
+					&lt;p&gt;Does sake age well?&lt;/p&gt;
+
+					&lt;p&gt;Can I sell the bottle, as in: is it worth anything due to its age?&lt;/p&gt;
+
+					&lt;p&gt;How do I know if I can still drink it safely?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

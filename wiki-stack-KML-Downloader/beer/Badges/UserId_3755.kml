@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="3749"  UserId="3755" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2015-02-04T11:41:15.443</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3750"  UserId="3755" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2015-02-04T11:41:15.443</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3766"  UserId="3755" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2015-02-07T18:39:47.687</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4025"  UserId="3755" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2015-04-21T10:40:01.827</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4030"  UserId="3755" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2015-04-21T11:55:07.617</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4127"  UserId="3755" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2015-05-11T21:34:00.580</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4128"  UserId="3755" InstanceType= "badges">
+			<Title>
+			"Excavator"
+			</Title>
+			<TimeStamp>
+				<Date>2015-05-11T21:56:04.380</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

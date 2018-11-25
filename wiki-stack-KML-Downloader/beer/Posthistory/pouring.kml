@@ -1,0 +1,613 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>160</PostId>
+			<ParentPostId>63</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:24.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>56</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Guinness is sold in bottles and cans with special nitrogen widgets; the taps are specially rigged to have a two-step pouring process; heck, there's even a certificate given to people who learn how to "pour the perfect pint" at the Guinness factory in Dublin.  My question is: what makes Guinness so special? Why aren't these tactics used by other stout (or similar variants) producers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>161</PostId>
+			<ParentPostId>63</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:24.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>56</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why does Guinness have a special pouring process / bottle, while other stouts do not?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>162</PostId>
+			<ParentPostId>63</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:22:24.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>56</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottling, stout, draught, pouring, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>500</PostId>
+			<ParentPostId>200</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:31:11.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do you pour the perfect beer? Is there a special technique used to make a nice foam collar (not too much, not too few)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>501</PostId>
+			<ParentPostId>200</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:31:11.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do you pour the perfect beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>502</PostId>
+			<ParentPostId>200</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:31:11.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pouring, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>512</PostId>
+			<ParentPostId>203</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T15:11:10.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When using a keg setup at home, either with a hand pump or a pressurized system, I keep getting a lot of foam after changing and/or pumping up the air pressure (In a hand system).
+
+					This appears to me to be wasting beer, so how can I avoid this overfoaming of the pour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>513</PostId>
+			<ParentPostId>203</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T15:11:10.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to avoid keg foam?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>514</PostId>
+			<ParentPostId>203</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T15:11:10.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pouring, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Body" >
+			<PostId>619</PostId>
+			<ParentPostId>200</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T23:41:54.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<EditDetails>
+				Narrowing the question somewhat to allow for a more specific, yet still useful, answer.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do you make a perfect pour from a bottle, given a typical non-widget, non-bottle-conditioned beer? Is there a special technique used to make a nice foam collar (not too much, not too few)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Post Closed" >
+			<PostId>630</PostId>
+			<ParentPostId>200</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T01:06:55.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>13</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":7,"DisplayName":"Tom Medley"},{"Id":37,"DisplayName":"Xander"},{"Id":42,"DisplayName":"Sam Whited"},{"Id":13,"DisplayName":"Shog9"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>950</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T05:08:42.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					One of my favorite stouts, Left Hand's "Nitro Milk Stout," is supposed to be poured "hard" (rapidly dumping the whole bottle in the cup by holding it completely upside down)
+
+					Typical pouring was covered in a previous question: [How do you pour the perfect beer](http://beer.stackexchange.com/questions/200/how-do-you-pour-the-perfect-beer)
+
+					In another question Guinness (a 'nitro' beer) was brought up as a special case: [Why does Guinness have a special pouring process / bottle, while other stouts do not?](http://beer.stackexchange.com/questions/63/why-does-guinness-have-a-special-pouring-process-bottle-while-other-stouts-do)
+
+					Are all nitros poured differently than carbonated beers?
+
+					And are all nitros poured the same (or very similar) way?
+
+					(i.e. all carbonated are "soft" poured and all nitros are "hard" poured)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>951</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T05:08:42.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When are beers better "hard" poured rather than "soft" poured?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>952</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T05:08:42.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, pouring, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Body" >
+			<PostId>1228</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T19:06:17.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Different beers and different types of storage result in different amounts of foam being produced when the beer is poured, from almost none at all to a glass full of foam.
+
+					What factors, both in terms of ingredients/type of beer and storage, affect how much foam will be produced? And, as a bonus question, how do I avoid excessive amounts of foam when pouring?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Title" >
+			<PostId>1229</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T19:06:17.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What determines how much foam a beer produces when it is poured?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Tags" >
+			<PostId>1230</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T19:06:17.957</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, ingredients, pouring, foam, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>1252</PostId>
+			<ParentPostId>488</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-02T04:25:10.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429832842617819136
+			</EditDetails>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Body" >
+			<PostId>1399</PostId>
+			<ParentPostId>550</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T21:31:49.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Bottle conditioned beers (such as many homebrews or those explicitly labelled as bottle conditioned/fermented) are, I'm told, supposed to be poured a specific way to avoid getting the yeast from the bottle into the glass.  How should I pour such a beer?
+
+					Bonus points for gifs or diagrams I can distribute with my homebrew.  :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Title" >
+			<PostId>1400</PostId>
+			<ParentPostId>550</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T21:31:49.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do you pour a bottle conditioned beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Tags" >
+			<PostId>1401</PostId>
+			<ParentPostId>550</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T21:31:49.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pouring, bottle-conditioning, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>1428</PostId>
+			<ParentPostId>550</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T10:36:06.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431375746595295232
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>1560</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-12T07:37:33.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433505139006373888
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Unknown" >
+			<PostId>1622</PostId>
+			<ParentPostId>63</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T04:38:03.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434909515298119680
+			</EditDetails>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>1868</PostId>
+			<ParentPostId>675</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-19T15:30:22.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I remember the first hefeweizen I had. It was made by Widmer, and I didn't like it. The second time I tried it, I noticed there were pouring instructions on the box/bottle. 
+
+					The instructions said to pour two thirds of the beer in to a glass, swirl, then pour the remainder. They even have an [official YouTube video][1] on it. I gave it a try, and maybe it was my imagination, but it tasted surprisingly different. I liked it.
+
+					What does rolling/swirling a hefeweizen actually do?
+
+					  [1]: http://www.youtube.com/watch?v=RVrLrdbMSyg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>1869</PostId>
+			<ParentPostId>675</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-19T15:30:22.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does rolling/swirling a hefeweizen actually do?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>1870</PostId>
+			<ParentPostId>675</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-19T15:30:22.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pouring, yeast, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Edit Body" >
+			<PostId>12496</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					One of my favorite stouts, Left Hand's "Nitro Milk Stout," is supposed to be poured "hard" (rapidly dumping the whole bottle in the cup by holding it completely upside down)
+
+					Typical pouring was covered in a previous question: [How do you pour the perfect beer](https://alcohol.stackexchange.com/questions/200/how-do-you-pour-the-perfect-beer)
+
+					In another question Guinness (a 'nitro' beer) was brought up as a special case: [Why does Guinness have a special pouring process / bottle, while other stouts do not?](https://alcohol.stackexchange.com/questions/63/why-does-guinness-have-a-special-pouring-process-bottle-while-other-stouts-do)
+
+					Are all nitros poured differently than carbonated beers?
+
+					And are all nitros poured the same (or very similar) way?
+
+					(i.e. all carbonated are "soft" poured and all nitros are "hard" poured)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>12589</PostId>
+			<ParentPostId>6774</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-15T00:04:39.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Especially when it comes to serving beer, such as Guinness, it is debatable that the pour is the most important aspect. This is something I understand due to the layering and carbonation...
+
+					When is it important to pay attention to the pour for other alcoholic beverages?
+
+					For example, I dated a waitress that was adamant about the proper way to pour wine - thumb in the bottom, on the forearm with a napkin, presenting the label during the pour, finally properly spinning the bottle at the end of the pour... Is this all due to presentation or does it have anything to do with consumption, as well?
+
+					Considering cocktails, I do not mean shaken vs stirred...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>12590</PostId>
+			<ParentPostId>6774</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-15T00:04:39.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When does the pour matter?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>12591</PostId>
+			<ParentPostId>6774</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-15T00:04:39.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, pouring, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>12603</PostId>
+			<ParentPostId>6774</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-16T21:22:33.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/853720288894308353
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

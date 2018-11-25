@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="305"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T06:56:09.397</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="306"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T06:56:40.527</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="308"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T07:01:41.680</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="309"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T07:16:50.170</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="312"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Precognitive"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T07:52:12.283</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="459"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Suffrage"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-23T06:17:43.087</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="461"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Vox Populi"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-23T07:02:59.150</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1655"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2014-06-10T07:50:54.820</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3604"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Organizer"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-13T14:14:01.230</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5839"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2016-05-23T10:51:20.430</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5879"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Excavator"
+			</Title>
+			<TimeStamp>
+				<Date>2016-05-25T01:15:49.453</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6375"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2016-09-20T12:20:29.293</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6953"  UserId="122" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2017-02-14T06:28:38.657</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

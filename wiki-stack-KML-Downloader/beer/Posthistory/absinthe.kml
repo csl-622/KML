@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>11386</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>11387</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can absinthe be colored into a different colour other than green?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>11388</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, colour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>11389</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T20:09:29.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/802967600967929857
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Body" >
+			<PostId>11406</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-30T13:23:32.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<EditDetails>
+				Added image
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+
+					I'm attaching an image for you to know what I'm talking about:
+
+					[These are the ones I saw][1]
+
+
+					  [1]: https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>11543</PostId>
+			<ParentPostId>6464</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-01T21:44:12.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Absinthe][1] has been said to cause insanity, permanent brain-damage and/or hallucinatory state.
+
+					Is this accurate?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Absinthe
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>11544</PostId>
+			<ParentPostId>6464</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-01T21:44:12.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is the saying true that drinking absinthe drives a person insane?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>11545</PostId>
+			<ParentPostId>6464</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-01T21:44:12.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, drinking, absinthe, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>11588</PostId>
+			<ParentPostId>6464</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-08T11:37:32.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/818059054752927745
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Body" >
+			<PostId>12486</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T04:10:48.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added Linked Image for clarity.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+
+					I'm attaching an image for you to know what I'm talking about:
+
+					[These are the ones I saw][1]
+
+					[![Colored Absinthe][2]][2]
+
+
+					  [1]: https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg
+					  [2]: https://i.stack.imgur.com/XN8TE.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Tags" >
+			<PostId>12524</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T12:22:37.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, colour, absinthe, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,686 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>809</PostId>
+			<Title>
+			"Are there any Italian craft beers?"
+			</Title>
+			<Tags>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>132</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-27T13:25:12.083</CreationDate>
+				<LastEditDate>2016-06-16T02:57:12.743</LastEditDate>
+				<LastActivityDate>2016-06-16T02:57:12.743</LastActivityDate>
+				<ClosedDate>2014-05-30T21:36:10.193</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>920</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm spending my summer in Florence, Italy. I've been here for a week already and I've since realized they much rather prefer wine, but I don't. I'm looking for some Italian craft beers because I don't know how much longer I can drink Heineken. So any ideas?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>3416</PostId>
+			<Title>
+			"Where can you buy US craft beer in Europe that will ship to other EU countries?"
+			</Title>
+			<Tags>
+				<tag>distribution</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>655</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-23T16:13:24.883</CreationDate>
+				<LastEditDate>2016-06-16T02:51:56.370</LastEditDate>
+				<LastActivityDate>2017-07-19T10:43:43.297</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4240</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;anyone know where you can buy US/American craft beers in Europe. Which shops/websites sell US craft beer and will ship it to other EU countries? Or any wholesalers/distributors to contact.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>4645</PostId>
+			<Title>
+			"Are there any bottled South Korean craft beers?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>112</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-21T05:24:25.083</CreationDate>
+				<LastEditDate>2016-06-16T02:51:15.073</LastEditDate>
+				<LastActivityDate>2016-07-17T01:59:59.240</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are there any South Korean craft breweries who bottle their beers?&lt;/p&gt;
+
+					&lt;p&gt;Bonus question: Where (in Seoul) can my friend obtain some?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>6375</PostId>
+			<AcceptedAnswerId>6376</AcceptedAnswerId>
+			<Title>
+			"What are the real differences between barley wine and old ale?"
+			</Title>
+			<Tags>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>154</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-10-29T06:21:38.787</CreationDate>
+				<LastEditDate>2016-10-31T13:36:52.437</LastEditDate>
+				<LastActivityDate>2016-10-31T13:36:52.437</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6052</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Other than the ABV value what are the exact differences between these two strong ale styles. I have tasted a lot of them and the difference seems very hard to notice. If you make a blind tasting, what descriptors would you use to identify each of them.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>6792</PostId>
+			<Title>
+			"How do I measure the sugar content of brewed beers?"
+			</Title>
+			<Tags>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>1000</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-23T05:52:08.193</CreationDate>
+				<LastActivityDate>2017-04-26T00:40:37.117</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5607</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I want to measure the sugar content of several brewed beers. What is the best equipment to use for this (e.g., Brix hydrometer) and how accurate would the result be using this technology?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>6794</PostId>
+			<AcceptedAnswerId>6798</AcceptedAnswerId>
+			<Title>
+			"Does craft beer have more nutritional values than regular beer?"
+			</Title>
+			<Tags>
+				<tag>craft-beers</tag>
+				<tag>nutrition</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>158</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-23T21:42:34.510</CreationDate>
+				<LastActivityDate>2017-04-24T20:41:57.563</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6682</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was wondering if the craft beer has more nutritional values (vitamins and so on) than regular and cheap beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>6804</PostId>
+			<AcceptedAnswerId>6807</AcceptedAnswerId>
+			<Title>
+			"How should I convince my mom that my beer isn't poison?"
+			</Title>
+			<Tags>
+				<tag>craft-beers</tag>
+				<tag>home-brew</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>312</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-28T07:46:29.693</CreationDate>
+				<LastEditDate>2017-04-28T11:56:12.173</LastEditDate>
+				<LastActivityDate>2017-11-16T18:08:53.430</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6699</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently picked up a Mr. Beer DIY Northwest Pale Ale Beer Brewing Kit, and when I told my Mom I was brewing some homemade beer. She said she wouldn't drink it because it might be poison. Is there any why to explain to my mom that my beer would be quite safe to drink?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>6948</PostId>
+			<Title>
+			"Can anyone help me figure out what beer this is?"
+			</Title>
+			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>250</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-07-05T15:08:29.580</CreationDate>
+				<LastEditDate>2017-07-06T12:41:03.337</LastEditDate>
+				<LastActivityDate>2017-07-13T10:47:34.953</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6900</OwnerUserId>
+				<LastEditorUserId>6900</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/4aDpB.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/4aDpB.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;I need help in trying to figure out what beer is pictured.  I don't have any more information regarding the beer. I am hoping that someone might recognize the partial label.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>7066</PostId>
+			<Title>
+			"Why is Sam Adam's high ABV beer illegal to sell in several US states?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>united-states</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>91</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-11T20:36:16.730</CreationDate>
+				<LastEditDate>2017-12-14T11:13:56.970</LastEditDate>
+				<LastActivityDate>2017-12-14T11:13:56.970</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7261</OwnerUserId>
+				<LastEditorUserId>7272</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Not even compared to absinth, even SKYY vodka has a higher ABV and we well that everywhere.&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;The end result is a 28 percent alcohol-by-volume beer that's void of any carbonation. According to Forbes, Utopias is illegal to sell in 11 states because it's so alcoholic.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;a href="http://www.dentonrc.com/news/denton/2017/11/10/200-beer-reportedly-illegal-11-states-texas" rel="nofollow noreferrer"&gt;This $200 beer is reportedly illegal in 11 states, but not Texas&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>7111</PostId>
+			<Title>
+			"Can all sugars be used for brewing?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>yeast</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>72</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-09T18:42:12.927</CreationDate>
+				<LastActivityDate>2018-06-14T14:00:30.720</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7415</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;While we generally focus on glucose, sucrose, and fructose for brewing, there are &lt;a href="https://en.wikipedia.org/wiki/List_of_sugars" rel="nofollow noreferrer"&gt;a lot of sugars&lt;/a&gt; out there. Can all of these be used in the brewing process, particularly for beer? What are the effects of using more esoteric sugars such as dextrose, xylose, mycose, or mannose alongside normal brewing grains? What about amino sugars such as glucosamine?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>7180</PostId>
+			<AcceptedAnswerId>7181</AcceptedAnswerId>
+			<Title>
+			"What's a good (neutral) sample beer to spike with a sensory training kit?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>lager</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>143</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-01T19:44:37.167</CreationDate>
+				<LastActivityDate>2018-05-16T22:25:12.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently ordered a sensory training kit from Siebel Institute. In short, glass vials of liquid isolating flavors (including off-flavors and contamination) commonly found in beer.&lt;/p&gt;
+
+					&lt;p&gt;The instructions explain how to spike samples of beer, but say nothing about how to select a suitable beer:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/d8WFw.jpg" rel="noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/d8WFw.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;I'll be hosting a party of six, and our tastes vary wildly: from craft drinkers to macro drinkers, and an enologist (winemaker).&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;How should I select the base beer(s) to help us get the most out of this experience?&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;Should we all have the same beer? If so, a macro, even though some dislike them? Or should I pick something like a pilsner?&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Or should I have two tiers, a macro and something else? (What kind of ale would be appropriate?)&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>7237</PostId>
+			<Title>
+			"Why changes taste of beer when transported by plane?"
+			</Title>
+			<Tags>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>95</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-04-10T10:26:21.057</CreationDate>
+				<LastActivityDate>2018-06-17T19:44:34.667</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7702</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I observed the following. When I was in Brazil I drank some craft beer, which I liked. I bought some bottles and took them with me to Europe. When I opened the bottles here the taste was terrible. Some months later I was revisited by my Brazilian friends who discovered some other nice beer in my town. So they took some bottles to Brazil where they made the same bad taste experience. &lt;/p&gt;
+
+					&lt;p&gt;What happened? The bottles were transported in suitcases (stored in the cold, but not frozen store of the plane) and reached their destination closed and assumed in best condition. I do not suppose any effect of light, temperature or pressure. Even vibrations must have been low because the bottles were covered by clothing. There must have been some impact to the beer which I do not understand. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>7304</PostId>
+			<Title>
+			"What factors cause distinctions between Canadian and American craft beer?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>57</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-18T18:52:46.213</CreationDate>
+				<LastActivityDate>2018-05-18T20:22:04.073</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've lived on the Canadian border, right next to the U.S. for most of my life. In the past 5 or so years I've noticed that many American craft breweries seem to produce higher quality craft beer than their Canadian counter-parts. Not only is the beer often better, but the styles and flavors seem to be more creative.&lt;/p&gt;
+
+					&lt;p&gt;I've heard inklings here and there that the regulatory environment in the U.S. tends to be more lax, which might be the cause of this, but I'm not certain if this is true. That leads to the questions:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;In what ways are Canadian and American craft beer different?&lt;/li&gt;
+					&lt;li&gt;What are the major factors that have led to these differences?&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>7344</PostId>
+			<Title>
+			"Craft beers and Microbreweries in Melbourne?"
+			</Title>
+			<Tags>
+				<tag>breweries</tag>
+				<tag>craft-beers</tag>
+				<tag>micropub</tag>
+				<tag>melbourne</tag>
+				<tag>australia</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>51</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-19T06:54:05.447</CreationDate>
+				<LastEditDate>2018-06-22T12:09:45.313</LastEditDate>
+				<LastActivityDate>2018-06-25T16:18:42.633</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are several lists online for craft brews in Melbourne, Australia:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;a href="https://foursquare.com/top-places/melbourne/best-places-craft-beer" rel="nofollow noreferrer"&gt;https://foursquare.com/top-places/melbourne/best-places-craft-beer&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries" rel="nofollow noreferrer"&gt;https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/" rel="nofollow noreferrer"&gt;https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Are there others that are not on any of these lists? &lt;/p&gt;
+
+					&lt;p&gt;Are there any nearby the Melbourne Convention and Exhibition Centre ?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>7355</PostId>
+			<Title>
+			"Alcohol related data openly available"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>craft-beers</tag>
+				<tag>reviews</tag>
+				<tag>data</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>73</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-26T02:53:40.557</CreationDate>
+				<LastEditDate>2018-06-26T04:05:02.673</LastEditDate>
+				<LastActivityDate>2018-08-27T23:00:33.590</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>123</OwnerUserId>
+				<LastEditorUserId>123</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are there any other alcohol related data?&lt;/p&gt;
+
+					&lt;p&gt;I've found several: &lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;Wine Review&lt;/strong&gt;: &lt;a href="https://www.kaggle.com/zynicide/wine-reviews" rel="nofollow noreferrer"&gt;https://www.kaggle.com/zynicide/wine-reviews&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;CellarTracker&lt;/strong&gt;: &lt;a href="https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf" rel="nofollow noreferrer"&gt;https://pdfs.semanticscholar.org/d88e/4b5c117283b20476ebb7f4bbaac892028cc1.pdf&lt;/a&gt; (but not sure how to download the data)&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;Beer Advocate&lt;/strong&gt; data: &lt;a href="http://snap.stanford.edu/data/web-BeerAdvocate.html" rel="nofollow noreferrer"&gt;http://snap.stanford.edu/data/web-BeerAdvocate.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;RateBeer&lt;/strong&gt; data: &lt;a href="https://snap.stanford.edu/data/web-RateBeer.html" rel="nofollow noreferrer"&gt;https://snap.stanford.edu/data/web-RateBeer.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;US Beer Stats&lt;/strong&gt;: &lt;a href="https://github.com/jasdumas/ttbbeer" rel="nofollow noreferrer"&gt;https://github.com/jasdumas/ttbbeer&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;&lt;strong&gt;Alcohol Language Corpus&lt;/strong&gt; (recordings of people who are drunk): &lt;a href="https://www.phonetik.uni-muenchen.de/Bas/BasALCeng.html" rel="nofollow noreferrer"&gt;https://www.phonetik.uni-muenchen.de/Bas/BasALCeng.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;But I'm sure there are more that our community here would know. &lt;/p&gt;
+
+					&lt;hr&gt;
+
+					&lt;p&gt;BTW, there's also this nice post on some analysis and demo on:
+					&lt;a href="https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/" rel="nofollow noreferrer"&gt;https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>7423</PostId>
+			<Title>
+			"What does Single Turn, Double Turn and Triple Turn mean in brewing?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>breweries</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>24</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-07T18:54:00.717</CreationDate>
+				<LastActivityDate>2018-08-07T18:54:00.717</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7991</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I was going through a brochure in brewing and it mentioned Single Turn, Double Turn and Triple turn brewing. However, it did not mention what those mean. I would really appreciate if anyone with knowledge of this enlighten me on this. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>7430</PostId>
+			<Title>
+			"Brewing: Which temperature should I ferment ale beer at?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>specialty-beers</tag>
+				<tag>german-beers</tag>
+				<tag>craft-beers</tag>
+				<tag>home-brew</tag>
+			</Tags>
+			<Credit> 
+				<Score>-1</Score>
+				<ViewCount>7</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-11T18:48:21.547</CreationDate>
+				<LastActivityDate>2018-08-11T18:48:21.547</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7954</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I want to brew beer and I wonder which temperature I should ferment it at?
+					I want to brew ales like IPA and Pale Ale.&lt;/p&gt;
+
+					&lt;p&gt;What difference does different fermentation temperatures have on the beer? Are there different temperatures needed when brewing different kinds of beers with different yeasts?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>7432</PostId>
+			<Title>
+			"What are the differences between Pale Ale (PA), India Pale Ale (IPA) and American Pale Ale (APA)?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>specialty-beers</tag>
+				<tag>craft-beers</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>55</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-11T18:57:15.147</CreationDate>
+				<LastActivityDate>2018-08-17T23:56:55.323</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7954</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am wondering because I want to brew these styles of beer myself.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>7433</PostId>
+			<Title>
+			"Beer Brewing: How do I dry fresh hops?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>craft-beers</tag>
+				<tag>hops</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>10</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-11T19:01:00.043</CreationDate>
+				<LastActivityDate>2018-08-11T19:01:00.043</LastActivityDate>
+				<ClosedDate>2018-08-12T21:26:13.883</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7954</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have fresh hops and I wish to dry them for storage in vacuum packed bags. Which methods can I use for drying them, and what are the differences in quality?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>7461</PostId>
+			<Title>
+			"Drinking Sixteen percent alcoholic beer!"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>28</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-28T20:20:52.187</CreationDate>
+				<LastEditDate>2018-08-29T00:51:17.227</LastEditDate>
+				<LastActivityDate>2018-08-29T00:51:17.227</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>8056</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I drink about one or two cans of 16% alcoholic beer per month. Is this bad or good for my health? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>231</PostId>
+			<Title>
+			"What is the science behind the Widget?"
+			</Title>
+			<Tags>
+				<tag>science</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>201</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T21:25:31.543</CreationDate>
+				<LastEditDate>2016-05-23T12:55:40.980</LastEditDate>
+				<LastActivityDate>2016-05-23T12:55:40.980</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>130</OwnerUserId>
+				<LastEditorUserId>122</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know the actual result of the Widget, a fine, rich froth. I know the basic mechanism, pressurized gas escaping when the whole can depressurizes, and pushing the beer out from the widget. I still don't understand how this whole "activation" process works.&lt;/p&gt;
+
+					&lt;p&gt;What physical processes occur in the liquid that result in this particular effect. as opposed to, say, big, coarse big bubbles as would blowing air through a straw into beer create?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>4680</PostId>
+			<AcceptedAnswerId>4681</AcceptedAnswerId>
+			<Title>
+			"Can canned beer be frozen for longer than bottled beer?"
+			</Title>
+			<Tags>
+				<tag>science</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>1740</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-11-08T05:49:43.970</CreationDate>
+				<LastEditDate>2015-11-11T02:00:49.853</LastEditDate>
+				<LastActivityDate>2015-11-18T08:43:09.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1321</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In a bid to chill my beer quickly, I've placed my bottles in freezer only to find myself cleaning up a mess a few minute later. &lt;/p&gt;
+
+					&lt;p&gt;In order to save myself from having this happen again, is it ok to leave beer in cans inside freezer for a longer time?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>4682</PostId>
+			<AcceptedAnswerId>4683</AcceptedAnswerId>
+			<Title>
+			"What is the result of boiling beer?"
+			</Title>
+			<Tags>
+				<tag>science</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>803</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-11-09T04:10:51.977</CreationDate>
+				<LastEditDate>2015-11-11T01:55:05.027</LastEditDate>
+				<LastActivityDate>2015-11-18T08:37:32.447</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1321</OwnerUserId>
+				<LastEditorUserId>37</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Recently, I had seen a video where a Coke was boiled, and end result was tar like substance.  I am just curious to know if anyone has tried boiling beer, and what is the result? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>7155</PostId>
+			<Title>
+			"Are there any sure fire hangover cures?"
+			</Title>
+			<Tags>
+				<tag>hangover</tag>
+				<tag>science</tag>
+			</Tags>
+			<Credit> 
+				<Score>-1</Score>
+				<ViewCount>80</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-01-19T15:42:52.693</CreationDate>
+				<LastActivityDate>2018-01-19T18:32:58.303</LastActivityDate>
+				<ClosedDate>2018-01-26T11:08:01.603</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The internet is full of hangover cures - (I need a drink just reading them all!)&lt;/p&gt;
+
+					&lt;p&gt;Just how many can claim to be backed by science?&lt;/p&gt;
+
+					&lt;p&gt;Obvious strategies include staying hydrated, getting plenty of sleep, eating a good breakfast and taking certain supplements, all of which could reduce your hangover symptoms.&lt;/p&gt;
+
+					&lt;p&gt;But is there an instant cure?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>7464</PostId>
+			<Title>
+			"Liquor before beer never fear"
+			</Title>
+			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>recommendations</tag>
+				<tag>health</tag>
+				<tag>liquor</tag>
+				<tag>science</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>2</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-09-02T03:31:46.593</CreationDate>
+				<LastActivityDate>2018-09-02T03:31:46.593</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7198</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The common saying "beer before liquor never sicker and liquor before beer have no fear" always made me wander why is that? What is the science behind it? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

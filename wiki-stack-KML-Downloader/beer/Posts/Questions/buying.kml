@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>92</PostId>
+			<Title>
+			"Where can I buy Czech beers in Bavaria?"
+			</Title>
+			<Tags>
+				<tag>distribution</tag>
+				<tag>buying</tag>
+				<tag>retail-availiability</tag>
+				<tag>germany</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>80</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:55:27.830</CreationDate>
+				<LastEditDate>2016-06-16T02:58:42.297</LastEditDate>
+				<LastActivityDate>2016-06-16T02:58:42.297</LastActivityDate>
+				<ClosedDate>2014-01-25T11:05:40.270</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are the Czech beers like Velkopopovický Kozel possible to buy somewhere in Bavaria? &lt;/p&gt;
+
+					&lt;p&gt;Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?&lt;/p&gt;
+
+					&lt;p&gt;Czech beers are of very good quality, and Bavaria neighbours with Czech, so they shouldn't be hard to find.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>769</PostId>
+			<AcceptedAnswerId>776</AcceptedAnswerId>
+			<Title>
+			"Bellwoods Brewery Beer in the UK"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>local</tag>
+				<tag>buying</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>119</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-05T19:34:34.940</CreationDate>
+				<LastActivityDate>2014-05-09T19:01:53.327</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>847</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;So, I was in Toronto (Canada) a little while ago and absolutely fell in love with a couple of the beers from &lt;a href="http://bellwoodsbrewery.com/" rel="noreferrer"&gt;Bellwoods Brewery&lt;/a&gt;. Specifically:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;Witchshark; and&lt;/li&gt;
+					&lt;li&gt;Monogamy&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;I have been casually looking online to see if I could find their beers here in the London (England) or on the internet, but with no luck.&lt;/p&gt;
+
+					&lt;p&gt;Anyone know if I can find these beers somewhere?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>935</PostId>
+			<Title>
+			"Where to buy "Medalla"?"
+			</Title>
+			<Tags>
+				<tag>local</tag>
+				<tag>buying</tag>
+				<tag>cans</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>1006</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-17T11:33:58.517</CreationDate>
+				<LastActivityDate>2015-12-16T18:13:48.707</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1108</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Where can I order Puerto Rican brand "Medalla" (canned) from Germany/online ?&lt;/p&gt;
+
+					&lt;p&gt;May there is better German beer available, but I liked drinking frozen Medalla when I was visiting PR last summer - and right now it's hot in Germany and I really miss it...&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>1053</PostId>
+			<Title>
+			"Is there a BeerAdvocate-like ranking of beers commonly found in supermarkets?"
+			</Title>
+			<Tags>
+				<tag>buying</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>366</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-10-19T18:34:00.357</CreationDate>
+				<LastEditDate>2014-10-19T21:41:08.193</LastEditDate>
+				<LastActivityDate>2015-01-11T19:44:52.183</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1404</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is there a ranking of beers (maybe by country) you can actually find in a supermarket?&lt;/p&gt;
+
+					&lt;p&gt;I know the BeerAdvocate one, but it seems I would need to sell my soul to get any beer in the top 250.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>2139</PostId>
+			<AcceptedAnswerId>2140</AcceptedAnswerId>
+			<Title>
+			"Is there a site (or app) like Beer Advocate that lets me give just an overall rating?"
+			</Title>
+			<Tags>
+				<tag>buying</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>292</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-18T04:18:37.103</CreationDate>
+				<LastActivityDate>2015-07-20T17:12:55.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer Advocate used to allow you to give an overall rating for a beer, rather than giving score breakdowns (appearance, smell, mouth feel, etc).  They have recently &lt;a href="http://www.beeradvocate.com/community/threads/beeradvocate-returns-to-its-roots-rating-system-revamped.238804/"&gt;changed this&lt;/a&gt; and you can only supply a rating if you rate all the factors.  That makes sense if you're a site owner trying to gather better data, but it's not so great for the casual beer-drinker who just wants to keep track of what she's had and how she liked it.&lt;/p&gt;
+
+					&lt;p&gt;The value of a site like Beer Advocate, rather than just keeping a file on disk, is having access to the descriptions (including categories like "winter warmer" and "amber ale" and suchlike), other items from those breweries (useful when looking at a menu, or shopping), and, out of curiosity, the variance between my rating and the average for people who rated that beer. Also, I want to be able to see and add ratings from multiple locations, so if I just used a file it would have to live in the cloud somewhere.  Alternatively, I'd be happy to use an app on my Android phone.&lt;/p&gt;
+
+					&lt;p&gt;What's the easiest way for me to track what I've had, with information about the beers (and breweries) and my own ratings?  I don't care if my ratings are shared with the world; I'm happy to contribute them if that's helpful, but I'm looking for a way that &lt;em&gt;I&lt;/em&gt; can track information about &lt;em&gt;my own&lt;/em&gt; tastes.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>5084</PostId>
+			<AcceptedAnswerId>5086</AcceptedAnswerId>
+			<Title>
+			"Is there any proof that a $1,000 bottle of wine is a good wine?"
+			</Title>
+			<Tags>
+				<tag>buying</tag>
+				<tag>wine</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>245</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-12T14:08:49.817</CreationDate>
+				<LastActivityDate>2016-06-13T23:18:42.930</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The other day, I was in a specialty wine store and noticed several bottles of wines priced between $500 and $5,000!&lt;/p&gt;
+
+					&lt;p&gt;Is there any way of knowing (historically or otherwise) that a particular exorbitantly priced bottle of wine is a well flavored wine? Or is this simply a marketing strategy?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>6718</PostId>
+			<Title>
+			"Which Brahma beer is unhopped?"
+			</Title>
+			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>buying</tag>
+				<tag>identification</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>81</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-31T05:36:10.197</CreationDate>
+				<LastEditDate>2017-04-02T03:59:28.097</LastEditDate>
+				<LastActivityDate>2017-04-02T03:59:28.097</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6448</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I had a bottle of &lt;a href="https://wikipedia.org/wiki/Brahma_beer" rel="nofollow noreferrer"&gt;Brahma&lt;/a&gt; beer when I was in Brasíl some years ago, and I didn't save the label.  These are what I remember:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;it was sweet and malty.&lt;/li&gt;
+					&lt;li&gt;it had a white label.&lt;/li&gt;
+					&lt;li&gt;it had 4% or thereabouts alcohol.&lt;/li&gt;
+					&lt;li&gt;I purchased it at a decent and reputable restaurant circa 2008 — so it most probably wasn't an old or even a mislabeled bottle.&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;Reading their &lt;a href="http://www.brahma.com.br/" rel="nofollow noreferrer"&gt;website&lt;/a&gt; is difficult for me, but I don't see anything which strikes me as a clear match — not even the Weiss (White) variety.  Possibly, I suppose, but I don't see anything in the description &lt;a href="http://www.brahma.com.br/cervejas/extra-weiss" rel="nofollow noreferrer"&gt;here&lt;/a&gt; which would obviate this question.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>7375</PostId>
+			<Title>
+			"What online Italian wine stores ship internationally?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>buying</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>40</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-07-07T03:42:14.010</CreationDate>
+				<LastActivityDate>2018-07-08T11:45:41.330</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7914</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What online Italian wine stores ship internationally? I know &lt;a href="https://www.vino75.com/" rel="nofollow noreferrer"&gt;Vino75&lt;/a&gt; does not.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>7381</PostId>
+			<Title>
+			"How long in advance do you need to order Westvleteren?"
+			</Title>
+			<Tags>
+				<tag>trappist</tag>
+				<tag>buying</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>77</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-07-12T14:35:02.680</CreationDate>
+				<LastActivityDate>2018-07-26T15:21:58.520</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7922</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm thinking of going to Belgium for a week's holiday in the autumn and this time take the car from the UK. This would be perfect for stopping by the monks at Westvleteren and buying a case of beer. How long in advance can you/do you need to call them? Given that we'll probably need to book the holiday at least a month before we go, I don't want to miss out by not getting an appointment!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

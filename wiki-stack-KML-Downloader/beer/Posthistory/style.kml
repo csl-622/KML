@@ -1,0 +1,3361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>75</PostId>
+			<ParentPostId>28</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:58:13.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know what makes an IPA an IPA, but what are the unique characteristics of it's common variants? To be specific, the ones I'm interested in are Double IPA and Black IPA, but general differences between any other styles would be welcome too. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>76</PostId>
+			<ParentPostId>28</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:58:13.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's are the differences between an IPA and its variants?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>77</PostId>
+			<ParentPostId>28</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:58:13.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>284</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:47.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know friends who have "aged" beers to around the 1 year mark. Typically I've heard of stouts and porters aging well. Is the aging style related? If so, what styles can you age and for how long?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>285</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:47.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What styles of beer can you age?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>286</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:47.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>83</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, age, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>298</PostId>
+			<ParentPostId>121</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:55:10.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>86</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					There are many styles of beer. It's straightforward to discuss the differences between two types of beer, but what are the characteristics used to distinguish between styles of beer? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>299</PostId>
+			<ParentPostId>121</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:55:10.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>86</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What characteristics are used to distinguish styles of beer from each other?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>300</PostId>
+			<ParentPostId>121</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:55:10.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>86</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Body" >
+			<PostId>316</PostId>
+			<ParentPostId>121</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:08:25.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>86</UserId>
+			</Contributors>
+			<EditDetails>
+				added 182 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					There are many styles of beer. It's straightforward to discuss the differences between two types of beer, but what are the characteristics used to distinguish between styles of beer?
+
+					For each general characteristic, what kinds of beer have each specific quality?  For example, if color is a general characteristic what styles of beer are light, medium, and dark?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Title" >
+			<PostId>334</PostId>
+			<ParentPostId>28</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:54:36.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Typo in the title.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What are the differences between an IPA and its variants?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>335</PostId>
+			<ParentPostId>28</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:54:36.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 73 approved by 2 edit id of 17
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>340</PostId>
+			<ParentPostId>138</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:27:29.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					You will often hear wine discussed in terms of the climate, soil, etc of the vineyard. The terms 'new world' and 'old world' wines are common.
+
+					Is there a similar concept for the hops used in beer? A quick web search seems to indicate that hops don't thrive in as many different climates as grapes do, so there might be less variation. Similarly, there are a few websites that seem to refer to new vs. old world hops, but it doesn't seem to be as popular a talking point. Is there more to it than a 2 minute google search can reveal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>341</PostId>
+			<ParentPostId>138</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:27:29.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does the climate and growing conditions of hops effect the taste of a beer, like with wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>342</PostId>
+			<ParentPostId>138</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:27:29.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, style, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Tags" >
+			<PostId>414</PostId>
+			<ParentPostId>28</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T05:50:20.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Post Closed" >
+			<PostId>490</PostId>
+			<ParentPostId>115</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:08:19.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[99],"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":83,"DisplayName":"akaykay"},{"Id":27,"DisplayName":"object88"},{"Id":7,"DisplayName":"Tom Medley"},{"Id":138,"DisplayName":"Lucas Kauffman"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Post Closed" >
+			<PostId>511</PostId>
+			<ParentPostId>121</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:55:20.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":73,"DisplayName":"acheong87"},{"Id":39,"DisplayName":"wax eagle"},{"Id":7,"DisplayName":"Tom Medley"},{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Body" >
+			<PostId>546</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T17:46:39.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some beers are classed as "doublebock" and some as "triple bock".  Doubles seem to be a little stronger (higher APV) than average and triples seem to be stronger than that, but is that they *definition* or an *effect*?  What exactly is being doubled or tripled in the production of these beers, and is the primary goal strength or some aspect of flavor or something else?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Title" >
+			<PostId>547</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T17:46:39.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is being doubled or tripled in a doublebock/triple bock?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Tags" >
+			<PostId>548</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T17:46:39.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Body" >
+			<PostId>884</PostId>
+			<ParentPostId>338</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T20:39:28.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'll be the first to admit that I have, at best, the palate of a highly experienced amateur. I can tell an IPA from a Stout from a Doppelbock primarily on the common visual, olfactory, and above all else tastes that are found throughout any example of each style. However, while I've had many delightful 'Saisons' in my time as a drinker of beer, I've never been able to get a straight answer about what characteristics define the style. The best I've ever been able to get is vague handwavey historical notions about the beers role as a 'refreshing summer ale'.
+
+					Which is... somewhat unsatisfying to someone who would hope that the term might actually *mean something*. So, does it? If so, what? If I pick up a Saison from a brewery I've never heard of, what characteristics should I expect it to exhibit that earn it the name?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Title" >
+			<PostId>885</PostId>
+			<ParentPostId>338</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T20:39:28.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the defining characteristics of a Saison? What should I expect when I drink one?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Tags" >
+			<PostId>886</PostId>
+			<ParentPostId>338</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T20:39:28.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, saison, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Body" >
+			<PostId>890</PostId>
+			<ParentPostId>340</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T21:44:11.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know Dubbel are considered as strong beers, but what should I expect in when I try one of them?
+
+					What should I expect in term of taste, foam, color and mouthfeel? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Title" >
+			<PostId>891</PostId>
+			<ParentPostId>340</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T21:44:11.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What should I expect from a Belgian double (dubbel)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Tags" >
+			<PostId>892</PostId>
+			<ParentPostId>340</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T21:44:11.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>950</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T05:08:42.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					One of my favorite stouts, Left Hand's "Nitro Milk Stout," is supposed to be poured "hard" (rapidly dumping the whole bottle in the cup by holding it completely upside down)
+
+					Typical pouring was covered in a previous question: [How do you pour the perfect beer](http://beer.stackexchange.com/questions/200/how-do-you-pour-the-perfect-beer)
+
+					In another question Guinness (a 'nitro' beer) was brought up as a special case: [Why does Guinness have a special pouring process / bottle, while other stouts do not?](http://beer.stackexchange.com/questions/63/why-does-guinness-have-a-special-pouring-process-bottle-while-other-stouts-do)
+
+					Are all nitros poured differently than carbonated beers?
+
+					And are all nitros poured the same (or very similar) way?
+
+					(i.e. all carbonated are "soft" poured and all nitros are "hard" poured)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>951</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T05:08:42.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When are beers better "hard" poured rather than "soft" poured?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>952</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T05:08:42.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, pouring, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>1273</PostId>
+			<ParentPostId>506</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T18:28:08.407</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				from http://homebrew.stackexchange.com/questions/11594/what-do-these-number-mean
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>1274</PostId>
+			<ParentPostId>506</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T18:24:49.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently got a "Gnarly Oak" craft brew package. Three 22 oz beers and a glass. However, on the beers are some abbreviations and numbers I don't understand. they all have a 5.5% ABV, and I get the IBU and color numbers but what are the rest? The numbers and abbr's are below:
+
+					&gt;+ Winter Bock - 15 OG, 62.5 RDF - light, tasty, ever so slightly bitter
+					+ Hazelnut Dark - 15 OG, 60.4 RDF - nice bitter red with slightly sweet aftertaste
+					+ Chocolate Stout - 14.8 OG, 66.8 RDF - very sweet with hints of chocolate and malt
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>1275</PostId>
+			<ParentPostId>506</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T18:24:49.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What do these number mean?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>1276</PostId>
+			<ParentPostId>506</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T18:24:49.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Edit Tags" >
+			<PostId>1277</PostId>
+			<ParentPostId>506</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T18:30:05.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Edit Title" >
+			<PostId>1279</PostId>
+			<ParentPostId>506</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T18:34:38.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What do these "OG" and "RDF" numbers mean?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Edit Body" >
+			<PostId>1284</PostId>
+			<ParentPostId>506</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T18:59:36.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>352</UserId>
+			</Contributors>
+			<EditDetails>
+				added 270 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently got a "Gnarly Oak" craft brew package. Three 22 oz beers and a glass. However, on the beers are some abbreviations and numbers I don't understand. they all have a 5.5% ABV, and I get the IBU and color numbers but what are the rest? The numbers and abbr's are below:
+
+					&gt;+ Winter Bock - 15 OG, 62.5 RDF - light, tasty, ever so slightly bitter
+					+ Hazelnut Dark - 15 OG, 60.4 RDF - nice bitter red with slightly sweet aftertaste
+					+ Chocolate Stout - 14.8 OG, 66.8 RDF - very sweet with hints of chocolate and malt
+
+					**EDIT**
+					In light of the answers so far, I should say I have brewed my own, and if OG is original gravity, it doesn't fit with the scale I know of. if 15 OG ~= 1.015, it doesn't match what that would give in final ABV. Is this OG on a different scale I haven't seen
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>1288</PostId>
+			<ParentPostId>506</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T19:30:12.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430422989424033792
+			</EditDetails>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Unknown" >
+			<PostId>1560</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-12T07:37:33.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433505139006373888
+			</EditDetails>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Body" >
+			<PostId>1566</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T02:26:43.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know from [this question](http://beer.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock) that doubles and triples are stronger than the "single" version. And from what I've seen, Belgian triple are often closer to be blond and golden while doubles are often darker. 
+
+					My question though is what should I expect from a triple? What are it's defining characteristics (meaning that I can recognize one when I drink it, or recognize an off-style one)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Title" >
+			<PostId>1567</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T02:26:43.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What should I expect from a Belgian triple (tripel)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Tags" >
+			<PostId>1568</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T02:26:43.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Body" >
+			<PostId>1569</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T03:32:24.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm well aware that beer is commonly enjoyed warm in Europe. However, mulled beer aside, are there any beer styles that fare well when enjoyed hot?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Title" >
+			<PostId>1570</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T03:32:24.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any beer styles that are best enjoyed hot?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Tags" >
+			<PostId>1571</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T03:32:24.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, style, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Unknown" >
+			<PostId>1573</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T07:37:33.373</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433867524317659137
+			</EditDetails>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Body" >
+			<PostId>1582</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T17:18:30.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					From a [question about german beers](http://beer.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock), the difference between a doppelbock and triple bock seems to be simply about the abv and maltiness. Basically just a stronger version of the "single" bock. 
+
+					Is is the same difference for Belgian versions (dubbels and trippels)?
+
+					From a [comment](http://beer.stackexchange.com/questions/596/what-should-i-expect-from-a-belgian-triple-tripel?noredirect=1#comment680_596) I read, the difference seemed to be more complex, and I would like to get more information about it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Title" >
+			<PostId>1583</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T17:18:30.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the difference between a dubbel and a tripel?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Tags" >
+			<PostId>1584</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T17:18:30.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Unknown" >
+			<PostId>1586</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-14T01:37:34.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434139321088880641
+			</EditDetails>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Unknown" >
+			<PostId>1587</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-14T04:37:34.863</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434184620138332160
+			</EditDetails>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Body" >
+			<PostId>1624</PostId>
+			<ParentPostId>620</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T06:41:56.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					We have this local beer in the Philippines called San Miguel Pale Pilsen. Looking at this [style guide][1] I don't see any mention of the word Pilsen, though there is the word Pilsner. Are they in any way related?
+
+
+					  [1]: http://www.bjcp.org/2008styles/catdex.php
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Title" >
+			<PostId>1625</PostId>
+			<ParentPostId>620</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T06:41:56.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is pale pilsen?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Tags" >
+			<PostId>1626</PostId>
+			<ParentPostId>620</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T06:41:56.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Unknown" >
+			<PostId>1630</PostId>
+			<ParentPostId>620</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T07:38:03.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434954812317515776
+			</EditDetails>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Edit Body" >
+			<PostId>1652</PostId>
+			<ParentPostId>340</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-18T02:06:07.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<EditDetails>
+				added 41 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I know dubbels are considered as strong beers, but what should I expect in when I try one of them?
+
+					What are their defining characteristic? What should I expect in term of taste, foam, color and mouthfeel? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Unknown" >
+			<PostId>1661</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-19T04:40:31.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435997302533414912
+			</EditDetails>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Unknown" >
+			<PostId>1679</PostId>
+			<ParentPostId>340</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-20T22:41:28.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436631719366893569
+			</EditDetails>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Body" >
+			<PostId>1680</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-21T07:07:06.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When I've drunk high-IBU beers such as Mikkeller's Hop Burn High (labelled as 300 IBU) I've been able to taste and smell the hops, but I'd be hard pressed to say that it was e.g. 6 times as bitter as a 50 IBU beer.
+
+					So I was wondering if there is something about the beer that I'm missing that would indicate that it was a 300 IBU beer?  Or is this more of a marketing thing when breweries label beers with such high numbers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Title" >
+			<PostId>1681</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-21T07:07:06.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What sort of flavours distinguish ultra-high IBU beers from others
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Tags" >
+			<PostId>1682</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-21T07:07:06.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, ibu, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Unknown" >
+			<PostId>1690</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-21T16:41:23.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436903489919541248
+			</EditDetails>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Edit Title" >
+			<PostId>1696</PostId>
+			<ParentPostId>629</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T07:17:45.373</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What sort of flavours distinguish ultra-high IBU beers from other high IBU beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Unknown" >
+			<PostId>1722</PostId>
+			<ParentPostId>28</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-26T07:42:11.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/438579735871127552
+			</EditDetails>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Unknown" >
+			<PostId>1776</PostId>
+			<ParentPostId>338</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-04T01:44:45.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/440664109055746048
+			</EditDetails>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Body" >
+			<PostId>1808</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T01:18:59.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>443</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a difference between Black Lager and Dark Lager, or is it just the name?
+
+					Since the recipes for Dark/Black Lagers seem to be quite varied, it is hard to tell if there are any majorly different components.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Initial Title" >
+			<PostId>1809</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T01:18:59.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>443</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Difference between Dark Lager and Black Lager
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Initial Tags" >
+			<PostId>1810</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T01:18:59.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>443</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, terminology, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Unknown" >
+			<PostId>1834</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-15T01:47:07.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/444650972481347584
+			</EditDetails>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Body" >
+			<PostId>2034</PostId>
+			<ParentPostId>734</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-15T17:56:54.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>778</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a site that attempts to list new beers as they become available? I am always hearing about new beers from friends but I want to know when a brewery markets a new brew without having to go to everyone's site myself... Thanks!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Title" >
+			<PostId>2035</PostId>
+			<ParentPostId>734</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-15T17:56:54.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>778</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Master New Beer List
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Tags" >
+			<PostId>2036</PostId>
+			<ParentPostId>734</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-15T17:56:54.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>778</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, pairing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Edit Body" >
+			<PostId>2044</PostId>
+			<ParentPostId>734</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-16T20:34:05.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>778</UserId>
+			</Contributors>
+			<EditDetails>
+				added 273 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there a site that attempts to list new beers as they become available? I am always hearing about new beers from friends but I want to know when a brewery markets a new brew without having to go to everyone's site myself... Thanks!
+
+					**Edit:** Originally, I was thinking just a list of the national/international 'major' brews but I suppose even a local list (that is accurate/updated) would be helpful if visiting a certain area. The scope of this question is really just a general list of major brews.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Unknown" >
+			<PostId>2050</PostId>
+			<ParentPostId>734</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-19T00:15:07.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/457311394103570433
+			</EditDetails>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Body" >
+			<PostId>2239</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-29T08:35:34.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>928</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Like most of you here, I thoroughly enjoy beer.
+					How can I try a wide variety beers without buying them by the case/spending a lot of money? 
+
+
+					Aspiring beer enthusiast that is grows tired of the usual, and wants to branch out.
+					Also on a broke, paying for school out of pocket, college kid budget.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Title" >
+			<PostId>2240</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-29T08:35:34.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>928</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I try a wide variety beers without buying them by the case/spending a lot of money?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Initial Tags" >
+			<PostId>2241</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-29T08:35:34.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>928</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, style, specialty-beers, flavor, united-states, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Unknown" >
+			<PostId>2265</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-30T07:56:48.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/472285479296335872
+			</EditDetails>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Initial Body" >
+			<PostId>3376</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-14T22:56:20.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1000</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently moved to Germany and took Rothaus Pils here at the party. I opened the cap after tearing the crown/neck paper (Gold colored paper as shown below) partially.
+
+					Reference Image :![enter image description here][1]
+
+					I was told that Germans really don't like to keep that crown/neck paper. I wanted to ask for reason, but felt it is too rude. Is there any specific reason behind removing the crown paper
+
+
+					  [1]: http://i.stack.imgur.com/bWfDO.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Title" >
+			<PostId>3377</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-14T22:56:20.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1000</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Removing the Crown / Neck paper
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Initial Tags" >
+			<PostId>3378</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-14T22:56:20.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1000</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, serving, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Unknown" >
+			<PostId>3383</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-17T16:37:14.367</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/478939435287863296
+			</EditDetails>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Initial Body" >
+			<PostId>3398</PostId>
+			<ParentPostId>887</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-25T06:14:58.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1025</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it merely high alcohol content or some change, alteration or addition to the brewing process, mandated by law or otherwise that requires the brew be called Barley Wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Title" >
+			<PostId>3399</PostId>
+			<ParentPostId>887</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-25T06:14:58.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1025</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What transforms a beer into a Barley WIne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Tags" >
+			<PostId>3400</PostId>
+			<ParentPostId>887</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-25T06:14:58.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1025</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Unknown" >
+			<PostId>3403</PostId>
+			<ParentPostId>887</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-26T05:04:55.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/482026702340890624
+			</EditDetails>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Edit Title" >
+			<PostId>3419</PostId>
+			<ParentPostId>887</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-01T10:21:25.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				The most minor of corrections; I'm sorry.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What transforms a beer into a Barley Wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Initial Body" >
+			<PostId>3455</PostId>
+			<ParentPostId>912</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-07T22:38:06.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1062</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Suggestions on breweries that brew Belgian styles within Seattle city limits? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Initial Title" >
+			<PostId>3456</PostId>
+			<ParentPostId>912</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-07T22:38:06.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1062</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Belgian Styles brewed in Seattle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Initial Tags" >
+			<PostId>3457</PostId>
+			<ParentPostId>912</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-07T22:38:06.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1062</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Unknown" >
+			<PostId>3467</PostId>
+			<ParentPostId>912</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-09T23:36:43.013</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/487017534856904704
+			</EditDetails>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Initial Body" >
+			<PostId>3607</PostId>
+			<ParentPostId>975</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-09T10:27:48.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1195</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would guess that a Porter pH is higher than for an IPA, because of alpha acids or other acids from the hops. I also heard that it can heavily  depend on the acidity of the water used. 
+
+					But anyway, are those pH differences really significant in the final product ? For instance, if I have an ulcer, would it be worse to drink some type of beer rather than an other ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Initial Title" >
+			<PostId>3608</PostId>
+			<ParentPostId>975</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-09T10:27:48.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1195</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there any meaningful difference in acidity level between beer styles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Initial Tags" >
+			<PostId>3609</PostId>
+			<ParentPostId>975</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-09T10:27:48.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1195</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Unknown" >
+			<PostId>3641</PostId>
+			<ParentPostId>975</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-18T13:47:23.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/501364740766326784
+			</EditDetails>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Initial Body" >
+			<PostId>6104</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T05:45:02.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Corona Extra Dry is a Mexican beer that is very popular (in Australia anyway). Most people seem to like it for it's drinkability, and suitability for enjoyment in hot weather.
+
+					Is there a name for this style of lager? Eg; I don't think it's a pilsener or dark lager.
+
+					And what other beers are in the same style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Initial Title" >
+			<PostId>6105</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T05:45:02.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What style of lager is Corona? And what other beers are similar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Initial Tags" >
+			<PostId>6106</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T05:45:02.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, lager, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Edit Body" >
+			<PostId>6107</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T07:52:30.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<EditDetails>
+				Removing incorrect part of the beer name
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Corona Extra is a Mexican beer that is very popular (in Australia anyway). Most people seem to like it for it's drinkability, and suitability for enjoyment in hot weather.
+
+					Is there a name for this style of lager? Eg; I don't think it's a pilsener or dark lager.
+
+					And what other beers are in the same style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Initial Body" >
+			<PostId>6128</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-19T23:12:56.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3703</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can someone suggest me a beer with similar taste like Grimbergen Blanche ?
+
+					Grimbergen is the brand name of a variety of Belgian abbey beers. Originally made by Norbertine monks in the Belgian town of Grimbergen, it is now brewed by two different breweries in Belgium and France.
+
+					Thanks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Initial Title" >
+			<PostId>6129</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-19T23:12:56.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3703</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer like Grimbergen Banche
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Initial Tags" >
+			<PostId>6130</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-19T23:12:56.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3703</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					aroma, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Edit Tags" >
+			<PostId>6132</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-20T14:39:52.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<EditDetails>
+				Just adding some tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, flavor, foreign-beer, aroma, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Unknown" >
+			<PostId>6195</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-28T17:32:39.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/560490649032867840
+			</EditDetails>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Initial Body" >
+			<PostId>6314</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T20:54:25.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3874</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm looking for new beers to try and have a great liking for a variety of Red Ales. Some of my favourite "big" brews are Yuengling and Dos Equis. I also really like a local brew [Walkerville Honest Lager](http://walkervillebrewery.com/tag/honest-lager/). Rickards Red is also decent, but not quite "perfect".
+
+					Interested in any suggestions for other beers I could try with a similar taste!
+
+					I'm also curious about what parts of the beer's flavour makes its a red lager and what other beer styles should I consider trying that might be similar. For example, I'm not a big fan of very bitter beers (many craft IPAs), or Browns (Newcastle). I find that I sometimes really like certain Stouts, but others I don't really like at all. I like the stronger flavour of a red, but not of a brown, what is the difference here?
+
+					What types of things am I looking for when guessing if I'll like a certain beer, and how can I go about describing the type of beer I like?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Initial Title" >
+			<PostId>6315</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T20:54:25.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3874</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Red Lager Reccomendations and what flavours make a beer a "Red Lager"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Initial Tags" >
+			<PostId>6316</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T20:54:25.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3874</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, style, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Edit Body" >
+			<PostId>6320</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T21:56:50.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3874</UserId>
+			</Contributors>
+			<EditDetails>
+				simplified question being asked
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm looking for new beers to try and have a great liking for a variety of Red Ales. Some of my favourite "big" brews are Yuengling and Dos Equis. I also really like a local brew [Walkerville Honest Lager](http://walkervillebrewery.com/tag/honest-lager/). Rickards Red is also decent, but not quite "perfect".
+
+					Interested in any suggestions for other beers I could try with a similar taste!
+
+					In addition, what is the characteristic taste, or, what are some words that describe the taste, that makes a lager a red lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Edit Title" >
+			<PostId>6321</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T21:56:50.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3874</UserId>
+			</Contributors>
+			<EditDetails>
+				simplified question being asked
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Red Lager Recomendations and what flavours make a beer a "Red Lager"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Initial Body" >
+			<PostId>6477</PostId>
+			<ParentPostId>3357</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-02T03:29:09.723</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4071</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					This is something that has been on my mind and I am wondering if I just have a statistical bias here, but it seems to me that when I peruse the shelves of my local bottle shops that I usually see a larger selection of ales versus lagers, especially among craft circles. So I guess, in a roundabout way, my question is: are ales more popular/attractive to brew than lagers and why?
+
+					Bonus points: numbers that demonstrate one way or another.
+
+					The reason I ask is because I read something a couple months ago that said lagers are better sellers than ales and it doesn't see to align with what I observe. Also, please assume that I know the differences between the styles of beer. I just meant this to be overarching.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Initial Title" >
+			<PostId>6478</PostId>
+			<ParentPostId>3357</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-02T03:29:09.723</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4071</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Popularity: Ale vs Lager
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Initial Tags" >
+			<PostId>6479</PostId>
+			<ParentPostId>3357</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-02T03:29:09.723</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4071</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, united-states, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Initial Body" >
+			<PostId>6516</PostId>
+			<ParentPostId>3372</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-09T11:48:17.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm curious to try some beer that closely mimics more historic styles, although:
+
+					 1. I'm not too familiar with all of the styles and brewing methods of centuries past
+					 2. I don't always trust modern brewers to offer an authentic representation of old styles
+
+					So I wonder: what were the ancients up to the early modern people drinking, and who can I get similar beers from?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Initial Title" >
+			<PostId>6517</PostId>
+			<ParentPostId>3372</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-09T11:48:17.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Modern, commercial beers that closely mimic historic styles
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Initial Tags" >
+			<PostId>6518</PostId>
+			<ParentPostId>3372</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-09T11:48:17.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Unknown" >
+			<PostId>6578</PostId>
+			<ParentPostId>3372</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-31T20:34:07.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/605110024919216130
+			</EditDetails>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Initial Body" >
+			<PostId>6603</PostId>
+			<ParentPostId>3403</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-08T02:08:00.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A few years ago I moved to a bigger city where the craft beer selection got quite a bit broader from where I was living previously. For a while it was like being a kid in a candy store with so many different beers to choose from. 
+
+					Then as I got more experienced with beer I started getting more of an idea of the different styles that are out there, and what each of these styles tends to be like. What I noticed after a while was that if I tried 2-3 different examples of the same style, while I could quantitatively say that one was better than another, for the most part they would all taste similar.
+
+					So this brought into question the 'craft beer obsession' that I had been riding for a while. I began to think that, maybe, at some point a chocolate stout is pretty much just a chocolate stout, an ipa is pretty much just an ipa, and whether you're drinking an ipa from here or there, you're basically getting the same experience.
+
+					So with that said I wonder:
+
+					 - is there any type of objective measure of the variation amongst specific styles?
+					 - outside of esoteric beers that aren't commonly available, is 'trying as many as you can' really worth it?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "118" InstanceType= "Initial Title" >
+			<PostId>6604</PostId>
+			<ParentPostId>3403</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-08T02:08:00.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a wide variation amongst specific styles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "119" InstanceType= "Initial Tags" >
+			<PostId>6605</PostId>
+			<ParentPostId>3403</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-08T02:08:00.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "120" InstanceType= "Unknown" >
+			<PostId>6620</PostId>
+			<ParentPostId>3403</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-16T12:43:30.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/610789796764647424
+			</EditDetails>
+		</Instance>
+		<Instance Id= "121" InstanceType= "Initial Body" >
+			<PostId>6683</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-30T10:57:56.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4277</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am thinking about make my first beer in this summer. However, in my country the summer has an ambient temperature about 25-30º. So my question, is what type of beers are adequate to this conditions? 
+
+					My first idea is a blond ale (Brewferm Ale), with fermentation at the ambient temperature in Barrel Aging. What do you think about?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "122" InstanceType= "Initial Title" >
+			<PostId>6684</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-30T10:57:56.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4277</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft beer - Ambient temperature for fermentation
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "123" InstanceType= "Initial Tags" >
+			<PostId>6685</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-30T10:57:56.400</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4277</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, ale, recommendations, fermentation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "124" InstanceType= "Initial Body" >
+			<PostId>7908</PostId>
+			<ParentPostId>4537</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-19T03:26:09.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4439</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I tend to go for darker beers, typically stouts and porters. 
+
+					Guinness is my usual go to when I'm at a bar or restaurant, but as appealing as "a meal in a glass" is, on occasion I find these to be a little too filling/heavy.
+
+					More recently I had the opportunity to try Köstritzer, which I guess would be classified as a black lager. It had the very familiar taste of a stout but without the filling quality. 
+
+					Black lager seems to be a rather generic category though, the title seems to cover a rather large variety of dark lagers and seems to be more about color than taste. 
+
+					Is there a more specific category I should be looking for?
+
+					Or perhaps better, does any one know any other beers that taste like a stout but with the light weight of a lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "125" InstanceType= "Initial Title" >
+			<PostId>7909</PostId>
+			<ParentPostId>4537</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-19T03:26:09.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4439</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Looking for dark but not heavy
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "126" InstanceType= "Initial Tags" >
+			<PostId>7910</PostId>
+			<ParentPostId>4537</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-19T03:26:09.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4439</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, style, stout, lager, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "127" InstanceType= "Unknown" >
+			<PostId>7947</PostId>
+			<ParentPostId>4537</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-24T14:00:08.987</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/635813847799083008
+			</EditDetails>
+		</Instance>
+		<Instance Id= "128" InstanceType= "Edit Tags" >
+			<PostId>8284</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-12T09:57:22.833</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "129" InstanceType= "Initial Body" >
+			<PostId>8354</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-07T06:36:10.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I asked a bartender what she was drinking near the end of her shift. She said a blend. Of Bear Republic's Racer 5 IPA and North Coast's Le Merle (a Belgian Saison).
+
+					I tried it and it was great. I already liked Le Merle except it had a bit too much of the Belgian kick, and I never liked Racer 5 at all, but together somehow the attributes I didn't like canceled out or masked one another.
+
+					At the risk of heresy, I wonder if mixing beers is or was ever a (semi-)official thing anywhere. I've heard wine blends mostly exist as a product of leftover grapes, so their justification doesn't apply to beer. Still, if the taste is great, why not have beer blends? With the distinct taste variations of hops alone, I wouldn't be surprised if great combinations could be found
+
+					So, to put succinctly: Are beer blends being served anywhere?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "130" InstanceType= "Initial Title" >
+			<PostId>8355</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-07T06:36:10.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do beer blends exist?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "131" InstanceType= "Initial Tags" >
+			<PostId>8356</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-07T06:36:10.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "132" InstanceType= "Edit Body" >
+			<PostId>8357</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-07T06:55:10.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 1 character in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I asked a bartender what she was drinking near the end of her shift. She said a blend. Of Bear Republic's Racer 5 IPA and North Coast's Le Merle (a Belgian Saison).
+
+					I tried it and it was great. I already liked Le Merle except it had a bit too much of the Belgian kick, and I never liked Racer 5 at all, but together somehow the attributes I didn't like canceled out or masked one another.
+
+					At the risk of heresy, I wonder if mixing beers is or was ever a (semi-)official thing anywhere. I've heard wine blends mostly exist as a product of leftover grapes, so their justification doesn't apply to beer. Still, if the taste is great, why not have beer blends? With the distinct taste variations of hops alone, I wouldn't be surprised if great combinations could be found.
+
+					So, to put succinctly: Are beer blends being served anywhere?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "133" InstanceType= "Edit Body" >
+			<PostId>8362</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-07T15:02:22.033</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				[Edit removed during grace period]
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I asked a bartender what she was drinking near the end of her shift. She said a blend. Of Bear Republic's Racer 5 IPA and North Coast's Le Merle (a Belgian Saison).
+
+					I tried it and it was great. I already liked Le Merle except it had a bit too much of the Belgian kick, and I never liked Racer 5 at all, but together somehow the attributes I didn't like canceled out or masked one another.
+
+					At the risk of heresy, I wonder if mixing beers is or was ever a (semi-)official thing anywhere. I've heard wine blends mostly exist as a product of leftover grapes, so their justification doesn't apply to beer. Still, if the taste is great, why not have beer blends? With the distinct taste variations of hops alone, I wouldn't be surprised if great combinations could be found.
+
+					So, to put succinctly: Are beer blends being served anywhere?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "134" InstanceType= "Unknown" >
+			<PostId>8385</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-16T22:34:55.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/677255611063627776
+			</EditDetails>
+		</Instance>
+		<Instance Id= "135" InstanceType= "Initial Body" >
+			<PostId>8471</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T16:40:35.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have recently begun to learn beer and I noticed that for a while now, that I have always been served similar type of beer on different different beer glasses which is confusing. It could be human error, but it has me wondering what beer glass should I really be sipping from?
+
+					So I decided to get some beer glasses, but what do I find? A plethora of beer all kinds of beer glasses, where not one glass is like the next. It feels very opinionated and I need to know how to choose.
+
+					Could anyone please instruct me on the general type of beers and how they pair with beer glasses, as well as why x glass goes with y beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "136" InstanceType= "Initial Title" >
+			<PostId>8472</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T16:40:35.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to pair a beer with a glass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "137" InstanceType= "Initial Tags" >
+			<PostId>8473</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T16:40:35.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, glassware, pairing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "138" InstanceType= "Edit Tags" >
+			<PostId>8474</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T16:46:16.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, style, serving, glassware, pairing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "139" InstanceType= "Edit Body" >
+			<PostId>8475</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-05T23:33:58.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4917</UserId>
+			</Contributors>
+			<EditDetails>
+				added 113 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have recently begun to learn somethings about beer and I suddenly noticed that, for a while now, I have always been served similar types of beer on different looking beer glasses... which is confusing me. It could be human error, but it's got me wondering what beer glasses should I really be sipping from?
+
+					So I decided to get some beer glasses, and what do I find? A plethora of beer glasses, all kinds and funky shapes, where not one glass is like the next. It makes me feel like the beer glass industry is very opinionated, rather than factual, and I need to know how to choose correctly.
+
+					Could anyone please instruct me on the general type of beers and how they pair with beer glasses, as well as why x glass goes with y beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "140" InstanceType= "Unknown" >
+			<PostId>8476</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-06T04:02:34.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/684585825938599936
+			</EditDetails>
+		</Instance>
+		<Instance Id= "141" InstanceType= "Post Closed" >
+			<PostId>8479</PostId>
+			<ParentPostId>4755</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-06T14:52:36.833</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[300],"Voters":[{"Id":4637,"DisplayName":"Rube"},{"Id":-1,"DisplayName":"Community","BindingReason":{"DuplicateApprovedByAsker":""}}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "142" InstanceType= "Initial Body" >
+			<PostId>8699</PostId>
+			<ParentPostId>4839</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-19T01:37:52.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					This question might be a bit broad, but what I'm trying to understand is generally how the brewing process and the subsequent end result differed before the early-modern to modern era. 
+
+					I had asked a question here some months back on where I could find some historical styles of beer, but without having much luck I thought I'd try to get at least an understanding of what's known about the evolution of beer from ancient to medieval to modern times. 
+
+					**So the question is**: if I was a European medieval man drinking beer circa 6th-15th centuries what would that beer have been like? How did it differ from what we've been brewing for the last few centuries? And is that product distinct from what existed in ancient times?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "143" InstanceType= "Initial Title" >
+			<PostId>8700</PostId>
+			<ParentPostId>4839</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-19T01:37:52.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between historical beer and 'modern' beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "144" InstanceType= "Initial Tags" >
+			<PostId>8701</PostId>
+			<ParentPostId>4839</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-19T01:37:52.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, history, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "145" InstanceType= "Unknown" >
+			<PostId>8732</PostId>
+			<ParentPostId>4839</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-23T07:21:06.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/702030407928254465
+			</EditDetails>
+		</Instance>
+		<Instance Id= "146" InstanceType= "Initial Body" >
+			<PostId>8763</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-25T22:15:33.670</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					One of the recent trends I've noticed is that breweries are starting to come out with Triple IPAs. (In fact, there's a triple IPA week in the Seattle area.) But what exactly distinguishes the Triple IPA from a Double IPA?
+
+					[Note that this was not included in [IPA and variants question][1], nor is it discussed in the [IPA vs. DIPA sweetness question][2].]
+
+
+					  [1]: http://beer.stackexchange.com/questions/28/what-are-the-differences-between-an-ipa-and-its-variants
+					  [2]: http://beer.stackexchange.com/questions/4778/why-do-double-ipas-aka-imperial-ipas-iipas-tend-to-be-sweeter-than-regular-ip
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "147" InstanceType= "Initial Title" >
+			<PostId>8764</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-25T22:15:33.670</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between a Triple IPA and a Double IPA?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "148" InstanceType= "Initial Tags" >
+			<PostId>8765</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-25T22:15:33.670</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "149" InstanceType= "Edit Body" >
+			<PostId>8767</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-26T00:35:05.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<EditDetails>
+				Clarified different between IPAs and dubbels/tripels
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					One of the recent trends I've noticed is that breweries are starting to come out with Triple IPAs. (In fact, there's a triple IPA week in the Seattle area.) But what exactly distinguishes the Triple IPA from a Double IPA?
+
+					[Note that this was not included in [IPA and variants question][1], nor is it discussed in the [IPA vs. DIPA sweetness question][2].]
+
+					Edit: This is decidedly NOT the same as the question regarding dubbels vs. tripels (which are Abbey-style Belgian ales, and remarkably different in style from a double or triple IPA).
+
+					  [1]: http://beer.stackexchange.com/questions/28/what-are-the-differences-between-an-ipa-and-its-variants
+					  [2]: http://beer.stackexchange.com/questions/4778/why-do-double-ipas-aka-imperial-ipas-iipas-tend-to-be-sweeter-than-regular-ip
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "150" InstanceType= "Edit Tags" >
+			<PostId>8768</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-26T00:40:43.347</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, ipa, imperial-ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "151" InstanceType= "Unknown" >
+			<PostId>8816</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-02T05:00:22.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/704894092602429440
+			</EditDetails>
+		</Instance>
+		<Instance Id= "152" InstanceType= "Edit Tags" >
+			<PostId>9494</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:53:51.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, recommendations, belgian-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "153" InstanceType= "Initial Body" >
+			<PostId>9728</PostId>
+			<ParentPostId>5179</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-30T14:26:05.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5612</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently turned 21 (5 days) and I am trying to find some beer that I actually enjoy drinking. Currently I drink liquor like Jack + Coke and things like that. Any ideas on how to broaden my horizons when it comes to beer without just going out and buying random 6 packs?
+
+					Thanks,
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "154" InstanceType= "Initial Title" >
+			<PostId>9729</PostId>
+			<ParentPostId>5179</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-30T14:26:05.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5612</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Advice for finding the right beer for me
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "155" InstanceType= "Initial Tags" >
+			<PostId>9730</PostId>
+			<ParentPostId>5179</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-30T14:26:05.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5612</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, flavor, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "156" InstanceType= "Edit Tags" >
+			<PostId>9732</PostId>
+			<ParentPostId>5179</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-30T15:19:27.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "157" InstanceType= "Unknown" >
+			<PostId>9748</PostId>
+			<ParentPostId>5179</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-03T20:50:12.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/749706831602262016
+			</EditDetails>
+		</Instance>
+		<Instance Id= "158" InstanceType= "Edit Body" >
+			<PostId>12496</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					One of my favorite stouts, Left Hand's "Nitro Milk Stout," is supposed to be poured "hard" (rapidly dumping the whole bottle in the cup by holding it completely upside down)
+
+					Typical pouring was covered in a previous question: [How do you pour the perfect beer](https://alcohol.stackexchange.com/questions/200/how-do-you-pour-the-perfect-beer)
+
+					In another question Guinness (a 'nitro' beer) was brought up as a special case: [Why does Guinness have a special pouring process / bottle, while other stouts do not?](https://alcohol.stackexchange.com/questions/63/why-does-guinness-have-a-special-pouring-process-bottle-while-other-stouts-do)
+
+					Are all nitros poured differently than carbonated beers?
+
+					And are all nitros poured the same (or very similar) way?
+
+					(i.e. all carbonated are "soft" poured and all nitros are "hard" poured)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "159" InstanceType= "Edit Body" >
+			<PostId>12504</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I know from [this question](https://alcohol.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock) that doubles and triples are stronger than the "single" version. And from what I've seen, Belgian triple are often closer to be blond and golden while doubles are often darker. 
+
+					My question though is what should I expect from a triple? What are it's defining characteristics (meaning that I can recognize one when I drink it, or recognize an off-style one)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "160" InstanceType= "Edit Body" >
+			<PostId>12505</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					From a [question about german beers](https://alcohol.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock), the difference between a doppelbock and triple bock seems to be simply about the abv and maltiness. Basically just a stronger version of the "single" bock. 
+
+					Is is the same difference for Belgian versions (dubbels and trippels)?
+
+					From a [comment](https://alcohol.stackexchange.com/questions/596/what-should-i-expect-from-a-belgian-triple-tripel?noredirect=1#comment680_596) I read, the difference seemed to be more complex, and I would like to get more information about it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "161" InstanceType= "Edit Body" >
+			<PostId>12521</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					One of the recent trends I've noticed is that breweries are starting to come out with Triple IPAs. (In fact, there's a triple IPA week in the Seattle area.) But what exactly distinguishes the Triple IPA from a Double IPA?
+
+					[Note that this was not included in [IPA and variants question][1], nor is it discussed in the [IPA vs. DIPA sweetness question][2].]
+
+					Edit: This is decidedly NOT the same as the question regarding dubbels vs. tripels (which are Abbey-style Belgian ales, and remarkably different in style from a double or triple IPA).
+
+					  [1]: https://alcohol.stackexchange.com/questions/28/what-are-the-differences-between-an-ipa-and-its-variants
+					  [2]: https://alcohol.stackexchange.com/questions/4778/why-do-double-ipas-aka-imperial-ipas-iipas-tend-to-be-sweeter-than-regular-ip
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "162" InstanceType= "Initial Body" >
+			<PostId>13376</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-02T10:39:05.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5021</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If one wants to buy alcohol-free beer in a supermarket, the most common beer style is Lager/Pilsner. I have never seen other styles such as alcohol-free Witbier, IPA, Stout etc. in a store, but from doing a quick online research I learned that such beer does exist.
+
+					Is Lager/Pilsner the most common style for alcohol-free beers because it is the most popular style for normal beer as well, or are there some technical limitations during the brewing process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "163" InstanceType= "Initial Title" >
+			<PostId>13377</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-02T10:39:05.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5021</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is Lager/Pilsner the most common beer style for alcohol-free beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "164" InstanceType= "Initial Tags" >
+			<PostId>13378</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-02T10:39:05.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5021</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "165" InstanceType= "Unknown" >
+			<PostId>13380</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-03T09:59:57.820</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/926388470959964161
+			</EditDetails>
+		</Instance>
+		<Instance Id= "166" InstanceType= "Edit Tags" >
+			<PostId>13548</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T02:16:35.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7272</UserId>
+			</Contributors>
+			<EditDetails>
+				adding tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, lager, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "167" InstanceType= "Unknown" >
+			<PostId>13549</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T02:16:35.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7272 approved by 938, 43 edit id of 317
+			</EditDetails>
+		</Instance>
+		<Instance Id= "168" InstanceType= "Edit Title" >
+			<PostId>13608</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-27T04:56:55.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7449</UserId>
+			</Contributors>
+			<EditDetails>
+				corrected name in title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Beer like Grimbergen Blanche
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "169" InstanceType= "Unknown" >
+			<PostId>13609</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-27T04:56:55.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7449 approved by 43 edit id of 320
+			</EditDetails>
+		</Instance>
+		<Instance Id= "170" InstanceType= "Unknown" >
+			<PostId>13626</PostId>
+			<ParentPostId>3207</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-02T03:39:37.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/948036025745625088
+			</EditDetails>
+		</Instance>
+		<Instance Id= "171" InstanceType= "Edit Tags" >
+			<PostId>14234</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T16:03:27.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Added appropriate tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, classification, dubbel, tripel, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "172" InstanceType= "Unknown" >
+			<PostId>14235</PostId>
+			<ParentPostId>602</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T16:03:27.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4962 approved by 37 edit id of 331
+			</EditDetails>
+		</Instance>
+		<Instance Id= "173" InstanceType= "Edit Tags" >
+			<PostId>14238</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T16:03:39.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Added appropriate tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, style, tripel, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "174" InstanceType= "Unknown" >
+			<PostId>14239</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T16:03:39.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4962 approved by 37 edit id of 333
+			</EditDetails>
+		</Instance>
+		<Instance Id= "175" InstanceType= "Edit Tags" >
+			<PostId>14240</PostId>
+			<ParentPostId>340</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T16:03:42.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Added appropriate tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, style, dubbel, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "176" InstanceType= "Unknown" >
+			<PostId>14241</PostId>
+			<ParentPostId>340</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T16:03:42.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4962 approved by 37 edit id of 332
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

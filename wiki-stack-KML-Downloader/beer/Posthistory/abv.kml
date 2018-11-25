@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>119</PostId>
+			<ParentPostId>47</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:12:49.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently encountered a beer that was utterly rank and had an awful aroma. I tasted a small sip, but had to toss the rest. Investigating the label on this beer, I discovered it had an expiry date of Dec. 2012, making it just over one year old. 
+
+					This beer's alcohol content was 5.6% ABV, and it clearly did not have a lengthy self life.
+
+					Contrastingly, a local brewer annually brews an ice bock with an alcohol content of 9.5% ABV, and they state that because of this high alcohol content, it's suitable for aging (and it ages well, to boot).
+
+					**What is the minimum alcohol content/ABV percentage required in order to consider a beer safe/suitable for aging?**
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>120</PostId>
+			<ParentPostId>47</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:12:49.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					At what point/percentage can beer properly "age"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>121</PostId>
+			<ParentPostId>47</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:12:49.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					aging, abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>145</PostId>
+			<ParentPostId>47</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:18:34.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<EditDetails>
+				added 47 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently encountered a beer that was utterly rank and had an awful aroma. I tasted a small sip, but had to toss the rest. Investigating the label on this beer, I discovered it had an expiry date of Dec. 2012, making it just over one year old. 
+
+					This beer's alcohol content was 5.6% ABV, and it clearly did not have a lengthy self life.
+
+					Contrastingly, a local brewer annually brews an ice bock with an alcohol content of 9.5% ABV, and they state that because of this high alcohol content, it's suitable for aging (and it ages well, to boot).
+
+					**What is the minimum alcohol content/ABV percentage required in order to consider a beer safe/suitable for aging? If pasteurization plays a role, please advise.**
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>186</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:32:39.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some states (in America) have ridiculous laws about what types of beer can be sold in various places.  Often times certain types of stores can only sell "3 2 beer," or beer with no more than 3.2% ABV.  
+
+					So various brewers make special, reduced-alcohol batches meeting this requirement.  
+
+					How do brewers achieve this reduction in alcohol, and does it affect the taste of the resulting beer? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>187</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:32:39.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does reduced-alcohol beer taste differently?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>188</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:32:39.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					abv, 3.2-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Post Closed" >
+			<PostId>256</PostId>
+			<ParentPostId>47</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:07:35.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[99],"Voters":[{"Id":17,"DisplayName":"Jon Ericson"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>1176</PostId>
+			<ParentPostId>467</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T17:13:39.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If I get a beer labelled 5% ABV, how accurate is that measurement likely to be?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>1177</PostId>
+			<ParentPostId>467</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T17:13:39.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How accurate is Alcohol by Volume in beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>1178</PostId>
+			<ParentPostId>467</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T17:13:39.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>1213</PostId>
+			<ParentPostId>467</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T01:25:06.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429425141693841408
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>1290</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T22:49:13.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>359</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					does anyone know if a "session beer" has to be below a specif ABV to qualify as a session beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>1291</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T22:49:13.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>359</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does a session beer have to be below a specific ABV?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>1292</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T22:49:13.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>359</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Body" >
+			<PostId>1294</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-03T23:02:04.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<EditDetails>
+				Spelling
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Does anyone know if a "session beer" has to be below a specific ABV to qualify as a session beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>1304</PostId>
+			<ParentPostId>511</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T07:30:12.483</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430604185026183168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>1596</PostId>
+			<ParentPostId>606</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T00:32:23.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>479</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm very familiar with Dogfishhead's series of 60/75/90/120 minute IPA's, Harpoon's Leviathan, and have recently found new favorites in Sixpoint Hi-Res and Resin.
+
+					What are some similar high-IBV Double/Imperial IPA's in this area?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>1597</PostId>
+			<ParentPostId>606</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T00:32:23.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>479</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are some high-ABV IPA's in the Northeast United States?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>1598</PostId>
+			<ParentPostId>606</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T00:32:23.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>479</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ipa, abv, united-states, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>1605</PostId>
+			<ParentPostId>606</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T13:38:03.260</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434683021871300608
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Edit Body" >
+			<PostId>1612</PostId>
+			<ParentPostId>606</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T21:58:24.237</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<EditDetails>
+				Changed IBV to ABV as it might be confised with IBU's, which is a measurnment of bitterness.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm very familiar with Dogfishhead's series of 60/75/90/120 minute IPA's, Harpoon's Leviathan, and have recently found new favorites in Sixpoint Hi-Res and Resin.
+
+					What are some similar high-ABV Double/Imperial IPA's in this area?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>1702</PostId>
+			<ParentPostId>632</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-24T19:47:51.087</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>98</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I understand that a much weaker version of beer, called 'small beer', was historically drunk as a safe way to drink liquid. This was at a time when drinking plain water might well have made you sick, as it would not have been boiled. Do we have any idea what the ABV of 'small beer' drunk around 1800 would have been?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>1703</PostId>
+			<ParentPostId>632</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-24T19:47:51.087</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>98</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ABV of small beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>1704</PostId>
+			<ParentPostId>632</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-24T19:47:51.087</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>98</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Unknown" >
+			<PostId>1713</PostId>
+			<ParentPostId>632</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-25T04:42:06.210</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/438172025258258432
+			</EditDetails>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Body" >
+			<PostId>3313</PostId>
+			<ParentPostId>854</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-05T21:22:58.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently purchased a Dogfish Head World Wide Stout. I bought it on a whim because 1. I was looking for a stout, and 2. I typically enjoy Dogfish Head. Only after I got home and looked it up did I realize it has an ABV of roughly 18%. Then I checked the bottle and realized that no where on it does it state the ABV. I found that quite strange especially considering "liquor", by law, must state such information.
+
+					So are fermented drinks simply exempt from having to state this info? I've never come across another beer that did not state ABV on it -- let alone one with 18%.
+
+					(P.S. It was a delicious beer.)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Title" >
+			<PostId>3314</PostId>
+			<ParentPostId>854</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-05T21:22:58.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In the United States, is a beer required to state ABV on the bottle/label?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Tags" >
+			<PostId>3315</PostId>
+			<ParentPostId>854</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-05T21:22:58.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>803</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, stout, abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Unknown" >
+			<PostId>3339</PostId>
+			<ParentPostId>854</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-09T19:24:45.733</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/476082491497803777
+			</EditDetails>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>9220</PostId>
+			<ParentPostId>5026</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-24T14:50:59.177</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was looking for some new beers to try and i came across some really and i mean really strong beers here are a few examples 
+
+					 1. [Sink in the Bismark - AVB: 40%][1]
+					 2. [End of History - AVB: 55%][2]
+					 3. [Armageddon - AVB: 65%][3]
+					 4. [Snake Venom - AVB: 67.5%][4]
+
+
+					My question being how do they get beer so strong?
+
+					these beers are stronger than some spirits how is is possible to make this?
+
+
+					  [1]: https://www.brewdog.com/item/4/BrewDog/Sink-The-Bismarck.html
+					  [2]: https://www.brewdog.com/lowdown/blog/the-end-of-history
+					  [3]: http://www.drinksupermarket.com/brewmeister-armageddon-65-scottish-eisbock-beer-330ml-bottle-65-abv
+					  [4]: http://www.drinksupermarket.com/brewmeister-snake-venom-275ml-bottle
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>9221</PostId>
+			<ParentPostId>5026</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-24T14:50:59.177</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do they get it so strong?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>9222</PostId>
+			<ParentPostId>5026</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-24T14:50:59.177</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Edit Body" >
+			<PostId>9237</PostId>
+			<ParentPostId>5026</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-25T06:59:39.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting, corrected grammar and added one word to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I was looking for some new beers to try and I came across some really, *and I mean really*, strong beers and here are a few examples: 
+
+					 1. [Sink in the Bismark - AVB: 40%][1]
+					 2. [End of History - AVB: 55%][2]
+					 3. [Armageddon - AVB: 65%][3]
+					 4. [Snake Venom - AVB: 67.5%][4]
+
+
+					My question being how do they get beer so strong?
+
+					These beers are stronger than some spirits! How is it possible to make these?
+
+
+					  [1]: https://www.brewdog.com/item/4/BrewDog/Sink-The-Bismarck.html
+					  [2]: https://www.brewdog.com/lowdown/blog/the-end-of-history
+					  [3]: http://www.drinksupermarket.com/brewmeister-armageddon-65-scottish-eisbock-beer-330ml-bottle-65-abv
+					  [4]: http://www.drinksupermarket.com/brewmeister-snake-venom-275ml-bottle
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>9238</PostId>
+			<ParentPostId>5026</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-25T06:59:39.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5078 edit id of 186
+			</EditDetails>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>9296</PostId>
+			<ParentPostId>5026</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-31T08:19:37.343</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/737559141695119361
+			</EditDetails>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Edit Tags" >
+			<PostId>9424</PostId>
+			<ParentPostId>5026</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:33:01.627</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Edit Title" >
+			<PostId>9425</PostId>
+			<ParentPostId>5026</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-14T07:33:01.627</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How do they get beer so strong?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>13383</PostId>
+			<ParentPostId>7058</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-03T19:23:40.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I live in France. I've found that at least cheaper (supermarket) spirits are almost always exactly 40% ABV. You can find stronger if you buy more niche or expensive alcohols like Chartreuse, but the vast majority seems to be precisely 40, unlike say wine or beer which varies more smoothly.
+
+					Is there a reason for this? Is 40% the legal minimum to be able to call something whiskey or vodka, for instance? Or am I just flat wrong, and there's no statistical trend towards 40%?
+
+					I realize the correct answer may vary from country to country. I'll be happy with an answer covering any "comparable" first world country (let's just say english speaking or west european, for simplicity).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>13384</PostId>
+			<ParentPostId>7058</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-03T19:23:40.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are spirits typically 40% ABV?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>13385</PostId>
+			<ParentPostId>7058</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-03T19:23:40.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, spirits, abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Edit Body" >
+			<PostId>13386</PostId>
+			<ParentPostId>7058</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-04T11:02:09.943</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I live in France. I've found that at least cheaper (supermarket) spirits are almost always exactly 40% ABV. You can find stronger if you buy more niche or expensive alcohols like Chartreuse, but the vast majority seems to be precisely 40, unlike say wine or beer which varies more smoothly.
+
+					Is there a reason for this? Is 40% the legal minimum to be able to call something whiskey or vodka, for instance? Or am I just flat wrong, and there's no statistical trend towards 40%?
+
+					I realize the correct answer may vary from country to country. I'll be happy with an answer covering any "comparable" first world country (let's just say English speaking countries or West Europe, for simplicity).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Unknown" >
+			<PostId>13390</PostId>
+			<ParentPostId>7058</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-06T10:08:48.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/927477863208464386
+			</EditDetails>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Body" >
+			<PostId>13932</PostId>
+			<ParentPostId>7245</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-15T19:25:32.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7727</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I purchased a Montepulciano, added 80 grams of honey and some pepper, and then put it in the fridge. A glass of it after 24 hours seemed to me more alcoholic than what it was originally. 
+					Is it psychological, as I had read this was the case (but can't find the source right now), or is the increase of ABV real? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Title" >
+			<PostId>13933</PostId>
+			<ParentPostId>7245</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-15T19:25:32.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7727</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does adding honey to bottled wine increase the alcohol content?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Tags" >
+			<PostId>13934</PostId>
+			<ParentPostId>7245</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-15T19:25:32.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7727</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, alcohol-level, abv, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Edit Body" >
+			<PostId>13935</PostId>
+			<ParentPostId>7245</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-15T19:32:56.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7727</UserId>
+			</Contributors>
+			<EditDetails>
+				added 35 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I purchased a Montepulciano, added 80 grams of honey and some pepper, and then put it in the fridge. A glass of it after 24 hours seemed to me more alcoholic than what it was originally. 
+					Is it psychological, as I had read this was the case (but can't find the source right now, and I tend to think it's not true), or is the increase of ABV real? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Unknown" >
+			<PostId>13943</PostId>
+			<ParentPostId>7245</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-17T09:53:02.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/986180729028702208
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

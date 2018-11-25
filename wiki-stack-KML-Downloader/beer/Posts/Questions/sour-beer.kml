@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>333</PostId>
+			<AcceptedAnswerId>334</AcceptedAnswerId>
+			<Title>
+			"What is a "sour malt" beer? Are there any commercially available sour malt beers?"
+			</Title>
+			<Tags>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>516</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-26T01:52:05.843</CreationDate>
+				<LastEditDate>2016-07-28T14:50:06.610</LastEditDate>
+				<LastActivityDate>2016-07-28T14:50:06.610</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>117</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have seen occasionally discussion of "sour malt" on home brewing forums.  What is it?  Are there any commercially available sour malt beers?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>3491</PostId>
+			<AcceptedAnswerId>3495</AcceptedAnswerId>
+			<Title>
+			"Sour Beer (Gose, Wild Ales, Lambics)"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>ingredients</tag>
+				<tag>recommendations</tag>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>606</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-22T02:24:23.947</CreationDate>
+				<LastEditDate>2016-07-28T14:35:52.267</LastEditDate>
+				<LastActivityDate>2016-07-28T14:35:52.267</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4219</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What exactly is involved in the brewing process that turns a beer 'sour'?  Is it the addition of certain lactic acids or yeasts? I've been told before that, technically, a sour beer is a the result of the brewing process gone wrong (obviously this is controlled when that outcome is intentional). How true is this? &lt;/p&gt;
+
+					&lt;p&gt;The opinion part of my question: what are some excellent sour beers that you guys recommend? I have a few favorites, but am always looking for great suggestions. &lt;/p&gt;
+
+					&lt;p&gt;Some of my current favorites are Westbrook Gose (salty and sour), 4 Hands Prussia Berliner (passionfruit sour), New Belgian Hop Tart, Omer Vander's Cuvees Des Jacobins Rouge, and Brouwerij's Petrus Aged Ale &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>6306</PostId>
+			<Title>
+			"What makes sour beers sour?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>brewing</tag>
+				<tag>sour-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>238</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-09-23T23:21:11.977</CreationDate>
+				<LastEditDate>2016-09-26T07:25:54.180</LastEditDate>
+				<LastActivityDate>2016-09-27T07:36:10.510</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5948</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I like sour beers and am curious what makes them sour. What's the process that results in the range of sourness? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

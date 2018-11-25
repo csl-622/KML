@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>866</PostId>
+			<ParentPostId>333</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T01:52:05.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>117</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have seen occasionally discussion of "sour malt" on home brewing forums.  What is it?  Are there any commercially available sour malt beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>867</PostId>
+			<ParentPostId>333</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T01:52:05.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>117</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is a "sour malt" beer? Are there any commercially available sour malt beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>868</PostId>
+			<ParentPostId>333</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T01:52:05.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>117</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>1695</PostId>
+			<ParentPostId>333</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T01:41:24.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/437039386036019200
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>6808</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-22T02:24:23.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What exactly is involved in the brewing process that turns a beer 'sour'?  Is it the addition of certain lactic acids or yeasts? I've been told before that, technically, a sour beer is a the result of the brewing process gone wrong (obviously this is controlled when that outcome is intentional). How true is this? 
+
+					The opinion part of my question: what are some excellent sour beers that you guys recommend? I have a few favorites, but am always looking for great suggestions. 
+
+					Some of my current favorites are Westbrook Gose (salty and sour), 4 Hands Prussia Berliner (passionfruit sour), New Belgian Hop Tart, Omer Vander's Cuvees Des Jacobins Rouge, and Brouwerij's Petrus Aged Ale 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>6809</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-22T02:24:23.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Sour Beer (Gose, Wild Ales, Lambics)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>6810</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-22T02:24:23.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4219</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, ingredients, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>6818</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-23T15:31:45.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/624240490695794688
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Tags" >
+			<PostId>9847</PostId>
+			<ParentPostId>3491</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:35:52.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, recommendations, sour-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>9862</PostId>
+			<ParentPostId>333</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:50:06.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					sour-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Body" >
+			<PostId>11085</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-23T23:21:11.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5948</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I like sour beers and am curious what makes them sour. What's the process that results in the range of sourness? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Title" >
+			<PostId>11086</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-23T23:21:11.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5948</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What makes sour beers sour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Tags" >
+			<PostId>11087</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-23T23:21:11.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5948</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, brewing, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Tags" >
+			<PostId>11098</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-26T07:25:54.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, brewing, sour-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>11189</PostId>
+			<ParentPostId>6306</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-08T18:44:36.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/784826844776398848
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="8"  UserId="13" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T20:52:16.970</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="132"  UserId="13" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:37:40.173</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="148"  UserId="13" InstanceType= "badges">
+			<Title>
+			"Quorum"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:52:12.030</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="291"  UserId="13" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T04:41:04.503</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="444"  UserId="13" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-23T01:54:48.640</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="452"  UserId="13" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-23T05:27:26.340</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1034"  UserId="13" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-07T05:41:31.073</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4012"  UserId="13" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2015-04-17T03:24:28.643</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

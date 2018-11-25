@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="474"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-23T13:25:40.603</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="475"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-23T13:25:40.603</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="476"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Precognitive"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-23T13:52:16.753</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8410"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2018-01-28T21:39:09.957</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8415"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2018-01-29T16:51:18.720</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8416"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2018-01-29T17:11:18.753</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8421"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Self-Learner"
+			</Title>
+			<TimeStamp>
+				<Date>2018-01-30T23:29:39.823</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8423"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2018-01-31T08:38:54.453</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8429"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2018-02-01T08:28:01.763</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8430"  UserId="174" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2018-02-01T08:28:42.790</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Votes">
+		<Instance Id="1"  InstanceType= "Favorite">
+			<TimeStamp>
+				<CreationDate>2015-12-16T00:00:00.000</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<UserId>4843</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id="2"  InstanceType= "unknown">
+			<TimeStamp>
+				<CreationDate>2015-12-17T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

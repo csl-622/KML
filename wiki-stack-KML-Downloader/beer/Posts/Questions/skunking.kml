@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>70</PostId>
+			<AcceptedAnswerId>88</AcceptedAnswerId>
+			<Title>
+			"What is 'skunking'?"
+			</Title>
+			<Tags>
+				<tag>terminology</tag>
+				<tag>skunking</tag>
+			</Tags>
+			<Credit> 
+				<Score>19</Score>
+				<ViewCount>903</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:29:01.690</CreationDate>
+				<LastActivityDate>2014-01-21T21:47:11.200</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In some of the questions on this site, I've seen the word 'skunking' thrown around. What does it mean? I'm assuming it's a process that causes beer to go bad, and if so, what causes this process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>470</PostId>
+			<AcceptedAnswerId>471</AcceptedAnswerId>
+			<Title>
+			"Why use clear or green bottles?"
+			</Title>
+			<Tags>
+				<tag>skunking</tag>
+				<tag>bottles</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>2325</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-31T18:59:21.883</CreationDate>
+				<LastActivityDate>2014-01-31T20:17:09.733</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>192</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In my experience, as well as accounts of others' experiences, it seems that clear and green bottles are inferior to brown bottles for storing beer. I know this is due to the amount of light allowed through the bottle.&lt;/p&gt;
+
+					&lt;p&gt;But why do breweries continue to use green and (especially) clear bottles? Why bother with a bottle that is more likely to allow beer to spoil?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>740</PostId>
+			<Title>
+			"Are brown bottles sufficient to protect beer from skunking?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>bottles</tag>
+				<tag>skunking</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>909</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-19T16:56:02.880</CreationDate>
+				<LastActivityDate>2014-06-03T10:42:23.010</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>793</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have read that when stored in a clear container, sunlight can cause beer to skunk in a matter of seconds or minutes. I have also read that brown bottles are "better" when it comes to preventing this.&lt;/p&gt;
+
+					&lt;p&gt;But how much better? Enough to "not worry about it" for short-term storage?&lt;/p&gt;
+
+					&lt;p&gt;My specific situation is this: I have a (clear) glass cupboard in the living room. I also have a rotating (every few weeks or so) selection of beers, some of which are in rather nice bottles. I would like to store the bottles in said cupboard. &lt;/p&gt;
+
+					&lt;p&gt;The bottles are brown, and the cupboard is not exposed to &lt;em&gt;direct&lt;/em&gt; sunlight, but the room is generally well-lit. Would I be risking (or just waiting for) spoilage?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

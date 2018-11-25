@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="439"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T23:48:56.353</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1077"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-11T04:15:54.427</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1079"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-11T04:15:54.427</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1080"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-11T04:16:04.520</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1081"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-11T04:20:54.543</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1097"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-12T18:22:34.210</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1102"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-12T23:05:44.333</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1737"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-07-09T17:41:53.450</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2380"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2014-11-19T22:40:04.600</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3671"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-21T23:30:18.877</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5270"  UserId="94" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-01-21T23:18:53.437</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

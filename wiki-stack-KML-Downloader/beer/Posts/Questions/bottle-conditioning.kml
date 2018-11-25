@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>99</PostId>
+			<Title>
+			"How can I tell whether a beer will improve with age?"
+			</Title>
+			<Tags>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+				<tag>freshness</tag>
+			</Tags>
+			<Credit> 
+				<Score>40</Score>
+				<ViewCount>8063</ViewCount>
+				<AnswerCount>8</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:05:29.813</CreationDate>
+				<LastActivityDate>2016-06-27T01:35:57.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>66</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Most mass-market beers come with expiration dates, and cease to be good for drinking if too much time has passed since they were brewed, even if they've been stored in unopened containers and good conditions. Some major breweries even have long-running advertising campaigns about the freshness of their products.&lt;/p&gt;
+
+					&lt;p&gt;Other beers improve with age. What qualities make a beer suitable for cellaring or bottle-conditioning? How can I know whether a given bottle of beer can be aged, short of looking it up online?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>204</PostId>
+			<Title>
+			"How do I build a beer room/cellar?"
+			</Title>
+			<Tags>
+				<tag>storage</tag>
+				<tag>bottle-conditioning</tag>
+				<tag>cellaring</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>874</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>4</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T15:18:09.323</CreationDate>
+				<LastEditDate>2014-01-22T16:24:31.570</LastEditDate>
+				<LastActivityDate>2014-01-31T20:17:30.217</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>116</OwnerUserId>
+				<LastEditorUserId>116</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've got an extra room in my house that I was thinking of turning into a "beer cellar", or as much of a cellar as an above ground room can be. I don't have a problem with the actual construction, but especially since I'm in Phoenix, Arizona, I was trying to figure out how to insulate and cool the room for optimum storage.&lt;/p&gt;
+
+					&lt;p&gt;Also, should I build the shelves to store both 6 packs still in the original cardboard casings along with individual bottles, or should I plan to remove all bottles from packaging? Separate temperature control? Lighting considerations?&lt;/p&gt;
+
+					&lt;p&gt;One final consideration, should I keep all bottles of similar size on separate shelves, or should I have more open shelves for more air flow around bottles?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>543</PostId>
+			<Title>
+			"Should bottle conditioned beers be consumed quickly after purchase and do they carry on changing taste for a while?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>aging</tag>
+				<tag>bottle-conditioning</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>2338</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-05T09:03:16.807</CreationDate>
+				<LastEditDate>2014-02-06T19:43:30.683</LastEditDate>
+				<LastActivityDate>2014-02-06T19:43:30.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>48</OwnerUserId>
+				<LastEditorUserId>52</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Just wondering how a bottle conditioned beer will change over its life - if at all? And is there a perfect time to drink one? Also do different types change differently?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>550</PostId>
+			<Title>
+			"How do you pour a bottle conditioned beer?"
+			</Title>
+			<Tags>
+				<tag>pouring</tag>
+				<tag>bottle-conditioning</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>2084</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-05T21:31:49.317</CreationDate>
+				<LastActivityDate>2014-02-05T21:53:54.883</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Bottle conditioned beers (such as many homebrews or those explicitly labelled as bottle conditioned/fermented) are, I'm told, supposed to be poured a specific way to avoid getting the yeast from the bottle into the glass.  How should I pour such a beer?&lt;/p&gt;
+
+					&lt;p&gt;Bonus points for gifs or diagrams I can distribute with my homebrew.  :)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>3322</PostId>
+			<Title>
+			"How do I limit the amount of sediment in bottles?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>bottle-conditioning</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>186</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-04-03T17:03:17.223</CreationDate>
+				<LastActivityDate>2015-05-07T06:01:13.397</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3972</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently made my second batch of beer.  It's a pumpkin ale.  I am finding that the bottles contain a large amount of sediment, almost like slush at the bottom the bottle.  The beer is delicious, but I'm wondering how I can prevent this in the future.  My first batch of beer was the White House Honey Ale and those were pretty much sediment free.&lt;/p&gt;
+
+					&lt;p&gt;What influences the amount of sediment?  Should I be "filtering" at some point in the process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>3505</PostId>
+			<Title>
+			"A plastic bottle of gira (kvass) expanded in the plane: what are the possible consequence?"
+			</Title>
+			<Tags>
+				<tag>bottle-conditioning</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>84</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-31T18:53:40.323</CreationDate>
+				<LastActivityDate>2015-07-31T20:11:23.740</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4374</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A couple of friend just came back from vacation in Lithuania and brought me a bottle of &lt;a href="https://en.wikipedia.org/wiki/Kvass" rel="noreferrer"&gt;gira&lt;/a&gt;. However, the bottle is made of plastic (it looks like a soda bottle) and it suffered from what I guess is traveling in a plane cargo at low pressure: it expanded like a balloon, even the screw cap has a dome.&lt;/p&gt;
+
+					&lt;p&gt;&lt;img src="https://i.stack.imgur.com/gBCaq.jpg" alt="A expanded bottle of gira."&gt;&lt;/p&gt;
+
+					&lt;p&gt;What could be the consequences of this expansion on taste, preservation, carbonation or anything else I might have forgotten?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

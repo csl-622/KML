@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>272</PostId>
+			<Title>
+			"How can I brew a black lager?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>lager</tag>
+				<tag>schwarzbier</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>96</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T18:47:57.217</CreationDate>
+				<LastActivityDate>2014-01-23T19:32:12.913</LastActivityDate>
+				<ClosedDate>2014-01-23T20:30:02.307</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>181</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is a black lager really a lager (in terms of yeast and brewing time)? Can I just throw in whatever would make a good stout but use lager yeast? If not, then how much play is there to the recipe?&lt;/p&gt;
+
+					&lt;p&gt;I've got a little bit of experience brewing ales, mainly stout and brown ale. Just a few months ago I tried my first experiment, deviating a little from a recipe in my choice of malts and yeast, but still using a malt extract for my primary malt. I have zero experience with brewing lager.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>6497</PostId>
+			<AcceptedAnswerId>6498</AcceptedAnswerId>
+			<Title>
+			"Dark Beer Classifications"
+			</Title>
+			<Tags>
+				<tag>stout</tag>
+				<tag>porter</tag>
+				<tag>schwarzbier</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>220</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-01-28T07:19:14.363</CreationDate>
+				<LastActivityDate>2017-01-30T15:53:06.937</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5847</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What, exactly, is the difference between stout, porter, schwarzbier, and other dark beers?&lt;/p&gt;
+
+					&lt;p&gt;Wiki descriptions:&lt;/p&gt;
+
+					&lt;p&gt;-&lt;a href="https://en.wikipedia.org/wiki/Stout"&gt;Stout&lt;/a&gt;: dark beer made using roasted malt or roasted barley, hops, water and yeast (fairly broad description, imho...)&lt;/p&gt;
+
+					&lt;p&gt;-&lt;a href="https://en.wikipedia.org/wiki/Porter_(beer)"&gt;Porter&lt;/a&gt;: dark style of beer developed in London from well-hopped beers made from brown malt&lt;/p&gt;
+
+					&lt;p&gt;-&lt;a href="https://en.wikipedia.org/wiki/Schwarzbier"&gt;Schwarzbier&lt;/a&gt;: or black beer, is a dark lager made in Germany&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Beer_style#Appearance"&gt;Dark Beer:&lt;/a&gt; opaque or near-opaque colour that exists with stouts, porters, schwarzbiers (black beer) and other deeply coloured styles&lt;/p&gt;
+
+					&lt;p&gt;Two overarching factors seem to be the color, most obviously, and geographical location.&lt;/p&gt;
+
+					&lt;p&gt;But, are all dark beers, 'stouts,' by definition? For example, schwarzbier is a 'dark lager' but, still made from roasted malt?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

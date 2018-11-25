@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>52</PostId>
+			<ParentPostId>15</ParentPostId>
+			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:04:21.677</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If you drink the bottled beer actually from the bottle you won't get any of the aroma.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>92</PostId>
+			<ParentPostId>15</ParentPostId>
+			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:05:47.190</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@TomMedley for sure, but it's still less quality even if you pour it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>94</PostId>
+			<ParentPostId>125</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:10:05.213</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@paul One could argue that barley is the ingredient (including what type, where it was grown, etc.), and roasting the barley is part of the brewing process (including how exactly it was roasted, duration, etc.).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="1">
+			<PostId>141</PostId>
+			<ParentPostId>15</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T12:02:01.080</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Might it be subjective / a false impression? For example, for whatever reason, I've always noticed that Stella tastes better (poured) out of the bottle than on draught. In the U.S. at least.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>142</PostId>
+			<ParentPostId>179</ParentPostId>
+			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T12:41:37.603</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					To add to your list of additives, I've also seen citrus (normally lime or lemon) and even other spirits like tequila or vodka, although these seem to usually be added post-brew as a gimmick.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>143</PostId>
+			<ParentPostId>179</ParentPostId>
+			<Contributors>
+				<UserId>117</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T13:06:40.003</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Citrus would probably be quite good.  I havent tried it or seen it.  Good catch though.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="2">
+			<PostId>233</PostId>
+			<ParentPostId>243</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T06:10:43.993</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've actually only seen this at large events such as festivals.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="3">
+			<PostId>693</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Contributors>
+				<UserId>288</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-16T07:30:07.443</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The word "draft" is not regulated in any way (at least in the US), see e. g. "Miller Genuine Draft" (which doesn't fit the definition either). Of course, it's possible that the word is understood differently in Japan as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>694</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-16T13:31:22.630</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I see. I think it's even more possible that the word is understood differently here, since the term "nama" means fresh or raw.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>695</PostId>
+			<ParentPostId>622</ParentPostId>
+			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-17T00:22:35.483</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I knew it! Thanks for the answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="1">
+			<PostId>699</PostId>
+			<ParentPostId>622</ParentPostId>
+			<Contributors>
+				<UserId>228</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-17T21:01:12.993</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Other common variants are _pilsener_ or just _pils_.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>700</PostId>
+			<ParentPostId>214</ParentPostId>
+			<Contributors>
+				<UserId>228</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-17T21:03:46.990</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've got a bottle of Dubbelbockhere and it says it has been aged twice as long. (Although it doesn't say twice as log as what, or if that is indeed the origin of the name).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>701</PostId>
+			<ParentPostId>214</ParentPostId>
+			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-17T21:19:34.690</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					"Dubbelbock" is brewed by Heineken in the doppelbock style.  Note the use of the "dubbel" terminology, like a Belgian dubbel.  I've seen a craft brew also called "dubbelbock" that was a dubbel/bock hybrid.  While Heineken (or perhaps another brewer) may market the beer based on aging time, there's no direct correlation in terms of doubling the aging, other than that aging has effects on flavor and alcohol content, which depending on the beer may make it "stronger".
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="0">
+			<PostId>845</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-30T03:36:41.820</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Carlton Draught in Australia has been popular for many decades and the can version also has no widget.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>1983</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Contributors>
+				<UserId>970</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-06-06T13:13:06.850</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Which specific Japanese beer would this be? There are some that are sold that come with CO2 cartridges and a server, and others which are generally non-beer beer (発泡酒 happoshu or 第三ビール daisan-beer) which say "nama" to evoke beerishness without being beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>1988</PostId>
+			<ParentPostId>792</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-06-08T00:24:26.417</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I did enjoy Omission, and didn't even realize it was gluten-free. (It was a beer I hadn't seen before at my local market, so I picked it up without reading the label too closely.)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="4">
+			<PostId>1989</PostId>
+			<ParentPostId>863</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-06-08T04:37:16.250</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Grolsch bottles can help with this.  I have a couple 12oz ones that I use if I want to drink half of a 25oz bottle today and half tomorrow.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>1999</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-06-11T00:50:25.060</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					のどごし　is no-malt. Other Kirin beers as well. And I know about the ones with the server, usually advertised to show ease of serving with a head, I'm not really sure. I'm not that good with Nihongo.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="1">
+			<PostId>2000</PostId>
+			<ParentPostId>869</ParentPostId>
+			<Contributors>
+				<UserId>802</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-06-11T18:14:54.337</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					hyperthermia, not hypothermia.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="1">
+			<PostId>2099</PostId>
+			<ParentPostId>999</ParentPostId>
+			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-08-24T18:10:28.067</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I suppose my _real_ question is "what was wrong with that place and is it serious," but one question at a time.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="0">
+			<PostId>3811</PostId>
+			<ParentPostId>63</ParentPostId>
+			<Contributors>
+				<UserId>5283</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-05T09:06:57.643</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					By the way, it's not the only beer using this widget. I've seen "young's double chocolate stout" cans with the same nitrogen balls.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="1">
+			<PostId>3890</PostId>
+			<ParentPostId>3417</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-17T03:56:25.793</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I haven't heard this before.  You say it's known; where did you hear that?  Or is this based on experience?  Either way, could you [edit] more information into your question?  Thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>4151</PostId>
+			<ParentPostId>3417</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-09-08T20:43:19.357</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I changed to canned beer (VB CANS) in australia and have not been sick once.. If i drink tap beer or even some bottled beer i get really crook.. Try cans or "tinnies" as we call them here
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>4602</PostId>
+			<ParentPostId>6538</ParentPostId>
+			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-26T17:47:03.847</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Bottled Extra Stout for me...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>4704</PostId>
+			<ParentPostId>6538</ParentPostId>
+			<Contributors>
+				<UserId>6204</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T21:18:35.623</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It has one of the biggest marketing budgets in the industry. I don't know of any beer enthusiasts who would drink it though. The bottled stuff around 7%, on the other hand, is really good.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="1">
+			<PostId>4705</PostId>
+			<ParentPostId>6614</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-09T22:03:14.537</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@mcraen I believe your suspicion is fundamentally incorrect. Higher ethanol concentrations mean the formation of more ethanol micelles which tend to trap aromatics. Adding water will  interfere with the micelles, releasing flavor and aroma. This has nothing to do with harshness. You will get *more* (and more varied) flavors with judicious dilution. Just don't go overboard, and remember to choose what you like best, which may indeed be cask strength... As long as you've tried the alternatives, it's probably best (in any situation in life) to strongly consider discarding received "wisdom".
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="0">
+			<PostId>4706</PostId>
+			<ParentPostId>6653</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-10T05:56:26.087</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Fantastic knowledge of history and more shared, awesome answer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>4707</PostId>
+			<ParentPostId>6655</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-10T16:43:43.387</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There is a point, usually around $20 or so where the quality doesn't increase proportionally with the price. So a $40 bottle of wine isn't double the taste or value. $80 dollars isn't going to give you twice the pleasure as a $40 bottle... Then you start moving into Veblen Goods area and wine "collectors".
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="0">
+			<PostId>4708</PostId>
+			<ParentPostId>6655</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-10T16:46:57.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@SteveS. That is what "Certainly as many goods there is diminishing return" means.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="0">
+			<PostId>4709</PostId>
+			<ParentPostId>6655</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-10T18:32:36.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Of course, just reiterating the idea... Although it's all subjective. I know people that buying $100 bottle of wine might be considered a "deal" in certain circles.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>5298</PostId>
+			<ParentPostId>7102</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-06T23:03:10.813</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You need to narrow your question down. You say "draught" beer? Which brand? Is it all the same brand or different brands? There are also different styles of beer. I am going to vote to close this question unless this is cleared up.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="0">
+			<PostId>5299</PostId>
+			<ParentPostId>667</ParentPostId>
+			<Contributors>
+				<UserId>7279</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-07T15:10:47.200</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How difficult could be get a key api for untappd?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="0">
+			<PostId>5300</PostId>
+			<ParentPostId>667</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-07T15:13:42.770</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@alexpfx I have no idea, as I've never tried.  They outline the process here: https://untappd.com/api/register but they aren't very specific beyond that you must have a real app or app idea in order to qualify.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="0">
+			<PostId>5301</PostId>
+			<ParentPostId>7102</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-07T21:29:48.717</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Do you mean the same beer tastes different in different places, or are you perhaps encountering regional styles that would taste different no matter where you drink them?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35"  InstanceType= "comments" Score="0">
+			<PostId>5302</PostId>
+			<ParentPostId>7102</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-07T21:50:50.160</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Let close this unless the question is narrowed
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36"  InstanceType= "comments" Score="0">
+			<PostId>5305</PostId>
+			<ParentPostId>7102</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-12-12T03:16:13.493</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm putting this on hold temporarily.  Please [edit] to narrow the question down (see previous comments) and we can review for reopening.  Thanks.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>11996</PostId>
+			<ParentPostId>6611</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-28T04:15:04.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					At times it can be difficult to procure what I always considered the correct ingredient for [Zabaione][1] - [Marsala][2].  However, I have discovered that I can use other fortified wines or spirits.  Wikipedia suggests Cognac - which got me thinking about a good smooth whiskey - such as - [Redbreast][3].  I don't know enough about whiskey to make the right choice here - would a cheap brand do just as well?
+
+
+
+
+					  [1]: https://en.wikipedia.org/wiki/Zabaione
+					  [2]: https://en.wikipedia.org/wiki/Marsala_wine
+					  [3]: http://www.whiskysuggest.com/whisky/redbreast-12-year-old/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>11997</PostId>
+			<ParentPostId>6611</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-28T04:15:04.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Zabaione - Do I have to use Marsala?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>11998</PostId>
+			<ParentPostId>6611</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-28T04:15:04.530</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					whiskey, cooking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Title" >
+			<PostId>11999</PostId>
+			<ParentPostId>6611</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-28T06:47:56.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				changed heading
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Zabaione - with Marsala or Whiskey?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Tags" >
+			<PostId>12005</PostId>
+			<ParentPostId>6611</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-28T13:33:10.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					whiskey, cooking, substitutions, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Unknown" >
+			<PostId>12014</PostId>
+			<ParentPostId>6611</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-28T22:30:21.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/836705123258740737
+			</EditDetails>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>13171</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-27T20:23:34.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7053</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I find drinks that are traditionally served in stemmed glasses are difficult to carry (I'm a wheelchair user). What terminology would I use if I wanted to order a drink like a martini or Manhattan served in a rocks glass (but without the ice)? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>13172</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-27T20:23:34.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7053</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Ordering a Drink in Non-Traditional Glassware
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>13173</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-27T20:23:34.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7053</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					glassware, terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>13174</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-28T11:47:44.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added a new tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					glassware, terminology, substitutions, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>13176</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-29T06:53:07.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/902423853904879617
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>13875</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-07T20:59:52.860</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7707</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I like the taste of wine and the sensation the alcohol creates in the mouth, but I have no interest in the mental effects or the cancer risk. (I've never drunk enough at one time to become even so much as buzzed, so the "warm feeling" people describe is just academic for me.) My question is what non-alcoholic drinks, if any, come close to simulating wine as far as just the taste and the burn in the mouth? Is there anything better than sparkling juice?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>13876</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-07T20:59:52.860</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7707</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					non-alcoholic substitutes for wine
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>13877</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-07T20:59:52.860</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7707</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Tags" >
+			<PostId>13878</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-08T00:05:29.090</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Title" >
+			<PostId>13881</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-09T12:59:57.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Non-alcoholic substitutes for wine
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Tags" >
+			<PostId>13882</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-09T12:59:57.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					recommendations, non-alcoholic, substitutions, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>13963</PostId>
+			<ParentPostId>7232</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-26T22:21:04.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/989630465295441922
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>7264</PostId>
+			<ParentPostId>7263</ParentPostId>			<Tags>
+				<tag>wine</tag>
+				<tag>spirits</tag>
+				<tag>distilleries</tag>
+				<tag>solera</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-03T17:23:28.927</CreationDate>
+				<LastActivityDate>2018-05-03T17:23:28.927</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6111</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;One wine comes to mind and that is the Apera wine produced in Australia. If you do a google search on apera and solera you will find numerous hits of wineries in Australia and Canada making something that is Sherry-like. Sherry is now a protected name place like Champagne, Chianti and Burgundy and can only be used in Spain of wines produced in the Jerez-Xeres-Sherry DO province of Cádiz in the region of Andalusia. Everything else produced in a sherry-like manner has to be called something else. Many have settled on the Apera (a play on Aperitif) name. See the "Protection of Sherry" in the Sherry &lt;a href="https://en.wikipedia.org/wiki/Sherry" rel="nofollow noreferrer"&gt;Wikipedia&lt;/a&gt;. &lt;/p&gt;
+
+					&lt;p&gt;There are several other wines produced in the world using the Solera system and these include spanish Brandy, Marsala, Mavrodafni, Glenfiddich whisky, some Champagne, awamori in Japan and is well covered in your link in &lt;a href="https://en.wikipedia.org/wiki/Solera" rel="nofollow noreferrer"&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

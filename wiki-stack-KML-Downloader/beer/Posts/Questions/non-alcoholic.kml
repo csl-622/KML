@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>369</PostId>
+			<AcceptedAnswerId>370</AcceptedAnswerId>
+			<Title>
+			"How is non-alcoholic beer produced?"
+			</Title>
+			<Tags>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>109</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T02:25:22.910</CreationDate>
+				<LastActivityDate>2014-01-28T09:32:01.053</LastActivityDate>
+				<ClosedDate>2014-01-31T23:45:12.830</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>80</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Is it made brewed in such a way as to have no alcohol, or is it just normal beer with the alcohol removed, or some other process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>381</PostId>
+			<Title>
+			"Do open container laws in the U.S. apply to non-alcoholic beers?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>3228</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-28T15:39:56.967</CreationDate>
+				<LastActivityDate>2014-01-28T18:42:21.053</LastActivityDate>
+				<ClosedDate>2014-01-29T01:35:41.087</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Do &lt;a href="http://en.wikipedia.org/wiki/United_States_open_container_laws"&gt;open container laws in the U.S.&lt;/a&gt; apply to non-alcoholic beers? (Open container laws do &lt;a href="http://en.wikipedia.org/wiki/File%3aUSA-open-container-law-path2006-2.svg"&gt;vary from state to state&lt;/a&gt; but there may be a general consensus on definitions, &lt;em&gt;e.g.&lt;/em&gt; the definition of "an alcoholic beverage." Focusing on the most populous states, California, Texas, New York, and Florida may be a good estimator of widely-applicable laws.)&lt;/p&gt;
+
+					&lt;p&gt;I'm not looking for speculation (however logical) &lt;em&gt;e.g.&lt;/em&gt; &lt;i&gt;"Non-alcoholic beers still have alcohol and are therefore subject to the same laws,"&lt;/i&gt; or &lt;em&gt;"Non-alcoholic beers can't be purchased by minors, therefore [...],"&lt;/em&gt; only citations of state laws or on-the-record statements by law enforcement officials.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>3292</PostId>
+			<AcceptedAnswerId>3293</AcceptedAnswerId>
+			<Title>
+			"What are the alcohol free beers?"
+			</Title>
+			<Tags>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>151</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-16T07:46:28.850</CreationDate>
+				<LastEditDate>2015-03-16T12:24:41.110</LastEditDate>
+				<LastActivityDate>2015-12-29T02:42:27.270</LastActivityDate>
+				<ClosedDate>2015-12-30T16:58:25.760</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1005</OwnerUserId>
+				<LastEditorUserId>268</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I drink beer occasionally. So far I have only drank alcoholic ones. Now I need to know whether alcohol-free beers exist or not. If so, what are their brand names? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>4595</PostId>
+			<AcceptedAnswerId>6227</AcceptedAnswerId>
+			<Title>
+			"Eat bread before drink beer make you drunk less?"
+			</Title>
+			<Tags>
+				<tag>drinking</tag>
+				<tag>alcohol-level</tag>
+				<tag>non-alcoholic</tag>
+				<tag>preparation-for-drinking</tag>
+				<tag>alcohol</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>9070</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-09-21T05:32:16.793</CreationDate>
+				<LastEditDate>2017-02-24T08:11:41.757</LastEditDate>
+				<LastActivityDate>2017-05-18T12:07:43.630</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4545</OwnerUserId>
+				<LastEditorUserId>4545</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;My friends says if you eat some bread it will absorb the alcohol and make you high less. is it true?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>4900</PostId>
+			<AcceptedAnswerId>4901</AcceptedAnswerId>
+			<Title>
+			"What are reasons to not sell alcohol free beer to minors?"
+			</Title>
+			<Tags>
+				<tag>health</tag>
+				<tag>laws</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>573</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-03-24T09:28:38.067</CreationDate>
+				<LastEditDate>2016-03-25T16:31:43.907</LastEditDate>
+				<LastActivityDate>2016-03-30T17:23:44.690</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In The Netherlands, the law also prevents selling alcohol free beer to minors.&lt;/p&gt;
+
+					&lt;p&gt;What can be reasons for this? Is alcohol free beer also addictive, and does it therefore attract minors to much to alcoholic beer? Or does alcohol free beer contain a substance that is also harmful to the (young) brain?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>5222</PostId>
+			<Title>
+			"Non-Alcoholic Distillation"
+			</Title>
+			<Tags>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>385</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-01T00:58:55.700</CreationDate>
+				<LastActivityDate>2016-08-01T13:09:57.600</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5718</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Ultimately, I would love to know how the folks over at
+					&lt;a href="https://www.seedlipdrinks.com/" rel="nofollow"&gt;Seedlip&lt;/a&gt; have managed to make a distilled beverage with no alcohol. What would the process roughly consist of if sugar isn't used?&lt;/p&gt;
+
+					&lt;p&gt;Any insight would be greatly appreciated.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>6788</PostId>
+			<AcceptedAnswerId>6801</AcceptedAnswerId>
+			<Title>
+			"Good non-alcoholic, sedative drinks to replace alcoholic drinks"
+			</Title>
+			<Tags>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>10477</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-22T00:17:36.810</CreationDate>
+				<LastActivityDate>2017-12-02T02:27:04.407</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;As active as I am on this Stack and enjoy the occasional drink I'm realizing more and more that, regardless of how little I drink from day to day, for the most part booze just tends to bring me down a bit, and if I avoid it I usually feel better than if I had had something to drink.&lt;/p&gt;
+
+					&lt;p&gt;So I'd like to put this question out there to get some ideas for drinks that act as sedatives, but which are non-alcoholic.&lt;/p&gt;
+
+					&lt;p&gt;So far I've primarily been using &lt;strong&gt;lavender and chamomile teas, and straight water.&lt;/strong&gt; Water specifically isn't sedating but does tend to balance out overloads of caffeine or sugar. &lt;/p&gt;
+
+					&lt;p&gt;Is there anything else that's commonly used for this purpose?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>7055</PostId>
+			<AcceptedAnswerId>7056</AcceptedAnswerId>
+			<Title>
+			"Why is Lager/Pilsner the most common beer style for alcohol-free beer?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>lager</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>84</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-02T10:39:05.377</CreationDate>
+				<LastEditDate>2017-12-14T02:16:35.043</LastEditDate>
+				<LastActivityDate>2017-12-14T02:16:35.043</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5021</OwnerUserId>
+				<LastEditorUserId>7272</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If one wants to buy alcohol-free beer in a supermarket, the most common beer style is Lager/Pilsner. I have never seen other styles such as alcohol-free Witbier, IPA, Stout etc. in a store, but from doing a quick online research I learned that such beer does exist.&lt;/p&gt;
+
+					&lt;p&gt;Is Lager/Pilsner the most common style for alcohol-free beers because it is the most popular style for normal beer as well, or are there some technical limitations during the brewing process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>7232</PostId>
+			<AcceptedAnswerId>7235</AcceptedAnswerId>
+			<Title>
+			"Non-alcoholic substitutes for wine"
+			</Title>
+			<Tags>
+				<tag>recommendations</tag>
+				<tag>non-alcoholic</tag>
+				<tag>substitutions</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>95</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-04-07T20:59:52.860</CreationDate>
+				<LastEditDate>2018-04-09T12:59:57.397</LastEditDate>
+				<LastActivityDate>2018-04-10T01:27:48.837</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7707</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I like the taste of wine and the sensation the alcohol creates in the mouth, but I have no interest in the mental effects or the cancer risk. (I've never drunk enough at one time to become even so much as buzzed, so the "warm feeling" people describe is just academic for me.) My question is what non-alcoholic drinks, if any, come close to simulating wine as far as just the taste and the burn in the mouth? Is there anything better than sparkling juice?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>7318</PostId>
+			<AcceptedAnswerId>7373</AcceptedAnswerId>
+			<Title>
+			"Is there a drink in Italy similar to kvass?"
+			</Title>
+			<Tags>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>73</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-29T07:17:25.523</CreationDate>
+				<LastActivityDate>2018-07-05T14:50:51.963</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4742</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Kvass" rel="nofollow noreferrer"&gt;Kvass&lt;/a&gt; is a low alcoholic drink made of (usually rye) bread. Is there something similar in Italy (like &lt;a href="https://en.wikipedia.org/wiki/Malt_beer" rel="nofollow noreferrer"&gt;malt beer&lt;/a&gt; in Germany)? Or maybe is it possible to buy kvass in big supermarkets? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>7356</PostId>
+			<Title>
+			"Refrigerate Non-Alcoholic beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>flavor</tag>
+				<tag>temperature</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>22</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-27T13:51:31.633</CreationDate>
+				<LastActivityDate>2018-06-28T17:28:58.890</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7887</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Should non-alcoholic beer be refrigerated to preserve it? How long does non-alcoholic beer last when not refrigerated?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

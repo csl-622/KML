@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>3519</PostId>
+			<ParentPostId>3513</ParentPostId>			<Tags>
+				<tag>breweries</tag>
+				<tag>micropub</tag>
+				<tag>singapore</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-08-08T13:02:13.007</CreationDate>
+				<LastEditDate>2015-08-08T13:42:09.763</LastEditDate>
+				<LastActivityDate>2015-08-08T13:42:09.763</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1289</OwnerUserId>
+				<LastEditorUserId>1289</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="http://www.paulaner-brauhaus.com/singapore" rel="nofollow"&gt;Paulaner&lt;/a&gt;&lt;br&gt;
+					&lt;a href="http://reddotbrewhouse.com.sg/" rel="nofollow"&gt;Reddot Brewhouse&lt;/a&gt;&lt;br&gt;
+					&lt;a href="http://www.archipelagobrewery.com/" rel="nofollow"&gt;Archepelago&lt;/a&gt; (found in various locations)&lt;br&gt;
+					&lt;a href="http://the1925.com.sg/" rel="nofollow"&gt;1925 Brewery&lt;/a&gt;&lt;br&gt;
+					&lt;a href="http://adstragold.com/page60.html" rel="nofollow"&gt;AdstraGold&lt;/a&gt; &lt;/p&gt;
+
+					&lt;p&gt;Paulaner should be the same everywhere, Reddot is pretty good, I'm not sure that Adstra actually exists (but WOW, what a janky website). Brewerkz still seems to be the best AFAIK.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

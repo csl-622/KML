@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="2">
+			<PostId>233</PostId>
+			<ParentPostId>243</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T06:10:43.993</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've actually only seen this at large events such as festivals.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>4675</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T13:23:44.123</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Was the oenophile trained at all? Could there have been confusion about "oak" (I'm thinking cleaning product residue or even cigarette smoke residue)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>4676</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T13:57:36.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@David - He's experienced, and I'm a super-taster with a notoriously keen nose.  I don't know if the claim was explicitly "oak."  I wouldn't claim to know the wood specie, but it was definitely an "aging barrel wood" nose.  Keep in mind I had a glass with the same wine in it, so we were able to pick out the difference imparted by the glass.  If both glasses had been similarly tainted, I would have just assumed it was part of the wine's profile.  He might have known enough to alert on the fact that the particular wine he chose should not have a strong wood component.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="2">
+			<PostId>4677</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T14:14:04.863</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Then my bet would be that it was a previously used glass that wasn't washed properly and had some kind of residue (possibly whisky). I propose an experiment (and I'll try it myself in the coming days): put a half-measure of whisky in a wine glass, swirl, empty (drink). Leave to dry overnight, pour in a reasonably big &amp; powerful red... smell. In any case I would be shocked if this was intentional. To pick a small nit, "supertasters" aren't necessarily "better" tasters -- that's almost entirely down to olfaction and training. We just are capable of detecting a couple chemicals others can't.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>4678</PostId>
+			<ParentPostId>6536</ParentPostId>
+			<Contributors>
+				<UserId>3744</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T14:47:17.940</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					To add to this, POUR THE CAN DIRECTLY INTO A GLASS! The can widget will dump all of it's nitrogen upon opening, so don't sip from the can, it will lose nitrogen by the end. The bottle widget supposedly only injects nitrogen when tipped, so it IS designed to be sipped, not poured out.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>4679</PostId>
+			<ParentPostId>6644</ParentPostId>
+			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:23:27.973</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wow: That would certainly do it!  Although this was several years ago, and it was a red wine glass.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>4680</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>5486</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:27:37.290</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@David: You're right of course about the supertasting.  I don't know how to qualify my olfactory acuity (except perhaps as "notoriously keen" ;)  I like the experiment idea, and I suspect it will produce the effect we observed (especially with a quarter-cask Laphroaig I have on hand).  But keep in mind this was a red wine glass at a fine restaurant: Is it conceivable they would be serving whiskey neat in such a glass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>4681</PostId>
+			<ParentPostId>6643</ParentPostId>
+			<Contributors>
+				<UserId>6490</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:37:34.853</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If it was strongly oaky, a better bet might be a Bourbon (virgin cask aging). There are many ways it could end up in a "wrong" glass: by customer request, or it could be used as a temporary vessel, or a staff member's surreptitious quaff with whatever was on hand. Who knows.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>4682</PostId>
+			<ParentPostId>6644</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:47:13.277</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Who knows what drink they could've been making. I first saw this about 5 years ago but it just keeps getting more popular.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>4683</PostId>
+			<ParentPostId>6637</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-03-07T16:57:16.517</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't but know many who swear by it. I'm not convinced it doesn't just dilute the whisky and make it less 'harsh'.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

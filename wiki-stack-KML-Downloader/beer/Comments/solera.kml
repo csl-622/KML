@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>5493</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-03T17:11:15.300</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think you should rename this question to "are there any other wines/spirits in the world the Solera system
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>5495</PostId>
+			<ParentPostId>7264</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-04T08:10:42.543</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Did some additional research and found that the "solera" method seems to be more common than I thought. There exists even a cachaça produced with that method. Will continue searching for more
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5497</PostId>
+			<ParentPostId>7263</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-04T11:03:25.343</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Wording is not that important as long as everybody understands. The term "Sherry" of course is reserved for a specific regional product from Jerez de la Fonterra. As Sherry was first, is based on this specific method and best known with its production method talking about "Sherry production method" should not be misunderstood.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>5498</PostId>
+			<ParentPostId>7256</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-06T00:27:51.980</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					My assumption to crushed ice was that there might be less space for "alcohol" between and so create volume instead of taste.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>5499</PostId>
+			<ParentPostId>7268</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-06T02:12:36.313</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've independently verified that it's sold in the USA as well, but I've never heard of it.  Seems to be a low to mid-priced offering, and not that popular here either.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>5500</PostId>
+			<ParentPostId>7268</ParentPostId>
+			<Contributors>
+				<UserId>7737</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-07T13:07:05.887</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					In India, It is most famous dark rum and was launched in 1954, since then the company is running without any kind of promotional activity and there is no change in packaging also. Old Monk had been awarded gold medals at Monde World Selections since 1982. Also it is most used brand by Indian Army.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

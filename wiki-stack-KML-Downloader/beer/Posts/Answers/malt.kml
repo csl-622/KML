@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>3433</PostId>
+			<ParentPostId>3424</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>hops</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-28T12:46:39.027</CreationDate>
+				<LastActivityDate>2015-06-28T12:46:39.027</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4266</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The malt is providing the sweetness and the hops are providing the bitterness plus the lingering flavour.&lt;/p&gt;
+
+					&lt;p&gt;Depending on what type malted grains the beer is brewed will effect its sweetness. This is due to how much fermentatble sugar can be extracted from the grains, any non-fermentable sugars will stay in the beer and provide effect how the beer sweetness. &lt;/p&gt;
+
+					&lt;p&gt;Hops are used in different stages of the brewing process to provide different functions.&lt;/p&gt;
+
+					&lt;p&gt;Hops are added at the intial point of the boiling process (which is usually about 60mins) - The hops oils released from the hops at this stage provide the beer with head retention, bitterness and also natural perservative. &lt;/p&gt;
+
+					&lt;p&gt;Hops are then again added during the final stage of the boiling process (last 10-15mins) - At this point the hops are providing the lingering taste that you are noting, plus any aroma notes.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>4955</PostId>
+			<ParentPostId>4947</ParentPostId>			<Tags>
+				<tag>hops</tag>
+				<tag>yeast</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-15T08:50:14.683</CreationDate>
+				<LastActivityDate>2016-04-15T08:50:14.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>984</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;This discussion would be more suitable in the homebrew stack as Andrew said, but I will answer it anyway.&lt;/p&gt;
+
+					&lt;p&gt;You are on the right track, making a simple pilsner recipe will show you the effects of the malt, yeast, water and hops.&lt;/p&gt;
+
+					&lt;p&gt;There is a technique called SMASH (single malt, single hops), which is widely used to "test" the effect of a new ingredient. It is pretty much exactly what you are doing. &lt;/p&gt;
+
+					&lt;p&gt;The best technique: brew as often as possible. Be critical of your beer. Get a BJCP judge (or similar) to try your beer and give you feedback.&lt;/p&gt;
+
+					&lt;p&gt;Relax, dont worry, have a homebrew. (Papasian).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

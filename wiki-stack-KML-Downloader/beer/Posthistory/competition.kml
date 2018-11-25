@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>697</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T17:21:16.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When you see advertising for beer, some of them advertise awards that they have won at various beer festivals and/or competitions.
+
+					What are the judging standards at these competitions, and what are the most prestigious competitions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>698</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T17:21:16.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What do they judge on at beer competitions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>699</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T17:21:16.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, taste, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>746</PostId>
+			<ParentPostId>269</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T04:01:59.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, taste, competition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>1308</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T14:18:43.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>368</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I saw a comment asking this question [here][1], and became curious. In the context of a tasting panel or competition, what is the appropriate serving size?
+
+
+					  [1]: http://beer.stackexchange.com/questions/153/if-you-are-having-a-beer-tasting-what-is-a-good-way-to-clear-the-palate?rq=1
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>1309</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T14:18:43.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>368</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the best serving size for a beer tasting
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>1310</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T14:18:43.197</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>368</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, taste, competition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>1478</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T13:36:13.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432145845757427712
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Body" >
+			<PostId>12500</PostId>
+			<ParentPostId>515</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I saw a comment asking this question [here][1], and became curious. In the context of a tasting panel or competition, what is the appropriate serving size?
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/153/if-you-are-having-a-beer-tasting-what-is-a-good-way-to-clear-the-palate?rq=1
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

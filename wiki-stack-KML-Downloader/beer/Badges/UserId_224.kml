@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="607"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-27T22:37:39.357</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="612"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-28T05:06:31.840</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="752"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-30T16:54:55.687</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2137"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-09-24T20:24:27.537</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2538"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-01T02:48:37.573</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2540"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-01T04:35:29.710</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3718"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-27T22:37:17.860</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4541"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-15T18:27:27.307</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5318"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-01-27T22:50:44.800</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6295"  UserId="224" InstanceType= "badges">
+			<Title>
+			"Notable Question"
+			</Title>
+			<TimeStamp>
+				<Date>2016-08-31T15:22:10.090</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

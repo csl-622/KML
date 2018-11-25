@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>3461</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Contributors>
+				<UserId>4411</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-10T20:56:54.553</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd like to know the same!
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

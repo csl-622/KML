@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>48</PostId>
+			<ParentPostId>37</ParentPostId>			<Tags>
+				<tag>storage</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:13:43.460</CreationDate>
+				<LastEditDate>2014-01-22T15:24:45.767</LastEditDate>
+				<LastActivityDate>2014-01-22T15:24:45.767</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+				<LastEditorUserId>116</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are some rules of thumb.  First, if it's a hop-oriented beer (pales, IPAs), drink sooner than later, as the hop aromas and flavor will fade over time.  Second, the higher the alcohol by volume (ABV, think imperial stouts), the better chance it has of lasting longer.&lt;/p&gt;
+
+					&lt;p&gt;That said, it may be best to ask the brewer what the recommended shelf life is for any &lt;em&gt;specific&lt;/em&gt; beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>851</PostId>
+			<ParentPostId>845</ParentPostId>			<Tags>
+				<tag>temperature</tag>
+				<tag>aging</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-04T18:32:14.367</CreationDate>
+				<LastActivityDate>2014-06-04T18:32:14.367</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>911</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I believe the general principal is that lower temperatures will result in slower (or negligible) aging process than warmer temperatures. The results will certainly vary depending on the ABV and other qualities of the beer. Storing bottles horizontally should prevent the corks from drying.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>852</PostId>
+			<ParentPostId>845</ParentPostId>			<Tags>
+				<tag>temperature</tag>
+				<tag>aging</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-04T19:44:53.997</CreationDate>
+				<LastActivityDate>2014-06-04T19:44:53.997</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>966</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Remember, that not all of the beers are suitable for aging. Mainly porter beer can be stored beyond expiration date (30 years!), but some others too. And i see no point for aging beer in a fridge.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>874</PostId>
+			<ParentPostId>845</ParentPostId>			<Tags>
+				<tag>temperature</tag>
+				<tag>aging</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-11T10:30:36.163</CreationDate>
+				<LastActivityDate>2014-06-11T10:30:36.163</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>991</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;That sounds pretty much like an ideal place to store and age beer and wine. 65F is maybe a tad on the warm side, but nowhere near the temperatures that would actually cook the beer and be harmful to it.&lt;/p&gt;
+
+					&lt;p&gt;There is no harm in taking the bottles out from the fridge and in to your "cellar". And yes, leaving them in the fridge will not be good from an aging point of view and yes, the corks are likely to dry out in the fridge.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5" InstanceType="answer">
+			<PostId>875</PostId>
+			<ParentPostId>845</ParentPostId>			<Tags>
+				<tag>temperature</tag>
+				<tag>aging</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-11T18:18:57.567</CreationDate>
+				<LastActivityDate>2014-06-11T18:18:57.567</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>802</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It won't hurt the beer to take it out of the fridge.  Work done by Dr. Charles Bamforth has suggested that every extra 10 degrees Celcius of temperate cuts doubles the speed of beer deterioration.  So, if you pull them out and store them at cellar temp (~55 F), they'll age about twice as fast.  Dark is definitely good. Higher humidity vertical storage is preferential to horizontal storage in a bottle conditioned beer, as you'll want particulate settling in the bottom.&lt;/p&gt;
+
+					&lt;p&gt;You can see an interview with Charlie &lt;a href="http://beersmith.com/blog/2014/01/31/flavor-stability-in-beer-with-dr-charlie-bamforth-beersmith-podcast-74/" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6" InstanceType="answer">
+			<PostId>4933</PostId>
+			<ParentPostId>4931</ParentPostId>			<Tags>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-07T07:54:28.453</CreationDate>
+				<LastActivityDate>2016-04-07T07:54:28.453</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It’s tough to generalize, but most crisp whites have a best-before date of roughly two years from the vintage date on the label.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7" InstanceType="answer">
+			<PostId>4949</PostId>
+			<ParentPostId>4931</ParentPostId>			<Tags>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-11T20:03:00.390</CreationDate>
+				<LastEditDate>2016-04-11T20:30:50.327</LastEditDate>
+				<LastActivityDate>2016-04-11T20:30:50.327</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4903</OwnerUserId>
+				<LastEditorUserId>4903</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Open and smell and you will know right away. If it smells OK then give it a taste.  If it has gone bad you will know.   &lt;/p&gt;
+
+					&lt;p&gt;A couple years as answered by Jamie. &lt;/p&gt;
+
+					&lt;p&gt;In the fridge I have stored over two years and it was fine.  If you don't drink your white fast then best to store it in the fridge.  Even if you drink them fast then store in the fridge as they are best served chilled. &lt;/p&gt;
+
+					&lt;p&gt;Whites (that I know of) don't get better with age so no reason age them.&lt;/p&gt;
+
+					&lt;p&gt;If it has gone bad then you can use it as white wine vinegar.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8" InstanceType="answer">
+			<PostId>5094</PostId>
+			<ParentPostId>5092</ParentPostId>			<Tags>
+				<tag>whiskey</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-14T13:37:30.777</CreationDate>
+				<LastEditDate>2016-06-18T00:27:28.897</LastEditDate>
+				<LastActivityDate>2016-06-18T00:27:28.897</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5078</OwnerUserId>
+				<LastEditorUserId>49</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;The bottle you are talking about will be 6 years old: it ages from the day of distillation and it will stop aging once it has been bottled (properties can change but for all intents and purposes it has stopped aging once it has been bottled)&lt;/p&gt;
+
+					&lt;p&gt;I would even go on to say that it will pretty much be impossible to find a whiskey that is from this year as they will need some time to distill and bottle. I would say the earliest you will be able to get a whiskey distilled in 2016 would be about 4 years from now as whiskey takes time to make, so be patient you will be able to get a bottle from 2016 just not yet.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9" InstanceType="answer">
+			<PostId>5095</PostId>
+			<ParentPostId>5092</ParentPostId>			<Tags>
+				<tag>whiskey</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-06-14T14:08:16.297</CreationDate>
+				<LastEditDate>2016-06-14T15:17:48.667</LastEditDate>
+				<LastActivityDate>2016-06-14T15:17:48.667</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4394</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;You can buy a cask of newly made whisky.&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://Arranwhisky.com/cask-offer" rel="nofollow"&gt;Arran whisky&lt;/a&gt; offers a newly barreled whisky, price includes insurance and 10 years of bond storage.  It's £1850 for 200 liters.  After 10 years they'll bottle it at £30 per 12 bottle crate and you can sell it or drink it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10" InstanceType="answer">
+			<PostId>6236</PostId>
+			<ParentPostId>6235</ParentPostId>			<Tags>
+				<tag>age</tag>
+				<tag>spirits</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-17T08:19:43.107</CreationDate>
+				<LastActivityDate>2016-08-17T08:19:43.107</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5734</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It depends on where and how long you store them.&lt;/p&gt;
+
+					&lt;p&gt;In a cabinet or in a showcase with glass windows, the light is affecting the aging and changing progress.
+					I made experiences with 15 year old Whiskeys, Bourboun and Scotch which were very much affected because they were opened before(to the point where it wasn't drinkable anymore).&lt;/p&gt;
+
+					&lt;p&gt;In your case, it is important how long you store your bottle, if it is under one or two years, from my experience, you should be fine because high percentage beverages last very long.&lt;/p&gt;
+
+					&lt;p&gt;As a reference, the same goes for &lt;a href="http://www.popsugar.com/food/How-Tell-Wine-Has-Gone-Bad-2742039" rel="nofollow"&gt;wine&lt;/a&gt; but in a much lesser quantity of time.&lt;/p&gt;
+
+					&lt;p&gt;I hope this helps you a bit.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11" InstanceType="answer">
+			<PostId>6238</PostId>
+			<ParentPostId>6235</ParentPostId>			<Tags>
+				<tag>age</tag>
+				<tag>spirits</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-17T18:14:29.853</CreationDate>
+				<LastEditDate>2016-08-17T18:19:58.737</LastEditDate>
+				<LastActivityDate>2016-08-17T18:19:58.737</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5771</OwnerUserId>
+				<LastEditorUserId>5771</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have never head of safety concerns, especially if the bottle is properly recapped, but what often is an issue is oxidization, and exposure to sunlight.&lt;/p&gt;
+
+					&lt;p&gt;It happens much more slowly to liquors than to things like foods or wines, but every time you open the bottle you let oxygen get in, especially so the first opening, which will affect it though its really only slightly. The sunlight has similar affects on the spirits, to a similar magnitude (i.e. not very much).&lt;/p&gt;
+
+					&lt;p&gt;Vodka for example should be fine nearly indefinitely if properly kept, but whiskeys, gins, tequilas, rums, and the more complex liquors will degrade (again, only slightly and slowly). I've heard people say they can taste changes in 3-4 months, others years, but even if you have a bottle around for a year or two I really wouldn't have any concerns (I'm kinda skeptical of the 3-4 month people)&lt;/p&gt;
+
+					&lt;p&gt;I've had whiskeys and rums left around for 4-5 years after opening. They weren't great spirits themselves, but there was nothing unpalatable about them.&lt;/p&gt;
+
+					&lt;p&gt;If you are concerned, I would just keep your spirits in a cool, dry, dark space and then you probably don't have to give it a second thought.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12" InstanceType="answer">
+			<PostId>6242</PostId>
+			<ParentPostId>6235</ParentPostId>			<Tags>
+				<tag>age</tag>
+				<tag>spirits</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-19T12:25:29.503</CreationDate>
+				<LastEditDate>2016-08-20T00:34:09.580</LastEditDate>
+				<LastActivityDate>2016-08-20T00:34:09.580</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5064</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Wow, your question bring back memories.&lt;/p&gt;
+
+					&lt;p&gt;My grandfather collected bottle of various hard liquors while in the military (World War II) and had them in a liquor cabinet in the basement. After the war, he stopped drinking and there in his cabinet where was a large number of bottles that were almost all opened, yet I would guess were at least 75% full. Occasionally we would have some at Christmas or some other occasions and they seemed quite fine to us back in the day. Some of his bottles were decades old.&lt;/p&gt;
+
+					&lt;p&gt;But in reality how long will hard liquor remain good?&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;There's no need to replace those decades-old bottles of gin and whisky. Distilled spirits like vodka, rum, whisky, tequila and gin don't ever spoil — even after opening. The taste, color or aroma may fade over time, but it'll hardly be noticeable. Keep the bottles tightly closed and store them in a cool area away from direct heat or sunlight. - &lt;a href="http://www.mnn.com/food/healthy-eating/photos/forever-foods-10-cooking-staples-that-can-outlast-you/hard-liquor" rel="noreferrer"&gt;Forever foods: 10 cooking staples that can outlast you&lt;/a&gt;&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;How Long Do Spirits Last?&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;&lt;strong&gt;Spirits&lt;/strong&gt;&lt;/p&gt;
+  
+					  &lt;p&gt;The easiest class of booze to keep, sprits will generally last forever—although that statement comes with a couple of caveats.&lt;/p&gt;
+  
+					  &lt;p&gt;Spirits are usually high enough in proof that their alcohol content will preserve them indefinitely. Of course, because of that same alcohol content, you need to be sure to store them in a cool place. Above a radiator is not the right answer.&lt;/p&gt;
+  
+					  &lt;p&gt;Spirits do not "get better" in the bottle; they do not generally develop additional flavors in glass. For a spirit to age in the sense that we mean when talking of aged spirits, they need to age in wood. Glass doesn't impart additional flavor or aroma.&lt;/p&gt;
+  
+					  &lt;p&gt;Two things will happen to spirits in glass, however: &lt;strong&gt;oxidation and evaporation.&lt;/strong&gt; As the booze reacts with oxygen, its flavors diminish over time. For short periods, this effect is subtle. Keep an open bottle of bourbon around a couple of months, and you probably won't notice any difference. Store it for years, though, and you might find it tastes a little flatter than when it was brand new.&lt;/p&gt;
+  
+					  &lt;p&gt;A small amount of evaporation from the bottle is inevitable and unavoidable; to make sure it stays just a small amount, though, remember what I said before: keep the booze in a cool place.&lt;/p&gt;
+  
+					  &lt;p&gt;But say you have a special bottle, something you want to keep around for a long time, and sip slowly over years. How can you protect the stuff inside? The simple answer is, &lt;strong&gt;transfer it into a smaller bottle.&lt;/strong&gt; A few remaining ounces of that perfect single-malt, stored in its original bottle, will continue to react with the oxygen that fills up the bottle. A smaller vessel simply has less room for that spirit-snuffing oxygen.&lt;/p&gt;
+  
+					  &lt;p&gt;Now, is this necessary? Probably only if you're a collector or true spirits enthusiast. I doubt most drinkers would notice. - &lt;a href="http://drinks.seriouseats.com/2012/09/cocktail-101-how-long-do-spirits-liqueurs-vermouth-last.html" rel="noreferrer"&gt;How Long Do Spirits Last? by Michael Dietsch&lt;/a&gt;&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;For further reading please see:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://www.thekitchn.com/does-liquor-ever-expire-straig-105435" rel="noreferrer"&gt;Does Liquor Ever Expire?&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://forums.egullet.org/topic/70667-how-long-does-liquor-last/" rel="noreferrer"&gt;How long does liquor last?&lt;/a&gt; &lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="http://www.stilltasty.com/articles/view/35" rel="noreferrer"&gt;9 Foods That Last Forever&lt;/a&gt; &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13" InstanceType="answer">
+			<PostId>7203</PostId>
+			<ParentPostId>7202</ParentPostId>			<Tags>
+				<tag>whiskey</tag>
+				<tag>age</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-03-03T14:53:10.513</CreationDate>
+				<LastEditDate>2018-03-16T11:46:39.313</LastEditDate>
+				<LastActivityDate>2018-03-16T11:46:39.313</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>187</OwnerUserId>
+				<LastEditorUserId>187</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;For blended whisky, the age is not generally considered a relevant factor. There will be a range of ages and whiskies in there, chosen to make the end result. &lt;/p&gt;
+
+					&lt;p&gt;Unless a particular blend has ages specified (the Grant's Family Reserve doesn't), all you can guarantee is that the youngest whisky is 3 years old. &lt;/p&gt;
+
+					&lt;p&gt;As an example, another Grant's whisky, the 12 year old, has whiskies that are 12 years old and older blended into it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

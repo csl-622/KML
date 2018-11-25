@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>340</PostId>
+			<AcceptedAnswerId>344</AcceptedAnswerId>
+			<Title>
+			"What should I expect from a Belgian double (dubbel)?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>dubbel</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>1845</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-26T21:44:11.193</CreationDate>
+				<LastEditDate>2018-06-25T16:03:42.993</LastEditDate>
+				<LastActivityDate>2018-06-25T16:03:42.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>215</OwnerUserId>
+				<LastEditorUserId>4962</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know dubbels are considered as strong beers, but what should I expect in when I try one of them?&lt;/p&gt;
+
+					&lt;p&gt;What are their defining characteristic? What should I expect in term of taste, foam, color and mouthfeel? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>602</PostId>
+			<AcceptedAnswerId>604</AcceptedAnswerId>
+			<Title>
+			"What are the difference between a dubbel and a tripel?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>classification</tag>
+				<tag>dubbel</tag>
+				<tag>tripel</tag>
+			</Tags>
+			<Credit> 
+				<Score>25</Score>
+				<ViewCount>7809</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-13T17:18:30.753</CreationDate>
+				<LastEditDate>2018-06-25T16:03:27.440</LastEditDate>
+				<LastActivityDate>2018-06-25T16:03:27.440</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>215</OwnerUserId>
+				<LastEditorUserId>4962</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;From a &lt;a href="https://alcohol.stackexchange.com/questions/212/what-is-being-doubled-or-tripled-in-a-doublebock-triple-bock"&gt;question about german beers&lt;/a&gt;, the difference between a doppelbock and triple bock seems to be simply about the abv and maltiness. Basically just a stronger version of the "single" bock. &lt;/p&gt;
+
+					&lt;p&gt;Is is the same difference for Belgian versions (dubbels and trippels)?&lt;/p&gt;
+
+					&lt;p&gt;From a &lt;a href="https://alcohol.stackexchange.com/questions/596/what-should-i-expect-from-a-belgian-triple-tripel?noredirect=1#comment680_596"&gt;comment&lt;/a&gt; I read, the difference seemed to be more complex, and I would like to get more information about it.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>4780</PostId>
+			<AcceptedAnswerId>4795</AcceptedAnswerId>
+			<Title>
+			"Why are dubbels generally dark while most tripels are not?"
+			</Title>
+			<Tags>
+				<tag>trappist</tag>
+				<tag>colour</tag>
+				<tag>dubbel</tag>
+				<tag>tripel</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>160</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-16T22:21:06.777</CreationDate>
+				<LastEditDate>2018-06-25T15:35:37.880</LastEditDate>
+				<LastActivityDate>2018-06-25T16:03:33.523</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4962</OwnerUserId>
+				<LastEditorUserId>4962</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In my experience, dubbels are often fairly dark, brown ales, while tripels are much clearer and lighter (of colour).&lt;/p&gt;
+
+					&lt;p&gt;Why is that?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

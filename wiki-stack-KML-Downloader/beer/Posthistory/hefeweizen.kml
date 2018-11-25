@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>1868</PostId>
+			<ParentPostId>675</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-19T15:30:22.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I remember the first hefeweizen I had. It was made by Widmer, and I didn't like it. The second time I tried it, I noticed there were pouring instructions on the box/bottle. 
+
+					The instructions said to pour two thirds of the beer in to a glass, swirl, then pour the remainder. They even have an [official YouTube video][1] on it. I gave it a try, and maybe it was my imagination, but it tasted surprisingly different. I liked it.
+
+					What does rolling/swirling a hefeweizen actually do?
+
+					  [1]: http://www.youtube.com/watch?v=RVrLrdbMSyg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>1869</PostId>
+			<ParentPostId>675</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-19T15:30:22.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does rolling/swirling a hefeweizen actually do?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>1870</PostId>
+			<ParentPostId>675</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-19T15:30:22.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					pouring, yeast, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>1926</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-29T14:57:04.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>412</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					White beer ("[witbier][1]" in Dutch) is a typical Dutch/Belgian thing, from research I found that it's wheat bear with flavours. This question is about the coriander flavour used in those beers.
+
+					The question is about the wheat bear siblings of white beer: Hefeweizen. Are there any hefeweizen that also are coriander-flavoured? To add a more subjective bonus question: are any of those commercially available?
+
+					I've tried [Googling][2], this mainly seems to lead to brewing recipes or extremely localized experiments. I've *assumed* (perhaps incorrectly) most if not all German candidates would be bound by the [Reinheitsgebot][3] and as such will not contain coriander. Finally, I've checked some Dutch beers (e.g. "Grolsch Weizen") marketed as "weizen" and the listed ingredients, but so far no dice.
+
+					To reiterate the question: **are there any hefeweizen beers with coriander commercially available?**
+
+
+					  [1]: http://en.wikipedia.org/wiki/Wheat_beer#Witbier
+					  [2]: https://www.google.nl/search?q=hefeweizen%20coriander
+					  [3]: http://beer.stackexchange.com/a/431/412
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>1927</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-29T14:57:04.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>412</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there Hefeweizen beers with coriander?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>1928</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-29T14:57:04.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>412</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1931</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-30T05:01:10.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/450135625115893760
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>3693</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-11T07:45:21.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Trento in Italy has a lot of German influence and especially when it comes to food and beer. They even serve their versions of German Weizenbier. see http://en.wikipedia.org/wiki/Trentino and http://www.tripadvisor.co.uk/Restaurants-g1493737-c21-Province_of_Trento_Trentino_Alto_Adige.html
+
+					Why is that so? Does anyone know whether there is a difference between Trento's German style beers and German German style beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>3694</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-11T07:45:21.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why does Trento Itay have such a range of German beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>3695</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-11T07:45:21.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, german-beers, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Body" >
+			<PostId>3700</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-15T20:49:10.687</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1309</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If I remember correctly, the website of Erdinger states their 'Dunkle Hefe' needs to be finished within just 3 days after opening. I know it isn't pasteurized but I wonder, can we stretch that a little? 3 days for a keg is kind of short....
+					Why is that anyways? Is it because the yeast settles?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Title" >
+			<PostId>3701</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-15T20:49:10.687</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1309</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How fast do I need to finish a Hefe Weissbier Keg?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Tags" >
+			<PostId>3702</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-15T20:49:10.687</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1309</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Unknown" >
+			<PostId>3706</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-17T00:32:54.740</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/512036438180114434
+			</EditDetails>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>3709</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-17T21:39:11.857</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/512355108827721728
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Edit Body" >
+			<PostId>3797</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:54:42.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				added link and heferweizen tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					If I remember correctly, the website of Erdinger states their 'Dunkle Hefe' needs to be finished within just 3 days after opening. I know it isn't pasteurized but I wonder, can we stretch that a little? 3 days for a keg is kind of short....
+					Why is that anyways? Is it because the yeast settles?
+
+					This [pdf][1] states a criteria for handling/maintaining the draft beer (Kriterien für Freigabe, Handhabung und Ausschank):
+
+
+					&gt; Gleichzeitige Überprüfung, ob 30 L oder 50 L-KEGs in einem Zeitraum
+					&gt; von drei Tagen leergezapft werden können
+
+
+
+					  [1]: http://www.erdinger.de/de/component/docman/doc_download/253-fassbierkonzept-fuer-erdinger-weissbier-im-offenen-ausschank.html?ItemId=101
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Tags" >
+			<PostId>3798</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:54:42.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				added link and heferweizen tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					german-beers, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>3799</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:54:42.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 123 approved by -1 edit id of 110
+			</EditDetails>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Edit Body" >
+			<PostId>3800</PostId>
+			<ParentPostId>1019</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-19T21:54:42.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added link and heferweizen tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					If I remember correctly, the website of Erdinger states their 'Dunkle Hefe' needs to be finished within just 3 days after opening. I know it isn't pasteurized but I wonder, can we stretch that a little? 3 days for a keg is kind of short....
+					Why is that anyways? Is it because the yeast settles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Tags" >
+			<PostId>9859</PostId>
+			<ParentPostId>1014</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:47:52.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					german-beers, hefeweizen, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Body" >
+			<PostId>12510</PostId>
+			<ParentPostId>697</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					White beer ("[witbier][1]" in Dutch) is a typical Dutch/Belgian thing, from research I found that it's wheat bear with flavours. This question is about the coriander flavour used in those beers.
+
+					The question is about the wheat bear siblings of white beer: Hefeweizen. Are there any hefeweizen that also are coriander-flavoured? To add a more subjective bonus question: are any of those commercially available?
+
+					I've tried [Googling][2], this mainly seems to lead to brewing recipes or extremely localized experiments. I've *assumed* (perhaps incorrectly) most if not all German candidates would be bound by the [Reinheitsgebot][3] and as such will not contain coriander. Finally, I've checked some Dutch beers (e.g. "Grolsch Weizen") marketed as "weizen" and the listed ingredients, but so far no dice.
+
+					To reiterate the question: **are there any hefeweizen beers with coriander commercially available?**
+
+
+					  [1]: http://en.wikipedia.org/wiki/Wheat_beer#Witbier
+					  [2]: https://www.google.nl/search?q=hefeweizen%20coriander
+					  [3]: https://alcohol.stackexchange.com/a/431/412
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

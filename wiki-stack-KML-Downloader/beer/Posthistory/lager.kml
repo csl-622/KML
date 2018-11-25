@@ -1,0 +1,1431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>20</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:37:12.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Apart from coming out of different taps, some ales seem very similar to lagers (although there are clearly a much greater variety of ales). Is there a difference in the way they are made?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>21</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:37:12.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between an ale and a lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>22</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:37:12.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ale, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>146</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:20:42.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In the UK at least, a great many beers are marketed with a regular version and a fancier (more expensive) 'imported' version. For example: Carlsberg and Carlsberg 'Export'. Is there any reason why the imported beer might be reasonably different (such as the legality of certain brewing methods outside of the UK) or is this just marketing fluff?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>147</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:20:42.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the deal with 'imported' beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>148</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:20:42.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Title" >
+			<PostId>216</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:42:09.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>47</UserId>
+			</Contributors>
+			<EditDetails>
+				made the question title more specific
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What's the difference between an "export" beer and a regular beer from the same brewer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>705</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T18:47:57.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is a black lager really a lager (in terms of yeast and brewing time)? Can I just throw in whatever would make a good stout but use lager yeast? If not, then how much play is there to the recipe?
+
+					I've got a little bit of experience brewing ales, mainly stout and brown ale. Just a few months ago I tried my first experiment, deviating a little from a recipe in my choice of malts and yeast, but still using a malt extract for my primary malt. I have zero experience with brewing lager.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>706</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T18:47:57.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I brew a black lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>707</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T18:47:57.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>181</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, lager, schwarzbier, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Post Closed" >
+			<PostId>715</PostId>
+			<ParentPostId>272</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T20:30:02.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":68,"DisplayName":"hunse"},{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":73,"DisplayName":"acheong87"},{"Id":37,"DisplayName":"Xander"},{"Id":22,"DisplayName":"Grohlier"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>1052</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T16:15:03.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/428561938965344256
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Body" >
+			<PostId>1121</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T16:08:05.340</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 2 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In the UK at least, a great many beers are marketed with a regular version and a fancier (more expensive) 'export' version. For example: Carlsberg and Carlsberg 'Export'. Is there any reason why the imported beer might be reasonably different (such as the legality of certain brewing methods outside of the UK) or is this just marketing fluff?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Tags" >
+			<PostId>1382</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:44.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<EditDetails>
+				terminology tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					terminology, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>1383</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:44.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 407 approved by 73, 60 edit id of 69
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1668</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-19T16:40:33.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436178503877558272
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>1808</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T01:18:59.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>443</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a difference between Black Lager and Dark Lager, or is it just the name?
+
+					Since the recipes for Dark/Black Lagers seem to be quite varied, it is hard to tell if there are any majorly different components.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>1809</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T01:18:59.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>443</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Difference between Dark Lager and Black Lager
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>1810</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T01:18:59.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>443</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, terminology, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Unknown" >
+			<PostId>1834</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-15T01:47:07.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/444650972481347584
+			</EditDetails>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>1976</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T05:37:01.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				2
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>2038</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-16T05:42:12.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				2
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>2172</PostId>
+			<ParentPostId>788</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-18T04:34:12.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've seen http://beer.stackexchange.com/q/705/43 and understand from the answer there that there are two basic reasons to use a glass with a wider bowl for beer: to concentrate armoas, or to reduce quantity for stronger beers.  (That question was about a stout.)
+
+					I don't have a *lot* of experience with this, but until now when I've ordered lagers they've generally come in a tall glass (not curved).  A few days ago I ordered a [Stella Artois](http://www.beeradvocate.com/beer/profile/169/449/) and it came in the following glass:&lt;sup&gt;1&lt;/sup&gt;
+
+					![glass][1]
+
+					(The glass was full when delivered; I didn't think to take a picture for this question right away.)
+
+					This glass does not concentrate aromas to the extent that a brandy snifter does; further, this beer did not seem to be particularly aromatic.  (I've never had this one before, which is why I ordered it.)  Nor is it a highly-alcoholic or expensive beer that they might want to serve in a smaller quantity.  I'd guess this glass to have been in the 10-12oz range.
+
+					Is there a benefit to the mildly curved shape of this glass for this type of beer?  I note that it's a Stella Artois glass, so presumably it's not *just* a bartender's arbitrary choice.
+
+					&lt;sup&gt;1&lt;/sup&gt; I was traveling, so I can't just go visit them again to see how they serve other beers.
+
+
+					  [1]: http://i.stack.imgur.com/jyK4j.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>2173</PostId>
+			<ParentPostId>788</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-18T04:34:12.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Glassware for lagers: why did my Stella Artois come in this kind of glass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>2174</PostId>
+			<ParentPostId>788</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-18T04:34:12.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					glassware, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Unknown" >
+			<PostId>2175</PostId>
+			<ParentPostId>788</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-18T16:11:12.697</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/468061248739737600
+			</EditDetails>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Body" >
+			<PostId>3624</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-13T10:40:56.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have noticed that when I spend a night drinking the usual lagers found on bar taps in the UK (Heineken, Carlsberg, etc.), I have a much worse hangover than when I spend a night drinking locally brewed real ales (or mass-produced real ales such as Spitfire, Wainwright, etc.).
+
+					Is there any reason for this? Do lagers contain any ingredients that can cause worse hangovers than real ales?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Title" >
+			<PostId>3625</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-13T10:40:56.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does drinking mainstream, mass-produced lagers give you a worse hangover than real ale?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Tags" >
+			<PostId>3626</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-13T10:40:56.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ale, lager, hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Unknown" >
+			<PostId>3692</PostId>
+			<ParentPostId>983</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-11T02:59:54.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/509899105209188352
+			</EditDetails>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>6104</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T05:45:02.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Corona Extra Dry is a Mexican beer that is very popular (in Australia anyway). Most people seem to like it for it's drinkability, and suitability for enjoyment in hot weather.
+
+					Is there a name for this style of lager? Eg; I don't think it's a pilsener or dark lager.
+
+					And what other beers are in the same style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>6105</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T05:45:02.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What style of lager is Corona? And what other beers are similar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>6106</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T05:45:02.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, lager, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Edit Body" >
+			<PostId>6107</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-15T07:52:30.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<EditDetails>
+				Removing incorrect part of the beer name
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Corona Extra is a Mexican beer that is very popular (in Australia anyway). Most people seem to like it for it's drinkability, and suitability for enjoyment in hot weather.
+
+					Is there a name for this style of lager? Eg; I don't think it's a pilsener or dark lager.
+
+					And what other beers are in the same style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>6195</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-28T17:32:39.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/560490649032867840
+			</EditDetails>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Body" >
+			<PostId>6454</PostId>
+			<ParentPostId>3347</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T00:55:35.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4045</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What made brewers in the 19th century decide to start using bottom-fermenting yeast and cooler fermenting temperatures? Were they trying to solve some specific problem, like making the best of available ingredients or dealing with cooler-than-ideal environments? Or were they just experimenting and trying to create something new?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Title" >
+			<PostId>6455</PostId>
+			<ParentPostId>3347</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T00:55:35.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4045</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why were lagers invented?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Tags" >
+			<PostId>6456</PostId>
+			<ParentPostId>3347</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T00:55:35.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4045</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>6459</PostId>
+			<ParentPostId>3350</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T08:49:22.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4024</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Lagers][1] traditionally were made in the colder months and stored (lagered) in caves. As lager yeast prefers a [colder fermentation and conditioning temperature][2] than ales, why is lager regularly made in hot, tropical climates around the world instead of more temperature tolerant ales, or just imported?
+
+					On a tour around the Tiger Brewery in Singapore where the average temperature is 30 deg C, the guide mentioned the brewery started in 1932 and used a "tropical lagering process". The guide wasn't sure of details, and I haven't found details elsewhere on this process.
+
+					Is it a simple matter of economics, that it's cheaper to brew lager locally even with climate control than to import, or is there a way to successfully brew lagers at high temperatures?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Lager
+					  [2]: https://www.wyeastlab.com/he_b_fermentation.cfm
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>6460</PostId>
+			<ParentPostId>3350</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T08:49:22.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4024</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do lagers get made in tropical climates?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>6461</PostId>
+			<ParentPostId>3350</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T08:49:22.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4024</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, temperature, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Unknown" >
+			<PostId>6837</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-29T23:17:19.467</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				6
+			</EditDetails>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Unknown" >
+			<PostId>6849</PostId>
+			<ParentPostId>8</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-02T06:06:21.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				6
+			</EditDetails>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Body" >
+			<PostId>7908</PostId>
+			<ParentPostId>4537</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-19T03:26:09.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4439</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I tend to go for darker beers, typically stouts and porters. 
+
+					Guinness is my usual go to when I'm at a bar or restaurant, but as appealing as "a meal in a glass" is, on occasion I find these to be a little too filling/heavy.
+
+					More recently I had the opportunity to try Köstritzer, which I guess would be classified as a black lager. It had the very familiar taste of a stout but without the filling quality. 
+
+					Black lager seems to be a rather generic category though, the title seems to cover a rather large variety of dark lagers and seems to be more about color than taste. 
+
+					Is there a more specific category I should be looking for?
+
+					Or perhaps better, does any one know any other beers that taste like a stout but with the light weight of a lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Title" >
+			<PostId>7909</PostId>
+			<ParentPostId>4537</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-19T03:26:09.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4439</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Looking for dark but not heavy
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Tags" >
+			<PostId>7910</PostId>
+			<ParentPostId>4537</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-19T03:26:09.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4439</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, style, stout, lager, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Unknown" >
+			<PostId>7947</PostId>
+			<ParentPostId>4537</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-24T14:00:08.987</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/635813847799083008
+			</EditDetails>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Body" >
+			<PostId>9256</PostId>
+			<ParentPostId>5038</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T10:06:05.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there any differences in the mainstream company lagers ?
+
+					I often see people go in to bars and just order a pint of larger even tho there are many different lagers available at the bar so this leads me to believe that most of the mainstream lagers don't actually taste that different from each other.
+
+					As I don't drink lagers I tend to stick to cask/real ales so larger all taste slimier to me anyways. 
+
+					So is there really any difference with these companies? 
+
+					**P.S**
+					&lt;br&gt;By mainstream I'm thinking: Fosters, Carling, Carlsberg etc...  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Title" >
+			<PostId>9257</PostId>
+			<ParentPostId>5038</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T10:06:05.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are different Lagers really all that different
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Tags" >
+			<PostId>9258</PostId>
+			<ParentPostId>5038</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T10:06:05.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Edit Body" >
+			<PostId>9339</PostId>
+			<ParentPostId>5038</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-03T17:25:27.700</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5441</UserId>
+			</Contributors>
+			<EditDetails>
+				put a critical detail (“mainstream”) in the title; copyediting: spelling and grammar, punctuation
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there any differences in the mainstream company lagers?
+
+					I often see people go into bars and just order a pint of lager, even though there are many different lagers available at the bar. This leads me to believe that most of the mainstream lagers don't actually taste that different from each other.
+
+					As I don't drink lagers — I tend to stick to cask/real ales — lagers all taste similar to me anyways. 
+
+					So is there really any difference with these companies' lagers? 
+
+					*P.S.*  
+					By mainstream mean Fosters, Carling, Carlsberg, etc...  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Edit Title" >
+			<PostId>9340</PostId>
+			<ParentPostId>5038</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-03T17:25:27.700</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5441</UserId>
+			</Contributors>
+			<EditDetails>
+				put a critical detail (“mainstream”) in the title; copyediting: spelling and grammar, punctuation
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are different mainstream Lagers really all that different?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Unknown" >
+			<PostId>9341</PostId>
+			<ParentPostId>5038</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-03T17:25:27.700</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5441 approved by 5078 edit id of 203
+			</EditDetails>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Unknown" >
+			<PostId>9348</PostId>
+			<ParentPostId>5038</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-04T17:23:40.263</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/739145607588237312
+			</EditDetails>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Body" >
+			<PostId>11390</PostId>
+			<ParentPostId>6403</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-28T18:34:31.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6146</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would be interested to know these two things: 
+
+					(1): What are the ratings in IBU of common lagers: e.g. Stella, Kronenbourg, Fosters, Becks, Heineken, San Miguel, Corona? Are there major differences? 
+
+					(2): Same question RE: Hoppyness/Hop content. 
+
+					E.g. I like Stella and not Becks. Then my friend told me that's because Stella is more bitter. However I have no way of knowing for sure... hence the question. 
+
+					I like IPAs and I hate stouts. However the differences between lagers is difficult to perceive for me. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Title" >
+			<PostId>11391</PostId>
+			<ParentPostId>6403</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-28T18:34:31.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6146</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the IBUs (bitterness units) of common lagers? Also, what are hop contents?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Tags" >
+			<PostId>11392</PostId>
+			<ParentPostId>6403</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-28T18:34:31.360</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6146</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Unknown" >
+			<PostId>11636</PostId>
+			<ParentPostId>6403</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-22T06:50:59.687</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/823060374626926592
+			</EditDetails>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Body" >
+			<PostId>11731</PostId>
+			<ParentPostId>6522</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-12T21:51:18.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've had coffee stouts a number of different places. This seems to be a fairly common additive at American microbreweries. However, it seems like they are always adding coffee to stouts. I was wondering if any breweries are adding it to a lighter beer like a lager where the coffee flavor could more fully dominate.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Title" >
+			<PostId>11732</PostId>
+			<ParentPostId>6522</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-12T21:51:18.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do coffee lagers exist?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Tags" >
+			<PostId>11733</PostId>
+			<ParentPostId>6522</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-12T21:51:18.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Unknown" >
+			<PostId>11748</PostId>
+			<ParentPostId>6522</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-13T23:43:50.737</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/831287799865282562
+			</EditDetails>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Edit Body" >
+			<PostId>12511</PostId>
+			<ParentPostId>788</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've seen https://alcohol.stackexchange.com/q/705/43 and understand from the answer there that there are two basic reasons to use a glass with a wider bowl for beer: to concentrate armoas, or to reduce quantity for stronger beers.  (That question was about a stout.)
+
+					I don't have a *lot* of experience with this, but until now when I've ordered lagers they've generally come in a tall glass (not curved).  A few days ago I ordered a [Stella Artois](http://www.beeradvocate.com/beer/profile/169/449/) and it came in the following glass:&lt;sup&gt;1&lt;/sup&gt;
+
+					![glass][1]
+
+					(The glass was full when delivered; I didn't think to take a picture for this question right away.)
+
+					This glass does not concentrate aromas to the extent that a brandy snifter does; further, this beer did not seem to be particularly aromatic.  (I've never had this one before, which is why I ordered it.)  Nor is it a highly-alcoholic or expensive beer that they might want to serve in a smaller quantity.  I'd guess this glass to have been in the 10-12oz range.
+
+					Is there a benefit to the mildly curved shape of this glass for this type of beer?  I note that it's a Stella Artois glass, so presumably it's not *just* a bartender's arbitrary choice.
+
+					&lt;sup&gt;1&lt;/sup&gt; I was traveling, so I can't just go visit them again to see how they serve other beers.
+
+
+					  [1]: http://i.stack.imgur.com/jyK4j.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Body" >
+			<PostId>13376</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-02T10:39:05.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5021</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					If one wants to buy alcohol-free beer in a supermarket, the most common beer style is Lager/Pilsner. I have never seen other styles such as alcohol-free Witbier, IPA, Stout etc. in a store, but from doing a quick online research I learned that such beer does exist.
+
+					Is Lager/Pilsner the most common style for alcohol-free beers because it is the most popular style for normal beer as well, or are there some technical limitations during the brewing process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Title" >
+			<PostId>13377</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-02T10:39:05.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5021</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is Lager/Pilsner the most common beer style for alcohol-free beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Tags" >
+			<PostId>13378</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-02T10:39:05.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5021</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Unknown" >
+			<PostId>13380</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-03T09:59:57.820</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/926388470959964161
+			</EditDetails>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Edit Tags" >
+			<PostId>13548</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T02:16:35.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7272</UserId>
+			</Contributors>
+			<EditDetails>
+				adding tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					style, lager, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Unknown" >
+			<PostId>13549</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-14T02:16:35.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7272 approved by 938, 43 edit id of 317
+			</EditDetails>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Body" >
+			<PostId>13724</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-01T19:44:37.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently ordered a sensory training kit from Siebel Institute. In short, glass vials of liquid isolating flavors (including off-flavors and contamination) commonly found in beer.
+
+					The instructions explain how to spike samples of beer, but say nothing about how to select a suitable beer:
+
+					[![enter image description here][1]][1]
+
+					I'll be hosting a party of six, and our tastes vary wildly: from craft drinkers to macro drinkers, and an enologist (winemaker).
+
+					**How should I select the base beer(s) to help us get the most out of this experience?**
+
+					 - Should we all have the same beer? If so, a macro, even though some dislike them? Or should I pick something like a pilsner?
+
+					 - Or should I have two tiers, a macro and something else? (What kind of ale would be appropriate?)
+
+					  [1]: https://i.stack.imgur.com/d8WFw.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Title" >
+			<PostId>13725</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-01T19:44:37.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's a good (neutral) sample beer to spike with a sensory training kit?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Tags" >
+			<PostId>13726</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-01T19:44:37.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, lager, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Unknown" >
+			<PostId>13742</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-09T14:38:36.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/961972603983364096
+			</EditDetails>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Edit Tags" >
+			<PostId>14357</PostId>
+			<ParentPostId>6522</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-19T09:44:58.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6255</UserId>
+			</Contributors>
+			<EditDetails>
+				tags edited
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Unknown" >
+			<PostId>14358</PostId>
+			<ParentPostId>6522</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-19T09:44:58.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6255 approved by 5078 edit id of 335
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

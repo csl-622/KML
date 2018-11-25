@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>245</PostId>
+			<AcceptedAnswerId>248</AcceptedAnswerId>
+			<Title>
+			"What are the effects of draught beer pushing medium on beer's taste and quality?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>draught</tag>
+				<tag>gas</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>81</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T02:44:18.310</CreationDate>
+				<LastActivityDate>2014-01-23T05:24:08.137</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>165</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;For pushing of beer out of a keg to the line and faucet various media could be used. Usually they are gases which come into a direct contact with the beer like: carbon dioxide, nitrogen, carbon dioxide + nitrogen, air etc.&lt;/p&gt;
+
+					&lt;p&gt;The beer could be also contained in a polypropylene sack to not come into contact with the pushing gas for example to avoid oxidization caused by the oxygen from air.&lt;/p&gt;
+
+					&lt;p&gt;What are the effects of various pushing media on the taste, durability and quality of the beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>607</PostId>
+			<AcceptedAnswerId>610</AcceptedAnswerId>
+			<Title>
+			"Are there any beer styles that are served flat?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>gas</tag>
+			</Tags>
+			<Credit> 
+				<Score>20</Score>
+				<ViewCount>7526</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-15T03:18:09.793</CreationDate>
+				<LastEditDate>2017-04-13T12:46:00.997</LastEditDate>
+				<LastActivityDate>2018-01-31T14:44:38.887</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I thought of this question when I've read the one about &lt;a href="https://alcohol.stackexchange.com/questions/597/are-there-any-beer-styles-that-are-best-enjoyed-hot"&gt;mulled beer&lt;/a&gt;. I thought heating the beer would make it lose carbonation, but then I've read somewhere that you have to &lt;a href="https://homebrew.stackexchange.com/questions/2652/what-would-make-a-good-mulled-ale"&gt;carbonate&lt;/a&gt; the mulled beer as well.&lt;/p&gt;
+
+					&lt;p&gt;So are there any beer styles that are served without carbonation or nitrogenation? I myself think that there are probably none, but I'm no beer expert (yet :D).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>718</PostId>
+			<AcceptedAnswerId>719</AcceptedAnswerId>
+			<Title>
+			"Does real ale make you fart more than lager?"
+			</Title>
+			<Tags>
+				<tag>ale</tag>
+				<tag>gas</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>4201</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-09T13:07:27.133</CreationDate>
+				<LastActivityDate>2014-04-09T15:41:12.777</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>608</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've read anecdotal evidence that says that real ale, though not as gassy as lager, makes you fart more.&lt;/p&gt;
+
+					&lt;p&gt;Is there any truth to this and does it apply to ales in general or just certain types?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

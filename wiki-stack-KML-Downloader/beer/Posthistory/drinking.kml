@@ -1,0 +1,2283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>42</PostId>
+			<ParentPostId>16</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:45:55.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When going out for some beers, after a while, I seem to pee more than the amount of beer I drink. Is that true, and why is that?
+
+					![enter image description here][1]
+
+
+					  [1]: http://i.stack.imgur.com/rL13S.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>43</PostId>
+			<ParentPostId>16</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:45:55.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do I seem to pee out more beer than I drink?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>44</PostId>
+			<ParentPostId>16</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:45:55.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>49</PostId>
+			<ParentPostId>21</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:46.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I frequently hear stories about people drinking their favorite pilsener, and not liking the other brand because "they'll get a hangover when drinking that brand".
+
+					Is there a truth in this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>50</PostId>
+			<ParentPostId>21</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:46.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can one pilsener cause a hangover when another doesn't?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>51</PostId>
+			<ParentPostId>21</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:48:46.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>12</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hangover, drinking, pilsener, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>301</PostId>
+			<ParentPostId>122</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:57:01.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>81</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I can not drink beer fast. So when I opened a bottle or can or poured my beer into a glass, it starts to became warm aand untasty with time. When I am out, or in a bar, I d onat have much chance in keeping it cold.
+
+					In room conditions, how long can I drink my beer before it started to get warmer and its taste begin to change?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>302</PostId>
+			<ParentPostId>122</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:57:01.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>81</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In how much time should I finish opened beer before it became untasty
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>303</PostId>
+			<ParentPostId>122</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:57:01.900</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>81</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Body" >
+			<PostId>310</PostId>
+			<ParentPostId>122</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:03:36.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>81</UserId>
+			</Contributors>
+			<EditDetails>
+				added 47 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I can not drink beer fast. So when I opened a bottle or can or poured my beer into a glass, it starts to became warm aand untasty with time. When I am out, or in a bar, I d onat have much chance in keeping it cold.
+
+					In room conditions, how long can I drink my beer before it started to get warmer and its taste begin to change when it comes directly from fridge or a cooler?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Edit Body" >
+			<PostId>317</PostId>
+			<ParentPostId>122</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:09:52.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				fixed spelling and grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I cannot drink beer fast. So when I opened a bottle or can or poured my beer into a glass, it starts to became warm and untasty with time. When I am out, or in a bar, I cannot really keep it cold.
+
+					At room temperature, how long can I drink my beer before it starts to get warmer and the taste begins to change when it comes directly from fridge or a cooler?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Edit Title" >
+			<PostId>318</PostId>
+			<ParentPostId>122</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:09:52.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				fixed spelling and grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How long does it take for beer to become untasty?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>319</PostId>
+			<ParentPostId>122</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:09:52.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 90 approved by 81 edit id of 15
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Post Closed" >
+			<PostId>327</PostId>
+			<ParentPostId>122</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:21:42.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":17,"DisplayName":"Jon Ericson"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Body" >
+			<PostId>463</PostId>
+			<ParentPostId>186</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:27:35.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					You see it in advertising all the time, wine and high quality spirits are the cultured, immaculately dressed set with the pearls and expensive cars in the "high class", expensive settings, and beer is the tailgating, short skirted waitress crowd.
+
+					With the advent of home brewing, micro breweries and increased interest in higher quality and craft beers, is there a way to change the social perception of the beer crowd, or should we simply relegate ourselves to being the lower class cousin?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Title" >
+			<PostId>464</PostId>
+			<ParentPostId>186</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:27:35.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can the social perception of beer be changed?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Tags" >
+			<PostId>465</PostId>
+			<ParentPostId>186</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:27:35.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Post Closed" >
+			<PostId>622</PostId>
+			<ParentPostId>186</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T23:48:37.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":42,"DisplayName":"Sam Whited"},{"Id":43,"DisplayName":"Monica Cellio"},{"Id":37,"DisplayName":"Xander"},{"Id":87,"DisplayName":"dwjohnston"},{"Id":148,"DisplayName":"Greg"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Body" >
+			<PostId>752</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T06:44:00.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It's happened to the best of us: you really want a nice hefeweizen or maybe a good bitter, but all you have are room-temperature bottles.  Short of waiting an hour or so or (god forbid) putting ice in it, how can a bottle or can of beer be effectively cooled quickly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Title" >
+			<PostId>753</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T06:44:00.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are some ways to quickly cool a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Tags" >
+			<PostId>754</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T06:44:00.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>1011</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T04:15:03.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/428380744516661248
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>1202</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T21:55:39.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It's often recommended that you drink water before and during a heavy drinking session.  Why is it that, despite being mostly water, beer dehydrates you?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>1203</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T21:55:39.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why does beer dehydrate you?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>1204</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-31T21:55:39.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, water, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Unknown" >
+			<PostId>1358</PostId>
+			<ParentPostId>16</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T04:30:12.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/430921273485832192
+			</EditDetails>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Post Closed" >
+			<PostId>1452</PostId>
+			<ParentPostId>479</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T04:14:02.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[16],"Voters":[{"Id":80,"DisplayName":"Fishtoaster"},{"Id":27,"DisplayName":"object88"},{"Id":112,"DisplayName":"mdma"},{"Id":36,"DisplayName":"crownjewel82"},{"Id":130,"DisplayName":"SF."}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>3650</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-19T03:53:45.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1228</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Background: I was drinking a New Belgium "Tour de Fall" last week and thinking about the hops that I was tasting in the finish. For me, hops in general were a pretty slowly acquired taste, and I didn't start truly appreciating the hoppy West Coast style until I encountered Sierra Nevada "Torpedo" and fell in love.
+
+					Now I finally find myself wanting to get to know specific varieties of hops by flavor and scent. Amarillo, Cascade, and so on - I know there are dozens and dozens of varieties, but how do I start training myself to recognize their differences (and identify the most common varieties) in the drink itself? 
+
+					Should I buy some hops from a supply store, and huff 'em like a soccer mom in a fabric softener commercial? Or would that be totally different from what comes through in a beer? Would it be better to find a stool at a local brewery/brewpub and ask for a lesson in liquid form?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>3651</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-19T03:53:45.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1228</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I learn to recognize different varieties of hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>3652</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-19T03:53:45.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1228</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, hops, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>3665</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-27T17:13:27.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/504678088543055872
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>3721</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T09:50:00.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Once I had couple of large beers. After that I've got acidity.
+					So Is it OK to take antacid tablet after drinking beer?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>3722</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T09:50:00.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it ok to take antacid tablet after drinking beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>3723</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T09:50:00.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, pairing, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>3741</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-30T01:23:08.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/516760121964503042
+			</EditDetails>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Body" >
+			<PostId>4952</PostId>
+			<ParentPostId>2127</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-11T08:41:37.863</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2603</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently traveled to Prague where beer was extremely cheap, usually around $1-$2 USD in supermarkets for 16 oz. cans. Even brands like Heineken and Stella were this cheap. What are the main factors for this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Title" >
+			<PostId>4953</PostId>
+			<ParentPostId>2127</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-11T08:41:37.863</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2603</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is beer in Czech Republic so cheap?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Tags" >
+			<PostId>4954</PostId>
+			<ParentPostId>2127</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-11T08:41:37.863</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2603</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Unknown" >
+			<PostId>5010</PostId>
+			<ParentPostId>2127</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-25T09:42:42.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/548051197551472640
+			</EditDetails>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Question Protected" >
+			<PostId>6432</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-17T03:24:28.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Body" >
+			<PostId>8055</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My friends says if you eat some bread it will absorb the alcohol and make you high less. is it true?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Title" >
+			<PostId>8056</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Eat bread before drink beer make you drunk less?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Tags" >
+			<PostId>8057</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Body" >
+			<PostId>8733</PostId>
+			<ParentPostId>4854</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-23T08:39:42.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5122</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Basically looking for some examples of funny/ innuendo beer names for inspiration.
+
+					There are some great ones here: http://www.findmeagift.co.uk/topics/ultimate-list-of-funny-beer-names
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Title" >
+			<PostId>8734</PostId>
+			<ParentPostId>4854</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-23T08:39:42.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5122</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are some good examples of double entendre beer names?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Tags" >
+			<PostId>8735</PostId>
+			<ParentPostId>4854</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-23T08:39:42.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5122</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Post Closed" >
+			<PostId>8967</PostId>
+			<ParentPostId>4854</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T18:30:09.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Edit Tags" >
+			<PostId>9846</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:34:54.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Body" >
+			<PostId>10927</PostId>
+			<ParentPostId>6245</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-22T17:20:43.493</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5807</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Ok, so I'm 17 and only recently started drinking.
+					I'm experimenting and learning, I'm looking to drink for nothing but pleasure, no exaggerations or excesses.
+
+					So, you look at a label and you see x% alcohol, which means, well what it means.
+
+					And what I intend to know is how much actual "pure" alcohol would be safe to drink on a daily basis, so I can do the math and find out how much of each drink I can drink in a day and stay as healthy as I've ever been.
+
+
+					Thank you.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Title" >
+			<PostId>10928</PostId>
+			<ParentPostId>6245</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-22T17:20:43.493</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5807</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How much actual alcohol is safe to drink per day?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Tags" >
+			<PostId>10929</PostId>
+			<ParentPostId>6245</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-22T17:20:43.493</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5807</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Edit Body" >
+			<PostId>10930</PostId>
+			<ParentPostId>6245</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-22T17:27:43.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5807</UserId>
+			</Contributors>
+			<EditDetails>
+				added 37 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Ok, so I'm 17 and only recently started drinking.
+					I'm experimenting and learning, I'm looking to drink for nothing but pleasure, no exaggerations or excesses.
+
+					So, you look at a label and you see x% alcohol, which means, well what it means.
+
+					And what I intend to know is how much actual "pure" alcohol would be safe to drink on a daily basis, so I can do the math and find out how much of each drink I can drink in a day and stay as healthy as I've ever been.
+
+					(I'm ~1.6m tall, and weigh ~57Kg)
+
+
+					Thank you.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Unknown" >
+			<PostId>11003</PostId>
+			<ParentPostId>6245</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-03T17:11:05.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/772119736993902593
+			</EditDetails>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Body" >
+			<PostId>11042</PostId>
+			<ParentPostId>6283</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-14T07:45:51.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5905</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I always heard that Jagermeister is very healthy for you and is a great digestive ,is all this true?Would a shot of Jagermeister make me more healthier or would the alcohol just be damaging me in time?
+					&lt;p&gt; This is my first question on this site so sorry if I didn't formulated it quite well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Title" >
+			<PostId>11043</PostId>
+			<ParentPostId>6283</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-14T07:45:51.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5905</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Jagermeister healthy for you?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Tags" >
+			<PostId>11044</PostId>
+			<ParentPostId>6283</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-14T07:45:51.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5905</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Body" >
+			<PostId>11112</PostId>
+			<ParentPostId>6315</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-01T14:44:05.923</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I drink tea.  I had a thought about putting something into it.  What good alcohol can I think about putting into the tea?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Title" >
+			<PostId>11113</PostId>
+			<ParentPostId>6315</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-01T14:44:05.923</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What alcohol would go good with tea?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Tags" >
+			<PostId>11114</PostId>
+			<ParentPostId>6315</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-01T14:44:05.923</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Edit Tags" >
+			<PostId>11115</PostId>
+			<ParentPostId>6315</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-01T15:46:22.653</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, recommendations, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Unknown" >
+			<PostId>11133</PostId>
+			<ParentPostId>6315</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-05T09:03:47.760</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/783593517184581636
+			</EditDetails>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Edit Body" >
+			<PostId>11257</PostId>
+			<ParentPostId>4854</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-18T22:32:21.280</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Basically looking for some examples of funny/ innuendo beer names for inspiration.
+
+					There are some great ones here: [Beer Brands: The Ultimate List of the 50 Funniest, Stupidest and Best Beer Names...In The World, Ever](http://www.findmeagift.co.uk/topics/ultimate-list-of-funny-beer-names).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Initial Body" >
+			<PostId>11264</PostId>
+			<ParentPostId>6356</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-20T12:55:59.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What alcohol products go well with a particular type of coffee?
+
+					I enjoy the odd [Irish Coffee][1] occasionally.
+
+					Desiring to expand my coffee/alcohol combos, I would like to know what types of coffee goes well with what type of alcohol?
+ 
+					Any recommendations would be greatly appreciated.
+
+					  [1]: https://en.wikipedia.org/wiki/Irish_coffee
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Title" >
+			<PostId>11265</PostId>
+			<ParentPostId>6356</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-20T12:55:59.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What alcohol products go well with a particular type of coffee?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Tags" >
+			<PostId>11266</PostId>
+			<ParentPostId>6356</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-20T12:55:59.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, recommendations, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Edit Title" >
+			<PostId>11304</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-25T16:57:33.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6042</UserId>
+			</Contributors>
+			<EditDetails>
+				Upon first glance, I thought this was an agricultural question. As this references the flavor and aroma, I made a small edit suggestion to the title.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How can I learn to recognize the flavor and aroma of different varieties of hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Unknown" >
+			<PostId>11305</PostId>
+			<ParentPostId>995</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-25T16:57:33.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6042 approved by 5064, 1228 edit id of 283
+			</EditDetails>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Initial Body" >
+			<PostId>11464</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T13:24:18.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Most places celebrate the [Feast of the Epiphany][1] on January 6. 
+
+					Are there any local, traditional drinks that exist that people have as a way celebrating this feast in a local and traditional manner?
+
+
+
+
+					  [1]: https://en.wikipedia.org/wiki/Epiphany_(holiday)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Initial Title" >
+			<PostId>11465</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T13:24:18.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Traditional drinks for celebrating the Feast of the Epiphany?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Tags" >
+			<PostId>11466</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T13:24:18.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					local, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Edit Body" >
+			<PostId>11467</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T15:23:20.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Made an update.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Most places celebrate the [Feast of the Epiphany][1] on January 6. 
+
+					Are there any local, traditional drinks that exist that people have as a way celebrating this feast in a local and traditional manner?
+
+					Update: I am limiting this question to wines.
+
+
+
+
+					  [1]: https://en.wikipedia.org/wiki/Epiphany_(holiday)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Edit Tags" >
+			<PostId>11468</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T15:35:42.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					local, drinking, wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Unknown" >
+			<PostId>11471</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-21T16:16:39.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/811606314715582471
+			</EditDetails>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Body" >
+			<PostId>11485</PostId>
+			<ParentPostId>6440</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-23T13:28:40.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does anyone know of any bartenders inventing their own inventive Christmas season drinks that are sold locally in their pub or bar?
+
+					I am looking for examples in which the bartender himself is the originator of the drink in question. 
+
+					If yes, could one explain what the drink is and if it is to symbolizes anything related to the Christmas season.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Title" >
+			<PostId>11486</PostId>
+			<ParentPostId>6440</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-23T13:28:40.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do Bartenders ever make their own inventive drinks for the Christmas holidays in bars?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Tags" >
+			<PostId>11487</PostId>
+			<ParentPostId>6440</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-23T13:28:40.947</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, bartending, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Initial Body" >
+			<PostId>11526</PostId>
+			<ParentPostId>6458</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-29T15:07:36.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6243</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I read several times in media about people who were harmed or even killed by drinking adulterated schnaps. 
+
+					What does it mean to aldurate e.g. schnaps? Why is it so dangerous? And what is the "benefit" of doing this, if it harms people? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Initial Title" >
+			<PostId>11527</PostId>
+			<ParentPostId>6458</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-29T15:07:36.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6243</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What means to aldurate and why is it so dangerous?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Initial Tags" >
+			<PostId>11528</PostId>
+			<ParentPostId>6458</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-29T15:07:36.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6243</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Edit Body" >
+			<PostId>11531</PostId>
+			<ParentPostId>6458</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-29T20:08:29.280</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6243</UserId>
+			</Contributors>
+			<EditDetails>
+				added 2 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I read several times in media about people who were harmed or even killed by drinking adulterated schnaps. 
+
+					What does it mean to adulterate e.g. schnaps? Why is it so dangerous? And what is the "benefit" of doing this, if it harms people? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Edit Title" >
+			<PostId>11532</PostId>
+			<ParentPostId>6458</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-29T20:08:29.280</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6243</UserId>
+			</Contributors>
+			<EditDetails>
+				added 2 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What means to adulterate and why is it so dangerous?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Unknown" >
+			<PostId>11538</PostId>
+			<ParentPostId>6458</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-31T01:58:27.553</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/815014222203678720
+			</EditDetails>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Initial Body" >
+			<PostId>11543</PostId>
+			<ParentPostId>6464</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-01T21:44:12.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Absinthe][1] has been said to cause insanity, permanent brain-damage and/or hallucinatory state.
+
+					Is this accurate?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Absinthe
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Title" >
+			<PostId>11544</PostId>
+			<ParentPostId>6464</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-01T21:44:12.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is the saying true that drinking absinthe drives a person insane?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Tags" >
+			<PostId>11545</PostId>
+			<ParentPostId>6464</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-01T21:44:12.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, drinking, absinthe, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Initial Body" >
+			<PostId>11550</PostId>
+			<ParentPostId>6468</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-02T18:17:58.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the National Drinking Holidays? And, for what respective country? i.e.: Oktoberfest for Germany
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Initial Title" >
+			<PostId>11551</PostId>
+			<ParentPostId>6468</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-02T18:17:58.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there National Drinking Holidays?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Initial Tags" >
+			<PostId>11552</PostId>
+			<ParentPostId>6468</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-02T18:17:58.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, holidays, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Edit Tags" >
+			<PostId>11559</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-03T06:01:53.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<EditDetails>
+				adding holidays and history tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, local, drinking, wine, holidays, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Unknown" >
+			<PostId>11560</PostId>
+			<ParentPostId>6432</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-03T06:01:53.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5847 approved by 5064 edit id of 287
+			</EditDetails>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Unknown" >
+			<PostId>11562</PostId>
+			<ParentPostId>6468</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-03T17:09:30.343</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/816330658683518977
+			</EditDetails>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Initial Body" >
+			<PostId>11583</PostId>
+			<ParentPostId>6475</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-07T01:51:56.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Historically, is there any case in which prohibition of alcohol has actually dissuaded its consumption?
+
+					It failed miserably in the United States, for example...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Initial Title" >
+			<PostId>11584</PostId>
+			<ParentPostId>6475</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-07T01:51:56.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Has Prohibition ever worked?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Initial Tags" >
+			<PostId>11585</PostId>
+			<ParentPostId>6475</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-07T01:51:56.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, drinking, prohibition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Unknown" >
+			<PostId>11586</PostId>
+			<ParentPostId>6475</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-07T14:32:54.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/817740803229515776
+			</EditDetails>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Unknown" >
+			<PostId>11588</PostId>
+			<ParentPostId>6464</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-08T11:37:32.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/818059054752927745
+			</EditDetails>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Unknown" >
+			<PostId>11609</PostId>
+			<ParentPostId>6440</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-11T11:51:29.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/819149729137389568
+			</EditDetails>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Initial Body" >
+			<PostId>11658</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-30T19:23:24.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've been to several bars recently that feature a "What's on cask?" section of the beer menu. The menu does not, however, suggest why that particular beer is being held in a firkin and served via the hand-pulled tap. 
+
+					I do not mean this as a repeat of [this question][1]. I am interested in the reasons bars, specifically, might wish to have and serve from firkins, and not just the general difference in beer varieties.
+
+					I understand there is a historical nature to this, which might be amusing for some purposes. But I want to know if there are specific effects on the beer itself: storage timing, retention of flavor, temperature needs, pouring effect (slower, no CO2, whatever), and so on. 
+
+					If the bar offered the exact same beer, one in a cask and one on a regular tap, should there be noticeable differences in the resulting served beer? 
+
+
+					  [1]: http://alcohol.stackexchange.com/questions/399/whats-the-difference-between-a-cask-beer-and-a-kegged-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Initial Title" >
+			<PostId>11659</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-30T19:23:24.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is some beer kept in/served from a firkin in a bar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Initial Tags" >
+			<PostId>11660</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-30T19:23:24.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, serving, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Edit Body" >
+			<PostId>11757</PostId>
+			<ParentPostId>6458</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-14T09:39:05.407</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6243</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 19 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I read several times in media about people who were harmed or even killed by drinking adulterated schnaps. 
+
+					What does it mean to adulterate e.g. schnaps? Why is it so dangerous? And what is the "benefit" of doing this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Initial Body" >
+			<PostId>11824</PostId>
+			<ParentPostId>6553</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-19T15:17:23.597</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[St Patrick's Day][1] is celebrated every year on March 17. It brings back those old Irish stories and legends that abound with this Saint.
+
+					We all know of some of that traditional Irish drinks that people drink on the Feast of St Patrick, such as [Irish Coffee][2] or drinking [Green Beer][3].
+
+					Are there any other St Patrick's Day drinking traditions celebrated on this day?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Saint_Patrick's_Day
+					  [2]: https://en.wikipedia.org/wiki/Irish_coffee
+					  [3]: http://www.bettycrocker.com/menus-holidays-parties/mhplibrary/seasonal-ideas/how-to-make-green-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Initial Title" >
+			<PostId>11825</PostId>
+			<ParentPostId>6553</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-19T15:17:23.597</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Traditional drinks for St Patrick's Day?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Initial Tags" >
+			<PostId>11826</PostId>
+			<ParentPostId>6553</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-19T15:17:23.597</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, tradition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Edit Tags" >
+			<PostId>11922</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T08:11:41.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					drinking, alcohol-level, non-alcoholic, preparation-for-drinking, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Unknown" >
+			<PostId>12281</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-21T09:44:49.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/844122617279864832
+			</EditDetails>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Edit Body" >
+			<PostId>12554</PostId>
+			<ParentPostId>6501</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T13:00:11.050</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://alcohol.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've been to several bars recently that feature a "What's on cask?" section of the beer menu. The menu does not, however, suggest why that particular beer is being held in a firkin and served via the hand-pulled tap. 
+
+					I do not mean this as a repeat of [this question][1]. I am interested in the reasons bars, specifically, might wish to have and serve from firkins, and not just the general difference in beer varieties.
+
+					I understand there is a historical nature to this, which might be amusing for some purposes. But I want to know if there are specific effects on the beer itself: storage timing, retention of flavor, temperature needs, pouring effect (slower, no CO2, whatever), and so on. 
+
+					If the bar offered the exact same beer, one in a cask and one on a regular tap, should there be noticeable differences in the resulting served beer? 
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/399/whats-the-difference-between-a-cask-beer-and-a-kegged-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Unknown" >
+			<PostId>12780</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-19T08:09:08.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/865479422039670784
+			</EditDetails>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Initial Body" >
+			<PostId>12789</PostId>
+			<ParentPostId>6849</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-22T14:09:24.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What drinks can be paired to a particular [legend][1] or [myth][2]?
+
+					We all know that that many people drink to the legendary person of [St Patrick][3]. But what I am interested in is in knowing if there are any drinks associated (paired) with a particular legend or myth (Christian or otherwise) and not simply to an historic or legendary person in some general sense. In other words, the pairing must associated to a particular event within a legend or myth. 
+
+					I am not willing to include [folklore][4] at the moment!
+
+
+					  [1]: https://en.wikipedia.org/wiki/Legend
+					  [2]: https://en.wikipedia.org/wiki/Myth
+					  [3]: http://www.wrdw.com/content/news/Saint-Patricks-Day-The-History-Myths-and-Traditions-Explained-416411623.html
+					  [4]: https://en.wikipedia.org/wiki/Folklore
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Initial Title" >
+			<PostId>12790</PostId>
+			<ParentPostId>6849</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-22T14:09:24.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What drinks can be paired to a particular legend or myth?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Initial Tags" >
+			<PostId>12791</PostId>
+			<ParentPostId>6849</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-22T14:09:24.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, pairing, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Initial Body" >
+			<PostId>12911</PostId>
+			<ParentPostId>6903</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-15T06:50:18.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6825</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently I'm in love with Moscato wine. It is very sweet. Is it real wine? Attached is the brand I consumed. [![enter image description here][1]][1]
+
+
+					  [1]: https://i.stack.imgur.com/frFdB.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Initial Title" >
+			<PostId>12912</PostId>
+			<ParentPostId>6903</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-15T06:50:18.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6825</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why moscato sweet?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Initial Tags" >
+			<PostId>12913</PostId>
+			<ParentPostId>6903</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-15T06:50:18.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6825</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, flavor, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Initial Body" >
+			<PostId>13587</PostId>
+			<ParentPostId>7132</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-23T14:18:59.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it possible to know where, when  and how the custom of clinking glasses (usually filled with beer or wine) originated, while saying "cheers" or "to your health"? Do any historical documents support a possible origin?
+
+					Many of us here will follow this tradition at times like New Year's Day, Christmas, weddings and so on.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Initial Title" >
+			<PostId>13588</PostId>
+			<ParentPostId>7132</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-23T14:18:59.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When, where and why did the tradition of clinking glasses and saying "cheers" or "to your health" first start?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Initial Tags" >
+			<PostId>13589</PostId>
+			<ParentPostId>7132</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-23T14:18:59.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, drinking, glassware, tradition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "118" InstanceType= "Unknown" >
+			<PostId>13672</PostId>
+			<ParentPostId>7132</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-19T19:44:16.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/954439383779889152
+			</EditDetails>
+		</Instance>
+		<Instance Id= "119" InstanceType= "Unknown" >
+			<PostId>13765</PostId>
+			<ParentPostId>7132</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-18T15:56:43.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "120" InstanceType= "Unknown" >
+			<PostId>13820</PostId>
+			<ParentPostId>7132</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-03-20T16:36:27.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+	</KnowledgeData>
+</KML>

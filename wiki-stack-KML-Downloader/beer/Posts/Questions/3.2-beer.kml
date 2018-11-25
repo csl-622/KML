@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>74</PostId>
+			<Title>
+			"Does reduced-alcohol beer taste differently?"
+			</Title>
+			<Tags>
+				<tag>abv</tag>
+				<tag>3.2-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>995</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:32:39.867</CreationDate>
+				<LastActivityDate>2014-05-29T09:44:03.633</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>20</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some states (in America) have ridiculous laws about what types of beer can be sold in various places.  Often times certain types of stores can only sell "3 2 beer," or beer with no more than 3.2% ABV.  &lt;/p&gt;
+
+					&lt;p&gt;So various brewers make special, reduced-alcohol batches meeting this requirement.  &lt;/p&gt;
+
+					&lt;p&gt;How do brewers achieve this reduction in alcohol, and does it affect the taste of the resulting beer? &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>986</PostId>
+			<AcceptedAnswerId>1088</AcceptedAnswerId>
+			<Title>
+			"Why do some grocery stores in Colorado have regular beer and liquor but some only sell 3.2% beer?"
+			</Title>
+			<Tags>
+				<tag>laws</tag>
+				<tag>3.2-beer</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>16205</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-15T21:20:31.147</CreationDate>
+				<LastActivityDate>2015-12-25T12:28:40.823</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1219</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I live in Denver, Colorado and I have noticed many grocery stores will have full a liquor selection and normal alcohol content beer, but others will only sell 3.2% beer and no liquor.  This goes even for the same chain of stores.  For example, Safeway will carry a full liquor selection at one location but only 3.2% beer at another.  &lt;/p&gt;
+
+					&lt;p&gt;This seems to apply to every chain in town including: King Soopers, Safeway, Walmart, Target, etc.  Therefore I am wondering if there is a law limiting this?  If so, what are the details?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

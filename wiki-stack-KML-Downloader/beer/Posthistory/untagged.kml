@@ -1,0 +1,557 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>857</PostId>
+			<ParentPostId>330</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T00:52:37.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It may be dependent upon local custom, but what scales are used to measure beer? Is there one in particular that is used globally, or could be said to be specific to beer or alcoholic drinks?
+
+					Typically, I see either pints or whatever the local standard of measurement for liquid is (say, fluid ounces or milliliters) so this isn't really a global standard.
+
+					Serving sizes also aren't standard; in my country alone, if you go to a pub and ask for a pint or a schooner, the size will depend on what state you're in.
+
+					However, I have seen the measurement `l` (lower-case L) used. Is this litres, or something else?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>858</PostId>
+			<ParentPostId>330</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T00:52:37.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How is beer measured, by volume?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>859</PostId>
+			<ParentPostId>330</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T00:52:37.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Title" >
+			<PostId>869</PostId>
+			<ParentPostId>330</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T02:11:13.290</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What units are used to measure beer by volume?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>1675</PostId>
+			<ParentPostId>330</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-20T13:40:37.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436495609705795584
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>8052</PostId>
+			<ParentPostId>4594</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-20T23:38:29.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the best beer subscription service that people have found? I have wanted to get beers delivered to my doorstep that I have never tried before. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>8053</PostId>
+			<ParentPostId>4594</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-20T23:38:29.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer Clubs Online
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>8054</PostId>
+			<ParentPostId>4594</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-20T23:38:29.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>8294</PostId>
+			<ParentPostId>4594</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-15T13:52:14.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/665890049549017088
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>8519</PostId>
+			<ParentPostId>4770</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T03:01:53.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently drank Stone's "Punishment" which was brewed with jalapeños! Having homebrewed with jalapeños from my garden for years I was super excited. Are there other breweries that have started experimenting with spicing their beers this way?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>8520</PostId>
+			<ParentPostId>4770</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T03:01:53.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Other Jalapeño beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>8521</PostId>
+			<ParentPostId>4770</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T03:01:53.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>8589</PostId>
+			<ParentPostId>4770</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-29T02:31:28.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/692897820668469248
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>8679</PostId>
+			<ParentPostId>4829</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-16T01:31:00.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does anyone know if kosher beers exist? To be kosher, the beer would have to totally (100%) brewed by Jewish hands? Such wines do exist!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>8680</PostId>
+			<ParentPostId>4829</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-16T01:31:00.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do kosher beers exist?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>8681</PostId>
+			<ParentPostId>4829</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-16T01:31:00.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>8844</PostId>
+			<ParentPostId>4829</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-07T20:13:37.347</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/706935857618558976
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Edit Tags" >
+			<PostId>9194</PostId>
+			<ParentPostId>330</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-23T11:25:06.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>122</UserId>
+			</Contributors>
+			<EditDetails>
+				added a tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>9195</PostId>
+			<ParentPostId>330</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-23T11:25:06.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 122 approved by 85 edit id of 179
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Tags" >
+			<PostId>9845</PostId>
+			<ParentPostId>4594</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:34:01.237</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Tags" >
+			<PostId>9851</PostId>
+			<ParentPostId>4829</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:38:50.893</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Edit Tags" >
+			<PostId>9854</PostId>
+			<ParentPostId>4770</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:42:39.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>12085</PostId>
+			<ParentPostId>6634</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T12:59:14.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently came across this [Wikipedia][1] on alcohol powder or powdered alcohol, which is also known as *palcohol*.
+
+					!n 2014, [Popular Science][2] had this to say about palachol:
+
+					&gt; Palcohol will be available in vodka and rum varieties, as well as mojito, margarita, and other premixed cocktail flavors. It was officially approved by the Alcohol and Tobacco Tax and Trade Bureau (TTB) earlier this month, and Mark Phillips, its creator, says we can expect to see it in stores this fall.
+
+					[![Palcohol][3]][3]
+
+					[Palcohol Label][4]
+
+					Some States have already banned this product, so I would like to Know where I could obtain legally powdered alcohol in the USA or Canada?
+
+					All you need is water to mix with the powder and you have a normal alcohol drink.
+
+
+					  [1]: https://en.wikipedia.org/wiki/Alcohol_powder
+					  [2]: http://www.popsci.com/article/technology/
+					  [3]: https://i.stack.imgur.com/zgIAa.jpg
+					  [4]: http://www.palcohol.com/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>12086</PostId>
+			<ParentPostId>6634</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T12:59:14.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where is it possible to legally obtain powdered alcohol in the USA and Canada?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>12087</PostId>
+			<ParentPostId>6634</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T12:59:14.183</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Edit Body" >
+			<PostId>12088</PostId>
+			<ParentPostId>6634</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T13:05:57.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				added 11 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently came across this [Wikipedia][1] on alcohol powder or powdered alcohol, which is also known as *palcohol*.
+
+					!n 2014, [Popular Science][2] had this to say about palachol:
+
+					&gt; Palcohol will be available in vodka and rum varieties, as well as mojito, margarita, and other premixed cocktail flavors. It was officially approved by the Alcohol and Tobacco Tax and Trade Bureau (TTB) earlier this month, and Mark Phillips, its creator, says we can expect to see it in stores this fall.
+
+					[![Palcohol][3]][3]
+
+					[Palcohol Label][4]
+
+					Some States have already banned this product, so I would like to know where I could obtain legally powdered alcohol in the USA or Canada, if at all?
+
+					All you need is water to mix with the powder and you have a normal alcohol drink.
+
+
+					  [1]: https://en.wikipedia.org/wiki/Alcohol_powder
+					  [2]: http://www.popsci.com/article/technology/
+					  [3]: https://i.stack.imgur.com/zgIAa.jpg
+					  [4]: http://www.palcohol.com/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Edit Body" >
+			<PostId>12098</PostId>
+			<ParentPostId>6634</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-04T00:09:28.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				added 28 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently came across this [Wikipedia][1] on alcohol powder or powdered alcohol, which is also known as *palcohol*.
+
+					!n 2014, [Popular Science][2] had this to say about palachol:
+
+					&gt; Palcohol will be available in vodka and rum varieties, as well as mojito, margarita, and other premixed cocktail flavors. It was officially approved by the Alcohol and Tobacco Tax and Trade Bureau (TTB) earlier this month, and Mark Phillips, its creator, says we can expect to see it in stores this fall.
+
+					[![Palcohol][3]][3]
+
+					[Palcohol Label][4]
+
+					Some States have already banned this product, so I would like to know where I could obtain legally powdered alcohol in the USA or Canada, if at all?
+
+					All you need is water to mix with the powder and you have a normal alcohol drink.
+
+
+					  [1]: https://en.wikipedia.org/wiki/Alcohol_powder
+					  [2]: http://www.popsci.com/article/technology/how-make-powdered-booze-home
+					  [3]: https://i.stack.imgur.com/zgIAa.jpg
+					  [4]: http://www.palcohol.com/
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

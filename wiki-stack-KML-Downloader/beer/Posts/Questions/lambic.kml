@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>183</PostId>
+			<AcceptedAnswerId>184</AcceptedAnswerId>
+			<Title>
+			"How is Lambic fruit beer traditionally made?"
+			</Title>
+			<Tags>
+				<tag>lambic</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>104</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T13:17:42.147</CreationDate>
+				<LastActivityDate>2014-01-22T18:27:39.780</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>138</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;There are a few fruit beers around how are these traditionally made?  I know they are all Lambics, but how are they made exactly?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>649</PostId>
+			<AcceptedAnswerId>650</AcceptedAnswerId>
+			<Title>
+			"What the heck is a lambic?"
+			</Title>
+			<Tags>
+				<tag>lambic</tag>
+			</Tags>
+			<Credit> 
+				<Score>14</Score>
+				<ViewCount>532</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-03-07T20:13:34.293</CreationDate>
+				<LastActivityDate>2014-03-07T22:39:12.840</LastActivityDate>
+				<ClosedDate>2014-03-11T16:18:33.267</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>75</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I had a most-delicious, cherry-red beer last night that tasted like raspberries. It was tart, a little low in alcoholic content (4%), and tasted like no other beer I've had. It was intriguing enough that I think I'll go back for a growler today.&lt;/p&gt;
+
+					&lt;p&gt;The chalkboard said it was a 'lambic'. What exactly is a lambic? What are typical characteristics of one? &lt;/p&gt;
+
+					&lt;p&gt;I quite enjoyed it, but it seemed a little sweet. Is there a variety of lambic I should keep an eye out for that is dry, but still tart?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

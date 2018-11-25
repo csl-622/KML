@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>92</PostId>
+			<Title>
+			"Where can I buy Czech beers in Bavaria?"
+			</Title>
+			<Tags>
+				<tag>distribution</tag>
+				<tag>buying</tag>
+				<tag>retail-availiability</tag>
+				<tag>germany</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>80</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-21T21:55:27.830</CreationDate>
+				<LastEditDate>2016-06-16T02:58:42.297</LastEditDate>
+				<LastActivityDate>2016-06-16T02:58:42.297</LastActivityDate>
+				<ClosedDate>2014-01-25T11:05:40.270</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>21</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Are the Czech beers like Velkopopovický Kozel possible to buy somewhere in Bavaria? &lt;/p&gt;
+
+					&lt;p&gt;Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?&lt;/p&gt;
+
+					&lt;p&gt;Czech beers are of very good quality, and Bavaria neighbours with Czech, so they shouldn't be hard to find.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>6259</PostId>
+			<AcceptedAnswerId>6260</AcceptedAnswerId>
+			<Title>
+			"Must try wines in Frankfurt region"
+			</Title>
+			<Tags>
+				<tag>recommendations</tag>
+				<tag>wine</tag>
+				<tag>germany</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>69</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-27T14:31:12.000</CreationDate>
+				<LastEditDate>2016-08-28T04:19:22.050</LastEditDate>
+				<LastActivityDate>2016-08-29T17:55:20.073</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5836</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Some regions around Frankfurt are famous for their wines. When I was in Frankfurt last time, I tried their Apple wine and simply loved it. This time, I will be in Frankfurt for a longer period and would like to try some more of their famous wines. I have not tried any special wines before and most probably will not spend a lot on wines. So please suggest something for a beginner within budget that is available in Frankfurt main city area.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>6265</PostId>
+			<AcceptedAnswerId>6267</AcceptedAnswerId>
+			<Title>
+			"Are Oktoberfest beers available in Germany before the official start of the festival?"
+			</Title>
+			<Tags>
+				<tag>german-beers</tag>
+				<tag>germany</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>92</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-08-30T16:52:23.850</CreationDate>
+				<LastEditDate>2016-08-30T20:02:32.007</LastEditDate>
+				<LastActivityDate>2016-09-16T14:36:06.863</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+				<LastEditorUserId>43</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In the US where I live, fall brings beers labelled "Oktoberfest", usually Bavarian Märzenbiers.  I like this style and look forward to it.&lt;/p&gt;
+
+					&lt;p&gt;This year it happens that I'm going to be passing through Munich a few days before the start of their &lt;a href="http://www.munichsoktoberfest.com/" rel="noreferrer"&gt;Oktoberfest&lt;/a&gt;.  It'd be great to be able to sample Oktoberfest beers fresh out of the tap where they're made, rather than waiting for whatever makes it across the Atlantic to me later.  Am I likely to find any Oktoberfest beers in the Munich airport in the week before the festival, or is that date the "debut" and I'll just have to settle for other German beers when I'm there?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>5582</PostId>
+			<ParentPostId>340</ParentPostId>
+			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-26T05:05:59.367</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					See also https://alcohol.stackexchange.com/questions/602/what-are-the-difference-between-a-dubbel-and-a-tripel =)
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

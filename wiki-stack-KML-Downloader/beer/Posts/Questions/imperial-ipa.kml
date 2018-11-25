@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>4869</PostId>
+			<AcceptedAnswerId>4883</AcceptedAnswerId>
+			<Title>
+			"What's the difference between a Triple IPA and a Double IPA?"
+			</Title>
+			<Tags>
+				<tag>style</tag>
+				<tag>ipa</tag>
+				<tag>imperial-ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>15</Score>
+				<ViewCount>9820</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-02-25T22:15:33.670</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2016-02-28T18:59:46.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5107</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;One of the recent trends I've noticed is that breweries are starting to come out with Triple IPAs. (In fact, there's a triple IPA week in the Seattle area.) But what exactly distinguishes the Triple IPA from a Double IPA?&lt;/p&gt;
+
+					&lt;p&gt;[Note that this was not included in &lt;a href="https://alcohol.stackexchange.com/questions/28/what-are-the-differences-between-an-ipa-and-its-variants"&gt;IPA and variants question&lt;/a&gt;, nor is it discussed in the &lt;a href="https://alcohol.stackexchange.com/questions/4778/why-do-double-ipas-aka-imperial-ipas-iipas-tend-to-be-sweeter-than-regular-ip"&gt;IPA vs. DIPA sweetness question&lt;/a&gt;.]&lt;/p&gt;
+
+					&lt;p&gt;Edit: This is decidedly NOT the same as the question regarding dubbels vs. tripels (which are Abbey-style Belgian ales, and remarkably different in style from a double or triple IPA).&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>4907</PostId>
+			<AcceptedAnswerId>4909</AcceptedAnswerId>
+			<Title>
+			"What's the difference between imperial pale ale and indian pale ale?"
+			</Title>
+			<Tags>
+				<tag>ipa</tag>
+				<tag>imperial-ipa</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>6122</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-02T02:51:41.993</CreationDate>
+				<LastActivityDate>2016-04-07T01:06:13.237</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5272</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've seen both refered to as IPA, which is the real IPA and how are they different?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

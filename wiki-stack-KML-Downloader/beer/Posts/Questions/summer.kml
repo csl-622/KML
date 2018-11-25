@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>7456</PostId>
+			<AcceptedAnswerId>7458</AcceptedAnswerId>
+			<Title>
+			"Is mulled wine just for Christmas?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>summer</tag>
+				<tag>christmas</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>32</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-26T14:29:07.253</CreationDate>
+				<LastEditDate>2018-08-26T14:36:07.997</LastEditDate>
+				<LastActivityDate>2018-09-01T11:02:42.757</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+				<LastEditorUserId>6366</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;With the weather deteriorating and temperatures dropping my thoughts drifted to mulled wine.  Traditionally a Christmas treat, but is it 'fashionable or OK' to drink it even in the summer, or will my dinner guests be appalled?  Are there any Summer Mulled wine recipes, and if so do they use drastically different ingredients?&lt;/p&gt;
+
+					&lt;p&gt;MULLED WINE BASIC RECIPE:
+					1 (750 ml) bottle of dry red wine.
+					1 orange, sliced into rounds.
+					8 whole cloves.
+					2 cinnamon sticks.
+					2 star anise.
+					2-4 tablespoons sugar
+					optional add-in: 1/4 cup brandy (or your favorite liqueur)&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

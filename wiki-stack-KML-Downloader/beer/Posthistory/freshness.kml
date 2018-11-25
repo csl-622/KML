@@ -1,0 +1,649 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>84</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:59:16.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer in a growler typically lasts for 24 hours or less, depending on how full the growler is, how many times it's opened over that period of time, and how efficient the seal is on the lid. Are there ways of prolonging the life in a growler or at least seal it properly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>85</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:59:16.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I prolong the life of beer in a growler?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>86</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:59:16.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					growlers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>248</PostId>
+			<ParentPostId>99</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:05:29.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Most mass-market beers come with expiration dates, and cease to be good for drinking if too much time has passed since they were brewed, even if they've been stored in unopened containers and good conditions. Some major breweries even have long-running advertising campaigns about the freshness of their products.
+
+					Other beers improve with age. What qualities make a beer suitable for cellaring or bottle-conditioning? How can I know whether a given bottle of beer can be aged, short of looking it up online?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>249</PostId>
+			<ParentPostId>99</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:05:29.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I tell whether a beer will improve with age?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>250</PostId>
+			<ParentPostId>99</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:05:29.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					aging, bottle-conditioning, cellaring, freshness, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>620</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T23:43:26.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Added some tags.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					preservation, growlers, freshness, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>621</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T23:43:26.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 73 approved by 27, 25 edit id of 34
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>914</PostId>
+			<ParentPostId>353</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T13:24:36.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					On a private party or picnic when we use hand pump to push beer out of a keg the beer can relatively quickly get stale. What can be done to keep the beer in a good quality for as long as possible?
+
+					I can imagine that a low temperature and not moving the keg can help. What about air pressure? Is it better to keep it low or higher? I guess that low pressure is better because lower amount of air should dissolve in the beer in such a case. What other factors could influence the beer durability in such a situation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>915</PostId>
+			<ParentPostId>353</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T13:24:36.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What can I do to prevent beer staling in a keg being pushed by air?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>916</PostId>
+			<ParentPostId>353</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T13:24:36.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					freshness, keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>1225</PostId>
+			<ParentPostId>99</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-01T16:25:09.237</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/429651645044359168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>1466</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T23:37:01.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In Harpoon's UFO series (and other related products from other companies), the beer is bottled unfiltered, so some of the yeast carries over into the bottled beer.
+
+					As long as the beer is kept in a cool area, as not to promote the growth of the yeast, how much fermentation will occur?  Aside from producing extra carbon dioxide and eventually ruining the beer, is this harmful when it proceeds over short periods?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>1467</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T23:37:01.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How much fermentation happens post-bottling in a UFO?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>1468</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T23:37:01.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					freshness, yeast, filtering, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1470</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T01:36:12.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431964651182882816
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Body" >
+			<PostId>1472</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T05:02:57.470</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<EditDetails>
+				Provide a link to the beer in question, for the benefit of those not familiar with the brewery
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In [Harpoon's UFO series][1] (and other related products from other companies), the beer is bottled unfiltered, so some of the yeast carries over into the bottled beer.
+
+					As long as the beer is kept in a cool area, as not to promote the growth of the yeast, how much fermentation will occur?  Aside from producing extra carbon dioxide and eventually ruining the beer, is this harmful when it proceeds over short periods?
+
+
+					  [1]: https://www.harpoonbrewery.com/beer/ufo
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>1473</PostId>
+			<ParentPostId>571</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T05:02:57.470</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 170 approved by 121 edit id of 72
+			</EditDetails>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Body" >
+			<PostId>1795</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. Unfortunately, the first two bottles I've opened now seem to have both been *severely* overcarbonated.
+
+					We're talking foam overflowing out of the bottle once I open it. These bottles have *not* been exposed to significant agitation recently. They've been sitting on a shelf, upright as is proper, for days. Worse still, they don't just explode and make a mess, but they also simply *taste* severely overcarbonated. It's like drinking shaken seltzer water mixed with my beer, and it's decidedly unpleasant. At this point, the only thing I've been able to do is pour a glass, leave it out for an hour or three, and *then* drink it.
+
+					Which is... impractical at best, and is only going to become less so as the weather warms up. Is there anything else I can do to mitigate this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Title" >
+			<PostId>1796</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there anything I can do short of leaving a glass out on the counter to mitigate overcarbonation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Tags" >
+			<PostId>1797</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:42:21.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, freshness, bottles, carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Body" >
+			<PostId>1798</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:47:58.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be [severely overcarbonated.](http://beer.stackexchange.com/q/654/8) To the point of both making a mess, and being unpleasant to drink.
+
+					Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Title" >
+			<PostId>1799</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:47:58.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are Hitachino's beers characteristically really heavily carbonated?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Tags" >
+			<PostId>1800</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:47:58.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					freshness, bottles, carbonation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Edit Body" >
+			<PostId>1801</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-08T18:55:27.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				added 50 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be [severely overcarbonated.](http://beer.stackexchange.com/q/654/8) To the point of both making a mess, and being unpleasant to drink.
+
+					Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? Or just spoiled by sitting on the shelf too long? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Unknown" >
+			<PostId>1807</PostId>
+			<ParentPostId>654</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-09T22:46:32.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/442793585474551809
+			</EditDetails>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>1822</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T19:46:32.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/443110674894708736
+			</EditDetails>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>8665</PostId>
+			<ParentPostId>4825</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-12T18:24:57.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5083</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When I go buy my beer, I will always look for the some sort of date indicating when it expires, or when it was bottled, or something of that sort.  Occasionally, I run into undecipherable codes instead of dates and I am at a lost to know when the beer was produced.  Is it a company by company basis, or is there some general way to decipher the codes so I know when the beer was produced, or when it will expire, or whatever other information they care to give me?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>8666</PostId>
+			<ParentPostId>4825</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-12T18:24:57.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5083</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a universal resource to decipher beer production codes?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>8667</PostId>
+			<ParentPostId>4825</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-12T18:24:57.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5083</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					freshness, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>8961</PostId>
+			<ParentPostId>4937</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T16:55:10.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long does an opened bottle of wine last in the refrigerator?
+
+					(Simply plugging the cork back in that is, and not using any vacuum contraption.)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>8962</PostId>
+			<ParentPostId>4937</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T16:55:10.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long does an opened bottle of wine last in the fridge?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>8963</PostId>
+			<ParentPostId>4937</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T16:55:10.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, freshness, wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Unknown" >
+			<PostId>9049</PostId>
+			<ParentPostId>4937</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-21T21:42:21.487</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/723265640455409664
+			</EditDetails>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Edit Body" >
+			<PostId>12508</PostId>
+			<ParentPostId>655</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I recently picked up a bunch of bottles of what seemed like interesting brews from [Hitachino](http://hitachinonest.com/), because I was interested in exploring some Japanese beers. However, more than anything, I've found both to be [severely overcarbonated.](https://alcohol.stackexchange.com/q/654/8) To the point of both making a mess, and being unpleasant to drink.
+
+					Is this sort of over-the-top carbonation characteristic of Hitachino's beer (or Japanese beer in general)? Or is it more likely that the bottles (which I purchased all at once from a single retailer) were somehow compromised or spoiled in the process of being imported to the US? Or just spoiled by sitting on the shelf too long? None of the bottles are marked with any sort of freshness or sell-by date, so is this possibly some sort of spoilage I've just never encountered before?
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

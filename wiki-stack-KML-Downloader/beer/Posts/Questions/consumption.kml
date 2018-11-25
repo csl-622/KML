@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>6895</PostId>
+			<AcceptedAnswerId>6896</AcceptedAnswerId>
+			<Title>
+			"How do Hungarians most commonly consume Palinka?"
+			</Title>
+			<Tags>
+				<tag>liquor</tag>
+				<tag>consumption</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>2702</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-06-09T20:18:42.613</CreationDate>
+				<LastEditDate>2017-06-11T09:48:51.130</LastEditDate>
+				<LastActivityDate>2017-06-11T09:48:51.130</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>938</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;From Wikipedia:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Pálinka is a traditional fruit brandy in the Carpathian Basin, known under several names, and invented in the Middle Ages. Protected as a geographical indication of the European Union, only fruit spirits mashed, distilled, matured and bottled in Hungary and similar apricot spirits from four provinces of Austria can be called "pálinka". &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;The question is, how is this spirit most commonly consumed in this region? Is it usually drunk neat/on rocks or do Hungarians usually mix it into cocktails?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>7064</PostId>
+			<Title>
+			"Has alcoholism increased?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>consumption</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>173</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-11-08T14:44:46.483</CreationDate>
+				<LastEditDate>2017-12-23T00:47:56.483</LastEditDate>
+				<LastActivityDate>2018-02-21T14:33:29.967</LastActivityDate>
+				<ClosedDate>2018-02-21T20:43:43.800</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7251</OwnerUserId>
+				<LastEditorUserId>6273</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Has alcoholism increased since prohibition days? I've seen the sales outlets for alcohol availability rise since the days of the state liquor stores.
+					I checked the &lt;a href="https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/alcohol-facts-and-statistics" rel="nofollow noreferrer"&gt;National Institute on Alcohol Abuse and Alcoholism&lt;/a&gt; and a news article from &lt;a href="https://www.nbcnews.com/health/health-news/americans-are-drinking-more-lot-more-n347126" rel="nofollow noreferrer"&gt;NBC&lt;/a&gt; without any specific results. Moved to &lt;a href="https://health.stackexchange.com/"&gt;Health SE&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

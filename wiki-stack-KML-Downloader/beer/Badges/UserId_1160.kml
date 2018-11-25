@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="1825"  UserId="1160" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-07-31T14:54:59.967</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1851"  UserId="1160" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-08-06T14:21:36.030</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1970"  UserId="1160" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-09-24T20:24:27.537</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="2480"  UserId="1160" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2014-12-17T13:27:42.267</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3790"  UserId="1160" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2015-02-16T17:27:57.097</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6342"  UserId="1160" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-09-13T14:53:21.247</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6659"  UserId="1160" InstanceType= "badges">
+			<Title>
+			"Necromancer"
+			</Title>
+			<TimeStamp>
+				<Date>2016-12-05T12:50:31.933</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

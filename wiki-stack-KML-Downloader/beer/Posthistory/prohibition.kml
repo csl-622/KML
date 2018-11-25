@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>11583</PostId>
+			<ParentPostId>6475</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-07T01:51:56.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Historically, is there any case in which prohibition of alcohol has actually dissuaded its consumption?
+
+					It failed miserably in the United States, for example...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>11584</PostId>
+			<ParentPostId>6475</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-07T01:51:56.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Has Prohibition ever worked?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>11585</PostId>
+			<ParentPostId>6475</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-07T01:51:56.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, drinking, prohibition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>11586</PostId>
+			<ParentPostId>6475</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-07T14:32:54.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/817740803229515776
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>12478</PostId>
+			<ParentPostId>6759</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-10T13:14:41.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Other than the USA, do any other countries have dry counties?
+
+					I understand that the term county may not exist in some counties, so one can adopt a different term that may be better suited for a particular countries.
+
+					What is a dry county?
+
+					&gt; A [dry county][1] is a county in the United States whose government forbids the sale of any kind of alcoholic beverages. Some prohibit off-premises sale, some prohibit on-premises sale, and some prohibit both. Hundreds of dry counties exist across the United States, a majority of them in the South. A number of smaller jurisdictions also exist, such as cities, towns, and townships, which prohibit the sale of alcoholic beverages. These are known as dry cities, dry towns, or dry townships.
+
+					[![Map showing  dry (red), wet (blue), and mixed (yellow) counties in the United States as of March 2012.][2]][2]
+
+					[Map showing dry (red), wet (blue), and mixed (yellow) counties in the United States as of March 2012.][3]
+
+
+					  [1]: https://en.wikipedia.org/wiki/Dry_county
+					  [2]: https://i.stack.imgur.com/HumA9.png
+					  [3]: https://en.wikipedia.org/wiki/List_of_dry_communities_by_U.S._state
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>12479</PostId>
+			<ParentPostId>6759</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-10T13:14:41.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Other than the USA, do any other countries have dry counties?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>12480</PostId>
+			<ParentPostId>6759</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-10T13:14:41.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					prohibition, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>12484</PostId>
+			<ParentPostId>6759</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-10T17:44:15.663</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/851491027525529603
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

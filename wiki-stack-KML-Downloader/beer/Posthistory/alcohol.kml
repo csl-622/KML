@@ -1,0 +1,1040 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>8055</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My friends says if you eat some bread it will absorb the alcohol and make you high less. is it true?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>8056</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Eat bread before drink beer make you drunk less?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>8057</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-21T05:32:16.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>9846</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:34:54.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>11917</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T07:59:40.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the most expensive legally available alcohol in the world (per unit)?  And why does it command the price?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>11918</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T07:59:40.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the most expensive alcohol (per unit) in the world?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>11919</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T07:59:40.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					price, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Body" >
+			<PostId>11920</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T08:07:11.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added drink
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the most expensive legally available alcohol / drink in the world (per unit)?  And why does it command the price?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Title" >
+			<PostId>11921</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T08:07:11.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				added drink
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the most expensive alcohol / drink (per unit) in the world?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>11922</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-24T08:11:41.757</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4545</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					drinking, alcohol-level, non-alcoholic, preparation-for-drinking, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>11935</PostId>
+			<ParentPostId>6588</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-25T03:55:43.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/835337451614978048
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>11980</PostId>
+			<ParentPostId>6604</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-27T13:55:29.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Just recently I have got into cocktails.  But I am finding it hard to find the right cherries so offset my designs.  The Maraschino cherry is the classic but what else is there to make my cocktails just that bit 'extra special'?
+
+					[This is what wikipedia][1] has to say about the Maraschino cherry
+
+
+					  [1]: https://en.wikipedia.org/wiki/Maraschino_cherry
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>11981</PostId>
+			<ParentPostId>6604</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-27T13:55:29.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Maraschino cherry - can I use an alternative?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>11982</PostId>
+			<ParentPostId>6604</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-27T13:55:29.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					cocktails, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>12052</PostId>
+			<ParentPostId>6604</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T13:44:39.330</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/837297601858924544
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>12069</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T19:20:43.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Who came up with the idea of pouring 30ml, 60ml or 90ml drinks . Is there a theory or scientific reason behind it ? Have gone through this post : https://en.m.wikipedia.org/wiki/Peg_(unit)
+
+					And 
+
+					https://en.m.wikipedia.org/wiki/Patiala_peg
+
+					Did it originate in India ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>12070</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T19:20:43.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How the idea of 30ml , 60ml and 90ml got started
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>12071</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T19:20:43.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					preparation-for-drinking, drink, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Edit Tags" >
+			<PostId>12072</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-02T19:27:26.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					alcohol-level, preparation-for-drinking, alcohol, drink, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Body" >
+			<PostId>12075</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T00:59:28.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting and grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where did the idea of pouring 30 ml, 60 ml or 90 ml in drinks begin. Is there a theory or scientific reason behind it? Have gone through this post: [Peg (unit)](https://en.m.wikipedia.org/wiki/Peg_(unit)) from Wikipedia, but it does not help me.
+
+					&gt; A peg is a unit of volume for measuring liquor in India and Nepal. The terms "large peg" and "small peg" are used, equal to 60 mL and 30 mL, respectively, with "peg" simply referring to a small peg. In India liquor's alcohol content is fixed at 42.8% ABV, it follows that a peg of liquor contains 25.68 mL of pure alcohol, or 20.26 g.
+
+					And then there is this also: [Patiala peg (Wikipedia)](https://en.m.wikipedia.org/wiki/Patiala_peg).
+
+					&gt; The Patiala peg is a measure of liquor popular in Indian Punjab. It is a volume roughly equivalent to 120 ml, though the rough and ready measure is the amount of liquor needed to fill a glass equal to the height between the index and little fingers when they are held parallel to one another.[1] Even major liquor companies have started selling their products in the single drink packaging of 90 ml &amp; 120 ml bottles in India. The name originates from the city of Patiala, which was once a state known for the extravagant ways of its royalty and extraordinary height of its Sikh soldiers.
+
+					Did it originate in India ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Title" >
+			<PostId>12076</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T00:59:28.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting and grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How the idea of 30 ml, 60 ml and 90 ml drinks get started?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>12394</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-02T16:59:47.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>12559</PostId>
+			<ParentPostId>6630</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T17:58:35.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/852581799586914306
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>12568</PostId>
+			<ParentPostId>6769</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T21:54:28.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am interested in knowing how popular were drinking establishments (or more commonly known as taverns) in Europe during the [Middle Ages][1] (5th-15th century)?
+
+					Did they exist during the entire Middle Ages or not? Did every town have a tavern?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Middle_Ages
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>12569</PostId>
+			<ParentPostId>6769</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T21:54:28.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How prominent were drinking (alcohol) establishments in the Middle Ages?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>12570</PostId>
+			<ParentPostId>6769</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-13T21:54:28.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, alcohol, europe, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>12629</PostId>
+			<ParentPostId>6769</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T18:50:47.550</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/854769261025398784
+			</EditDetails>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Unknown" >
+			<PostId>12780</PostId>
+			<ParentPostId>4595</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-19T08:09:08.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/865479422039670784
+			</EditDetails>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Body" >
+			<PostId>12812</PostId>
+			<ParentPostId>6860</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-28T14:39:23.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The other day, I came across this article: [*Chimpanzees found routinely drinking alcohol in the wild*.][1]
+
+					In this article, David Mercer claims that "Primates in Guinea drank fermented palm sap using a leafy tool as a sponge."
+
+					&gt; Scientists have discovered a group of booze-loving apes who may hold the key to why humans enjoy drinking alcohol.
+					&gt; 
+					&gt; Experts say they have found the first empirical evidence of “long term and recurrent ingestion of ethanol” among apes in nature.
+					&gt; 
+					&gt; hey observed wild chimpanzees in the town of Bossou in Guinea, west Africa, over 17 years and watched as the primates drank fermented palm sap using a leafy tool as a sponge.
+					&gt; 
+					&gt; The chimpanzees consumed the alcoholic beverage, often in large quantities, despite an alcohol presence of up to 6.9 per cent ABV - the equivalent of a strong ale, according to a study published by the Royal Society.
+					&gt; 
+					&gt; The amount of alcohol ingested ranged from about 2.5 to 84ml and there was no difference between males and females.
+					&gt; 
+					&gt; Experts said that, unlike other examples of primates ingesting alcohol, such as introduced green monkeys targeting tourist cocktails in the Caribbean, the chimpanzees' attraction to fermented palm sap at Bossou was not a result of provisioning by local people.
+
+					My question is this: **Do other naturally occurring alcohol ([ethanol][2]) drinks exist in a natural setting as in forests, plains, savannas, etc., without man's intervention on a regular basis?**
+
+
+
+
+					  [1]: http://www.independent.co.uk/environment/nature/chimpanzees-found-routinely-drinking-alcohol-in-wild-10309101.html
+					  [2]: https://en.wikipedia.org/wiki/Ethanol
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Title" >
+			<PostId>12813</PostId>
+			<ParentPostId>6860</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-28T14:39:23.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can alcohol (ethanol) exist in nature without the intervention of man?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Tags" >
+			<PostId>12814</PostId>
+			<ParentPostId>6860</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-28T14:39:23.750</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>13004</PostId>
+			<ParentPostId>6860</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-02T23:24:34.963</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/881654864073371648
+			</EditDetails>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Body" >
+			<PostId>13387</PostId>
+			<ParentPostId>7059</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-05T06:56:51.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7244</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So, i love to drink Peruan Pisco sours. You make these with Pisco, lemon juice, sugar and egg's white. You are supposed to shake the drink. However, every time i make this drink, i end up with little pieces of cooked egg in the drink. They are disgusting. How can i avoid this problem, while still conserving the the foam obtained with the eggs?
+
+					Thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Title" >
+			<PostId>13388</PostId>
+			<ParentPostId>7059</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-05T06:56:51.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7244</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to avoid egg white being cooked in drinks?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Tags" >
+			<PostId>13389</PostId>
+			<ParentPostId>7059</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-05T06:56:51.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7244</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drink, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Unknown" >
+			<PostId>13395</PostId>
+			<ParentPostId>7059</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-06T16:08:44.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/927568438872113152
+			</EditDetails>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Unknown" >
+			<PostId>13538</PostId>
+			<ParentPostId>7059</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-13T06:06:45.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>13643</PostId>
+			<ParentPostId>7059</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-13T03:56:21.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>14436</PostId>
+			<ParentPostId>7416</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-03T12:21:25.420</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7980</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I heard something about the moonshine called “rakija“, which is strongly represented in the Balkans. So my questions are:
+
+					 - What kinds of rakija do exist,
+					 - How are the made,
+					 - How strong is rakija (how much alcohol does it have) and 
+					 - What are your experiences with it (I will delete the last bullet point if it's in conflict with the rules for questions!)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>14437</PostId>
+			<ParentPostId>7416</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-03T12:21:25.420</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7980</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Rakija – a moonshine from the Balkan
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>14438</PostId>
+			<ParentPostId>7416</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-03T12:21:25.420</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7980</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Edit Body" >
+			<PostId>14440</PostId>
+			<ParentPostId>7416</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-03T13:07:27.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  context, grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I heard something about the moonshine called “rakija“, which is strongly represented in the Balkans. So my questions are:
+
+					 - What kinds of rakija do exist?
+					 - How are the made?
+					 - How strong is rakija (how much alcohol does it have)? 
+					 - If some have any experiences drinking rakija, you may include it in your answer (optional).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Edit Tags" >
+			<PostId>14441</PostId>
+			<ParentPostId>7416</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-03T13:07:27.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  context, grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					liquor, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Edit Body" >
+			<PostId>14442</PostId>
+			<ParentPostId>7416</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-03T13:40:07.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7980</UserId>
+			</Contributors>
+			<EditDetails>
+				added 3 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I heard something about the moonshine called “rakija“, which is strongly represented in the Balkans. So my questions are:
+
+					 - What kinds of rakija do exist?
+					 - How are the made?
+					 - How strong is rakija (how much alcohol does it have)? 
+					 - If someone have any experiences drinking rakija, you may include it in your answer (optional).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Unknown" >
+			<PostId>14453</PostId>
+			<ParentPostId>7416</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-05T13:01:55.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7980</UserId>
+			</Contributors>
+			<EditDetails>
+				43
+			</EditDetails>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Unknown" >
+			<PostId>14460</PostId>
+			<ParentPostId>7416</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T06:01:27.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1026709890113396736
+			</EditDetails>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Unknown" >
+			<PostId>14470</PostId>
+			<ParentPostId>7416</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-09T15:19:37.333</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7980</UserId>
+			</Contributors>
+			<EditDetails>
+				43
+			</EditDetails>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Body" >
+			<PostId>14529</PostId>
+			<ParentPostId>7446</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T09:37:00.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					There are many different wines from many different countries, and I wonder what the words and labels, like Tempranillo, and Reserva means.
+
+					If anyone could write a long list of what these different words mean in the different wine countries, then KUDOS to you ;)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Title" >
+			<PostId>14530</PostId>
+			<ParentPostId>7446</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T09:37:00.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does the different words &amp; labels on a wine bottle mean?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Tags" >
+			<PostId>14531</PostId>
+			<ParentPostId>7446</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T09:37:00.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, red-wine, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Body" >
+			<PostId>14535</PostId>
+			<ParentPostId>7448</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T09:44:42.243</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have a bottle that has been standing opened in room temperature for a while, and has become a bit sour.
+
+					&gt; How do I make it into vinegar?
+					&gt; 
+					&gt; How long time does it take?
+					&gt; 
+					&gt; Any precautions/instructions I should follow?
+					&gt; 
+					&gt; Will the process affect the alcohol level?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Title" >
+			<PostId>14536</PostId>
+			<ParentPostId>7448</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T09:44:42.243</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I make red wine vinegar from red wine? (or white wine)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Tags" >
+			<PostId>14537</PostId>
+			<ParentPostId>7448</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T09:44:42.243</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7954</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, red-wine, alcohol, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Post Closed" >
+			<PostId>14574</PostId>
+			<ParentPostId>7446</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-28T08:06:58.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":187,"DisplayName":"Rory Alsop"},{"Id":4903,"DisplayName":"paparazzo"},{"Id":6366,"DisplayName":"dougal 5.0.0"},{"Id":5078,"DisplayName":"Jamie Eltringham"}]}
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

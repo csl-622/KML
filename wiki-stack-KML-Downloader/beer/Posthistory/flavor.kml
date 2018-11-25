@@ -1,0 +1,3185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>395</PostId>
+			<ParentPostId>154</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T04:53:23.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I imagine the might would look something like:
+
+					    Pale Lager    
+					    Generic lager.
+					    Pilsner    
+					    Pale Ale (Which style?)    
+					    Imperial Pale Ale    
+					    Stout
+
+
+					Of course, I'm not a full on beer aficionado, I don't know all the styles. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>396</PostId>
+			<ParentPostId>154</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T04:53:23.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can you order beers in strength of flavour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>397</PostId>
+			<ParentPostId>154</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T04:53:23.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Title" >
+			<PostId>418</PostId>
+			<ParentPostId>154</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T06:43:10.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Can you order beers by strength of flavour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Post Closed" >
+			<PostId>506</PostId>
+			<ParentPostId>154</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:35:22.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				103
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":7,"DisplayName":"Tom Medley"},{"Id":73,"DisplayName":"acheong87"},{"Id":39,"DisplayName":"wax eagle"},{"Id":10,"DisplayName":"Christian Gärtner"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>669</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:31.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard of beers such as our local [brand][1] in the Philippines and [this][2] one, and though I haven't sampled them yet, I am quite curious: how do you add flavor to beer? I've drank a few style of beers but I haven't dealt with any "flavored". As I'm not familiar with the brewing process yet, I want to know how as I don't think it's as simple as adding a syrup on the beer after brewing. 
+
+
+					  [1]: http://sanmiguelflavoredbeer.com/home/
+					  [2]: http://rogue.com/beers/voodoo-bacon-maple.php
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>670</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:31.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can a beer be flavored?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>671</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:31.993</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>1673</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-20T07:40:36.670</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436405008960348161
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>1940</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T09:51:29.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It seems that Ginger Beer has no barley, no hops, no wort, no malted anything; so why is it a _beer_?  Seems like it is closer to a cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>1941</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T09:51:29.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is it a Ginger _Beer_ and not a Ginger _Cider_?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>1942</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T09:51:29.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, terminology, specialty-beers, additives, flavour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>1943</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T23:01:17.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/451132222587023362
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Body" >
+			<PostId>1944</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					It seems that *Ginger Beer* has no barley, no hops, no wort, no malted anything; so why is it a _beer_?  Seems like it is closer to a cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Title" >
+			<PostId>1945</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why is it a Ginger "Beer" and not a Ginger "Cider"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1946</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 69 approved by 112, -1 edit id of 90
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Body" >
+			<PostId>1947</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					It seems that *Ginger Beer* has no barley, no hops, no wort, no malted anything; so why is it a "beer"?  Seems like it is closer to a cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Edit Tags" >
+			<PostId>2017</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:19:20.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>754</UserId>
+			</Contributors>
+			<EditDetails>
+				Tag has been added
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, flavour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>2018</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:19:20.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 754 approved by 80 edit id of 94
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Tags" >
+			<PostId>2022</PostId>
+			<ParentPostId>256</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:26:37.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<EditDetails>
+				Tag name: flavour -&gt; flavor
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Tags" >
+			<PostId>2023</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:27:11.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<EditDetails>
+				Tag name: flavour -&gt; flavor
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, terminology, specialty-beers, additives, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Edit Tags" >
+			<PostId>2024</PostId>
+			<ParentPostId>154</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:27:33.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<EditDetails>
+				Tag name: flavour -&gt; flavor
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>2110</PostId>
+			<ParentPostId>757</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-30T01:08:37.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Hoppy beers appear to be fad at the moment. 
+
+					It seems that some brewers are aiming to produce beer with the sole aim to be as hoppy as possible, without consideration to other flavors or characteristics. 
+
+					Is it fair to say that some beers are simply 'too hoppy' by some objective measure? I would say the New Zealand's Boundry Road Mumbo Jumbo IPA fits this category. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>2111</PostId>
+			<ParentPostId>757</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-30T01:08:37.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are some beers 'too hoppy'?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>2112</PostId>
+			<ParentPostId>757</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-30T01:08:37.720</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					hops, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>2113</PostId>
+			<ParentPostId>758</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-30T01:16:26.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I had a Tui (cheap New Zealand pale lager) the other day, and it tasted sweet!
+
+					Why is this? Is possible that sugar is added during the brewing? What else would make it taste sweet?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>2114</PostId>
+			<ParentPostId>758</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-30T01:16:26.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do some cheap beers taste sweet?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>2115</PostId>
+			<ParentPostId>758</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-30T01:16:26.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Unknown" >
+			<PostId>2127</PostId>
+			<ParentPostId>758</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-05T13:06:34.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/463303741811482624
+			</EditDetails>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Body" >
+			<PostId>2151</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-10T17:06:45.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>842</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently started getting interested in smoked beers. Quite a few years back, Shiner had a seasonal called Smokehouse. I didn't care for it. However, I've recently been intrigued by varieties of smoked saisons, ipas and marzenbiers. What makes a beer smoky? Is the flavor created by casking, adding flavor or part of the brewing process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Title" >
+			<PostId>2152</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-10T17:06:45.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>842</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What gives a "smoky" beer a smoked flavor?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Tags" >
+			<PostId>2153</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-10T17:06:45.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>842</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, flavor, saison, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Unknown" >
+			<PostId>2156</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-12T01:30:12.627</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/465665211610173441
+			</EditDetails>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Body" >
+			<PostId>2239</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-29T08:35:34.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>928</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Like most of you here, I thoroughly enjoy beer.
+					How can I try a wide variety beers without buying them by the case/spending a lot of money? 
+
+
+					Aspiring beer enthusiast that is grows tired of the usual, and wants to branch out.
+					Also on a broke, paying for school out of pocket, college kid budget.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Title" >
+			<PostId>2240</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-29T08:35:34.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>928</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I try a wide variety beers without buying them by the case/spending a lot of money?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Tags" >
+			<PostId>2241</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-29T08:35:34.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>928</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, style, specialty-beers, flavor, united-states, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Unknown" >
+			<PostId>2265</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-30T07:56:48.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/472285479296335872
+			</EditDetails>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Body" >
+			<PostId>3369</PostId>
+			<ParentPostId>877</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-12T18:26:47.260</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>995</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					so I am trying to find some pretty nice beers, beer like a Delirium Tremens, to try. Does anyone have any recommendations on some nice beer that isn't insanely hard to find. Money is not really the issue, it's just I do not want to go looking at several specialty alcohol stores for one type of beer. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Title" >
+			<PostId>3370</PostId>
+			<ParentPostId>877</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-12T18:26:47.260</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>995</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Specialty Beers at Local Markets
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Tags" >
+			<PostId>3371</PostId>
+			<ParentPostId>877</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-12T18:26:47.260</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>995</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, specialty-beers, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Edit Body" >
+			<PostId>3382</PostId>
+			<ParentPostId>877</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-17T13:55:07.343</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>995</UserId>
+			</Contributors>
+			<EditDetails>
+				added 51 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					so I am trying to find some pretty nice beers, beer like a Delirium Tremens, to try. Does anyone have any recommendations on some nice beer that isn't insanely hard to find. Money is not really the issue, it's just I do not want to go looking at several specialty alcohol stores for one type of beer. 
+
+					I live in North Carolina, near the triad area. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Post Closed" >
+			<PostId>3526</PostId>
+			<ParentPostId>877</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-22T08:06:54.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Body" >
+			<PostId>3593</PostId>
+			<ParentPostId>969</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-05T16:24:41.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have a friend who never really got into beer. Something about it just doesn't taste right to her, I guess; regardless, she is still open to trying beer and wants to find some that she actually enjoys. I have been trying to find beers for her to try for a while now, but haven't had much luck. I know that she would not be a fan of any sour or overly bitter beer, so something sweeter would be more suited for her. It might also be worth mentioning that she isn't a huge fan of chocolate, but absolutely loves vanilla. I have tried giving her some beers like [Wild Blue](http://www.beeradvocate.com/beer/profile/29/26049/) and those seem to be a step in the right direction, but she still wants to find less "fruity" beer that she would enjoy. I have been looking for either something with a decent vanilla flavor, like [Leinie's Snowdrift Vanilla Porter](http://www.beeradvocate.com/beer/profile/710/86776/). However, everything I have tried to introduce her too doesn't seem to cut it. I really want to find a beer she'll drink, so if you have any more suggestions let me know! 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Title" >
+			<PostId>3594</PostId>
+			<ParentPostId>969</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-05T16:24:41.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Trying to Find Beer for Someone Who Wants To Get Into Beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Tags" >
+			<PostId>3595</PostId>
+			<ParentPostId>969</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-05T16:24:41.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Edit Body" >
+			<PostId>3596</PostId>
+			<ParentPostId>969</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-05T17:11:45.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<EditDetails>
+				added 4 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have a friend who never really got into beer. Something about it just doesn't taste right to her, I guess; regardless, she is still open to trying beer and wants to find some that she actually enjoys. I have been trying to find beers for her to try for a while now, but haven't had much luck. I know that she would not be a fan of any sour or overly bitter beer, so something sweeter would be more suited for her. It might also be worth mentioning that she isn't a huge fan of chocolate, but absolutely loves vanilla. 
+
+					I have tried giving her some beers like [Wild Blue](http://www.beeradvocate.com/beer/profile/29/26049/) and those seem to be a step in the right direction, but she still wants to find less "fruity" beer that she would enjoy. I have been looking for either something with a decent vanilla flavor, like [Leinie's Snowdrift Vanilla Porter](http://www.beeradvocate.com/beer/profile/710/86776/). However, everything I have tried to introduce her too doesn't seem to cut it. I really want to find a beer she'll drink, so if you have any more suggestions let me know! 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Edit Title" >
+			<PostId>3598</PostId>
+			<ParentPostId>969</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-05T20:27:39.200</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<EditDetails>
+				Updated title for clarity
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Trying to Find a Good Beer for A Friend
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Edit Body" >
+			<PostId>3602</PostId>
+			<ParentPostId>969</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-06T17:41:56.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<EditDetails>
+				added 6 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have a friend who never really got into beer. Something about it just doesn't taste right to her, I guess; regardless, she is still open to trying beer and wants to find some that she actually enjoys. I have been trying to find beers for her to try for a while now, but haven't had much luck. I know that she would not be a fan of any sour or overly bitter beer, so something sweeter would be more suited for her. It might also be worth mentioning that she isn't a huge fan of chocolate, but absolutely loves vanilla. 
+
+					I have tried giving her some beers like [Wild Blue](http://www.beeradvocate.com/beer/profile/29/26049/) and those seem to be a step in the right direction, but she still wants to find less fruit flavored beer that she would enjoy. I have been looking for either something with a decent vanilla flavor, like [Leinie's Snowdrift Vanilla Porter](http://www.beeradvocate.com/beer/profile/710/86776/). However, everything I have tried to introduce her too doesn't seem to cut it. I really want to find a beer she'll drink, so if you have any more suggestions let me know! 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Unknown" >
+			<PostId>3603</PostId>
+			<ParentPostId>969</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-07T04:13:22.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/497234015091707904
+			</EditDetails>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Body" >
+			<PostId>3682</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-03T01:33:38.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It's about that time of year again, when pumpkin flavored beer (and everything else) starts making its way onto store shelves.
+
+					I was wondering, what pumpkin flavored beers are out there, if any, are made with actual pumpkin and not just pumpkin pie spices?
+
+					My personal favorite is Pumpkin Head by Shipyard, but I've been unable to find any evidence that would suggest it is made with real pumpkin. Are there readily available beers made with real pumpkin? I live in western PA, but any brand not specifically available here would be good to know.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Title" >
+			<PostId>3683</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-03T01:33:38.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					"Pumpkin" beers made with actual pumpkin?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Tags" >
+			<PostId>3684</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-03T01:33:38.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, flavor, pennsylvania, retail-availiability, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Unknown" >
+			<PostId>3687</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-04T20:35:04.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/507627931405795328
+			</EditDetails>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Body" >
+			<PostId>3710</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-18T11:42:48.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1317</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I understand openings of a glass allow for aroma to add to the taste. However I recently had Kwak in its recommended glass, which is similar to a test tube. I have seen a number of other unique glasses. 
+					Are these really only for asthetics or are these meant to add to the flavour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Title" >
+			<PostId>3711</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-18T11:42:48.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1317</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Unusal recepticles
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Tags" >
+			<PostId>3712</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-18T11:42:48.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1317</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, flavor, glassware, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Unknown" >
+			<PostId>3718</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-22T21:59:19.257</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/514172112815554560
+			</EditDetails>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Post Closed" >
+			<PostId>3719</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T08:46:52.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[22,788],"Voters":[{"Id":37,"DisplayName":"Xander"},{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Post Reopened" >
+			<PostId>3720</PostId>
+			<ParentPostId>1024</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T08:48:16.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Body" >
+			<PostId>3783</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-17T09:19:30.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1398</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					*This may come across as more of a rant, but stick with me…I have a genuine question!*
+
+					I've been following the craft beer scene in the UK for some time now, and much prefer true craft beers to real ales, or bastardised beers labelled "craft" when they have no business being represented in such a way.
+
+					A few months ago, I went into London with a friend of mine for a few beers, starting a craft beer bar for two pints, and on the way back to the tube station, stopped in a traditional pub and had a pint of "real ale" there too.
+
+					After drinking the craft beers (hoppy as f***) we were both thoroughly disappointed with taste of the real ale, which I can only describe as a bland, waxy taste!
+
+					Since that day, I pretty much won't touch, and certainly don't enjoy real ales, and since Brewdog (Punk IPA, Dead Pony Club &amp; 5AM Saint) are available in my local superstores, I tend to buy, and thoroughly enjoy drinking these beers, rather than boring alternatives.
+
+					My friend however, whom I believe to be a complete philistine on the subject  has decided in his infinite wisdom that the terms “craft beer” and “real ale” are synonymous with each other, stating: 
+
+					&gt; “You realise that most of the industrialised breweries started out
+					&gt; making “craft beer” however demand and greed caused them to skimp on
+					&gt; ingredients, adding less and less to make more and more profit? Most
+					&gt; of these new breweries will probably go the same way.”
+
+					*I tell you, it’s going to be a sad day when I can no longer enjoy a Moor Nor’Hop, or a Beavertown Neck Oil, or a Kernel IPA, or a Brewdog Jackhammer, because greed and industrialisation caused them to make boring beers.*
+
+					Whilst I agree in principle regarding greed and industrialisation, I most certainly do not agree that most industrialised breweries started out making “craft beer”, and I don’t even think that “real ale” breweries have changed their recipes that much over time.
+
+					To put this into context:
+
+					**Real Ale:** Youngs London Gold, Bombardier, Tribute, Deuchars IPA
+
+					**Craft Beer:** Brewdog IPA is Dead Citra, Kernel Black IPA, Lagunitas IPA, Moor So’Hop
+
+					So, given the vast difference in taste between “Real Ale” and “Craft Beer” I’d like to know:
+
+					 - What distinguishes a beer as “craft beer” or “real ale”?
+					 - Will “craft beer” become boring due to industrialisation?
+					 - Did “real ale” used to taste nicer than it does today?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Title" >
+			<PostId>3784</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-17T09:19:30.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1398</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft Beer vs Real Ale
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Initial Tags" >
+			<PostId>3785</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-17T09:19:30.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1398</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, taste, ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Edit Body" >
+			<PostId>3803</PostId>
+			<ParentPostId>1051</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-21T14:48:52.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				OP did not respond to request to edit question; forced to do so myself. OP is free to suggest a new edit to reinstitute any deletions (s)he feels is relevant.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've been following the craft beer scene in the UK for some time now, and much prefer true craft beers to real ales (and beers labeled "craft" when they have no business being represented in such a way). Comparatively, real ales I've tried have a bland, waxy taste to them, unlike craft beers such as Brewdog's Punk IPA, Dead Pony Club, and 5AM Saint.
+
+					A friend expressed to me his view that the terms “craft beer” and “real ale” are synonymous, stating: 
+
+					&gt; “You realise that most of the industrialised breweries started out making “craft beer,” however demand and greed caused them to skimp on ingredients, adding less and less to make more and more profit? Most of these new breweries will probably go the same way.”
+
+					Whilst I agree in principle regarding greed and industrialisation, I am skeptical of the claim that most industrialised breweries started out making “craft beer.” Nor do I believe that “real ale” breweries have changed their recipes to that degree over time.
+
+					To put this into context, some beers I consider real ales are Youngs London Gold, Bombardier, Tribute, and Deuchars IPA, while some beers I consider craft beers are Brewdog IPA is Dead Citra, Kernel Black IPA, Lagunitas IPA, and Moor So’Hop.
+
+					 - What distinguishes a “craft beer” from a “real ale”?
+					 - Do “craft beers” change as breweries scale up for profits?
+					 - Did “real ales” use to taste nicer than it does today?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Body" >
+			<PostId>6369</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-23T20:48:19.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm having a party . I want to add favors to my already brewed beer. How an I do that and have it mix?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Title" >
+			<PostId>6370</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-23T20:48:19.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Post flavoring of beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Tags" >
+			<PostId>6371</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-23T20:48:19.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3920</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Edit Body" >
+			<PostId>6372</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-24T03:26:01.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 4 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm having a party and I want to add flavors to my already-brewed beer. How can I do that and have it mix?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Edit Title" >
+			<PostId>6373</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-24T03:26:01.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 4 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How can I add post-flavoring to beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Unknown" >
+			<PostId>6468</PostId>
+			<ParentPostId>3309</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-28T03:32:18.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/592894078745993216
+			</EditDetails>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Body" >
+			<PostId>6510</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I had acquired a couple of Samuel Adams "one-off" beers, specifically "The Vixen (stout)", "Merry Mischief (gingerbread stout)", "Griffin's Bow (barley wine)" and "Norse Legend (Sahti)". These bottles are either first, second or third batch, according to the label mind you. I had these beers for 2 years in a cellar, almost no light touches them and at room temperature.
+
+					I know that most of this types of beer gets better with time, except for the Sahti, hadn't explored much of that type, but I would like to know if it's safe for the beers to be kept and for how long, and at a given time, what's the best way to drink them (chill them, room temperature, etc.). Thanks.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Title" >
+			<PostId>6511</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When and how to drink cellared beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Tags" >
+			<PostId>6512</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, serving, temperature, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Unknown" >
+			<PostId>6598</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-06T02:54:09.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/607017605057159168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Body" >
+			<PostId>6637</PostId>
+			<ParentPostId>3420</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T21:32:53.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Asking as a beer lover, my roommate does not enjoy beer, nor does my fiancé. I have nobody to share my enjoyment and taste testing with. What is a good beer that I can get them started out on to maybe get them to eventually appreciate the taste of beer? They enjoy sweeter flavors, whereas I enjoy more bitter flavors. 
+
+					My roommate recently started drinking Angry Orchards and will occasionally drink a Blue Moon Cinnamon Horchata Ale, so he is starting to appreciate the taste more, but my fiancé just hasn't found her favorite yet. She says that she didn't mind Dos Equis as much as others, but still didn't really like it.
+
+					Is there a beer that is good for starters? Something that isn't overwhelmingly beer-y?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Title" >
+			<PostId>6638</PostId>
+			<ParentPostId>3420</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T21:32:53.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is a good beer for starters, or people who don't typically enjoy the taste of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Tags" >
+			<PostId>6639</PostId>
+			<ParentPostId>3420</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T21:32:53.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Edit Body" >
+			<PostId>6641</PostId>
+			<ParentPostId>3420</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T21:43:11.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Asking as a beer lover, my roommate does not enjoy most beers, nor does my fiancé. I have nobody to share my enjoyment and taste testing with. **What is a good beer that I can get them started out on to maybe get them to eventually appreciate the taste of beer**? 
+
+					They enjoy sweeter flavors, whereas I enjoy more bitter flavors. 
+
+					My roommate recently started drinking Angry Orchards and will occasionally drink a Blue Moon Cinnamon Horchata Ale, so he is starting to appreciate the taste more, but my fiancé just has not found her favorite yet. She says that she didn't mind Dos Equis as much as others, but still didn't really like it.
+
+					Is there a beer that is good for starters that is not overwhelmingly "beery"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Unknown" >
+			<PostId>6642</PostId>
+			<ParentPostId>3420</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-23T21:43:11.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4244 approved by 4238 edit id of 134
+			</EditDetails>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Initial Body" >
+			<PostId>6653</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T19:07:17.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When I drink beer I can taste a bitter, then slightly sweetness, then kind of a lingering flavor of something. I'm curious - is the lingering flavor the malt, or the hops? What contributes to the bitterness - the malt or the hops?
+
+					I would like to know the taste differences between the two.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Title" >
+			<PostId>6654</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T19:07:17.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The taste of hops, malt
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Initial Tags" >
+			<PostId>6655</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T19:07:17.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Edit Tags" >
+			<PostId>6658</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T20:31:44.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, flavor, hops, malt, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Unknown" >
+			<PostId>6767</PostId>
+			<ParentPostId>3424</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-15T20:58:01.333</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/621423494258159620
+			</EditDetails>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Body" >
+			<PostId>6780</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:57:32.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there any commonly available beer, preferably in Germany, that is more bitter than Jever?
+
+					If not, which micro breweries are there that produce this type of beer?
+
+					Or, to re-phrase the question: What is the beer with the most hop that you know of, in Germany?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Title" >
+			<PostId>6781</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:57:32.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Looking for a beer with a lot of hop
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Initial Tags" >
+			<PostId>6782</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:57:32.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, pilsener, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Edit Body" >
+			<PostId>6785</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T14:34:32.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<EditDetails>
+				simplified &amp; uncluttered
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Which beer, that is available in Germany, can you recommend that is more bitter than Jever?
+
+					Or, to re-phrase the question: What is the beer with the most hop that you know of, in Germany?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Edit Title" >
+			<PostId>6786</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T14:34:32.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<EditDetails>
+				simplified &amp; uncluttered
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Looking for a very hoppy beer (in Germany)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Post Deleted" >
+			<PostId>6791</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Post Deleted"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T17:22:50.203</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<EditDetails>
+				via Vote
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":4337,"DisplayName":"Philipp"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Post Undeleted" >
+			<PostId>6792</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			"Post Undeleted"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T17:23:16.377</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":4337,"DisplayName":"Philipp"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Unknown" >
+			<PostId>6827</PostId>
+			<ParentPostId>3420</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-25T00:38:16.347</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/624740413409206272
+			</EditDetails>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Unknown" >
+			<PostId>6835</PostId>
+			<ParentPostId>3478</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-28T09:51:14.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/625966736567877632
+			</EditDetails>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Initial Body" >
+			<PostId>8197</PostId>
+			<ParentPostId>4658</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-26T13:04:15.107</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1469</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A while ago on a visit to Tallinn I visited the medieval-style restaurant [*Olde Hansa*][1]. There they had two very good kinds of beer: one with honey and one with cinnamon.
+
+					Do such beers exist elsewhere, in particular, in bottled versions?
+
+
+					  [1]: http://www.oldehansa.ee/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Initial Title" >
+			<PostId>8198</PostId>
+			<ParentPostId>4658</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-26T13:04:15.107</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1469</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer with honey, beer with cinnamon
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Initial Tags" >
+			<PostId>8199</PostId>
+			<ParentPostId>4658</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-26T13:04:15.107</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1469</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Unknown" >
+			<PostId>8220</PostId>
+			<ParentPostId>4658</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-03T16:18:28.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/661578198346555393
+			</EditDetails>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Initial Body" >
+			<PostId>8378</PostId>
+			<ParentPostId>4726</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-15T06:20:32.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Inspired by [this question][1], I want to ask if there are any existing beer flavored using tobacco or have a hint of tobacco in the taste.
+
+
+					  [1]: http://beer.stackexchange.com/questions/4667/dumping-small-amount-of-cigarette-ashes-into-the-beers
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Initial Title" >
+			<PostId>8379</PostId>
+			<ParentPostId>4726</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-15T06:20:32.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Tobacco-flavored beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Initial Tags" >
+			<PostId>8380</PostId>
+			<ParentPostId>4726</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-15T06:20:32.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Unknown" >
+			<PostId>8412</PostId>
+			<ParentPostId>4726</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-26T15:04:42.627</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/680766191112171520
+			</EditDetails>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Initial Body" >
+			<PostId>8575</PostId>
+			<ParentPostId>4791</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-25T21:20:07.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the most important chemicals for the flavour of beer, and what effect do they have?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Initial Title" >
+			<PostId>8576</PostId>
+			<ParentPostId>4791</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-25T21:20:07.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Flavour components in beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Initial Tags" >
+			<PostId>8577</PostId>
+			<ParentPostId>4791</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-25T21:20:07.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Unknown" >
+			<PostId>8579</PostId>
+			<ParentPostId>4791</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-26T14:13:59.097</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/691987449162174464
+			</EditDetails>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Edit Body" >
+			<PostId>8588</PostId>
+			<ParentPostId>4791</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-27T16:13:47.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<EditDetails>
+				made the meaning of chemical clear
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What are the most important chemicals for the flavour of beer, and what effect do they have? I mean chemicals as components in the beer not regarding if they are naturally or artificially added.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Initial Body" >
+			<PostId>9039</PostId>
+			<ParentPostId>4965</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-21T03:15:07.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5350</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Well, after living in Germany for a couple of months, i understood that the flavor is everything.
+					Usually people say that a great Beer should be cold, well, i think that's not the main issue. In your opinion what are the things that makes a good Beer? 
+					Can you name your favorite? So we can have like a List of Great Beers to taste.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Initial Title" >
+			<PostId>9040</PostId>
+			<ParentPostId>4965</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-21T03:15:07.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5350</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The things that makes a good beer be a great beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Initial Tags" >
+			<PostId>9041</PostId>
+			<ParentPostId>4965</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-21T03:15:07.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5350</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Post Closed" >
+			<PostId>9090</PostId>
+			<ParentPostId>4965</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-01T00:59:45.630</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":984,"DisplayName":"Atron Seige"},{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Initial Body" >
+			<PostId>9781</PostId>
+			<ParentPostId>5202</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-14T14:47:49.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Being a huge fan of vinegar, I recently wondered if there are any actual known cocktail recipes/drinks that involve vinegar as an ingredient, preferably as a significant ingredient contributing perceivably to the drink's taste.
+
+					While there are drinks with a more spicy/hearty flavour, like *Bloody Mary*, I never heard of a cocktail involving vinegar and wonder if it would even work together with alcohol from a flavour-perspective. I could imagine the best targets to be spirits with a rather low-profile taste of their own, like vodka.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Initial Title" >
+			<PostId>9782</PostId>
+			<ParentPostId>5202</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-14T14:47:49.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there drinks/cocktails involving vinegar?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Initial Tags" >
+			<PostId>9783</PostId>
+			<ParentPostId>5202</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-14T14:47:49.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5460</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, ingredients, cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Edit Tags" >
+			<PostId>9860</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:48:24.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, flavor, terminology, additives, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Initial Body" >
+			<PostId>11735</PostId>
+			<ParentPostId>6524</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-13T05:33:52.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have always enjoyed a G&amp;T.  I have my favorite brands, not only of gin, but also of tonic.  But I have noticed that there is a whole slew of them now.  [![enter image description here][1]][1]
+
+					So, how do I know which ones are made properly, and which ones are just alcohol and flavor, without buying and tasting each one in turn?
+
+					  [1]: https://i.stack.imgur.com/PxBfg.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Initial Title" >
+			<PostId>11736</PostId>
+			<ParentPostId>6524</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-13T05:33:52.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Fashionable gins - are they what they claim to be?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Initial Tags" >
+			<PostId>11737</PostId>
+			<ParentPostId>6524</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-13T05:33:52.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, taste, gin, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Unknown" >
+			<PostId>11753</PostId>
+			<ParentPostId>6524</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-14T02:43:50.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/831333096452677632
+			</EditDetails>
+		</Instance>
+		<Instance Id= "118" InstanceType= "Initial Body" >
+			<PostId>12472</PostId>
+			<ParentPostId>6758</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-10T09:13:29.723</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am new to home brewing now having done only 3 batches, i am looking to add flavours, my last batch was a light beer which i added lime codial to and was great, but can i add Still Spirit Essences to my home brew beer to give that whisky or bourbon chaser effect and how would i do this ) At what stage of the process,) Your help would be greatley appreciated, thank you
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "119" InstanceType= "Initial Title" >
+			<PostId>12473</PostId>
+			<ParentPostId>6758</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-10T09:13:29.723</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Adding Spirit Essences to home brew beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "120" InstanceType= "Initial Tags" >
+			<PostId>12474</PostId>
+			<ParentPostId>6758</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-10T09:13:29.723</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "121" InstanceType= "Edit Body" >
+			<PostId>12475</PostId>
+			<ParentPostId>6758</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-10T11:33:57.140</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and spelling.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I am new to home brewing now having done only 3 batches, I am looking to add flavours, my last batch was a light beer which I added lime codial to and was great, but can I add Still Spirit Essences to my home brew beer to give that whisky or bourbon chaser effect and how would I do this? At what stage of the process would I do this? Your help would be greatley appreciated, Thank You!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "122" InstanceType= "Unknown" >
+			<PostId>12485</PostId>
+			<ParentPostId>6758</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T02:48:11.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/851990300193107970
+			</EditDetails>
+		</Instance>
+		<Instance Id= "123" InstanceType= "Edit Body" >
+			<PostId>12516</PostId>
+			<ParentPostId>4726</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Inspired by [this question][1], I want to ask if there are any existing beer flavored using tobacco or have a hint of tobacco in the taste.
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/4667/dumping-small-amount-of-cigarette-ashes-into-the-beers
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "124" InstanceType= "Initial Body" >
+			<PostId>12624</PostId>
+			<ParentPostId>6785</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T08:41:36.503</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I accept that one of the easiest ways to add flavor to vodka is simply to add a mixer or juice of some type, but that would be diluting it.  I also know that I can add fruits to the vodka itself which would infuse the vodka with a particular flavor.  Is there another way, say with some type of essential oil of some variety.  Overly sweet flavors should be avoided.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "125" InstanceType= "Initial Title" >
+			<PostId>12625</PostId>
+			<ParentPostId>6785</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T08:41:36.503</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Adding flavor to vodka
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "126" InstanceType= "Initial Tags" >
+			<PostId>12626</PostId>
+			<ParentPostId>6785</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-19T08:41:36.503</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "127" InstanceType= "Unknown" >
+			<PostId>12631</PostId>
+			<ParentPostId>6785</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-21T10:01:55.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/855360944205123584
+			</EditDetails>
+		</Instance>
+		<Instance Id= "128" InstanceType= "Initial Body" >
+			<PostId>12692</PostId>
+			<ParentPostId>6811</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-30T13:58:57.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently I posted a question ([here][1]) regarding adding flavor to vodka.  In my usual exuberance and non-scientific approach to matters I thought 'I know, to cut a few calories I will add Splenda'.  OK, the taste was OK, the orange and lemon peel that I steeped in the vodka gave the drink a nice, if not bitter taste.  I added splenda - and then experimented on myself (can't find anyone stupid enough to join me in these ventures!).  I drank the 'vodka' in the same manner (volume) as I would a standard vodka or gin.  Now, first morning after, the raging headache should have been sufficient - but looking for a more conclusive scientific result I tried the 'experiment' for a couple more nights, with the same results each following morning.  So, my question is:  Does adding an artificial sweetener to alcohol increase the chance of a hangover?
+
+
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/6785/adding-flavor-to-vodka
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "129" InstanceType= "Initial Title" >
+			<PostId>12693</PostId>
+			<ParentPostId>6811</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-30T13:58:57.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Using 'splenda' in Vodka infusions. Serious headache!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "130" InstanceType= "Initial Tags" >
+			<PostId>12694</PostId>
+			<ParentPostId>6811</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-30T13:58:57.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, vodka, hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "131" InstanceType= "Initial Body" >
+			<PostId>12911</PostId>
+			<ParentPostId>6903</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-15T06:50:18.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6825</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently I'm in love with Moscato wine. It is very sweet. Is it real wine? Attached is the brand I consumed. [![enter image description here][1]][1]
+
+
+					  [1]: https://i.stack.imgur.com/frFdB.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "132" InstanceType= "Initial Title" >
+			<PostId>12912</PostId>
+			<ParentPostId>6903</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-15T06:50:18.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6825</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why moscato sweet?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "133" InstanceType= "Initial Tags" >
+			<PostId>12913</PostId>
+			<ParentPostId>6903</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-15T06:50:18.887</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6825</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					wine, flavor, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "134" InstanceType= "Initial Body" >
+			<PostId>13138</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-17T13:18:19.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7030</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between "The Ale", "The Brown Ale" and the "Mild Ale" beer? The colour seem more or less the same so is it the taste that normally is different or is the level of alcool presents on the beer?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "135" InstanceType= "Initial Title" >
+			<PostId>13139</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-17T13:18:19.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7030</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Difference between "Ale's" beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "136" InstanceType= "Initial Tags" >
+			<PostId>13140</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-17T13:18:19.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7030</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "137" InstanceType= "Initial Body" >
+			<PostId>13541</PostId>
+			<ParentPostId>7116</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-13T23:33:40.930</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7420</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I generally use rum extract to make a "non-alcoholic" version of my eggnog recipe (which calls for rum and bourbon). However, the rum extract in my cupboard still technically has some alcohol in it, and therefore might not always be an acceptable substitute, depending on who I'm cooking for.
+
+					What is the approximate difference in alcohol concentration when using an extract to mimic flavor, compared to the original spirit? I have always heard that the alcohol in (e.g.) rum extract is "trivial" or "insignificant," and certainly don't disagree -- but I am hoping for a more *quantitative* measure.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "138" InstanceType= "Initial Title" >
+			<PostId>13542</PostId>
+			<ParentPostId>7116</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-13T23:33:40.930</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7420</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How much alcohol is in rum extract?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "139" InstanceType= "Initial Tags" >
+			<PostId>13543</PostId>
+			<ParentPostId>7116</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-13T23:33:40.930</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7420</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "140" InstanceType= "Unknown" >
+			<PostId>13579</PostId>
+			<ParentPostId>7116</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-12-22T02:59:49.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/944039744459214849
+			</EditDetails>
+		</Instance>
+		<Instance Id= "141" InstanceType= "Initial Body" >
+			<PostId>13724</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-01T19:44:37.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently ordered a sensory training kit from Siebel Institute. In short, glass vials of liquid isolating flavors (including off-flavors and contamination) commonly found in beer.
+
+					The instructions explain how to spike samples of beer, but say nothing about how to select a suitable beer:
+
+					[![enter image description here][1]][1]
+
+					I'll be hosting a party of six, and our tastes vary wildly: from craft drinkers to macro drinkers, and an enologist (winemaker).
+
+					**How should I select the base beer(s) to help us get the most out of this experience?**
+
+					 - Should we all have the same beer? If so, a macro, even though some dislike them? Or should I pick something like a pilsner?
+
+					 - Or should I have two tiers, a macro and something else? (What kind of ale would be appropriate?)
+
+					  [1]: https://i.stack.imgur.com/d8WFw.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "142" InstanceType= "Initial Title" >
+			<PostId>13725</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-01T19:44:37.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's a good (neutral) sample beer to spike with a sensory training kit?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "143" InstanceType= "Initial Tags" >
+			<PostId>13726</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-01T19:44:37.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, flavor, lager, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "144" InstanceType= "Unknown" >
+			<PostId>13742</PostId>
+			<ParentPostId>7180</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-02-09T14:38:36.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/961972603983364096
+			</EditDetails>
+		</Instance>
+		<Instance Id= "145" InstanceType= "Edit Body" >
+			<PostId>13992</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-02T11:24:15.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6566</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected small typo, added 'ale' tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What is the difference between "The Ale", "The Brown Ale", and the "Mild Ale" beers? The colour seems more or less the same so, is it the taste that normally is different or is the level of alcohol present on the beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "146" InstanceType= "Edit Tags" >
+			<PostId>13993</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-02T11:24:15.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6566</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected small typo, added 'ale' tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, flavor, ale, classification, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "147" InstanceType= "Unknown" >
+			<PostId>13994</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-02T11:24:15.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 6566 approved by 5078 edit id of 325
+			</EditDetails>
+		</Instance>
+		<Instance Id= "148" InstanceType= "Initial Body" >
+			<PostId>14044</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T10:43:46.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Distillation of ethereal oils is made with different pressures and temperatures than distillation of alcohol. So when distilling spirits out of mash directly most of the tastes get lost. I wonder if it could be an idea to distil the natural oils and flavours of fruits (ingredients) before fermentation and add those components later to the product to conserve a stronger taste of the ingredients used.
+
+					Has somebody tried that out?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "149" InstanceType= "Initial Title" >
+			<PostId>14045</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T10:43:46.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Extracting oils and flavours before fermentation
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "150" InstanceType= "Initial Tags" >
+			<PostId>14046</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T10:43:46.003</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, spirits, distillation, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "151" InstanceType= "Unknown" >
+			<PostId>14049</PostId>
+			<ParentPostId>6985</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T19:36:57.057</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/996112145061380096
+			</EditDetails>
+		</Instance>
+		<Instance Id= "152" InstanceType= "Initial Body" >
+			<PostId>14110</PostId>
+			<ParentPostId>7309</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-20T16:25:05.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7808</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In the uk I have always enjoyed Fosters lager and as a drink at home I have always chosen Fosters Gold ( Bottled) as my choice of drink at home , however I have just received this email reply saying that the brand will be become defunct in the uk
+
+					I was wondering if there is s bottled alternative with a similar taste I should now consider ?
+
+ 
+ 
+					Dear Steven
+ 
+ 
+					“ Thank you for your enquiry concerning Fosters Gold.
+
+					Unfortunately, we have to advise that this has been de-listed from our portfolio. 
+
+					Heineken UK have carried out a review of the brand and its market performance and have concluded that the brand does not have an effective role to play in the highly competitive sector. 
+
+					Sorry to disappoint.
+ 
+					Dawn McLaren
+					Consumer Relations Executive “ 
+
+
+
+
+					Sent: 16 May 2018 18:40:44
+					To: UK ConsumerCare
+					Subject: Foster Gold - Bottles
+
+
+
+					Hi
+
+					Why is now virtually impossible to buy Fosters Gold in bottles  from local shops and major supermarkets ?
+
+
+
+
+
+					Steve Coopers 
+					iPhone 6s  Silver - 16gb 
+
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "153" InstanceType= "Initial Title" >
+			<PostId>14111</PostId>
+			<ParentPostId>7309</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-20T16:25:05.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7808</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Fosters Gold - Alternative
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "154" InstanceType= "Initial Tags" >
+			<PostId>14112</PostId>
+			<ParentPostId>7309</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-20T16:25:05.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7808</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "155" InstanceType= "Edit Body" >
+			<PostId>14131</PostId>
+			<ParentPostId>7309</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-26T11:44:27.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  grammar and formatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In the UK, I have always enjoyed Fosters lager and as a drink at home. I have always chosen Fosters Gold (Bottled) as my choice of drink at home, however I have just received this email reply saying that the brand will be become defunct in the UK. 
+
+					I was wondering if there is s bottled alternative with a similar taste I should now consider?
+
+					&gt; Dear Steven,
+					&gt; 
+					&gt; “Thank you for your enquiry concerning Fosters Gold.
+					&gt; 
+					&gt; Unfortunately, we have to advise that this has been de-listed from our portfolio. 
+					&gt; 
+					&gt; Heineken UK have carried out a review of the brand and its market performance and have concluded that the brand does not have an effective role to play in the highly competitive sector. 
+					&gt; 
+					&gt; Sorry to disappoint."
+					&gt; 
+					&gt; Dawn McLaren
+					&gt; Consumer Relations Executive 
+
+					Sent: 16 May 2018 18:40:44
+					To: UK Consumer Care
+					Subject: Foster Gold - Bottles
+
+					Hi.
+
+					Why is now virtually impossible to buy Fosters Gold in bottles  from local shops and major supermarkets?
+
+
+
+
+
+					Steve Coopers 
+					iPhone 6s  Silver - 16gb 
+
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "156" InstanceType= "Unknown" >
+			<PostId>14132</PostId>
+			<ParentPostId>7309</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-27T04:55:40.013</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1000601404988411904
+			</EditDetails>
+		</Instance>
+		<Instance Id= "157" InstanceType= "Unknown" >
+			<PostId>14195</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T00:27:25.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1008868819325026305
+			</EditDetails>
+		</Instance>
+		<Instance Id= "158" InstanceType= "Initial Body" >
+			<PostId>14253</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Should non-alcoholic beer be refrigerated to preserve it? How long does non-alcoholic beer last when not refrigerated?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "159" InstanceType= "Initial Title" >
+			<PostId>14254</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Refrigerate Non-Alcoholic beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "160" InstanceType= "Initial Tags" >
+			<PostId>14255</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, flavor, temperature, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "161" InstanceType= "Initial Body" >
+			<PostId>14274</PostId>
+			<ParentPostId>7365</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-02T11:13:58.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently moved to a new city in Austria and have noticed that many (but not all, so it’s definitely not a problem with my taste perception) of the local red wines taste salty. I’ve tried red wines both on the cheaper and expensive side and they all give off this salty taste. Almost all that I’m referring to are Blauer Zweigelt variety. 
+					Is this salty taste coming from the grape variety, or could it be something else like my glass or detergent (I make sure that I wash the glass very thoroughly)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "162" InstanceType= "Initial Title" >
+			<PostId>14275</PostId>
+			<ParentPostId>7365</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-02T11:13:58.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do some wines taste salty?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "163" InstanceType= "Initial Tags" >
+			<PostId>14276</PostId>
+			<ParentPostId>7365</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-02T11:13:58.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7898</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, wine, flavor, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "164" InstanceType= "Unknown" >
+			<PostId>14345</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-17T20:51:06.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+	</KnowledgeData>
+</KML>

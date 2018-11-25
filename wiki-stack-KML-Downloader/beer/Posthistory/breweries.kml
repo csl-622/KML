@@ -1,0 +1,4753 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>222</PostId>
+			<ParentPostId>86</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:44:22.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the name of the first known/recognized brewery that produced beer (that would be recognized as beer also today)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>223</PostId>
+			<ParentPostId>86</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:44:22.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					First known/recognized brewery?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>224</PostId>
+			<ParentPostId>86</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:44:22.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>321</PostId>
+			<ParentPostId>129</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:16:30.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>86</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why don't any Arizona craft breweries export beers out of state?  Is it a legal restriction, a private agreement, or just a market force?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>322</PostId>
+			<ParentPostId>129</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:16:30.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>86</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why don't any Arizona craft breweries export their beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>323</PostId>
+			<ParentPostId>129</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:16:30.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>86</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>340</PostId>
+			<ParentPostId>138</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:27:29.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					You will often hear wine discussed in terms of the climate, soil, etc of the vineyard. The terms 'new world' and 'old world' wines are common.
+
+					Is there a similar concept for the hops used in beer? A quick web search seems to indicate that hops don't thrive in as many different climates as grapes do, so there might be less variation. Similarly, there are a few websites that seem to refer to new vs. old world hops, but it doesn't seem to be as popular a talking point. Is there more to it than a 2 minute google search can reveal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>341</PostId>
+			<ParentPostId>138</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:27:29.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does the climate and growing conditions of hops effect the taste of a beer, like with wine?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>342</PostId>
+			<ParentPostId>138</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T00:27:29.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, style, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Post Closed" >
+			<PostId>407</PostId>
+			<ParentPostId>86</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T05:13:29.963</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[2],"Voters":[{"Id":7,"DisplayName":"Tom Medley"},{"Id":76,"DisplayName":"jamesakadamingo"},{"Id":81,"DisplayName":"FallenAngel"},{"Id":39,"DisplayName":"wax eagle"},{"Id":8,"DisplayName":"LessPop_MoreFizz"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Body" >
+			<PostId>676</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:43:22.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Microbreweries make less than 15,000 barrels per year, and craft breweries make less than 6,000,000 barrels per year.  
+
+					Aside from this distinction, are there any differences in the styles of production by the two entities?  If there's no difference in production technique, why make this distinction at all?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Title" >
+			<PostId>677</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:43:22.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Aside from the number of barrels they produce, what is the main difference between a craft brewery and a microbrewery?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Tags" >
+			<PostId>678</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:43:22.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, production, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>821</PostId>
+			<ParentPostId>315</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T03:26:55.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I enjoy the Sam Adams seasonal varieties, as they usually put people in the holiday spirit(s), etc., and they evoke the feeling of "only for a limited time" like a Shamrock shake at McDonalds.  
+
+					In that vein, were the beers originally designated "seasonal" due to the availability of certain ingredients during different times of the year (Harvest Pumpkin Ale springs to mind) or is this notion of a seasonal beer chiefly a marketing construct?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>822</PostId>
+			<ParentPostId>315</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T03:26:55.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Were the Sam Adams seasonal beers actually developed to accommodate seasonal availability of ingredients or are they just a marketing construct?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>823</PostId>
+			<ParentPostId>315</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T03:26:55.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, ingredients, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Body" >
+			<PostId>1144</PostId>
+			<ParentPostId>453</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T21:06:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently, I traveled to Denver, CO, and though I didn't go for beer-specific purposes, I took advantage of a few breweries (and taphouses) that were conveniently close to my hotel.
+
+					The one I was most excited about was Great Divide, mostly because I had discovered their [Saint Bridget's Porter](http://beeradvocate.com/beer/profile/158/262/) years beforehand. I did not keep track of this beer, however, and was disappointed to find that they no longer produced it.
+
+					The bartender informed me that this was because "porters don't do well in the marketplace."
+
+					Is this a common opinion among brewers? Could it just be regional to Denver? What might the reasoning be behind this?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Title" >
+			<PostId>1145</PostId>
+			<ParentPostId>453</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T21:06:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Porter in the Marketplace
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Tags" >
+			<PostId>1146</PostId>
+			<ParentPostId>453</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T21:06:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, porter, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>1331</PostId>
+			<ParentPostId>526</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T19:30:03.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>380</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm not sure about other countries, but in the UK we have various brands of 'extra strong' larger beers, the most famous of which is Carlsberg Special Brew (9%), but there are others.
+
+					The perception a lot of people have is that these beers are favoured by Alcoholics and avoided by everyone else and that the brewers continue to produce the product regardless.
+
+					Is this actually the case, or is there another, more legitimate market out there for extra strong larger?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>1332</PostId>
+			<ParentPostId>526</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T19:30:03.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>380</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Who do the brewers of extra strong larger claim their target market is?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>1333</PostId>
+			<ParentPostId>526</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T19:30:03.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>380</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Body" >
+			<PostId>1335</PostId>
+			<ParentPostId>526</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T20:06:20.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>380</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 6 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm not sure about other countries, but in the UK we have various brands of 'extra strong' lager beers, the most famous of which is Carlsberg Special Brew (9%), but there are others.
+
+					The perception a lot of people have is that these beers are favoured by Alcoholics and avoided by everyone else and that the brewers continue to produce the product regardless.
+
+					Is this actually the case, or is there another, more legitimate market out there for extra strong lager?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Edit Title" >
+			<PostId>1336</PostId>
+			<ParentPostId>526</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T20:06:20.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>380</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 6 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Who do the brewers of extra strong lager claim their target market is?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Post Reopened" >
+			<PostId>1433</PostId>
+			<ParentPostId>86</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T15:34:45.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":52,"DisplayName":"Daniel Hedberg"},{"Id":21,"DisplayName":"Łukasz L."},{"Id":27,"DisplayName":"object88"},{"Id":73,"DisplayName":"acheong87"},{"Id":43,"DisplayName":"Monica Cellio"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Body" >
+			<PostId>1437</PostId>
+			<ParentPostId>564</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T18:51:24.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It seems like it's possible to find beer from almost every corner of the world today. What are the countries without any national brands / breweries?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Title" >
+			<PostId>1438</PostId>
+			<ParentPostId>564</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T18:51:24.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Countries not producing beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Tags" >
+			<PostId>1439</PostId>
+			<ParentPostId>564</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T18:51:24.557</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Unknown" >
+			<PostId>1440</PostId>
+			<ParentPostId>564</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T19:36:09.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431511652706832384
+			</EditDetails>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Post Closed" >
+			<PostId>1455</PostId>
+			<ParentPostId>564</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-07T05:40:51.493</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>13</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":13,"DisplayName":"Shog9"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>1481</PostId>
+			<ParentPostId>526</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T16:36:12.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432191144504881152
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>1502</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T04:53:33.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I wasn't a beer enthusiast while living in NYC, but still don't recall hearing much about local breweries—are there any worthwhile (well-known, or very tasty :-) beers brewed in NYC, perhaps worth visiting at their source?
+
+					I'd love to hear from those who have actually toured breweries in NYC and have recommendations, also taking into consideration breweries which are easily accessible by public transportation (mostly the subway system) since neither I nor any of my friends have ever had a car while living there, and maybe even taking into consideration avoiding sketchy neighborhoods in Brooklyn and the Bronx.
+
+					See http://meta.beer.stackexchange.com/q/67/73 to discuss the validity of this question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>1503</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T04:53:33.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any must-see breweries while visiting New York City?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>1504</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T04:53:33.973</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, recommendations, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Edit Body" >
+			<PostId>1505</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T09:39:08.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 194 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I wasn't a beer enthusiast while living in NYC, but still I don't recall hearing much about local breweries. Are there any worthwhile (well-known, or tasty :-) beers brewed in NYC, worth visiting at their sources?
+
+					I'd like to hear from those who have actually toured breweries in NYC and have some subjective input, since anyone could easily Google "breweries in NYC" and provide an impersonal list. Perhaps a local citizen could take into consideration breweries which are easily accessible via the subway system (since who takes buses in NYC unless in Queens, right?—and I doubt there are any breweries in Queens). Even better, breweries that are in fun neighborhoods to hang out, not some desolate industrial park in Brooklyn (unless that's part of the appeal) or a shady neighborhood in the Bronx. I mean, it better be some _damn good beer_ if anyone's gonna be bothered to take the subway all the way to the Bronx :-)
+
+					Also see http://meta.beer.stackexchange.com/q/67/73 to discuss the validity of this question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Edit Title" >
+			<PostId>1506</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T09:39:08.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 194 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What are some good breweries to visit in New York City?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Body" >
+			<PostId>1508</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T10:56:17.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I fly a lot, and like to seek out new beers between connecting flights. If anyone else travels frequently too, why don't we help each other out and compile (community wiki-style) a list of establishments in major airports that serve local beers?
+
+					For definition's sake, though arbitrary, let's say a "major airport" is one which
+
+					 - serves more than [5,000,000+ passengers per year](http://en.wikipedia.org/wiki/List_of_airports_in_the_United_States) ("enplanements"),
+					 - or serves the _most_ passengers per year in its country.
+
+					So, outside of the U.S., check the airport's Wikipedia page for the stats—for example [Berlin's Schönefeld Airport](http://en.wikipedia.org/wiki/Sch%C3%B6nefeld_International_Airport), with 7,000,000+ enplanements in 2010. Also eligible are airports like [Luxembourg's main airport](http://en.wikipedia.org/wiki/Luxembourg-Findel_International_Airport), serving less than 5,000,000 passengers per year, but the most in its country. If this definition seems to rule out some rather important airports, we can modify the rules.
+
+					This list would really help me with "tiebreaking" when I can't decide what flights I'd rather take :-)
+
+					---
+
+					&lt;sup&gt;This is a question asked among the series of regional-but-potentially-useful-if-specific-enough questions. See&lt;/sup&gt;
+
+					- &lt;sup&gt;http://meta.beer.stackexchange.com/questions/67/asking-brand-specific-regional-questions-responsibly&lt;/sup&gt;
+
+					- &lt;sup&gt;http://meta.beer.stackexchange.com/questions/55/what-kinds-of-questions-will-keep-beer-se-active-relax-the-culture-against-bra&lt;/sup&gt;
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Title" >
+			<PostId>1509</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T10:56:17.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Local beers to try between connecting flights (major airports only)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Tags" >
+			<PostId>1510</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T10:56:17.747</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Edit Body" >
+			<PostId>1513</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T11:26:53.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 73 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I fly a lot, and like to seek out new beers between connecting flights. If anyone else travels frequently too, why don't we help each other out and compile (community wiki-style) a list of establishments in major airports that serve local beers?
+
+					For definition's sake, though arbitrary, let's say a "major airport" is one which
+
+					 - serves more than [5,000,000+ passengers per year](http://en.wikipedia.org/wiki/List_of_airports_in_the_United_States) ("enplanements"),
+					 - or serves the _most_ passengers per year in its country.
+
+					So, outside of the U.S., check the airport's Wikipedia page for the stats—for example [Berlin's Schönefeld Airport](http://en.wikipedia.org/wiki/Sch%C3%B6nefeld_International_Airport), with 7,000,000+ enplanements in 2010. Also eligible are airports like [Luxembourg's main airport](http://en.wikipedia.org/wiki/Luxembourg-Findel_International_Airport), serving less than 5,000,000 passengers per year, but the most in its country. If this definition seems to rule out some rather important airports, we can modify the rules.
+
+					This list would really help me with "tiebreaking" when I can't decide what flights I'd rather take. It would also give me a reason to enjoy longer-than-desired connections :-)
+
+					---
+
+					&lt;sup&gt;This is a question asked among the series of regional-but-potentially-useful-if-specific-enough questions. See&lt;/sup&gt;
+
+					- &lt;sup&gt;http://meta.beer.stackexchange.com/questions/67/asking-brand-specific-regional-questions-responsibly&lt;/sup&gt;
+
+					- &lt;sup&gt;http://meta.beer.stackexchange.com/questions/55/what-kinds-of-questions-will-keep-beer-se-active-relax-the-culture-against-bra&lt;/sup&gt;
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Unknown" >
+			<PostId>1517</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T13:36:43.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432870749150654464
+			</EditDetails>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Body" >
+			<PostId>1664</PostId>
+			<ParentPostId>626</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-19T13:29:58.683</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I visited the UK's oldest licensed brewery, [the Three Tuns][1], in Shropshire, which has been licenced since 1642. One of its key features is that all transfers can be carried out using gravity:
+
+					- all raw materials are brought to the top of the tower, and then each movement of materials or fluids is carried out using gravity - not pumps
+
+					My question is: does this provide a difference in flavour, texture or other qualities to beers from those breweries that use pumps? I can imagine it might, as pumps cause agitation that won't exist in a simple pipe letting liquid flow downhill.
+
+					(additional information: the Three Tuns is well worth a visit - all the beers on show that day were delicious)
+					  [1]: http://www.threetunsbrewery.co.uk/history
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Title" >
+			<PostId>1665</PostId>
+			<ParentPostId>626</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-19T13:29:58.683</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a taste or texture difference between gravity breweries and those that use pumps?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Tags" >
+			<PostId>1666</PostId>
+			<ParentPostId>626</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-19T13:29:58.683</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>187</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Unknown" >
+			<PostId>1667</PostId>
+			<ParentPostId>626</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-19T13:40:33.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436133204706488320
+			</EditDetails>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Unknown" >
+			<PostId>1678</PostId>
+			<ParentPostId>453</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-20T19:40:59.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436586298674262016
+			</EditDetails>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Unknown" >
+			<PostId>1700</PostId>
+			<ParentPostId>259</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-22T22:41:25.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/437356479746957312
+			</EditDetails>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Unknown" >
+			<PostId>1701</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-24T04:42:06.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/437809637610762240
+			</EditDetails>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Edit Tags" >
+			<PostId>1830</PostId>
+			<ParentPostId>86</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-12T21:07:47.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<EditDetails>
+				Added history tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Body" >
+			<PostId>1839</PostId>
+			<ParentPostId>666</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-16T16:26:34.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;sub&gt;Not sure if this is on topic! Could be interesting though. Feel free to flag/VTC if you disagree.&lt;/sub&gt;
+
+					I'm looking to build an app that has to do with beer. It occurred to me that ratings/information/any beer-related API could be useful. Both BeerAdvocate and RateBeer seem to have no officially available API. 
+
+					Are there any beer-related sites or resources with an open API?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Title" >
+			<PostId>1840</PostId>
+			<ParentPostId>666</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-16T16:26:34.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where can I find open APIs about beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Tags" >
+			<PostId>1841</PostId>
+			<ParentPostId>666</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-16T16:26:34.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Community Owned" >
+			<PostId>1843</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			"Community Owned"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-16T22:17:52.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Edit Body" >
+			<PostId>1844</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-16T22:17:52.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 10 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I fly a lot, and like to seek out new beers while waiting or between connecting flights. Frequent flyers: let's help each other out and compile (community wiki-style) a list of establishments in major airports that serve local beers.
+
+					For definition's sake, though arbitrary, let's say a "major airport" is one which
+
+					 - serves more than [5,000,000+ passengers per year](http://en.wikipedia.org/wiki/List_of_airports_in_the_United_States) ("enplanements"),
+					 - or serves the _most_ passengers per year in its country.
+
+					So, outside of the U.S., check the airport's Wikipedia page for the stats—for example [Berlin's Schönefeld Airport](http://en.wikipedia.org/wiki/Sch%C3%B6nefeld_International_Airport), with 7,000,000+ enplanements in 2010. Also eligible are airports like [Luxembourg's main airport](http://en.wikipedia.org/wiki/Luxembourg-Findel_International_Airport), serving less than 5,000,000 passengers per year, but the most in its country. If this definition seems to rule out some rather important airports, we can modify the rules.
+
+					This list would probably help me with "tiebreaking" when I can't decide what flights I'd rather take. It would also give me a reason to enjoy longer-than-desired connections :-)
+
+					---
+
+					&lt;sup&gt;This is a question asked among the series of regional-but-potentially-useful-if-specific-enough questions. See&lt;/sup&gt;
+
+					- &lt;sup&gt;http://meta.beer.stackexchange.com/questions/67/asking-brand-specific-regional-questions-responsibly&lt;/sup&gt;
+
+					- &lt;sup&gt;http://meta.beer.stackexchange.com/questions/55/what-kinds-of-questions-will-keep-beer-se-active-relax-the-culture-against-bra&lt;/sup&gt;
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Edit Title" >
+			<PostId>1845</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-16T22:17:52.637</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 10 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Local beers to try at airports (major airports only)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Unknown" >
+			<PostId>1857</PostId>
+			<ParentPostId>666</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-18T10:59:34.290</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/445877163234172928
+			</EditDetails>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Body" >
+			<PostId>1956</PostId>
+			<ParentPostId>708</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-04T15:58:04.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>740</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Even if I managed to reserve some beer, it appears here http://www.sintsixtus.be/eng/brouwerij.htm
+
+					that I need my own car, or at least one whose plate # I will know long in advance to pick up beer.  Has anyone done this ?  Is the procedure what as I said ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Title" >
+			<PostId>1957</PostId>
+			<ParentPostId>708</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-04T15:58:04.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>740</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					has anyone tried to get beer from westvleteren?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Tags" >
+			<PostId>1958</PostId>
+			<ParentPostId>708</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-04T15:58:04.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>740</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Edit Body" >
+			<PostId>1959</PostId>
+			<ParentPostId>708</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-04T18:13:45.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 6 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Even if I managed to reserve some beer, it appears [here](http://www.sintsixtus.be/eng/brouwerij.htm) that I need my own car, or at least one whose plate # I will know long in advance to pick up beer.  Has anyone done this?  What is the exact procedure?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Edit Title" >
+			<PostId>1960</PostId>
+			<ParentPostId>708</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-04T18:13:45.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 6 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How exactly does buying directly from Westvleteren work?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Unknown" >
+			<PostId>1962</PostId>
+			<ParentPostId>708</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-06T02:11:36.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/452629667451654145
+			</EditDetails>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Initial Body" >
+			<PostId>2209</PostId>
+			<ParentPostId>807</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-24T10:06:29.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The common beer in Gran Canaria are Topical and Dorada.
+
+					 - What other local beer are there on the canary island?
+
+					 - Is there any microbrewery / local brewery in the Canary Island?
+
+					 - Are there craft beer in the Las Palma de Gran Canaria?
+
+
+					http://www.sabmiller.com/index.asp?pageid=1012
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Title" >
+			<PostId>2210</PostId>
+			<ParentPostId>807</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-24T10:06:29.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What local beers are there on the Canary Islands?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Tags" >
+			<PostId>2211</PostId>
+			<ParentPostId>807</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-24T10:06:29.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Edit Body" >
+			<PostId>2218</PostId>
+			<ParentPostId>807</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:26:43.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title, formatted question, added tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					The common beers in Gran Canaria are Topical and Dorada.
+
+					What other local beers are there on the Canary Island?
+
+					Is there any microbrewery / local brewery in the Canary Island?
+
+					Are there craft beers in the Las Palma de Gran Canaria?
+
+
+					http://www.sabmiller.com/index.asp?pageid=1012
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Edit Title" >
+			<PostId>2219</PostId>
+			<ParentPostId>807</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:26:43.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title, formatted question, added tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Looking for local beers on the Canary Islands?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Edit Tags" >
+			<PostId>2220</PostId>
+			<ParentPostId>807</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:26:43.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title, formatted question, added tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, local, travel, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Unknown" >
+			<PostId>2221</PostId>
+			<ParentPostId>807</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:26:43.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 69 approved by -1 edit id of 97
+			</EditDetails>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Edit Body" >
+			<PostId>2222</PostId>
+			<ParentPostId>807</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:26:43.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title, formatted question, added tags (restored bullets to identify individual questions.)
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					The common beers in Gran Canaria are [Topical and Dorada][1].
+
+					 - What other local beers are there on the Canary Island?
+   
+					 -  Is there any microbrewery / local brewery in the Canary Island?
+   
+					 -  Are there craft beers in the Las Palma de Gran Canaria?
+
+					  [1]: http://www.sabmiller.com/index.asp?pageid=1012
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Edit Tags" >
+			<PostId>2228</PostId>
+			<ParentPostId>807</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-27T14:26:43.317</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				improved title, formatted question, added tags (restored bullets to identify individual questions.)
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Body" >
+			<PostId>2273</PostId>
+			<ParentPostId>835</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-31T15:08:58.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there any microbrewery in Iceland?
+
+					Is there any in Reykjavik, the capital city?
+
+					What is the most distinct / unique beer from Iceland that one can get at the supermarket?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Initial Title" >
+			<PostId>2274</PostId>
+			<ParentPostId>835</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-31T15:08:58.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there mircrobreweries/craft beer in Iceland?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Tags" >
+			<PostId>2275</PostId>
+			<ParentPostId>835</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-31T15:08:58.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Edit Body" >
+			<PostId>2276</PostId>
+			<ParentPostId>835</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-31T15:56:36.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed spelling in the title, and improved the flow of the questions. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any microbreweries in Iceland?  If so, are any of them in Reykjavik?
+
+					What is the most distinct / unique beer from Iceland that one can get at the supermarket?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Edit Title" >
+			<PostId>2277</PostId>
+			<ParentPostId>835</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-31T15:56:36.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed spelling in the title, and improved the flow of the questions. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there microbreweries or craft breweries in Iceland?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Unknown" >
+			<PostId>3277</PostId>
+			<ParentPostId>835</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-01T21:48:46.140</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/473219629192445952
+			</EditDetails>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Initial Body" >
+			<PostId>3340</PostId>
+			<ParentPostId>865</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-09T20:48:56.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any microbreweries in Washington/Baltimore region?
+
+					What are the specialty brew from that part of the states? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Initial Title" >
+			<PostId>3341</PostId>
+			<ParentPostId>865</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-09T20:48:56.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any craft beer or microbrewery in Washington and Baltimore?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Tags" >
+			<PostId>3342</PostId>
+			<ParentPostId>865</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-09T20:48:56.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Unknown" >
+			<PostId>3397</PostId>
+			<ParentPostId>865</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-22T22:55:19.140</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/480846521865601024
+			</EditDetails>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Initial Body" >
+			<PostId>3432</PostId>
+			<ParentPostId>904</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-02T17:51:59.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any microbrewery in Lisbon/Tomar in Portugal?
+
+					What is the specialty brew in Portugal? Is there any special beer or beer-like alcohol from Portugal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Initial Title" >
+			<PostId>3433</PostId>
+			<ParentPostId>904</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-02T17:51:59.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any microbrewery in Lisbon/Tomar in portugal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Tags" >
+			<PostId>3434</PostId>
+			<ParentPostId>904</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-02T17:51:59.133</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Body" >
+			<PostId>3495</PostId>
+			<ParentPostId>927</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-15T12:40:01.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					From my understanding, mead is primarily made from honey and may or may not have hops added.
+					Is mead considered a style of beer, or more of a wine, or a completely separate kind of beverage?
+
+					Are they brewed similarly? More specifically, would it be reasonable to think a brewery I like may make, or consider making mead as well?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Initial Title" >
+			<PostId>3496</PostId>
+			<ParentPostId>927</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-15T12:40:01.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the differences between mead and beer? Where can I try one in the US?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Initial Tags" >
+			<PostId>3497</PostId>
+			<ParentPostId>927</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-15T12:40:01.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, united-states, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Unknown" >
+			<PostId>3500</PostId>
+			<ParentPostId>927</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-16T08:54:02.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/489332117479124992
+			</EditDetails>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Initial Body" >
+			<PostId>3507</PostId>
+			<ParentPostId>934</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-16T19:18:37.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have heard a lot about Heady Topper, the Double IPA by The Alchemist brewery, and how it is a fantastic beer. Online reviews always rank it exceptionally high and everyone I have asked that has tried it has said it was good. However, I have also been told that it is fairly pricey; due to name, renown, and the exclusivity of it. Would it be worth trying to get or order some?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Initial Title" >
+			<PostId>3508</PostId>
+			<ParentPostId>934</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-16T19:18:37.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Heady Topper by The Alchemist worth it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Initial Tags" >
+			<PostId>3509</PostId>
+			<ParentPostId>934</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-16T19:18:37.623</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1104</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Unknown" >
+			<PostId>3537</PostId>
+			<ParentPostId>904</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-23T07:17:09.663</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				4
+			</EditDetails>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Unknown" >
+			<PostId>3538</PostId>
+			<ParentPostId>904</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-23T09:37:35.653</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/491879791306760192
+			</EditDetails>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Unknown" >
+			<PostId>3557</PostId>
+			<ParentPostId>904</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-27T07:47:13.493</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				4
+			</EditDetails>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Initial Body" >
+			<PostId>3590</PostId>
+			<ParentPostId>968</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-05T14:41:30.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1160</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Looking for sources for beer n brewery statistics such as production in hl per year, consumption, consumption per capita, number of breweries (macro, regional, micro, brewpubs, and so on) etc. ideally for all countries in the world. Any insight and help appreciated.
+
+
+					Disclaimer: I'm the project lead of the beer.csv project that collects (open, free) [beer statistics](https://github.com/beercsv/statistics) in the CSV (comma-separated values) format.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Initial Title" >
+			<PostId>3591</PostId>
+			<ParentPostId>968</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-05T14:41:30.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1160</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer n Brewery Statistics - Any Sources for Production, Consumption, Number of Breweries, etc. per Country?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Initial Tags" >
+			<PostId>3592</PostId>
+			<ParentPostId>968</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-08-05T14:41:30.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1160</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Initial Body" >
+			<PostId>3748</PostId>
+			<ParentPostId>1040</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-02T23:33:26.663</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there local micro-breweries in Tokyo? 
+
+					Are they serving local Japanese craft beer?
+
+					What are Japanese craft beer that one can find in Tokyo?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Initial Title" >
+			<PostId>3749</PostId>
+			<ParentPostId>1040</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-02T23:33:26.663</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Local microbreweries and craft beer in Tokyo
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Initial Tags" >
+			<PostId>3750</PostId>
+			<ParentPostId>1040</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-02T23:33:26.663</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Initial Body" >
+			<PostId>3833</PostId>
+			<ParentPostId>1070</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-05T22:01:16.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1457</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm an east coast guy who loves east coast and mid-west beer. I'm about to head out on a west coast tour with a show band and am looking for "must have" west coast beers. We will be all over CA, OR and WA. I'm aware of the ones that are must tries like Russian River, Deschutes, etc. I'm wondering if there are some hidden gems out there of some beer stores/breweries that can't be missed. West coast beer aficionados, brag away!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Initial Title" >
+			<PostId>3834</PostId>
+			<ParentPostId>1070</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-05T22:01:16.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1457</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					West coast beer recommendations, please!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Initial Tags" >
+			<PostId>3835</PostId>
+			<ParentPostId>1070</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-05T22:01:16.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1457</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Unknown" >
+			<PostId>3849</PostId>
+			<ParentPostId>1070</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-15T19:44:14.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/533707064611045376
+			</EditDetails>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Unknown" >
+			<PostId>3868</PostId>
+			<ParentPostId>1040</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-19T13:51:38.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/535067880878903296
+			</EditDetails>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Unknown" >
+			<PostId>3886</PostId>
+			<ParentPostId>1040</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-24T21:21:02.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				5
+			</EditDetails>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Unknown" >
+			<PostId>3920</PostId>
+			<ParentPostId>1040</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-02T22:24:51.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				5
+			</EditDetails>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Initial Body" >
+			<PostId>4964</PostId>
+			<ParentPostId>2133</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-17T10:05:46.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1160</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm looking for free online beer-a-day calendars highlighting a different beer every day. Anything available for the United States, Germany, Bavaria, for example?  Ideally the calendars also include a web feed for subscription. Any insight welcome.  Cheers. Prost.
+
+					Disclaimer: As examples I've put together a free online beer-a-day calendar for [Austria](http://at365.herokuapp.com) - [(Feed)](http://at365.herokuapp.com/feed) and for [Belgium](http://be365.herokuapp.com) - [(Feed)](http://be365.herokuapp.com/feed).  All example code and data public domain (that is, free, open source).
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Initial Title" >
+			<PostId>4965</PostId>
+			<ParentPostId>2133</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-17T10:05:46.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1160</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer-A-Day (Free Online) Calendars
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Initial Tags" >
+			<PostId>4966</PostId>
+			<ParentPostId>2133</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-17T10:05:46.727</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1160</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Unknown" >
+			<PostId>4988</PostId>
+			<ParentPostId>2133</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-18T15:16:36.930</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/545598513070215168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Initial Body" >
+			<PostId>6115</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:08:04.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any micro-brewery in Porto?
+
+					Are there any Port related beer brew in Porto? (like Rodenbach beers in Belgium, they have a winey feel)
+
+					What local beers (micro-brewery or not) should one look out for in Porto?
+
+					Is Port / Porto related to Porter?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Initial Title" >
+			<PostId>6116</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:08:04.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Microbrewery in Porto, Portugal? Port, Porter, Porto, Portugal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Initial Tags" >
+			<PostId>6117</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:08:04.677</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, porter, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Initial Body" >
+			<PostId>6118</PostId>
+			<ParentPostId>3201</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:12:41.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there local breweries / microbreweries in Montreal, Canada?
+
+					What are the specialty brews in Montreal? Is there a must-drink beer in Montreal?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Initial Title" >
+			<PostId>6119</PostId>
+			<ParentPostId>3201</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:12:41.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Local breweries and specialty brew in Montreal?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Initial Tags" >
+			<PostId>6120</PostId>
+			<ParentPostId>3201</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:12:41.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, specialty-beers, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "118" InstanceType= "Edit Body" >
+			<PostId>6137</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-20T16:38:39.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3671</UserId>
+			</Contributors>
+			<EditDetails>
+				changed grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any microbreweries in Porto?
+
+					Are there any Port-related beer breweries in Porto? (Such as Rodenbach beers in Belgium, that have a wine-like feel.)
+
+					What local beers (micro-brewery or not) should one look out for in Porto?
+
+					Is Port / Porto related to Porter?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "119" InstanceType= "Unknown" >
+			<PostId>6138</PostId>
+			<ParentPostId>3200</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-20T16:38:39.823</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 3671 approved by 73 edit id of 122
+			</EditDetails>
+		</Instance>
+		<Instance Id= "120" InstanceType= "Initial Body" >
+			<PostId>6144</PostId>
+			<ParentPostId>3212</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-21T14:46:56.533</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1374</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					is there any local brewery and supply shop in istanbul, how can i find supplies for home brewing, I want to start home brewing but I dont know how to find supplies?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "121" InstanceType= "Initial Title" >
+			<PostId>6145</PostId>
+			<ParentPostId>3212</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-21T14:46:56.533</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1374</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Local breweries and brewery supplies in istanbul?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "122" InstanceType= "Initial Tags" >
+			<PostId>6146</PostId>
+			<ParentPostId>3212</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-21T14:46:56.533</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1374</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "123" InstanceType= "Initial Body" >
+			<PostId>6150</PostId>
+			<ParentPostId>3216</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-23T06:54:47.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can anyone tell me if the USA market Becks adheres to the current definition of the Reinheitsgebot (aka German Purity Law) and what grains are used?  
+
+					I ask because I swear it tastes "ricey" like all the other American InBev beers, like Miller etc but friends swear "Oh no, it's made to German spec" and I note it's made in St. Louis where the devil makes gross Anheuser Busch products.
+
+					Thanks in advance!
+
+					- Sincerely, 
+					Someone Get Me a Growler of Dirt Wolf
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "124" InstanceType= "Initial Title" >
+			<PostId>6151</PostId>
+			<ParentPostId>3216</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-23T06:54:47.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Becks USA AB InBev
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "125" InstanceType= "Initial Tags" >
+			<PostId>6152</PostId>
+			<ParentPostId>3216</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-23T06:54:47.337</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3713</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "126" InstanceType= "Initial Body" >
+			<PostId>6310</PostId>
+			<ParentPostId>3285</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T19:30:43.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3872</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am just mesmerized to see the Micro-Brewery revolution take off  and I have visited couple of breweries here in San Diego. I really find that there is a distinct taste to the beers as oppose to walk into a store and buy. I know that brewery beers are distinctively better with the BUT how do you theoretically prove that Beer A is better than Beer B. Is there any check-list to compare beers with each other?
+ 
+					It may sound like a very basic question but there has to be a way to tell a good beer from a bad one right?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "127" InstanceType= "Initial Title" >
+			<PostId>6311</PostId>
+			<ParentPostId>3285</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T19:30:43.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3872</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to become a beer snob?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "128" InstanceType= "Initial Tags" >
+			<PostId>6312</PostId>
+			<ParentPostId>3285</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T19:30:43.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3872</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "129" InstanceType= "Edit Body" >
+			<PostId>6317</PostId>
+			<ParentPostId>3285</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T21:23:33.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 1 character in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I am just mesmerized to see the microbrewery revolution take off and I have visited a couple of breweries here in San Diego. I really find that there is a distinct taste to the beers as opposed to walking into a store and buying. I know that brewery beers are distinctively better, but how do you theoretically prove that Beer A is better than Beer B. Is there any checklist to compare beers with each other?
+ 
+					It may sound like a very basic question but there has to be a way to tell a good beer from a bad one, right?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "130" InstanceType= "Edit Title" >
+			<PostId>6318</PostId>
+			<ParentPostId>3285</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-10T21:23:33.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 1 character in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is there a widely-accepted procedure for saying one beer is definitively "better" than another?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "131" InstanceType= "Initial Body" >
+			<PostId>6516</PostId>
+			<ParentPostId>3372</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-09T11:48:17.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm curious to try some beer that closely mimics more historic styles, although:
+
+					 1. I'm not too familiar with all of the styles and brewing methods of centuries past
+					 2. I don't always trust modern brewers to offer an authentic representation of old styles
+
+					So I wonder: what were the ancients up to the early modern people drinking, and who can I get similar beers from?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "132" InstanceType= "Initial Title" >
+			<PostId>6517</PostId>
+			<ParentPostId>3372</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-09T11:48:17.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Modern, commercial beers that closely mimic historic styles
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "133" InstanceType= "Initial Tags" >
+			<PostId>6518</PostId>
+			<ParentPostId>3372</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-09T11:48:17.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, style, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "134" InstanceType= "Initial Body" >
+			<PostId>6556</PostId>
+			<ParentPostId>3386</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-23T15:34:51.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3917</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does anybody knows the best place for brewed beer in Pune, Maharashtra, India. 
+
+					I have visited few breweries in Mumbai recently, and i became fan of the brewed beer, the flavours they offered there, mostly of Belgian Ale.
+
+					I would like to know if there is any such good brewery in Pune ? i would like to visit.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "135" InstanceType= "Initial Title" >
+			<PostId>6557</PostId>
+			<ParentPostId>3386</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-23T15:34:51.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3917</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Brewed Beer in Pune
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "136" InstanceType= "Initial Tags" >
+			<PostId>6558</PostId>
+			<ParentPostId>3386</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-23T15:34:51.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>3917</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "137" InstanceType= "Unknown" >
+			<PostId>6578</PostId>
+			<ParentPostId>3372</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-31T20:34:07.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/605110024919216130
+			</EditDetails>
+		</Instance>
+		<Instance Id= "138" InstanceType= "Post Closed" >
+			<PostId>6590</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-04T06:34:53.160</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				104
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "139" InstanceType= "Edit Body" >
+			<PostId>6656</PostId>
+			<ParentPostId>3386</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T20:24:26.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<EditDetails>
+				Copy edited
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Does anybody know the best place for brewed beer in Pune, Maharashtra, India? 
+
+					I have visited a few breweries in Mumbai recently, and I became a fan of the brewed beer, the flavours they offered there, mostly of the Belgian Ale.
+
+					I would like to know if there is any similarly good brewery in Pune? I would like to visit.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "140" InstanceType= "Unknown" >
+			<PostId>6657</PostId>
+			<ParentPostId>3386</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-25T20:24:26.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 121 approved by 73 edit id of 135
+			</EditDetails>
+		</Instance>
+		<Instance Id= "141" InstanceType= "Initial Body" >
+			<PostId>6695</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-01T11:39:05.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4281</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am moving back home in the next few days and the idea of importing all my beer does not seem reasonable.
+
+					I'm willing to try any kind of beer, but my preference is for IPA's and Belgian Strong pale ales.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "142" InstanceType= "Initial Title" >
+			<PostId>6696</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-01T11:39:05.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4281</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Any advice on good brewaries near São Paulo - Brazil?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "143" InstanceType= "Initial Tags" >
+			<PostId>6697</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-01T11:39:05.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4281</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, ipa, ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "144" InstanceType= "Initial Body" >
+			<PostId>6718</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-09T11:40:14.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would like the other beer enthusiasts to suggest some new ales for me to try. I enjoy all Bath Ales and Box Steam Brewery; I'm more a fan of a bitter and less so of pale ales.
+
+					Can you advise of any brands of a similar or superior quality I might try? The cheaper end of the scale (Spitfire, speckled hen) doesn't interest me.
+
+					Many thanks in advance. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "145" InstanceType= "Initial Title" >
+			<PostId>6719</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-09T11:40:14.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Broadening my horizons
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "146" InstanceType= "Initial Tags" >
+			<PostId>6720</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-09T11:40:14.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, local, ale, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "147" InstanceType= "Edit Body" >
+			<PostId>6721</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-09T14:04:59.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4303</UserId>
+			</Contributors>
+			<EditDetails>
+				added 31 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I would like the other beer enthusiasts to suggest some new ales for me to try. I enjoy all Bath Ales and Box Steam Brewery; I'm more a fan of a bitter and less so of pale ales.
+
+					Can you advise of any brands of a similar or superior quality I might try? (In the South West of the UK). The cheaper end of the scale (Spitfire, speckled hen) doesn't interest me.
+
+					Many thanks in advance. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "148" InstanceType= "Edit Body" >
+			<PostId>6724</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-10T08:43:05.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 4 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I would like the other beer enthusiasts to suggest some new ales for me to try. I enjoy all Bath Ales and Box Steam Brewery; I'm more a fan of a bitter and less so of pale ales.
+
+					Can you advise of any brands of a similar or superior quality I might try? (In the South West of the UK). The cheaper end of the scale (Spitfire, speckled hen) doesn't interest me.
+
+					Many thanks in advance. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "149" InstanceType= "Edit Title" >
+			<PostId>6725</PostId>
+			<ParentPostId>3453</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-10T08:43:05.523</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				added 4 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Broadening my horizons (Ale recommendations in South West UK)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "150" InstanceType= "Edit Title" >
+			<PostId>6778</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:13:13.943</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4324</UserId>
+			</Contributors>
+			<EditDetails>
+				correct spelling
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Any advice on good breweries near São Paulo - Brazil?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "151" InstanceType= "Unknown" >
+			<PostId>6779</PostId>
+			<ParentPostId>3446</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-19T06:13:13.943</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4324 approved by 73 edit id of 139
+			</EditDetails>
+		</Instance>
+		<Instance Id= "152" InstanceType= "Initial Body" >
+			<PostId>6851</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:05:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I found this for Saarland, http://www.ratebeer.com/state/saarland/122/ but it looks more like commercial brews.
+
+
+					Are there any craft/microbrewery in the tri-country greater region of Saarland (Germany), Luxembourg and Lorraine (France)?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "153" InstanceType= "Initial Title" >
+			<PostId>6852</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:05:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft/micro brewery in Saarland, Luxembourg and Lorraine region?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "154" InstanceType= "Initial Tags" >
+			<PostId>6853</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:05:17.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, german-beers, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "155" InstanceType= "Initial Body" >
+			<PostId>6854</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:09:02.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Other than the popular Porterhouse (http://www.porterhousebrewco.com/bars-dublin-temple.php), are there other pub that serves craft/microbrewery beer in Dublin, Ireland?
+
+					Other than the famous Guinness brewhouse, are there other microbrewery around Dublin?
+
+					Other than Guinness Stout, what other Guinness beer is a must-have? Are there any Dublin exclusive beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "156" InstanceType= "Initial Title" >
+			<PostId>6855</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:09:02.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft brew in Dublin
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "157" InstanceType= "Initial Tags" >
+			<PostId>6856</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:09:02.077</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "158" InstanceType= "Initial Body" >
+			<PostId>6857</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:11:12.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Czech is known for its Pilsen Pilsner but is there any special beer from the Prague capital? 
+
+					Are there any craft/microbrewery in Prague? 
+
+					Any suggestions to pub that serves good craft Czech brews?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "159" InstanceType= "Initial Title" >
+			<PostId>6858</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:11:12.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Microbrewery in Prague
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "160" InstanceType= "Initial Tags" >
+			<PostId>6859</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:11:12.573</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, pilsener, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "161" InstanceType= "Initial Body" >
+			<PostId>6860</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:16:54.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Recently, CNN listed the `Smith Street Tap` from the **Good Beer Company** in Singapore as one of the world's greatest bar (http://www.cntraveler.com/galleries/2015-07-21/the-greatest-bars-in-the-world/23).
+
+					Also, locally known, **Brewerkz** http://www.brewerkz.com/ serves some good craft beer.
+
+					After some internet searches, I found **Jungle Beer** that is a mircobrew: http://www.junglebeer.com/
+
+					Other than the 3 sources listed above, where else can one get craft/microbrewery beer in Singapore?
+
+					Are there other microbreweries in Singapore? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "162" InstanceType= "Initial Title" >
+			<PostId>6861</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:16:54.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft beers and Microbreweries in Singapore?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "163" InstanceType= "Initial Tags" >
+			<PostId>6862</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-04T21:16:54.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "164" InstanceType= "Unknown" >
+			<PostId>7884</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-13T21:56:05.040</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				7
+			</EditDetails>
+		</Instance>
+		<Instance Id= "165" InstanceType= "Unknown" >
+			<PostId>7927</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-20T01:49:28.540</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				7
+			</EditDetails>
+		</Instance>
+		<Instance Id= "166" InstanceType= "Unknown" >
+			<PostId>8107</PostId>
+			<ParentPostId>3386</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-05T20:10:09.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/651127253632352257
+			</EditDetails>
+		</Instance>
+		<Instance Id= "167" InstanceType= "Initial Body" >
+			<PostId>8132</PostId>
+			<ParentPostId>4628</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-13T05:32:13.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4526</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I [recently came across](https://en.wikipedia.org/wiki/Beer_in_the_United_States) the following map of number of breweries per 1 million population in the United States:
+
+					[![enter image description here][1]][1]
+
+					Visually it's apparent that there are the most breweries per capita in the northwest and northeast, and there are the fewest breweries per capita in the south.
+
+					What is the main cause for these regional differences? The impact of climate? Laws and regulations in different parts of the U.S.? Regional demand differences? Something else?
+
+					  [1]: http://i.stack.imgur.com/bwyTX.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "168" InstanceType= "Initial Title" >
+			<PostId>8133</PostId>
+			<ParentPostId>4628</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-13T05:32:13.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4526</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Causes for regional differences in brewery count in the United States
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "169" InstanceType= "Initial Tags" >
+			<PostId>8134</PostId>
+			<ParentPostId>4628</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-13T05:32:13.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4526</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "170" InstanceType= "Unknown" >
+			<PostId>8140</PostId>
+			<ParentPostId>4628</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-14T05:46:38.280</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/654171433107595264
+			</EditDetails>
+		</Instance>
+		<Instance Id= "171" InstanceType= "Unknown" >
+			<PostId>8171</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-20T07:12:01.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				8
+			</EditDetails>
+		</Instance>
+		<Instance Id= "172" InstanceType= "Unknown" >
+			<PostId>8172</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-20T09:25:44.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/656400901444366336
+			</EditDetails>
+		</Instance>
+		<Instance Id= "173" InstanceType= "Initial Body" >
+			<PostId>8173</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-21T05:24:25.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any South Korean craft breweries who bottle their beers?
+
+					Bonus question: Where (in Seoul) can my friend obtain some?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "174" InstanceType= "Initial Title" >
+			<PostId>8174</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-21T05:24:25.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any bottled South Korean craft beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "175" InstanceType= "Initial Tags" >
+			<PostId>8175</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-21T05:24:25.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "176" InstanceType= "Unknown" >
+			<PostId>8179</PostId>
+			<ParentPostId>934</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-22T00:33:47.370</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/656991805284687872
+			</EditDetails>
+		</Instance>
+		<Instance Id= "177" InstanceType= "Unknown" >
+			<PostId>8206</PostId>
+			<ParentPostId>3511</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-28T08:37:37.143</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				8
+			</EditDetails>
+		</Instance>
+		<Instance Id= "178" InstanceType= "Initial Body" >
+			<PostId>8522</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T09:24:31.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard lately, that the german beer [*Warsteiner*][1] does not fullfill the german [**Reinheitsgebot**][2] and therefore is not a [*Pilsner*][3].
+
+					Is that true and if yes, what is being done differently?
+
+
+					  [1]: http://www.warsteiner.com/
+					  [2]: http://beer.stackexchange.com/a/431/4947
+					  [3]: https://en.wikipedia.org/wiki/Pilsner
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "179" InstanceType= "Initial Title" >
+			<PostId>8523</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T09:24:31.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is the german "Warsteiner" a Pilsner?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "180" InstanceType= "Initial Tags" >
+			<PostId>8524</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-13T09:24:31.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "181" InstanceType= "Edit Body" >
+			<PostId>8532</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-14T09:17:13.507</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4947</UserId>
+			</Contributors>
+			<EditDetails>
+				rephrased question according to comments
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've heard lately, that the german beer [*Warsteiner*][1] &lt;strike&gt;does not fullfill the german [**Reinheitsgebot**][2] and therefore is&lt;/strike&gt; is not allowed to be called [*Pilsner*][3], that is why they call it a *Premium Verum*.
+
+					Is that true and if yes, why?
+
+
+					  [1]: http://www.warsteiner.com/
+					  [2]: http://beer.stackexchange.com/a/431/4947
+					  [3]: https://en.wikipedia.org/wiki/Pilsner
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "182" InstanceType= "Unknown" >
+			<PostId>8592</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-31T08:38:39.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/693715001421471745
+			</EditDetails>
+		</Instance>
+		<Instance Id= "183" InstanceType= "Initial Body" >
+			<PostId>8621</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-05T08:10:26.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5046</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So from a previous question I learned that the Trappist foundation was founded in 1997 by 6 Belgian breweries one from the netherlands and one from germany. But were there other breweries wich succeeded to the conditions for the label of Trappist. I mean, it sounds unfair for a brewerie in France that six of the founding members are from Belgium.
+
+					And are those original founding members still the people who control the label? Then it sounds still unfair today, becaus they can easily keep the number of breweries with the trappist label low, just for marketing reasons. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "184" InstanceType= "Initial Title" >
+			<PostId>8622</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-05T08:10:26.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5046</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When the Trappist foundation was founded in 1997,were there breweries wich didn't get the label altough they succeeded the conditions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "185" InstanceType= "Initial Tags" >
+			<PostId>8623</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-05T08:10:26.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5046</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, breweries, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "186" InstanceType= "Edit Body" >
+			<PostId>8631</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-07T09:16:45.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected the grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					So from a previous question I learned that the Trappist foundation was founded in 1997 by 6 Belgian breweries one from the netherlands and one from germany. But were there other breweries which succeeded to the conditions for the label of Trappist. I mean, it sounds unfair for a brewerie in France that six of the founding members are from Belgium.
+
+					And are those original founding members still the people who control the label? Then it sounds still unfair today, because they can easily keep the number of breweries with the trappist label low, just for marketing reasons. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "187" InstanceType= "Edit Title" >
+			<PostId>8632</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-07T09:16:45.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected the grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					When the Trappist foundation was founded in 1997,were there breweries which didn't get the label altough they succeeded the conditions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "188" InstanceType= "Unknown" >
+			<PostId>8633</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-07T09:16:45.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 73 edit id of 154
+			</EditDetails>
+		</Instance>
+		<Instance Id= "189" InstanceType= "Unknown" >
+			<PostId>8852</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-17T03:06:28.620</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/710301245857263617
+			</EditDetails>
+		</Instance>
+		<Instance Id= "190" InstanceType= "Edit Tags" >
+			<PostId>9274</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:05:52.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				fixed tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					specialty-beers, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "191" InstanceType= "Unknown" >
+			<PostId>9275</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-05-27T15:05:52.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5078 approved by 43, 37 edit id of 189
+			</EditDetails>
+		</Instance>
+		<Instance Id= "192" InstanceType= "Edit Tags" >
+			<PostId>9491</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:51:15.073</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "193" InstanceType= "Edit Tags" >
+			<PostId>9493</PostId>
+			<ParentPostId>3386</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:52:41.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "194" InstanceType= "Unknown" >
+			<PostId>9770</PostId>
+			<ParentPostId>4645</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-10T21:33:00.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/752254320570208256
+			</EditDetails>
+		</Instance>
+		<Instance Id= "195" InstanceType= "Unknown" >
+			<PostId>9793</PostId>
+			<ParentPostId>3386</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-16T03:50:37.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "196" InstanceType= "Edit Tags" >
+			<PostId>9856</PostId>
+			<ParentPostId>2133</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:45:09.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				[Edit removed during grace period]
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "197" InstanceType= "Edit Body" >
+			<PostId>11012</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-07T08:30:25.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5575</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed up title and some capitalization
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					So from a previous question I learned that the Trappist foundation was founded in 1997 by 6 Belgian breweries one from the Netherlands and one from Germany. But were there other breweries which succeeded to the conditions for the label of Trappist. I mean, it sounds unfair for a brewery in France that six of the founding members are from Belgium.
+
+					And are those original founding members still the people who control the label? Then it sounds still unfair today, because they can easily keep the number of breweries with the trappist label low, just for marketing reasons. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "198" InstanceType= "Edit Title" >
+			<PostId>11013</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-07T08:30:25.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5575</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed up title and some capitalization
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					When the Trappist foundation was founded in 1997, were there breweries which didn't get the label although they succeeded to the conditions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "199" InstanceType= "Unknown" >
+			<PostId>11014</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-07T08:30:25.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5575 approved by 5064, 5078 edit id of 274
+			</EditDetails>
+		</Instance>
+		<Instance Id= "200" InstanceType= "Unknown" >
+			<PostId>11095</PostId>
+			<ParentPostId>86</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-24T21:22:29.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/779793148373499904
+			</EditDetails>
+		</Instance>
+		<Instance Id= "201" InstanceType= "Initial Body" >
+			<PostId>11109</PostId>
+			<ParentPostId>6314</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-01T14:35:51.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					We all know that the some [Trappist][1] monasteries produce their famous [Trappist beer][2]. A little less know fact is that the [Carthusian][3] monks at the [Grande Chartreuse][4] in France produces their world famous  [Chartreuse liqueur][5].
+
+					My question is quite simple: Are there any other Catholic monasteries or Religious Orders that produce any other alcoholic beverages available to be bought by the general public?
+
+					I am not asking for alcoholic beverages that are named after some Religious Order or personage like [Frangelico][6].
+
+
+					  [1]: https://en.wikipedia.org/wiki/Trappists
+					  [2]: https://en.wikipedia.org/wiki/Trappist_beer
+					  [3]: https://en.wikipedia.org/wiki/Carthusians
+					  [4]: https://en.wikipedia.org/wiki/Grande_Chartreuse
+					  [5]: https://en.wikipedia.org/wiki/Chartreuse_(liqueur)
+					  [6]: https://en.wikipedia.org/wiki/Frangelico
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "202" InstanceType= "Initial Title" >
+			<PostId>11110</PostId>
+			<ParentPostId>6314</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-01T14:35:51.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Alcohol producing Catholic monasteries?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "203" InstanceType= "Initial Tags" >
+			<PostId>11111</PostId>
+			<ParentPostId>6314</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-01T14:35:51.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, distilleries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "204" InstanceType= "Initial Body" >
+			<PostId>11163</PostId>
+			<ParentPostId>6329</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-07T11:21:19.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Seeking online sources where companies offer free labels for their products (beer, wine or other spirits)?
+
+					A few years ago I discovered that Crown Royal offers free custom made labels (restriction do apply). The labels fit right over the original labels in such a way that no one could tell the the original one were still on the bottle. I had much fun buying some Crown Royal with custom labels put in them at Christmas time. The looks we got when they read the labels were truly amazing.
+
+					My question is quite simple: **Are there any other breweries or alcohol producing companies that offer free labels online for their alcoholic beverages?** 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "205" InstanceType= "Initial Title" >
+			<PostId>11164</PostId>
+			<ParentPostId>6329</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-07T11:21:19.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Seeking online sources where companies offer free labels for their products (beer, wine or other spirits)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "206" InstanceType= "Initial Tags" >
+			<PostId>11165</PostId>
+			<ParentPostId>6329</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-07T11:21:19.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, distilleries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "207" InstanceType= "Unknown" >
+			<PostId>11200</PostId>
+			<ParentPostId>3512</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-09T09:51:00.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/785054950564986881
+			</EditDetails>
+		</Instance>
+		<Instance Id= "208" InstanceType= "Edit Body" >
+			<PostId>11214</PostId>
+			<ParentPostId>6329</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-10T16:08:07.200</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added link to question.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Seeking online sources where companies offer free labels for their products (beer, wine or other spirits)?
+
+					A few years ago I discovered that [Crown Royal][1] offers free custom made labels (restriction do apply). The labels fit right over the original labels in such a way that no one could tell the the original one were still on the bottle. I had much fun buying some Crown Royal with custom labels put in them at Christmas time. The looks we got when they read the labels were truly amazing.
+
+					My question is quite simple: **Are there any other breweries or alcohol producing companies that offer free labels online for their alcoholic beverages?** 
+
+
+					  [1]: http://crownroyalshop.com/index.php/categories-products/custom-labels/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "209" InstanceType= "Edit Body" >
+			<PostId>11224</PostId>
+			<ParentPostId>3510</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-13T00:00:40.843</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I found these [Beer from Saarland](http://www.ratebeer.com/state/saarland/122/) but it looks more like commercial brews.
+
+
+					Are there any craft/microbrewery in the tri-country greater region of Saarland (Germany), Luxembourg and Lorraine (France)?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "210" InstanceType= "Unknown" >
+			<PostId>11262</PostId>
+			<ParentPostId>6329</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-19T17:04:36.380</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/788787946275147777
+			</EditDetails>
+		</Instance>
+		<Instance Id= "211" InstanceType= "Edit Body" >
+			<PostId>11273</PostId>
+			<ParentPostId>3212</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-21T12:25:30.287</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any local breweries and supply shops in Istanbul? How can I find supplies for home brewing in Turkey as I want to start home brewing but I dont know where to find supplies?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "212" InstanceType= "Edit Title" >
+			<PostId>11274</PostId>
+			<ParentPostId>3212</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-21T12:25:30.287</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Local breweries and brewery supplies in Istanbul?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "213" InstanceType= "Unknown" >
+			<PostId>11690</PostId>
+			<ParentPostId>6314</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-05T23:05:31.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/828379054873120768
+			</EditDetails>
+		</Instance>
+		<Instance Id= "214" InstanceType= "Initial Body" >
+			<PostId>11843</PostId>
+			<ParentPostId>6560</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-21T03:04:39.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Dixie Brewing Company](https://en.wikipedia.org/wiki/Dixie_Brewing_Company) used to make a dessert beer called White Chocolate Moose.  It was a sweet, chocolate-flavored (I don't mean chocolate malt) beer and came in small (I think 7oz) bottles -- which was the right size for something that concentrated.  (In a way, it was to beer what ice wine is to wine.)  Then Hurricane Katrina happened and the brewery was destroyed.  According to Wikipedia they operate now as a contract brewery, but as far as I can tell they're not making this particular product, at least under that name.  ("As far as I can tell": I can't find a web site for the company nor a product list, but my searches under this name aren't producing results.)
+
+					Is somebody producing this under a different name?  If so, who and where?  If not, what beers are available that are similar in taste?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "215" InstanceType= "Initial Title" >
+			<PostId>11844</PostId>
+			<ParentPostId>6560</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-21T03:04:39.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where can I find something similar to White Chocolate Moose (Dixie Brewing Co)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "216" InstanceType= "Initial Tags" >
+			<PostId>11845</PostId>
+			<ParentPostId>6560</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-21T03:04:39.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "217" InstanceType= "Unknown" >
+			<PostId>11944</PostId>
+			<ParentPostId>6560</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-25T06:55:52.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/835382790409572352
+			</EditDetails>
+		</Instance>
+		<Instance Id= "218" InstanceType= "Edit Body" >
+			<PostId>12233</PostId>
+			<ParentPostId>579</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T08:31:08.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://meta.beer.stackexchange.com/ with https://alcohol.meta.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I wasn't a beer enthusiast while living in NYC, but still I don't recall hearing much about local breweries. Are there any worthwhile (well-known, or tasty :-) beers brewed in NYC, worth visiting at their sources?
+
+					I'd like to hear from those who have actually toured breweries in NYC and have some subjective input, since anyone could easily Google "breweries in NYC" and provide an impersonal list. Perhaps a local citizen could take into consideration breweries which are easily accessible via the subway system (since who takes buses in NYC unless in Queens, right?—and I doubt there are any breweries in Queens). Even better, breweries that are in fun neighborhoods to hang out, not some desolate industrial park in Brooklyn (unless that's part of the appeal) or a shady neighborhood in the Bronx. I mean, it better be some _damn good beer_ if anyone's gonna be bothered to take the subway all the way to the Bronx :-)
+
+					Also see https://alcohol.meta.stackexchange.com/q/67/73 to discuss the validity of this question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "219" InstanceType= "Edit Body" >
+			<PostId>12234</PostId>
+			<ParentPostId>580</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-17T08:31:08.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://meta.beer.stackexchange.com/ with https://alcohol.meta.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I fly a lot, and like to seek out new beers while waiting or between connecting flights. Frequent flyers: let's help each other out and compile (community wiki-style) a list of establishments in major airports that serve local beers.
+
+					For definition's sake, though arbitrary, let's say a "major airport" is one which
+
+					 - serves more than [5,000,000+ passengers per year](http://en.wikipedia.org/wiki/List_of_airports_in_the_United_States) ("enplanements"),
+					 - or serves the _most_ passengers per year in its country.
+
+					So, outside of the U.S., check the airport's Wikipedia page for the stats—for example [Berlin's Schönefeld Airport](http://en.wikipedia.org/wiki/Sch%C3%B6nefeld_International_Airport), with 7,000,000+ enplanements in 2010. Also eligible are airports like [Luxembourg's main airport](http://en.wikipedia.org/wiki/Luxembourg-Findel_International_Airport), serving less than 5,000,000 passengers per year, but the most in its country. If this definition seems to rule out some rather important airports, we can modify the rules.
+
+					This list would probably help me with "tiebreaking" when I can't decide what flights I'd rather take. It would also give me a reason to enjoy longer-than-desired connections :-)
+
+					---
+
+					&lt;sup&gt;This is a question asked among the series of regional-but-potentially-useful-if-specific-enough questions. See&lt;/sup&gt;
+
+					- &lt;sup&gt;https://alcohol.meta.stackexchange.com/questions/67/asking-brand-specific-regional-questions-responsibly&lt;/sup&gt;
+
+					- &lt;sup&gt;https://alcohol.meta.stackexchange.com/questions/55/what-kinds-of-questions-will-keep-beer-se-active-relax-the-culture-against-bra&lt;/sup&gt;
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "220" InstanceType= "Edit Body" >
+			<PostId>12519</PostId>
+			<ParentPostId>4771</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've heard lately, that the german beer [*Warsteiner*][1] &lt;strike&gt;does not fullfill the german [**Reinheitsgebot**][2] and therefore is&lt;/strike&gt; is not allowed to be called [*Pilsner*][3], that is why they call it a *Premium Verum*.
+
+					Is that true and if yes, why?
+
+
+					  [1]: http://www.warsteiner.com/
+					  [2]: https://alcohol.stackexchange.com/a/431/4947
+					  [3]: https://en.wikipedia.org/wiki/Pilsner
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "221" InstanceType= "Question Protected" >
+			<PostId>13137</PostId>
+			<ParentPostId>6314</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-16T11:52:27.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":5064,"DisplayName":"Ken Graham"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "222" InstanceType= "Initial Body" >
+			<PostId>13448</PostId>
+			<ParentPostId>7079</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-19T20:41:33.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7279</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm making a Beer APP for mobile phones but I need a way to get good quality beer label for specific beers. So far, I'm using this free Beer's Api Service:
+
+					[http://www.brewerydb.com/][1]
+
+					But as you can see, the quality of images is not so good:
+
+					[http://www.brewerydb.com/beer/JMNBpw][2]
+
+					Is there another free service where I can found good quality beer's labels/logos?
+
+
+					  [1]: http://www.brewerydb.com/
+					  [2]: http://www.brewerydb.com/beer/JMNBpw
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "223" InstanceType= "Initial Title" >
+			<PostId>13449</PostId>
+			<ParentPostId>7079</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-19T20:41:33.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7279</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Where can I found beer's logos / labels in good image quality?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "224" InstanceType= "Initial Tags" >
+			<PostId>13450</PostId>
+			<ParentPostId>7079</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-19T20:41:33.710</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7279</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "225" InstanceType= "Edit Body" >
+			<PostId>13460</PostId>
+			<ParentPostId>7079</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-21T13:24:24.483</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm making a Beer APP for mobile phones but I need a way to get good quality beer label for specific beers. So far, I'm using this free Beer's Api Service:
+
+					[BreweryDB.com][1]
+
+					But as you can see, the quality of images is not so good:
+
+					[Heineken Dutch Dark (sample label)][2]
+
+					Is there another free service where I can found good quality beer's labels/logos?
+
+
+					  [1]: http://www.brewerydb.com/
+					  [2]: http://www.brewerydb.com/beer/JMNBpw
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "226" InstanceType= "Initial Body" >
+			<PostId>14097</PostId>
+			<ParentPostId>7304</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T18:52:46.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've lived on the Canadian border, right next to the U.S. for most of my life. In the past 5 or so years I've noticed that many American craft breweries seem to produce higher quality craft beer than their Canadian counter-parts. Not only is the beer often better, but the styles and flavors seem to be more creative.
+
+					I've heard inklings here and there that the regulatory environment in the U.S. tends to be more lax, which might be the cause of this, but I'm not certain if this is true. That leads to the questions:
+
+					 - In what ways are Canadian and American craft beer different?
+					 - What are the major factors that have led to these differences?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "227" InstanceType= "Initial Title" >
+			<PostId>14098</PostId>
+			<ParentPostId>7304</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T18:52:46.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What factors cause distinctions between Canadian and American craft beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "228" InstanceType= "Initial Tags" >
+			<PostId>14099</PostId>
+			<ParentPostId>7304</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-18T18:52:46.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "229" InstanceType= "Unknown" >
+			<PostId>14103</PostId>
+			<ParentPostId>7304</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-19T04:38:51.060</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/997698070149296128
+			</EditDetails>
+		</Instance>
+		<Instance Id= "230" InstanceType= "Initial Body" >
+			<PostId>14187</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-15T06:13:35.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					We have 12 can of beer, we boiled 3 of them in some ranges of temperature such as: 122F, 131F, 140F, 149F in some duration (30min, 40min, 50min, and 60min). 
+					Then we drank them, but we feel their quality very distinguighed. But someone says the temperature no effect on quality of beer. So, what are the true answers?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "231" InstanceType= "Initial Title" >
+			<PostId>14188</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-15T06:13:35.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Effects of temperature and time handling on beer 's taste?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "232" InstanceType= "Initial Tags" >
+			<PostId>14189</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-15T06:13:35.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, storage, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "233" InstanceType= "Initial Body" >
+			<PostId>14197</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					There are several lists online for craft brews in Melbourne, Australia:
+
+					 - https://foursquare.com/top-places/melbourne/best-places-craft-beer
+					 - https://www.theurbanlist.com/melbourne/a-list/melbournes-best-craft-breweries
+					 - https://concreteplayground.com/melbourne/food-drink/drink/the-ten-best-craft-beer-bars-and-pubs-in-melbourne/
+
+					Are there others that are not on any of these lists? 
+
+					Are there any nearby the Melbourne Convention and Exhibition Centre ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "234" InstanceType= "Initial Title" >
+			<PostId>14198</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Craft beers and Microbreweries in Melbourne?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "235" InstanceType= "Initial Tags" >
+			<PostId>14199</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:05.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, micropub, melbourne, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "236" InstanceType= "Edit Tags" >
+			<PostId>14200</PostId>
+			<ParentPostId>3513</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-19T06:54:19.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, micropub, singapore, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "237" InstanceType= "Unknown" >
+			<PostId>14207</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-20T21:40:38.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1009551622001872896
+			</EditDetails>
+		</Instance>
+		<Instance Id= "238" InstanceType= "Unknown" >
+			<PostId>14208</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-22T05:26:28.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				42
+			</EditDetails>
+		</Instance>
+		<Instance Id= "239" InstanceType= "Edit Tags" >
+			<PostId>14209</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-22T12:09:45.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					breweries, craft-beers, micropub, melbourne, australia, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "240" InstanceType= "Unknown" >
+			<PostId>14217</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-23T03:48:47.583</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1010369047945515008
+			</EditDetails>
+		</Instance>
+		<Instance Id= "241" InstanceType= "Unknown" >
+			<PostId>14266</PostId>
+			<ParentPostId>7344</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-30T06:33:37.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				42
+			</EditDetails>
+		</Instance>
+		<Instance Id= "242" InstanceType= "Initial Body" >
+			<PostId>14461</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T18:54:00.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7991</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was going through a brochure in brewing and it mentioned Single Turn, Double Turn and Triple turn brewing. However, it did not mention what those mean. I would really appreciate if anyone with knowledge of this enlighten me on this. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "243" InstanceType= "Initial Title" >
+			<PostId>14462</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T18:54:00.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7991</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does Single Turn, Double Turn and Triple Turn mean in brewing?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "244" InstanceType= "Initial Tags" >
+			<PostId>14463</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-07T18:54:00.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7991</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, breweries, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "245" InstanceType= "Unknown" >
+			<PostId>14477</PostId>
+			<ParentPostId>7423</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-10T21:00:42.717</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1028023356371738625
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

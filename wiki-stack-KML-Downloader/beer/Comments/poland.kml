@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>192</PostId>
+			<ParentPostId>172</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T20:35:44.550</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I was too lazy to look through this infographic for you.
+
+					http://popchartlab.com/collections/prints/products/the-magnificent-multitude-of-beer
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

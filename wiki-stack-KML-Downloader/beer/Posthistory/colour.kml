@@ -1,0 +1,642 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>985</PostId>
+			<ParentPostId>385</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:45:44.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Which types of beer are commonly used to create half-and-half beers?
+
+					![half-and-half beer][1]
+
+					In frequent recipes are only beers of contrasting colours being used (like pilsener vs porter or pale lager vs stout) or other combinations are being commonly used too? What are some of the most popular recipes?
+
+					  [1]: http://i.stack.imgur.com/J5hZd.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>986</PostId>
+			<ParentPostId>385</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:45:44.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Which types of beer are commonly used for half-and-half beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>987</PostId>
+			<ParentPostId>385</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:45:44.170</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					colour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>1486</PostId>
+			<ParentPostId>385</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-09T07:36:42.393</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432417759662575616
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>2027</PostId>
+			<ParentPostId>731</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-15T03:43:14.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I imagine it's probably just that the barley has been roasted darker, and that comes out.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>2028</PostId>
+			<ParentPostId>731</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-15T03:43:14.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What gives a porter or a stout its dark colour?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>2029</PostId>
+			<ParentPostId>731</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-15T03:43:14.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>87</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					colour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>2037</PostId>
+			<ParentPostId>731</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-15T20:53:48.870</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/456173569479700480
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>3348</PostId>
+			<ParentPostId>868</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-10T13:37:59.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>985</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am editing an academic economics paper (I'm a grad student), and I ran across the following line:
+
+					&gt; Schlitz changed preservatives, which led to green flakes in the beer.
+
+					The paper references an article --- amusingly titled *[Why the Schlitz Hit the Fan][2]* --- which makes the following claim:
+
+					&gt; In 1976, new Food and Drug Administration regulations regarding which ingredients needed to be printed on the bottles prompted Schlitz to change the preservatives it used (it had been using silica gel). The company did not spend sufficient time testing the new process, and tiny green flakes appeared in the beer.
+
+					Internet sleuthing reveals [this *Beer Connoisseur* article][3], which gives more info and claims that the flakes were, in fact, white:
+
+					&gt; Schlitz decided to use another beer stabilizer instead, one that would be filtered out of the final product and thus would not have to be listed as among the ingredients. Unfortunately, what Schlitz's brewing technicians did not know was that the new anti-haze agent, called Chill-garde, would react in the bottles and cans with the foam stabiliser they also used, to cause protein to settle out. At its best this protein looked liked tiny white flakes floating in the beer and at its worst it looked like mucus, or "snot," as one observer bluntly called it.
+
+					After more research, I can't find any other references to Schlitz being [literally] green. As a beer lover and homebrewer, this inconsistency is driving me nuts. Does anyone know *which* color the flakes in Schlitz were in the mid-1970s? I have the following hypotheses:
+
+					* *Beer Connoisseur* also mentions that Schlitz switched from whole to pellet hops; coupled with inadequate filtration, this could have led to green flakes.
+
+					* Adults doing research thought of "snot" like kids, which meant that a "snotlike" substance in beer was probably green.
+
+					* This is a misunderstanding created by non-brewers reading that Schlitz was "green" (which does appear frequently in search results); combined with knowing that there were flakes, and that the liquid of beer is generally amber-ish, it must have been [to someone unfamiliar with "green beer" being beer which needs to be further aged] that the flakes were literally green.
+
+					* *Beer Connoisseur* is wrong, and the flakes were in fact green.
+
+					Does anyone have first-hand experience with this era of beer?
+
+					(this is crossposted from [the Homebrewing channel)][1]
+
+
+					  [1]: http://homebrew.stackexchange.com/questions/12438/confirm-refute-green-schlitz-myth
+					  [2]: http://books.google.com/books?id=xe7Ye5bw8wgC&amp;pg=PA321&amp;lpg=PA321&amp;dq=schlitz%20hit%20the%20fan&amp;source=bl&amp;ots=P7scBc9ggZ&amp;sig=hYi3R5FykZWjVvbwTmYbbBVlxoY&amp;hl=en&amp;sa=X&amp;ei=fZ2WU-OUNM3eoATA8ICwBA&amp;ved=0CDQQ6AEwAw#v=onepage&amp;q=schlitz%20hit%20the%20fan&amp;f=false
+					  [3]: http://www.beerconnoisseur.com/the-fall-of-schlitz
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>3349</PostId>
+			<ParentPostId>868</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-10T13:37:59.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>985</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Confirm/refute "Green Schlitz" myth
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>3350</PostId>
+			<ParentPostId>868</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-10T13:37:59.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>985</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, colour, filtering, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Unknown" >
+			<PostId>3373</PostId>
+			<ParentPostId>868</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-13T07:25:18.413</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/477350986466328576
+			</EditDetails>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Tags" >
+			<PostId>8251</PostId>
+			<ParentPostId>385</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-06T18:50:30.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Add tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					colour, beer-cocktails, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Body" >
+			<PostId>8405</PostId>
+			<ParentPostId>868</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-24T16:16:58.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Add main question to title, remove reference to cross-post since it has been deleted.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I am editing an academic economics paper (I'm a grad student), and I ran across the following line:
+
+					&gt; Schlitz changed preservatives, which led to green flakes in the beer.
+
+					The paper references an article --- amusingly titled *[Why the Schlitz Hit the Fan][2]* --- which makes the following claim:
+
+					&gt; In 1976, new Food and Drug Administration regulations regarding which ingredients needed to be printed on the bottles prompted Schlitz to change the preservatives it used (it had been using silica gel). The company did not spend sufficient time testing the new process, and tiny green flakes appeared in the beer.
+
+					Internet sleuthing reveals [this *Beer Connoisseur* article][3], which gives more info and claims that the flakes were, in fact, white:
+
+					&gt; Schlitz decided to use another beer stabilizer instead, one that would be filtered out of the final product and thus would not have to be listed as among the ingredients. Unfortunately, what Schlitz's brewing technicians did not know was that the new anti-haze agent, called Chill-garde, would react in the bottles and cans with the foam stabiliser they also used, to cause protein to settle out. At its best this protein looked liked tiny white flakes floating in the beer and at its worst it looked like mucus, or "snot," as one observer bluntly called it.
+
+					After more research, I can't find any other references to Schlitz being [literally] green. As a beer lover and homebrewer, this inconsistency is driving me nuts. Does anyone know *which* color the flakes in Schlitz were in the mid-1970s? I have the following hypotheses:
+
+					* *Beer Connoisseur* also mentions that Schlitz switched from whole to pellet hops; coupled with inadequate filtration, this could have led to green flakes.
+
+					* Adults doing research thought of "snot" like kids, which meant that a "snotlike" substance in beer was probably green.
+
+					* This is a misunderstanding created by non-brewers reading that Schlitz was "green" (which does appear frequently in search results); combined with knowing that there were flakes, and that the liquid of beer is generally amber-ish, it must have been [to someone unfamiliar with "green beer" being beer which needs to be further aged] that the flakes were literally green.
+
+					* *Beer Connoisseur* is wrong, and the flakes were in fact green.
+
+					Does anyone have first-hand experience with this era of beer?
+
+					  [2]: http://books.google.com/books?id=xe7Ye5bw8wgC&amp;pg=PA321&amp;lpg=PA321&amp;dq=schlitz%20hit%20the%20fan&amp;source=bl&amp;ots=P7scBc9ggZ&amp;sig=hYi3R5FykZWjVvbwTmYbbBVlxoY&amp;hl=en&amp;sa=X&amp;ei=fZ2WU-OUNM3eoATA8ICwBA&amp;ved=0CDQQ6AEwAw#v=onepage&amp;q=schlitz%20hit%20the%20fan&amp;f=false
+					  [3]: http://www.beerconnoisseur.com/the-fall-of-schlitz
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Title" >
+			<PostId>8406</PostId>
+			<ParentPostId>868</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-24T16:16:58.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Add main question to title, remove reference to cross-post since it has been deleted.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					"Green Schlitz" myth: Was the beer green, or the flakes?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Body" >
+			<PostId>8545</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T22:21:06.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In my experience, dubbels are often fairly dark, brown ales, while tripels are much clearer and lighter (of colour).
+
+					Why is that?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Title" >
+			<PostId>8546</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T22:21:06.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are dubbelsdarker than tripels?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Tags" >
+			<PostId>8547</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T22:21:06.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, colour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Edit Title" >
+			<PostId>8548</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T22:30:58.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Missing space in title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why are dubbels darker than tripels?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Title" >
+			<PostId>8549</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T23:31:57.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why are dubbels generally dark while most tripels are not?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>8570</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-21T02:07:24.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/689992660669587456
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Body" >
+			<PostId>11386</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Title" >
+			<PostId>11387</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can absinthe be colored into a different colour other than green?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Tags" >
+			<PostId>11388</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T12:05:41.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, colour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Unknown" >
+			<PostId>11389</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-27T20:09:29.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/802967600967929857
+			</EditDetails>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Edit Body" >
+			<PostId>11406</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-30T13:23:32.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6142</UserId>
+			</Contributors>
+			<EditDetails>
+				Added image
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+
+					I'm attaching an image for you to know what I'm talking about:
+
+					[These are the ones I saw][1]
+
+
+					  [1]: https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Edit Body" >
+			<PostId>12486</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T04:10:48.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added Linked Image for clarity.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Some days ago I was walking on the street and passed by a beverage store where I saw some bottles of absinthe.
+
+					There were green, red and blue versions, and I thought how could absinthe, a classically green colored beverage, be transformed into a totally different color; and what's more, a _primary_ color which is supposed to be impossible to create by mixing other colors.
+
+					I have two theories: 
+
+					 - Absinthe is always green due to the presence of _Artemisia absinthium_'s chlorophyll. The beverage is based in and some kind of product is added in order to create a reaction to make it turn to X color. 
+
+					 - Absinthe is transparent until you add the _Artemisia absinthium_'s chlorophyll. Somehow, you can add colorant to the transparent beverage and eliminate the chlorophyll.
+
+					I'm attaching an image for you to know what I'm talking about:
+
+					[These are the ones I saw][1]
+
+					[![Colored Absinthe][2]][2]
+
+
+					  [1]: https://farm5.staticflickr.com/4004/4687712692_a0605bf82c_b.jpg
+					  [2]: https://i.stack.imgur.com/XN8TE.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Edit Tags" >
+			<PostId>12524</PostId>
+			<ParentPostId>6402</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T12:22:37.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					brewing, ingredients, colour, absinthe, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Edit Tags" >
+			<PostId>14233</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T15:35:37.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Added appropriate tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					trappist, colour, dubbel, tripel, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

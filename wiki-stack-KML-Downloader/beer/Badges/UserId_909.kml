@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="1576"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-05-22T16:30:16.697</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1579"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-05-23T09:32:38.847</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1592"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-05-27T16:54:24.523</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1594"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-05-29T09:05:55.343</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1634"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Tag Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-06-05T05:24:27.440</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1638"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2014-06-06T07:56:32.847</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1640"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2014-06-06T11:57:30.397</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1765"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Organizer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-07-14T12:46:46.057</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4162"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-05-22T16:29:32.163</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5838"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-05-22T16:33:42.387</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5871"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Disciplined"
+			</Title>
+			<TimeStamp>
+				<Date>2016-05-24T09:34:01.167</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7417"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Commentator"
+			</Title>
+			<TimeStamp>
+				<Date>2017-04-29T04:03:46.727</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7641"  UserId="909" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2017-06-29T12:16:57.623</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

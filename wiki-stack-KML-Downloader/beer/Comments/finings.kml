@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="4">
+			<PostId>645</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T15:50:05.013</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Where? Regulations like this are highly dependent on where the beer is brewed, bottled or sold.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>646</PostId>
+			<ParentPostId>578</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T15:50:48.970</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I asked a question about isinglass use:  http://beer.stackexchange.com/questions/583/does-use-of-isinglass-require-special-mention-on-the-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>647</PostId>
+			<ParentPostId>575</ParentPostId>
+			<Contributors>
+				<UserId>318</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T16:02:36.400</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Flying Dog has [Pearl Necklace](http://flyingdogales.com/beers/pearl-necklace/) an oyster stout, which is made in support of oyster restoration in the Chesapeake Bay.  Feel free to add to the list.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="1">
+			<PostId>648</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T17:34:59.740</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It was meant as a general question - I don't know if there are any regulations, but for sake of clarity and focus, let's say the EU.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="4">
+			<PostId>649</PostId>
+			<ParentPostId>581</ParentPostId>
+			<Contributors>
+				<UserId>52</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T18:41:31.263</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd say keep the photos. I wouldn't bother clicking a link and without a photo I wouldn't even bother reading the text. A pictures says a thousand words!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>650</PostId>
+			<ParentPostId>569</ParentPostId>
+			<Contributors>
+				<UserId>28</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T20:04:27.307</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't know if nucleation sites is a real thing but this answer sounds legit!  And now I have something else to learn about.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="4">
+			<PostId>651</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T21:00:51.693</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					both answers were downvoted without comment. that's not helpful nor encouraging in this beta period.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="1">
+			<PostId>652</PostId>
+			<ParentPostId>585</ParentPostId>
+			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T21:04:00.867</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Care to explain the downvote?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>653</PostId>
+			<ParentPostId>585</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T21:08:58.657</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Sure, you answered for the US with a good bit of irrelevant information. That's not an answer to this question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>654</PostId>
+			<ParentPostId>585</ParentPostId>
+			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T21:11:16.240</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					"It was meant as a general question", with the later emphasis on the EU. I put what is known for the US (Addressing the general) and added what I knew about Germany. I apologize for not listing the requirements for all EU countries.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>655</PostId>
+			<ParentPostId>586</ParentPostId>
+			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T21:15:38.587</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What about European countries that are not part of the EC? Lichtenstein, Norway and Iceland come immediately to mind.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>656</PostId>
+			<ParentPostId>586</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T21:17:51.223</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@JohnP question is about the EU, Norway and Iceland are irrelevant. Were this a general question it should be attracting close votes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>657</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T22:01:50.690</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					To give more background - foods containing nuts, and wines/beers containing sulphites must be labelled as such, so I wondered about Iginglass and any other animal-derived additives.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="0">
+			<PostId>658</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T23:54:50.550</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					sure, but labelling regulations vary widely, not specifying a locale makes this incredibly broad.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="1">
+			<PostId>659</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-11T02:30:47.213</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					well, broad as it is, it seems there's already a consensus on labeling being not required in large parts of the world.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>662</PostId>
+			<ParentPostId>591</ParentPostId>
+			<Contributors>
+				<UserId>457</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-11T04:21:35.483</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks and +1, that helps. So a definition would have to exclude distillation. Can it be _any_ grain? _Any_ yeast? Is it only S.cerevisiae that can ferment to beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>663</PostId>
+			<ParentPostId>569</ParentPostId>
+			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-11T04:30:17.977</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Bill I assure you that nucleation sites are a real, and are in fact a common consideration in chemical matters. :) Great answer!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>666</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Contributors>
+				<UserId>459</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-11T12:00:55.637</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Most manufacturers state on their websites that their product is not suitable for vegatarians because of this.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="0">
+			<PostId>667</PostId>
+			<ParentPostId>585</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-11T13:13:53.390</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Please add sources for the additive claims.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="1">
+			<PostId>668</PostId>
+			<ParentPostId>585</ParentPostId>
+			<Contributors>
+				<UserId>460</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-11T17:16:16.300</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					#1 is scare-mongering. Car antifreeze is usually ethylene glycol (and *is* toxic). Propylene glycol is sometimes used on boats, specifically because it's very non-toxic (it may get into the water), but it's also used as a vehicle for pharmaceuticals and is generally regarded as safe (GRAS) for food use.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="0">
+			<PostId>669</PostId>
+			<ParentPostId>585</ParentPostId>
+			<Contributors>
+				<UserId>116</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-11T17:52:01.277</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					GRAS in the US. Europe and some other countries have more stringent limitations on if/what foods it can be used in. To be fair, WHO classifies it as GRAS as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="0">
+			<PostId>670</PostId>
+			<ParentPostId>585</ParentPostId>
+			<Contributors>
+				<UserId>466</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-12T16:04:25.713</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Source? #2 seems clear why it would be used, but what are the uses of 1, 3, 4, 5?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>671</PostId>
+			<ParentPostId>68</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-12T16:19:43.583</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Downvoted for "impart a metallic flavor". As mentioned by LessPop_MoreFizz, this is not true with modern cans.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>673</PostId>
+			<ParentPostId>595</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T02:27:19.567</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					While you're on the topic of Long Island, I'm going to take the liberty of making some recommendations as I live there. Port Jeff Brewery is currently my favorite local brewery (you have to try the Schooner Ale and the White's Beach Wit). Also, if you see it on tap, try the Runaway Ferry smoked IPA, it tastes like bacon IMO! Crooked Ladder in Riverhead is also pretty good, but no comparison to Port Jeff. Long Ireland is ok, but nothing worth going out of your way for. After Port Jeff, I'd recommend Southampton Publik House. I can't recommend Blue Point after their recent sellout to In-Bev
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>674</PostId>
+			<ParentPostId>595</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T02:27:43.100</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					http://www.longislandbeerguide.com/ Has a good summary of the beer life here on the Island
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="0">
+			<PostId>679</PostId>
+			<ParentPostId>583</ParentPostId>
+			<Contributors>
+				<UserId>28</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-10T20:01:34.343</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't know if it is legally required - I don't remember ever seeing it on a bottle I've bought. However, ethically, I think it would be a good idea and would show respect to your customers (particularly of the vegan variety).
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

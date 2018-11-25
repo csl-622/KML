@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Votes">
+		<Instance Id="1"  InstanceType= "BountyStart">
+			<TimeStamp>
+				<CreationDate>2018-06-22T00:00:00.000</CreationDate>
+			</TimeStamp>
+			<Credit>
+				<BountyAmount>50</BountyAmount>
+			</Credit>
+			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id="2"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2018-06-22T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3"  InstanceType= "UpMod">
+			<TimeStamp>
+				<CreationDate>2018-06-23T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4"  InstanceType= "BountyClose">
+			<TimeStamp>
+				<CreationDate>2018-06-30T00:00:00.000</CreationDate>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

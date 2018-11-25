@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>231</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It the beer Velkopopovický Kozel possible to buy somewhere in Bavaria? Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>232</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Velkopopovický Kozel sold somewhere in Bavaria?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>233</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:55:27.830</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					buying, foreing-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>257</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:08:56.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<EditDetails>
+				spelling (tag)
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Body" >
+			<PostId>781</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are the Czech beers like Velkopopovický Kozel possible to buy somewhere in Bavaria? 
+
+					Probably specialized beer shops can import it per demand, but is it possible to buy somewhere on regular basis?
+
+					Czech beers are of very good quality, and Bavaria neighbours with Czech, so they shouldn't be hard to find.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Edit Title" >
+			<PostId>782</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Where can I buy Czech beers in Bavaria?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>783</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T17:26:14.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<EditDetails>
+				added 128 characters in body; edited tags; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Edit Tags" >
+			<PostId>843</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T09:14:33.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					buying, foreign-beer, retail-availiability, distribution, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Post Closed" >
+			<PostId>846</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T11:05:40.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":7,"DisplayName":"Tom Medley"},{"Id":37,"DisplayName":"Xander"},{"Id":22,"DisplayName":"Grohlier"},{"Id":138,"DisplayName":"Lucas Kauffman"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>3682</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-03T01:33:38.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It's about that time of year again, when pumpkin flavored beer (and everything else) starts making its way onto store shelves.
+
+					I was wondering, what pumpkin flavored beers are out there, if any, are made with actual pumpkin and not just pumpkin pie spices?
+
+					My personal favorite is Pumpkin Head by Shipyard, but I've been unable to find any evidence that would suggest it is made with real pumpkin. Are there readily available beers made with real pumpkin? I live in western PA, but any brand not specifically available here would be good to know.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>3683</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-03T01:33:38.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					"Pumpkin" beers made with actual pumpkin?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>3684</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-03T01:33:38.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, flavor, pennsylvania, retail-availiability, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>3687</PostId>
+			<ParentPostId>1009</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-04T20:35:04.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/507627931405795328
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Edit Tags" >
+			<PostId>9500</PostId>
+			<ParentPostId>92</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:58:42.297</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					distribution, buying, retail-availiability, germany, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Body" >
+			<PostId>11521</PostId>
+			<ParentPostId>6457</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-28T21:29:11.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Victoria Bitter (VB) available in the U.S.?  I have not been able to find it anywhere. It was fairly popular in Australia when I was there 15-plus years ago. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Title" >
+			<PostId>11522</PostId>
+			<ParentPostId>6457</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-28T21:29:11.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Availability of Victoria Bitter
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Tags" >
+			<PostId>11523</PostId>
+			<ParentPostId>6457</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-12-28T21:29:11.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6238</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Edit Tags" >
+			<PostId>11566</PostId>
+			<ParentPostId>6457</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-01-04T08:10:54.157</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				tag changes
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					retail-availiability, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>11681</PostId>
+			<ParentPostId>6457</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-02-02T19:47:11.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/827241978215665665
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

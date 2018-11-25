@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>4323</PostId>
+			<ParentPostId>6443</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-25T11:50:57.953</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					not sure if this answers your question: https://en.wikipedia.org/wiki/Sour_mash
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>4326</PostId>
+			<ParentPostId>5168</ParentPostId>
+			<Contributors>
+				<UserId>5889</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-29T14:10:34.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Your question got some good answers but I think it belongs on: http://homebrew.stackexchange.com/questions
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>4327</PostId>
+			<ParentPostId>6436</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-29T14:29:15.207</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					So in terms of style, you're suggesting that Asia produces the full range of classic styles found in the Western world: Rye, Bourbon, Scotch, etc? Do you know if any of these stand out from others in predominance?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="1">
+			<PostId>4328</PostId>
+			<ParentPostId>6436</ParentPostId>
+			<Contributors>
+				<UserId>5328</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-29T19:50:19.753</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Asia can't produce scotch or bourbon. Only Scottish whisky can be called scotch, and only American whisky can be called bourbon.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="1">
+			<PostId>4329</PostId>
+			<ParentPostId>6436</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-12-29T19:54:35.677</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You're right. Only Scotch can be made in Scotland. But I can use the same grain bill as any Scotch and use the same aging process. It just can't be called Scotch. The same styles exist but region specific names exist to denote (using the term loosely) superiority. Jack Daniels is whiskey. They just helped coin bourbon to differentiate between all of the "sub-par" whiskeys.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>5507</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-14T16:03:37.723</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Are you talking about Esters? https://en.wikipedia.org/wiki/Ester
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>5508</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-14T16:26:33.227</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					My Dictionary translated as "ethereal", what Wikipedia translates as "essential", but also writes: "Essential oils are also known as volatile oils, ethereal oils, aetherolea, or simply as the oil of the plant from which they were extracted, such as oil of clove". The group of essential oils is wider and does not only include Ester, but also different types of Alcohol, Terpene and Ketone. Well, I am no chemist, for further information, please check Wikis.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>5509</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-14T16:26:57.397</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I simply wanted to point out, that ingredients often contain more substances that vaporize under different conditions than alcohol and might get lost in distillation, unless being extracted separately.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>5510</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-14T18:01:17.873</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I know what you are trying to get at. I worked for a water beverage company for a while and watching the chemists put together a flavored water drink was eye opening. Part of the problem is that what people think something tastes like is different to what they are used to tasting artificial flavors. Plus, economically, much easier to manufacture a flavor that is color stable and won't separate or settle with time. Think about the "oils" you are talking about. Some may dissolve and some might separate. It's all very complicated and I am not a chemist in any way...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>5543</PostId>
+			<ParentPostId>7280</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-28T12:05:51.660</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes, very sad that people prefer stable but artificial taste instead of nature. I made the same experience with sparkling orange lemonade. Made with fresh orange juice is very much different to supermarket standard products. Nevertheless, wine (at least good one) does not need artificial supplements and what would be so bad on recommending a period in which a spirit is best with its taste?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="1">
+			<PostId>5544</PostId>
+			<ParentPostId>7319</ParentPostId>
+			<Contributors>
+				<UserId>6180</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-05-29T19:25:16.170</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Best I could do: Macerate elderflower in grape brandy of Burgundy, Tamay or Chardonay origin, and Pinot noir. Redirect part of this, filter the other part and assemble a grape brandy (preferably Burgundy, Tamay, Chardonnay) and Pinot noir. Add sugar cane - not much otherwise it'll be too sweet. Also instead of sugar try lyche liqueur.  -José cine Bartender (mixologist), studying sommelieria Cozumel palace
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>5545</PostId>
+			<ParentPostId>7320</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-01T16:06:53.793</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Your answer responds to a different drink we also love in Germany. I took your answer as a motivation to ask something else about it. https://alcohol.stackexchange.com/questions/7321/winterhighlight-feuerzangenbowle-without-headache
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>5546</PostId>
+			<ParentPostId>7322</ParentPostId>
+			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-01T22:36:31.777</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					May be a significant burn of alcohol, but the resulted drink is still burning by itself. In deed while drinking it you think there is nothing left in it until you try to stand up. ;)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="0">
+			<PostId>5547</PostId>
+			<ParentPostId>7324</ParentPostId>
+			<Contributors>
+				<UserId>7778</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-02T20:35:36.957</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks, I still don't think its "OK", but I understand and will follow your last advice "and taste as manu as I can!" I'm already doing that, just another question, In a week, how much wine is socially too much? I mean, I'm usually going to some sales and bring back a lot of bottles, and they kind of ask me to taste them...
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>5263</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-09T17:03:16.533</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is probably a better fit for [Health SE](https://health.stackexchange.com/) than here.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>5267</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Contributors>
+				<UserId>7251</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-10T19:09:00.783</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Should I move it to Health SE and delete it here or leave it here too.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="1">
+			<PostId>5268</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-10T23:54:14.443</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Cross posting is generally discouraged, so either delete it here, or at least edit it to let folks know you've created a copy over there with a link to the new post if they're interested.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="1">
+			<PostId>5269</PostId>
+			<ParentPostId>7067</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-12T14:07:36.157</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					FYI, it's not that it's illegal to sell these high octane beers in these states, it's about taxes and packaging. When they go over the alcohol limit, say 15% for NC, it kicks it into the Liquor category and the taxes are much higher per bottle and they have to package it as such so the breweries don't want the additional hassle of printing labels for all these different states and paying the taxes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>5270</PostId>
+			<ParentPostId>7073</ParentPostId>
+			<Contributors>
+				<UserId>7264</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-14T18:10:53.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Excellent answer @farmersteve, thank you for sharing your expertise. This is the answer I was hoping to get. The main problem is the short shelf-life of the blended wine - but that won't be a problem over Christmas for example. I think I will buy a bottle of each at Christmas and do a bit of experimentation!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>5271</PostId>
+			<ParentPostId>7073</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-14T19:38:12.387</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You could in theory make many liters of your blend and re-bottle it in bottles (screw cap tops would work best here) and a small amount potassium bisulfite (preservative) and some argon in the headspace and you could keep the wine for years.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>5272</PostId>
+			<ParentPostId>7052</ParentPostId>
+			<Contributors>
+				<UserId>3905</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-14T23:41:52.207</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					yep, was a typo.  Fixed it!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>5273</PostId>
+			<ParentPostId>7031</ParentPostId>
+			<Contributors>
+				<UserId>7059</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-15T04:00:12.813</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Indeed a great reply. Thanks :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>5274</PostId>
+			<ParentPostId>7073</ParentPostId>
+			<Contributors>
+				<UserId>7264</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-15T08:25:20.960</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That's good information too @farmersteve, thank you - but for my needs I think it makes more sense for me to just keep a supply of both the wines and mix up 2 or 3 bottles for immediate use.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>5283</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-17T17:14:33.373</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Is this the USA or the whole world?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>5421</PostId>
+			<ParentPostId>7064</ParentPostId>
+			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-02-21T14:33:05.837</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					The new question location is [here](https://health.stackexchange.com/q/14302).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>5422</PostId>
+			<ParentPostId>7201</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-02-28T14:17:28.440</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Gah, I'm jealous. Send me a bottle?
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

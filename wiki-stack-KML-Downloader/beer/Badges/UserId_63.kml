@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="113"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:27:38.570</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="122"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:29:03.847</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="125"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:32:39.017</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="153"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Precognitive"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:52:12.030</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="161"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:57:50.527</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="167"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Suffrage"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T22:02:51.113</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="170"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Vox Populi"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T22:02:51.113</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="286"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Scholar"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T04:15:44.870</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="638"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Nice Question"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-28T22:34:52.317</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1035"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Nice Question"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-07T16:40:39.153</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1432"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Enthusiast"
+			</Title>
+			<TimeStamp>
+				<Date>2014-04-15T01:11:17.593</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3661"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-21T21:32:52.573</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3703"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-26T19:37:17.603</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4000"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-04-12T10:49:49.910</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4837"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Notable Question"
+			</Title>
+			<TimeStamp>
+				<Date>2015-10-14T17:36:06.667</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6616"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Popular Question"
+			</Title>
+			<TimeStamp>
+				<Date>2016-11-21T18:19:16.427</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6651"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2016-12-03T16:44:44.870</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7786"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Famous Question"
+			</Title>
+			<TimeStamp>
+				<Date>2017-08-16T04:27:48.387</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8719"  UserId="63" InstanceType= "badges">
+			<Title>
+			"Notable Question"
+			</Title>
+			<TimeStamp>
+				<Date>2018-05-12T16:06:01.980</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>

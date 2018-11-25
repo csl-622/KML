@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>799</PostId>
+			<ParentPostId>649</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-11T16:17:44.810</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Welcome to Beer.SE! I'm voting to close this question as I'm in agreement with @Fishtoaster, but, as I'm sure you know from being an active user on SU/SF/SO, it's of course nothing personal, and no rep is lost. Please do come back to post more; these are the types of questions that are most relateable to beginning beer-enthusiasts.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>800</PostId>
+			<ParentPostId>646</ParentPostId>
+			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-12T03:35:25.347</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					no, it's all good; whatever adds more substance to the answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="1">
+			<PostId>801</PostId>
+			<ParentPostId>623</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-03-15T03:51:45.007</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@audiFanatic [didn't take me long to find one.](http://www.foodsafetynews.com/2011/12/portlands-best-raw-milk-dairy-killed-22-in-1922/)
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

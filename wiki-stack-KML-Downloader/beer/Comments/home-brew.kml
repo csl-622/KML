@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>4458</PostId>
+			<ParentPostId>6541</ParentPostId>
+			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-16T13:30:48.790</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Chattahoochee!!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>4460</PostId>
+			<ParentPostId>6541</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-16T13:39:03.733</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					English might be a better fit for this but I think it is OK here also.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>4461</PostId>
+			<ParentPostId>6541</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-02-16T13:45:53.760</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yup, I thought about that - if anyone wants it migrated that is not a problem.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="2">
+			<PostId>4956</PostId>
+			<ParentPostId>6804</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-28T11:58:35.530</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Welcome to the site, DWMII. I hope you get some good answers to your question.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>4957</PostId>
+			<ParentPostId>6806</ParentPostId>
+			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-28T14:11:14.100</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					While I definitely get where you're coming from and think that your second point (about commercial breweries and the chemicals used) I'm a bit hesitant about the initial point about bread.  With bread you apply heat post-fermentation.  Any microorganisms in the dough should be killed during this process and at the end you're left with a product that is pretty definitively just food.  With beer, especially homebrew, heat is applied prior to fermentation.  Especially for bottle-conditioned beer, there is live yeast (and possibly other microorganisms) that you are ingesting along with the beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>4958</PostId>
+			<ParentPostId>6806</ParentPostId>
+			<Contributors>
+				<UserId>4935</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-28T14:13:04.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Experience tells us that ingesting these microorganisms is safe, of course, but that's not necessarily obvious or to be taken for granted.  Especially when you consider that many breweries filter out the yeast before packaging, a step that is generally impractical on a homebrew scale but may add an additional sense of comfort for some consumers.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>4959</PostId>
+			<ParentPostId>6809</ParentPostId>
+			<Contributors>
+				<UserId>6371</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-28T14:34:38.353</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks a lot , that's exactly the answer I was waiting for !
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="1">
+			<PostId>4960</PostId>
+			<ParentPostId>6809</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-28T14:45:26.087</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Also assuming proper sanitation, but that has nothing to do with mead in particular (would apply to any homebrewing).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>4961</PostId>
+			<ParentPostId>6800</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-28T14:55:57.357</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you for sharing this answer.  I'm also assuming that the question is about starting from the finished product, so you can't just take gravities before and after fermentation.  I hadn't realized that it was easier for wine than for beer, but now that you've explained it, that makes sense.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="1">
+			<PostId>4962</PostId>
+			<ParentPostId>6806</ParentPostId>
+			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-28T15:14:16.783</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I see your point, I come from an "alcohol kills everything nasty" culture so hadn't thought of that. I'd mention the bread thing though for non organically produced poisons. It can't hurt to mention that the ingredients are non-harmful!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>4964</PostId>
+			<ParentPostId>6806</ParentPostId>
+			<Contributors>
+				<UserId>6699</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-28T19:13:37.617</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I see your point there. Thank you, MD-Tech. It's a trust issue.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="1">
+			<PostId>4965</PostId>
+			<ParentPostId>6807</ParentPostId>
+			<Contributors>
+				<UserId>6699</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-28T19:18:01.783</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you for your intricate and detailed answer. This has given me the most insight of all the answers as to, not only what I need to be doing in order to follow a safe brewing process, but how I can brew better beer and why I should brew better beer. I love the history you gave and your advice and manner is top-notch!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>4966</PostId>
+			<ParentPostId>6809</ParentPostId>
+			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-04-29T05:37:54.580</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There seems to be a lot of worry about poisoning just recently - have I missed something?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="0">
+			<PostId>5445</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-02T13:18:45.950</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Can we get this moved over to https://homebrew.stackexchange.com/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>5446</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-02T13:23:02.520</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Is a possible duplicate on the Homebrew stack https://homebrew.stackexchange.com/questions/1337/small-space-apartment-brewing-cellaring
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>5447</PostId>
+			<ParentPostId>157</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-04T23:39:32.580</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I could see this working, or if not hop-forward something with a lighter, refreshing, and crisp body, like a plain lager or pilsner.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>5451</PostId>
+			<ParentPostId>7225</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-04-07T12:46:33.257</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This is on topic here and is not a duplicate of any question of this site. Homebrewing SE is a separate site and some questions are on topic on both sites.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="0">
+			<PostId>5667</PostId>
+			<ParentPostId>7431</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-14T01:19:17.727</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					We need to move this to https://homebrew.stackexchange.com/ where this question has been asked many times.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

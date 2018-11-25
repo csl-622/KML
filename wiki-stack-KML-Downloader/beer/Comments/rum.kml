@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>5626</PostId>
+			<ParentPostId>7393</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-21T16:26:12.947</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Between the two liquors are better than beer for weight control. Fewer carbs.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>5637</PostId>
+			<ParentPostId>7393</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-28T22:23:06.153</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					None, alcohol has empty calories.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5640</PostId>
+			<ParentPostId>7386</ParentPostId>
+			<Contributors>
+				<UserId>7965</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-30T05:47:44.523</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Great and descriptive answer. (The Kindzmarauli I've tasted was also sweet -like Wiki says- full body and a deep red. If memory serves correct, it resembled a Port.)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>5641</PostId>
+			<ParentPostId>7407</ParentPostId>
+			<Contributors>
+				<UserId>7059</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-30T05:56:16.500</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Hi @andy,Thanks for sharing this.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

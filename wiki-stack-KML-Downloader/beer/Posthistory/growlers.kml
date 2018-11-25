@@ -1,0 +1,629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>84</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:59:16.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer in a growler typically lasts for 24 hours or less, depending on how full the growler is, how many times it's opened over that period of time, and how efficient the seal is on the lid. Are there ways of prolonging the life in a growler or at least seal it properly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>85</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:59:16.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can I prolong the life of beer in a growler?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>86</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:59:16.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					growlers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Tags" >
+			<PostId>620</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T23:43:26.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Added some tags.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					preservation, growlers, freshness, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>621</PostId>
+			<ParentPostId>31</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T23:43:26.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 73 approved by 27, 25 edit id of 34
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>917</PostId>
+			<ParentPostId>354</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T13:30:22.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I usually try to drink all of the beer in my growler over the course of two nights. While the second serving is usually a good bit less stellar than the first it's usually still quite drinkable.
+
+					However, because I almost always plan to drink it over two nights, sometimes the second half of the growler gets left a few days longer. After that it's basically undrinkable.
+
+					Usually I snag Imperial Stouts, or other high gravity brews (currently I have a Southern Tier Creme Brulee ripening in the fridge :(). 
+
+					Is there a good use for this spoiled beer or should I just pour it out? I was wondering if beer bread was a good idea or not.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>918</PostId>
+			<ParentPostId>354</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T13:30:22.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any good uses for beer that has sat in my growler for too long?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>919</PostId>
+			<ParentPostId>354</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T13:30:22.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>39</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					growlers, cooking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>981</PostId>
+			<ParentPostId>383</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:38:59.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					There has been some confusion around the laws regarding "refillable containers" in California.  At times, I have been told that a brewery _cannot_ refill another brewery's growler.  At other times, I have been told that a brewery _may_ (or by their discretion, may not) refill.  I own growlers from at least 3 different breweries, and I have friends who have many more -- it makes sense to me that I should be able to take any clean container to a brewery which offers growlers, and have it filled.
+
+					What do the actual laws of California state, regarding who can refill and into what vessels?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>982</PostId>
+			<ParentPostId>383</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:38:59.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can a brewery in California fill any growler?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>983</PostId>
+			<ParentPostId>383</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T18:38:59.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, growlers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>1388</PostId>
+			<ParentPostId>546</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T16:24:39.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Florida has a strange bottling law that allows growlers in 32 oz and 128 oz sizes but not 64 oz. People have tried to get the law changed but so far it's failed. How did the 64 oz size come to be illegal and what is the rationale for not legalizing it?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>1389</PostId>
+			<ParentPostId>546</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T16:24:39.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are half gallon growlers illegal in Florida?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>1390</PostId>
+			<ParentPostId>546</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T16:24:39.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, growlers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Unknown" >
+			<PostId>1396</PostId>
+			<ParentPostId>546</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T19:36:04.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431149242686922752
+			</EditDetails>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1484</PostId>
+			<ParentPostId>354</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T22:36:23.453</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432281785020710912
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>1609</PostId>
+			<ParentPostId>383</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T19:38:03.163</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434773619458465792
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>1835</PostId>
+			<ParentPostId>665</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-15T03:07:13.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm headed up to Boston next weekend for an event, and was planning to take up a few empty (or maybe full!) growlers to fill with interesting and delicious things from some of the local breweries up in the area. However, I've heard that MA has some fairly restrictive laws regarding fills (i.e., that breweries are not able to fill growlers other than those with their own logo/which they themselves distribute). This is baffling and monstrous to me coming from NY, where just about anyplace that's willing to can fill just about any appropriately sized bottle I bring up to the tap with me.
+
+					What exactly are the rules regarding growler refills in Massachusetts? Do they differ if I am looking to get a fill at a bar or retail store, rather than direct from a brewery? Are there size restrictions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>1836</PostId>
+			<ParentPostId>665</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-15T03:07:13.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the specific laws regarding growler fills in Massachusetts?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>1837</PostId>
+			<ParentPostId>665</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-15T03:07:13.767</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, growlers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Unknown" >
+			<PostId>1838</PostId>
+			<ParentPostId>665</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-15T13:47:07.773</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/444832166930026496
+			</EditDetails>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>1849</PostId>
+			<ParentPostId>665</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-17T16:31:03.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<EditDetails>
+				1
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Unknown" >
+			<PostId>1914</PostId>
+			<ParentPostId>665</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-25T18:12:06.443</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				1
+			</EditDetails>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>3501</PostId>
+			<ParentPostId>930</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-16T13:42:46.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					My local brewery fills growlers and just adds a twist-off cap to the top. They do not place any kind of seal or sticker on the cap to prove it hasn't been opened.
+
+					So if I get pulled over for whatever reason and the cop sees the growler, in say, the backseat, is this considered a crime? Even if the growler hasn't been opened since it was filled and no beer was removed?
+
+					What makes this different than a six pack with twist off caps?
+
+					I live in Pennsylvania, so answers from a PA perspective will be most useful, but even just a general feel from law enforcement's view would be helpful.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>3502</PostId>
+			<ParentPostId>930</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-16T13:42:46.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are growlers considered open containers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>3503</PostId>
+			<ParentPostId>930</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-16T13:42:46.053</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>798</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					laws, growlers, pennsylvania, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>3514</PostId>
+			<ParentPostId>930</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-18T00:08:16.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/489924578370912256
+			</EditDetails>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>5072</PostId>
+			<ParentPostId>2177</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-06T15:06:53.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2648</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Most commonly I see glass growlers, but on various sites and at specialty shops I occasionally see variations: ones made of [stainless steel](http://www.amazon.com/Kegworks-Stainless-Steel-Beer-Growler/dp/B00885HHSM/ref=sr_1_1?ie=UTF8&amp;qid=1420556469&amp;sr=8-1&amp;keywords=beer+growler) or [plastic](http://www.courier-journal.com/story/news/local/indiana/2014/11/20/flat-bierwerks-opens-saturday-waterfront/70019666/) for example. 
+
+					One would hope that there aren't too many negatives associated with these, but are there proven differences? Is it the same as a bottle vs. can, or does the (usually) limited time in the container make the material...immaterial?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>5073</PostId>
+			<ParentPostId>2177</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-06T15:06:53.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2648</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do growlers of different materials have a tangible impact on flavor?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>5074</PostId>
+			<ParentPostId>2177</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-06T15:06:53.320</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2648</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					growlers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>6079</PostId>
+			<ParentPostId>2177</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-07T16:26:09.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/552863772533338114
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Body" >
+			<PostId>6553</PostId>
+			<ParentPostId>3385</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-19T20:52:00.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4136</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So I just recently got a growler and so far so great. The only problem I am having is finding places where I can fill up. Does anyone have any recommendations as to location in the San Francisco Bay area (South Bay would be great). There seems to be surprisingly little, easy to find information on the internet about this. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Title" >
+			<PostId>6554</PostId>
+			<ParentPostId>3385</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-19T20:52:00.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4136</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Growler fillups in San Jose/South Bay Area
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Tags" >
+			<PostId>6555</PostId>
+			<ParentPostId>3385</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-19T20:52:00.167</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4136</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					growlers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>6571</PostId>
+			<ParentPostId>3385</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-28T20:25:37.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/604020722227363840
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

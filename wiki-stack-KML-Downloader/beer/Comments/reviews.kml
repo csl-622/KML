@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>5583</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Contributors>
+				<UserId>6370</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-26T13:44:28.723</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Perhaps this should be made a community wiki?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>5584</PostId>
+			<ParentPostId>7354</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-26T16:44:56.197</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					When you say filtering can remove a lot of flavor is simply false unless they go to sub-micron filter to keep it sterile. Most beer is filtered at 5 microns on stripping out proteins and some yeast. Hop flavors are not stripped out. Although the yeast and proteins do have flavor in them, their flavoring components are water and alcohol soluble and are left behind.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5585</PostId>
+			<ParentPostId>7354</ParentPostId>
+			<Contributors>
+				<UserId>5160</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-27T22:19:30.253</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@farmersteve - Yes, you're right.  A lot of macro lagers (most?) are sterile filtered to remove all yeast and bacteria for shelf-stability (and probably other reasons).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>5586</PostId>
+			<ParentPostId>7362</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-01T00:55:46.823</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes. There is Camellia Sinensis and then there is 'tea' defined as a hot steeped drink. In theory, anything can be a tea by the second definition, but whether it's palatable or has any pleasing affects is another thing altogether. I'd guess hops might offer some sedative qualities, but the fact that it isn't a commonly used 'tea' suggests to me that it's probably better left to beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>5587</PostId>
+			<ParentPostId>7362</ParentPostId>
+			<Contributors>
+				<UserId>6788</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-01T02:05:27.747</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've heard from some brewing enthusiasts that boiling water is not suitable for making a "tea" from grains, but 60-65°C water is just right. I haven't had a chance to experiment with it myself yet, but I will try soon. I just wonder why high temperature is bad, and why such a low temperature was recommended (65°C is also very appropriate for the smoothest green teas).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>5588</PostId>
+			<ParentPostId>7362</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-07-01T19:44:33.970</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Without knowing specific chemistry I'd assume elements of different teas/coffee/whatever break-down at different temperatures. Which means that grains likely have a maximal temperature to become 'activated' but not break down completely.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>5698</PostId>
+			<ParentPostId>7355</ParentPostId>
+			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-08-28T16:17:04.217</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question is too vague. What are you asking?
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>557</PostId>
+			<AcceptedAnswerId>559</AcceptedAnswerId>
+			<Title>
+			"What are some online sources for information on beer of high repute?"
+			</Title>
+			<Tags>
+				<tag>resources</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>62</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-06T00:38:02.590</CreationDate>
+				<LastActivityDate>2014-02-06T02:00:40.923</LastActivityDate>
+				<ClosedDate>2014-02-07T16:09:00.647</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>303</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When looking for source material to quote, often I find articles from a wide variety of places when it comes to beer. When looking for technology information, I find it best to simply go to the most highly reputable sources (such as a source authored by Mozilla, Google, Microsoft, etc.).&lt;/p&gt;
+
+					&lt;p&gt;Are there any readily available online sources of high repute for beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>939</PostId>
+			<AcceptedAnswerId>940</AcceptedAnswerId>
+			<Title>
+			"Recommended Android app"
+			</Title>
+			<Tags>
+				<tag>classification</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>261</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-07-20T10:09:07.997</CreationDate>
+				<LastActivityDate>2014-08-05T17:23:13.847</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1114</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Do you recommend any specific Android app to keep track of the different beers (and of course different kind of beers) that you have tasted?&lt;/p&gt;
+
+					&lt;p&gt;Someone recommended me Untappd but I may need something less social and more informative...&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>2139</PostId>
+			<AcceptedAnswerId>2140</AcceptedAnswerId>
+			<Title>
+			"Is there a site (or app) like Beer Advocate that lets me give just an overall rating?"
+			</Title>
+			<Tags>
+				<tag>buying</tag>
+				<tag>resources</tag>
+				<tag>recommendations</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>292</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-12-18T04:18:37.103</CreationDate>
+				<LastActivityDate>2015-07-20T17:12:55.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>43</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Beer Advocate used to allow you to give an overall rating for a beer, rather than giving score breakdowns (appearance, smell, mouth feel, etc).  They have recently &lt;a href="http://www.beeradvocate.com/community/threads/beeradvocate-returns-to-its-roots-rating-system-revamped.238804/"&gt;changed this&lt;/a&gt; and you can only supply a rating if you rate all the factors.  That makes sense if you're a site owner trying to gather better data, but it's not so great for the casual beer-drinker who just wants to keep track of what she's had and how she liked it.&lt;/p&gt;
+
+					&lt;p&gt;The value of a site like Beer Advocate, rather than just keeping a file on disk, is having access to the descriptions (including categories like "winter warmer" and "amber ale" and suchlike), other items from those breweries (useful when looking at a menu, or shopping), and, out of curiosity, the variance between my rating and the average for people who rated that beer. Also, I want to be able to see and add ratings from multiple locations, so if I just used a file it would have to live in the cloud somewhere.  Alternatively, I'd be happy to use an app on my Android phone.&lt;/p&gt;
+
+					&lt;p&gt;What's the easiest way for me to track what I've had, with information about the beers (and breweries) and my own ratings?  I don't care if my ratings are shared with the world; I'm happy to contribute them if that's helpful, but I'm looking for a way that &lt;em&gt;I&lt;/em&gt; can track information about &lt;em&gt;my own&lt;/em&gt; tastes.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>7361</PostId>
+			<ParentPostId>7355</ParentPostId>			<Tags>
+				<tag>wine</tag>
+				<tag>craft-beers</tag>
+				<tag>reviews</tag>
+				<tag>data</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-28T21:17:35.767</CreationDate>
+				<LastActivityDate>2018-06-28T21:17:35.767</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5508</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I very much liked the link you provided to:
+					&lt;a href="https://nycdatascience.com/blog/student-works/ninkasi-beer-recommender-system/" rel="nofollow noreferrer"&gt;NINKASI: Beer Recommender System&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;It leads to the most interesting places . . . and information.&lt;/p&gt;
+
+					&lt;p&gt;Thank you, &lt;a href="https://alcohol.stackexchange.com/users/123/alvas"&gt;alvas&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

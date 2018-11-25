@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>6615</PostId>
+			<AcceptedAnswerId>6622</AcceptedAnswerId>
+			<Title>
+			"What's the difference between Cava and Champagne?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>differences</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>133</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-03-01T05:44:53.460</CreationDate>
+				<LastEditDate>2017-03-01T06:08:38.793</LastEditDate>
+				<LastActivityDate>2017-03-01T20:06:08.593</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+				<LastEditorUserId>6366</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;With warmer weather upon us it is sometimes nice to just sit and enjoy a glass or two of fizz.  However, what to choose.  There are rows upon rows of fizzy wines and Champagnes in the shops.  It seems that there can be little difference between Champagne and Cava to the untrained palate. Is there a difference in production techniques?  Can the untrained or those not used to drinking such things taste the difference?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>6972</PostId>
+			<AcceptedAnswerId>6979</AcceptedAnswerId>
+			<Title>
+			"How many types of gin are there?"
+			</Title>
+			<Tags>
+				<tag>gin</tag>
+				<tag>differences</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>4389</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-03T20:58:03.927</CreationDate>
+				<LastActivityDate>2018-06-10T13:56:34.347</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6989</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I don't mean brands, we could be here all day figuring out that list... I literally mean how many types of gin are there? I know there's dry (London) gin, and sloe gin, but are there any more? Why's dry gin different to just plain gin? Can a gin be two types at the same time? What makes a gin liqueur? Could someone also explain why they are different - is it due to the distilling process, or is it to do with the ingredients added etc.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

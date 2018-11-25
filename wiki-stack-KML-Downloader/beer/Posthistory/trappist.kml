@@ -1,0 +1,1444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>452</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:12:29.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between normal beer and trappist? Is there any difference in flavour or brewing style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>453</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:12:29.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between normal beer and trappist?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>454</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:12:29.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>466</PostId>
+			<ParentPostId>187</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:28:35.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Orval has a very distinct taste, but I'm not quite sure how I should categorize it? 
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>467</PostId>
+			<ParentPostId>187</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:28:35.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do I categorize Orval?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>468</PostId>
+			<ParentPostId>187</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:28:35.357</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Edit Tags" >
+			<PostId>1380</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:42.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<EditDetails>
+				terminology tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					terminology, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Unknown" >
+			<PostId>1381</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:42.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 407 approved by 73, 60 edit id of 68
+			</EditDetails>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Unknown" >
+			<PostId>1419</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T01:36:03.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431239838491508737
+			</EditDetails>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>1893</PostId>
+			<ParentPostId>685</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-21T12:22:27.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm pleasantly surprised to find a small selection of Trappist beers for sale at a venue in Inner City Brisbane, Australia. 
+
+					A quick look at the Chimay website (one of the beers available) shows a map explaining that you can get a Chimay pretty much anywhere. This map doesn't even include Australia, so I assume it's more widely available than they claim.
+
+					Now, all the branding explains how the beer is brewed in a traditional Trappist abbey, under the supervision of the monks, which is congruent to my understanding of how Trappist brewers operate.
+
+					So how does one Abbey produce enough beer to be able to sell it not only all over Europe, but on the other side of the world in seemingly mainstream quantities?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>1894</PostId>
+			<ParentPostId>685</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-21T12:22:27.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do Trappists Brew so much?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>1895</PostId>
+			<ParentPostId>685</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-21T12:22:27.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>85</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Body" >
+			<PostId>1977</PostId>
+			<ParentPostId>715</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T05:44:53.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Abbaye Bier (Abbey Beer) refer to monastic beer brewed by monks. And there is almost Trappist beer brewed by monks but specifically from Trappist monasteries. 
+
+					**But what is the difference in terms of brewing process, resulting product and historically, why are they different?** 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Title" >
+			<PostId>1978</PostId>
+			<ParentPostId>715</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T05:44:53.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the difference between Trappist beer and Abbey Beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Tags" >
+			<PostId>1979</PostId>
+			<ParentPostId>715</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-09T05:44:53.950</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Unknown" >
+			<PostId>1993</PostId>
+			<ParentPostId>715</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-10T02:27:46.740</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/454083286952730625
+			</EditDetails>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>1999</PostId>
+			<ParentPostId>685</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-10T14:27:47.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/454264484497207296
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Unknown" >
+			<PostId>2003</PostId>
+			<ParentPostId>715</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-11T19:01:27.650</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				3
+			</EditDetails>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Unknown" >
+			<PostId>2049</PostId>
+			<ParentPostId>715</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-17T05:13:09.447</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<EditDetails>
+				3
+			</EditDetails>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Body" >
+			<PostId>2199</PostId>
+			<ParentPostId>803</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-23T06:23:29.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are abbey beers? How did they come about? Why did monks brew beer? Does the monks still brew beer or is it done by brewing companies now?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Title" >
+			<PostId>2200</PostId>
+			<ParentPostId>803</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-23T06:23:29.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are abbey beers? How did they come about? Why do monks brew beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Tags" >
+			<PostId>2201</PostId>
+			<ParentPostId>803</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-23T06:23:29.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>3455</PostId>
+			<ParentPostId>912</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-07T22:38:06.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1062</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Suggestions on breweries that brew Belgian styles within Seattle city limits? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>3456</PostId>
+			<ParentPostId>912</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-07T22:38:06.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1062</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Belgian Styles brewed in Seattle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>3457</PostId>
+			<ParentPostId>912</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-07T22:38:06.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1062</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Unknown" >
+			<PostId>3467</PostId>
+			<ParentPostId>912</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-09T23:36:43.013</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/487017534856904704
+			</EditDetails>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Body" >
+			<PostId>6121</PostId>
+			<ParentPostId>3202</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:23:59.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The four grades of Trappist beer are Enkel, Dubbel, Triple and Quadrupel. Dubbel and triple are most common and occasionally, we see qaudrupel. 
+
+					Is there a history account of how the grades were called as they are?
+
+					But why are Enkel not seen publicly? Is there a reason for the secrecy or is it that dubbel is too light be to call a trappist?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Title" >
+			<PostId>6122</PostId>
+			<ParentPostId>3202</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:23:59.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are Enkel trappist beers not sold publicly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Tags" >
+			<PostId>6123</PostId>
+			<ParentPostId>3202</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-18T16:23:59.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Unknown" >
+			<PostId>6221</PostId>
+			<ParentPostId>3202</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-09T00:02:47.943</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/564575100356546560
+			</EditDetails>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Edit Body" >
+			<PostId>6327</PostId>
+			<ParentPostId>3202</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-12T19:35:25.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1043</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected spelling   
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					The four grades of Trappist beer are Enkel, Dubbel, Triple and Quadrupel. Dubbel and triple are most common and occasionally, we see quadrupel. &amp;nbsp;
+
+					Is there a history account of how the grades were called as they are?
+
+					But why are Enkel not seen publicly? Is there a reason for the secrecy or is it that dubbel is too light be to call a trappist?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>6328</PostId>
+			<ParentPostId>3202</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-03-12T19:35:25.813</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 1043 approved by 123 edit id of 127
+			</EditDetails>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Body" >
+			<PostId>6559</PostId>
+			<ParentPostId>3387</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-25T15:19:31.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In the past few years I've become more interested in Trappist beers (who wouldn't be?). Buying a Chimay or a Rochefort at the LCBO in Ontario is something I now do on the regular.
+
+					However, I've heard recently that the shipping process from Europe to the shelves in an LCBO in Ontario takes a long time, and is not always friendly to the beer. 
+
+					So I wonder:
+
+					 - what exactly is the process to get a Trappist from Europe to Ontario?
+					 - does this process often take it's toll on the beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Title" >
+			<PostId>6560</PostId>
+			<ParentPostId>3387</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-25T15:19:31.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does the process of shipping Trappists to Ontario, Canada damage the beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Tags" >
+			<PostId>6561</PostId>
+			<ParentPostId>3387</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-25T15:19:31.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Body" >
+			<PostId>6564</PostId>
+			<ParentPostId>3388</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-27T20:25:58.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I read in a blog post a few months ago that Westvleteren 12 is considered one of the, if not the, best example of a Trappist. I had one shortly after and it was a very, very good beer, although I don't know if it was so different from other similar versions (i.e. Rochefort 10) that I'd feel comfortable calling it 'the best'.
+
+					That said, I wonder if there's any particular Trappist that's normally considered the best of the style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Title" >
+			<PostId>6565</PostId>
+			<ParentPostId>3388</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-27T20:25:58.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there an example of the Trappist style that's considered the best of the style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Tags" >
+			<PostId>6566</PostId>
+			<ParentPostId>3388</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-27T20:25:58.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>6584</PostId>
+			<ParentPostId>3395</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-03T18:58:38.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4167</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I got my hand on a few bottles of Trappist Westvleteren (yay!) and of course I want to drink it at the right temperature. The "right" temperature is "cellar", but alas, I do not have a cellar.
+
+					What is the best way to chill a 30cl bottle to "celler" temperature, using a fridge? Drinking it too cool or warm would be quite a pity for a 8 euro bottle.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>6585</PostId>
+			<ParentPostId>3395</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-03T18:58:38.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4167</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to chill a 30cl bottle to "cellar" temperature?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>6586</PostId>
+			<ParentPostId>3395</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-03T18:58:38.353</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4167</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, trappist, cooling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Unknown" >
+			<PostId>7939</PostId>
+			<ParentPostId>3388</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-08-22T04:43:40.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/634949028921393152
+			</EditDetails>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Body" >
+			<PostId>8545</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T22:21:06.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In my experience, dubbels are often fairly dark, brown ales, while tripels are much clearer and lighter (of colour).
+
+					Why is that?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Initial Title" >
+			<PostId>8546</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T22:21:06.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are dubbelsdarker than tripels?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Tags" >
+			<PostId>8547</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T22:21:06.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, colour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Edit Title" >
+			<PostId>8548</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T22:30:58.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Missing space in title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why are dubbels darker than tripels?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Edit Title" >
+			<PostId>8549</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-16T23:31:57.777</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why are dubbels generally dark while most tripels are not?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Unknown" >
+			<PostId>8570</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-21T02:07:24.527</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/689992660669587456
+			</EditDetails>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Body" >
+			<PostId>8612</PostId>
+			<ParentPostId>4803</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-04T11:03:31.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5046</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was wondering why there are so few trappists and how does it come that from the eleven trappists 6 of them are from Belgium. Why aren't the breweries more spread over the world? Does it have something do to with what happenned there in the history?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Title" >
+			<PostId>8613</PostId>
+			<ParentPostId>4803</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-04T11:03:31.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5046</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are there so few "real" trappists and why are six from them from belgium
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Tags" >
+			<PostId>8614</PostId>
+			<ParentPostId>4803</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-04T11:03:31.113</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5046</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, specialty-beers, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Edit Body" >
+			<PostId>8616</PostId>
+			<ParentPostId>4803</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-04T15:58:33.000</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<EditDetails>
+				corrected spelling
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I was wondering why there are so few trappists and how is it that from the eleven trappists 6 of them are from Belgium. Why aren't the breweries more spread over the world? Does it have something do to with what happened there in the history?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Unknown" >
+			<PostId>8617</PostId>
+			<ParentPostId>4803</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-04T15:58:33.000</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4938 approved by 5046 edit id of 153
+			</EditDetails>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Body" >
+			<PostId>8621</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-05T08:10:26.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5046</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So from a previous question I learned that the Trappist foundation was founded in 1997 by 6 Belgian breweries one from the netherlands and one from germany. But were there other breweries wich succeeded to the conditions for the label of Trappist. I mean, it sounds unfair for a brewerie in France that six of the founding members are from Belgium.
+
+					And are those original founding members still the people who control the label? Then it sounds still unfair today, becaus they can easily keep the number of breweries with the trappist label low, just for marketing reasons. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Title" >
+			<PostId>8622</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-05T08:10:26.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5046</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When the Trappist foundation was founded in 1997,were there breweries wich didn't get the label altough they succeeded the conditions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Tags" >
+			<PostId>8623</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-05T08:10:26.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5046</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, breweries, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Edit Body" >
+			<PostId>8631</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-07T09:16:45.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected the grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					So from a previous question I learned that the Trappist foundation was founded in 1997 by 6 Belgian breweries one from the netherlands and one from germany. But were there other breweries which succeeded to the conditions for the label of Trappist. I mean, it sounds unfair for a brewerie in France that six of the founding members are from Belgium.
+
+					And are those original founding members still the people who control the label? Then it sounds still unfair today, because they can easily keep the number of breweries with the trappist label low, just for marketing reasons. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Edit Title" >
+			<PostId>8632</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-07T09:16:45.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Corrected the grammar.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					When the Trappist foundation was founded in 1997,were there breweries which didn't get the label altough they succeeded the conditions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Unknown" >
+			<PostId>8633</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-07T09:16:45.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 73 edit id of 154
+			</EditDetails>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Initial Body" >
+			<PostId>8709</PostId>
+			<ParentPostId>4844</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-19T22:46:44.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm looking to order some beer online from some Trappist Belgian breweries. Shipping internationally, obviously, to Washington State in the USA. What are the best (e.g., cheapest, most reliable) sites from which to order?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Title" >
+			<PostId>8710</PostId>
+			<ParentPostId>4844</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-19T22:46:44.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Ordering Beer from Belgium
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Initial Tags" >
+			<PostId>8711</PostId>
+			<ParentPostId>4844</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-19T22:46:44.867</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Edit Body" >
+			<PostId>8714</PostId>
+			<ParentPostId>4844</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-20T01:21:38.967</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<EditDetails>
+				Edited for clarity; not distributed to US.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I'm looking to order some beer online from some Trappist Belgian breweries. Shipping internationally, obviously, to Washington State in the USA. What are the best (e.g., cheapest, most reliable) sites from which to order?
+
+					Edit: This is for Trappist Breweries that don't distribute to the US (e.g.,  Westvleteren, Cantillon)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Unknown" >
+			<PostId>8852</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-17T03:06:28.620</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/710301245857263617
+			</EditDetails>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Unknown" >
+			<PostId>8853</PostId>
+			<ParentPostId>4803</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-17T06:13:52.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/710348404505907200
+			</EditDetails>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Body" >
+			<PostId>9662</PostId>
+			<ParentPostId>5164</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-22T13:57:19.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I thought this would make for an interesting question because Westvleteren 12 has now earned a mythic ethos. They've given their product a mystique that's driven up demand to a huge degree, and caused people to go to great lengths to get their hands on it.
+
+					That said, after having a few of them, and then comparing to the plentiful Rochefort 10 that I can find in most liquor stores around my city, I don't see a heck of a lot of difference between the two beers. **So what I wonder is what features of Westvleteren 12 actually distinguish it from a Rochefort 10?** Not necessarily why it's better, but in what ways and to what degree they are actually different beers.
+
+					Some leading questions:
+
+					 1. Does the brewing process differ?
+					 2. Do ingredients differ?
+					 3. Anything else?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Initial Title" >
+			<PostId>9663</PostId>
+			<ParentPostId>5164</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-22T13:57:19.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Distinguishing features between Rochefort 10 and Westvleteren 12
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Initial Tags" >
+			<PostId>9664</PostId>
+			<ParentPostId>5164</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-22T13:57:19.460</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Unknown" >
+			<PostId>9670</PostId>
+			<ParentPostId>5164</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-23T01:45:44.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/745794940731523072
+			</EditDetails>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Edit Tags" >
+			<PostId>9853</PostId>
+			<ParentPostId>4803</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:40:48.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Edit Body" >
+			<PostId>11012</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-07T08:30:25.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5575</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed up title and some capitalization
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					So from a previous question I learned that the Trappist foundation was founded in 1997 by 6 Belgian breweries one from the Netherlands and one from Germany. But were there other breweries which succeeded to the conditions for the label of Trappist. I mean, it sounds unfair for a brewery in France that six of the founding members are from Belgium.
+
+					And are those original founding members still the people who control the label? Then it sounds still unfair today, because they can easily keep the number of breweries with the trappist label low, just for marketing reasons. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Edit Title" >
+			<PostId>11013</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-07T08:30:25.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5575</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed up title and some capitalization
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					When the Trappist foundation was founded in 1997, were there breweries which didn't get the label although they succeeded to the conditions?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Unknown" >
+			<PostId>11014</PostId>
+			<ParentPostId>4807</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-07T08:30:25.600</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5575 approved by 5064, 5078 edit id of 274
+			</EditDetails>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Edit Tags" >
+			<PostId>14233</PostId>
+			<ParentPostId>4780</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-25T15:35:37.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4962</UserId>
+			</Contributors>
+			<EditDetails>
+				Added appropriate tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					trappist, colour, dubbel, tripel, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Body" >
+			<PostId>14322</PostId>
+			<ParentPostId>7381</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-12T14:35:02.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7922</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm thinking of going to Belgium for a week's holiday in the autumn and this time take the car from the UK. This would be perfect for stopping by the monks at Westvleteren and buying a case of beer. How long in advance can you/do you need to call them? Given that we'll probably need to book the holiday at least a month before we go, I don't want to miss out by not getting an appointment!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Title" >
+			<PostId>14323</PostId>
+			<ParentPostId>7381</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-12T14:35:02.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7922</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long in advance do you need to order Westvleteren?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Initial Tags" >
+			<PostId>14324</PostId>
+			<ParentPostId>7381</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-12T14:35:02.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7922</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, buying, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Unknown" >
+			<PostId>14331</PostId>
+			<ParentPostId>7381</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-07-13T06:59:48.703</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1017664876783816704
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

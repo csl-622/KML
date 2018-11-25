@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>76</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Contributors>
+				<UserId>68</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T23:12:31.443</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					CO2 is definitely the norm, since it occurs naturally during fermentation. I'm not sure if I've ever had a nitro beer. Here's an [interesting article](http://www.craftbeer.com/craft-beer-muses/good-beer-gas-nitro-beers-explained) on the difference.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>77</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T23:16:07.523</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					possible duplicate of [Why does a nitro beer taste different?](http://beer.stackexchange.com/questions/118/why-does-a-nitro-beer-taste-different)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>103</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T01:30:55.427</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					merged with the duplicate question, so this is the only way I can clear the close votes.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>207</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Contributors>
+				<UserId>162</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T22:08:10.797</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Pouring is rather simple. Start with the glass at about a 45-degree tilt, with the spout close to the inside of the glass. Slowly pull away and tilt to vertical as it becomes needed when the glass is near full. Stop just before it is completely full, to allow room for the head to rise. As for tapping a keg, I can't help you there.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>209</PostId>
+			<ParentPostId>241</ParentPostId>
+			<Contributors>
+				<UserId>25</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T23:18:26.223</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That was the answer I was expecting ;) Drink Tanks looks like the most suitable solution because of its CO₂ pressure seal and steel growler.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="1">
+			<PostId>230</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Contributors>
+				<UserId>170</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T05:38:09.457</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Another thing that can affect the poor is if you don't fully open the tap: this might have been the cause of the excessive head you got.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>232</PostId>
+			<ParentPostId>182</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-23T06:00:01.643</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'll update the answer :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>3441</PostId>
+			<ParentPostId>3463</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-14T16:57:44.927</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					What is the pressure set at? Those bubbles are almost certainly CO2.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>3442</PostId>
+			<ParentPostId>3463</ParentPostId>
+			<Contributors>
+				<UserId>4322</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-14T17:24:06.817</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					8-9 right now.  Edited above.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>3443</PostId>
+			<ParentPostId>3455</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-14T20:42:55.630</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					+1 on Belgian Wheat. Seems to be a non-fruity beer that non-beer drinkers I know can stand.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>3447</PostId>
+			<ParentPostId>3463</ParentPostId>
+			<Contributors>
+				<UserId>3901</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-19T14:32:53.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					If you are seeing air in the line then you might have a leak.  Take some soap solution and spray the connection areas, and turn up the co2 pressure.  See if you can spit bubbles coming out anywhere
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>3448</PostId>
+			<ParentPostId>3486</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-20T13:51:50.887</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Untappd is a great site for logging what you've tried, but unfortunately I haven't found many people interested in using it so the social aspect hasn't worked out too well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>3449</PostId>
+			<ParentPostId>3486</ParentPostId>
+			<Contributors>
+				<UserId>4338</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-20T14:56:43.940</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yeah, the same for me, just a few friends use it, but I find it useful for me, anyway.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="0">
+			<PostId>3451</PostId>
+			<ParentPostId>3495</ParentPostId>
+			<Contributors>
+				<UserId>2585</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-25T23:29:40.090</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Great answer. As for the suggestions, go for Cantillon, never look back. I'd suggest a lighter approach, from gueze to real lambic. The older, the sourer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="0">
+			<PostId>3455</PostId>
+			<ParentPostId>1039</ParentPostId>
+			<Contributors>
+				<UserId>49</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-08-01T14:11:59.833</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I very seriously want to try that whale beer!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="0">
+			<PostId>3858</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-04-20T13:59:16.447</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I bet part of it is price.  I think nitrogen is cheaper.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="1">
+			<PostId>4240</PostId>
+			<ParentPostId>6364</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-10-24T13:21:17.967</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Welcome to the site Arduinology and I hope you get some good replies to your question.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

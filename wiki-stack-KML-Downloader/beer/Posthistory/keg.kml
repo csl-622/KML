@@ -1,0 +1,973 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>304</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:57:28.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>84</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some beers have taste different on Nitro vs CO2. I'm sure there is science behind this. Why choose one over the other?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>305</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:57:28.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>84</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why would one choose to use Nitro vs CO2 as a beer gas?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>306</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:57:28.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>84</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Unknown" >
+			<PostId>359</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:29:27.987</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<EditDetails>
+				from http://beer.stackexchange.com/questions/118/why-does-a-nitro-beer-taste-different
+			</EditDetails>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Post Closed" >
+			<PostId>361</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:30:55.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":8,"DisplayName":"LessPop_MoreFizz"},{"Id":90,"DisplayName":"Jeffrey Lin"},{"Id":56,"DisplayName":"Steve D"},{"Id":60,"DisplayName":"Robert Cartaino"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Post Reopened" >
+			<PostId>362</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T01:30:58.473</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":60,"DisplayName":"Robert Cartaino"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>602</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:31:58.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was to a picnic, where someone brought us a keg of beer. They left the keg, the tap, bid us to have fun and left. And there we stood baffled how to get this to work, someone figured *something* out and we got our cups full of beer froth with a tiny bit of beer on the bottom.
+
+					I wouldn't want such a situation to repeat, so could someone give me a brief guide of how to assemble a beer stand (keg+tap) without getting it to explode into my face, get a proper stream going (instead of just a lot of froth) and pour it properly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>603</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:31:58.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Crash course to serving keg beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>604</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:31:58.850</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Body" >
+			<PostId>914</PostId>
+			<ParentPostId>353</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T13:24:36.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					On a private party or picnic when we use hand pump to push beer out of a keg the beer can relatively quickly get stale. What can be done to keep the beer in a good quality for as long as possible?
+
+					I can imagine that a low temperature and not moving the keg can help. What about air pressure? Is it better to keep it low or higher? I guess that low pressure is better because lower amount of air should dissolve in the beer in such a case. What other factors could influence the beer durability in such a situation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Title" >
+			<PostId>915</PostId>
+			<ParentPostId>353</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T13:24:36.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What can I do to prevent beer staling in a keg being pushed by air?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Tags" >
+			<PostId>916</PostId>
+			<ParentPostId>353</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-27T13:24:36.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>165</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					freshness, keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Unknown" >
+			<PostId>1780</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-05T22:45:41.420</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/441343821725831168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>2066</PostId>
+			<ParentPostId>744</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T04:33:55.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>801</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Have a kegerator home built system for 1/2 barrel beer in the garage. Recently had a keg of beer that was foamy no matter what we tried to do. Served it low temp, 37 degrews, and almost no CO2 pressure. Tried serving warmer, with more pressure, still tons of foam.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>2067</PostId>
+			<ParentPostId>744</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T04:33:55.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>801</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How do you tame a 'foamy' keg?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>2068</PostId>
+			<ParentPostId>744</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T04:33:55.403</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>801</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					foam, keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Unknown" >
+			<PostId>2079</PostId>
+			<ParentPostId>744</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-23T12:36:27.500</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/458947508820262912
+			</EditDetails>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>5035</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-31T23:17:53.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>224</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have a corny (5 gal) keg of homebrew, already carbonated, that's been aging at room temperature.  I'd like to bottle it off soon, but in my experience that works best when the beer is in the 45-50 degree Fahrenheit range.
+
+					Tonight the weather forecast for my area says it will get down to 29, and tomorrow it will be right around 45.  I'm inclined to just stick the keg on the fire escape tonight and leave it until the afternoon.  I'm not really worried about freezing, given the alcohol content I understand it should be able to go down to 28 or 29 without trouble (correct me if I'm wrong here).
+
+					I can't seem to find any reliable resources about air cooling, just recommendations for folks trying to cool beer as fast as possible.  Will the keg be cool enough tomorrow to bottle?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>5036</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-31T23:17:53.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>224</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long does it take to cool a keg of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>5037</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-31T23:17:53.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>224</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					keg, cooling, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Body" >
+			<PostId>5040</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-01T02:48:02.473</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>224</UserId>
+			</Contributors>
+			<EditDetails>
+				added 153 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have a corny (5 gal) keg of homebrew, already carbonated, that's been aging at room temperature.  I'd like to bottle it off soon, but in my experience that works best when the beer is in the 45-50 degree Fahrenheit range.
+
+					Tonight the weather forecast for my area says it will get down to 29, and tomorrow it will be right around 45.  I'm inclined to just stick the keg on the fire escape tonight and leave it until the afternoon.  I'm not really worried about freezing, given the alcohol content I understand it should be able to go down to 28 or 29 without trouble (correct me if I'm wrong here).
+
+					I can't seem to find any reliable resources about air cooling, just recommendations for folks trying to cool beer as fast as possible.  Will the keg be cool enough tomorrow to bottle?
+
+					EDIT: The forecast now says it could get as low as 24, so the freezing question may also be an issue.  The keg is outside, so we'll see what happens.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>5064</PostId>
+			<ParentPostId>2164</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-04T16:25:57.127</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/551776555568222208
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Edit Tags" >
+			<PostId>6615</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-11T13:19:47.000</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>268</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, serving, keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>6745</PostId>
+			<ParentPostId>3463</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-14T15:24:56.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4322</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Had to replace a faulty regulator for my two tap system.  Hooked everything up, changed nothing else, not the temp in the fridge, not the kegs, etc.  Literally just the regulator.
+
+					Now I have air bubbles forming in the beer line after an hour or so of no use.  Is it possible that the problem is from the CO2 regulator?
+
+					I am running a commercial tap system (Sankey).  This is not relative to homebrew.
+
+					Thanks.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>6746</PostId>
+			<ParentPostId>3463</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-14T15:24:56.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4322</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					New Regulator = Air in my Beer LInes?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>6747</PostId>
+			<ParentPostId>3463</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-14T15:24:56.103</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4322</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Edit Body" >
+			<PostId>6748</PostId>
+			<ParentPostId>3463</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-14T17:26:04.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4322</UserId>
+			</Contributors>
+			<EditDetails>
+				(Edited to add more details re: current pressure and the "overcarbonated" step.)
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Had to replace a faulty regulator for my two tap system.  Hooked everything up, changed nothing else, not the temp in the fridge, not the kegs, etc.  Literally just the regulator.
+
+					Now I have air bubbles forming in the beer line after an hour or so of no use.  Is it possible that the problem is from the CO2 regulator?
+
+					Some additional background: current pressure is at 8 or so.  When I had my "faulty" regulator prior to this -- the gauge would read 0 no matter what the line pressure was. To that end, it is entirely possible I overcarbonated the keg itself by thinking the tank was empty and cranking it up.
+
+					It is also worth noting the beer tastes metallic -- did I overcarbonate and this will resolve over time?  I am going to drop it down to 4 or 6 for now and bleed the kegs aggressively.
+
+					I am running a commercial tap system (Sankey).  This is not relative to homebrew.
+
+					Thanks.
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>8043</PostId>
+			<ParentPostId>4590</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-18T04:24:44.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4327</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know how to tap beer from a keg with CO2. The CO2 provides the pressure and you will get the beer.
+
+					But how can germans tap their beer without using CO2?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>8044</PostId>
+			<ParentPostId>4590</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-18T04:24:44.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4327</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to tap beer without CO2, like the germans do?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>8045</PostId>
+			<ParentPostId>4590</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-18T04:24:44.807</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4327</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>8129</PostId>
+			<ParentPostId>4590</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T20:20:20.023</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/652579366073966594
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Unknown" >
+			<PostId>8150</PostId>
+			<ParentPostId>3463</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-15T11:54:23.463</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/654626369301835776
+			</EditDetails>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Edit Body" >
+			<PostId>8452</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T00:05:42.467</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<EditDetails>
+				language fixes
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I was at a picnic where someone brought us a keg of beer. They left the keg, the tap, and bid us to have fun and left. And there we stood, baffled how to get this to work. Someone figured *something* out and we got our cups full of beer froth with a tiny bit of beer on the bottom.
+
+					I wouldn't want such a situation to repeat, so could someone give me a brief guide of how to assemble a beer stand (keg+tap) without getting it to explode into my face, get a proper stream going (instead of just a lot of froth), and pour it properly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Unknown" >
+			<PostId>8453</PostId>
+			<ParentPostId>233</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-04T00:05:42.467</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 1077 approved by 130 edit id of 150
+			</EditDetails>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Question Protected" >
+			<PostId>9048</PostId>
+			<ParentPostId>123</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-21T20:39:59.913</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Body" >
+			<PostId>11284</PostId>
+			<ParentPostId>6364</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-24T01:33:26.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6039</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a difference in how long a beer is considered good when running through a nitrogen system vs a co2 system?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Title" >
+			<PostId>11285</PostId>
+			<ParentPostId>6364</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-24T01:33:26.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6039</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Which gas will make a beer last longer in a keg, co2 or nitrogen?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Tags" >
+			<PostId>11286</PostId>
+			<ParentPostId>6364</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-24T01:33:26.547</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6039</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Unknown" >
+			<PostId>11300</PostId>
+			<ParentPostId>6364</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-25T08:25:16.470</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/790831580277268480
+			</EditDetails>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Edit Title" >
+			<PostId>12880</PostId>
+			<ParentPostId>6364</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-06T21:47:05.920</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6111</UserId>
+			</Contributors>
+			<EditDetails>
+				typos
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Which gas will make a beer last longer in a keg, CO2 or nitrogen?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Body" >
+			<PostId>13353</PostId>
+			<ParentPostId>7048</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-23T15:41:49.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I understand bottles or cans may or may not be pasteurized. How about Keg beer? I was under the impression that **all** keg beers are not pasteurized because of the volume, is that true? Are there exceptions? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Title" >
+			<PostId>13354</PostId>
+			<ParentPostId>7048</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-23T15:41:49.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are ALL keg beer non-pasteurized?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Tags" >
+			<PostId>13355</PostId>
+			<ParentPostId>7048</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-23T15:41:49.603</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7209</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Unknown" >
+			<PostId>13366</PostId>
+			<ParentPostId>7048</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-29T15:48:03.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/924664131092910080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Body" >
+			<PostId>14050</PostId>
+			<ParentPostId>7282</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T20:23:36.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7785</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can I pour cans of  carling  in to a keg to use on a beer tap,
+					its a 9-ltr keg and all the beer will be drunk that day/night
+
+					what gas pressure would I need .. ( if its possible ) 
+
+					can the same be done with dark fruit cider, same again it will all be drunk on the day/night
+					( its just a show off thing for the beer garden)
+
+					 I will pour the cans in slowly taking my time, I just like to know will it be possible  thanks gary 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Title" >
+			<PostId>14051</PostId>
+			<ParentPostId>7282</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T20:23:36.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7785</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					GARY d needs your help
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Tags" >
+			<PostId>14052</PostId>
+			<ParentPostId>7282</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T20:23:36.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7785</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Edit Body" >
+			<PostId>14053</PostId>
+			<ParentPostId>7282</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T20:34:58.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed the title, and the rest of the grammar while I was at it.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Can I pour cans of  Carling  in to a keg to use with a beer tap?
+
+					It's a 9 liter keg, and all the beer will be drunk that day/night
+
+					What gas pressure would I need? (If it's possible.) 
+
+					Can the same be done with dark fruit cider? Again, it will all be drunk on the same day/night. (It's just a show off thing for the beer garden.)
+
+					I will pour the cans in slowly taking my time, I would just like to know if it will be possible. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Edit Title" >
+			<PostId>14054</PostId>
+			<ParentPostId>7282</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T20:34:58.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed the title, and the rest of the grammar while I was at it.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Can I pour cans into a keg?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Edit Tags" >
+			<PostId>14055</PostId>
+			<ParentPostId>7282</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-05-14T20:34:58.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed the title, and the rest of the grammar while I was at it.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					keg, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Unknown" >
+			<PostId>14193</PostId>
+			<ParentPostId>7282</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-18T00:23:36.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1008505473593733121
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

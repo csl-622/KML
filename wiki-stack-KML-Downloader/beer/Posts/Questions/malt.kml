@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>3424</PostId>
+			<AcceptedAnswerId>3433</AcceptedAnswerId>
+			<Title>
+			"The taste of hops, malt"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>hops</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>109</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-25T19:07:17.137</CreationDate>
+				<LastEditDate>2015-06-25T20:31:44.763</LastEditDate>
+				<LastActivityDate>2015-06-28T12:46:39.027</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4238</OwnerUserId>
+				<LastEditorUserId>4238</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I drink beer I can taste a bitter, then slightly sweetness, then kind of a lingering flavor of something. I'm curious - is the lingering flavor the malt, or the hops? What contributes to the bitterness - the malt or the hops?&lt;/p&gt;
+
+					&lt;p&gt;I would like to know the taste differences between the two.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>4947</PostId>
+			<AcceptedAnswerId>4955</AcceptedAnswerId>
+			<Title>
+			"Alternative ways to know the impact of ingredients"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+				<tag>yeast</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>47</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-09T15:50:01.817</CreationDate>
+				<LastEditDate>2016-04-10T22:59:30.043</LastEditDate>
+				<LastActivityDate>2016-04-15T08:50:14.683</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5306</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;My first batch of beer was very complicated with lots of different ingredients and to be honest I wasn't even sure exactly what I was doing. In my second batch I decided to go "neutral," making a smaller batch (5 liters) and used only Pilsner, only Saaz and single infusion (to see the impact of each ingredient, and from there evolve). The beer is ready but now I'm kind of clueless to where to go. Is there any other way to see the impact of each ingredient without actually brewing a batch? I want to know how temperature, yeast, malt, etc. act on the beer.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>7431</PostId>
+			<Title>
+			"How do I create, dry or roast my own barley malt for beer?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>specialty-beers</tag>
+				<tag>home-brew</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>12</ViewCount>
+				<AnswerCount>0</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-08-11T18:51:25.690</CreationDate>
+				<LastActivityDate>2018-08-13T09:08:38.333</LastActivityDate>
+				<ClosedDate>2018-08-14T02:12:37.240</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7954</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I live close to a farm and I have access to fresh barley. How would I go forward to create barley malt, so I can brew for example a Pale Ale beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

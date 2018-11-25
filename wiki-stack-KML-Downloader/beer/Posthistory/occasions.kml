@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>586</PostId>
+			<ParentPostId>229</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:05:56.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between normal and Christmass beer? What makes them special?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>587</PostId>
+			<ParentPostId>229</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:05:56.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between normal and Christmass beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>588</PostId>
+			<ParentPostId>229</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:05:56.283</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>592</PostId>
+			<ParentPostId>229</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:16:33.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 1 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What's the difference between normal and Christmas beer? What makes them special?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Edit Title" >
+			<PostId>593</PostId>
+			<ParentPostId>229</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T21:16:33.853</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 1 characters in body; edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What's the difference between normal and Christmas beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>8641</PostId>
+			<ParentPostId>4813</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-08T16:09:36.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any varieties of beer that some people associate with the liturgical season of Lent? If so, why?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>8642</PostId>
+			<ParentPostId>4813</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-08T16:09:36.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Which beer or beers are associated with Lent?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>8643</PostId>
+			<ParentPostId>4813</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-08T16:09:36.070</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Edit Tags" >
+			<PostId>9852</PostId>
+			<ParentPostId>4813</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:40:16.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					occasions, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>9863</PostId>
+			<ParentPostId>229</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:50:36.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					occasions, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>9864</PostId>
+			<ParentPostId>229</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-29T14:19:35.023</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/759030613328396288
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>12901</PostId>
+			<ParentPostId>6899</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-12T11:54:03.833</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Besides wine, are there any alcoholic drinks (beer, liquors or liqueurs, etc.) associated with any religious rituals or customs?
+
+					I am deliberately not interested in wine because it is associated with the eucharist and the Roman Ritual contains a blessing for wine which is associated with the [Feast of St. John][1].
+
+					The Roman Ritual also has a blessing for beer which I exclude as a response to this question as well as which [beers are associated with Lent][2]. Easter Beers and beers associated with any Christian liturgical season are to be excluded also.
+
+					This question is open to religious rituals and customs of any belief, whether Christian, or otherwise. 
+
+
+					  [1]: https://christianity.stackexchange.com/questions/48459/why-is-wine-associated-with-st-john-the-apostle
+					  [2]: https://alcohol.stackexchange.com/a/4885/5064
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>12902</PostId>
+			<ParentPostId>6899</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-12T11:54:03.833</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Besides wine, are there any alcoholic drinks associated with any religious rituals or customs?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>12903</PostId>
+			<ParentPostId>6899</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-12T11:54:03.833</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drink, occasions, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Edit Body" >
+			<PostId>12906</PostId>
+			<ParentPostId>6899</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-13T14:06:35.340</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				added 60 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Besides wine, are there any alcoholic drinks (beer, liquors or liqueurs, etc.) associated with any religious rituals or customs?
+
+					I am deliberately not interested in wine because it is associated with the eucharist and the Roman Ritual contains a blessing for wine which is associated with the [Feast of St. John][1].
+
+					The Roman Ritual also has a blessing for beer which I exclude as a response to this question as well as which [beers are associated with Lent][2]. Easter Beers and beers associated with any Christian liturgical season are to be excluded also.
+
+					This question is open to religious rituals and customs of any belief, whether Christian, or otherwise. The brewing of beer is not to be considered a ritual either.
+
+
+					  [1]: https://christianity.stackexchange.com/questions/48459/why-is-wine-associated-with-st-john-the-apostle
+					  [2]: https://alcohol.stackexchange.com/a/4885/5064
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

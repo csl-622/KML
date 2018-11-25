@@ -1,0 +1,1176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>154</PostId>
+			<Title>
+			"Can you order beers by strength of flavour?"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>131</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-22T04:53:23.933</CreationDate>
+				<LastEditDate>2014-04-13T23:27:33.607</LastEditDate>
+				<LastActivityDate>2014-04-13T23:27:33.607</LastActivityDate>
+				<ClosedDate>2014-01-22T14:35:22.650</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+				<LastEditorUserId>80</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I imagine the might would look something like:&lt;/p&gt;
+
+					&lt;pre&gt;&lt;code&gt;Pale Lager    
+					Generic lager.
+					Pilsner    
+					Pale Ale (Which style?)    
+					Imperial Pale Ale    
+					Stout
+					&lt;/code&gt;&lt;/pre&gt;
+
+					&lt;p&gt;Of course, I'm not a full on beer aficionado, I don't know all the styles. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType="question">
+			<PostId>256</PostId>
+			<AcceptedAnswerId>264</AcceptedAnswerId>
+			<Title>
+			"How can a beer be flavored?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>17</Score>
+				<ViewCount>17696</ViewCount>
+				<AnswerCount>7</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-01-23T08:31:31.993</CreationDate>
+				<LastEditDate>2014-04-13T23:26:37.997</LastEditDate>
+				<LastActivityDate>2017-08-10T09:36:54.570</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+				<LastEditorUserId>80</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've heard of beers such as our local &lt;a href="http://sanmiguelflavoredbeer.com/home/"&gt;brand&lt;/a&gt; in the Philippines and &lt;a href="http://rogue.com/beers/voodoo-bacon-maple.php"&gt;this&lt;/a&gt; one, and though I haven't sampled them yet, I am quite curious: how do you add flavor to beer? I've drank a few style of beers but I haven't dealt with any "flavored". As I'm not familiar with the brewing process yet, I want to know how as I don't think it's as simple as adding a syrup on the beer after brewing. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType="question">
+			<PostId>702</PostId>
+			<AcceptedAnswerId>893</AcceptedAnswerId>
+			<Title>
+			"Why is it a Ginger "Beer" and not a Ginger "Cider"?"
+			</Title>
+			<Tags>
+				<tag>history</tag>
+				<tag>flavor</tag>
+				<tag>terminology</tag>
+				<tag>additives</tag>
+			</Tags>
+			<Credit> 
+				<Score>18</Score>
+				<ViewCount>6878</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-01T09:51:29.510</CreationDate>
+				<LastEditDate>2016-07-28T14:48:24.563</LastEditDate>
+				<LastActivityDate>2016-07-28T14:48:24.563</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>723</OwnerUserId>
+				<LastEditorUserId>5078</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It seems that &lt;em&gt;Ginger Beer&lt;/em&gt; has no barley, no hops, no wort, no malted anything; so why is it a "beer"?  Seems like it is closer to a cider.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType="question">
+			<PostId>757</PostId>
+			<Title>
+			"Are some beers 'too hoppy'?"
+			</Title>
+			<Tags>
+				<tag>hops</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>699</ViewCount>
+				<AnswerCount>9</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-30T01:08:37.720</CreationDate>
+				<LastActivityDate>2014-06-04T18:17:03.723</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Hoppy beers appear to be fad at the moment. &lt;/p&gt;
+
+					&lt;p&gt;It seems that some brewers are aiming to produce beer with the sole aim to be as hoppy as possible, without consideration to other flavors or characteristics. &lt;/p&gt;
+
+					&lt;p&gt;Is it fair to say that some beers are simply 'too hoppy' by some objective measure? I would say the New Zealand's Boundry Road Mumbo Jumbo IPA fits this category. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType="question">
+			<PostId>758</PostId>
+			<Title>
+			"Why do some cheap beers taste sweet?"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>2332</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-04-30T01:16:26.433</CreationDate>
+				<LastActivityDate>2014-04-30T08:46:48.477</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>87</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I had a Tui (cheap New Zealand pale lager) the other day, and it tasted sweet!&lt;/p&gt;
+
+					&lt;p&gt;Why is this? Is possible that sugar is added during the brewing? What else would make it taste sweet?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType="question">
+			<PostId>777</PostId>
+			<Title>
+			"What gives a "smoky" beer a smoked flavor?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>flavor</tag>
+				<tag>saison</tag>
+			</Tags>
+			<Credit> 
+				<Score>12</Score>
+				<ViewCount>3244</ViewCount>
+				<AnswerCount>6</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-10T17:06:45.270</CreationDate>
+				<LastActivityDate>2016-10-26T14:52:27.397</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>842</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently started getting interested in smoked beers. Quite a few years back, Shiner had a seasonal called Smokehouse. I didn't care for it. However, I've recently been intrigued by varieties of smoked saisons, ipas and marzenbiers. What makes a beer smoky? Is the flavor created by casking, adding flavor or part of the brewing process?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType="question">
+			<PostId>814</PostId>
+			<Title>
+			"How can I try a wide variety beers without buying them by the case/spending a lot of money?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>style</tag>
+				<tag>specialty-beers</tag>
+				<tag>flavor</tag>
+				<tag>united-states</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>687</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-05-29T08:35:34.430</CreationDate>
+				<LastActivityDate>2014-05-30T03:08:25.990</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>928</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Like most of you here, I thoroughly enjoy beer.
+					How can I try a wide variety beers without buying them by the case/spending a lot of money? &lt;/p&gt;
+
+					&lt;p&gt;Aspiring beer enthusiast that is grows tired of the usual, and wants to branch out.
+					Also on a broke, paying for school out of pocket, college kid budget.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType="question">
+			<PostId>877</PostId>
+			<AcceptedAnswerId>881</AcceptedAnswerId>
+			<Title>
+			"Specialty Beers at Local Markets"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>specialty-beers</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>168</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-06-12T18:26:47.260</CreationDate>
+				<LastEditDate>2014-06-17T13:55:07.343</LastEditDate>
+				<LastActivityDate>2014-07-22T08:00:56.837</LastActivityDate>
+				<ClosedDate>2014-07-22T08:06:54.643</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>995</OwnerUserId>
+				<LastEditorUserId>995</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;so I am trying to find some pretty nice beers, beer like a Delirium Tremens, to try. Does anyone have any recommendations on some nice beer that isn't insanely hard to find. Money is not really the issue, it's just I do not want to go looking at several specialty alcohol stores for one type of beer. &lt;/p&gt;
+
+					&lt;p&gt;I live in North Carolina, near the triad area. &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType="question">
+			<PostId>969</PostId>
+			<AcceptedAnswerId>973</AcceptedAnswerId>
+			<Title>
+			"Trying to Find a Good Beer for A Friend"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>980</ViewCount>
+				<AnswerCount>11</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-08-05T16:24:41.480</CreationDate>
+				<LastEditDate>2014-08-06T17:41:56.650</LastEditDate>
+				<LastActivityDate>2016-11-16T15:48:30.693</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1104</OwnerUserId>
+				<LastEditorUserId>1104</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have a friend who never really got into beer. Something about it just doesn't taste right to her, I guess; regardless, she is still open to trying beer and wants to find some that she actually enjoys. I have been trying to find beers for her to try for a while now, but haven't had much luck. I know that she would not be a fan of any sour or overly bitter beer, so something sweeter would be more suited for her. It might also be worth mentioning that she isn't a huge fan of chocolate, but absolutely loves vanilla. &lt;/p&gt;
+
+					&lt;p&gt;I have tried giving her some beers like &lt;a href="http://www.beeradvocate.com/beer/profile/29/26049/"&gt;Wild Blue&lt;/a&gt; and those seem to be a step in the right direction, but she still wants to find less fruit flavored beer that she would enjoy. I have been looking for either something with a decent vanilla flavor, like &lt;a href="http://www.beeradvocate.com/beer/profile/710/86776/"&gt;Leinie's Snowdrift Vanilla Porter&lt;/a&gt;. However, everything I have tried to introduce her too doesn't seem to cut it. I really want to find a beer she'll drink, so if you have any more suggestions let me know! &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType="question">
+			<PostId>1009</PostId>
+			<AcceptedAnswerId>1016</AcceptedAnswerId>
+			<Title>
+			""Pumpkin" beers made with actual pumpkin?"
+			</Title>
+			<Tags>
+				<tag>brewing</tag>
+				<tag>flavor</tag>
+				<tag>pennsylvania</tag>
+				<tag>retail-availiability</tag>
+			</Tags>
+			<Credit> 
+				<Score>10</Score>
+				<ViewCount>569</ViewCount>
+				<AnswerCount>8</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-03T01:33:38.873</CreationDate>
+				<LastActivityDate>2016-10-13T14:13:40.373</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>798</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;It's about that time of year again, when pumpkin flavored beer (and everything else) starts making its way onto store shelves.&lt;/p&gt;
+
+					&lt;p&gt;I was wondering, what pumpkin flavored beers are out there, if any, are made with actual pumpkin and not just pumpkin pie spices?&lt;/p&gt;
+
+					&lt;p&gt;My personal favorite is Pumpkin Head by Shipyard, but I've been unable to find any evidence that would suggest it is made with real pumpkin. Are there readily available beers made with real pumpkin? I live in western PA, but any brand not specifically available here would be good to know.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType="question">
+			<PostId>1024</PostId>
+			<Title>
+			"Unusal recepticles"
+			</Title>
+			<Tags>
+				<tag>serving</tag>
+				<tag>flavor</tag>
+				<tag>glassware</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>176</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-09-18T11:42:48.517</CreationDate>
+				<LastActivityDate>2015-09-17T23:12:01.467</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1317</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I understand openings of a glass allow for aroma to add to the taste. However I recently had Kwak in its recommended glass, which is similar to a test tube. I have seen a number of other unique glasses. 
+					Are these really only for asthetics or are these meant to add to the flavour?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType="question">
+			<PostId>1051</PostId>
+			<AcceptedAnswerId>1052</AcceptedAnswerId>
+			<Title>
+			"Craft Beer vs Real Ale"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>taste</tag>
+				<tag>ale</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>824</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-10-17T09:19:30.727</CreationDate>
+				<LastEditDate>2014-10-21T14:48:52.450</LastEditDate>
+				<LastActivityDate>2014-10-22T04:34:11.037</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1398</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I've been following the craft beer scene in the UK for some time now, and much prefer true craft beers to real ales (and beers labeled "craft" when they have no business being represented in such a way). Comparatively, real ales I've tried have a bland, waxy taste to them, unlike craft beers such as Brewdog's Punk IPA, Dead Pony Club, and 5AM Saint.&lt;/p&gt;
+
+					&lt;p&gt;A friend expressed to me his view that the terms “craft beer” and “real ale” are synonymous, stating: &lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;“You realise that most of the industrialised breweries started out making “craft beer,” however demand and greed caused them to skimp on ingredients, adding less and less to make more and more profit? Most of these new breweries will probably go the same way.”&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Whilst I agree in principle regarding greed and industrialisation, I am skeptical of the claim that most industrialised breweries started out making “craft beer.” Nor do I believe that “real ale” breweries have changed their recipes to that degree over time.&lt;/p&gt;
+
+					&lt;p&gt;To put this into context, some beers I consider real ales are Youngs London Gold, Bombardier, Tribute, and Deuchars IPA, while some beers I consider craft beers are Brewdog IPA is Dead Citra, Kernel Black IPA, Lagunitas IPA, and Moor So’Hop.&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;What distinguishes a “craft beer” from a “real ale”?&lt;/li&gt;
+					&lt;li&gt;Do “craft beers” change as breweries scale up for profits?&lt;/li&gt;
+					&lt;li&gt;Did “real ales” use to taste nicer than it does today?&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType="question">
+			<PostId>3309</PostId>
+			<Title>
+			"How can I add post-flavoring to beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>151</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-23T20:48:19.587</CreationDate>
+				<LastEditDate>2015-03-24T03:26:01.147</LastEditDate>
+				<LastActivityDate>2015-03-31T16:44:00.817</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>3920</OwnerUserId>
+				<LastEditorUserId>73</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I'm having a party and I want to add flavors to my already-brewed beer. How can I do that and have it mix?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType="question">
+			<PostId>3370</PostId>
+			<AcceptedAnswerId>3382</AcceptedAnswerId>
+			<Title>
+			"When and how to drink cellared beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>serving</tag>
+				<tag>temperature</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>176</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-05-08T21:07:27.047</CreationDate>
+				<LastActivityDate>2015-05-13T16:47:11.423</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4101</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I had acquired a couple of Samuel Adams "one-off" beers, specifically "The Vixen (stout)", "Merry Mischief (gingerbread stout)", "Griffin's Bow (barley wine)" and "Norse Legend (Sahti)". These bottles are either first, second or third batch, according to the label mind you. I had these beers for 2 years in a cellar, almost no light touches them and at room temperature.&lt;/p&gt;
+
+					&lt;p&gt;I know that most of this types of beer gets better with time, except for the Sahti, hadn't explored much of that type, but I would like to know if it's safe for the beers to be kept and for how long, and at a given time, what's the best way to drink them (chill them, room temperature, etc.). Thanks.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType="question">
+			<PostId>3420</PostId>
+			<AcceptedAnswerId>3422</AcceptedAnswerId>
+			<Title>
+			"What is a good beer for starters, or people who don't typically enjoy the taste of beer?"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>66389</ViewCount>
+				<AnswerCount>9</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-23T21:32:53.403</CreationDate>
+				<LastEditDate>2015-06-23T21:43:11.003</LastEditDate>
+				<LastActivityDate>2015-09-22T19:01:01.333</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4238</OwnerUserId>
+				<LastEditorUserId>4238</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Asking as a beer lover, my roommate does not enjoy most beers, nor does my fiancé. I have nobody to share my enjoyment and taste testing with. &lt;strong&gt;What is a good beer that I can get them started out on to maybe get them to eventually appreciate the taste of beer&lt;/strong&gt;? &lt;/p&gt;
+
+					&lt;p&gt;They enjoy sweeter flavors, whereas I enjoy more bitter flavors. &lt;/p&gt;
+
+					&lt;p&gt;My roommate recently started drinking Angry Orchards and will occasionally drink a Blue Moon Cinnamon Horchata Ale, so he is starting to appreciate the taste more, but my fiancé just has not found her favorite yet. She says that she didn't mind Dos Equis as much as others, but still didn't really like it.&lt;/p&gt;
+
+					&lt;p&gt;Is there a beer that is good for starters that is not overwhelmingly "beery"?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType="question">
+			<PostId>3424</PostId>
+			<AcceptedAnswerId>3433</AcceptedAnswerId>
+			<Title>
+			"The taste of hops, malt"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>hops</tag>
+				<tag>malt</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>109</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-25T19:07:17.137</CreationDate>
+				<LastEditDate>2015-06-25T20:31:44.763</LastEditDate>
+				<LastActivityDate>2015-06-28T12:46:39.027</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4238</OwnerUserId>
+				<LastEditorUserId>4238</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;When I drink beer I can taste a bitter, then slightly sweetness, then kind of a lingering flavor of something. I'm curious - is the lingering flavor the malt, or the hops? What contributes to the bitterness - the malt or the hops?&lt;/p&gt;
+
+					&lt;p&gt;I would like to know the taste differences between the two.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType="question">
+			<PostId>3478</PostId>
+			<AcceptedAnswerId>3484</AcceptedAnswerId>
+			<Title>
+			"Looking for a very hoppy beer (in Germany)"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>pilsener</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>1414</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-07-19T06:57:32.817</CreationDate>
+				<LastEditDate>2015-07-19T14:34:32.323</LastEditDate>
+				<LastActivityDate>2015-07-26T13:35:13.590</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4337</OwnerUserId>
+				<LastEditorUserId>4337</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Which beer, that is available in Germany, can you recommend that is more bitter than Jever?&lt;/p&gt;
+
+					&lt;p&gt;Or, to re-phrase the question: What is the beer with the most hop that you know of, in Germany?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType="question">
+			<PostId>4658</PostId>
+			<Title>
+			"Beer with honey, beer with cinnamon"
+			</Title>
+			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>425</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-10-26T13:04:15.107</CreationDate>
+				<LastActivityDate>2015-10-30T18:15:36.243</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>1469</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;A while ago on a visit to Tallinn I visited the medieval-style restaurant &lt;a href="http://www.oldehansa.ee/" rel="noreferrer"&gt;&lt;em&gt;Olde Hansa&lt;/em&gt;&lt;/a&gt;. There they had two very good kinds of beer: one with honey and one with cinnamon.&lt;/p&gt;
+
+					&lt;p&gt;Do such beers exist elsewhere, in particular, in bottled versions?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType="question">
+			<PostId>4726</PostId>
+			<AcceptedAnswerId>4727</AcceptedAnswerId>
+			<Title>
+			"Tobacco-flavored beer"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>338</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-12-15T06:20:32.850</CreationDate>
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate>
+				<LastActivityDate>2015-12-15T20:45:59.647</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>127</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Inspired by &lt;a href="https://alcohol.stackexchange.com/questions/4667/dumping-small-amount-of-cigarette-ashes-into-the-beers"&gt;this question&lt;/a&gt;, I want to ask if there are any existing beer flavored using tobacco or have a hint of tobacco in the taste.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType="question">
+			<PostId>4791</PostId>
+			<Title>
+			"Flavour components in beer"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>284</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-01-25T21:20:07.650</CreationDate>
+				<LastEditDate>2016-01-27T16:13:47.563</LastEditDate>
+				<LastActivityDate>2016-02-10T09:45:31.930</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>4938</OwnerUserId>
+				<LastEditorUserId>4938</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What are the most important chemicals for the flavour of beer, and what effect do they have? I mean chemicals as components in the beer not regarding if they are naturally or artificially added.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType="question">
+			<PostId>4965</PostId>
+			<AcceptedAnswerId>4968</AcceptedAnswerId>
+			<Title>
+			"The things that makes a good beer be a great beer"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>0</Score>
+				<ViewCount>418</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-04-21T03:15:07.353</CreationDate>
+				<LastActivityDate>2016-04-21T09:05:52.793</LastActivityDate>
+				<ClosedDate>2016-05-01T00:59:45.630</ClosedDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5350</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Well, after living in Germany for a couple of months, i understood that the flavor is everything.
+					Usually people say that a great Beer should be cold, well, i think that's not the main issue. In your opinion what are the things that makes a good Beer? 
+					Can you name your favorite? So we can have like a List of Great Beers to taste.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType="question">
+			<PostId>5202</PostId>
+			<AcceptedAnswerId>5204</AcceptedAnswerId>
+			<Title>
+			"Are there drinks/cocktails involving vinegar?"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>ingredients</tag>
+				<tag>cocktails</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>209</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2016-07-14T14:47:49.063</CreationDate>
+				<LastActivityDate>2016-07-17T08:07:59.657</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>5460</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Being a huge fan of vinegar, I recently wondered if there are any actual known cocktail recipes/drinks that involve vinegar as an ingredient, preferably as a significant ingredient contributing perceivably to the drink's taste.&lt;/p&gt;
+
+					&lt;p&gt;While there are drinks with a more spicy/hearty flavour, like &lt;em&gt;Bloody Mary&lt;/em&gt;, I never heard of a cocktail involving vinegar and wonder if it would even work together with alcohol from a flavour-perspective. I could imagine the best targets to be spirits with a rather low-profile taste of their own, like vodka.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType="question">
+			<PostId>6524</PostId>
+			<AcceptedAnswerId>6938</AcceptedAnswerId>
+			<Title>
+			"Fashionable gins - are they what they claim to be?"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>taste</tag>
+				<tag>gin</tag>
+			</Tags>
+			<Credit> 
+				<Score>9</Score>
+				<ViewCount>134</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-02-13T05:33:52.640</CreationDate>
+				<LastActivityDate>2017-07-02T19:16:08.993</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I have always enjoyed a G&amp;amp;T.  I have my favorite brands, not only of gin, but also of tonic.  But I have noticed that there is a whole slew of them now.  &lt;a href="https://i.stack.imgur.com/PxBfg.jpg" rel="noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/PxBfg.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;So, how do I know which ones are made properly, and which ones are just alcohol and flavor, without buying and tasting each one in turn?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType="question">
+			<PostId>6758</PostId>
+			<Title>
+			"Adding Spirit Essences to home brew beer"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>7</Score>
+				<ViewCount>280</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-10T09:13:29.723</CreationDate>
+				<LastEditDate>2017-04-10T11:33:57.140</LastEditDate>
+				<LastActivityDate>2017-04-10T14:54:44.343</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6647</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I am new to home brewing now having done only 3 batches, I am looking to add flavours, my last batch was a light beer which I added lime codial to and was great, but can I add Still Spirit Essences to my home brew beer to give that whisky or bourbon chaser effect and how would I do this? At what stage of the process would I do this? Your help would be greatley appreciated, Thank You!&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType="question">
+			<PostId>6785</PostId>
+			<AcceptedAnswerId>6786</AcceptedAnswerId>
+			<Title>
+			"Adding flavor to vodka"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>vodka</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>672</ViewCount>
+				<AnswerCount>5</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-19T08:41:36.503</CreationDate>
+				<LastActivityDate>2017-05-03T18:37:36.123</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I accept that one of the easiest ways to add flavor to vodka is simply to add a mixer or juice of some type, but that would be diluting it.  I also know that I can add fruits to the vodka itself which would infuse the vodka with a particular flavor.  Is there another way, say with some type of essential oil of some variety.  Overly sweet flavors should be avoided.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType="question">
+			<PostId>6811</PostId>
+			<AcceptedAnswerId>6816</AcceptedAnswerId>
+			<Title>
+			"Using 'splenda' in Vodka infusions. Serious headache!"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>vodka</tag>
+				<tag>hangover</tag>
+			</Tags>
+			<Credit> 
+				<Score>1</Score>
+				<ViewCount>164</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>10</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-04-30T13:58:57.120</CreationDate>
+				<LastActivityDate>2017-05-02T14:18:19.243</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6366</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Recently I posted a question (&lt;a href="https://alcohol.stackexchange.com/questions/6785/adding-flavor-to-vodka"&gt;here&lt;/a&gt;) regarding adding flavor to vodka.  In my usual exuberance and non-scientific approach to matters I thought 'I know, to cut a few calories I will add Splenda'.  OK, the taste was OK, the orange and lemon peel that I steeped in the vodka gave the drink a nice, if not bitter taste.  I added splenda - and then experimented on myself (can't find anyone stupid enough to join me in these ventures!).  I drank the 'vodka' in the same manner (volume) as I would a standard vodka or gin.  Now, first morning after, the raging headache should have been sufficient - but looking for a more conclusive scientific result I tried the 'experiment' for a couple more nights, with the same results each following morning.  So, my question is:  Does adding an artificial sweetener to alcohol increase the chance of a hangover?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType="question">
+			<PostId>6903</PostId>
+			<Title>
+			"Why moscato sweet?"
+			</Title>
+			<Tags>
+				<tag>wine</tag>
+				<tag>flavor</tag>
+				<tag>drinking</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>144</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-06-15T06:50:18.887</CreationDate>
+				<LastActivityDate>2017-06-17T13:51:25.153</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>6825</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Recently I'm in love with Moscato wine. It is very sweet. Is it real wine? Attached is the brand I consumed. &lt;a href="https://i.stack.imgur.com/frFdB.jpg" rel="nofollow noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/frFdB.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType="question">
+			<PostId>6985</PostId>
+			<AcceptedAnswerId>6986</AcceptedAnswerId>
+			<Title>
+			"Difference between "Ale's" beer"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>ale</tag>
+				<tag>classification</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<ViewCount>141</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-08-17T13:18:19.240</CreationDate>
+				<LastEditDate>2018-05-02T11:24:15.810</LastEditDate>
+				<LastActivityDate>2018-05-02T11:24:15.810</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7030</OwnerUserId>
+				<LastEditorUserId>6566</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;What is the difference between "The Ale", "The Brown Ale", and the "Mild Ale" beers? The colour seems more or less the same so, is it the taste that normally is different or is the level of alcohol present on the beer?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType="question">
+			<PostId>7116</PostId>
+			<Title>
+			"How much alcohol is in rum extract?"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>alcohol-level</tag>
+			</Tags>
+			<Credit> 
+				<Score>5</Score>
+				<ViewCount>780</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2017-12-13T23:33:40.930</CreationDate>
+				<LastActivityDate>2017-12-14T01:59:00.307</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7420</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I generally use rum extract to make a "non-alcoholic" version of my eggnog recipe (which calls for rum and bourbon). However, the rum extract in my cupboard still technically has some alcohol in it, and therefore might not always be an acceptable substitute, depending on who I'm cooking for.&lt;/p&gt;
+
+					&lt;p&gt;What is the approximate difference in alcohol concentration when using an extract to mimic flavor, compared to the original spirit? I have always heard that the alcohol in (e.g.) rum extract is "trivial" or "insignificant," and certainly don't disagree -- but I am hoping for a more &lt;em&gt;quantitative&lt;/em&gt; measure.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType="question">
+			<PostId>7180</PostId>
+			<AcceptedAnswerId>7181</AcceptedAnswerId>
+			<Title>
+			"What's a good (neutral) sample beer to spike with a sensory training kit?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>flavor</tag>
+				<tag>lager</tag>
+				<tag>craft-beers</tag>
+			</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>143</ViewCount>
+				<AnswerCount>3</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-02-01T19:44:37.167</CreationDate>
+				<LastActivityDate>2018-05-16T22:25:12.310</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently ordered a sensory training kit from Siebel Institute. In short, glass vials of liquid isolating flavors (including off-flavors and contamination) commonly found in beer.&lt;/p&gt;
+
+					&lt;p&gt;The instructions explain how to spike samples of beer, but say nothing about how to select a suitable beer:&lt;/p&gt;
+
+					&lt;p&gt;&lt;a href="https://i.stack.imgur.com/d8WFw.jpg" rel="noreferrer"&gt;&lt;img src="https://i.stack.imgur.com/d8WFw.jpg" alt="enter image description here"&gt;&lt;/a&gt;&lt;/p&gt;
+
+					&lt;p&gt;I'll be hosting a party of six, and our tastes vary wildly: from craft drinkers to macro drinkers, and an enologist (winemaker).&lt;/p&gt;
+
+					&lt;p&gt;&lt;strong&gt;How should I select the base beer(s) to help us get the most out of this experience?&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;&lt;p&gt;Should we all have the same beer? If so, a macro, even though some dislike them? Or should I pick something like a pilsner?&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Or should I have two tiers, a macro and something else? (What kind of ale would be appropriate?)&lt;/p&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType="question">
+			<PostId>7280</PostId>
+			<Title>
+			"Extracting oils and flavours before fermentation"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+				<tag>spirits</tag>
+				<tag>distillation</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>45</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-14T10:43:46.003</CreationDate>
+				<LastActivityDate>2018-07-17T20:51:06.807</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7702</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Distillation of ethereal oils is made with different pressures and temperatures than distillation of alcohol. So when distilling spirits out of mash directly most of the tastes get lost. I wonder if it could be an idea to distil the natural oils and flavours of fruits (ingredients) before fermentation and add those components later to the product to conserve a stronger taste of the ingredients used.&lt;/p&gt;
+
+					&lt;p&gt;Has somebody tried that out?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType="question">
+			<PostId>7309</PostId>
+			<Title>
+			"Fosters Gold - Alternative"
+			</Title>
+			<Tags>
+				<tag>flavor</tag>
+			</Tags>
+			<Credit> 
+				<Score>3</Score>
+				<ViewCount>293</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-05-20T16:25:05.603</CreationDate>
+				<LastEditDate>2018-05-26T11:44:27.440</LastEditDate>
+				<LastActivityDate>2018-06-19T13:12:24.913</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7808</OwnerUserId>
+				<LastEditorUserId>5064</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;In the UK, I have always enjoyed Fosters lager and as a drink at home. I have always chosen Fosters Gold (Bottled) as my choice of drink at home, however I have just received this email reply saying that the brand will be become defunct in the UK. &lt;/p&gt;
+
+					&lt;p&gt;I was wondering if there is s bottled alternative with a similar taste I should now consider?&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Dear Steven,&lt;/p&gt;
+  
+					  &lt;p&gt;“Thank you for your enquiry concerning Fosters Gold.&lt;/p&gt;
+  
+					  &lt;p&gt;Unfortunately, we have to advise that this has been de-listed from our portfolio. &lt;/p&gt;
+  
+					  &lt;p&gt;Heineken UK have carried out a review of the brand and its market performance and have concluded that the brand does not have an effective role to play in the highly competitive sector. &lt;/p&gt;
+  
+					  &lt;p&gt;Sorry to disappoint."&lt;/p&gt;
+  
+					  &lt;p&gt;Dawn McLaren
+					  Consumer Relations Executive &lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;Sent: 16 May 2018 18:40:44
+					To: UK Consumer Care
+					Subject: Foster Gold - Bottles&lt;/p&gt;
+
+					&lt;p&gt;Hi.&lt;/p&gt;
+
+					&lt;p&gt;Why is now virtually impossible to buy Fosters Gold in bottles  from local shops and major supermarkets?&lt;/p&gt;
+
+					&lt;p&gt;Steve Coopers 
+					iPhone 6s  Silver - 16gb &lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType="question">
+			<PostId>7356</PostId>
+			<Title>
+			"Refrigerate Non-Alcoholic beer?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>flavor</tag>
+				<tag>temperature</tag>
+				<tag>non-alcoholic</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>22</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-06-27T13:51:31.633</CreationDate>
+				<LastActivityDate>2018-06-28T17:28:58.890</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7887</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Should non-alcoholic beer be refrigerated to preserve it? How long does non-alcoholic beer last when not refrigerated?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType="question">
+			<PostId>7365</PostId>
+			<Title>
+			"Why do some wines taste salty?"
+			</Title>
+			<Tags>
+				<tag>taste</tag>
+				<tag>wine</tag>
+				<tag>flavor</tag>
+				<tag>ingredients</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<ViewCount>42</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>2</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2018-07-02T11:13:58.800</CreationDate>
+				<LastActivityDate>2018-07-02T11:52:23.070</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>7898</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I recently moved to a new city in Austria and have noticed that many (but not all, so it’s definitely not a problem with my taste perception) of the local red wines taste salty. I’ve tried red wines both on the cheaper and expensive side and they all give off this salty taste. Almost all that I’m referring to are Blauer Zweigelt variety. 
+					Is this salty taste coming from the grape variety, or could it be something else like my glass or detergent (I make sure that I wash the glass very thoroughly)?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

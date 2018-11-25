@@ -1,0 +1,3825 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>132</PostId>
+			<ParentPostId>54</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:16:21.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any potential health risk connected with drinking beer from plastic PET bottles?
+
+					The beer in many countries, including Germany, is widely available in plastic recyclable bottles. Does it have any negative impact on health? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>133</PostId>
+			<ParentPostId>54</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:16:21.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer in plastic bottles and health aspects
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>134</PostId>
+			<ParentPostId>54</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:16:21.083</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					bottling, health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>151</PostId>
+			<ParentPostId>60</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:39.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does drinking yeast beer (known in Germany als Hefe-Weissbier) have any potential influence on gastric problems?
+
+					Yeast can become active in intestines, starting there fermentation processes and causing bloating. When such symptoms occur, is that the effect of yeast activity, or it's rather some kind of food intolerance?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>152</PostId>
+			<ParentPostId>60</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:39.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Yeast beer and the gastric problems
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>153</PostId>
+			<ParentPostId>60</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:39.010</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, yeast, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Body" >
+			<PostId>206</PostId>
+			<ParentPostId>81</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:40:26.380</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard that drinking beer lowers the sexual desire and potency, and that's the physiological effect of hop.
+
+					Is it true? Does drinking a lot of beer can have negative long-term effect on potency and sexual desire? Or it's just an urban myth, based on negative impact of drinking too much?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Title" >
+			<PostId>207</PostId>
+			<ParentPostId>81</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:40:26.380</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer and sexual desire and potency
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Tags" >
+			<PostId>208</PostId>
+			<ParentPostId>81</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:40:26.380</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>21</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					desire, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Edit Tags" >
+			<PostId>559</PostId>
+			<ParentPostId>81</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T18:27:30.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				"Desire" isn't a very useful tag—but "health" is.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>560</PostId>
+			<ParentPostId>81</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T18:27:30.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 73 approved by 27, 60 edit id of 29
+			</EditDetails>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Body" >
+			<PostId>693</PostId>
+			<ParentPostId>268</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T16:49:11.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard that in the middle ages the water was so bad that everyone drank beer or wine. Is that true? Did pregnant women and small children also drink beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Title" >
+			<PostId>694</PostId>
+			<ParentPostId>268</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T16:49:11.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Did everyone drink beer in the middle ages?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Tags" >
+			<PostId>695</PostId>
+			<ParentPostId>268</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T16:49:11.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Body" >
+			<PostId>725</PostId>
+			<ParentPostId>278</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T21:59:56.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any common homeopathic uses for beer? I'm thinking along the lines of how liquor can be used as an antiseptic and less of how red wine can improve your heart health.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Title" >
+			<PostId>726</PostId>
+			<ParentPostId>278</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T21:59:56.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any homeopathic uses for beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Tags" >
+			<PostId>727</PostId>
+			<ParentPostId>278</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T21:59:56.217</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Edit Body" >
+			<PostId>728</PostId>
+			<ParentPostId>278</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T22:26:31.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<EditDetails>
+				homeopathic -&gt; medicinal
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any common medicinal uses for beer? I'm thinking along the lines of how liquor can be used as an antiseptic and less of how red wine can improve your heart health.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Edit Title" >
+			<PostId>729</PostId>
+			<ParentPostId>278</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T22:26:31.877</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>36</UserId>
+			</Contributors>
+			<EditDetails>
+				homeopathic -&gt; medicinal
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any medicinal uses for beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Edit Body" >
+			<PostId>850</PostId>
+			<ParentPostId>81</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T18:38:55.963</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Standardized grammar a bit.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I've heard that drinking beer lowers sexual desire and potency, and that's the physiological effect of hops.
+
+					Is it true? Does drinking a lot of beer have negative long-term effects on sexual desire or potency? Or is it just an urban myth, based on negative impacts of drinking too much?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Edit Title" >
+			<PostId>851</PostId>
+			<ParentPostId>81</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T18:38:55.963</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Standardized grammar a bit.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Beer, sexual desire and potency
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Unknown" >
+			<PostId>852</PostId>
+			<ParentPostId>81</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-25T18:38:55.963</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 73 approved by 21 edit id of 52
+			</EditDetails>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Body" >
+			<PostId>968</PostId>
+			<ParentPostId>380</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T11:43:50.330</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>229</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					As pointed out in http://beer.stackexchange.com/questions/278/are-there-any-medicinal-uses-for-beer, beer has some beneficial effects on ones health.  
+					Assuming a beer with average alcohol level and an average, healthy adult, how much would be a healthy amount to drink on regular bases?  
+					Also, how would the alcohol influence the health benefits?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Title" >
+			<PostId>969</PostId>
+			<ParentPostId>380</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T11:43:50.330</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>229</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In what amounts is beer beneficial to ones health?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Tags" >
+			<PostId>970</PostId>
+			<ParentPostId>380</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T11:43:50.330</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>229</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Post Closed" >
+			<PostId>976</PostId>
+			<ParentPostId>380</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-28T15:46:19.300</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>60</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":39,"DisplayName":"wax eagle"},{"Id":37,"DisplayName":"Xander"},{"Id":60,"DisplayName":"Robert Cartaino"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Initial Body" >
+			<PostId>1027</PostId>
+			<ParentPostId>404</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:28:20.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>189</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have heard from may people that beer  help's to improve muscles. So my question's are
+
+					 Does it really help to improve muscle ? &lt;br&gt;
+					 If it does than how ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Title" >
+			<PostId>1028</PostId>
+			<ParentPostId>404</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:28:20.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>189</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					does beer really help to improve muscles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Tags" >
+			<PostId>1029</PostId>
+			<ParentPostId>404</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:28:20.093</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>189</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Edit Body" >
+			<PostId>1033</PostId>
+			<ParentPostId>404</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T10:39:09.457</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>189</UserId>
+			</Contributors>
+			<EditDetails>
+				added 341 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have heard from may people that beer  help's to improve muscles. generly one way to improve muscle is by exercise(may be dance,jim, game ) and
+
+					 AFAIK beer(alcohol) is a diuretic, which makes kidney produce more urine so drinking beer too much can lead to dehydration 
+
+					so beer + exercise(sweating) would lead to worse condition 
+ 
+
+					So my question's are
+
+					 Does it really help to improve muscle ? &lt;br&gt;
+					 If it does than how ? and when should it can be taken ?(i mean before/after exercise)
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Initial Body" >
+			<PostId>1042</PostId>
+			<ParentPostId>413</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T14:56:01.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>189</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					 Is there formaldehyde in beer? if there is than what use of it ?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Initial Title" >
+			<PostId>1043</PostId>
+			<ParentPostId>413</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T14:56:01.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>189</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there formaldehyde in beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Initial Tags" >
+			<PostId>1044</PostId>
+			<ParentPostId>413</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T14:56:01.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>189</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Initial Body" >
+			<PostId>1055</PostId>
+			<ParentPostId>418</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T17:16:22.697</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>269</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Someone told me that drinking beer will increase the size of our belly. Is it true? Since I don’t drink beer, I don’t have any idea about that.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Title" >
+			<PostId>1056</PostId>
+			<ParentPostId>418</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T17:16:22.697</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>269</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Will drinking too much of beer increase the size of belly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Tags" >
+			<PostId>1057</PostId>
+			<ParentPostId>418</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T17:16:22.697</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>269</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Edit Body" >
+			<PostId>1094</PostId>
+			<ParentPostId>404</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T00:59:26.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<EditDetails>
+				Correcting typos.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I have heard from many people that beer helps to improve muscles.  Generally one way to improve muscle is by exercise (maybe dance, gym, games).  As far as I know, beer (alcohol) is a diuretic, which makes kidney produce more urine, so drinking beer too much can lead to dehydration.  So the combination of beer and exercise (sweating) would lead to a worse condition. 
+
+					So my question's are:
+
+					 - Does it really help to improve muscle?
+					 - If it does, then how?  And when should it can be taken?  Before or after exercise?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Edit Title" >
+			<PostId>1095</PostId>
+			<ParentPostId>404</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T00:59:26.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<EditDetails>
+				Correcting typos.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Does beer really help to improve muscles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Unknown" >
+			<PostId>1096</PostId>
+			<ParentPostId>404</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T00:59:26.577</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 27 approved by 112, 80 edit id of 57
+			</EditDetails>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Unknown" >
+			<PostId>1111</PostId>
+			<ParentPostId>268</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T13:20:06.467</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/428880301881057280
+			</EditDetails>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Unknown" >
+			<PostId>1561</PostId>
+			<ParentPostId>418</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-12T13:37:32.740</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433595730985762816
+			</EditDetails>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Unknown" >
+			<PostId>1591</PostId>
+			<ParentPostId>413</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-14T13:37:34.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434320515495628800
+			</EditDetails>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Unknown" >
+			<PostId>1653</PostId>
+			<ParentPostId>81</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-18T04:40:30.587</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435634909676580864
+			</EditDetails>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Unknown" >
+			<PostId>1674</PostId>
+			<ParentPostId>278</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-20T10:40:37.520</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436450311541383169
+			</EditDetails>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Body" >
+			<PostId>2004</PostId>
+			<ParentPostId>725</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-11T21:15:28.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					After graduating from school, I served my two years of mandatory [alternative civilian service][1] with a hospital gardener in [Swabia][2]. In Winter, every morning we used to come in one hour early to drink hot beer.
+
+					Warming beer – "stauchen" in German –, by placing the bottle in hot water, was common in the southwest of Germany, and althought the practice has fallen out of use in recent years you can still order your beer "gestaucht", i.e. warmed to about 50 to 60°C (122 to 140°F), in traditional restaurants (at no extra price, of course).
+
+					Here is an image of one restaurant that uses old hot-water bottles to warm their beer as a gimmick ([source][3]):
+
+					![enter image description here][4]
+
+					The old gardener and his younger colleague claimed that drinking warm beer would keep away any cold that working in the wet and cold outside would otherwise bring on them. We were certainly all very healthy those two winters (and got a lot of snow shovelled), so my question is:
+
+					**Does drinking hot beer prevent the [common cold][5]?**
+
+
+					  [1]: http://en.wikipedia.org/wiki/Alternative_civilian_service
+					  [2]: http://en.wikipedia.org/wiki/Swabia
+					  [3]: http://www.ehingerrose.de/wirueberuns.html
+					  [4]: http://i.stack.imgur.com/91KJs.jpg
+					  [5]: http://en.wikipedia.org/wiki/Common_cold
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Title" >
+			<PostId>2005</PostId>
+			<ParentPostId>725</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-11T21:15:28.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does drinking hot beer prevent the common cold?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Tags" >
+			<PostId>2006</PostId>
+			<ParentPostId>725</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-11T21:15:28.410</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Unknown" >
+			<PostId>2025</PostId>
+			<ParentPostId>725</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-14T08:44:08.937</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/455627555648045056
+			</EditDetails>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Initial Body" >
+			<PostId>2062</PostId>
+			<ParentPostId>742</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T02:10:26.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>800</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does the presence of adjunct ingredients like rice or corn imply that these ingredients are always of the genetically modified variety?
+
+					I mean, if you are going to add adjuncts to a beer, the main reason is usually to reduce production costs right? In that case, GMO rice and corn adjuncts are the cheapest, so it seems to me like any beers using adjuncts will be using GMO adjuncts.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Title" >
+			<PostId>2063</PostId>
+			<ParentPostId>742</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T02:10:26.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>800</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are adjunct ingredients always GMO by default?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Tags" >
+			<PostId>2064</PostId>
+			<ParentPostId>742</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-22T02:10:26.793</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>800</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, ingredients, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Body" >
+			<PostId>3721</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T09:50:00.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Once I had couple of large beers. After that I've got acidity.
+					So Is it OK to take antacid tablet after drinking beer?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Initial Title" >
+			<PostId>3722</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T09:50:00.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it ok to take antacid tablet after drinking beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Tags" >
+			<PostId>3723</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-24T09:50:00.590</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1328</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, pairing, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Unknown" >
+			<PostId>3741</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-30T01:23:08.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/516760121964503042
+			</EditDetails>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Body" >
+			<PostId>3855</PostId>
+			<ParentPostId>1082</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-17T08:17:32.420</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1493</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In general, it is said that you should not mix antibiotics and alcoholic beverages and it seems prudent to do so, but the reasons behind it seems to be really fuzzy. 
+
+					Some people say that the worse that can happen is that the antibiotics will not have effect. But other say that it will make you sicker. Some other say that both of these are true but it depends on the antibiotic. Some other say: "Just one won't hurt".
+
+					If someone could make this clear for me, it would be great.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Title" >
+			<PostId>3856</PostId>
+			<ParentPostId>1082</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-17T08:17:32.420</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1493</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Myths and truths about beer and antibiotics
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Tags" >
+			<PostId>3857</PostId>
+			<ParentPostId>1082</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-17T08:17:32.420</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1493</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Edit Body" >
+			<PostId>3859</PostId>
+			<ParentPostId>1082</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-17T21:26:22.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1493</UserId>
+			</Contributors>
+			<EditDetails>
+				Making the subject a little more general.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In general, it is said that you should not mix antibiotics and alcoholic beverages and it seems prudent to do so, but the reasons behind it seems to be really fuzzy. 
+
+					Some people say that the worse that can happen is that the antibiotics will not have effect. But other say that it will make you sicker. Some other say that both of these are true but it depends on the antibiotic. Some other say: "Just one won't hurt".
+
+					If someone could make this clear for us, it would be great.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Edit Title" >
+			<PostId>3860</PostId>
+			<ParentPostId>1082</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-17T21:26:22.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1493</UserId>
+			</Contributors>
+			<EditDetails>
+				Making the subject a little more general.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Myths and truths about alcohol and antibiotics
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Body" >
+			<PostId>3861</PostId>
+			<ParentPostId>1084</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-17T22:08:46.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1493</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it safe to drink while on Anxiolytics or Antidepressants?
+
+					In general it is known that some drugs should not be mixed with alcohol. Some of this knowledge are myths and some other are true.
+
+					As alcohol itself is a kind of anxiolytic it isn't clear if it really could cause
+					a side effect while on anxiliytics medication.
+
+					On the other hand, it seems that alcohol tends to make depressions worse.
+
+					If there are undesired side effects, is there a limit? 
+					is it safe to drink just a little or it is better to avoid it completely?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Initial Title" >
+			<PostId>3862</PostId>
+			<ParentPostId>1084</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-17T22:08:46.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1493</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Anxiolytics, Antidepressants and Alcohol
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Initial Tags" >
+			<PostId>3863</PostId>
+			<ParentPostId>1084</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-17T22:08:46.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1493</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Unknown" >
+			<PostId>3864</PostId>
+			<ParentPostId>1082</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-11-18T16:51:38.207</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/534750789982380032
+			</EditDetails>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Question Protected" >
+			<PostId>6432</PostId>
+			<ParentPostId>1028</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-17T03:24:28.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Edit Body" >
+			<PostId>6691</PostId>
+			<ParentPostId>413</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-01T02:01:36.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4238</UserId>
+			</Contributors>
+			<EditDetails>
+				corrected grammar
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					 Is there formaldehyde in beer? If there is, what purpose does it serve?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Unknown" >
+			<PostId>6692</PostId>
+			<ParentPostId>413</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-01T02:01:36.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4238 approved by 189 edit id of 138
+			</EditDetails>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Initial Body" >
+			<PostId>8122</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T13:08:37.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4605</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Since beer's are made from hops what really a hop gives to a human body if consumed??
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Initial Title" >
+			<PostId>8123</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T13:08:37.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4605</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How hops are really helps to a human body?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Tags" >
+			<PostId>8124</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T13:08:37.617</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4605</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					3.2-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Edit Body" >
+			<PostId>8126</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T19:29:40.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fix tags, and went ahead and clarified the title and cleaned up the grammar while I was here. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Since beers are made with hops, what nutritional value do those hop give to a human body when beer is consumed?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Edit Title" >
+			<PostId>8127</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T19:29:40.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fix tags, and went ahead and clarified the title and cleaned up the grammar while I was here. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Nutritional value of hops?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Edit Tags" >
+			<PostId>8128</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-09T19:29:40.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fix tags, and went ahead and clarified the title and cleaned up the grammar while I was here. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, hops, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Unknown" >
+			<PostId>8147</PostId>
+			<ParentPostId>4625</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-14T17:46:48.060</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/654352668123598848
+			</EditDetails>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Body" >
+			<PostId>8154</PostId>
+			<ParentPostId>4636</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-15T23:02:34.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4631</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Myth or Fact: Antibiotics cannot be taken with beer because it damages the effect of the drug with the interaction in your body of the alcohol. 
+
+					I take antihistamines with beer and they work, so not sure if anyone knew about this one?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Title" >
+			<PostId>8155</PostId>
+			<ParentPostId>4636</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-15T23:02:34.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4631</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why can't antibiotics be taken with beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Initial Tags" >
+			<PostId>8156</PostId>
+			<ParentPostId>4636</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-15T23:02:34.790</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4631</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Edit Tags" >
+			<PostId>8163</PostId>
+			<ParentPostId>4636</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-18T02:36:44.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Initial Body" >
+			<PostId>8184</PostId>
+			<ParentPostId>4650</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-24T02:09:01.287</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4631</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So my grandmother told me before they had hair conditioner in the islands (grew up in Cuba) they used beer on their hair and laid out in the sun. She claims the 'froth' is packed with rich nutrients. I am not sure whether she made this up so I would pour it on my hair instead of drinking it. Anyone else ever heard of beer as a conditioner?...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Title" >
+			<PostId>8185</PostId>
+			<ParentPostId>4650</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-24T02:09:01.287</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4631</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer as a conditioner?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Initial Tags" >
+			<PostId>8186</PostId>
+			<ParentPostId>4650</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-24T02:09:01.287</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4631</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Initial Body" >
+			<PostId>8203</PostId>
+			<ParentPostId>4662</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-28T03:04:50.740</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4669</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know some people like beer so much while some other resist do drink, is it determined by DNA? Can the situation be changed?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Initial Title" >
+			<PostId>8204</PostId>
+			<ParentPostId>4662</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-28T03:04:50.740</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4669</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Do we born either like or hate beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Initial Tags" >
+			<PostId>8205</PostId>
+			<ParentPostId>4662</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-28T03:04:50.740</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4669</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Initial Body" >
+			<PostId>8215</PostId>
+			<ParentPostId>4667</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-30T05:02:12.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1321</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Dumping  small amount of cigarette ashes into the beers , people say it helps give the beer an extra "kick"...
+
+					how far this myth is true..
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Initial Title" >
+			<PostId>8216</PostId>
+			<ParentPostId>4667</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-30T05:02:12.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1321</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Dumping small amount of cigarette ashes into the beers
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Initial Tags" >
+			<PostId>8217</PostId>
+			<ParentPostId>4667</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-30T05:02:12.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1321</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, specialty-beers, bottles, foreign-beer, 3.2-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Initial Body" >
+			<PostId>8227</PostId>
+			<ParentPostId>4673</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-05T04:31:53.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1321</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Can I use any brand of beer on my hair? 
+					what are the things I need to consider before applying beer on to my hair?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Initial Title" >
+			<PostId>8228</PostId>
+			<ParentPostId>4673</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-05T04:31:53.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1321</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Using beer as hair care product
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Initial Tags" >
+			<PostId>8229</PostId>
+			<ParentPostId>4673</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-05T04:31:53.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1321</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, 3.2-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Unknown" >
+			<PostId>8239</PostId>
+			<ParentPostId>4662</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-06T04:23:46.347</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/662485500629000193
+			</EditDetails>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Edit Tags" >
+			<PostId>8245</PostId>
+			<ParentPostId>4673</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-06T16:18:41.043</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Replaced irrelevant tags with slightly more relevant tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Edit Tags" >
+			<PostId>8247</PostId>
+			<ParentPostId>4667</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-06T18:47:47.980</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Fixed tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Edit Title" >
+			<PostId>8289</PostId>
+			<ParentPostId>4662</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-13T14:32:25.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4726</UserId>
+			</Contributors>
+			<EditDetails>
+				change the title to something more understandable
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are we born to either like or hate beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Unknown" >
+			<PostId>8290</PostId>
+			<ParentPostId>4662</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-11-13T14:32:25.537</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 4726 approved by 37 edit id of 146
+			</EditDetails>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Initial Body" >
+			<PostId>8395</PostId>
+			<ParentPostId>4729</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-21T00:43:35.477</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4784</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer is obviously not healthy if it is drunk to much, however, one of my friends argue a little beer in moderation can provide certain health benefits. Like it can lower risk of stroke and heart diseases. Is this true or is it just baloney people say to get someone else to drink a little bit?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Initial Title" >
+			<PostId>8396</PostId>
+			<ParentPostId>4729</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-21T00:43:35.477</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4784</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is beer healthy if drunk in moderation?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Initial Tags" >
+			<PostId>8397</PostId>
+			<ParentPostId>4729</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-21T00:43:35.477</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4784</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Edit Body" >
+			<PostId>8398</PostId>
+			<ParentPostId>4729</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-21T01:11:05.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4784</UserId>
+			</Contributors>
+			<EditDetails>
+				added 24 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Beer is obviously not healthy if it is drunk to much, however, one of my friends argue a little beer in moderation can provide certain health benefits. Like it can lower risk of stroke and heart diseases. Is this true or is it just baloney people say to get someone else to drink a little bit?
+					Are these claims true?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Unknown" >
+			<PostId>8400</PostId>
+			<ParentPostId>4729</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-22T20:15:59.493</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/679394975902212096
+			</EditDetails>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Post Closed" >
+			<PostId>8448</PostId>
+			<ParentPostId>4673</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-02T02:26:39.177</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[4650],"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Unknown" >
+			<PostId>8451</PostId>
+			<ParentPostId>4667</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-01-03T18:35:32.797</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/683718352376836096
+			</EditDetails>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Question Protected" >
+			<PostId>8723</PostId>
+			<ParentPostId>4662</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-02-21T20:34:13.543</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Initial Body" >
+			<PostId>8858</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-24T09:28:38.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In my home country, the law also prevents selling alcohol free beer to minors.
+
+					What can be reasons for this? Is alcohol free beer also addictive, and does it therefore attract minors to much to alcoholic beer? Or does alcohol free beer contain a substance that is also harmful to the (young) brain?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Initial Title" >
+			<PostId>8859</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-24T09:28:38.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are reasons to not sell alcohol free beer to minors?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Initial Tags" >
+			<PostId>8860</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-24T09:28:38.067</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, laws, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Edit Body" >
+			<PostId>8862</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-25T16:31:43.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added one word for clarity.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In my home country (Holland), the law also prevents selling alcohol free beer to minors.
+
+					What can be reasons for this? Is alcohol free beer also addictive, and does it therefore attract minors to much to alcoholic beer? Or does alcohol free beer contain a substance that is also harmful to the (young) brain?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Unknown" >
+			<PostId>8863</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-25T16:31:43.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by -1 edit id of 166
+			</EditDetails>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Edit Body" >
+			<PostId>8864</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-25T16:31:43.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Without making it too specific
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In The Netherlands, the law also prevents selling alcohol free beer to minors.
+
+					What can be reasons for this? Is alcohol free beer also addictive, and does it therefore attract minors to much to alcoholic beer? Or does alcohol free beer contain a substance that is also harmful to the (young) brain?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Unknown" >
+			<PostId>8868</PostId>
+			<ParentPostId>4900</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-03-28T01:17:14.997</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/714260024529391616
+			</EditDetails>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Unknown" >
+			<PostId>8989</PostId>
+			<ParentPostId>60</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-10T20:35:04.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/719262441859891201
+			</EditDetails>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Initial Body" >
+			<PostId>9371</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T06:52:39.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The title is already the question.
+
+					How comes that i sleep well after drinking beer but i sleep terrible after drinking vodka?
+
+					I talk about 2 - 3 german 5,5% beer and about 100 - 200 ml vodka.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Initial Title" >
+			<PostId>9372</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T06:52:39.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How comes that i sleep well after drinking beer but i sleep terrible after drinking vodka?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Initial Tags" >
+			<PostId>9373</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T06:52:39.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5530</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					german-beers, foreign-beer, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Edit Body" >
+			<PostId>9374</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, addine two words to each and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					The title is already the question.
+
+					How is it that I sleep well after drinking beer but I sleep terrible after drinking vodka?
+
+					I am talking  about 2 - 3 German 5,5% beer and about 100 - 200 ml vodka.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Edit Title" >
+			<PostId>9375</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, addine two words to each and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					How is it that I sleep well after drinking beer, but I sleep terrible after drinking vodka?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Edit Tags" >
+			<PostId>9376</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar in in title and body, addine two words to each and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					german-beers, foreign-beer, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "118" InstanceType= "Unknown" >
+			<PostId>9377</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-08T11:44:55.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5064 approved by 5530 edit id of 204
+			</EditDetails>
+		</Instance>
+		<Instance Id= "119" InstanceType= "Edit Tags" >
+			<PostId>9489</PostId>
+			<ParentPostId>5073</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:47:02.017</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, german-beers, vodka, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "120" InstanceType= "Edit Tags" >
+			<PostId>9490</PostId>
+			<ParentPostId>4650</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-16T02:49:58.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "121" InstanceType= "Initial Body" >
+			<PostId>9694</PostId>
+			<ParentPostId>5171</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-25T16:31:52.407</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it okay to eat raw oysters and drink alcohol at the same time? I have heard different stories as to whether it is truly a good idea to do this. Some people say that it is not bad, others say that the alcohol can be dangerous with the bacterium contained in shellfish, while some people have told me that the alcohol can actually kill the bacterium contained in shellfish.
+
+					Is it safe to drink alcohol and eat raw oysters? If it is okay what drinks go well with oysters?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "122" InstanceType= "Initial Title" >
+			<PostId>9695</PostId>
+			<ParentPostId>5171</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-25T16:31:52.407</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it safe to comsume alcohol while eating raw oysters/
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "123" InstanceType= "Initial Tags" >
+			<PostId>9696</PostId>
+			<ParentPostId>5171</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-25T16:31:52.407</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, pairing, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "124" InstanceType= "Edit Title" >
+			<PostId>9699</PostId>
+			<ParentPostId>5171</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-25T19:46:50.670</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is it safe to comsume alcohol while eating raw oysters?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "125" InstanceType= "Edit Body" >
+			<PostId>9701</PostId>
+			<ParentPostId>5171</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-25T22:24:02.847</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added two words to body.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is it okay to eat raw oysters and drink alcohol at the same time? I have heard different stories as to whether it is truly a good idea to do this. Some people say that it is not bad, others say that the alcohol can be dangerous with the bacterium (Vibrio vulnificus) contained in shellfish, while some people have told me that the alcohol can actually kill the bacterium contained in shellfish.
+
+					Is it safe to drink alcohol and eat raw oysters? If it is okay what drinks go well with oysters?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "126" InstanceType= "Edit Title" >
+			<PostId>9736</PostId>
+			<ParentPostId>5171</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-01T00:12:18.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5575</UserId>
+			</Contributors>
+			<EditDetails>
+				Title is off
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is it safe to consume alcohol while eating raw oysters?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "127" InstanceType= "Unknown" >
+			<PostId>9737</PostId>
+			<ParentPostId>5171</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-01T00:12:18.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5575 approved by 5064 edit id of 267
+			</EditDetails>
+		</Instance>
+		<Instance Id= "128" InstanceType= "Unknown" >
+			<PostId>9763</PostId>
+			<ParentPostId>4650</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-09T03:23:52.713</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/751617842286563328
+			</EditDetails>
+		</Instance>
+		<Instance Id= "129" InstanceType= "Initial Body" >
+			<PostId>10969</PostId>
+			<ParentPostId>6261</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-29T21:43:50.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Bitters][1] are known to have medicinal qualities.
+
+					I've never used them beyond making killer cocktails... But, I've noticed that orange bitters, in particular, will imbue me with an added vigor or gusto, at times. I've heard certain bitters can be consumed for stomach and headaches but, I've never been able to replicate the affect.
+
+					What added physiological or psychological sensations have any of you noticed when consuming bitters? Which bitters have you consumed for what particular ailment(s)?
+
+					  [1]: https://en.wikipedia.org/wiki/Bitters
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "130" InstanceType= "Initial Title" >
+			<PostId>10970</PostId>
+			<ParentPostId>6261</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-29T21:43:50.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does anyone here still use bitters as medicine? Which ones do you use and for what ailments?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "131" InstanceType= "Initial Tags" >
+			<PostId>10971</PostId>
+			<ParentPostId>6261</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-08-29T21:43:50.123</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5847</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, health, spirits, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "132" InstanceType= "Initial Body" >
+			<PostId>11042</PostId>
+			<ParentPostId>6283</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-14T07:45:51.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5905</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I always heard that Jagermeister is very healthy for you and is a great digestive ,is all this true?Would a shot of Jagermeister make me more healthier or would the alcohol just be damaging me in time?
+					&lt;p&gt; This is my first question on this site so sorry if I didn't formulated it quite well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "133" InstanceType= "Initial Title" >
+			<PostId>11043</PostId>
+			<ParentPostId>6283</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-14T07:45:51.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5905</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is Jagermeister healthy for you?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "134" InstanceType= "Initial Tags" >
+			<PostId>11044</PostId>
+			<ParentPostId>6283</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-09-14T07:45:51.607</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5905</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "135" InstanceType= "Post Closed" >
+			<PostId>11212</PostId>
+			<ParentPostId>1084</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-09T23:03:07.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				102
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":37,"DisplayName":"Xander"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "136" InstanceType= "Unknown" >
+			<PostId>11267</PostId>
+			<ParentPostId>6261</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-20T14:59:55.240</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+		</Instance>
+		<Instance Id= "137" InstanceType= "Initial Body" >
+			<PostId>11344</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-15T10:21:46.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6105</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					is there any problem in serving noncooled/ without cooling a beer the doctor says don't take any cooled products, so i used to take beer once in couple of day without cooling a beer, the taste is differ but is there any other problems by consuming noncooled beers
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "138" InstanceType= "Initial Title" >
+			<PostId>11345</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-15T10:21:46.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6105</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					is there any problem in serving noncooled beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "139" InstanceType= "Initial Tags" >
+			<PostId>11346</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-15T10:21:46.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6105</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "140" InstanceType= "Edit Body" >
+			<PostId>11352</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-16T12:38:48.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any problems in serving a non-cooled (without cooling) a beer, as the doctor has told me not to take any cooled products. So I used to take beer once in couple of day without cooling it. The taste is different, but are there any real problems with consuming noncooled beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "141" InstanceType= "Edit Title" >
+			<PostId>11353</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-16T12:38:48.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any problems in serving non-cooled beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "142" InstanceType= "Edit Tags" >
+			<PostId>11354</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-16T12:38:48.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "143" InstanceType= "Initial Body" >
+			<PostId>12077</PostId>
+			<ParentPostId>6632</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T06:45:38.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was going through list of drinks [Alcholic] . Was thinking is there any graph which subtly defines to which category of drinks they belong to . A more generic to top down approach of specific type . 
+					[WIKI LINK][1]
+
+
+					  [1]: https://en.wikipedia.org/wiki/List_of_alcoholic_drinks#Drinks_by_raw_material
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "144" InstanceType= "Initial Title" >
+			<PostId>12078</PostId>
+			<ParentPostId>6632</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T06:45:38.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a correct graph which describes various drinks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "145" InstanceType= "Initial Tags" >
+			<PostId>12079</PostId>
+			<ParentPostId>6632</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T06:45:38.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2647</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, alcohol-level, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "146" InstanceType= "Unknown" >
+			<PostId>12080</PostId>
+			<ParentPostId>725</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-03T07:46:01.987</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				24
+			</EditDetails>
+		</Instance>
+		<Instance Id= "147" InstanceType= "Initial Body" >
+			<PostId>12117</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T05:52:47.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Just recently I discovered that not only can I vape in stead of smoking, but I can also vape instead of drinking.  What's vaping alcohol all about?  Well, you put a shot of spirits into an orb, which sits over a small candle (tea-light), and then through a glass or metal straw inhale the results.([check it out here with buzzfeed][1])
+
+					I understand that the alcohol bypasses the liver stage and just goes straight to your head and lungs.  So, none of that 'oops, I've drunk too much - excuse me whilst I visit the bathroom' nonsense, with this method you apparently don't get to expell what your body can't handle.
+
+					With all this in mind, is there a limit (average) that can be vaped without doing myself some serious brain damage?
+
+
+					  [1]: https://www.buzzfeed.com/nicolenguyen/we-tried-vaping-alcohol-and-it-was-definitely-something?utm_term=.cmNBppdOp#.ibzzeegYe
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "148" InstanceType= "Initial Title" >
+			<PostId>12118</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T05:52:47.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Vaping Alcohol - fad or here to stay?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "149" InstanceType= "Initial Tags" >
+			<PostId>12119</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T05:52:47.120</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, health, hangover, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "150" InstanceType= "Edit Body" >
+			<PostId>12120</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T06:42:48.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				Added: So is this just another fad or is this the future?
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Just recently I discovered that not only can I vape in stead of smoking, but I can also vape instead of drinking.  What's vaping alcohol all about?  Well, you put a shot of spirits into an orb, which sits over a small candle (tea-light), and then through a glass or metal straw inhale the results.([check it out here with buzzfeed][1])
+
+					I understand that the alcohol bypasses the liver stage and just goes straight to your head and lungs.  So, none of that 'oops, I've drunk too much - excuse me whilst I visit the bathroom' nonsense, with this method you apparently don't get to expell what your body can't handle.
+
+					With all this in mind, is there a limit (average) that can be vaped without doing myself some serious brain damage?  So is this just another fad or is this the future?
+
+
+					  [1]: https://www.buzzfeed.com/nicolenguyen/we-tried-vaping-alcohol-and-it-was-definitely-something?utm_term=.cmNBppdOp#.ibzzeegYe
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "151" InstanceType= "Edit Body" >
+			<PostId>12121</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T06:54:10.697</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				Added pic
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Just recently I discovered that not only can I vape in stead of smoking, but I can also vape instead of drinking.  What's vaping alcohol all about?  Well, you put a shot of spirits into an orb, which sits over a small candle (tea-light), and then through a glass or metal straw inhale the results.([check it out here with buzzfeed][1])
+
+					This is what the Vaportini looks like - credit Vaportini
+
+					[![enter image description here][2]][2]
+
+					I understand that the alcohol bypasses the liver stage and just goes straight to your head and lungs.  So, none of that 'oops, I've drunk too much - excuse me whilst I visit the bathroom' nonsense, with this method you apparently don't get to expell what your body can't handle.
+
+					With all this in mind, is there a limit (average) that can be vaped without doing myself some serious brain damage?  So is this just another fad or is this the future?
+
+
+					  [1]: https://www.buzzfeed.com/nicolenguyen/we-tried-vaping-alcohol-and-it-was-definitely-something?utm_term=.cmNBppdOp#.ibzzeegYe
+					  [2]: https://i.stack.imgur.com/yPuQO.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "152" InstanceType= "Edit Body" >
+			<PostId>12122</PostId>
+			<ParentPostId>6641</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-05T10:32:41.307</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6366</UserId>
+			</Contributors>
+			<EditDetails>
+				Added:  effect on the lungs
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Just recently I discovered that not only can I vape in stead of smoking, but I can also vape instead of drinking.  What's vaping alcohol all about?  Well, you put a shot of spirits into an orb, which sits over a small candle (tea-light), and then through a glass or metal straw inhale the results.([check it out here with buzzfeed][1])
+
+					This is what the Vaportini looks like - credit Vaportini
+
+					[![enter image description here][2]][2]
+
+					I understand that the alcohol bypasses the liver stage and just goes straight to your head and lungs.  So, none of that 'oops, I've drunk too much - excuse me whilst I visit the bathroom' nonsense, with this method you apparently don't get to expell what your body can't handle.
+
+					With all this in mind, is there a limit (average) that can be vaped without doing myself some serious brain damage?  What also is the effect on the lungs?  Is this just another fad or is this the future?
+
+
+					  [1]: https://www.buzzfeed.com/nicolenguyen/we-tried-vaping-alcohol-and-it-was-definitely-something?utm_term=.cmNBppdOp#.ibzzeegYe
+					  [2]: https://i.stack.imgur.com/yPuQO.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "153" InstanceType= "Unknown" >
+			<PostId>12171</PostId>
+			<ParentPostId>725</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-11T09:25:30.150</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				24
+			</EditDetails>
+		</Instance>
+		<Instance Id= "154" InstanceType= "Initial Body" >
+			<PostId>12254</PostId>
+			<ParentPostId>6684</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-18T12:46:17.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6559</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I am very thin and all suggested me that to drink a beer once in week to get weight.Does drinking a beer helps to put on weight if yes how many beers can I take in a week to put on weight. If no why , please could you explain briefly 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "155" InstanceType= "Initial Title" >
+			<PostId>12255</PostId>
+			<ParentPostId>6684</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-18T12:46:17.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6559</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Put on Weight by drinking beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "156" InstanceType= "Initial Tags" >
+			<PostId>12256</PostId>
+			<ParentPostId>6684</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-18T12:46:17.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6559</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drink, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "157" InstanceType= "Edit Body" >
+			<PostId>12258</PostId>
+			<ParentPostId>6684</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-18T14:46:50.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and spelling.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I am very thin and all suggested me that to drink a beer once in week to get weight. Does drinking a beer helps to put on weight? If yes how many beers should I take in a week to put on weight?. If no, could one please explain briefly why this is so.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "158" InstanceType= "Edit Title" >
+			<PostId>12259</PostId>
+			<ParentPostId>6684</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-18T14:46:50.427</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and spelling.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Can one put on weight by drinking beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "159" InstanceType= "Unknown" >
+			<PostId>12274</PostId>
+			<ParentPostId>6684</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-03-20T06:41:33.177</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/843714106565758976
+			</EditDetails>
+		</Instance>
+		<Instance Id= "160" InstanceType= "Edit Body" >
+			<PostId>12497</PostId>
+			<ParentPostId>380</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					As pointed out in https://alcohol.stackexchange.com/questions/278/are-there-any-medicinal-uses-for-beer, beer has some beneficial effects on ones health.  
+					Assuming a beer with average alcohol level and an average, healthy adult, how much would be a healthy amount to drink on regular bases?  
+					Also, how would the alcohol influence the health benefits?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "161" InstanceType= "Initial Body" >
+			<PostId>13150</PostId>
+			<ParentPostId>6991</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-21T06:19:47.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5393</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It is frequently mentioned that drinks of very high ABV should not be drunk neat because of their harmful effects. Examples of such claims can be found e.g. here: https://alcohol.stackexchange.com/questions/6561/what-is-the-strongest-drink-in-the-world
+
+					I'm curious though, what the exact hazards are? Obviously I'm asking about hazards that stem from the concentration alone and not from the quantity, which is the easier to overdose the higher the concentration is. In other words, how is it worse for health to drink a shot of 95.6% rectified spirits than to drink the same amount of alcohol, but diluted fairly with water?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "162" InstanceType= "Initial Title" >
+			<PostId>13151</PostId>
+			<ParentPostId>6991</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-21T06:19:47.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5393</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the exact risks of drinkin alcohol in a too high concentration?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "163" InstanceType= "Initial Tags" >
+			<PostId>13152</PostId>
+			<ParentPostId>6991</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-21T06:19:47.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5393</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, alcohol-level, spirits, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "164" InstanceType= "Edit Title" >
+			<PostId>13156</PostId>
+			<ParentPostId>6991</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-22T11:24:44.800</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What are the exact risks of drinking alcohol in a too high concentration?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "165" InstanceType= "Unknown" >
+			<PostId>13161</PostId>
+			<ParentPostId>6991</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-24T00:41:50.473</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/900518476321890305
+			</EditDetails>
+		</Instance>
+		<Instance Id= "166" InstanceType= "Initial Body" >
+			<PostId>13177</PostId>
+			<ParentPostId>6998</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-29T09:47:18.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7059</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know alcoholic drinks are "restricted items" for a gout patient diet list. So just wanted to check if we have any specialist here :)
+
+					Which drink is less imapct ? Beer/Wine/Other Liquors ?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "167" InstanceType= "Initial Title" >
+			<PostId>13178</PostId>
+			<ParentPostId>6998</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-29T09:47:18.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7059</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the best alcoholic drink for gout patients?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "168" InstanceType= "Initial Tags" >
+			<PostId>13179</PostId>
+			<ParentPostId>6998</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-29T09:47:18.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7059</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "169" InstanceType= "Question Protected" >
+			<PostId>13258</PostId>
+			<ParentPostId>4667</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-09-26T02:02:09.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "170" InstanceType= "Edit Body" >
+			<PostId>13336</PostId>
+			<ParentPostId>6684</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-19T05:38:55.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5320</UserId>
+			</Contributors>
+			<EditDetails>
+				Edited the grammar to add clarity to the question
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I am very thin and it was suggested that I drink beer to put on weight. Would drinking beer help to put on weight? If yes, how many beers should I drink in a week to put on weight? If no, could one please explain briefly why this is so.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "171" InstanceType= "Edit Tags" >
+			<PostId>13337</PostId>
+			<ParentPostId>6684</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-19T05:38:55.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5320</UserId>
+			</Contributors>
+			<EditDetails>
+				Edited the grammar to add clarity to the question
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, drink, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "172" InstanceType= "Unknown" >
+			<PostId>13338</PostId>
+			<ParentPostId>6684</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-10-19T05:38:55.837</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 5320 approved by 6559 edit id of 309
+			</EditDetails>
+		</Instance>
+		<Instance Id= "173" InstanceType= "Initial Body" >
+			<PostId>13485</PostId>
+			<ParentPostId>7094</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-29T17:18:18.903</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7320</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've heard that Brandy can have an impact on blood pressure, or perhaps in the general "down" or "high" feeling of the human body.  Is that true?  What exactly does it do?  Why?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "174" InstanceType= "Initial Title" >
+			<PostId>13486</PostId>
+			<ParentPostId>7094</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-29T17:18:18.903</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7320</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What effect does brandy have on blood pressure?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "175" InstanceType= "Initial Tags" >
+			<PostId>13487</PostId>
+			<ParentPostId>7094</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-11-29T17:18:18.903</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7320</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "176" InstanceType= "Initial Body" >
+			<PostId>13636</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-09T16:32:56.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I found a bottle of Sake in my grandfathers basement.
+
+					[![Picture of the Sake box I found][1]][1]
+
+
+					As there are no latin characters indicating the age of the bottle (and I don't speak japanese), I used google Translator and found the following on a card which I assume can be sent back to the manufacturer to give feedback.
+
+					&gt; 差出有効期間昭和45年12月14日迄（切手はいりません）
+
+					which is translated to:
+
+					&gt; Sent validity period Until December 14, 1970 (stamps are not required)
+
+					So I guess it must be produced somewhere around 1970
+
+
+					Does sake age well?
+
+					Can I sell the bottle, as in: is it worth anything due to its age?
+
+					How do I know if I can still drink it safely?
+
+					  [1]: https://i.stack.imgur.com/z5Dd5.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "177" InstanceType= "Initial Title" >
+			<PostId>13637</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-09T16:32:56.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What to do with 50 (?) years old Sake
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "178" InstanceType= "Initial Tags" >
+			<PostId>13638</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-09T16:32:56.480</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7486</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					aging, sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "179" InstanceType= "Edit Body" >
+			<PostId>13640</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-10T07:55:03.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I found a bottle of sake in my grandfathers basement.
+
+					[![Picture of the sake box I found][1]][1]
+
+
+					As there are no Latin characters indicating the age of the bottle (and I don't speak Japanese), I used google Translator and found the following on a card which I assume can be sent back to the manufacturer to give feedback.
+
+					&gt; 差出有効期間昭和45年12月14日迄（切手はいりません）
+
+					which is translated to:
+
+					&gt; Sent validity period Until December 14, 1970 (stamps are not required)
+
+					So I guess it must be produced somewhere around 1970
+
+					Does sake age well?
+
+					Can I sell the bottle, as in: is it worth anything due to its age?
+
+					How do I know if I can still drink it safely?
+
+					  [1]: https://i.stack.imgur.com/z5Dd5.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "180" InstanceType= "Edit Title" >
+			<PostId>13641</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-10T07:55:03.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What to do with 50 (?) years old sake?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "181" InstanceType= "Edit Tags" >
+			<PostId>13642</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-10T07:55:03.743</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, aging, sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "182" InstanceType= "Unknown" >
+			<PostId>13653</PostId>
+			<ParentPostId>7146</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-01-17T04:33:45.647</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/953485469085589505
+			</EditDetails>
+		</Instance>
+		<Instance Id= "183" InstanceType= "Unknown" >
+			<PostId>13928</PostId>
+			<ParentPostId>6261</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-15T06:45:29.177</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/985408751556595712
+			</EditDetails>
+		</Instance>
+		<Instance Id= "184" InstanceType= "Question Protected" >
+			<PostId>14448</PostId>
+			<ParentPostId>6998</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-04T20:33:04.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "185" InstanceType= "Initial Body" >
+			<PostId>14508</PostId>
+			<ParentPostId>7437</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-15T12:55:12.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8015</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Mandatory disclaimer: I'm **not** asking for health related advices, this question is just out of **pure curiosity**.
+
+					I drink the occasional beer, wine, or whatever other alcoholic drinks: no issues with that, not getting drunk with just a beer, etc. etc. But...since I have memory, **a single** red beer can put me under the table.
+
+					From the **next day**. (yeah, not the same day)
+
+					With lot of stomach and intestinal pain and "funny" side effects.
+
+					And a few days needed to recover.
+
+					Now, it's not a big deal: on my list of things to avoid "Red beer" has been put in the top 5, and problem solved. It doesn't happen with 100% of the reds, but at 95% occurrence I just play safe...plus I prefer dark beers anyway :-D
+
+
+					Only, exactly one week ago I got the same amazing effects, but worst, and I'm still halfway from full recovery...from a bock. Ok, "bock" is a pretty wide definition, but while I'm not an expert on beers I've always been pretty certain that if I order a bock I never feel bad the next day.
+
+					So now I'm extremely curious to understand what it may be to knock me down this way, but as I said I'm no expert and that's the reason I'm asking here.
+
+					**Question**: what 95% of red beers and a Scheyern Kloster Doppelbock Dunkel (Poculator) have in common, in terms of ingredients and/or preparation?
+
+					&lt;sub&gt;(bonus: I get the same effect with some Scotch)&lt;/sub&gt;
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "186" InstanceType= "Initial Title" >
+			<PostId>14509</PostId>
+			<ParentPostId>7437</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-15T12:55:12.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8015</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What ingredient may I be allergic to?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "187" InstanceType= "Initial Tags" >
+			<PostId>14510</PostId>
+			<ParentPostId>7437</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-15T12:55:12.803</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8015</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					ingredients, health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "188" InstanceType= "Unknown" >
+			<PostId>14538</PostId>
+			<ParentPostId>7437</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T12:01:31.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1031149157568970752
+			</EditDetails>
+		</Instance>
+		<Instance Id= "189" InstanceType= "Unknown" >
+			<PostId>14543</PostId>
+			<ParentPostId>6998</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-21T00:00:01.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1031692362408517637
+			</EditDetails>
+		</Instance>
+		<Instance Id= "190" InstanceType= "Initial Body" >
+			<PostId>14577</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-28T20:20:52.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8056</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I drink one or two can of 16% alcoholic beer in a month . Is it bad or good for my health ? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "191" InstanceType= "Initial Title" >
+			<PostId>14578</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-28T20:20:52.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8056</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Drinking Sixteen percent alcoholic beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "192" InstanceType= "Initial Tags" >
+			<PostId>14579</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-28T20:20:52.187</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8056</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "193" InstanceType= "Edit Body" >
+			<PostId>14580</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-29T00:51:17.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I drink about one or two cans of 16% alcoholic beer per month. Is this bad or good for my health? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "194" InstanceType= "Edit Tags" >
+			<PostId>14581</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-29T00:51:17.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, craft-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "195" InstanceType= "Edit Title" >
+			<PostId>14582</PostId>
+			<ParentPostId>7461</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-29T00:51:17.227</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved  spelling and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Drinking Sixteen percent alcoholic beer!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "196" InstanceType= "Initial Body" >
+			<PostId>14588</PostId>
+			<ParentPostId>7464</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-09-02T03:31:46.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					The common saying "beer before liquor never sicker and liquor before beer have no fear" always made me wander why is that? What is the science behind it? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "197" InstanceType= "Initial Title" >
+			<PostId>14589</PostId>
+			<ParentPostId>7464</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-09-02T03:31:46.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Liquor before beer never fear
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "198" InstanceType= "Initial Tags" >
+			<PostId>14590</PostId>
+			<ParentPostId>7464</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-09-02T03:31:46.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7198</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					specialty-beers, recommendations, health, liquor, science, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

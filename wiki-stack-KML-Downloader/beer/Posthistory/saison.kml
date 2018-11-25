@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>98</PostId>
+			<ParentPostId>36</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:03:10.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>42</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a widely accepted glass shape/type for Saison's (and if so, what is it)? Is a different glass used for French Saison's vs. Belgian Saison's vs. other common Saison styles?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>99</PostId>
+			<ParentPostId>36</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:03:10.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>42</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What glass shape is most commonly used for Saison's?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>100</PostId>
+			<ParentPostId>36</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:03:10.783</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>42</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					glassware, saison, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>884</PostId>
+			<ParentPostId>338</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T20:39:28.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'll be the first to admit that I have, at best, the palate of a highly experienced amateur. I can tell an IPA from a Stout from a Doppelbock primarily on the common visual, olfactory, and above all else tastes that are found throughout any example of each style. However, while I've had many delightful 'Saisons' in my time as a drinker of beer, I've never been able to get a straight answer about what characteristics define the style. The best I've ever been able to get is vague handwavey historical notions about the beers role as a 'refreshing summer ale'.
+
+					Which is... somewhat unsatisfying to someone who would hope that the term might actually *mean something*. So, does it? If so, what? If I pick up a Saison from a brewery I've never heard of, what characteristics should I expect it to exhibit that earn it the name?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>885</PostId>
+			<ParentPostId>338</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T20:39:28.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the defining characteristics of a Saison? What should I expect when I drink one?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>886</PostId>
+			<ParentPostId>338</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-26T20:39:28.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, saison, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1776</PostId>
+			<ParentPostId>338</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-04T01:44:45.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/440664109055746048
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>2151</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-10T17:06:45.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>842</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I recently started getting interested in smoked beers. Quite a few years back, Shiner had a seasonal called Smokehouse. I didn't care for it. However, I've recently been intrigued by varieties of smoked saisons, ipas and marzenbiers. What makes a beer smoky? Is the flavor created by casking, adding flavor or part of the brewing process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>2152</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-10T17:06:45.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>842</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What gives a "smoky" beer a smoked flavor?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>2153</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-10T17:06:45.270</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>842</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, flavor, saison, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Unknown" >
+			<PostId>2156</PostId>
+			<ParentPostId>777</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-12T01:30:12.627</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/465665211610173441
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

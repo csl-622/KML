@@ -1,0 +1,2168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>11</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:31:44.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In general, what's the best way to work out the temperature at which to serve a beer? Room temperature? Cold? Supercold? *Warm?*
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>12</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:31:44.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What temperature should I serve my beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>13</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:31:44.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Edit Body" >
+			<PostId>149</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:29.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				clarified per comments
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In general, what's the best way to work out the temperature at which to serve a particular beer? Room temperature? Cold? Supercold? *Warm?*
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Unknown" >
+			<PostId>150</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:21:29.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 43 approved by 2 edit id of 6
+			</EditDetails>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Body" >
+			<PostId>267</PostId>
+			<ParentPostId>105</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:26:32.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					For example, from the label of Uinta's Crooked Line Labyrinth Black Ale:
+
+					&gt; Flavors are enhanced when served cool, not frigid.
+
+					How does serving temperature affect the taste of beers? By _"How?"_ I'm asking more about its effects on flavor, _e.g._ hoppiness, crispness, the aftertaste, etc. more so than the chemical process.&lt;sup&gt;*&lt;/sup&gt; That is, what flavors become pronounced or dulled with the changing of temperature?
+
+					There's a question, http://beer.stackexchange.com/questions/5/what-temperature-should-i-serve-my-beer, where an answerer states, for example, that letting darker beers warm up brings out new flavors—but what flavors? It doesn't seem to be the case that cooling kills all desirable flavors in general—for example for pilsners, lagers, and hefeweizens, "letting them get warm changes their flavor profile for the worse" (from the same answer).
+
+					&lt;sup&gt;* Knowing the chemical process, _e.g._ how certain elements or ingredients react or suspend differently according to temperature, would be very interesting indeed, but it seems difficult to find solid literature / knowledge on the subject.&lt;/sup&gt;
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Title" >
+			<PostId>268</PostId>
+			<ParentPostId>105</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:26:32.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How does serving temperature affect the taste of beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Tags" >
+			<PostId>269</PostId>
+			<ParentPostId>105</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:26:32.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Body" >
+			<PostId>429</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:05:49.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Taste-wise, at least in my opinion, the hotter the mulled beer the better. Except past certain point the alcohol starts evaporating so quickly you end up losing most of it before you start drinking.
+
+					How should I heat the beer - what temperature, what heating method - to get it as hot as possible without losing alcohol content?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Title" >
+			<PostId>430</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:05:49.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Optimal mulling temperature?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Tags" >
+			<PostId>431</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T09:05:49.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					mulling, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Post Closed" >
+			<PostId>507</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:36:26.407</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				105
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":12,"DisplayName":"Niek"},{"Id":19,"DisplayName":"Steve Robbins"},{"Id":39,"DisplayName":"wax eagle"},{"Id":138,"DisplayName":"Lucas Kauffman"},{"Id":10,"DisplayName":"Christian Gärtner"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Edit Tags" >
+			<PostId>528</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T16:09:14.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				Since the temperature tag already exists...
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					temperature, mulling, preparation-for-drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Unknown" >
+			<PostId>529</PostId>
+			<ParentPostId>171</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T16:09:14.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 73 approved by 60 edit id of 24
+			</EditDetails>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Body" >
+			<PostId>556</PostId>
+			<ParentPostId>215</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T18:14:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Beer is usually found in fridges in shops and supermarkets. At home, you would store it in the fridge as well before drinking. On the other hand, many liquor shops have stacks of beer cans outside fridges, and beer in kegs isn't usually refrigerated when it's transported.
+
+					What are the benefits of keeping beer refrigerated? Which kinds of beer should/must be refrigerated and which ones don't need to be?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Title" >
+			<PostId>557</PostId>
+			<ParentPostId>215</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T18:14:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why should beer be kept in the fridge?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Initial Tags" >
+			<PostId>558</PostId>
+			<ParentPostId>215</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T18:14:32.440</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>53</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>663</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:26:49.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I've always been a fan of "the colder the better".  I enjoy using a glass that has been placed in the freezer.  
+
+					Obviously, in this scenario, there's frozen condensation on it, but is this enough to dilute the beer such that I'm destroying the flavor by doing so?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>664</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:26:49.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does a frosted glass cause any significant dilution of the beer it holds?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>665</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:26:49.693</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>672</PostId>
+			<ParentPostId>257</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:42.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know that there may be some debate raging over this today, depending on what side of the Atlantic one is on, but there seems to be a clear point in history when beer went from being enjoyed warm to warm beer being undesirable. 
+
+					I'm assuming some of this had to do with the advent of refrigeration, but in what era in America was the serving temperature more likely to be cold than warm?  Has a similar trend occurred in Europe and other parts of the world?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>673</PostId>
+			<ParentPostId>257</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:42.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When in the history of serving beer did it transition from a warm beverage to a cold one?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>674</PostId>
+			<ParentPostId>257</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-23T08:31:42.643</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>121</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, temperature, history, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Initial Body" >
+			<PostId>752</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T06:44:00.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It's happened to the best of us: you really want a nice hefeweizen or maybe a good bitter, but all you have are room-temperature bottles.  Short of waiting an hour or so or (god forbid) putting ice in it, how can a bottle or can of beer be effectively cooled quickly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Initial Title" >
+			<PostId>753</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T06:44:00.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are some ways to quickly cool a beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Initial Tags" >
+			<PostId>754</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-24T06:44:00.180</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Unknown" >
+			<PostId>1011</PostId>
+			<ParentPostId>293</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T04:15:03.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/428380744516661248
+			</EditDetails>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Initial Body" >
+			<PostId>1048</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T16:07:56.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Given that the British tend to drink their beer at a higher temperature than those of us in the US, should beer brewed in an English style be consumed that way? The justification I can think of is: the people developing the taste of the beer probably consumed it at a certain temperature, which might have not been the ice-cold levels that predominate in the Colonies. 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Initial Title" >
+			<PostId>1049</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T16:07:56.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Should English/English-style beers be served warmer, since that is how the taste was developed?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Initial Tags" >
+			<PostId>1050</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T16:07:56.303</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>29</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, temperature, taste, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>1482</PostId>
+			<ParentPostId>254</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-08T19:36:13.007</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432236442270830592
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Post Reopened" >
+			<PostId>1499</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			"Post Reopened"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T01:57:04.327</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":215,"DisplayName":"Hugo Dozois"},{"Id":27,"DisplayName":"object88"},{"Id":73,"DisplayName":"acheong87"},{"Id":130,"DisplayName":"SF."},{"Id":170,"DisplayName":"James Henstridge"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Unknown" >
+			<PostId>1507</PostId>
+			<ParentPostId>5</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-10T10:36:42.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/432825445684617216
+			</EditDetails>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Unknown" >
+			<PostId>1557</PostId>
+			<ParentPostId>415</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-11T22:36:42.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/433369028787048448
+			</EditDetails>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Initial Body" >
+			<PostId>1569</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T03:32:24.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm well aware that beer is commonly enjoyed warm in Europe. However, mulled beer aside, are there any beer styles that fare well when enjoyed hot?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Title" >
+			<PostId>1570</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T03:32:24.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Are there any beer styles that are best enjoyed hot?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Tags" >
+			<PostId>1571</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-13T03:32:24.363</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>31</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, style, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Unknown" >
+			<PostId>1587</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-14T04:37:34.863</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434184620138332160
+			</EditDetails>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Initial Body" >
+			<PostId>1593</PostId>
+			<ParentPostId>605</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T00:09:29.893</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>479</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I typically prefer my beer only a bit cold, so when I buy a 12-pack from a store's cooler I typically just leave it out. The excess I'll refrigerate at the end of the night, and sometimes repeat the process with the same beer on a different night.
+
+					Does this affect the quality of the beer in some chemical way? I almost exclusively drink IPA's and personally never notice a difference, but many of my friends have commented on the habit of mine to let beer warm.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Initial Title" >
+			<PostId>1594</PostId>
+			<ParentPostId>605</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T00:09:29.893</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>479</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does beer suffer from being warmed and then rechilled?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Tags" >
+			<PostId>1595</PostId>
+			<ParentPostId>605</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T00:09:29.893</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>479</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, ipa, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Unknown" >
+			<PostId>1599</PostId>
+			<ParentPostId>605</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-15T01:37:53.913</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434501790084902912
+			</EditDetails>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Unknown" >
+			<PostId>1639</PostId>
+			<ParentPostId>257</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-17T10:38:02.673</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435362498519506944
+			</EditDetails>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Unknown" >
+			<PostId>1671</PostId>
+			<ParentPostId>105</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-19T22:40:33.593</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436269100466466816
+			</EditDetails>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Unknown" >
+			<PostId>1677</PostId>
+			<ParentPostId>215</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-20T16:40:37.927</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436540909313069056
+			</EditDetails>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Body" >
+			<PostId>3294</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-04T00:25:40.840</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>961</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Pretty much this. I'm storing/aging bottles. They've been in my fridge for 6+ months now. I want to leave them there at least another 6+ months and on. But I've read aging beers in fridge is a "bad" idea because the cork will dry up. (All my bottles have corks). Temperature in the fridge is just above 32F (0 celsius)
+
+					I've talked to my father recently who's more into wine and told me I should get them out of the fridge and leave them somewhere else. That somewhere else is pitch black, pretty much on a cool floor and ambient temperature is about 65F(18 celsius), 85% humidity (http://i.imgur.com/rJNglxK.jpg)
+
+					Is there a risk to change the ambient temperature while it is aging, am I better getting them out of the fridge or does it matter little. I have a few bottles I've left out of the fridge in that place already. Should they go into the fridge? I'm also a bit curious as to why as well how it would affect the beers.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Title" >
+			<PostId>3295</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-04T00:25:40.840</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>961</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm aging a few bottles. They've been in the fridge for a while. Should I take them out now?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Initial Tags" >
+			<PostId>3296</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-04T00:25:40.840</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>961</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, aging, age, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Unknown" >
+			<PostId>3297</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-04T00:52:30.417</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/473990643656564736
+			</EditDetails>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Initial Body" >
+			<PostId>3729</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-27T01:18:49.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1338</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It makes no sense to me why brewry are against freezing pint glasses. There's nothing better than ice cold beer.They try and cool beer lines,  beer in bottles are always served cold. They make bottles that with labels on then letting you know the beer is cold. Why are they so against freezing pint glasses, when there are some great inventions out there that freeze pint glasses in seconds. I think they should promote instead of being against it. Nothing better than a ice cold beer, I'm sure there are alot of people agree
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Initial Title" >
+			<PostId>3730</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-27T01:18:49.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1338</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why are breweries against freezing pint glasses
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Initial Tags" >
+			<PostId>3731</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-09-27T01:18:49.873</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1338</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, glassware, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Edit Body" >
+			<PostId>3816</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-30T18:02:04.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Removed opinion to make the question objective, corrected grammar, and re-worded to increase cohesiveness. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					It makes no sense to me why breweries are against freezing pint glasses. I think that there's nothing better than ice cold beer, and it seems in most ways the breweries agree. They try and cool beer lines, beer in bottles is always served cold, and some beer is bottled with labels that let you know when the beer is cold. So why are they so against freezing pint glasses, particularly when there are some great inventions out there that can freeze pint glasses in seconds? I think they should promote instead of being against it, so why don't they?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Edit Title" >
+			<PostId>3817</PostId>
+			<ParentPostId>1033</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-10-30T18:02:04.910</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>37</UserId>
+			</Contributors>
+			<EditDetails>
+				Removed opinion to make the question objective, corrected grammar, and re-worded to increase cohesiveness. 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why are breweries against freezing pint glasses?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Unknown" >
+			<PostId>5015</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-29T20:36:20.210</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				from http://skeptics.stackexchange.com/questions/25214/does-re-refrigerating-affect-the-taste-of-beer
+			</EditDetails>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Body" >
+			<PostId>5016</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-24T00:00:38.473</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2632</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Some of my college friends like to tell me that refrigerating beer, then taking it out (allowing it to warm up), and re-refrigerating it causes the beer to lose its taste. I've even known some to throw out beer that has gone through this scenario.
+
+					I've looked around on the internet a bit, and there doesn't seem to be any real evidence to the claim. I found an article on [Beer Advocate](http://www.beeradvocate.com/community/threads/letting-cold-beer-get-warm.14663/), where people seem to agree that:
+
+					1. UV light exposure causes negative effects (only a real problem for bottled beer).
+					2. *Extreme* fluctuations in temperature are generally not good for the beer.
+					3. Bottled beers can sometimes re-ferment at higher temperatures, causing over-carbonation.
+
+					Nothing conclusive.
+
+					My question is: **does refrigerating, unrefrigerating, and re-refrigerating beer negatively affect the taste of beer?**
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Title" >
+			<PostId>5017</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-24T00:00:38.473</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2632</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Does re-refrigerating affect the taste of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Tags" >
+			<PostId>5018</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-24T00:00:38.473</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2632</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					untagged, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Unknown" >
+			<PostId>5024</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-12-31T16:08:36.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/550322638615494657
+			</EditDetails>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Edit Tags" >
+			<PostId>5061</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-04T14:58:29.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>2639</UserId>
+			</Contributors>
+			<EditDetails>
+				added tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					taste, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Unknown" >
+			<PostId>5062</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-04T14:58:29.780</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 2639 approved by 73 edit id of 118
+			</EditDetails>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Post Closed" >
+			<PostId>5063</PostId>
+			<ParentPostId>2158</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-01-04T15:00:23.657</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[605],"Voters":[{"Id":73,"DisplayName":"Andrew Cheong"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Initial Body" >
+			<PostId>6459</PostId>
+			<ParentPostId>3350</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T08:49:22.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4024</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					[Lagers][1] traditionally were made in the colder months and stored (lagered) in caves. As lager yeast prefers a [colder fermentation and conditioning temperature][2] than ales, why is lager regularly made in hot, tropical climates around the world instead of more temperature tolerant ales, or just imported?
+
+					On a tour around the Tiger Brewery in Singapore where the average temperature is 30 deg C, the guide mentioned the brewery started in 1932 and used a "tropical lagering process". The guide wasn't sure of details, and I haven't found details elsewhere on this process.
+
+					Is it a simple matter of economics, that it's cheaper to brew lager locally even with climate control than to import, or is there a way to successfully brew lagers at high temperatures?
+
+
+					  [1]: https://en.wikipedia.org/wiki/Lager
+					  [2]: https://www.wyeastlab.com/he_b_fermentation.cfm
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Title" >
+			<PostId>6460</PostId>
+			<ParentPostId>3350</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T08:49:22.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4024</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why do lagers get made in tropical climates?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Tags" >
+			<PostId>6461</PostId>
+			<ParentPostId>3350</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-04-24T08:49:22.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4024</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					brewing, temperature, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Body" >
+			<PostId>6510</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I had acquired a couple of Samuel Adams "one-off" beers, specifically "The Vixen (stout)", "Merry Mischief (gingerbread stout)", "Griffin's Bow (barley wine)" and "Norse Legend (Sahti)". These bottles are either first, second or third batch, according to the label mind you. I had these beers for 2 years in a cellar, almost no light touches them and at room temperature.
+
+					I know that most of this types of beer gets better with time, except for the Sahti, hadn't explored much of that type, but I would like to know if it's safe for the beers to be kept and for how long, and at a given time, what's the best way to drink them (chill them, room temperature, etc.). Thanks.
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Initial Title" >
+			<PostId>6511</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					When and how to drink cellared beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Initial Tags" >
+			<PostId>6512</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-05-08T21:07:27.047</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4101</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, serving, temperature, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Unknown" >
+			<PostId>6598</PostId>
+			<ParentPostId>3370</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-06-06T02:54:09.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/607017605057159168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Body" >
+			<PostId>6845</PostId>
+			<ParentPostId>3507</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-31T20:12:21.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4374</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I’ve recently received a bottle of gira (i.e. kvass from Lithuania).
+
+					With it came a beer mug, so I guess the issue of the glassware is settled. At what temperature should I drink it? If I understand correctly (which I probably don’t, given that everything is written in Lithuanian), the kvass is unfiltered. Should I pour carefully to avoid mixing too much yeast in the glass or, on the contrary, should I ensure that some yeast do go into the glass? Or is it purely a matter of taste?
+
+					Finally, at which temperature should it be served?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Title" >
+			<PostId>6846</PostId>
+			<ParentPostId>3507</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-31T20:12:21.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4374</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How to drink kvass?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Tags" >
+			<PostId>6847</PostId>
+			<ParentPostId>3507</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-31T20:12:21.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4374</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					serving, temperature, glassware, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Initial Body" >
+			<PostId>7969</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-03T17:20:41.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4488</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					As in title, I'm going camping with some buddies soon and we're planning on bringing far more beer than we have space for in a cooler. What kinds of beer are palatable to drink (or good even) when at room temperature or even slightly warm?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Initial Title" >
+			<PostId>7970</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-03T17:20:41.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4488</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What beer is ok to drink not-cold or room temperature (for camping)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Initial Tags" >
+			<PostId>7971</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-03T17:20:41.570</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4488</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Unknown" >
+			<PostId>8067</PostId>
+			<ParentPostId>4562</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-23T03:52:11.430</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/646532486563033092
+			</EditDetails>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Initial Body" >
+			<PostId>8340</PostId>
+			<ParentPostId>4713</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-05T18:39:15.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1482</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have never tried sour beer before, and was recently given a sour brown ale. At what temperature should I serve this type of beer? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Initial Title" >
+			<PostId>8341</PostId>
+			<ParentPostId>4713</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-05T18:39:15.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1482</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					At what temperature should sour brown ale be served?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Initial Tags" >
+			<PostId>8342</PostId>
+			<ParentPostId>4713</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-05T18:39:15.880</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1482</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Unknown" >
+			<PostId>8359</PostId>
+			<ParentPostId>4713</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-07T12:34:45.580</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/673843084996780033
+			</EditDetails>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Initial Body" >
+			<PostId>8895</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-03T00:11:00.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5278</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I bought a 6 pack of milk stout by left hand off the shelf and it was warm..upon looking on the bottle it says "Please Keep Refrigerated" ..is this beer ok to be stored on the shelf???
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Initial Title" >
+			<PostId>8896</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-03T00:11:00.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5278</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is it ok to store milk stout on the shelf
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Initial Tags" >
+			<PostId>8897</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-03T00:11:00.517</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5278</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Edit Body" >
+			<PostId>8921</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T16:21:42.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>887</UserId>
+			</Contributors>
+			<EditDetails>
+				minor punctuation fixes, added temperature tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					I bought a 6 pack of milk stout by left hand off the shelf and it was warm. Upon looking on the bottle, it says "Please Keep Refrigerated." Is this beer okay to be stored on the shelf?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Edit Title" >
+			<PostId>8922</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T16:21:42.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>887</UserId>
+			</Contributors>
+			<EditDetails>
+				minor punctuation fixes, added temperature tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Is it okay to store milk stout on the shelf?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Edit Tags" >
+			<PostId>8923</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T16:21:42.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>887</UserId>
+			</Contributors>
+			<EditDetails>
+				minor punctuation fixes, added temperature tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					storage, temperature, stout, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Unknown" >
+			<PostId>8924</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-06T16:21:42.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 887 approved by 37 edit id of 169
+			</EditDetails>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Unknown" >
+			<PostId>8945</PostId>
+			<ParentPostId>4911</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-07T02:11:18.323</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/717897506848423936
+			</EditDetails>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Initial Body" >
+			<PostId>9054</PostId>
+			<ParentPostId>4972</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-22T02:02:55.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know that white wines are usually served chilled and drier or full-bodied reds are served at room temperature.  For an upcoming gathering I'll be serving some lighter, sweeter reds (one is called a "red moscato", for example), alongside whites and other reds.  At what temperature should I serve them?  If chilled, would the same temperature as for whites (like rieslings) be suitable?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Initial Title" >
+			<PostId>9055</PostId>
+			<ParentPostId>4972</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-22T02:02:55.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Should lighter red wines be served chilled?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Initial Tags" >
+			<PostId>9056</PostId>
+			<ParentPostId>4972</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-04-22T02:02:55.063</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Edit Tags" >
+			<PostId>9336</PostId>
+			<ParentPostId>4972</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-03T14:34:18.193</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					temperature, red-wine, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Unknown" >
+			<PostId>9702</PostId>
+			<ParentPostId>4972</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-06-25T23:02:46.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/746841089500450816
+			</EditDetails>
+		</Instance>
+		<Instance Id= "94" InstanceType= "Edit Body" >
+			<PostId>11179</PostId>
+			<ParentPostId>845</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-10-08T14:41:21.000</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved formatting. and added linked image.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Pretty much this. I'm storing/aging bottles. They've been in my fridge for 6+ months now. I want to leave them there at least another 6+ months and on. But I've read aging beers in fridge is a "bad" idea because the cork will dry up. (All my bottles have corks). Temperature in the fridge is just above 32F (0 celsius)
+
+					I've talked to my father recently who's more into wine and told me I should get them out of the fridge and leave them somewhere else. That somewhere else is pitch black, pretty much on a cool floor and ambient temperature is about [65F(18 celsius), 85% humidity](http://i.imgur.com/rJNglxK.jpg)
+
+					[![Temperature and Humidity][1]][1]
+
+					Is there a risk to change the ambient temperature while it is aging, am I better getting them out of the fridge or does it matter little. I have a few bottles I've left out of the fridge in that place already. Should they go into the fridge? I'm also a bit curious as to why as well how it would affect the beers.
+
+
+					  [1]: http://i.stack.imgur.com/jPLFA.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "95" InstanceType= "Initial Body" >
+			<PostId>11344</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-15T10:21:46.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6105</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					is there any problem in serving noncooled/ without cooling a beer the doctor says don't take any cooled products, so i used to take beer once in couple of day without cooling a beer, the taste is differ but is there any other problems by consuming noncooled beers
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "96" InstanceType= "Initial Title" >
+			<PostId>11345</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-15T10:21:46.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6105</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					is there any problem in serving noncooled beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "97" InstanceType= "Initial Tags" >
+			<PostId>11346</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-15T10:21:46.680</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6105</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					health, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "98" InstanceType= "Edit Body" >
+			<PostId>11352</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-16T12:38:48.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any problems in serving a non-cooled (without cooling) a beer, as the doctor has told me not to take any cooled products. So I used to take beer once in couple of day without cooling it. The taste is different, but are there any real problems with consuming noncooled beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "99" InstanceType= "Edit Title" >
+			<PostId>11353</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-16T12:38:48.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Are there any problems in serving non-cooled beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "100" InstanceType= "Edit Tags" >
+			<PostId>11354</PostId>
+			<ParentPostId>6383</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-11-16T12:38:48.273</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Improved grammar and added one tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					health, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "101" InstanceType= "Edit Body" >
+			<PostId>12489</PostId>
+			<ParentPostId>105</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					For example, from the label of Uinta's Crooked Line Labyrinth Black Ale:
+
+					&gt; Flavors are enhanced when served cool, not frigid.
+
+					How does serving temperature affect the taste of beers? By _"How?"_ I'm asking more about its effects on flavor, _e.g._ hoppiness, crispness, the aftertaste, etc. more so than the chemical process.&lt;sup&gt;*&lt;/sup&gt; That is, what flavors become pronounced or dulled with the changing of temperature?
+
+					There's a question, https://alcohol.stackexchange.com/questions/5/what-temperature-should-i-serve-my-beer, where an answerer states, for example, that letting darker beers warm up brings out new flavors—but what flavors? It doesn't seem to be the case that cooling kills all desirable flavors in general—for example for pilsners, lagers, and hefeweizens, "letting them get warm changes their flavor profile for the worse" (from the same answer).
+
+					&lt;sup&gt;* Knowing the chemical process, _e.g._ how certain elements or ingredients react or suspend differently according to temperature, would be very interesting indeed, but it seems difficult to find solid literature / knowledge on the subject.&lt;/sup&gt;
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "102" InstanceType= "Initial Body" >
+			<PostId>12838</PostId>
+			<ParentPostId>6873</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-31T23:33:53.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6788</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Maybe this is a non-question for connoisseurs, but as a non-drinking person I have no idea why it is so common to order certain alcoholic drinks at a bar "on the rocks" (with ice or even special "whiskey rocks" which are basically refrigerated non-dissolving shapes of plastic/metal/glass) instead of just keeping the whole bottle in the fridge. Then it wouldn't be watered down by melting ice, and be cool enough from the moment the bartender is done pouring it.
+
+
+					Cursory research says repeated temperature change may alter certain alcohols' flavor, but then for other spirits it doesn't seem to be a problem, so that's ambiguous. However, at a regular bar's rate of consumption, I suppose there wouldn't be enough time for a bottle to go bad − it would be empty before then. Or maybe the effect is so strong that even one cycle of temperature change is enough. I don't know.
+
+					My question is: Why most alcohols which become drinks into which ice is usually put, are not stored in a fridge instead, so that the ice isn't needed?
+
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "103" InstanceType= "Initial Title" >
+			<PostId>12839</PostId>
+			<ParentPostId>6873</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-31T23:33:53.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6788</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why don't bars keep their bottles in the fridge to avoid using ice?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "104" InstanceType= "Initial Tags" >
+			<PostId>12840</PostId>
+			<ParentPostId>6873</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-05-31T23:33:53.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>6788</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "105" InstanceType= "Unknown" >
+			<PostId>12866</PostId>
+			<ParentPostId>6873</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-06-04T08:58:07.567</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/871289953547935744
+			</EditDetails>
+		</Instance>
+		<Instance Id= "106" InstanceType= "Initial Body" >
+			<PostId>14187</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-15T06:13:35.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					We have 12 can of beer, we boiled 3 of them in some ranges of temperature such as: 122F, 131F, 140F, 149F in some duration (30min, 40min, 50min, and 60min). 
+					Then we drank them, but we feel their quality very distinguighed. But someone says the temperature no effect on quality of beer. So, what are the true answers?
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "107" InstanceType= "Initial Title" >
+			<PostId>14188</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-15T06:13:35.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Effects of temperature and time handling on beer 's taste?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "108" InstanceType= "Initial Tags" >
+			<PostId>14189</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-15T06:13:35.253</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7860</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					breweries, storage, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "109" InstanceType= "Unknown" >
+			<PostId>14207</PostId>
+			<ParentPostId>7341</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-20T21:40:38.130</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1009551622001872896
+			</EditDetails>
+		</Instance>
+		<Instance Id= "110" InstanceType= "Initial Body" >
+			<PostId>14253</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Should non-alcoholic beer be refrigerated to preserve it? How long does non-alcoholic beer last when not refrigerated?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "111" InstanceType= "Initial Title" >
+			<PostId>14254</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Refrigerate Non-Alcoholic beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "112" InstanceType= "Initial Tags" >
+			<PostId>14255</PostId>
+			<ParentPostId>7356</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-27T13:51:31.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7887</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, storage, flavor, temperature, non-alcoholic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "113" InstanceType= "Initial Body" >
+			<PostId>14493</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T19:07:37.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I received a very large bottle of Sake, but have not opened it because I am sure I can't drink it all quickly.  Once I open it how long can I expect it to last, and what's the best way to keep it good for the longest possible. 
+
+					What temperature should it be stored at, and what's the best temperate when drinking it?  
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "114" InstanceType= "Initial Title" >
+			<PostId>14494</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T19:07:37.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How long does an open bottle of Sake last?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "115" InstanceType= "Initial Tags" >
+			<PostId>14495</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T19:07:37.753</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>8002</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					storage, temperature, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "116" InstanceType= "Edit Tags" >
+			<PostId>14499</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-12T23:21:44.707</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					storage, temperature, sake, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "117" InstanceType= "Unknown" >
+			<PostId>14539</PostId>
+			<ParentPostId>7434</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-08-19T18:01:14.023</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/1031239679960670208
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

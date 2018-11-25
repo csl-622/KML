@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>303</PostId>
+			<ParentPostId>313</ParentPostId>
+			<Contributors>
+				<UserId>8</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T01:06:01.047</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					There's such a *massive* variance across styles that I'm not sure this is answerable. Though perhaps a better question would be if there's a formula to subtract out the alcohol based on ABV?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="0">
+			<PostId>304</PostId>
+			<ParentPostId>313</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T01:54:44.137</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					related [how is light beer produced](http://beer.stackexchange.com/questions/250/how-is-light-beer-produced/252#252)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="2">
+			<PostId>319</PostId>
+			<ParentPostId>324</ParentPostId>
+			<Contributors>
+				<UserId>200</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T09:14:21.207</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					So, yeah, explaining a *downwote* specially in this phase, is highly healthy.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>320</PostId>
+			<ParentPostId>311</ParentPostId>
+			<Contributors>
+				<UserId>42</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T13:43:57.867</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Consider making this post community wiki; this way everyone can build upon it and create a much more comprehensive list. Thanks!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>321</PostId>
+			<ParentPostId>313</ParentPostId>
+			<Contributors>
+				<UserId>130</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T13:46:33.580</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@LessPop_MoreFizz: Despite the variance I guess the answer of "between X-Y% of the original" would be a viable answer, or a relation of alcohol content. A few words how *actually* alcohol contributes (e.g. alcohol burned readily might, or might not create savings allowing to store other ingredients that would be otherwise burned).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>322</PostId>
+			<ParentPostId>271</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T19:30:17.463</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Perhaps you should spend the time reading through the link to the judging guidelines.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="1">
+			<PostId>323</PostId>
+			<ParentPostId>271</ParentPostId>
+			<Contributors>
+				<UserId>66</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T20:04:31.700</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You've missed my point. A good answer shouldn't depend on the contents of an external link. At a minimum, the most pertinent parts of the linked content should be included directly in the answer. There are a number of reasons for this, such as protection against link rot and the annoyance of having to do an extra step to get the information you're looking for. For more, see [the network FAQ entry on link-only answers](http://meta.stackexchange.com/questions/8231/are-answers-that-just-contain-links-elsewhere-really-good-answers).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>324</PostId>
+			<ParentPostId>271</ParentPostId>
+			<Contributors>
+				<UserId>22</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-25T21:43:15.260</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That was more helpful than your original comment. I will correct when able.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

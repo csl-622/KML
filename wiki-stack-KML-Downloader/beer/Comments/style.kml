@@ -1,0 +1,1060 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>180</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T18:47:47.627</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Doppelbock (or "Doublebock") is a style of beer, but "triple bock" technically isn't.  Are you perhaps thinking a Belgian Dubbels and Tripels (which aren't bocks, but rather Belgian Strong Ales)?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>184</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T19:10:59.510</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Oh!  Maybe I have misunderstood something labeled as a "triple".  If so that sounds like a separate question (since this one already has a bock-focused answer).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>186</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T19:16:08.860</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'm not sure myself.  It turns out that Sam Adams DID make a beer named "Triple Bock", which I suspect that follows phoebus' answer; bigger better faster more.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>187</PostId>
+			<ParentPostId>212</ParentPostId>
+			<Contributors>
+				<UserId>43</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T19:17:09.100</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I *thought* I'd seen a "triple bock", and Sam Adams is plausible.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>456</PostId>
+			<ParentPostId>371</ParentPostId>
+			<Contributors>
+				<UserId>288</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-30T00:51:41.347</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I seem to recall hearing (although I can't find evidence at the moment) that hefeweizens may be poured harder to ensure that the yeast is evenly mixed. I could be wrong about that though (and the more typical method of rolling the bottle is probably better, IMO).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>457</PostId>
+			<ParentPostId>375</ParentPostId>
+			<Contributors>
+				<UserId>212</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-30T01:02:24.343</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Agreed, it's probably well outside the scope of what was needed to answer the original question. I think I'm revealing my bias toward physical and chemical detail when answering questions. I may post another question related to beer's chemical properties for more discussion on this.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>545</PostId>
+			<ParentPostId>506</ParentPostId>
+			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-03T19:05:56.210</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's probably degrees plato, an alternate gravity scale.  I've updated my answer with more details.  See http://en.wikipedia.org/wiki/Plato_scale#Strength for more.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>546</PostId>
+			<ParentPostId>509</ParentPostId>
+			<Contributors>
+				<UserId>112</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-03T19:06:51.903</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's strange you use 2/3s of the article to talk about SG units unit that isn't in the original question. :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>547</PostId>
+			<ParentPostId>509</ParentPostId>
+			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-03T19:08:11.517</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yeah, I'm used to thinking in US homebrewer terms.  I saw OG and thought "Oh, I know that!  That's like 1.123!"  Of course, I had to amend it after I went back and re-read the question.  :S  Hopefully there's at least some useful information here.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="10"  InstanceType= "comments" Score="0">
+			<PostId>549</PostId>
+			<ParentPostId>508</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-03T19:19:06.117</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah-hah!  Thank you, CDspace.  I will correct my answer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="11"  InstanceType= "comments" Score="0">
+			<PostId>550</PostId>
+			<ParentPostId>490</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-03T19:52:51.640</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Really enjoying your contributions, thanks! (In case you don't already know, your answering of already-anwered questions not only add to the diversity and informativeness of answers, but also help us progress the beta, as we need [more answers per question](http://area51.stackexchange.com/proposals/48905/beer) for precisely the reasons of diversity and perspective.)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="12"  InstanceType= "comments" Score="0">
+			<PostId>551</PostId>
+			<ParentPostId>493</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-03T19:56:05.030</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Nice. I did a lot of research was having a hard time answering this one. Do you work in the industry? How did you come by this knowledge? (Feel free to reply to those in [chat](http://chat.stackexchange.com/rooms/12606/beer).) But more to the topic, do most brands _not_ license their brand to other breweries? (What are examples of others who do?)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="13"  InstanceType= "comments" Score="0">
+			<PostId>552</PostId>
+			<ParentPostId>507</ParentPostId>
+			<Contributors>
+				<UserId>353</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-03T20:42:15.313</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I defer to @mdma, that answers both the initial and follow up question
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="14"  InstanceType= "comments" Score="1">
+			<PostId>675</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T07:51:58.233</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I haven't drunk beer warm so far, can you show me which types are commonly drunk warm?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="15"  InstanceType= "comments" Score="2">
+			<PostId>676</PostId>
+			<ParentPostId>597</ParentPostId>
+			<Contributors>
+				<UserId>192</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T12:14:40.990</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think, in this case, "warm" is a relative term. Rather than saying that beer is commonly enjoyed "warm" in Europe, I'd say that it's not as cold as Americans tend to serve their beer. Still, I doubt it's anything above room temperature.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="16"  InstanceType= "comments" Score="1">
+			<PostId>680</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T16:59:18.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This doesn't really address your question, but I wanted to mention it anyway: dubels and tripels aren't just stronger versions.  The dubel, in particular, uses darker malts and candi sugar to achieve its dark color and rum / raisin sweetness.  The tripel instead uses lighter malts and white candi sugar for a very different character.  There is a progression in strength, but it's a little more complex than that.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="17"  InstanceType= "comments" Score="0">
+			<PostId>681</PostId>
+			<ParentPostId>596</ParentPostId>
+			<Contributors>
+				<UserId>215</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-02-13T17:20:01.903</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@object88 Your point seems interesting! I created a new question http://beer.stackexchange.com/questions/602/what-are-the-difference-between-a-dubbel-and-a-tripel
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="18"  InstanceType= "comments" Score="1">
+			<PostId>959</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-29T09:06:34.610</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					in addition to my answer, if you let me know what sort of area within the US you are interested in I may be able to advise on festivals, tasting clubs etc. as well as other events that may be helpful.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="19"  InstanceType= "comments" Score="0">
+			<PostId>960</PostId>
+			<ParentPostId>264</ParentPostId>
+			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-29T09:09:05.127</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Don't forget that the bittering plant used is not always hops: Bog myrtle, (stinging) nettles and a few other weird and wonderful botanicals are used. In fact both of the above were widely used in the UK before hops were introduced.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="20"  InstanceType= "comments" Score="0">
+			<PostId>961</PostId>
+			<ParentPostId>96</ParentPostId>
+			<Contributors>
+				<UserId>909</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-29T09:22:35.740</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					it is posible to brew low alcohol beers rather than boiling off. There are a few breweries here in the UK that produce as low as 2.6% ABV beers by brewing alone. They can't boil them off as that would kill the yeast and make them no longer real ales.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="21"  InstanceType= "comments" Score="0">
+			<PostId>962</PostId>
+			<ParentPostId>815</ParentPostId>
+			<Contributors>
+				<UserId>928</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-29T11:15:45.353</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I live where cornfields meet the edge of civilization about an hour outside of Chicago.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="22"  InstanceType= "comments" Score="3">
+			<PostId>963</PostId>
+			<ParentPostId>818</ParentPostId>
+			<Contributors>
+				<UserId>932</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-29T13:52:16.643</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					+1 for flights, a great solution.  Also, priorities!  Stop wasting money on eg food and doing laundry when untried beer is awaiting your exploration!  This is a good problem, have fun.  :-)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="23"  InstanceType= "comments" Score="0">
+			<PostId>964</PostId>
+			<ParentPostId>818</ParentPostId>
+			<Contributors>
+				<UserId>928</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-29T14:25:54.703</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Unfortunately in my town, they can't sell in the grocery store. Mainly because much like the a lot of the midwest, a lot of the small town business comes from bars and liquor stores. (There are also a lot of Banks and Churches... Talk about mixing up ideologies) ;)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="24"  InstanceType= "comments" Score="0">
+			<PostId>965</PostId>
+			<ParentPostId>822</ParentPostId>
+			<Contributors>
+				<UserId>923</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-29T16:28:57.637</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thank you, some names you mentioned look familiar, so I should be able to find a bunch to try!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="25"  InstanceType= "comments" Score="0">
+			<PostId>966</PostId>
+			<ParentPostId>828</ParentPostId>
+			<Contributors>
+				<UserId>928</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-05-29T17:18:12.847</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That's not too far of a drive for me, just like a straight shot down 80 about an hour and a half! :D
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="26"  InstanceType= "comments" Score="0">
+			<PostId>2015</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-06-17T17:39:38.780</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Enjoy your stay there.  I've only spent time in Bavaria, but they were very friendly and wouldn't mind answering any question about customs, etc.  Beer was always poured into the proper glass for the style of beer.  I can't remember anyone drinking from the bottle.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="27"  InstanceType= "comments" Score="0">
+			<PostId>2016</PostId>
+			<ParentPostId>879</ParentPostId>
+			<Contributors>
+				<UserId>996</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-06-17T20:58:35.790</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@wayneinyak Good call!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="28"  InstanceType= "comments" Score="0">
+			<PostId>2036</PostId>
+			<ParentPostId>880</ParentPostId>
+			<Contributors>
+				<UserId>720</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-07-04T13:21:12.410</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Dunno where are you from but in Europe generally there's nothing rude in asking for reasons, including the reason why paper should be removed. Next time go ahead and ask.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="29"  InstanceType= "comments" Score="0">
+			<PostId>3257</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Contributors>
+				<UserId>1289</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-15T07:48:33.740</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Corona Extra _Dry_? I found a link to a beer store in [Japan](http://www.nisekowinesupply.com/showProduct/Beer+and+Mixers/Beer/BEER09003/Corona+Extra+Dry+330ml+6+bottle+pack) but it looks like the regular Corona Extra bottle. Nothing else comes up in Google or on Corona'a site.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="30"  InstanceType= "comments" Score="0">
+			<PostId>3258</PostId>
+			<ParentPostId>3195</ParentPostId>
+			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-15T07:56:07.240</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Sorry, my mistake! I must have confused it with the name of Tooheys Extra Dry - another well known beer in Australia. I have fixed the question. Thanks for pointing it out.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="31"  InstanceType= "comments" Score="0">
+			<PostId>3259</PostId>
+			<ParentPostId>2163</ParentPostId>
+			<Contributors>
+				<UserId>3675</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-15T13:16:03.220</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					To follow on Sloloem's comment about cooling the tap tower, a quick and relatively painless method is the one illustrated in [this Popular Mechanics article](http://www.popularmechanics.com/home/improvement/interior/fighting-foam-how-to-insulate-a-kegerator-draft-tower-16554310). It has worked very well for me and only took about 15 minutes of actual work.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="32"  InstanceType= "comments" Score="0">
+			<PostId>3319</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-03-10T21:34:33.130</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I had to read your post a few times to try to understand what you're asking. (Your title is about red lagers, but you start by mentioning red ales, then generic lagers, then IPAs, browns, and stouts, and your final question appears to be about _all_ beer, in general.) Let me try to distill a singular question here, to help others: **What is the characteristic taste, or, what are some _words_ that describe the taste, that makes a lager a _red_ lager?**
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="33"  InstanceType= "comments" Score="1">
+			<PostId>3320</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Contributors>
+				<UserId>3874</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-03-10T21:59:08.143</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					You're right @AndrewCheong, I started just wanting to know what other beers I could try, but as I was writing the question I started trying to ask too much at once.
+
+					I've simplified my secondary question to just your summary, which I agree is the basis of what I was trying to ask anyway. Maybe once I've got a response I'll try to ask the 'other' part of the question separately.
+
+					Thanks for the feedback.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="34"  InstanceType= "comments" Score="0">
+			<PostId>3321</PostId>
+			<ParentPostId>3287</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-03-10T22:01:09.203</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Of course, and thank you for editing! Yes, don't be shy to spin off new questions. The more specific each is, the better the quality of answers we'll have on this site.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="35"  InstanceType= "comments" Score="1">
+			<PostId>3428</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T18:00:42.307</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Go with a Saison. That yeast likes temperatures in that range, even up to 35.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="36"  InstanceType= "comments" Score="0">
+			<PostId>3429</PostId>
+			<ParentPostId>3444</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T18:02:36.947</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I think you mean fusel alcohols. It depends on the yeast whether you will or not. Some strains are very tolerant of higher temperatures.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="37"  InstanceType= "comments" Score="1">
+			<PostId>3430</PostId>
+			<ParentPostId>3423</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-07T18:08:01.593</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					yes, there is some truth to that. Draft beer usually comes in pints or larger, as apposed to 12 oz. bottles. So 3 drafts = 4 bottles, but most people count them both as "beers"
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="38"  InstanceType= "comments" Score="0">
+			<PostId>3634</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-12-31T23:37:22.243</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Uh, black and tan?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="39"  InstanceType= "comments" Score="0">
+			<PostId>3635</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-02T02:10:05.733</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Frisbee - Never heard of it! Where are you from?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="40"  InstanceType= "comments" Score="1">
+			<PostId>3638</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-02T14:09:11.080</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes, but I only saw United States. Even read some of your top posts on Travel.SE. Anyway, just being friendly here, no need to be rude.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="41"  InstanceType= "comments" Score="0">
+			<PostId>3641</PostId>
+			<ParentPostId>814</ParentPostId>
+			<Contributors>
+				<UserId>1077</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-01-03T21:54:39.183</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Local festivals are definitely the way too go to taste a large number of different beers easily.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="42"  InstanceType= "comments" Score="0">
+			<PostId>3763</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Contributors>
+				<UserId>4938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T00:14:52.603</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Possible duplicate of [What are the difference between a dubbel and a tripel?](http://beer.stackexchange.com/questions/602/what-are-the-difference-between-a-dubbel-and-a-tripel)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="43"  InstanceType= "comments" Score="4">
+			<PostId>3764</PostId>
+			<ParentPostId>4869</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T00:36:17.643</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@ArthurD Not a duplicate of that one. Those are Abbey-style Belgian ales, and are quite different from anything in the IPA family.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="44"  InstanceType= "comments" Score="2">
+			<PostId>3765</PostId>
+			<ParentPostId>4870</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T01:07:28.660</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That is REALLY not the answer I wanted, but I think you're right. Darn it. Thanks for the info!
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="45"  InstanceType= "comments" Score="0">
+			<PostId>3767</PostId>
+			<ParentPostId>4877</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T22:01:20.917</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I can understand that, thanks. But with brewers marketing a "triple IPA", it seems to imply that they are trying to make a distinction from a double IPA. I know that both double and triple IPAs would be judged together and are usually categorized together (like they are on Ratebeer, for example). But would would the distinction be for a brewer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="46"  InstanceType= "comments" Score="1">
+			<PostId>3769</PostId>
+			<ParentPostId>4877</ParentPostId>
+			<Contributors>
+				<UserId>5145</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T23:03:17.590</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I assume just more alcohol than a double if the same brewery made a double and a triple.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="47"  InstanceType= "comments" Score="0">
+			<PostId>3770</PostId>
+			<ParentPostId>4877</ParentPostId>
+			<Contributors>
+				<UserId>5107</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-26T23:05:13.247</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That was my thought, too. I just haven't seen someone come out and say that explicitly.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="48"  InstanceType= "comments" Score="2">
+			<PostId>3771</PostId>
+			<ParentPostId>4853</ParentPostId>
+			<Contributors>
+				<UserId>4394</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-28T09:07:26.587</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Drink the Guinness, drink the Harp; jump up and down; next time you see it will be mixed.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="49"  InstanceType= "comments" Score="1">
+			<PostId>3772</PostId>
+			<ParentPostId>4694</ParentPostId>
+			<Contributors>
+				<UserId>5157</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-28T21:46:19.213</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@Frisbee I would argue that once you start getting into distillation, you're no longer working with beer. In my mind, distillation equals liquor.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="50"  InstanceType= "comments" Score="1">
+			<PostId>3774</PostId>
+			<ParentPostId>4694</ParentPostId>
+			<Contributors>
+				<UserId>4903</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-02-28T22:29:09.703</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@MattDMo Agree but it would more be call fortified like a MD 20 20.  They have iced bear that is kind of like fortified and still called beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="51"  InstanceType= "comments" Score="1">
+			<PostId>3881</PostId>
+			<ParentPostId>4716</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-11T13:27:16.523</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Firestone Walker does quite a bit of blending of their beers
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="52"  InstanceType= "comments" Score="0">
+			<PostId>3887</PostId>
+			<ParentPostId>4938</ParentPostId>
+			<Contributors>
+				<UserId>4262</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-15T22:22:15.200</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					for most wines i can taste the difference after only a couple of hours.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="53"  InstanceType= "comments" Score="3">
+			<PostId>3889</PostId>
+			<ParentPostId>5007</ParentPostId>
+			<Contributors>
+				<UserId>381</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-05-16T20:41:54.333</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That article does not explain why "tap beer" is high in tyramines and bottle beer is moderate. That makes no sense to me because draft beer and bottled beer are made from exactly the same recipe and the only difference is in the container the beer is put into -- in fact a microbrewery will often fill kegs and bottles from the same batch of beer.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="54"  InstanceType= "comments" Score="0">
+			<PostId>4071</PostId>
+			<ParentPostId>5179</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-10T18:28:12.650</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I like going to a brewery, ordering a flight of their beers, and seeing what I like. I flight is usually a 4 ounce poor of different beers. Great way to try different beers and see what you like.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="55"  InstanceType= "comments" Score="0">
+			<PostId>4072</PostId>
+			<ParentPostId>5196</ParentPostId>
+			<Contributors>
+				<UserId>529</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-07-12T13:41:46.373</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not all can beers use preservatives, in fact I would wager the majority of craft breweries don't use them.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="56"  InstanceType= "comments" Score="0">
+			<PostId>4116</PostId>
+			<ParentPostId>3441</ParentPostId>
+			<Contributors>
+				<UserId>4857</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-16T11:14:51.133</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					This question would be more appropriate in http://homebrew.stackexchange.com/.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="57"  InstanceType= "comments" Score="0">
+			<PostId>4117</PostId>
+			<ParentPostId>6240</ParentPostId>
+			<Contributors>
+				<UserId>5144</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-18T18:49:28.137</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I've bought coronas in the us and in mexico, and the one sold in mexico is stronger and not as light.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="58"  InstanceType= "comments" Score="1">
+			<PostId>4118</PostId>
+			<ParentPostId>6234</ParentPostId>
+			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T12:49:30.007</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Welcome to Alcohol SE, Sam. Your answer would be better if you added more details and a linked reference if possible. Great to see your input and hope you stay around.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="59"  InstanceType= "comments" Score="0">
+			<PostId>4119</PostId>
+			<ParentPostId>6242</ParentPostId>
+			<Contributors>
+				<UserId>5771</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T15:16:51.430</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I recognize the above passages from my research on Google on this topic, I wold just cite the sources for credit and completion
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="60"  InstanceType= "comments" Score="0">
+			<PostId>4120</PostId>
+			<ParentPostId>6243</ParentPostId>
+			<Contributors>
+				<UserId>5778</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T18:03:36.943</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ya what is with the lime actually ??? I have seen people having it with lime .
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="61"  InstanceType= "comments" Score="0">
+			<PostId>4121</PostId>
+			<ParentPostId>6243</ParentPostId>
+			<Contributors>
+				<UserId>5796</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-19T19:00:23.597</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Makes it more refreshing. You don't have to do it, but it really adds to the taste. Where I live, every bar/restaurant that you go to will sell it with lime.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="62"  InstanceType= "comments" Score="0">
+			<PostId>4122</PostId>
+			<ParentPostId>6246</ParentPostId>
+			<Contributors>
+				<UserId>3905</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T00:17:34.133</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Goldschläger, I think.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="63"  InstanceType= "comments" Score="1">
+			<PostId>4123</PostId>
+			<ParentPostId>6247</ParentPostId>
+			<Contributors>
+				<UserId>4742</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T09:54:26.613</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					How much is a "drink"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="64"  InstanceType= "comments" Score="2">
+			<PostId>4124</PostId>
+			<ParentPostId>6244</ParentPostId>
+			<Contributors>
+				<UserId>938</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T13:19:39.660</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I'd add that objectively as an actual drink there isn't actually anything special about it besides the ambiance, marketing, and image.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="65"  InstanceType= "comments" Score="0">
+			<PostId>4126</PostId>
+			<ParentPostId>901</ParentPostId>
+			<Contributors>
+				<UserId>5818</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2016-08-23T20:55:44.633</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Not sure about "UK fully adopted the metric system" but in practice all containers have ml listed. Beer tends to have fl. oz. as well.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="66"  InstanceType= "comments" Score="0">
+			<PostId>5258</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-03T07:30:04.410</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don’t know where you live, but what you claim was not the case in Germany for a long time. There were very few non-alcoholic pilsner’s until a couple of years ago (Clausthaler was the only big brand), but there was malt beer and different non-alcoholic wheat beers (Erdinger, Franziskaner...).
+					Nowadays, most big brands offer non-alcoholic variants of their beers, and since in Germany pilsner is the most common type of beer, there’s a large variety of non-alcoholic pilsners to be found in supermarkets.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="67"  InstanceType= "comments" Score="0">
+			<PostId>5264</PostId>
+			<ParentPostId>7055</ParentPostId>
+			<Contributors>
+				<UserId>499</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-09T17:50:47.037</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I just had a dry hopped Clausthaler (AFAIK all their beers are alcohol-free), and some German wheat beers like Erdinger have alcohol free versions.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="68"  InstanceType= "comments" Score="0">
+			<PostId>5265</PostId>
+			<ParentPostId>6978</ParentPostId>
+			<Contributors>
+				<UserId>499</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-09T18:01:31.453</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah, yes, I also love the taste of ash and vomit when I kiss a girl...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="69"  InstanceType= "comments" Score="0">
+			<PostId>5266</PostId>
+			<ParentPostId>7046</ParentPostId>
+			<Contributors>
+				<UserId>499</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-11-09T18:33:00.570</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yes, beer is healthy -- it just depends on the amount. Beer has found to be beneficial for bones, red wine to the heart. Can you provide some links on the alcohol withdrawal death rate? Is this for addicts? We were not talking about addiction here, were we?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="70"  InstanceType= "comments" Score="0">
+			<PostId>5582</PostId>
+			<ParentPostId>340</ParentPostId>
+			<Contributors>
+				<UserId>123</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2018-06-26T05:05:59.367</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					See also https://alcohol.stackexchange.com/questions/602/what-are-the-difference-between-a-dubbel-and-a-tripel =)
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

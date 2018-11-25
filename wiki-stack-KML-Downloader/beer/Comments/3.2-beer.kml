@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="1">
+			<PostId>55</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Contributors>
+				<UserId>5</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-21T22:13:51.380</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					http://beer.stackexchange.com/questions/3/how-is-reduced-alcoholic-beer-made addresses how it is achieved.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>91</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:04:13.913</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I thought you were referring to "non-alcoholic" beers, like non-alcoholic Beck's—which, by the way, still have a fraction of a percentage of alcohol. I can assure you that these taste _nothing_ like beer—more like old cough medicine.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>95</PostId>
+			<ParentPostId>74</ParentPostId>
+			<Contributors>
+				<UserId>20</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:16:38.550</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					@acheong87 - interesting.  I've never had non-alcoholic beer.  I was just wondering about the 3.2 crap some states make grocery stores sell.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>96</PostId>
+			<ParentPostId>132</ParentPostId>
+			<Contributors>
+				<UserId>27</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2014-01-22T00:19:36.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Ah, you are right about Pilsners being lagers, that's my mistake.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>3261</PostId>
+			<ParentPostId>986</ParentPostId>
+			<Contributors>
+				<UserId>1289</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-19T07:26:40.587</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					That's the man keeping you down
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>3262</PostId>
+			<ParentPostId>986</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-17T02:50:47.817</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Correct but for one thing, the target that sells full strength alcohol is in Glendale less than a mile from the King Soopers that does the same.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>3263</PostId>
+			<ParentPostId>3196</ParentPostId>
+			<Contributors>
+				<UserId>3676</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-01-22T09:59:19.953</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Thanks for your prompt and helpful answer. The links to the website are particularly useful - I hadn't been aware of  that site before.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>3425</PostId>
+			<ParentPostId>986</ParentPostId>
+			<Contributors>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-06-28T05:53:30.927</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Yea, I just noticed the "beer" from Walmart at Quebec and 470 only sells 3.2 beer.
+					Won't be going there anymore.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>3426</PostId>
+			<ParentPostId>3444</ParentPostId>
+			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2015-07-03T18:34:21.547</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					And to embark on this route, Google "DIY Kegerator." A full-size fridge on Craigslist was only $75, and a temperature controller was about $25 IIRC. Turned out the room we were fermenting in got colder than 18 C at night in the winter, so for now I just unplug the fridge from the temp controller and plug in a desk lamp instead, which I put inside the fridge. Works like a charm.
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

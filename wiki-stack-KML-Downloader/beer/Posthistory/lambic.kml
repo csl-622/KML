@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>456</PostId>
+			<ParentPostId>183</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:17:42.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					There are a few fruit beers around how are these traditionally made?  I know they are all Lambics, but how are they made exactly?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>457</PostId>
+			<ParentPostId>183</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:17:42.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How is Lambic fruit beer traditionally made?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>458</PostId>
+			<ParentPostId>183</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:17:42.147</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					lambic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Initial Body" >
+			<PostId>1787</PostId>
+			<ParentPostId>649</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-07T20:13:34.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I had a most-delicious, cherry-red beer last night that tasted like raspberries. It was tart, a little low in alcoholic content (4%), and tasted like no other beer I've had. It was intriguing enough that I think I'll go back for a growler today.
+
+					The chalkboard said it was a 'lambic'. What exactly is a lambic? What are typical characteristics of one? 
+
+					I quite enjoyed it, but it seemed a little sweet. Is there a variety of lambic I should keep an eye out for that is dry, but still tart?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Title" >
+			<PostId>1788</PostId>
+			<ParentPostId>649</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-07T20:13:34.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What the heck is a lambic?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Tags" >
+			<PostId>1789</PostId>
+			<ParentPostId>649</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-07T20:13:34.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>75</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					lambic, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Unknown" >
+			<PostId>1803</PostId>
+			<ParentPostId>649</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-09T01:46:12.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/442476414252908544
+			</EditDetails>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Post Closed" >
+			<PostId>1827</PostId>
+			<ParentPostId>649</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-11T16:18:33.267</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[183],"Voters":[{"Id":73,"DisplayName":"acheong87"}]}
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,1708 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>78</PostId>
+			<ParentPostId>29</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:58:46.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>38</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I'm trying to understand what I can assume about an "Imperial Stout" relative to a "Stout," etc.
+
+					I know anecdotally that they are "heavier," but online sources seem to lack agreement on a specific meaning, with some suggesting that they're hoppier, others saying they're higher alcohol content, and some using vague terms like "full-bodied".
+
+					Does "imperial" have a real, agreed-upon meaning, or is it just a marketing/description modifier that everyone uses differently?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>79</PostId>
+			<ParentPostId>29</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:58:46.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>38</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does the term "imperial" represent in beer styles or names?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>80</PostId>
+			<ParentPostId>29</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:58:46.433</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>38</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "4" InstanceType= "Post Closed" >
+			<PostId>104</PostId>
+			<ParentPostId>29</ParentPostId>
+			<Title>
+			"Post Closed"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:04:25.230</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>17</UserId>
+			</Contributors>
+			<EditDetails>
+				101
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					{"OriginalQuestionIds":[25],"Voters":[{"Id":17,"DisplayName":"Jon Ericson"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "5" InstanceType= "Initial Body" >
+			<PostId>109</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:05:17.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Stouts are stout, Pale Ales use pale malt, but where did the name porter come from?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "6" InstanceType= "Initial Title" >
+			<PostId>110</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:05:17.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is it called "porter"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "7" InstanceType= "Initial Tags" >
+			<PostId>111</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:05:17.293</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>26</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, porter, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "8" InstanceType= "Initial Body" >
+			<PostId>135</PostId>
+			<ParentPostId>55</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:16:34.620</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>38</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Pork Slap beer indicates that it's "all malt" in the way that implies an official distinction.  What does "all malt" indicate, assuming there's a standard requirement to use the term accurately.
+
+					![enter image description here][1]
+
+
+					  [1]: http://i.stack.imgur.com/BnjYJ.jpg
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "9" InstanceType= "Initial Title" >
+			<PostId>136</PostId>
+			<ParentPostId>55</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:16:34.620</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>38</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does "all malt" mean?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "10" InstanceType= "Initial Tags" >
+			<PostId>137</PostId>
+			<ParentPostId>55</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:16:34.620</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>38</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "11" InstanceType= "Initial Body" >
+			<PostId>146</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:20:42.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In the UK at least, a great many beers are marketed with a regular version and a fancier (more expensive) 'imported' version. For example: Carlsberg and Carlsberg 'Export'. Is there any reason why the imported beer might be reasonably different (such as the legality of certain brewing methods outside of the UK) or is this just marketing fluff?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "12" InstanceType= "Initial Title" >
+			<PostId>147</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:20:42.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the deal with 'imported' beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "13" InstanceType= "Initial Tags" >
+			<PostId>148</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:20:42.220</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "14" InstanceType= "Initial Body" >
+			<PostId>176</PostId>
+			<ParentPostId>70</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:29:01.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In some of the questions on this site, I've seen the word 'skunking' thrown around. What does it mean? I'm assuming it's a process that causes beer to go bad, and if so, what causes this process?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "15" InstanceType= "Initial Title" >
+			<PostId>177</PostId>
+			<ParentPostId>70</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:29:01.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is 'skunking'?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "16" InstanceType= "Initial Tags" >
+			<PostId>178</PostId>
+			<ParentPostId>70</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:29:01.690</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, skunking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "17" InstanceType= "Edit Title" >
+			<PostId>216</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T21:42:09.037</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>47</UserId>
+			</Contributors>
+			<EditDetails>
+				made the question title more specific
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What's the difference between an "export" beer and a regular beer from the same brewer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "18" InstanceType= "Initial Body" >
+			<PostId>425</PostId>
+			<ParentPostId>169</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T08:35:32.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What constitutes a draft beer, and how different is it? I see this term plastered on beer cans, but I have no idea what it means, or how it affects the beer's taste.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "19" InstanceType= "Initial Title" >
+			<PostId>426</PostId>
+			<ParentPostId>169</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T08:35:32.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is a draft beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "20" InstanceType= "Initial Tags" >
+			<PostId>427</PostId>
+			<ParentPostId>169</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T08:35:32.137</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					drinking, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "21" InstanceType= "Initial Body" >
+			<PostId>452</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:12:29.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between normal beer and trappist? Is there any difference in flavour or brewing style?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "22" InstanceType= "Initial Title" >
+			<PostId>453</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:12:29.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What's the difference between normal beer and trappist?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "23" InstanceType= "Initial Tags" >
+			<PostId>454</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T13:12:29.223</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>138</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "24" InstanceType= "Edit Tags" >
+			<PostId>498</PostId>
+			<ParentPostId>169</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:30:13.090</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<EditDetails>
+				Change tag to terminology
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "25" InstanceType= "Unknown" >
+			<PostId>499</PostId>
+			<ParentPostId>169</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T14:30:13.090</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 7 approved by 127 edit id of 19
+			</EditDetails>
+		</Instance>
+		<Instance Id= "26" InstanceType= "Unknown" >
+			<PostId>1065</PostId>
+			<ParentPostId>169</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-29T19:15:06.033</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/428607250551554048
+			</EditDetails>
+		</Instance>
+		<Instance Id= "27" InstanceType= "Edit Body" >
+			<PostId>1121</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-01-30T16:08:05.340</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 2 characters in body
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					In the UK at least, a great many beers are marketed with a regular version and a fancier (more expensive) 'export' version. For example: Carlsberg and Carlsberg 'Export'. Is there any reason why the imported beer might be reasonably different (such as the legality of certain brewing methods outside of the UK) or is this just marketing fluff?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "28" InstanceType= "Edit Tags" >
+			<PostId>1380</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:42.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<EditDetails>
+				terminology tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					terminology, trappist, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "29" InstanceType= "Unknown" >
+			<PostId>1381</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:42.350</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 407 approved by 73, 60 edit id of 68
+			</EditDetails>
+		</Instance>
+		<Instance Id= "30" InstanceType= "Edit Tags" >
+			<PostId>1382</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:44.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<EditDetails>
+				terminology tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					terminology, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "31" InstanceType= "Unknown" >
+			<PostId>1383</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:44.883</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 407 approved by 73, 60 edit id of 69
+			</EditDetails>
+		</Instance>
+		<Instance Id= "32" InstanceType= "Edit Tags" >
+			<PostId>1384</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:48.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>407</UserId>
+			</Contributors>
+			<EditDetails>
+				terminology tag
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, terminology, porter, varieties, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "33" InstanceType= "Unknown" >
+			<PostId>1385</PostId>
+			<ParentPostId>40</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-05T15:34:48.397</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 407 approved by 73, 60 edit id of 70
+			</EditDetails>
+		</Instance>
+		<Instance Id= "34" InstanceType= "Unknown" >
+			<PostId>1419</PostId>
+			<ParentPostId>181</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-06T01:36:03.897</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/431239838491508737
+			</EditDetails>
+		</Instance>
+		<Instance Id= "35" InstanceType= "Unknown" >
+			<PostId>1589</PostId>
+			<ParentPostId>70</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-14T07:37:34.683</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/434229918403411969
+			</EditDetails>
+		</Instance>
+		<Instance Id= "36" InstanceType= "Initial Body" >
+			<PostId>1627</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T07:10:43.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Here in Japan, draft beer is called nama (生) beer, or so my boss said. Referencing my [previous question][1], one answer said that draft beer is "pushed using gas, or drawn via a partial vacuum". I get the concept of the widget being used to facilitate that. However, canned draft beers in Japan have no widget at all! They come in different can sizes from very small to a liter size, and all have no widget whatsoever. So I wonder how it is classified as draft without having the characteristic of draft beer. Or am I missing something? Is it possible the term draft means something different around here? 
+
+
+					  [1]: http://beer.stackexchange.com/questions/169/what-is-a-draft-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "37" InstanceType= "Initial Title" >
+			<PostId>1628</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T07:10:43.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					How can canned beer be draft without the widget? (Japan-specific)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "38" InstanceType= "Initial Tags" >
+			<PostId>1629</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T07:10:43.110</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>127</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, draught, local, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "39" InstanceType= "Unknown" >
+			<PostId>1631</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-16T13:38:02.990</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/435045409766248449
+			</EditDetails>
+		</Instance>
+		<Instance Id= "40" InstanceType= "Unknown" >
+			<PostId>1668</PostId>
+			<ParentPostId>59</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-02-19T16:40:33.560</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/436178503877558272
+			</EditDetails>
+		</Instance>
+		<Instance Id= "41" InstanceType= "Initial Body" >
+			<PostId>1808</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T01:18:59.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>443</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a difference between Black Lager and Dark Lager, or is it just the name?
+
+					Since the recipes for Dark/Black Lagers seem to be quite varied, it is hard to tell if there are any majorly different components.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "42" InstanceType= "Initial Title" >
+			<PostId>1809</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T01:18:59.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>443</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Difference between Dark Lager and Black Lager
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "43" InstanceType= "Initial Tags" >
+			<PostId>1810</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-10T01:18:59.313</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>443</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					style, terminology, lager, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "44" InstanceType= "Unknown" >
+			<PostId>1834</PostId>
+			<ParentPostId>658</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-03-15T01:47:07.660</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/444650972481347584
+			</EditDetails>
+		</Instance>
+		<Instance Id= "45" InstanceType= "Initial Body" >
+			<PostId>1940</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T09:51:29.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					It seems that Ginger Beer has no barley, no hops, no wort, no malted anything; so why is it a _beer_?  Seems like it is closer to a cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "46" InstanceType= "Initial Title" >
+			<PostId>1941</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T09:51:29.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Why is it a Ginger _Beer_ and not a Ginger _Cider_?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "47" InstanceType= "Initial Tags" >
+			<PostId>1942</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T09:51:29.510</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, terminology, specialty-beers, additives, flavour, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "48" InstanceType= "Unknown" >
+			<PostId>1943</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-01T23:01:17.983</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/451132222587023362
+			</EditDetails>
+		</Instance>
+		<Instance Id= "49" InstanceType= "Edit Body" >
+			<PostId>1944</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					It seems that *Ginger Beer* has no barley, no hops, no wort, no malted anything; so why is it a _beer_?  Seems like it is closer to a cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "50" InstanceType= "Edit Title" >
+			<PostId>1945</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>69</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Why is it a Ginger "Beer" and not a Ginger "Cider"?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "51" InstanceType= "Unknown" >
+			<PostId>1946</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				Proposed by 69 approved by 112, -1 edit id of 90
+			</EditDetails>
+		</Instance>
+		<Instance Id= "52" InstanceType= "Edit Body" >
+			<PostId>1947</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-02T22:55:07.890</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>723</UserId>
+			</Contributors>
+			<EditDetails>
+				improved formatting 
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					It seems that *Ginger Beer* has no barley, no hops, no wort, no malted anything; so why is it a "beer"?  Seems like it is closer to a cider.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "53" InstanceType= "Edit Tags" >
+			<PostId>2023</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-04-13T23:27:11.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>80</UserId>
+			</Contributors>
+			<EditDetails>
+				Tag name: flavour -&gt; flavor
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, terminology, specialty-beers, additives, flavor, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "54" InstanceType= "Initial Body" >
+			<PostId>2186</PostId>
+			<ParentPostId>796</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-20T13:54:05.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>902</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I was picked up by someone on another SE site (unrelated) when I used the phrase "Some beers, like mead...(blah blah)" - Apparently a mead isn't a beer.  I'm good with that in the pedantic sense that it's *correct*, but I wasn't intending to be quite so specific, and was merely suggesting that I was not talking about spirits etc.  It got me thinking about the definition of what could, or could not be called a beer, and whether a beer is an actual drink at all, or just the name of the group of drinks that we call beers, but which really have more specific names and definitions.
+
+					The key phrase for me, in understanding it from a simple taxonomy point of view is that alcoholic drinks are essentially either *Beers Wines or Spirits*.  That's my starting point, which may well be rudimentary at best and wrong at worst
+
+					Using this definition, a Mead must clearly be a beer in the most basic definition; it's certainly not a win or spirit?  Obviously under beer you then have ales, lagers, ciders, perrys, meads, stouts, bitters and probably a million others, and probably further sublevels (dry cider, sweet cider, sparkling cider....), but is there a second level "beer" also at this level?
+
+					Really, is there actually a single specific drink that is a *beer* that is not further defined as, for example, an IPA, or a Stout?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "55" InstanceType= "Initial Title" >
+			<PostId>2187</PostId>
+			<ParentPostId>796</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-20T13:54:05.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>902</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the definition of Beer or the Beer "family" of drinks
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "56" InstanceType= "Initial Tags" >
+			<PostId>2188</PostId>
+			<ParentPostId>796</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-05-20T13:54:05.953</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>902</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					history, terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "57" InstanceType= "Initial Body" >
+			<PostId>3404</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-27T03:18:40.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1031</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I haven't been drinking for years. And over the last month, I've been trying a small variety of beers, but they all had a taste I can't put my finger on that I didn't like. I was starting to wonder if I had lost my taste for beer. However, I was lucky enough to have had a Becks the other day, because I remembered it was a beer I used to enjoy. Anyways, I really liked the Becks, so I'd like to know what I'm drinking and why I like it. Also what are other similar beers to Becks?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "58" InstanceType= "Initial Title" >
+			<PostId>3405</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-27T03:18:40.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1031</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What characteristics does Becks have, and what are similar beers?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "59" InstanceType= "Initial Tags" >
+			<PostId>3406</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-27T03:18:40.390</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1031</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					taste, terminology, german-beers, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "60" InstanceType= "Unknown" >
+			<PostId>3410</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-06-29T05:11:46.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/483115585782702080
+			</EditDetails>
+		</Instance>
+		<Instance Id= "61" InstanceType= "Initial Body" >
+			<PostId>3416</PostId>
+			<ParentPostId>898</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-01T03:09:04.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1047</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					In Japan, beer is classified in three types for taxation purposes: beer (66.6% of more of malt), happoshu ( under 66.6% malt and no added liqueur), third-type beer (contain some added liquerur)
+
+					Would happoshu be considered beer in other countries?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "62" InstanceType= "Initial Title" >
+			<PostId>3417</PostId>
+			<ParentPostId>898</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-01T03:09:04.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1047</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Would Japanese happoshu or third-category beer be considered beer in other countries?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "63" InstanceType= "Initial Tags" >
+			<PostId>3418</PostId>
+			<ParentPostId>898</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-01T03:09:04.450</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1047</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "64" InstanceType= "Initial Body" >
+			<PostId>3422</PostId>
+			<ParentPostId>899</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-01T11:08:55.620</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1043</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I have seen the expression "fl. oz" accompanied by a number in a lot of labels of beers. For instance, I have seen "9.4 fl. oz", "12 fl. oz", "11.2 fl. oz"... What do these numbers mean?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "65" InstanceType= "Initial Title" >
+			<PostId>3423</PostId>
+			<ParentPostId>899</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-01T11:08:55.620</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1043</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What does "fl. oz" mean?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "66" InstanceType= "Initial Tags" >
+			<PostId>3424</PostId>
+			<ParentPostId>899</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-01T11:08:55.620</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>1043</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "67" InstanceType= "Unknown" >
+			<PostId>3442</PostId>
+			<ParentPostId>898</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-04T11:33:00.177</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/485023466144690176
+			</EditDetails>
+		</Instance>
+		<Instance Id= "68" InstanceType= "Unknown" >
+			<PostId>3556</PostId>
+			<ParentPostId>899</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2014-07-26T12:45:45.817</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/#!/BeerStack/status/493014309388423168
+			</EditDetails>
+		</Instance>
+		<Instance Id= "69" InstanceType= "Question Protected" >
+			<PostId>6248</PostId>
+			<ParentPostId>889</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-02-17T18:14:08.200</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "70" InstanceType= "Initial Body" >
+			<PostId>6710</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-06T12:27:20.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					So my question is what are the requirements for micropubs?
+					Are there any specifications on room size, interior, beers, staff?
+					Has anyone got experience in setting up and running a micropub and can give more insights about what are key factors?
+					(pub and micropub are not existing tags, can anyone with 150 rep add the tags pub and micropub please?)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "71" InstanceType= "Initial Title" >
+			<PostId>6711</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-06T12:27:20.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What are the requirements for a micropub?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "72" InstanceType= "Initial Tags" >
+			<PostId>6712</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-06T12:27:20.387</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "73" InstanceType= "Edit Title" >
+			<PostId>6713</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Edit Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-06T14:03:19.633</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4175</UserId>
+			</Contributors>
+			<EditDetails>
+				edited title
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					What are requirements for a micropub?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "74" InstanceType= "Edit Body" >
+			<PostId>6715</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-07T18:07:29.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 105 characters in body; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					So my question is what are the requirements for micropubs?
+					Are there any specifications on room size, interior, beers, staff?
+					Has anyone got experience in setting up and running a micropub and can give more insights about what are key factors?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "75" InstanceType= "Edit Tags" >
+			<PostId>6716</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-07-07T18:07:29.907</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>73</UserId>
+			</Contributors>
+			<EditDetails>
+				deleted 105 characters in body; edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					terminology, micropub, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "76" InstanceType= "Initial Body" >
+			<PostId>8077</PostId>
+			<ParentPostId>4606</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-26T10:48:52.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I know there are certain words experts use when they talk about wine. Categories of taste, colour etc.
+
+					This is of course a matter of creativity and subjectivity, like describing a beer as “chocolaty” or “nutty” despite there being no chocolate or nuts in it.
+
+					But is there an established vocabulary in beer-tasting? Where could I find a list of words, and a description of these properties? For beer, what are the magic words so abundantly found in wine culture?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "77" InstanceType= "Initial Title" >
+			<PostId>8078</PostId>
+			<ParentPostId>4606</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-26T10:48:52.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					What is the traditional vocabulary to describe the characteristics of beer?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "78" InstanceType= "Initial Tags" >
+			<PostId>8079</PostId>
+			<ParentPostId>4606</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-09-26T10:48:52.117</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4337</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, taste, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "79" InstanceType= "Unknown" >
+			<PostId>8116</PostId>
+			<ParentPostId>4606</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-07T20:16:52.730</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/651853721270386688
+			</EditDetails>
+		</Instance>
+		<Instance Id= "80" InstanceType= "Initial Body" >
+			<PostId>8151</PostId>
+			<ParentPostId>4635</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-15T17:40:05.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4626</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					A fake grassroots organization (one sponsored by an industry but made to look as though it was set up by regular people) is called an "astroturf" group. Is there a similar name for a "craft beer" that's actually produced by one of the big brewers (AB InBev, SABMiller, etc.)?
+
+					Said another way, what do you call a beer that is made to look as though it was brewed by a small, independent brewery but was really produced by a major brewer?
+
+					Examples might be Blue Moon (SABMiller) or ShockTop (AB InBev).
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "81" InstanceType= "Initial Title" >
+			<PostId>8152</PostId>
+			<ParentPostId>4635</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-15T17:40:05.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4626</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Is there a common name for a "craft" beer brewed by a major brewery?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "82" InstanceType= "Initial Tags" >
+			<PostId>8153</PostId>
+			<ParentPostId>4635</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-15T17:40:05.437</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>4626</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "83" InstanceType= "Unknown" >
+			<PostId>8177</PostId>
+			<ParentPostId>4635</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-10-21T18:33:48.810</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/656901213464698880
+			</EditDetails>
+		</Instance>
+		<Instance Id= "84" InstanceType= "Unknown" >
+			<PostId>8394</PostId>
+			<ParentPostId>3451</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2015-12-19T01:39:06.213</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				http://twitter.com/BeerStack/status/678026738404864002
+			</EditDetails>
+		</Instance>
+		<Instance Id= "85" InstanceType= "Edit Tags" >
+			<PostId>9860</PostId>
+			<ParentPostId>702</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2016-07-28T14:48:24.563</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5078</UserId>
+			</Contributors>
+			<EditDetails>
+				edited tags
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					history, flavor, terminology, additives, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "86" InstanceType= "Edit Body" >
+			<PostId>12507</PostId>
+			<ParentPostId>621</ParentPostId>
+			<Title>
+			"Edit Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-04-12T07:33:59.100</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<EditDetails>
+				replaced http://beer.stackexchange.com/ with https://alcohol.stackexchange.com/
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					Here in Japan, draft beer is called nama (生) beer, or so my boss said. Referencing my [previous question][1], one answer said that draft beer is "pushed using gas, or drawn via a partial vacuum". I get the concept of the widget being used to facilitate that. However, canned draft beers in Japan have no widget at all! They come in different can sizes from very small to a liter size, and all have no widget whatsoever. So I wonder how it is classified as draft without having the characteristic of draft beer. Or am I missing something? Is it possible the term draft means something different around here? 
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/169/what-is-a-draft-beer
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "87" InstanceType= "Question Protected" >
+			<PostId>13059</PostId>
+			<ParentPostId>899</ParentPostId>
+			<Title>
+			"Question Protected"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-07-17T00:50:48.030</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>-1</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					{"Voters":[{"Id":-1,"DisplayName":"Community"}]}
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "88" InstanceType= "Initial Body" >
+			<PostId>13171</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-27T20:23:34.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7053</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I find drinks that are traditionally served in stemmed glasses are difficult to carry (I'm a wheelchair user). What terminology would I use if I wanted to order a drink like a martini or Manhattan served in a rocks glass (but without the ice)? 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "89" InstanceType= "Initial Title" >
+			<PostId>13172</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-27T20:23:34.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7053</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Ordering a Drink in Non-Traditional Glassware
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "90" InstanceType= "Initial Tags" >
+			<PostId>13173</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-27T20:23:34.080</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7053</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					glassware, terminology, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "91" InstanceType= "Edit Tags" >
+			<PostId>13174</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			"Edit Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-28T11:47:44.763</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>5064</UserId>
+			</Contributors>
+			<EditDetails>
+				Added a new tag.
+			</EditDetails>
+			<Body>
+				<Text Type="text">
+					glassware, terminology, substitutions, 
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "92" InstanceType= "Unknown" >
+			<PostId>13176</PostId>
+			<ParentPostId>6996</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2017-08-29T06:53:07.960</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/902423853904879617
+			</EditDetails>
+		</Instance>
+		<Instance Id= "93" InstanceType= "Unknown" >
+			<PostId>13975</PostId>
+			<ParentPostId>55</ParentPostId>
+			<Title>
+			Unknown
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-04-30T01:22:23.640</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+			</Contributors>
+			<EditDetails>
+				https://twitter.com/BeerStack/status/990763260663214088
+			</EditDetails>
+		</Instance>
+	</KnowledgeData>
+</KML>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="comments">
+		<Instance Id="1"  InstanceType= "comments" Score="0">
+			<PostId>5188</PostId>
+			<ParentPostId>7015</ParentPostId>
+			<Contributors>
+				<UserId>7119</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-22T01:12:25.267</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Also: Brisette (?) https://drive.google.com/open?id=0B0em4q8Q_8iEVzR0clcyb0YtU2c
+
+					Starka
+					https://drive.google.com/open?id=0B0em4q8Q_8iEUl9vLUFaSnJYQlE
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2"  InstanceType= "comments" Score="1">
+			<PostId>5189</PostId>
+			<ParentPostId>7015</ParentPostId>
+			<Contributors>
+				<UserId>6874</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-22T14:57:02.953</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					It's not **BR**isette, but **ANisette**. Marie Brizard is a french company, and you can find some of their [older products](http://www.prodimarques.com/sagas_marques/marie_brizard/marie_brizard.php) on this page. Unfortunately, can't find in english, NAA but just a comment, that someone can use if needed.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3"  InstanceType= "comments" Score="0">
+			<PostId>5190</PostId>
+			<ParentPostId>7015</ParentPostId>
+			<Contributors>
+				<UserId>6874</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-24T14:47:10.817</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					**Starka** has most probably been released by [Likwowin](http://likwowin.pl), a polish company. Again, nothing in English, sorry...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4"  InstanceType= "comments" Score="0">
+			<PostId>5191</PostId>
+			<ParentPostId>7015</ParentPostId>
+			<Contributors>
+				<UserId>7119</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-24T14:51:31.187</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Can I determine if they're worth selling?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="5"  InstanceType= "comments" Score="0">
+			<PostId>5192</PostId>
+			<ParentPostId>7015</ParentPostId>
+			<Contributors>
+				<UserId>6874</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-24T14:54:48.337</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I have asked a friend who speaks polish to help me with the translation, I'll let you know if she has time for me and can have a look at it (no promises here as she's quite busy). I can't tell about the price right now, and I'm not a specialist so I'd rather not say any stupid and priceless advice :)
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="6"  InstanceType= "comments" Score="0">
+			<PostId>5195</PostId>
+			<ParentPostId>7017</ParentPostId>
+			<Contributors>
+				<UserId>7059</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-26T02:02:55.517</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					really appreciated your advice, thanks Rod...
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="7"  InstanceType= "comments" Score="0">
+			<PostId>5199</PostId>
+			<ParentPostId>6800</ParentPostId>
+			<Contributors>
+				<UserId>7140</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-09-26T23:28:29.923</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					I don't understand why you can't use a refractometer IF the ABV is known (or at least published). Further, if you can distill off the alcohol, just boil off the water as well. Except for trace chemicals and elements, you should be left with plain sugar which should be in crystalized form at that point, and you can just weigh it.
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="8"  InstanceType= "comments" Score="0">
+			<PostId>5216</PostId>
+			<ParentPostId>7015</ParentPostId>
+			<Contributors>
+				<UserId>7168</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-07T16:22:24.230</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					Strega is still sold in Italy
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="9"  InstanceType= "comments" Score="0">
+			<PostId>5217</PostId>
+			<ParentPostId>6967</ParentPostId>
+			<Contributors>
+				<UserId>7168</UserId>
+			</Contributors>
+			<TimeStamp>
+				<CreationDate>2017-10-07T16:29:20.963</CreationDate>
+			</TimeStamp>
+			<Body>
+				<Text Type="text">
+					A point is that there is not head in wine. Head as you mean contains chemicals which derives from distilling grapes etc. They are not produced by sugar fermentation in wine, or better, they level stays low right because the final product is not distilled. Moreover, a little amount of methanol is not dangerous if diluted by ethanol
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

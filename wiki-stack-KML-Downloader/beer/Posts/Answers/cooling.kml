@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="answer">
+		<Instance Id="1" InstanceType="answer">
+			<PostId>2175</PostId>
+			<ParentPostId>2164</ParentPostId>			<Tags>
+				<tag>keg</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-01-05T15:58:06.133</CreationDate>
+				<LastActivityDate>2015-01-05T15:58:06.133</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;I know I'm a few days late but the worry I'd have leaving a keg outside in cold weather is the pressure changes.  CO2 absorbs more in colder conditions, but if anything freezes, even partially, CO2 gets driven out of solution.  Normally when you refrigerate kegs indoors they're hooked up to gas, so as pressure in the headspace drops it's less likely the keg will unseal itself.  Also, if the keg did freeze a bit the CO2 being forced into the headspace could conceivably go over the pressure limits of the keg, depending on how carbonated it was to begin with among other things.&lt;/p&gt;
+
+					&lt;p&gt;Think of leaving a bottle or can in the freezer to chill it quickly then forgetting about it.  Odds are instead of a beersicle you got beer and glass sprayed all over the inside of your icebox.  It's anecdotal, I'll admit, but I've seen it happen so I wouldn't risk a keg and either leave it outside uncarbonated or chill it in a temperature controlled fridge.&lt;/p&gt;
+
+					&lt;p&gt;Anyway, this is long since past so my fear mongering is moot.  Let us know how it went for you.  You should be able to leave and accept an answer to your own question and it would be good for the site.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="2" InstanceType="answer">
+			<PostId>3263</PostId>
+			<ParentPostId>3261</ParentPostId>			<Tags>
+				<tag>taste</tag>
+				<tag>storage</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-02-19T15:22:03.537</CreationDate>
+				<LastEditDate>2015-02-20T20:21:34.180</LastEditDate>
+				<LastActivityDate>2015-02-20T20:21:34.180</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+				<LastEditorUserId>477</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Temperature changes aren't great for beers, especially hoppy beers, because temperature swings of greater than 20 degrees will degrade flavor.  But it takes a LOT of that to produce a noticeable effect.&lt;/p&gt;
+
+					&lt;p&gt;Most beer probably went through a few cycles of heating and cooling before it gets to your fridge, especially in the summer.  You know, maybe cold in the brewery but warmed in the truck before cooled in the warehouse then warm in the truck again before hitting a store's cooler.&lt;/p&gt;
+
+					&lt;p&gt;It'd be hard to notice anything.  Hoppy beers might have their big aromas fade a bit or get a less smooth bitterness.  Anecdotally, some of the smoother DIPA style beers with big floral or citrus hop smells/tastes might degrade into more biting bitter territory.&lt;/p&gt;
+
+					&lt;p&gt;Big beers made for aging will generally be forgiving but heating and cooling them a lot might make them taste flatter or cardboardy.  But again, we're talking several upon several times before anything noticeable happens.&lt;/p&gt;
+
+					&lt;p&gt;Long story short...it's probably not going to do anything you're going to notice chilling unopened beers back down from room temperature.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="3" InstanceType="answer">
+			<PostId>3283</PostId>
+			<ParentPostId>2164</ParentPostId>			<Tags>
+				<tag>keg</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-03-08T16:42:34.160</CreationDate>
+				<LastActivityDate>2015-03-08T16:42:34.160</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>529</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;If I want to cool something really quick and not using a fire extinguisher, I use the method I saw on Myth Busters: Find a container that will hold the item you want to chill, add ice, water, and salt. Even on a hot day you can chill things real fast using this method.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id="4" InstanceType="answer">
+			<PostId>3398</PostId>
+			<ParentPostId>3395</ParentPostId>			<Tags>
+				<tag>specialty-beers</tag>
+				<tag>trappist</tag>
+				<tag>cooling</tag>
+			</Tags>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2015-06-04T13:40:41.950</CreationDate>
+				<LastActivityDate>2015-06-04T13:40:41.950</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>268</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;Cellar temperature is generally anywhere between 7-18 degrees Celsius (45-65F) though people don't often go above 13C (55F), so there's a decent range to be in.&lt;/p&gt;
+
+					&lt;p&gt;You can use your fridge.  For comparison you can fill a glass with the same volume of liquid and set it next to the bottle, leaving a thermometer in it.  As long as they start off near the same temperature, that'll give you a pretty close approximation of the current temperature of the beer.  It might be easier to chill to the fridge temperature then let them warm back up.  It's not going to damage the beer and most fridges are close to the bottom end of "cellar" anyway so it won't take too long to warm up to where you want it.  Evaporation and glass thickness are going to create a difference, but given the range of temperatures, it should be close enough.&lt;/p&gt;
+
+					&lt;p&gt;If you wanted to get really fancy, water is a much better conductor of thermal energy than air.  You could get a large jug and fill it with 13C water, then put one of the Westy bottles in it for maybe 10-20 minutes, stirring frequently.&lt;/p&gt;
+
+					&lt;p&gt;Though all that said, when trying expensive and multifaceted beers like this, I really enjoy chilling them to my fridge temperature then nursing the beer for a good while to compare the flavors as it warms up.&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

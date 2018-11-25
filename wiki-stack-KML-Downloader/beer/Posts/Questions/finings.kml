@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="question">
+		<Instance Id= "1" InstanceType="question">
+			<PostId>583</PostId>
+			<Title>
+			"Does use of Isinglass require special mention on the beer?"
+			</Title>
+			<Tags>
+				<tag>finings</tag>
+			</Tags>
+			<Credit> 
+				<Score>13</Score>
+				<ViewCount>1285</ViewCount>
+				<AnswerCount>4</AnswerCount>
+				<CommentCount>8</CommentCount>
+			</Credit> 
+			<TimeStamp>
+				<CreationDate>2014-02-10T15:38:04.130</CreationDate>
+				<LastEditDate>2014-02-10T18:36:34.960</LastEditDate>
+				<LastActivityDate>2014-02-11T00:20:18.107</LastActivityDate>
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserId>112</OwnerUserId>
+				<LastEditorUserId>112</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Isinglass"&gt;Isinglass&lt;/a&gt; is a fining - when added to beer it helps the beer clarify - and it's a form of collagen derived from fish swim bladders. &lt;/p&gt;
+
+					&lt;p&gt;Given that this is an animal-derived product, do breweries have to declare this on the packaging?&lt;/p&gt;
+
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

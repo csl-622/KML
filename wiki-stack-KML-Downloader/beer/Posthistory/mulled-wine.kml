@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="posthistory">
+		<Instance Id= "1" InstanceType= "Initial Body" >
+			<PostId>14145</PostId>
+			<ParentPostId>7321</ParentPostId>
+			<Title>
+			"Initial Body"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-01T16:05:07.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					I would like to take this [answer to an other question][1] as an opportunity to ask about an other speciality we Germans like to take in winter. It is about burning sugar with high-proof spirits. The German speciality is called "Feuerzangenbowle". It has different receipts whereas mainly mulled wine (with spices) is a basic substance and a sugarloaf is positioned over it. The sugarloaf then is burned by pouring rum (&gt;54 Vol-%) over it until all sugar is burned and melted down.
+
+					The interesting thing is, that I never had headache the day afterwards, even considering the high level of alcohol in the resulting product. I love it when the liquid in the pot it is still burning after sugarloaf has been melted down totally. Is it possible that burning eliminates the fusel alcohol and other "bad" ingredients of the spirits?
+
+
+					  [1]: https://alcohol.stackexchange.com/questions/7271/germany-loves-to-drink-gl%C3%BChwein-warm-wine-in-winter-where-else-in-the-world-d/7320#7320
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Initial Title" >
+			<PostId>14146</PostId>
+			<ParentPostId>7321</ParentPostId>
+			<Title>
+			"Initial Title"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-01T16:05:07.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					Winterhighlight "Feuerzangenbowle" without headache?
+				</Text>
+			</Body>
+		</Instance>
+		<Instance Id= "3" InstanceType= "Initial Tags" >
+			<PostId>14147</PostId>
+			<ParentPostId>7321</ParentPostId>
+			<Title>
+			"Initial Tags"
+			</Title>
+			<TimeStamp>
+ 				<CreationDate>2018-06-01T16:05:07.020</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<UserId>7702</UserId>
+			</Contributors>
+			<Body>
+				<Text Type="text">
+					spirits, mulled-wine, rum, 
+				</Text>
+			</Body>
+		</Instance>
+	</KnowledgeData>
+</KML>

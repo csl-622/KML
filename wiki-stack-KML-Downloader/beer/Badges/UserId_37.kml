@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="Badges">
+		<Instance Id="26"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Precognitive"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T20:52:17.033</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="89"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Supporter"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-21T21:12:20.640</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="363"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T14:59:29.947</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="364"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T14:59:29.947</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="373"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Teacher"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-22T16:10:10.030</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="648"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Critic"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-28T23:50:19.037</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="796"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Citizen Patrol"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-31T21:59:01.850</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="804"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Autobiographer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-01-31T23:36:39.557</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="828"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Informed"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-01T22:57:42.723</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="835"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Suffrage"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-01T23:34:42.537</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="836"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Vox Populi"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-01T23:54:42.707</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="951"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-05T17:57:26.003</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1060"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-10T20:05:32.113</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1132"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Enthusiast"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-19T00:10:45.177</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1146"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-19T16:16:38.620</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1147"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-19T16:16:38.620</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1176"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Commentator"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-24T21:02:10.910</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1212"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Editor"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-27T15:49:22.680</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1213"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Organizer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-02-27T15:49:22.680</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1281"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-03-14T01:44:18.093</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1292"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-03-18T14:55:59.873</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1293"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2014-03-18T15:42:07.210</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1362"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2014-03-30T12:39:32.827</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1479"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2014-04-25T15:09:35.463</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1494"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Fanatic"
+			</Title>
+			<TimeStamp>
+				<Date>2014-04-30T00:28:32.620</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1535"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-05-11T13:34:37.663</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1549"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Civic Duty"
+			</Title>
+			<TimeStamp>
+				<Date>2014-05-16T01:08:38.847</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1588"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-05-27T14:31:13.817</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1814"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Custodian"
+			</Title>
+			<TimeStamp>
+				<Date>2014-07-28T15:37:18.607</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="1910"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Quorum"
+			</Title>
+			<TimeStamp>
+				<Date>2014-08-31T19:34:23.140</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3617"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-15T13:22:20.783</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3654"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-21T21:12:52.617</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="3720"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Explainer"
+			</Title>
+			<TimeStamp>
+				<Date>2015-01-28T04:04:34.863</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4602"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Good Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2015-08-24T12:53:28.790</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4929"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Excavator"
+			</Title>
+			<TimeStamp>
+				<Date>2015-11-06T19:30:38.183</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="4944"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Cleanup"
+			</Title>
+			<TimeStamp>
+				<Date>2015-11-11T01:58:19.623</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5263"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2016-01-21T20:58:01.303</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5492"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Synonymizer"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-26T14:38:08.647</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5504"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-26T21:37:14.573</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5505"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2016-02-26T21:42:14.663</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5676"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Student"
+			</Title>
+			<TimeStamp>
+				<Date>2016-04-07T02:24:03.037</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="5693"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Self-Learner"
+			</Title>
+			<TimeStamp>
+				<Date>2016-04-10T23:00:25.650</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6325"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Constable"
+			</Title>
+			<TimeStamp>
+				<Date>2016-09-08T22:30:35.117</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6622"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2016-11-23T19:12:06.947</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6740"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Nice Question"
+			</Title>
+			<TimeStamp>
+				<Date>2016-12-28T07:43:21.333</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="6840"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2017-01-21T20:59:34.277</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7533"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Convention"
+			</Title>
+			<TimeStamp>
+				<Date>2017-06-04T04:04:21.540</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="7894"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Taxonomist"
+			</Title>
+			<TimeStamp>
+				<Date>2017-09-19T05:53:14.227</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8382"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Yearling"
+			</Title>
+			<TimeStamp>
+				<Date>2018-01-21T21:07:25.760</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8764"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Nice Answer"
+			</Title>
+			<TimeStamp>
+				<Date>2018-05-23T14:12:28.467</Date>
+			</TimeStamp>
+		</Instance>
+		<Instance Id="8765"  UserId="37" InstanceType= "badges">
+			<Title>
+			"Enlightened"
+			</Title>
+			<TimeStamp>
+				<Date>2018-05-23T14:35:59.950</Date>
+			</TimeStamp>
+		</Instance>
+	</KnowledgeData>
+</KML>
