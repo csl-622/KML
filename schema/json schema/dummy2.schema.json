@@ -1,0 +1,42 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "required": [
+    "dictionary"
+  ],
+  "properties": {
+    "dictionary": {
+      "$id": "#/properties/dictionary",
+      "type": "object",
+      "title": "The Dictionary Schema",
+      "required": [
+        "filename|filenames",
+        "count"
+      ],
+      "properties": {
+        "filename": {
+          "$id": "#/properties/dictionary/properties/README.md",
+          "type": "string",
+          "title": "The fileName Schema",
+          "default": "",
+          "examples": [
+            "- _versionCode_ **Integer** - _versionName_ **String** semantic versioning * **apk** * **apk** - - - Code practices "
+          ],
+          "pattern": "^(.*)$"
+        },
+        "count": {
+          "$id": "#/properties/dictionary/properties/count",
+          "type": "integer",
+          "title": "The Count Schema",
+          "default": 0,
+          "examples": [
+            1
+          ]
+        }
+      }
+    }
+  }
+}
