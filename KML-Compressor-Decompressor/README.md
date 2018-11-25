@@ -1,5 +1,5 @@
-KML Compressor
-==============
+KML Compressor Decompressor
+===========================
 These programs compresses and decompresses a KML file using diff algorithm inspired from git. 
 
 compressed_kml_generetor.py
