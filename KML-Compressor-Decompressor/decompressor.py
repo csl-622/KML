@@ -1,7 +1,9 @@
 import xml.etree.ElementTree as ET
 import xml.dom.minidom
 
-tree = ET.parse('compressed.kml')
+file_name = input("Enter compressed KML file path: ")
+
+tree = ET.parse(file_name)
 root = tree.getroot()
 last_rev = ""
 count = 0

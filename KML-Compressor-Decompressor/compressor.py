@@ -68,7 +68,9 @@ def encode(str1, str2):
 
 #Main function
 
-tree = ET.parse('IIT.kml')
+file_name = input("Enter path of KML file:")
+
+tree = ET.parse(file_name)
 root = tree.getroot()
 last_rev = ""
 count = 0
