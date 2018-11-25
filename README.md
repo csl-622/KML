@@ -12,12 +12,17 @@ All these Knowledge Building portals provide their data dumps in their own forma
 Components of this project
 --------------------------
 
-###KML-Compressor-Decompressor###
+### KML-Compressor-Decompressor
+Compresses text section of KML and decompresses any asked revision of article.
 
-###KML-for-Github###
+### KML-for-Github
+Geneartes KML for github from scraped data in json format.
 
-###Github-Spider###
+### Github-Spider
+Scrapes data from Github and stores as json files.
 
-###User-Agent-Spider###
+### User-Agent-Spider
+Scrapes many IP adressess to avoid blocking of scraper by Github.
 
-###Wiki-Satck-KML-Downloader###
+### Wiki-Satck-KML-Downloader
+Dowloads data from Wikipedia and Stackoverflow and then coverts it to KML.
