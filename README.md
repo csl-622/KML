@@ -21,6 +21,12 @@ Geneartes KML for github from scraped data in json format.
 ### Github-Spider
 Scrapes data from Github and stores as json files.
 
+### Github-Spider-Proxy-Rotated
+Github-Spider-Proxy-Rotated is an advanced version of the previous spider; it contains pipelines, middlewares,
+and throttling parameters, which is in the middleware and settings file. This spider is for advanced scraping.
+It has a bottleneck mechanism for limiting the number of HTTP requests per second, and also a technique for
+HTTP headers rotation.
+
 ### User-Agent-Spider
 Scrapes many user agent HTTP headers for Opera | Chrome | FireFox Browsers to avoid blocking of the Spider by Github.
 
