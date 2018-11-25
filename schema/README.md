@@ -1,1 +1,1 @@
-#This folder contains schema for Github, stackoverflow and wikipedia KMLs.
+This folder contains schema for Github, stackoverflow and wikipedia KMLs.
