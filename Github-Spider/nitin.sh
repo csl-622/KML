@@ -11,3 +11,5 @@ scrapy runspider dummy_spider2.py -o dummy2.json --nolog
 
 
 echo "Output files: dummy1.json | dummy2.json | haha.txt"
+
+echo "Done"
