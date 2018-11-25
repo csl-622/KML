@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KML>
+	<KnowledgeData Type="India">
+		<Instance Id="1" InstanceType= "wiki/text">
+			<RevisionId>249589348</RevisionId>
+			<TimeStamp>
+				<CreationDate>2008-11-04T05:46:22Z</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<LastEditorUserName>IndianGeneralist</LastEditorUserName>
+				<LastEditorUserId>1644722</LastEditorUserId>
+			</Contributors>
+			<EditDetails>
+				another name
+			</EditDetails>
+			<Body>
+				<Text Type="wiki/text" TextSize= "51">
+					#REDIRECT [[Indian Institute of Technology Indore]]
+				</Text>
+			</Body>
+			<sha1>tjp9w339arre8d4ws6dpd7aeieiwun2</sha1>
+		</Instance>
+		<Instance Id="2" InstanceType= "wiki/text">
+			<RevisionId>557120073</RevisionId>
+			<ParentId>249589348</ParentId>
+			<TimeStamp>
+				<CreationDate>2013-05-28T04:20:04Z</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<LastEditorUserName>49.201.182.171</LastEditorUserName>
+			</Contributors>
+			<Body>
+				<Text Type="wiki/text" TextSize= "122">
+					image          = [[Image:IIT Indore logo.svg|150px|IIT Indore Logo]] |
+					#REDIRECT [[Indian Institute of Technology Indore]]
+				</Text>
+			</Body>
+			<sha1>m9ecl2adr15qhn2pkicxlfu3clx8wj6</sha1>
+		</Instance>
+		<Instance Id="3" InstanceType= "wiki/text">
+			<RevisionId>557153740</RevisionId>
+			<ParentId>557120073</ParentId>
+			<TimeStamp>
+				<CreationDate>2013-05-28T11:10:33Z</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<LastEditorUserName>Tentinator</LastEditorUserName>
+				<LastEditorUserId>18334455</LastEditorUserId>
+			</Contributors>
+			<EditDetails>
+				[[WP:AES|←]]Redirected page to [[Indian Institute of Technology Indore]]
+			</EditDetails>
+			<Body>
+				<Text Type="wiki/text" TextSize= "51">
+					#REDIRECT [[Indian Institute of Technology Indore]]
+				</Text>
+			</Body>
+			<sha1>tjp9w339arre8d4ws6dpd7aeieiwun2</sha1>
+		</Instance>
+		<Instance Id="4" InstanceType= "wiki/text">
+			<RevisionId>602651710</RevisionId>
+			<ParentId>557153740</ParentId>
+			<TimeStamp>
+				<CreationDate>2014-04-03T23:28:16Z</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<LastEditorUserName>Xqbot</LastEditorUserName>
+				<LastEditorUserId>8066546</LastEditorUserId>
+			</Contributors>
+			<EditDetails>
+				Robot: Fixing double redirect to [[Indian Institute of Technology, Indore]]
+			</EditDetails>
+			<Body>
+				<Text Type="wiki/text" TextSize= "52">
+					#REDIRECT [[Indian Institute of Technology, Indore]]
+				</Text>
+			</Body>
+			<sha1>fyxkd3j2drvh9xpo47ksd11xuu2jo80</sha1>
+		</Instance>
+		<Instance Id="5" InstanceType= "wiki/text">
+			<RevisionId>602755088</RevisionId>
+			<ParentId>602651710</ParentId>
+			<TimeStamp>
+				<CreationDate>2014-04-04T17:58:15Z</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<LastEditorUserName>Xqbot</LastEditorUserName>
+				<LastEditorUserId>8066546</LastEditorUserId>
+			</Contributors>
+			<EditDetails>
+				Robot: Fixing double redirect to [[Indian Institute of Technology Indore]]
+			</EditDetails>
+			<Body>
+				<Text Type="wiki/text" TextSize= "51">
+					#REDIRECT [[Indian Institute of Technology Indore]]
+				</Text>
+			</Body>
+			<sha1>tjp9w339arre8d4ws6dpd7aeieiwun2</sha1>
+		</Instance>
+		<Instance Id="6" InstanceType= "wiki/text">
+			<RevisionId>670508825</RevisionId>
+			<ParentId>602755088</ParentId>
+			<TimeStamp>
+				<CreationDate>2015-07-08T12:23:40Z</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<LastEditorUserName>Xqbot</LastEditorUserName>
+				<LastEditorUserId>8066546</LastEditorUserId>
+			</Contributors>
+			<EditDetails>
+				Bot: Fixing double redirect to [[Indian Institute of Technology (Indore)]]
+			</EditDetails>
+			<Body>
+				<Text Type="wiki/text" TextSize= "53">
+					#REDIRECT [[Indian Institute of Technology (Indore)]]
+				</Text>
+			</Body>
+			<sha1>dtgxkzsrcodc5etfuygtzn9zobztfif</sha1>
+		</Instance>
+		<Instance Id="7" InstanceType= "wiki/text">
+			<RevisionId>670565320</RevisionId>
+			<ParentId>670508825</ParentId>
+			<TimeStamp>
+				<CreationDate>2015-07-08T19:58:20Z</CreationDate>
+			</TimeStamp>
+			<Contributors>
+				<LastEditorUserName>Xqbot</LastEditorUserName>
+				<LastEditorUserId>8066546</LastEditorUserId>
+			</Contributors>
+			<EditDetails>
+				Bot: Fixing double redirect to [[Indian Institute of Technology Indore]]
+			</EditDetails>
+			<Body>
+				<Text Type="wiki/text" TextSize= "51">
+					#REDIRECT [[Indian Institute of Technology Indore]]
+				</Text>
+			</Body>
+			<sha1>tjp9w339arre8d4ws6dpd7aeieiwun2</sha1>
+		</Instance>
+	</KnowledgeData>
+</KML>
