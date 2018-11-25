@@ -28,7 +28,7 @@ It has a bottleneck mechanism for limiting the number of HTTP requests per secon
 HTTP headers rotation. It outputs the results in JSON format.
 
 ### User-Agent-Spider
-Scrapes many user agent HTTP headers for Opera | Chrome | FireFox Browsers to avoid blocking of the Spider by Github.
+This spider gets the latest user-agent headers from an online forum, output of this file is directly put into use in other two spiders namely Github-Spider and Github-Spider-Proxy-Rotated. The result of this spider is a text file containing a list of HTTP headers which can is useful for spoofing browser's  HTTP request activity.
 
 ### Wiki-Satck-KML-Downloader
 Dowloads data from Wikipedia and Stackoverflow and then coverts it to KML.
