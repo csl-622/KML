@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-
+######################################################################################################
+###  WARNING: DO NOT PLAY WITH ANY CONFIGURATION: IT MAY LEAD TO BLACKLISTING OF YOUR ACCOUNT ########
+######################################################################################################
 # Scrapy settings for useragent project
 #
 # For simplicity, this file contains only settings considered important or
