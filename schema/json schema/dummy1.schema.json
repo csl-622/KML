@@ -1,0 +1,55 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "required": [
+    "RevisionId",
+    "TimeStamp",
+    "Contributors",
+    "EditDetails"
+  ],
+  "properties": {
+    "RevisionId": {
+      "$id": "#/properties/RevisionId",
+      "type": "string",
+      "title": "The Revisionid Schema",
+      "default": "",
+      "examples": [
+        "https://github.com/fossasia/susi_android/commit/81ea703825d1219d72d1eda15a18c7e0dd5c7654"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "TimeStamp": {
+      "$id": "#/properties/TimeStamp",
+      "type": "string",
+      "title": "The Timestamp Schema",
+      "default": "",
+      "examples": [
+        "2015-11-24T14:20:46Z"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "Contributors": {
+      "$id": "#/properties/Contributors",
+      "type": "string",
+      "title": "The Contributors Schema",
+      "default": "",
+      "examples": [
+        "himanshu-soni"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "EditDetails": {
+      "$id": "#/properties/EditDetails",
+      "type": "string",
+      "title": "The Editdetails Schema",
+      "default": "",
+      "examples": [
+        "Merge remote-tracking branch 'origin/master'"
+      ],
+      "pattern": "^(.*)$"
+    }
+  }
+}
