@@ -61,4 +61,8 @@ def GetFeaturedArticleDate(articleName):
 	else:
 		print('Something went wrong!', articleName)
 
+<<<<<<< HEAD
 print(GetFeaturedArticleDate('Woolly mammoth')) #yyyymmdd
+=======
+print(GetFeaturedArticleDate('Woolly mammoth')) #yyyymmdd
+>>>>>>> 324ee054bcfe3504e09b8784c2e1afe8191fb8c5
