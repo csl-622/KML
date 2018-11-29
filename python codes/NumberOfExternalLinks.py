@@ -7,9 +7,8 @@ import numpy as np
 import mwparserfromhell
 import matplotlib.pyplot as plt
 
-path = os.getcwd()
-path1 = path + '/wiki_data/FA'
-path2 = path + '/wiki_data/GA'
+path1 = "/home/paras/KML/resources"
+path2 = "/home/paras/KML/compressed-KML"
 filenamesFA = os.listdir(path1)
 filenamesGA = os.listdir(path2)
 
@@ -17,12 +16,12 @@ featuredArticleList = []
 goodArticleList = []
 
 for filename in filenamesFA:
-    if '.xml' in filename:
+    if '.kml' in filename:
         filename = path1+'/' + filename
         featuredArticleList.append(filename)
 
 for filename in filenamesGA:
-    if '.xml' in filename:
+    if '.kml' in filename:
         filename = path2+'/' + filename
         goodArticleList.append(filename)
 # featuredArticleList = ["Death Is Birth.xml"]
@@ -31,19 +30,11 @@ def ExternalLinks(articleName):
 	try:
 		tree = ec.parse(articleName) 
 		root = tree.getroot()
-
-		pageElement = root[1]
 		latestText = ''
 
-		for child in pageElement:
-			if 'revision' in child.tag:
-				for each in child:
-					if 'text' in each.tag:
-						try:
-							sizeOfArticle = int(each.attrib['bytes'])
-							latestText = each.text
-						except:
-							continue
+		for each in root.iter('Text'):
+			sizeOfArticle = len(each.text)
+			latestText = each.text
 
 		# print(latestText)
 		wikicode = mwparserfromhell.parse(latestText)
@@ -83,8 +74,8 @@ def main5():
 
     plt.xlabel('Articles', fontsize=12)
     plt.ylabel('Number of External Links', fontsize=12)
-    plt.scatter(xAxis,ExternalLinksListFA, c='b',s=sc, marker='o',label='Number Of External Links in FA')
-    plt.scatter(xAxis,ExternalLinksListGA, c='r',s=sc, marker='^',label='Number Of External Links in GA')
+    plt.scatter(xAxis,ExternalLinksListFA, c='b',s=sc, marker='o',label='Number Of External Links in KML')
+    plt.scatter(xAxis,ExternalLinksListGA, c='r',s=sc, marker='^',label='Number Of External Links in compressed-KML')
     plt.legend()
     plt.savefig('numberOfExternalLinks.png',dpi=800)
     plt.show()    

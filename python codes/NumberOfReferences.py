@@ -1,61 +1,61 @@
 import requests
 import os
 import numpy as np
-from bs4 import BeautifulSoup
+import xml.etree.cElementTree as ec
 
-path = os.getcwd()
-# path = path + '/WikiData/GoodArticles/'
-filenames = os.listdir(path)
+path1 = "/home/paras/KML/resources/"
+path2 = "/home/paras/KML/compressed-KML/"
+FAfilenames = os.listdir(path1)
+GAfilenames = os.listdir(path2)
 
 featuredArticleList = []
-for filename in filenames:
-    if '.xml' in filename:
-        # filename = path + filename
+featuredArticleList2 = []
+for filename in FAfilenames:
+    if '.kml' in filename:
+        filename = path1 + filename
         featuredArticleList.append(filename)
+        
+for filename in GAfilenames:
+    if '.kml' in filename:
+        filename = path2 + filename
+        featuredArticleList2.append(filename)
 
-# featuredArticleList = ['Arabian Sea.xml']
 
 def NumberOfReferences(articleName):
-	url = 'https://en.wikipedia.org/wiki/' + articleName
-	headers = {
-		'user-agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Mobile Safari/537.36'
-	}
+	tree = ec.parse(articleName) 
+	root = tree.getroot()
+	count = 0
+	for each in root.iter('Text'):
+			if each.find("==References==") != -1:
+				count += 1
+	return count
 
-	r = requests.get(url, headers=headers)
-
-	# try:
-	if r.status_code == 200:
-		html = r.text
-		soup = BeautifulSoup(html, 'lxml')
-
-		count = 0
-		for link in soup.find_all('ol','references'):
-			for child in link:
-				if child.name != None:	
-					count += 1
-
-		print(articleName + ' ' + str(count))
-		return count
-
-	else:
-		print('\n' + 'Error! ' + articleName + '\n')
-		return -1
-
-	# except:
-	# 	print('\n' + 'Error! ' + articleName + '\n')
-	# 	return -1
 
 def main4():
 	numberOfReferencesList = []
 	references = 0
 	for articleName in featuredArticleList:
-		articleName = articleName[:-4]
-		# articleName = articleName.split('/')[-1]
 		references = NumberOfReferences(articleName)
 		if references != -1:
 			numberOfReferencesList.append(references)
 
-	numberOfReferencesList = np.array(numberOfReferencesList)
-	print(str(np.mean(numberOfReferencesList)) + ' ' + str(np.std(numberOfReferencesList)))
+	npArray = np.array(numberOfReferencesList)
+	print("KML")
+	print("===")
+	print('Mean number of Refrences ' + str(np.mean(npArray)))
+	print('Standard Deviation ' + str(np.std(npArray)) + '\n')
+
+	numberOfReferencesList2 = []
+	references2 = 0
+	for articleName in featuredArticleList2:
+		references2 = NumberOfReferences(articleName)
+		if references2 != -1:
+			numberOfReferencesList2.append(references)
+
+	npArray = np.array(numberOfReferencesList2)
+	print("Compressed KML")
+	print("==============")
+	print('Mean number of References ' + str(np.mean(npArray)))
+	print('Standard Deviation ' + str(np.std(npArray)) + '\n')
 
 main4()

@@ -1,0 +1,176 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>WHO</title>
+    <ns>0</ns>
+    <id>890240</id>
+    <redirect title="World Health Organization" />
+    <revision>
+      <id>5119934</id>
+      <timestamp>2004-08-10T13:33:21Z</timestamp>
+      <contributor>
+        <username>Sverdrup</username>
+        <id>30200</id>
+      </contributor>
+      <comment>WHO moved to WHO (disambiguation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35">#REDIRECT [[WHO (disambiguation)]]
+</text>
+      <sha1>0coqyq5ubxquiry6b6csyry4u66k7vh</sha1>
+    </revision>
+    <revision>
+      <id>16686078</id>
+      <parentid>5119934</parentid>
+      <timestamp>2004-08-10T13:33:53Z</timestamp>
+      <contributor>
+        <username>Sverdrup</username>
+        <id>30200</id>
+      </contributor>
+      <comment>#REDIRECT [[World Health Organization]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39">#REDIRECT [[World Health Organization]]</text>
+      <sha1>sroiauqwvwbxyi77g4euo1bex11ue2q</sha1>
+    </revision>
+    <revision>
+      <id>410470665</id>
+      <parentid>16686078</parentid>
+      <timestamp>2011-01-28T00:18:48Z</timestamp>
+      <contributor>
+        <username>Paine Ellsworth</username>
+        <id>9092818</id>
+      </contributor>
+      <comment>add Rcat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52">#REDIRECT [[World Health Organization]]{{R acronym}}</text>
+      <sha1>a0qh4jip9g4smiymm2ubxdoe79usj9p</sha1>
+    </revision>
+    <revision>
+      <id>414383237</id>
+      <parentid>410470665</parentid>
+      <timestamp>2011-02-17T05:30:46Z</timestamp>
+      <contributor>
+        <username>Mclay1</username>
+        <id>1915689</id>
+      </contributor>
+      <comment>categorisation per [[WP:RE/SG]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="88">#REDIRECT [[World Health Organization]]
+
+{{This is a redirect|from acronym|printworthy}}</text>
+      <sha1>pckvwkog71ycuu18hw03rtfu8msxuph</sha1>
+    </revision>
+    <revision>
+      <id>640305034</id>
+      <parentid>414383237</parentid>
+      <timestamp>2014-12-30T23:23:22Z</timestamp>
+      <contributor>
+        <username>Djr13</username>
+        <id>2896805</id>
+      </contributor>
+      <comment>initialism, not acronym</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="91">#REDIRECT [[World Health Organization]]
+
+{{This is a redirect|from initialism|printworthy}}</text>
+      <sha1>m7dd6zj1e2i52rxvoq5g0f4ffrbtcxd</sha1>
+    </revision>
+    <revision>
+      <id>777069481</id>
+      <parentid>640305034</parentid>
+      <timestamp>2017-04-25T01:43:13Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */Replace deprecated template., replaced: {{This is a redirect| → {{Redirect category shell| using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="96">#REDIRECT [[World Health Organization]]
+
+{{Redirect category shell|from initialism|printworthy}}</text>
+      <sha1>g3mimvsiy1o05usl45h7mx0r6ydpnwv</sha1>
+    </revision>
+    <revision>
+      <id>777082964</id>
+      <parentid>777069481</parentid>
+      <timestamp>2017-04-25T03:37:37Z</timestamp>
+      <contributor>
+        <username>BD2412bot</username>
+        <id>25180159</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */Undo edit to prep for more complex bot solution., replaced: {{Redirect category shell| → {{This is a redirect| using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="91">#REDIRECT [[World Health Organization]]
+
+{{This is a redirect|from initialism|printworthy}}</text>
+      <sha1>m7dd6zj1e2i52rxvoq5g0f4ffrbtcxd</sha1>
+    </revision>
+    <revision>
+      <id>778161540</id>
+      <parentid>777082964</parentid>
+      <timestamp>2017-05-01T14:15:39Z</timestamp>
+      <contributor>
+        <username>Rich Farmbrough</username>
+        <id>82835</id>
+      </contributor>
+      <comment>Update deprecated redirect template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="126">#Redirect [[World Health Organization]]
+
+{{Redirect category shell|1=
+{{Redirect from initialism}}
+{{Redirect printworthy}}
+}}</text>
+      <sha1>h5aj9txen0aggbp2dp7vbwywk7f9duf</sha1>
+    </revision>
+  </page>
+</mediawiki>
