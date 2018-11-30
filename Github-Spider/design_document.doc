@@ -1,1 +1,5 @@
+### Github-Spider
+This multithreaded web-spider follows the rules of /robots.txt file and is useful for fetching small sized GitHub repositories. It outputs the results in JSON format.
 
+
+![alt text](https://github.com/csl-622/KML/blob/master/images/spider1.png)
