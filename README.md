@@ -48,6 +48,10 @@ HTTP headers rotation. It outputs the results in JSON format.
 ### User-Agent-Spider
 This spider gets the latest user-agent headers from an online forum, output of this file is directly put into use in other two spiders namely Github-Spider and Github-Spider-Proxy-Rotated. The result of this spider is a text file containing a list of HTTP headers which can is useful for spoofing browser's  HTTP request activity.
 
+
+
+![alt text](https://github.com/csl-622/KML/blob/master/images/useragent.png)
+
 ### Wiki-Satck-KML-Downloader
 Dowloads xml from Wikipedia and Stackexchange for any given topic from user then coverts it to KML. The topics for wikipedia can be name of any page on wikipedia like UNO while for stackexchange the topics can any of the sub-site name of stackexchange like beer for beer.stackexchange.com, all these sites are listed in site_list.txt inside Wiki-Stack-KML-Downloader folder.
 
