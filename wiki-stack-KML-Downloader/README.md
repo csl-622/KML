@@ -1,5 +1,5 @@
-# Wikipedia and Stackoverfow KML Downloader
-These programs dowload data for any asked topic from wikipedia and stackoverflow and then finally saves it in KML format.
+# Wikipedia and Stackexchange KML Downloader
+These programs dowload data for any asked topic from wikipedia and stackexchange and then finally saves it in KML format.
 
 ## wiki_KML_downloader.py
 Downloads data from wkipedia and then coverts it into KML.
