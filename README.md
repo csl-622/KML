@@ -33,6 +33,9 @@ We had to make KML for github and we had KML for wikipedia earlier. The attempt 
 ### Github-Spider
 This multithreaded web-spider follows the rules of /robots.txt file and is useful for fetching small sized GitHub repositories. It outputs the results in JSON format.
 
+
+![alt text](https://github.com/csl-622/KML/blob/master/images/spider1.png)
+
 ### Github-Spider-Proxy-Rotated
 Github-Spider-Proxy-Rotated is an advanced version of the previous spider; it contains pipelines, middlewares,
 and throttling parameters, which is in the middleware and settings file. This spider is for advanced scraping.
