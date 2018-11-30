@@ -75,9 +75,9 @@ def ArticleLengthKML(articleName):
                     KML_article_len.append(len(words_set)) 
 
 
-def main():
-    ArticleLength(path)
-    ArticleLengthKML(path2)
+def main(x, y):
+    ArticleLength(x)
+    ArticleLengthKML(y)
     # line 1 points 
     y1 = XML_article_len 
     x1 = [i+1 for i in range(len(XML_article_len))] 
@@ -100,8 +100,7 @@ def main():
     # show a legend on the plot 
     plt.legend() 
       
-    plt.savefig('Number of Proper Nouns vs Revision')  
+    plt.savefig('AnalysisFigs/Number of Proper Nouns vs Revision')  
     # function to show the plot 
-    plt.show() 
+#    plt.show() 
 
-main()

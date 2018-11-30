@@ -47,9 +47,9 @@ def ArticleLengthKML(articleName):
                     KML_article_len.append(len(each[0].text))
 
 
-def main():
-    ArticleLength(path)
-    ArticleLengthKML(path2)
+def main(x, y):
+    ArticleLength(x)
+    ArticleLengthKML(y)
     # line 1 points 
     y1 = XML_article_len 
     x1 = [i+1 for i in range(len(XML_article_len))] 
@@ -72,9 +72,8 @@ def main():
     # show a legend on the plot 
     plt.legend() 
 
-    plt.savefig('Article Length vs Revision')  
+    plt.savefig('AnalysisFigs/Article Length vs Revision')  
       
     # function to show the plot 
-    plt.show() 
+#    plt.show() 
 
-main()
