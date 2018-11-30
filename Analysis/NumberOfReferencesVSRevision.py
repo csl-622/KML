@@ -74,6 +74,8 @@ def main():
 	  
 	# show a legend on the plot 
 	plt.legend() 
+
+    plt.savefig('Number of Refrences vs Revision')  
 	  
 	# function to show the plot 
 	plt.show() 

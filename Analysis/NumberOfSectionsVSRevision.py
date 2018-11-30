@@ -75,7 +75,9 @@ def main():
       
     # show a legend on the plot 
     plt.legend() 
-      
+
+    plt.savefig('Number of Sections vs Revision')  
+   
     # function to show the plot 
     plt.show() 
 

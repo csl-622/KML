@@ -60,7 +60,7 @@ def main():
     y2 = KML_article_len 
     x2 = [i+1 for i in range(len(KML_article_len))] 
     # plotting the line 2 points  
-    plt.plot(x2, y2, label = "KML") 
+    plt.plot(x2, y2, label = "KML", linestyle='dashed') 
       
     # naming the x axis 
     plt.xlabel('Revision number') 
@@ -71,6 +71,8 @@ def main():
       
     # show a legend on the plot 
     plt.legend() 
+
+    plt.savefig('Article Length vs Revision')  
       
     # function to show the plot 
     plt.show() 
