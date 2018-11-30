@@ -68,12 +68,16 @@ Finally, we plotted the running time of these analysis functions for compressed 
 ![alt text](https://github.com/csl-622/KML/blob/master/Analysis/AnalysisFigs/Article%20Length%20vs%20Revision.png)
 
 
-![alt text](https://github.com/csl-622/KML/blob/master/Analysis/AnalysisFigs/Number%20of%20Proper%20Nouns%20vs%20Revision.png)
 
 ![alt text](https://github.com/csl-622/KML/blob/master/Analysis/AnalysisFigs/Number%20of%20External%20Links%20vs%20Revision.png)\
 
 
+![alt text](https://github.com/csl-622/KML/blob/master/Analysis/AnalysisFigs/Number%20of%20Proper%20Nouns%20vs%20Revision.png)
+
+
+
+![alt text](https://github.com/csl-622/KML/blob/master/Analysis/AnalysisFigs/Number%20of%20Refrences%20vs%20Revision.png)
+
 ![alt text](https://github.com/csl-622/KML/blob/master/Analysis/AnalysisFigs/Number%20of%20Sections%20vs%20Revision.png)
 
 ![alt text](https://github.com/csl-622/KML/blob/master/Analysis/Time_Analysis.png)
-![alt text](https://github.com/csl-622/KML/blob/master/Analysis/AnalysisFigs/Number%20of%20Refrences%20vs%20Revision.png)
