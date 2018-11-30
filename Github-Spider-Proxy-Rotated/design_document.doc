@@ -1,1 +1,9 @@
 
+### Github-Spider-Proxy-Rotated
+Github-Spider-Proxy-Rotated is an advanced version of the previous spider; it contains pipelines, middlewares,
+and throttling parameters, which is in the middleware and settings file. This spider is for advanced scraping.
+It has a bottleneck mechanism for limiting the number of HTTP requests per second, and also a technique for
+HTTP headers rotation. It outputs the results in JSON format.
+
+
+![alt text](https://github.com/csl-622/KML/blob/master/images/proxy.jpg)
