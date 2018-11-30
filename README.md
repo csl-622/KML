@@ -27,6 +27,9 @@ These programs compresses and decompresses a KML file using diff algorithm inspi
 ### KML-for-Github
 We had to make KML for github and we had KML for wikipedia earlier. The attempt of this program is to retain the structure of KML for wkipedia while representing all the data in a git workflow in this newly generated KML file. We achived this by viewing each commit as a revision of an article on wikipedia. The revisions are not compressed unlike KML for wikipedia because the commits can be highly unrelated.
 
+
+![alt text](https://github.com/csl-622/KML/blob/master/images/github-logo.png)
+
 ### Github-Spider
 This multithreaded web-spider follows the rules of /robots.txt file and is useful for fetching small sized GitHub repositories. It outputs the results in JSON format.
 
