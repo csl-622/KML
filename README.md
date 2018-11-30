@@ -33,6 +33,6 @@ This spider gets the latest user-agent headers from an online forum, output of t
 ### Wiki-Satck-KML-Downloader
 Dowloads xml from Wikipedia and Stackexchange for any given topic from user then coverts it to KML. The topics for wikipedia can be name of any page on wikipedia like UNO while for stackexchange the topics can any of the sub-site name of stackexchange like beer for beer.stackexchange.com, all these sites are listed in site_list.txt inside Wiki-Stack-KML-Downloader folder.
 
-## Analysis
-Graphs are generated to compare compressed KML and XML on various performance measures like ArticleLength Vs Revision for KML and XML files which are plotted on same graph and saved. Similarly, we have performed analysis based on Number of revisons, Number of Images, Number of Nouns (using natural language processing module nltk), Number of sections etc VS Revision number and all these graphs are stored in AnalysisFig folder. 
-Finally, we plotted the running time of these analysis on XML and KML documnets and plotted on the same graph to show how a compressed KML can improve the runtime of various analysis with respect of simple XML.
+### Analysis
+Graphs are generated to compare compressed KML and XML on various performance metrics like change in ArticleLength Vs Revision for KML and XML files which are plotted on same graph. Similarly, we have performed analysis based on change in Number of revisons, Number of Images, Number of Nouns (using natural language processing module nltk), Number of sections etc VS Revision number and all these graphs are stored in AnalysisFig folder. 
+Finally, we plotted the running time of these analysis functions for compressed XML and KML documnets and plotted on the same graph to show how a compressed KML can improve the runtime of various analysis functions with respect to a simple XML.
