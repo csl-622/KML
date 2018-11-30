@@ -6,6 +6,7 @@ What is KML?
 KML stands for Knowledge Markup Language, a standard format for storing the data of all the Knowledge Building Portals. Knowledge Building portals like Wikipedia, Stack Exchange, GitHub, e.t.c provides their data dump in their own formats. We are trying to propose a new standard format for all these types of portals such that the analysis is easy.
 
 
+![alt text](https://github.com/csl-622/KML/blob/master/images/every.png)
 
 Need for KML
 ------------
