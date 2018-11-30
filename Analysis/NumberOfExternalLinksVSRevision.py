@@ -3,6 +3,8 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt
 import mwparserfromhell
+import time
+
 
 path = "/home/paras/KML/resources/Indian Institute of Technology Ropar.xml"
 path2 = "/home/paras/KML/compressed-KML/compressedIIT.kml"
@@ -55,8 +57,11 @@ def ArticleLengthKML(articleName):
 
 
 def main(x, y):
+    start = time.time()
     ArticleLength(x)
+    mid = time.time()
     ArticleLengthKML(y)
+    end = time.time()
     # line 1 points 
     y1 = XML_article_len 
     x1 = [i+1 for i in range(len(XML_article_len))] 
@@ -80,7 +85,8 @@ def main(x, y):
     plt.legend() 
  
     plt.savefig('AnalysisFigs/Number of External Links vs Revision')  
+
+    plt.close()
       
-    # function to show the plot 
-#    plt.show() 
+    return [start, mid, end]
 

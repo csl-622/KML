@@ -3,6 +3,7 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt
 import mwparserfromhell
+import time
 
 path = "/home/paras/KML/resources/Indian Institute of Technology Ropar.xml"
 path2 = "/home/paras/KML/compressed-KML/compressedIIT.kml"
@@ -51,32 +52,37 @@ def ArticleLengthKML(articleName):
 
 
 def main(x, y):
+	start = time.time()
 	ArticleLength(x)
+	mid = time.time()
 	ArticleLengthKML(y)
+	end = time.time()
+
 	# line 1 points 
 	y1 = XML_article_len 
 	x1 = [i+1 for i in range(len(XML_article_len))] 
 	# plotting the line 1 points  
 	plt.plot(x1, y1, label = "XML") 
-	  
+
 	# line 2 points 
 	y2 = KML_article_len 
 	x2 = [i+1 for i in range(len(KML_article_len))] 
 	# plotting the line 2 points  
 	plt.plot(x2, y2, label = "KML", linestyle='dashed') 
-	  
+
 	# naming the x axis 
 	plt.xlabel('Revision number') 
 	# naming the y axis 
 	plt.ylabel('Number of Refrences') 
 	# giving a title to my graph 
 	plt.title('Number of Refrences vs Revision') 
-	  
+
 	# show a legend on the plot 
 	plt.legend() 
 
 	plt.savefig('AnalysisFigs/Number of Refrences vs Revision')  
-	  
-	# function to show the plot 
-#	plt.show() 
+
+	plt.close()
+
+	return [start, mid, end]
 
