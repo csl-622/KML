@@ -42,6 +42,9 @@ and throttling parameters, which is in the middleware and settings file. This sp
 It has a bottleneck mechanism for limiting the number of HTTP requests per second, and also a technique for
 HTTP headers rotation. It outputs the results in JSON format.
 
+
+![alt text](https://github.com/csl-622/KML/blob/master/images/proxy.jpg)
+
 ### User-Agent-Spider
 This spider gets the latest user-agent headers from an online forum, output of this file is directly put into use in other two spiders namely Github-Spider and Github-Spider-Proxy-Rotated. The result of this spider is a text file containing a list of HTTP headers which can is useful for spoofing browser's  HTTP request activity.
 
