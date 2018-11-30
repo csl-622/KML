@@ -31,4 +31,8 @@ HTTP headers rotation. It outputs the results in JSON format.
 This spider gets the latest user-agent headers from an online forum, output of this file is directly put into use in other two spiders namely Github-Spider and Github-Spider-Proxy-Rotated. The result of this spider is a text file containing a list of HTTP headers which can is useful for spoofing browser's  HTTP request activity.
 
 ### Wiki-Satck-KML-Downloader
-Dowloads data from Wikipedia and Stackoverflow and then coverts it to KML.
+Dowloads xml from Wikipedia and Stackexchange for any given topic from user then coverts it to KML. The topics for wikipedia can be name of any page on wikipedia like UNO while for stackexchange the topics can any of the sub-site name of stackexchange like beer for beer.stackexchange.com, all these sites are listed in site_list.txt inside Wiki-Stack-KML-Downloader folder.
+
+## Analysis
+Graphs are generated to compare compressed KML and XML on various performance measures like ArticleLength Vs Revision for KML and XML files which are plotted on same graph and saved. Similarly, we have performed analysis based on Number of revisons, Number of Images, Number of Nouns (using natural language processing module nltk), Number of sections etc VS Revision number and all these graphs are stored in AnalysisFig folder. 
+Finally, we plotted the running time of these analysis on XML and KML documnets and plotted on the same graph to show how a compressed KML can improve the runtime of various analysis with respect of simple XML.
